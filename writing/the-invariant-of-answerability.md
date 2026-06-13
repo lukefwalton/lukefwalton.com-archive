@@ -73,7 +73,7 @@ This paper is **paper three** of the **Answerability Quartet** — four papers o
 
 ## Reference implementation
 
-[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676774) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). The general invariant this paper states is route-indefeasible; Answer Engine is one deployable shape of that discipline — the system owns the frame the model must satisfy.
+[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676773) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). The general invariant this paper states is route-indefeasible; Answer Engine is one deployable shape of that discipline — the system owns the frame the model must satisfy.
 
 Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and *Building Answerable AI* (forthcoming).
 

@@ -94,7 +94,7 @@ This article is **paper one** of the **Answerability Quartet** — four papers o
 
 ## Reference implementation
 
-[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676774) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). Site-level search that uses a language model without being a chatbot: one question in, cited answer or honest refusal out. The model may write the sentence; the system owns the frame — evidence boundaries, citation grounding, refusal modes, and gold-query evals stay outside the model.
+[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676773) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). Site-level search that uses a language model without being a chatbot: one question in, cited answer or honest refusal out. The model may write the sentence; the system owns the frame — evidence boundaries, citation grounding, refusal modes, and gold-query evals stay outside the model.
 
 Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and *Building Answerable AI* (forthcoming).
 

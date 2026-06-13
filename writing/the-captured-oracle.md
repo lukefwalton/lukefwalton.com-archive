@@ -79,7 +79,7 @@ This paper is **paper two** of the **Answerability Quartet** — four papers on 
 
 ## Reference implementation
 
-[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676774) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). This paper diagnoses covert authorship on the **verdict channel**; Answer Engine is the contrasting design: the authorial frame stays outside the model, citations must resolve to retrieved evidence, and refusals are tested.
+[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676773) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). This paper diagnoses covert authorship on the **verdict channel**; Answer Engine is the contrasting design: the authorial frame stays outside the model, citations must resolve to retrieved evidence, and refusals are tested.
 
 Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and *Building Answerable AI* (forthcoming).
 
