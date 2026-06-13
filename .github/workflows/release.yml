@@ -126,7 +126,10 @@ jobs:
             echo "Push race or rebase conflict; retry ${n} after backoff."
             sleep $((2 ** n))
           done
-          echo "Failed to push release after retries."
+          echo "Failed to push release after ${n} attempts."
+          echo "  - Non-fast-forward each time => the content sync kept racing; re-run."
+          echo "  - Outright rejection => check branch protection on main allows"
+          echo "    github-actions[bot] to push commits and tags."
           exit 1
 
       - name: Create GitHub release

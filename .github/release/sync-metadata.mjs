@@ -23,10 +23,17 @@ zenodo.version = next;
 writeFileSync('.zenodo.json', `${JSON.stringify(zenodo, null, 2)}\n`);
 
 let cff = readFileSync('CITATION.cff', 'utf8');
+// Top-level fields (column 0).
 cff = cff.replace(/^version: .+$/m, `version: ${next}`);
 cff = cff.replace(/^date-released: .+$/m, `date-released: "${today}"`);
-cff = cff.replace(/^(\s+version: ).+$/m, `$1${next}`);
-cff = cff.replace(/^(\s+date-released: ).+$/m, `$1"${today}"`);
+// Nested fields: scope the rewrite to the preferred-citation block (which runs to
+// EOF) so an indented version:/date-released: added elsewhere later can't be
+// matched by accident. The verification below still fails loudly on any drift.
+cff = cff.replace(/^preferred-citation:[\s\S]*$/m, (block) =>
+  block
+    .replace(/^(\s+version: ).+$/m, `$1${next}`)
+    .replace(/^(\s+date-released: ).+$/m, `$1"${today}"`),
+);
 
 const topVersion = cff.match(/^version: (.+)$/m)?.[1];
 const topDate = cff.match(/^date-released: "(.+)"$/m)?.[1];
