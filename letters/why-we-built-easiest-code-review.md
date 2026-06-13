@@ -1,0 +1,104 @@
+---
+title: "Why We Built the Easiest Code Review Tool on the Market"
+description: "A founder letter on building Surmado Code Review for founders, marketers, and small teams shipping AI-generated code."
+date: 2026-05-22
+origin: "https://www.surmado.com/blog/why-we-built-easiest-code-review"
+draft: false
+---
+
+*A partner, not a gatekeeper.*
+
+*Luke F. Walton · Founder, Surmado · May 2026*
+
+I wrote yesterday about why [code review isn't just for engineers anymore](/blog/code-review-isnt-just-for-engineers-anymore/). The short version: marketers, founders, and CEOs are shipping code now, and nobody built the review layer for them.
+
+This post is the other half of that story. Not the argument. The decision. Why we built [Surmado Code Review](/review/) the way we did, who it's actually for, and what we got wrong before we got it right.
+
+## We built it for ourselves first
+
+Surmado started as a small team building AI tools for small businesses. We were vibe coding constantly. Claude Code, Cursor, long sessions where the AI wrote most of the code and we directed it. The output was fast and the features were real.
+
+The problems were also real. Naming conventions drifted between sessions. Auth checks disappeared on routes we didn't touch. Logging patterns changed without anyone asking for it. The AI produced code that looked right, passed the build, and quietly introduced problems we didn't catch until later.
+
+We tried reviewing everything manually. That lasted about two weeks. The diffs were too big. The code looked too plausible. And we had too many other things to do.
+
+So we built an automated reviewer. Not for customers, for us. It ran on our own repos, against our own standards, on every pull request we pushed. We iterated on it for months before we ever opened it up.
+
+We're on version seven now. It runs across 14 internal repos. Every PR our team pushes goes through Surmado Code Review before a human looks at it.
+
+## The people we kept meeting
+
+While we were building, something kept happening. We'd talk to founders, agency owners, marketing leads. People who had started vibe coding their own sites, their own tools, their own landing pages. They were excited about what they could build. They were also nervous about what they might be shipping.
+
+The conversation was always some version of: "I know I should be reviewing this code, but I don't really know what to look for, and I don't have an engineer to ask."
+
+These weren't people who needed a complex dev tool with YAML configs and CI pipeline integrations. They needed something that would just work. Connect to GitHub, review their PRs, tell them what's good and what needs fixing, and do it in language they could act on.
+
+That's who we built this for. Not exclusively. Engineers use it too, and it holds up. But the design decisions all flow from one question: could someone who just started pushing code to GitHub last month use this without help?
+
+## What "easiest" actually means
+
+Every code review tool says it's easy. Here's what we mean by it.
+
+**No configuration.** You connect your GitHub account. That's the setup. No API keys, no YAML files, no CI pipeline to wire up. Two clicks.
+
+**Your standards are a conversation.** Most tools ask you to write a config file or pick from a menu of rules. We do something different. Scout, our AI agent, has a conversation with you. You tell it how you think about your codebase the same way you'd explain it to a new teammate: "We use snake_case. We always check auth on API routes. We never log PII." Scout turns that conversation into your STANDARDS.MD, the rulebook it reviews every PR against. If you don't know what your standards should be, that's fine. Tell Scout what you're building and what you're worried about. It'll fill in the gaps.
+
+**Reviews you can read.** Every review includes what's good (so you know what to keep doing), what needs work (tied to your standards, specific, actionable), questions to consider on edge cases, and a human reviewer brief if a teammate ever does look at it. It also screens for PII in your logs and checks data contracts if you've defined them. The output is structured so you know exactly where to look and what to do.
+
+**Seven languages.** The product, the review interface, and the documentation are available in English, Spanish, French, Portuguese, Japanese, Italian, and German. If your team or your customers operate in more than one language, so does your reviewer.
+
+## Why a focused tool, not a general-purpose AI
+
+This is the question we get most often: "Why wouldn't I just paste my code into ChatGPT?"
+
+You can. And you'll get a different answer every time, because a general-purpose model reviewing a PR has no constraints, no standards, and no structure for its output. The problem is unconstrained, so the output is inconsistent.
+
+We constrained the problem deliberately. Surmado Code Review focuses on three things: the diff (what actually changed), your STANDARDS.MD (the rules you defined), and a structured output format that organizes the review into categories you can act on. That constraint is the whole product. It's why the reviews are consistent, why they're useful on the first read, and why we can do 100 reviews for $15 instead of one review for $15. A focused problem costs less to solve well.
+
+But the real design choice is what the tool doesn't do. Some code review tools will rewrite your code or auto-apply fixes. We don't. You have more context than any AI about your project, your users, and your tradeoffs. The review gives you everything you need to make good decisions: what's working, what needs work, and the questions worth asking before you merge. You can copy the output straight into your coding AI and get a solid response. But the best practice is to read the review yourself, decide what's relevant, and use it to anchor your next round of changes.
+
+Your STANDARDS.MD isn't something you write once and forget. It's a living document. As you learn more about your codebase, as you discover patterns that keep going wrong, you update it through another conversation with Scout. The standards get sharper over time, the reviews get more targeted, and the problems Scout catches get smaller. That's the compounding effect we built for.
+
+## What it costs
+
+That focused approach is also why the pricing works the way it does.
+
+Using Claude directly to review a PR costs roughly $15 per review. That's fine if you're reviewing one critical PR a week. It's not fine if you're pushing code daily.
+
+Surmado Code Review is $15 a month for 100 PRs. That's not a typo. One hundred reviews for the price of one Claude review. No per-seat pricing. Unlimited repos. If you need more, additional packs of 100 are $15 each, and they never expire.
+
+There's also a free tier. Ten PRs a month, no credit card required. Enough to try it on your most active repo and see what it catches.
+
+We didn't set the [price](/pricing/) to compete with other code review tools. We set it so that price is never the reason someone skips review. If you're a solo founder pushing code to three repos, $15 a month should be a line item you never think about. That's the point.
+
+## What we don't do
+
+We don't store your code. We send the PR diff and your STANDARDS.MD to the AI provider at review time, generate the review, and discard the diff. We don't log it. We don't train models on it. The only thing that persists is the review comment posted to your PR, which lives in your GitHub repo under your control.
+
+We don't replace human reviewers. Scout does the first pass. If you have a teammate who reviews your code, they'll spend less time hunting for typos and convention violations and more time on architecture and intent. In our own team, Scout cut time-to-close by roughly 3x because the human reviewer could focus on what actually required judgment.
+
+We don't rewrite your code. Some tools will auto-apply fixes or push changes directly. We don't. If you want AI that generates code, there are great tools for that. Surmado Code Review gives you an honest assessment, up to your standards, and trusts you to decide what to do with it. The reviewer needs to be a different brain than the author, but the author still makes the final call. That's the whole point. We're a partner, not a gatekeeper.
+
+## The honest version
+
+We're a small company. We built [Scout](/scout/), the AI agent behind Surmado, for marketers and small businesses. That's our world. Code Review came out of that world, and it shows in every design decision: the conversational setup, the readable output, the price point, the zero-config onboarding. We get marketers because we are marketers who code.
+
+What I can tell you is this: if you are vibe coding a marketing site, a landing page, an internal tool, or anything that real people are going to use, and you don't have a code reviewer, you are flying without a net. Not because you're bad at this. Because nobody is good enough to review their own work.
+
+The free tier is there so you can see it for yourself. Connect one repo. Push one PR. Read the review. Then decide.
+
+---
+
+*[Start free at surmado.com/review →](/review/)*
+
+## Questions and Answers
+
+**What is Surmado Code Review?**
+Surmado Code Review is an automated code review service for GitHub. On every push to a pull request, Scout, Surmado's AI agent, reviews the diff against the team's STANDARDS.MD document. Reviews include structured output: what is good, what needs work, questions to consider, a human reviewer brief, PII screening, and data contract checks. Surmado does not store code diffs or use them for model training. The service is available in English, Spanish, French, Portuguese, Japanese, Italian, and German.
+
+**Who is Surmado Code Review for?**
+Surmado Code Review is designed for small teams (2 to 10 people), solo developers, founders who code, and non-engineers who ship code through vibe coding tools. Setup requires no YAML, no API keys, and no CI pipeline configuration. Standards are defined through a conversation with Scout rather than a config file. Engineers also use the product for consistent standards enforcement across repositories.
+
+**How is Surmado Code Review different from other AI code review tools?**
+Surmado Code Review constrains the AI review to three inputs: the pull request diff, the team's STANDARDS.MD, and a structured output format. This produces consistent, standards-based reviews rather than broad, unconstrained suggestions. The tool does not rewrite code or auto-apply fixes. It provides an honest assessment and trusts the developer to make tradeoff decisions. Pricing is $15 per month for 100 PRs with no per-seat pricing, compared to approximately $15 per individual PR for Claude Code review. Surmado Code Review is built by Surmado, a managed web presence platform for small businesses, which also offers Site Audit and AI Visibility products.
