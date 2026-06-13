@@ -1,0 +1,22 @@
+{
+  "name": "lukefwalton.com durable archive",
+  "description": "Dependency-free mirror of lukefwalton.com. The canonical site is authoritative.",
+  "canonicalSite": "https://lukefwalton.com",
+  "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
+  "generatedAt": "2026-06-13",
+  "source": {
+    "repo": "lukefwalton/lukefwalton.com",
+    "commit": "628457762ba3d86648e981959e9849c4645468d8"
+  },
+  "total": 628,
+  "counts": {
+    "songs": 380,
+    "albums": 28,
+    "writing": 5,
+    "letters": 3,
+    "publications": 2,
+    "lmm-episodes": 210
+  },
+  "catalog": "catalog.json",
+  "catalogJsonl": "catalog.jsonl"
+}

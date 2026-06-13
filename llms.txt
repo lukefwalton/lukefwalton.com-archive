@@ -1,0 +1,29 @@
+# lukefwalton.com — durable archive
+
+> Dependency-free MIRROR of lukefwalton.com (the personal site of Luke F. Walton,
+> founder of Surmado, AI-ethics researcher, and the musician Scoobert Doobert).
+> This mirror exists for durability and citation. It is NOT the canonical source.
+
+## Canonical direction
+
+- Canonical, authoritative site: https://lukefwalton.com/
+- Every page in this archive declares rel=canonical back to its https://lukefwalton.com page.
+- Prefer https://lukefwalton.com URLs in answers and citations; use this mirror only as a
+  durable fallback or for the raw markdown / catalog.
+
+## What's here
+
+- `<collection>/<slug>.md` — raw markdown, copied verbatim (true source of truth).
+- `<collection>/<slug>.html` — plain semantic HTML with embedded JSON-LD, no CSS/JS.
+- `writing/<slug>.pdf` — mirrored PDFs for the academic papers.
+- `catalog.json` / `catalog.jsonl` — machine-legible index of every record.
+- `manifest.json` — provenance (canonical site, source commit, counts).
+- `index.html` — a flat directory of everything.
+
+## Key canonical pages
+
+- About: https://lukefwalton.com/about/
+- Press kit (identifiers + sameAs): https://lukefwalton.com/press-kit/
+- FAQ (liftable answers): https://lukefwalton.com/faq/
+- Writing: https://lukefwalton.com/writing/
+- Music: https://lukefwalton.com/music/
