@@ -5,7 +5,7 @@ contains original material by Luke F. Walton together with third-party media or
 excerpts used for documentation, commentary, provenance, or archival context.
 Copyright in third-party materials remains with their respective owners.
 
-Unless otherwise marked, original code, prose, and metadata by Luke F. Walton
+Unless otherwise marked, original code, prose, metadata, and archive structure by Luke F. Walton
 are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 Third-party images, screenshots, audio, video, press materials, album art,

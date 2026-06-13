@@ -1,22 +1,22 @@
 # cff-version is the Citation File Format schema version, not the release version.
 cff-version: 1.2.0
 title: "lukefwalton.com: Durable Website Archive and Source Corpus"
-message: "If you cite this archive, please use the metadata below. (GitHub citation UI only — Zenodo reads .zenodo.json from the release snapshot.)"
+message: "If you cite this archive, please use the metadata below. GitHub citation UI reads this file; Zenodo release metadata is supplied separately."
 type: dataset
 authors:
   - family-names: Walton
     given-names: Luke F.
     affiliation: Independent Researcher
     orcid: "https://orcid.org/0009-0005-9263-1954"
-# After the first Zenodo deposit, add the concept DOI as the first identifier, e.g.:
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
+# Mixed-rights archive: intentionally no blanket `license:` field here — it would
+# flatten the whole citable object to one license. RIGHTS.md carries the rights
+# statement. After the first Zenodo deposit, add the concept DOI (type: doi) to
+# both identifiers and preferred-citation.
 identifiers:
   - type: url
     value: "https://github.com/lukefwalton/lukefwalton.com-archive"
 repository-code: "https://github.com/lukefwalton/lukefwalton.com-archive"
-url: "https://lukefwalton.com"
-license: CC-BY-NC-ND-4.0
+url: "https://github.com/lukefwalton/lukefwalton.com-archive"
 version: 1.0.0
 date-released: "2026-06-13"
 keywords:
@@ -31,7 +31,7 @@ abstract: >
   canonical site. Contains original material by Luke F. Walton together with
   third-party media or excerpts retained for documentation, commentary,
   provenance, or archival context; copyright in third-party materials remains
-  with their respective owners.
+  with their respective owners. See RIGHTS.md for rights and reuse terms.
 preferred-citation:
   type: dataset
   authors:
