@@ -87,14 +87,14 @@ bibtex: |
 
 This article is **paper one** of the **Answerability Quartet** — four papers on who answers when an AI acts.
 
-1. **This paper** — the special case ([Zenodo](https://doi.org/10.5281/zenodo.20622946) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [self-archive](/writing/the-decision-no-one-authored/))
-2. [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([PhilArchive](https://philpapers.org/rec/WALTCO-87) · [Zenodo](https://doi.org/10.5281/zenodo.20676328))
-3. [**The Invariant of Answerability**](/writing/the-invariant-of-answerability/) — the general invariant ([Zenodo](https://doi.org/10.5281/zenodo.20606493) · [self-archive](/writing/the-invariant-of-answerability/))
+1. **This paper** — the special case ([DOI](https://doi.org/10.5281/zenodo.20622946) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+2. [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676328) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+3. [**The Invariant of Answerability**](/writing/the-invariant-of-answerability/) — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 4. A fourth paper is forthcoming.
 
 ## Reference implementation
 
-[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([Zenodo](https://doi.org/10.5281/zenodo.20676774) · [Ask the Archive](/ask/about/)). Site-level search that uses a language model without being a chatbot: one question in, cited answer or honest refusal out. The model may write the sentence; the system owns the frame — evidence boundaries, citation grounding, refusal modes, and gold-query evals stay outside the model.
+[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676774) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). Site-level search that uses a language model without being a chatbot: one question in, cited answer or honest refusal out. The model may write the sentence; the system owns the frame — evidence boundaries, citation grounding, refusal modes, and gold-query evals stay outside the model.
 
 Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and *Building Answerable AI* (forthcoming).
 
