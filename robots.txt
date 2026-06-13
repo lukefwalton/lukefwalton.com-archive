@@ -1,0 +1,7 @@
+# lukefwalton.com durable archive — a crawlable MIRROR of lukefwalton.com.
+# Pages here rel=canonical back to lukefwalton.com, so crawling this mirror
+# consolidates authority on the canonical domain. All crawlers welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://lukefwalton.github.io/lukefwalton.com-archive/sitemap.xml

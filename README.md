@@ -18,15 +18,25 @@ For every published record:
 - `<collection>/<slug>.html` — plain semantic HTML, no CSS or JavaScript,
   with embedded JSON-LD. Readable in any browser with zero tooling, and a clean
   capture target for the Wayback Machine.
+- `writing/<slug>.pdf` — the academic papers' PDFs, mirrored alongside the
+  markdown so the most load-bearing records survive on their own.
 - `catalog.json` / `catalog.jsonl` — a machine-legible index of every record
   with full metadata. The "museum catalog."
 - `index.html` — a flat directory of everything.
+- `llms.txt` — a machine-readable pointer for answer engines.
+
+## Canonical direction
+
+This archive is a **mirror**, not the source. Every HTML page (and `index.html`)
+declares `rel=canonical` back to its page on [lukefwalton.com](https://lukefwalton.com),
+so search engines and answer engines consolidate authority on the canonical
+domain while this copy stays a durable, citable fallback.
 
 ## Contents
 
 - **songs**: 380
 - **albums**: 28
-- **writing**: 4
+- **writing**: 5
 - **letters**: 3
 - **publications**: 2
 - **lmm-episodes**: 210
