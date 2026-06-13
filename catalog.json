@@ -42607,7 +42607,7 @@
     "title": "The Captured Oracle",
     "type": "Article",
     "liveUrl": "https://lukefwalton.com/writing/the-captured-oracle/",
-    "canonicalUrl": "https://doi.org/10.5281/zenodo.20676328",
+    "canonicalUrl": "https://lukefwalton.com/writing/the-captured-oracle/",
     "archive": {
       "markdown": "writing/the-captured-oracle.md",
       "html": "writing/the-captured-oracle.html"
@@ -42624,7 +42624,7 @@
       "date": "2026-06-13T00:00:00.000Z",
       "version": "1.0",
       "status": "Preprint. Not yet peer-reviewed.",
-      "canonical": "https://doi.org/10.5281/zenodo.20676328",
+      "canonical": "https://lukefwalton.com/writing/the-captured-oracle/",
       "pdf": "https://lukefwalton.com/writing/the-captured-oracle.pdf",
       "record": "https://philpapers.org/rec/WALTCO-87",
       "venue": "PhilArchive",
@@ -42734,7 +42734,7 @@
     "title": "The Invariant of Answerability",
     "type": "Article",
     "liveUrl": "https://lukefwalton.com/writing/the-invariant-of-answerability/",
-    "canonicalUrl": "https://doi.org/10.5281/zenodo.20606493",
+    "canonicalUrl": "https://lukefwalton.com/writing/the-invariant-of-answerability/",
     "archive": {
       "markdown": "writing/the-invariant-of-answerability.md",
       "html": "writing/the-invariant-of-answerability.html"
@@ -42750,8 +42750,8 @@
       "date": "2026-06-09T00:00:00.000Z",
       "version": "1",
       "status": "Working paper. Not yet peer-reviewed.",
-      "canonical": "https://doi.org/10.5281/zenodo.20606493",
-      "pdf": "https://zenodo.org/records/20606493/files/Walton_The-Invariant-of-Answerability_working-paper.pdf",
+      "canonical": "https://lukefwalton.com/writing/the-invariant-of-answerability/",
+      "pdf": "https://lukefwalton.com/writing/the-invariant-of-answerability.pdf",
       "record": "https://doi.org/10.5281/zenodo.20606493",
       "venue": "Zenodo",
       "doi": "10.5281/zenodo.20606493",

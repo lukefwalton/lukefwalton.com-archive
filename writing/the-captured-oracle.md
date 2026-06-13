@@ -9,7 +9,7 @@ orcid: "0009-0005-9263-1954"
 date: 2026-06-13
 version: "1.0"
 status: "Preprint. Not yet peer-reviewed."
-canonical: "https://doi.org/10.5281/zenodo.20676328"
+canonical: "https://lukefwalton.com/writing/the-captured-oracle/"
 pdf: "https://lukefwalton.com/writing/the-captured-oracle.pdf"
 record: "https://philpapers.org/rec/WALTCO-87"
 venue: "PhilArchive"
