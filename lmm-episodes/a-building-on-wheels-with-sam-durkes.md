@@ -13,6 +13,7 @@ guestSlugs:
   - sam-durkes
 
 listenUrl: "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/A-Building-On-Wheels-with-Sam-Durkes-Ezra-Furman--Grace-Cummins--Art-More-e3kgme3"
+spotifyUrl: "https://open.spotify.com/episode/3V6z53SgsEguqDUvNMWBmB"
 appleUrl: "https://podcasts.apple.com/us/podcast/a-building-on-wheels-with-sam-durkes-ezra-furman/id1567355195?i=1000771825503"
 
 topicsDiscussed:
