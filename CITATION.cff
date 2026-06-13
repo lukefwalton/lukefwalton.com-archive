@@ -33,7 +33,7 @@ abstract: >
   provenance, or archival context; copyright in third-party materials remains
   with their respective owners. See RIGHTS.md for rights and reuse terms.
 preferred-citation:
-  type: dataset
+  type: data
   authors:
     - family-names: Walton
       given-names: Luke F.
