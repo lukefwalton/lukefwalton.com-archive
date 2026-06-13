@@ -1,0 +1,144 @@
+name: release
+
+# Intentional, citable releases only — not on every content sync.
+# Each GitHub release can trigger a new Zenodo archive and citable DOI.
+#
+# This repository is an auto-generated mirror: lukefwalton.com's archive.yml
+# rsyncs freshly built content onto main, but is configured NOT to touch
+# .github, .zenodo.json, CITATION.cff, or RIGHTS.md (rsync --exclude). So the
+# files this workflow manages survive every content sync. Releases are manual
+# (workflow_dispatch) and rare.
+on:
+  workflow_dispatch:
+    inputs:
+      bump:
+        description: Semver bump from the latest v* tag (ignored for the first release)
+        required: true
+        default: patch
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+      notes:
+        description: Release notes (optional; shown on the GitHub release)
+        required: false
+        type: string
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Require main
+        run: |
+          branch="${GITHUB_REF#refs/heads/}"
+          if [ "$branch" != "main" ]; then
+            echo "Release workflow must run on main (got: $branch)."
+            exit 1
+          fi
+
+      - name: Compute release version
+        id: version
+        run: |
+          set -eu
+          zver="$(node -p "JSON.parse(require('node:fs').readFileSync('.zenodo.json','utf8')).version")"
+          cver="$(node -p "require('node:fs').readFileSync('CITATION.cff','utf8').match(/^version: (.+)$/m)[1]")"
+          latest="$(git tag -l 'v*' --sort=-v:refname | head -1)"
+          if [ -z "$latest" ]; then
+            # First release: the checked-in metadata version is the release version.
+            if [ "$zver" != "$cver" ]; then
+              echo ".zenodo.json ($zver) and CITATION.cff ($cver) disagree; align them before the first release."
+              exit 1
+            fi
+            next="$zver"
+            echo "First release: using checked-in version $next."
+          else
+            expected="${latest#v}"
+            # Integrity: checked-in metadata must match the latest tag so versions never drift.
+            if [ "$zver" != "$expected" ] || [ "$cver" != "$expected" ]; then
+              echo "Latest tag is $latest but metadata is .zenodo.json=$zver, CITATION.cff=$cver."
+              echo "Repair metadata or cut a matching tag before releasing."
+              exit 1
+            fi
+            IFS=. read -r major minor patch <<< "$expected"
+            case "${{ inputs.bump }}" in
+              patch) patch=$((patch + 1)) ;;
+              minor) minor=$((minor + 1)); patch=0 ;;
+              major) major=$((major + 1)); minor=0; patch=0 ;;
+            esac
+            next="${major}.${minor}.${patch}"
+          fi
+          tag="v${next}"
+          if git rev-parse "$tag" >/dev/null 2>&1; then
+            echo "Tag $tag already exists."
+            exit 1
+          fi
+          echo "next=$next" >> "$GITHUB_OUTPUT"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+
+      - name: Sync release metadata
+        run: node .github/release/sync-metadata.mjs "${{ steps.version.outputs.next }}"
+
+      - name: Commit, tag, and push
+        env:
+          TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          set -eu
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .zenodo.json CITATION.cff
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(release): ${TAG}"
+          else
+            echo "Metadata already current; tagging the synced HEAD."
+          fi
+          # lukefwalton.com's sync bot also pushes to main (disjoint files). Rebase
+          # onto any concurrent sync, re-point the tag at the rebased HEAD, and push
+          # main + tag atomically. Retry with backoff on a racing non-fast-forward.
+          n=0
+          until [ "$n" -ge 5 ]; do
+            git fetch origin main
+            if git rebase origin/main; then
+              git tag -f "${TAG}"
+              if git push --atomic origin main "refs/tags/${TAG}"; then
+                exit 0
+              fi
+            else
+              git rebase --abort || true
+            fi
+            n=$((n + 1))
+            echo "Push race or rebase conflict; retry ${n} after backoff."
+            sleep $((2 ** n))
+          done
+          echo "Failed to push release after retries."
+          exit 1
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: ${{ steps.version.outputs.tag }}
+          body: |
+            ${{ inputs.notes }}
+
+            ---
+            Durable archive of lukefwalton.com. Archived on Zenodo after publish;
+            cite this release's version DOI to pin the snapshot, or the concept DOI
+            for the latest.
+          generate_release_notes: true

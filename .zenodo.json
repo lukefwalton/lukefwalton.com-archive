@@ -1,0 +1,38 @@
+{
+  "title": "lukefwalton.com: Durable Website Archive and Source Corpus",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-NC-ND-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Walton, Luke F.",
+      "orcid": "0009-0005-9263-1954",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Public website archive and source corpus for lukefwalton.com. The archive contains original material by Luke F. Walton together with third-party media or excerpts used for documentation, commentary, provenance, or archival context. Copyright in third-party materials remains with their respective owners. It is a self-contained, dependency-free mirror generated automatically from the canonical site, with per-record verbatim Markdown and plain HTML plus a machine-readable catalog (catalog.json / catalog.jsonl). Original code, prose, and metadata by Luke F. Walton are licensed CC BY-NC-ND 4.0; see RIGHTS.md.",
+  "keywords": [
+    "web archive",
+    "digital preservation",
+    "source corpus",
+    "lukefwalton.com",
+    "personal archive",
+    "provenance",
+    "songs",
+    "writing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://lukefwalton.com",
+      "relation": "isVariantFormOf",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/lukefwalton/lukefwalton.com",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ]
+}
