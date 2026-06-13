@@ -1,0 +1,43 @@
+# cff-version is the Citation File Format schema version, not the release version.
+cff-version: 1.2.0
+title: "lukefwalton.com: Durable Website Archive and Source Corpus"
+message: "If you cite this archive, please use the metadata below. GitHub citation UI reads this file; Zenodo release metadata is supplied separately."
+type: dataset
+authors:
+  - family-names: Walton
+    given-names: Luke F.
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0005-9263-1954"
+# Mixed-rights archive: intentionally no blanket `license:` field here — it would
+# flatten the whole citable object to one license. RIGHTS.md carries the rights
+# statement. After the first Zenodo deposit, add the concept DOI (type: doi) to
+# both identifiers and preferred-citation.
+identifiers:
+  - type: url
+    value: "https://github.com/lukefwalton/lukefwalton.com-archive"
+repository-code: "https://github.com/lukefwalton/lukefwalton.com-archive"
+url: "https://github.com/lukefwalton/lukefwalton.com-archive"
+version: 1.0.0
+date-released: "2026-06-13"
+keywords:
+  - web archive
+  - digital preservation
+  - source corpus
+  - provenance
+abstract: >
+  A self-contained, dependency-free public archive and source corpus of
+  lukefwalton.com. Each record is preserved as verbatim Markdown and plain
+  HTML alongside a machine-readable catalog, generated automatically from the
+  canonical site. Contains original material by Luke F. Walton together with
+  third-party media or excerpts retained for documentation, commentary,
+  provenance, or archival context; copyright in third-party materials remains
+  with their respective owners. See RIGHTS.md for rights and reuse terms.
+preferred-citation:
+  type: data
+  authors:
+    - family-names: Walton
+      given-names: Luke F.
+  title: "lukefwalton.com: Durable Website Archive and Source Corpus"
+  version: 1.0.0
+  date-released: "2026-06-13"
+  url: "https://github.com/lukefwalton/lukefwalton.com-archive"
