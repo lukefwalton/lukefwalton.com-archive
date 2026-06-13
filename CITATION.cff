@@ -10,9 +10,11 @@ authors:
     orcid: "https://orcid.org/0009-0005-9263-1954"
 # Mixed-rights archive: intentionally no blanket `license:` field here — it would
 # flatten the whole citable object to one license. RIGHTS.md carries the rights
-# statement. After the first Zenodo deposit, add the concept DOI (type: doi) to
-# both identifiers and preferred-citation.
+# statement. The DOI below is the Zenodo concept DOI (all versions; always
+# resolves to the latest). Per-release version DOIs live on each Zenodo record.
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20683155
   - type: url
     value: "https://github.com/lukefwalton/lukefwalton.com-archive"
 repository-code: "https://github.com/lukefwalton/lukefwalton.com-archive"
@@ -40,4 +42,5 @@ preferred-citation:
   title: "lukefwalton.com: Durable Website Archive and Source Corpus"
   version: 1.0.0
   date-released: "2026-06-13"
+  doi: 10.5281/zenodo.20683155
   url: "https://github.com/lukefwalton/lukefwalton.com-archive"
