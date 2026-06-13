@@ -1,5 +1,7 @@
 # Durable archive
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20683155.svg)](https://doi.org/10.5281/zenodo.20683155)
+
 This is a **self-contained, dependency-free archive** of the canonical content
 on [lukefwalton.com](https://lukefwalton.com). It exists so the information
 survives independently of Astro, Vercel, npm, or any build tooling.
@@ -42,6 +44,13 @@ domain while this copy stays a durable, citable fallback.
 - **publications**: 1
 - **interviews**: 1
 - **lmm-episodes**: 210
+
+## Citation
+
+Archived on [Zenodo](https://doi.org/10.5281/zenodo.20683155). The DOI badge above is the
+**concept DOI** — it always resolves to the latest version; each release also gets
+its own version DOI. Citation metadata is in `CITATION.cff`; rights terms are in
+`RIGHTS.md`.
 
 ## Durability contract
 
