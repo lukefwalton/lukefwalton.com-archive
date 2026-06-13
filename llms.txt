@@ -17,6 +17,7 @@
 - `<collection>/<slug>.html` — plain semantic HTML with embedded JSON-LD, no CSS/JS.
 - `writing/<slug>.pdf` — mirrored PDFs for the academic papers.
 - `catalog.json` / `catalog.jsonl` — machine-legible index of every record.
+- `manifest.json` — provenance (canonical site, source commit, counts).
 - `index.html` — a flat directory of everything.
 
 ## Key canonical pages

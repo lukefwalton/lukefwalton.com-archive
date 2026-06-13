@@ -22,6 +22,7 @@ For every published record:
   markdown so the most load-bearing records survive on their own.
 - `catalog.json` / `catalog.jsonl` — a machine-legible index of every record
   with full metadata. The "museum catalog."
+- `manifest.json` — provenance header (canonical site, source commit, counts).
 - `index.html` — a flat directory of everything.
 - `llms.txt` — a machine-readable pointer for answer engines.
 
