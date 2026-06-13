@@ -85,6 +85,6 @@ A deal you already asked for, with the need admitted upfront (*didn't you beg fo
 
 The bridge turns medical. *Immediate release* carries the pharma double meaning, instant relief against a record-label release date, and the helper becomes the drain: *bleed me*, six times, mantra as extraction. Same FEiN register as [*Behave*](/songs/behave/) (scripted loyalty) and [*Infant*](/songs/infant/) (misread safety), but here the hook is **mock gratitude**. Pairs with [*Friend*](/songs/friend/) as the other 2018 Walton/Woodward single on this site.
 
-[I Heart Moosiq](https://iheartmoosiq.tumblr.com/post/177593085294/premiere-fein-lucky-you-lucky-us-we-get) ran the premiere with direct Luke/Brandon quotes, the strongest indexed FEiN quasi-interview on the public web. See [/publications/](/publications/) for the full FEiN press vs Q&A map.
+[I Heart Moosiq](https://iheartmoosiq.tumblr.com/post/177593085294/premiere-fein-lucky-you-lucky-us-we-get) ran the premiere with direct Luke/Brandon quotes, the strongest indexed FEiN quasi-interview on the public web. See [/interviews/](/interviews/) for the full FEiN press vs Q&A map.
 
 ---

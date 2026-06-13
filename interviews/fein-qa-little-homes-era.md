@@ -1,13 +1,12 @@
 ---
-title: "Superpowers, Boats, and Red Rocks"
-subtitle: "FEiN Q&A: Luke Walton & Brandon Woodward"
+title: "FEiN Q&A (Little Homes era)"
+subtitle: "Superpowers, boats, and red rocks — Luke Walton & Brandon Woodward"
 description: "Archived pre–Little Homes interview: telekinesis vs one-punch, house-river gigs, song-a-month rollout, Taj Ma-Small, and the robotic-toilet story."
-type: interview
 author: "Unknown outlet"
 subject: "FEiN"
-publication: "Site archive (original publisher unidentified)"
+outlet: "Site archive (original publisher unidentified)"
 year: 2016
-canonical: "https://lukefwalton.com/publications/fein-qa-little-homes-era/"
+canonical: "https://lukefwalton.com/interviews/fein-qa-little-homes-era/"
 draft: false
 ---
 

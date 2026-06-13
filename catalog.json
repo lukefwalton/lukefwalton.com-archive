@@ -1473,8 +1473,8 @@
           "desc": "Luke Walton broke big toe in two places installing soundproofed back door at Tiny Giant Recording · archivist proof: /evidence/fein-tiny-giant-back-door-toe-xray.png"
         },
         {
-          "outlet": "Archive Q&A: Superpowers, Boats, and Red Rocks",
-          "url": "https://lukefwalton.com/publications/fein-qa-little-homes-era/",
+          "outlet": "Archive Q&A: FEiN (Little Homes era)",
+          "url": "https://lukefwalton.com/interviews/fein-qa-little-homes-era/",
           "date": "2016",
           "desc": "Pre-LP Walton/Woodward interview (original outlet lost): song-a-month rollout, collaboration series, house-river ideal set, Taj Ma-Small, robotic-toilet gig story."
         },
@@ -2680,6 +2680,30 @@
           "desc": "Artist note: second record, nostalgic wave, all recorded in a bathrobe."
         }
       ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "interviews",
+    "slug": "fein-qa-little-homes-era",
+    "title": "FEiN Q&A (Little Homes era)",
+    "type": "CreativeWork",
+    "liveUrl": "https://lukefwalton.com/interviews/fein-qa-little-homes-era/",
+    "canonicalUrl": "https://lukefwalton.com/interviews/fein-qa-little-homes-era/",
+    "archive": {
+      "markdown": "interviews/fein-qa-little-homes-era.md",
+      "html": "interviews/fein-qa-little-homes-era.html"
+    },
+    "source": "src/content/interviews/fein-qa-little-homes-era.md",
+    "metadata": {
+      "title": "FEiN Q&A (Little Homes era)",
+      "subtitle": "Superpowers, boats, and red rocks — Luke Walton & Brandon Woodward",
+      "description": "Archived pre–Little Homes interview: telekinesis vs one-punch, house-river gigs, song-a-month rollout, Taj Ma-Small, and the robotic-toilet story.",
+      "author": "Unknown outlet",
+      "subject": "FEiN",
+      "outlet": "Site archive (original publisher unidentified)",
+      "year": 2016,
+      "canonical": "https://lukefwalton.com/interviews/fein-qa-little-homes-era/",
       "draft": false
     }
   },
@@ -28228,31 +28252,6 @@
   },
   {
     "collection": "publications",
-    "slug": "fein-qa-little-homes-era",
-    "title": "Superpowers, Boats, and Red Rocks",
-    "type": "CreativeWork",
-    "liveUrl": "https://lukefwalton.com/publications/fein-qa-little-homes-era/",
-    "canonicalUrl": "https://lukefwalton.com/publications/fein-qa-little-homes-era/",
-    "archive": {
-      "markdown": "publications/fein-qa-little-homes-era.md",
-      "html": "publications/fein-qa-little-homes-era.html"
-    },
-    "source": "src/content/publications/fein-qa-little-homes-era.md",
-    "metadata": {
-      "title": "Superpowers, Boats, and Red Rocks",
-      "subtitle": "FEiN Q&A: Luke Walton & Brandon Woodward",
-      "description": "Archived pre–Little Homes interview: telekinesis vs one-punch, house-river gigs, song-a-month rollout, Taj Ma-Small, and the robotic-toilet story.",
-      "type": "interview",
-      "author": "Unknown outlet",
-      "subject": "FEiN",
-      "publication": "Site archive (original publisher unidentified)",
-      "year": 2016,
-      "canonical": "https://lukefwalton.com/publications/fein-qa-little-homes-era/",
-      "draft": false
-    }
-  },
-  {
-    "collection": "publications",
     "slug": "masks-monsters-and-memes",
     "title": "Masks, Monsters, and Memes",
     "type": "CreativeWork",
@@ -28267,7 +28266,7 @@
       "title": "Masks, Monsters, and Memes",
       "subtitle": "In Conversation with Scoobert Doobert",
       "description": "Max Horwich's 2021 book chapter on Scoobert Doobert in the Institute of Network Cultures' Critical Meme Reader, the academic excavation that predates most of this archive.",
-      "type": "interview",
+      "type": "chapter",
       "author": "Max Horwich",
       "subject": "Scoobert Doobert",
       "publication": "Critical Meme Reader: Global Mutations of the Viral Image",

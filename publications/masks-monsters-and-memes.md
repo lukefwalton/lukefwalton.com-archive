@@ -2,7 +2,7 @@
 title: "Masks, Monsters, and Memes"
 subtitle: "In Conversation with Scoobert Doobert"
 description: "Max Horwich's 2021 book chapter on Scoobert Doobert in the Institute of Network Cultures' Critical Meme Reader, the academic excavation that predates most of this archive."
-type: interview
+type: chapter
 author: "Max Horwich"
 subject: "Scoobert Doobert"
 publication: "Critical Meme Reader: Global Mutations of the Viral Image"

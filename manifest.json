@@ -6,7 +6,7 @@
   "generatedAt": "2026-06-13",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "d4078378d68d2f6a80d340e5ff2dfd8e2cdd5729"
+    "commit": "755b5cd5442173c13aba008628a267eec92691b9"
   },
   "total": 628,
   "counts": {
@@ -14,7 +14,8 @@
     "albums": 28,
     "writing": 5,
     "letters": 3,
-    "publications": 2,
+    "publications": 1,
+    "interviews": 1,
     "lmm-episodes": 210
   },
   "catalog": "catalog.json",

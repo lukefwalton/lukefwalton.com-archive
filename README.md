@@ -39,7 +39,8 @@ domain while this copy stays a durable, citable fallback.
 - **albums**: 28
 - **writing**: 5
 - **letters**: 3
-- **publications**: 2
+- **publications**: 1
+- **interviews**: 1
 - **lmm-episodes**: 210
 
 ## Durability contract

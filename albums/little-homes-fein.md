@@ -79,8 +79,8 @@ press:
     url: "https://lukefwalton.com/albums/little-homes-fein/"
     date: "2015-02-18"
     desc: "Luke Walton broke big toe in two places installing soundproofed back door at Tiny Giant Recording · archivist proof: /evidence/fein-tiny-giant-back-door-toe-xray.png"
-  - outlet: "Archive Q&A: Superpowers, Boats, and Red Rocks"
-    url: "https://lukefwalton.com/publications/fein-qa-little-homes-era/"
+  - outlet: "Archive Q&A: FEiN (Little Homes era)"
+    url: "https://lukefwalton.com/interviews/fein-qa-little-homes-era/"
     date: "2016"
     desc: "Pre-LP Walton/Woodward interview (original outlet lost): song-a-month rollout, collaboration series, house-river ideal set, Taj Ma-Small, robotic-toilet gig story."
   - outlet: "Fresh Beats 365 — *Little Little Homes* EP review (Mar 2016)"
@@ -129,7 +129,7 @@ Worth keeping on the record: an [early FEiN interview on YouTube](https://www.yo
 
 ![Luke Walton and Brandon Woodward of FEiN after the ALS ice bucket challenge (~2014)](/evidence/fein-luke-brandon-ice-bucket-challenge.png)
 
-Archivist photo above — soaking wet, combs-forward hair, post-dunk grins. More band photos: [/press-kit/#photos](/press-kit/#photos) · [/music/fein/#photos](/music/fein/#photos). [**Fresh Beats 365**](https://freshbeats365.com/2016/04/09/fein-interview/) (**Apr 9, 2016**, Tom Roden) — *“Tellin’ stories, making cool sounds and shit”* — is the strongest indexed print Q&A: USC pop-music carpool origin, sudden **#Grownupz** Spotify activity as the reason for the [*Little Little Homes*](/albums/little-homes-fein/) teaser EP, sixteen-track headphone mix intent, and Luke/Brandon on [*Sculptor*](/songs/sculptor/) (LA entertainment-industry body image) and [*Don't You*](/songs/dont-you/) as the song that best summarizes FEiN's sound (*doors, car keys, beer bottles* as found percussion). Site-held twin: [Superpowers, Boats, and Red Rocks](/publications/fein-qa-little-homes-era/). **360° at [KCRW Studios](https://www.kcrw.com/):** [*Liminal*: 360º live](https://www.youtube.com/watch?v=lQgVgA60rjs) · [*Stupid Forever*: 360º live](https://www.youtube.com/watch?v=GrFmJEINXNU), Walton and Woodward joined by **Ryan McDiarmid** (drums) and **Geo Botelho** (bass); session audio mastered by **Riley Knapp**. Drag the view around.
+Archivist photo above — soaking wet, combs-forward hair, post-dunk grins. More band photos: [/press-kit/#photos](/press-kit/#photos) · [/music/fein/#photos](/music/fein/#photos). [**Fresh Beats 365**](https://freshbeats365.com/2016/04/09/fein-interview/) (**Apr 9, 2016**, Tom Roden) — *“Tellin’ stories, making cool sounds and shit”* — is the strongest indexed print Q&A: USC pop-music carpool origin, sudden **#Grownupz** Spotify activity as the reason for the [*Little Little Homes*](/albums/little-homes-fein/) teaser EP, sixteen-track headphone mix intent, and Luke/Brandon on [*Sculptor*](/songs/sculptor/) (LA entertainment-industry body image) and [*Don't You*](/songs/dont-you/) as the song that best summarizes FEiN's sound (*doors, car keys, beer bottles* as found percussion). Site-held twin: [FEiN Q&A (Little Homes era)](/interviews/fein-qa-little-homes-era/). **360° at [KCRW Studios](https://www.kcrw.com/):** [*Liminal*: 360º live](https://www.youtube.com/watch?v=lQgVgA60rjs) · [*Stupid Forever*: 360º live](https://www.youtube.com/watch?v=GrFmJEINXNU), Walton and Woodward joined by **Ryan McDiarmid** (drums) and **Geo Botelho** (bass); session audio mastered by **Riley Knapp**. Drag the view around.
 
 Song-meaning annotations live for every lyric track — [**1–7**](/songs/american-man/), [**Twenty-Three**](/songs/twenty-three/) through [**Crawl**](/songs/crawl/) (16); track eight [*Intro*](/songs/little-homes-intro/) is **instrumental** (no lyrics page).
 
