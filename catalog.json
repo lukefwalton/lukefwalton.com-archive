@@ -682,6 +682,7 @@
       "artist": "The Luke Walton Band",
       "artistId": "#lukewaltonband",
       "bandcamp": "https://lukewaltonband.bandcamp.com/album/goodbye-hello",
+      "amazon": "https://www.amazon.com/Goodbye-Hello-Luke-Walton-Band/dp/B00454TZJE",
       "tracks": [
         {
           "title": "Goodbye",
@@ -764,6 +765,12 @@
           "url": "https://www.sandiegoreader.com/news/2009/jun/17/blurt1/",
           "date": "2009-06-17",
           "desc": "San Diego Reader Blurt coverage of the Taylor Swift date video."
+        },
+        {
+          "outlet": "San Diego Union-Tribune (May 2009)",
+          "url": "https://www.sandiegouniontribune.com/2009/05/14/student-film-has-2-screenings-today/",
+          "date": "2009-05-14",
+          "desc": "We Must Remember encore screenings at MovieMax Carlsbad; Luke Walton named as film composer."
         },
         {
           "outlet": "San Diego Union-Tribune (Jul 2009)",
@@ -42532,6 +42539,127 @@
       ],
       "isrc": "JPN002500250",
       "isrcSource": "spotify",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "we-must-remember",
+    "title": "We Must Remember",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/we-must-remember/",
+    "canonicalUrl": "https://lukefwalton.com/songs/we-must-remember/",
+    "archive": {
+      "markdown": "songs/we-must-remember.md",
+      "html": "songs/we-must-remember.html"
+    },
+    "source": "src/content/songs/we-must-remember.md",
+    "metadata": {
+      "title": "We Must Remember",
+      "meaning": "Film score (2009); Luke Walton composer. Student Holocaust documentary by Carlsbad High CHSTV — directed by Doug Green, produced by Lisa Posard.",
+      "year": 2009,
+      "artist": "CHSTV / Carlsbad High School",
+      "role": "production",
+      "productionRoles": "Composer",
+      "placement": "Film We Must Remember (2009 student documentary · Holocaust)",
+      "press": [
+        {
+          "outlet": "Carlsbad Chamber — funding appeal (Sep 2008)",
+          "url": "https://carlsbad.org/page/132/?route=product%2Fcatalog&sort=p.sort_order&order=ASC&limit=12&page=2"
+        },
+        {
+          "outlet": "San Diego Jewish World — Joyce Forum premiere (Jan 2009)",
+          "url": "https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090115-jewish-thursday13.html"
+        },
+        {
+          "outlet": "KPBS — San Diego Jewish Film Festival (Feb 4, 2009)",
+          "url": "https://www.kpbs.org/news/arts-culture/2009/02/04/19th-annual-san-diego-jewish-film-festival"
+        },
+        {
+          "outlet": "San Diego Union-Tribune — red-carpet premiere (Feb 16, 2009)",
+          "url": "https://www.sandiegouniontribune.com/2009/02/16/carlsbad-high-school-students-to-show-documentary-at-local-theater/"
+        },
+        {
+          "outlet": "eSchool News (Apr 21, 2009)",
+          "url": "https://www.eschoolnews.com/top-news/2009/04/21/student-film-documents-holocaust-memories/"
+        },
+        {
+          "outlet": "San Diego Union-Tribune — From Holocaust to hunger (Apr 19, 2009)",
+          "url": "https://www.sandiegouniontribune.com/2009/04/19/from-holocaust-to-hunger/"
+        },
+        {
+          "outlet": "San Diego Union-Tribune — encore screenings (May 14, 2009)",
+          "url": "https://www.sandiegouniontribune.com/2009/05/14/student-film-has-2-screenings-today/"
+        },
+        {
+          "outlet": "Leichtag Family Foundation — grant profile",
+          "url": "https://carlsbad.org/Foundations-grants-are-meaningful-gifts/"
+        },
+        {
+          "outlet": "Oceanside Museum of Art — youth film festival (Sep 2009)",
+          "url": "https://oceansidemuseumofart.blogspot.com/2009/09/?m=0"
+        },
+        {
+          "outlet": "San Diego Union-Tribune — Peacemaker Award (Feb 25, 2010)",
+          "url": "https://www.sandiegouniontribune.com/2010/02/25/carlsbad-high-school-teacher-students-win-peacemaker-award/"
+        },
+        {
+          "outlet": "303 Magazine — Denver screening (Oct 2012)",
+          "url": "https://303magazine.com/2012/10/never-forgotten-we-must-remember/"
+        },
+        {
+          "outlet": "Patch — CHSTV HD digital release (Apr 2013)",
+          "url": "https://patch.com/california/carlsbad/bp--carlsbad-high-school-television-releases-two-docu64e69ddd02"
+        },
+        {
+          "outlet": "Amazon — We Must Remember (DVD)",
+          "url": "https://www.amazon.com/We-Must-Remember-Lessons-Holocaust/dp/B0046KJPJW"
+        },
+        {
+          "outlet": "Patch — Doug Green, SD County Teacher of the Year (2015)",
+          "url": "https://patch.com/california/carlsbad/cusds-doug-green-named-sd-county-teacher-year-0"
+        },
+        {
+          "outlet": "CHSTV Worldwide",
+          "url": "https://www.chstv.com/we-must-remember"
+        },
+        {
+          "outlet": "Toronto Jewish Film Festival — study guide (PDF)",
+          "url": "https://tjff.com/media/We%20Must%20Remember.pdf"
+        },
+        {
+          "outlet": "The Coast News — CHSTV award-winning broadcast program",
+          "url": "https://thecoastnews.com/carlsbad-high-school-has-award-winning-broadcast-program/"
+        },
+        {
+          "outlet": "USC Shoah Foundation — course syllabus (PDF)",
+          "url": "https://sfi.usc.edu/sites/default/files/course/syllabus/HIEU145_syllabus_WI_09.PDF"
+        },
+        {
+          "outlet": "Carlsbad High — document (PDF)",
+          "url": "https://s3.amazonaws.com/scschoolfiles/3467/21411117123951815.pdf"
+        },
+        {
+          "outlet": "School News Roll Call — Carlsbad (PDF)",
+          "url": "https://schoolnewsrollcall.com/wp-content/uploads/2015/08/CRL_MAY_15.pdf"
+        },
+        {
+          "outlet": "IMDb — We Must Remember (tt1344450)",
+          "url": "https://www.imdb.com/title/tt1344450/"
+        },
+        {
+          "outlet": "IMDb — Luke F. Walton (nm3306688)",
+          "url": "https://www.imdb.com/name/nm3306688/"
+        }
+      ],
+      "themes": [
+        "film",
+        "composer",
+        "Carlsbad",
+        "2009",
+        "Holocaust documentary",
+        "CHSTV"
+      ],
       "draft": false
     }
   },
