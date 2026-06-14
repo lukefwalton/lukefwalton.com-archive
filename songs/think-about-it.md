@@ -18,8 +18,13 @@ officialVideo: "https://www.youtube.com/watch?v=Ir6jc3iAGeg"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
 press:
-  - outlet: "The Drop with Danno / GFN Gwangju: Think About It world premiere"
+  - outlet: "The Drop with Danno / GFN Gwangju (podcast)"
+    url: "https://podbay.fm/p/the-drop-with-danno-on-gfn/e/1645786860"
+    date: "2022-02-25"
+    desc: "Full-hour guest session; world premiere of Think About It."
+  - outlet: "The Drop with Danno / GFN Gwangju (Instagram recap)"
     url: "https://www.instagram.com/p/CagJIpehMDgyck9nJ7tnJoDKsKF8xrXnXEvlII0/"
+    date: "2022-02-27"
   - outlet: "The Damyang Drop with Scoobert Doobert (Spotify guest playlist)"
     url: "https://open.spotify.com/playlist/77UWmPK3oGauWe5xs5d2S6"
 
@@ -84,7 +89,7 @@ draft: false
 
 ---
 
-Track one on [*KŌAN*](/albums/koan/), opener of **KŌAN A** (March 18, 2022), full LP September 9, 2022. Luke solo on a spatial, headphone-built EP. [Glasse Factory](https://glassefactory.com/scoobert-dooberts-new-track-think-about-it-is-experimental-funk-at-its-finest/) called it experimental funk, ambient layers tipping into alt-rock guitar and then an indie-pop-funk anthem. **Radio premiere:** [@thedropwithdanno](https://www.instagram.com/thedropwithdanno/) hosted a **full-hour guest session** on **GFN** (98.7 Gwangju · 93.7 Yeosu, South Korea) with [@thedamyanghouse](https://www.instagram.com/thedamyanghouse/) — **world premiere** of *Think About It* on **February 27, 2022**, three weeks before KŌAN A dropped; on-air CHAI production thread · [Instagram recap](https://www.instagram.com/p/CagJIpehMDgyck9nJ7tnJoDKsKF8xrXnXEvlII0/) · [Spotify guest playlist](https://open.spotify.com/playlist/77UWmPK3oGauWe5xs5d2S6) · screenshot on [/music/#photos](/music/#photos). The hook works like [*Don't Worry*](/songs/dont-worry/) on [*Big Hug*](/albums/big-hug/), a command that fails on contact: *don't think I'm not thinking 'bout it* runs eight times, and saying it makes you do it.
+Track one on [*KŌAN*](/albums/koan/), opener of **KŌAN A** (March 18, 2022), full LP September 9, 2022. Luke solo on a spatial, headphone-built EP. [Glasse Factory](https://glassefactory.com/scoobert-dooberts-new-track-think-about-it-is-experimental-funk-at-its-finest/) called it experimental funk, ambient layers tipping into alt-rock guitar and then an indie-pop-funk anthem. **Radio premiere:** [@thedropwithdanno](https://www.instagram.com/thedropwithdanno/) hosted a **full-hour guest session** on **GFN** (98.7 Gwangju · 93.7 Yeosu, South Korea) with [@thedamyanghouse](https://www.instagram.com/thedamyanghouse/) — **world premiere** of *Think About It* on **February 25, 2022** ([podcast replay](https://podbay.fm/p/the-drop-with-danno-on-gfn/e/1645786860)), three weeks before KŌAN A dropped; on-air CHAI production thread · [Instagram recap](https://www.instagram.com/p/CagJIpehMDgyck9nJ7tnJoDKsKF8xrXnXEvlII0/) (Feb 27) · [Spotify guest playlist](https://open.spotify.com/playlist/77UWmPK3oGauWe5xs5d2S6) · screenshot on [/music/#photos](/music/#photos). The hook works like [*Don't Worry*](/songs/dont-worry/) on [*Big Hug*](/albums/big-hug/), a command that fails on contact: *don't think I'm not thinking 'bout it* runs eight times, and saying it makes you do it.
 
 Underneath the funk is a 2022 dread stack, NFTs and the end of days and *should I procreate or just use my hand?* The bridge condenses the record's title, [Schrödinger's cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat) read as Zen paradox: *is Schrödinger alive? well yes and no, a koan in disguise.* Identity comes on loan, and if time doesn't exist we're all simultaneously eternal.
 

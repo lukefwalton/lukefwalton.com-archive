@@ -23,14 +23,21 @@ sameAs:
   - "https://zenodo.org/records/20676328"
 keywords:
   - answer-engine optimization
-  - answerability
-  - moral responsibility
-  - philosophy of technology
-  - AI ethics
-  - authorship
-  - generative AI
-  - AEO
+  - generative engine optimization
+  - answerable legibility
   - verdict channel
+  - covert authorship
+  - accountability laundering
+  - answerability
+  - manipulation
+  - responsibility gap
+  - AI agents
+  - generative AI
+  - AI ethics
+  - philosophy of technology
+  - authorship
+  - moral responsibility
+  - AEO
 abstract: >
   Answer-engine optimization is SEO for large language models. Ask an answer engine a question with a contested answer and it may return not a list of sources but a verdict, composed in the engine’s own voice, with no author a reader can see. A party that optimizes what such an engine says authors that verdict while the engine voices it as its own. A public acts on these verdicts, and no one is held to account for them; that is the wrong, and it is committed on the verdict channel, the public-facing surface where the engine pronounces. The familiar answer that the engine is only a tool concedes rather than settles the point: when a tool settles a frame, that frame is someone’s — as a road sign’s limit is a traffic engineer’s — and the someone is what this channel conceals, leaving the user, who authored none of it, as the only party in view. Covert authorship is laundered as neutrality. An interested frame voiced as the engine’s impartial synthesis is the wrong’s sharpest form, but the wrong survives accuracy and disclosure alike, because what laundering diffuses is not the verdict’s visibility but its ownership. The wrong runs along a single axis, the agency of whoever executes the authored frame. At the answer end a person acts on a verdict whose frame was hidden from them, and the hidden author who set it is the one who must answer; at the action end an AI agent acts in their place, the answer for the deed strands at an executor that, as built, cannot answer, and what remains answerable is the deployer’s choice to make a tool an actor. The remedy is answerable legibility: a frame someone owns and stands behind. The disclosure that would secure it must make legible not the sources cited or the process that produced the text, but who owns the evaluative frame the engine voices.
 summary: >
@@ -75,13 +82,13 @@ This paper is **paper two** of the **Answerability Quartet** — four papers on 
 1. [**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20622946) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 2. **This paper** — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676328) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 3. [**The Invariant of Answerability**](/writing/the-invariant-of-answerability/) — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-4. A fourth paper is forthcoming.
+4. [**Building Answerable AI**](/writing/building-answerable-ai/) — the builder response ([DOI](https://doi.org/10.5281/zenodo.20682307) · [lukefwalton.com](https://lukefwalton.com/writing/building-answerable-ai/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Reference implementation
 
 [**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676773) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). This paper diagnoses covert authorship on the **verdict channel**; Answer Engine is the contrasting design: the authorial frame stays outside the model, citations must resolve to retrieved evidence, and refusals are tested.
 
-Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and *Building Answerable AI* (forthcoming).
+Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and [*Building Answerable AI*](/writing/building-answerable-ai/).
 
 ## 1 The Optimizer’s New Target
 
