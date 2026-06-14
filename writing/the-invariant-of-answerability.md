@@ -73,11 +73,13 @@ This paper is **paper three** of the **Answerability Quartet** — four papers o
 3. **This paper** — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 4. [**Building Answerable AI**](/writing/building-answerable-ai/) — the builder response ([DOI](https://doi.org/10.5281/zenodo.20682307) · [lukefwalton.com](https://lukefwalton.com/writing/building-answerable-ai/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
-## Reference implementation
+## Technical implementation
 
-[**Answer Engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — readable reference implementation of answerable site search ([DOI](https://doi.org/10.5281/zenodo.20676773) · [lukefwalton.com](https://lukefwalton.com/ask/about/) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)). The general invariant this paper states is route-indefeasible; Answer Engine is one deployable shape of that discipline — the system owns the frame the model must satisfy.
+The quartet's technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](https://doi.org/10.5281/zenodo.20686053) (technical note v1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
 
-Teaching-sized extract of the engine behind [Ask the Archive](/ask/); reference implementation for the **Answerability Quartet** and [*Building Answerable AI*](/writing/building-answerable-ai/). The general invariant this paper states is route-indefeasible; Answer Engine is one deployable shape of that discipline — the system owns the frame the model must satisfy.
+It comprises [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)), the teaching-sized clone-and-run repository, and [Ask the Archive](/ask/about/) on lukefwalton.com, the live deployment behind this site's search.
+
+The general invariant this paper states is route-indefeasible; Answer Engine is one deployable shape of that discipline — the system owns the frame the model must satisfy.
 
 ## Opening
 
