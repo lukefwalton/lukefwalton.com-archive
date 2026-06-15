@@ -43382,6 +43382,65 @@
   },
   {
     "collection": "writing",
+    "slug": "answer-engine",
+    "title": "Answer Engine",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/writing/answer-engine/",
+    "canonicalUrl": "https://lukefwalton.com/writing/answer-engine/",
+    "archive": {
+      "markdown": "writing/answer-engine.md",
+      "html": "writing/answer-engine.html",
+      "pdf": "writing/answer-engine.pdf"
+    },
+    "source": "src/content/writing/answer-engine.md",
+    "metadata": {
+      "type": "technical-note",
+      "title": "Answer Engine",
+      "subtitle": "A Small Reference Implementation for Citation-Grounded AI Answers",
+      "description": "Technical note for the Answer Engine reference implementation — design contract, evaluation harness, scope, and empirical scaling notes from the Ask the Archive deployment.",
+      "authorName": "Luke F. Walton",
+      "authorAffiliation": "Independent Researcher",
+      "orcid": "0009-0005-9263-1954",
+      "date": "2026-06-14",
+      "version": "1.1",
+      "status": "Technical note.",
+      "canonical": "https://lukefwalton.com/writing/answer-engine/",
+      "pdf": "https://lukefwalton.com/writing/answer-engine.pdf",
+      "record": "https://doi.org/10.5281/zenodo.20686053",
+      "venue": "Zenodo",
+      "doi": "10.5281/zenodo.20686053",
+      "license": "CC BY-NC-ND 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20686053",
+        "https://lukefwalton.com/writing/answer-engine/",
+        "https://zenodo.org/records/20686053"
+      ],
+      "keywords": [
+        "answer engine",
+        "citation grounding",
+        "framed automation",
+        "answerability",
+        "retrieval-augmented generation",
+        "structural inexpressibility",
+        "refusal",
+        "private context",
+        "gold queries",
+        "reference implementation"
+      ],
+      "abstract": "Chat-style language-model systems collapse five distinct operations — retrieval, use of private context, generation, citation, and refusal — into a single conversational surface, which makes it hard to say what evidence an answer rests on or whether it should have been given at all. This note describes answer-engine, a small TypeScript reference implementation that holds those operations apart. The system answers one question at a time against a bounded corpus, cites the public evidence it used, declines when no evidence clears a retrieval floor, and enforces a type-level boundary that keeps private text out of the model prompt while still allowing it to route retrieval. A fixed set of gold queries tests refusal, citation grounding, and the no-leak boundary as regressions. The artifact is a teaching-sized reference pattern, not a benchmark or a production framework.\n",
+      "summary": "Answer Engine is the runnable technical implementation behind the Answerability Quartet — a small TypeScript pattern for one-shot, citation-grounded answers over a bounded corpus, with honest refusal and a type-level no-leak boundary for private material. v1.1 adds empirical scaling notes from the production deployment behind Ask the Archive on this site.\n",
+      "coreClaim": "Hold retrieval, private context, generation, citation, and refusal apart; enforce the contract outside the model by types, schema, validators, and tests — so the answer can be checked rather than trusted.\n",
+      "citeWhen": [
+        "You want the design contract for citation-grounded site search stated as prose.",
+        "You need the evaluation harness, refusal modes, and no-leak boundary explained.",
+        "You are deploying at scale and want notes on how cost choices were gated by the gold suite."
+      ],
+      "bibtex": "@misc{walton2026answerengine,\n  author       = {Walton, Luke F.},\n  title        = {Answer Engine: A Small Reference Implementation for Citation-Grounded {AI} Answers},\n  year         = {2026},\n  month        = jun,\n  publisher    = {Zenodo},\n  version      = {v1.1},\n  doi          = {10.5281/zenodo.20686053},\n  url          = {https://doi.org/10.5281/zenodo.20686053}\n}\n"
+    }
+  },
+  {
+    "collection": "writing",
     "slug": "building-answerable-ai",
     "title": "Building Answerable AI",
     "type": "Article",
@@ -43664,6 +43723,35 @@
         "You want the Zenodo record for paper three of the Answerability Quartet (June 2026)."
       ],
       "bibtex": "@misc{walton2026invariant,\n  author       = {Walton, Luke F.},\n  title        = {The Invariant of Answerability},\n  year         = {2026},\n  month        = jun,\n  publisher    = {Zenodo},\n  version      = {v1},\n  doi          = {10.5281/zenodo.20606493},\n  url          = {https://doi.org/10.5281/zenodo.20606493}\n}\n"
+    }
+  },
+  {
+    "collection": "writing",
+    "slug": "the-seam",
+    "title": "The Seam",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/writing/the-seam/",
+    "canonicalUrl": "https://lukefwalton.com/writing/the-seam/",
+    "archive": {
+      "markdown": "writing/the-seam.md",
+      "html": "writing/the-seam.html"
+    },
+    "source": "src/content/writing/the-seam.md",
+    "metadata": {
+      "type": "essay",
+      "title": "The Seam",
+      "subtitle": "essai #2",
+      "description": "A dog mask, a meme-reader interview, and an answer engine that split Scoobert from Luke — essai #2 on standing behind the seam.",
+      "date": "2026-06-14",
+      "keywords": [
+        "authorship",
+        "answerability",
+        "Scoobert Doobert",
+        "masks",
+        "memes",
+        "Guillain-Barré"
+      ],
+      "draft": false
     }
   }
 ]

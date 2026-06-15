@@ -86,7 +86,7 @@ This paper is **paper two** of the **Answerability Quartet** — four papers on 
 
 ## Technical implementation
 
-The quartet's technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](https://doi.org/10.5281/zenodo.20686053) (technical note v1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
+The quartet's technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](/writing/answer-engine/) (technical note v1.1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
 
 It comprises [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)), the teaching-sized clone-and-run repository, and [Ask the Archive](/ask/about/) on lukefwalton.com, the live deployment behind this site's search.
 
