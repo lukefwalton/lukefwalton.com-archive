@@ -4162,6 +4162,32 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more",
+    "title": "A Building On Wheels with Sam Durkes (Ezra Furman, Grace Cummins, Art More)",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more/",
+    "archive": {
+      "markdown": "lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.md",
+      "html": "lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.html"
+    },
+    "source": "src/content/lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.md",
+    "metadata": {
+      "title": "A Building On Wheels with Sam Durkes (Ezra Furman, Grace Cummins, Art More)",
+      "description": "Want to take your show on the road? Sam’s seen it from the vans to trains to tour buses, and loves to share the wisdom and the reality of what touring actually is like. So if you’re a live music lover or musician looking to break into the touring scene, this pod’s a wealth of knowledge earned mile by mile.",
+      "date": "2026-06-09",
+      "kind": "solo",
+      "status": "stub",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/A-Building-On-Wheels-with-Sam-Durkes-Ezra-Furman--Grace-Cummins--Art-More-e3kgme3",
+      "topicsDiscussed": [],
+      "hostNote": "Full episode audio is on the listen link above.\n",
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "a-mixing-workshop-with-scoobert-doobert",
     "title": "A Mixing Workshop with Scoobert Doobert",
     "type": "PodcastEpisode",
@@ -24818,6 +24844,32 @@
           "answer": "Engage with mixing, production, and research sounds to fuel creativity and keep the artistic process moving."
         }
       ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "the-substrates-inside-speech",
+    "title": "The Substrates Inside Speech",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/the-substrates-inside-speech/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/the-substrates-inside-speech/",
+    "archive": {
+      "markdown": "lmm-episodes/the-substrates-inside-speech.md",
+      "html": "lmm-episodes/the-substrates-inside-speech.html"
+    },
+    "source": "src/content/lmm-episodes/the-substrates-inside-speech.md",
+    "metadata": {
+      "title": "The Substrates Inside Speech",
+      "description": "Where’s the boundary between song and speech? When does something cross the threshold and go from a conversation into a groove? When does the beat drop? One of my favorite musicians, Mononeon, has a whole video series blurring this line. (Mononeon… talk about an inheritor to the FUNK!)",
+      "date": "2026-06-16",
+      "kind": "solo",
+      "status": "stub",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-Substrates-Inside-Speech-e3kq1hr",
+      "topicsDiscussed": [],
+      "hostNote": "Full episode audio is on the listen link above.\n",
       "transcriptPublished": false,
       "draft": false
     }
