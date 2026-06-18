@@ -32581,6 +32581,49 @@
   },
   {
     "collection": "songs",
+    "slug": "doin-it-right",
+    "title": "Doin' It Right",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/doin-it-right/",
+    "canonicalUrl": "https://lukefwalton.com/songs/doin-it-right/",
+    "archive": {
+      "markdown": "songs/doin-it-right.md",
+      "html": "songs/doin-it-right.html"
+    },
+    "source": "src/content/songs/doin-it-right.md",
+    "metadata": {
+      "title": "Doin' It Right",
+      "meaning": "FEiN commissioned sync-catalog single: original song work for Persimmon Grove Music / Freeform, later heard in Tell Me Lies (Hulu) S1 E1.",
+      "year": 2017,
+      "releaseType": "single",
+      "artist": "FEiN",
+      "artistId": "#fein",
+      "coWriters": [
+        "Brandon Michael Woodward"
+      ],
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Commissioned original song work via Tiny Giant Recording.",
+      "apple": "https://music.apple.com/us/album/doin-it-right-single/1306138785",
+      "press": [
+        {
+          "outlet": "TuneFind — Tell Me Lies (Hulu)",
+          "url": "https://www.tunefind.com/song/luke-francis-walton-brandon-michael-woodward/doin-it-right",
+          "desc": "S1 E1 premiere (2022) · same recording as the 2017 Freeform single."
+        }
+      ],
+      "themes": [
+        "FEiN",
+        "sync",
+        "Freeform",
+        "Persimmon Grove Music",
+        "Tell Me Lies",
+        "2017",
+        "commissioned"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "donald-trumpet",
     "title": "Donald Trumpet",
     "type": "MusicRecording",

@@ -26,12 +26,12 @@ draft: false
 
 ---
 
-Domestic collab single: **Scoobert Doobert** with **India Thieriot** (LA singer-songwriter). Released **October 11, 2024** on **Beformer**; [Nagamag](https://www.nagamag.com/the-latest/in-it-with-u-scoobert-doobert) heard carefree, light-footed indie pop: room to relax away from city noise, soft distinctive vocals, love *everywhere* and the wish to actually live inside that feeling.
+Domestic collab single: **Scoobert Doobert** with [**India Thieriot**](/with/india-thieriot/) (SF singer-songwriter, now LA-adjacent on streaming). Recorded in a **rehearsal studio in Chinatown, NYC**. Released **October 11, 2024** on **Beformer**; [Nagamag](https://www.nagamag.com/the-latest/in-it-with-u-scoobert-doobert) heard carefree, light-footed indie pop: room to relax away from city noise, soft distinctive vocals, love *everywhere* and the wish to actually live inside that feeling.
 
 Sits between the [*I*](/albums/i/) LP cycle and later 2025 singles, a standalone duet, not on *I*, but in the same *u*-shaped love-song neighborhood as [*time with u*](/songs/time-with-u/) and [*that's how u know i love u*](/songs/thats-how-u-know-i-love-u/). Luke Francis Walton on the Scoobert side (write, produce, mix).
 
 **India Thieriot** is credited as co-vocalist on streaming metadata; no public press article found naming a split beyond the artist line. Video: [YouTube](https://www.youtube.com/watch?v=uK5V04OC1qY).
 
-See [Catalog: collaborations](/catalog/#collaborations)
+See [With India Thieriot](/with/india-thieriot/) · [Catalog: collaborations](/catalog/#collaborations)
 
 ---
