@@ -3,10 +3,10 @@
   "description": "Dependency-free mirror of lukefwalton.com. The canonical site is authoritative.",
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
-  "generatedAt": "2026-06-18",
+  "generatedAt": "2026-06-20",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "c307e5d76c67fd260caeb56f15eff8ce4938ded7"
+    "commit": "f220314d11fca157e8d31a425e8dea8377900822"
   },
   "total": 660,
   "counts": {
