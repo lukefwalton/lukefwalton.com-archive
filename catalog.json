@@ -3281,6 +3281,31 @@
   },
   {
     "collection": "interviews",
+    "slug": "start-track-ep-scoobert-doobert-a-very-doobert-christmas-vol-1",
+    "title": "Start Track — *A Very Doobert Christmas, Vol. 1* (Introducing + 3 Qs)",
+    "type": "CreativeWork",
+    "liveUrl": "https://start-track.com/ep-scoobert-doobert-a-very-doobert-christmas-vol-1/",
+    "canonicalUrl": "https://start-track.com/ep-scoobert-doobert-a-very-doobert-christmas-vol-1/",
+    "archive": {
+      "markdown": "interviews/start-track-ep-scoobert-doobert-a-very-doobert-christmas-vol-1.md",
+      "html": "interviews/start-track-ep-scoobert-doobert-a-very-doobert-christmas-vol-1.html"
+    },
+    "source": "src/lib/interviews.ts",
+    "metadata": {
+      "title": "Start Track — *A Very Doobert Christmas, Vol. 1* (Introducing + 3 Qs)",
+      "description": "Filip Zemčík intro plus a 3-question Q&A on the holiday EP: his dissect-and-rebuild approach to the records he grew up on, the nerve illness that turned him from guitarist to composer, and a Storyworth-prompted dream of a symposium with Socrates and Plato.",
+      "subject": "Scoobert Doobert",
+      "outlet": "Start Track — *A Very Doobert Christmas, Vol. 1* (Introducing + 3 Qs)",
+      "publisher": "Start Track",
+      "date": "2023-12-18",
+      "year": 2023,
+      "tier": "secondary",
+      "archiveKind": "publisher-index",
+      "draft": false
+    }
+  },
+  {
+    "collection": "interviews",
     "slug": "tumblr-its-been-far-too-long-since-ive-shared-fabulous-music-from",
     "title": "I Heart Moosiq — #Grownupz Spotify U.S. Viral top 10",
     "type": "CreativeWork",
@@ -4156,32 +4181,6 @@
           "answer": "Don't wait for a booking agent, start DIY, play nearby cities where you already have connections, bring a friend who can help with driving or merch, keep books from day one, and grab real fans one at a time rather than chasing virality alone."
         }
       ],
-      "transcriptPublished": false,
-      "draft": false
-    }
-  },
-  {
-    "collection": "lmm-episodes",
-    "slug": "a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more",
-    "title": "A Building On Wheels with Sam Durkes (Ezra Furman, Grace Cummins, Art More)",
-    "type": "PodcastEpisode",
-    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more/",
-    "archive": {
-      "markdown": "lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.md",
-      "html": "lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.html"
-    },
-    "source": "src/content/lmm-episodes/a-building-on-wheels-with-sam-durkes-ezra-furman-grace-cummins-art-more.md",
-    "metadata": {
-      "title": "A Building On Wheels with Sam Durkes (Ezra Furman, Grace Cummins, Art More)",
-      "description": "Want to take your show on the road? Sam’s seen it from the vans to trains to tour buses, and loves to share the wisdom and the reality of what touring actually is like. So if you’re a live music lover or musician looking to break into the touring scene, this pod’s a wealth of knowledge earned mile by mile.",
-      "date": "2026-06-09",
-      "kind": "solo",
-      "status": "stub",
-      "guestSlugs": [],
-      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/A-Building-On-Wheels-with-Sam-Durkes-Ezra-Furman--Grace-Cummins--Art-More-e3kgme3",
-      "topicsDiscussed": [],
-      "hostNote": "Full episode audio is on the listen link above.\n",
       "transcriptPublished": false,
       "draft": false
     }
@@ -7819,6 +7818,155 @@
         {
           "question": "What does Craig Bauer say about Kanye West and Chicago?",
           "answer": "He notes Kanye's career began in Bauer's Chicago studio in 1993, that he mixed most of Late Registration (with frustrating credit inaccuracies on the album), and contributed to Graduation, connecting Chicago session history to Grammy-era hip-hop."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "dana-roth",
+    "title": "Input To Put In with Dana Roth",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/dana-roth/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/dana-roth/",
+    "archive": {
+      "markdown": "lmm-episodes/dana-roth.md",
+      "html": "lmm-episodes/dana-roth.html"
+    },
+    "source": "src/content/lmm-episodes/dana-roth.md",
+    "metadata": {
+      "title": "Input To Put In with Dana Roth",
+      "description": "SF-based animator, bass player, composer and producer, Dana Roth brings groove to everything she creates. We talked about the rhythm of visuals, of illustrations, and of course, bass guitar. Her debut album, Airship, absolutely rips, as does everything else she spends her time on — including this episode!",
+      "status": "complete",
+      "date": "2026-06-23",
+      "kind": "guest",
+      "guestSlugs": [
+        "dana-roth"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Input-To-Put-In-with-Dana-Roth-e3l2jpv",
+      "spotifyUrl": "https://open.spotify.com/episode/4WBNmewhbc3bXWlicM6hsu",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/input-to-put-in-with-dana-roth/id1567355195?i=1000773849975&uo=4",
+      "topicsDiscussed": [
+        "Bass",
+        "The pandemic",
+        "Collaboration",
+        "Creativity",
+        "Animation timed to music and DIY music videos",
+        "Berklee burnout and self-taught animation",
+        "Debut album Airship",
+        "Music school vs. learning on your own",
+        "Trust and groove in bass sessions",
+        "Rhythm in visuals and illustration"
+      ],
+      "hostNote": "**Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation — which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.\n\nWe talk through learning animation vs. music school, the chaos of making your own music videos, trusting collaborators to let you be yourself on bass, and why putting a soundtrack on something makes the whole thing feel more magical.\n",
+      "selectedMoments": [
+        {
+          "label": "Bass first, Berklee 2016–2020",
+          "startSec": 91,
+          "note": "Started on bass, studied at Berklee, graduated into COVID and Zoom finals."
+        },
+        {
+          "label": "School burnout → animation",
+          "startSec": 137,
+          "note": "Post-Berklee burnout; COVID gave her time to finally learn animation."
+        },
+        {
+          "label": "Rhythm in animation timing",
+          "startSec": 225,
+          "note": "Music training shapes how she times frames to the beat."
+        },
+        {
+          "label": "Chaotic but intentional music videos",
+          "startSec": 290,
+          "note": "Making her own visuals — conscious of animation rhythm against the track."
+        },
+        {
+          "label": "Animation is slow and expensive",
+          "startSec": 412,
+          "note": "How long a short actually takes vs. what audiences assume."
+        },
+        {
+          "label": "The emotional rollercoaster of creating",
+          "startSec": 588,
+          "note": "Self-doubt vs. other people's apparent intentionality."
+        },
+        {
+          "label": "Music school vs. teaching yourself",
+          "startSec": 720,
+          "note": "Formal training, mentors, and becoming your own weird version of the craft."
+        },
+        {
+          "label": "Animation community ↔ music community",
+          "startSec": 902,
+          "note": "Overlap between her visual work and the players she records with."
+        },
+        {
+          "label": "Trust on bass — give more when you're yourself",
+          "startSec": 1802,
+          "note": "When a collaborator wants her voice, not a generic part."
+        },
+        {
+          "label": "Airship and where to find Dana",
+          "startSec": 2348,
+          "note": "Debut album, Instagram, animation + music."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "I started as a bass player pretty much... I went to Berklee College of Music, started 2016. I graduated 2020 into the pandemic...",
+          "startSec": 89,
+          "reviewed": true
+        },
+        {
+          "text": "I had a bit of a school Berklee burnout... I always kind of wanted to learn how to animate but never had the time, and this was like again COVID so I just went for it.",
+          "startSec": 148,
+          "reviewed": true
+        },
+        {
+          "text": "I think people who do this are very conscious of it, but I just try to bring this extra level of like being conscious of the timing of the animation and how it relates to the music.",
+          "startSec": 298,
+          "reviewed": true
+        },
+        {
+          "text": "I don't know, I sometimes have this idea that other people are like more intentional. I can envision the thing and like get there.",
+          "startSec": 687,
+          "reviewed": true
+        },
+        {
+          "text": "But I guess it's just part of it, like learning something completely on your own can allow you to learn in your own specific way and you can kind of become like your own weird version of that thing.",
+          "startSec": 810,
+          "reviewed": true
+        },
+        {
+          "text": "When I feel trusted and when I feel like someone wants me to do myself, I feel like I do give more.",
+          "startSec": 1802,
+          "reviewed": true
+        },
+        {
+          "text": "It's just so powerful and incredible and it can... put a soundtrack to it, everything becomes so much more magical and beautiful.",
+          "startSec": 2299,
+          "reviewed": true
+        },
+        {
+          "text": "My album Airship is on all platforms find me on Instagram, I do animation, I do music...",
+          "startSec": 2348,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is Dana Roth's background in music and animation?",
+          "answer": "Dana Roth is an animator, bass player, and composer who studied at Berklee College of Music and developed her animation skills during the pandemic."
+        },
+        {
+          "question": "How did COVID-19 impact Dana Roth's creative process?",
+          "answer": "During the pandemic, Dana experienced burnout from music, prompting her to explore animation, which led to a revival of her passion for music."
+        },
+        {
+          "question": "What is Dana Roth's debut album 'Airship' about?",
+          "answer": "'Airship' reflects Dana's unique sound and artistic vision, integrating her skills in both music and animation."
         }
       ],
       "transcriptPublished": false,
@@ -24863,13 +25011,122 @@
     "metadata": {
       "title": "The Substrates Inside Speech",
       "description": "Where’s the boundary between song and speech? When does something cross the threshold and go from a conversation into a groove? When does the beat drop? One of my favorite musicians, Mononeon, has a whole video series blurring this line. (Mononeon… talk about an inheritor to the FUNK!)",
+      "status": "complete",
       "date": "2026-06-16",
       "kind": "solo",
-      "status": "stub",
       "guestSlugs": [],
       "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-Substrates-Inside-Speech-e3kq1hr",
-      "topicsDiscussed": [],
-      "hostNote": "Full episode audio is on the listen link above.\n",
+      "topicsDiscussed": [
+        "music and speech",
+        "inflection and meaning",
+        "crossing boundaries",
+        "cultural rhythms",
+        "language as music",
+        "AI and speech",
+        "emotion in communication",
+        "creative expression",
+        "translating speech into music",
+        "the role of rhythm"
+      ],
+      "hostNote": "Where does speech end and song begin? This solo episode follows that line — through inflection, stress, and pitch that change meaning without changing words, the blurry border between talk and rap, and **Mononeon**'s groove-forward clips that treat conversation like a pocket.\n\nI pull on **Diana Deutsch**'s speech-to-song illusion, cross-cultural comedy timing, and what happens when AI voice and auto-tune reshape the musical vocabulary we inherit from everyday talk.\n",
+      "selectedMoments": [
+        {
+          "label": "Exploring inflection and meaning",
+          "startSec": 65,
+          "note": "Same words, different pitch and stress — different meaning. That's the music of language."
+        },
+        {
+          "label": "Vagueness between speech and rap",
+          "startSec": 92,
+          "note": "Speech, rap, song — mostly context."
+        },
+        {
+          "label": "Language learning as playing an instrument",
+          "startSec": 182,
+          "note": "You're not just learning words — you're learning a new rhythmic instrument."
+        },
+        {
+          "label": "Speech patterns and genres",
+          "startSec": 227,
+          "note": "Word order across languages is genre, not just semantics."
+        },
+        {
+          "label": "Speech-to-song illusion",
+          "startSec": 361,
+          "note": "Diana Deutsch — repeat a phrase unchanged and the border dissolves."
+        },
+        {
+          "label": "Cultural differences in comedic timing",
+          "startSec": 725,
+          "note": "Everyone cracks up; you're the one who doesn't get the joke."
+        },
+        {
+          "label": "Impact of AI on speech",
+          "startSec": 863,
+          "note": "How synthetic voice enters the musical vocabulary — like auto-tune did."
+        },
+        {
+          "label": "Melody, rhythm, phrasing recap",
+          "startSec": 948,
+          "note": "What's stressed, unstressed, where's the beat."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "Do you notice how the inflection, the pitch, the stress fundamentally changes the meaning? That's music, the music of language.",
+          "startSec": 88,
+          "reviewed": true
+        },
+        {
+          "text": "I'll argue that the boundaries between speech and rap and music are very, very vague. A lot of it's just context.",
+          "startSec": 104,
+          "reviewed": true
+        },
+        {
+          "text": "It's one of the hardest things about learning a language is you're not just learning the words. You're learning how to play a new instrument in a new culture.",
+          "startSec": 183,
+          "reviewed": true
+        },
+        {
+          "text": "Those orders are not just semantics, they're not just these little things. It's the difference between genre.",
+          "startSec": 223,
+          "reviewed": true
+        },
+        {
+          "text": "The border dissolves. So Diana Deutsch had a speech to song illusion. It was discovered in 1995, a spoken phrase repeated unchanging, starts to sound sung.",
+          "startSec": 357,
+          "reviewed": true
+        },
+        {
+          "text": "It's also kind of weird, I mean, like it's easy enough to think, okay, people are different cultures, they're going to find different things funny, but it's like, it can be such a culture shock to listen to comedy and have everyone around you crack up and just be like, I don't get it, I don't see it.",
+          "startSec": 730,
+          "reviewed": true
+        },
+        {
+          "text": "Does the nature of speech change? Does that become an influence? It becomes part of the musical vocabulary, people copy it, people do it, and then it becomes kind of the default, like, look at auto-tune.",
+          "startSec": 855,
+          "reviewed": true
+        },
+        {
+          "text": "You got the melody, goes up, and it goes down. You got the rhythm, what's stressed, what's unstressed, where's the beat?",
+          "startSec": 955,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the relationship between music and speech?",
+          "answer": "The relationship between music and speech is explored through concepts like inflection and rhythm, showing how language can be understood as a musical expression."
+        },
+        {
+          "question": "How does learning a new language relate to music?",
+          "answer": "Learning a new language involves understanding its unique rhythm and structure, much like learning to play a new musical instrument."
+        },
+        {
+          "question": "What is the speech-to-song illusion?",
+          "answer": "The speech-to-song illusion is a phenomenon where a spoken phrase, when repeated, begins to sound sung, highlighting the blurred lines between speech and music."
+        }
+      ],
       "transcriptPublished": false,
       "draft": false
     }
