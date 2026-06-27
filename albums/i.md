@@ -73,7 +73,7 @@ Collaborators sharpen the “everything sings” idea. [**Lou Roy**](/with/lou-r
 
 <h3 id="liner-credits">Liner credits (vinyl insert)</h3>
 
-**Released on Beformer** · **All songs written by Luke Francis Walton (BMI #00579587572)** · **Illustrator and designer — Grizzard Graphics** · **Mastering engineer — Riley Knapp** · **Background vocals (tracks 3, 4, 6, 10, 11, 13) — [Lou Roy](/with/lou-roy/)** · **Bass clarinet (tracks 4, 10, 12, 13) — Nicole McCabe** (unknown unbranded clarinet from Reverb; D'Addario reeds) · **Bass (tracks 5, 12, 13) — [Bubby Lewis](/with/bubby-lewis/)** (MTD Bubby Lewis Signature).
+**Released on Beformer** · **All songs written by Luke Francis Walton (BMI #00579587572)** · **Illustrator and designer — [Grizzard Graphics](/with/grizzard-graphics/)** · **Mastering engineer — Riley Knapp** · **Background vocals (tracks 3, 4, 6, 10, 11, 13) — [Lou Roy](/with/lou-roy/)** · **Bass clarinet (tracks 4, 10, 12, 13) — Nicole McCabe** (unknown unbranded clarinet from Reverb; D'Addario reeds) · **Bass (tracks 5, 12, 13) — [Bubby Lewis](/with/bubby-lewis/)** (MTD Bubby Lewis Signature).
 
 **Scoobert Doobert:** recording engineer, mix engineer, arranger, producer (Pro Tools 2023.6), vocals, background vocals, acoustic guitar (Taylor 814ce), electric guitar (Godin LGX-SA, Fender American Deluxe Stratocaster), drums (Yamaha Custom Hip), drum programming (Jake Reed sample pack), bass guitar (Ibanez SR500E), ukulele (Luna High Tide Concert Koa), mandolin, Afuche/Cabasa (LP LP234A), triangle (LP), shaker (Nino Wood Egg), guiro, whistle, tambourine, Juno (TAL-UNO-LX-V2), 1974 Rhodes Eighty Eight Suitcase Mark 1 (UAD Electra 88), Yamaha CS-01 (Baby Audio BA-1), field recording (MS-EHB-2 Binaural Microphone).
 
