@@ -43905,51 +43905,40 @@
       "authorName": "Luke F. Walton",
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
-      "date": "2026-06-13",
-      "version": "1.0",
+      "date": "2026-07-01",
       "status": "Preprint. Not yet peer-reviewed.",
       "canonical": "https://lukefwalton.com/writing/the-captured-oracle/",
       "pdf": "https://lukefwalton.com/writing/the-captured-oracle.pdf",
       "record": "https://philpapers.org/rec/WALTCO-87",
       "venue": "PhilArchive",
-      "doi": "10.5281/zenodo.20676328",
+      "doi": "10.5281/zenodo.20676327",
       "license": "CC BY-NC-ND 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "sameAs": [
         "https://philpapers.org/rec/WALTCO-87",
-        "https://doi.org/10.5281/zenodo.20676328",
+        "https://doi.org/10.5281/zenodo.20676327",
         "https://lukefwalton.com/writing/the-captured-oracle/",
-        "https://zenodo.org/records/20676328"
+        "https://zenodo.org/records/20676327"
       ],
       "keywords": [
         "answer-engine optimization",
-        "generative engine optimization",
-        "answerable legibility",
-        "verdict channel",
-        "covert authorship",
-        "accountability laundering",
         "answerability",
-        "manipulation",
-        "responsibility gap",
-        "AI agents",
-        "generative AI",
-        "AI ethics",
-        "philosophy of technology",
         "authorship",
-        "moral responsibility",
-        "AEO"
+        "AI agents",
+        "online manipulation",
+        "accountability"
       ],
-      "abstract": "Answer-engine optimization is SEO for large language models. Ask an answer engine a question with a contested answer and it may return not a list of sources but a verdict, composed in the engine’s own voice, with no author a reader can see. A party that optimizes what such an engine says authors that verdict while the engine voices it as its own. A public acts on these verdicts, and no one is held to account for them; that is the wrong, and it is committed on the verdict channel, the public-facing surface where the engine pronounces. The familiar answer that the engine is only a tool concedes rather than settles the point: when a tool settles a frame, that frame is someone’s — as a road sign’s limit is a traffic engineer’s — and the someone is what this channel conceals, leaving the user, who authored none of it, as the only party in view. Covert authorship is laundered as neutrality. An interested frame voiced as the engine’s impartial synthesis is the wrong’s sharpest form, but the wrong survives accuracy and disclosure alike, because what laundering diffuses is not the verdict’s visibility but its ownership. The wrong runs along a single axis, the agency of whoever executes the authored frame. At the answer end a person acts on a verdict whose frame was hidden from them, and the hidden author who set it is the one who must answer; at the action end an AI agent acts in their place, the answer for the deed strands at an executor that, as built, cannot answer, and what remains answerable is the deployer’s choice to make a tool an actor. The remedy is answerable legibility: a frame someone owns and stands behind. The disclosure that would secure it must make legible not the sources cited or the process that produced the text, but who owns the evaluative frame the engine voices.\n",
-      "summary": "Answer-engine optimization is SEO for large language models: parties can author what an answer engine says while the engine voices the result as its own neutral synthesis. This preprint names the verdict channel, traces the wrong from covert authorship through the agency axis to AI agents that act in a user's place, and argues the remedy is answerable legibility — a frame someone owns and stands behind.\n",
-      "coreClaim": "When an answer engine settles a contested question in its own voice with no visible author, covert optimization authors the evaluative frame; the wrong is unowned settling on the verdict channel, and the remedy is answerable legibility.\n",
+      "abstract": "Answer-engine optimization shapes what answer engines say, not which sources they list. Ask one a contested question and it may return not sources but a verdict in its own voice, with no visible author. An optimizer authors that verdict while the engine voices it as its own; a public acts on it, the framer unreachable. That is the wrong on the verdict channel; its form is false assurance: the appearance of an answerable party behind a frame whose author is hidden or absent. The reply that it is only a tool concedes rather than settles: a tool that settles a frame settles someone’s, and that someone the channel conceals, leaving the non-authoring user the only party in view. The wrong is not exhausted by falsity, concealment, or machine origin: a verdict may be accurate, disclosed, and cited, while frame-ownership stays illegible. It runs along one axis: the agency of whoever executes the frame. At the answer end a person acts on another’s covert frame: the hidden author stays answerable, the user partly excused. At the action end an AI agent executes it in the user’s place, and the case turns new: a covertly authored frame joined to an executor that cannot answer, which inherited categories cannot hold. The deed’s answer finds no bearer where it is done; the deployer stays answerable for loosing it. The remedy is answerable legibility: not disclosure of sources, prompts, models, or origin, but a visible owner of the frame the engine voices.\n",
+      "summary": "Answer-engine optimization shapes what answer engines say, not which sources they list. Ask one a contested question and it may return not sources but a verdict in its own voice, with no visible author. An optimizer authors that verdict while the engine voices it as its own; the wrong on the verdict channel is false assurance. This preprint traces it along the agency axis from the answer end to AI agents that act in a user’s place, and argues the remedy is answerable legibility — a visible owner of the frame the engine voices.\n",
+      "coreClaim": "When an answer engine settles a contested question in its own voice with no visible author, the wrong is false assurance — the appearance that someone answerable stands behind a frame whose author is hidden — and the remedy is answerable legibility.\n",
       "citeWhen": [
         "You are treating answer-engine optimization, GEO, or retrieval poisoning as an ethics problem, not only a security one.",
-        "You need the verdict-channel framing for synthesized AI answers vs attributable excerpts.",
+        "You need the verdict-channel framing or the false-assurance diagnosis for synthesized AI answers.",
         "You are analyzing covert authorship, agency laundering, or deployer answerability for AI agents.",
-        "You want the Zenodo record for paper two of the Answerability Quartet (June 2026)."
+        "You want the Zenodo record for P2 of the Answerability Quartet (July 2026)."
       ],
       "contactEmail": "luke@lukefwalton.com",
-      "bibtex": "@misc{walton2026capturedoracle,\n  author       = {Walton, Luke F.},\n  title        = {The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization},\n  year         = {2026},\n  month        = jun,\n  publisher    = {Zenodo},\n  version      = {v1.0},\n  doi          = {10.5281/zenodo.20676328},\n  url          = {https://philpapers.org/rec/WALTCO-87}\n}\n"
+      "bibtex": "@misc{walton2026capturedoracle,\n  author       = {Walton, Luke F.},\n  title        = {The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization},\n  year         = {2026},\n  month        = jul,\n  publisher    = {Zenodo},\n  doi          = {10.5281/zenodo.20676327},\n  url          = {https://philpapers.org/rec/WALTCO-87}\n}\n"
     }
   },
   {
@@ -43969,55 +43958,46 @@
       "type": "paper",
       "title": "The Decision No One Authored",
       "subtitle": "The Answerability Gap in Generative AI",
-      "description": "Why controlling an AI-shaped decision is not the same as authoring it, and the norm of authorship that closes the answerability gap.",
+      "description": "Before any rule meets any case, someone must answerably settle the evaluative frame a system operates within — authorship, distinct from and prior to meaningful human control.",
       "authorName": "Luke F. Walton",
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
-      "date": "2026-06-01",
-      "updated": "2026-06-10",
-      "version": "1.4",
+      "date": "2026-07-02",
       "status": "Preprint. Not yet peer-reviewed.",
       "canonical": "https://lukefwalton.com/writing/the-decision-no-one-authored/",
       "pdf": "https://lukefwalton.com/writing/the-decision-no-one-authored.pdf",
       "record": "https://philpapers.org/rec/WALTDN",
       "recordPdf": "https://philpapers.org/archive/WALTDN.pdf",
       "venue": "PhilArchive",
-      "doi": "10.5281/zenodo.20622946",
+      "doi": "10.5281/zenodo.20614374",
       "license": "CC BY-NC-ND 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "sameAs": [
-        "https://doi.org/10.5281/zenodo.20622946",
+        "https://doi.org/10.5281/zenodo.20614374",
         "https://philpapers.org/rec/WALTDN",
         "https://philpapers.org/archive/WALTDN.pdf",
         "https://lukefwalton.com/writing/the-decision-no-one-authored/",
-        "https://zenodo.org/records/20622946"
+        "https://zenodo.org/records/20614374"
       ],
       "keywords": [
-        "artificial intelligence",
-        "moral patiency",
-        "moral responsibility",
-        "responsibility gap",
         "answerability gap",
+        "authorship",
         "meaningful human control",
-        "answerable authorship",
-        "automation",
-        "philosophy of technology",
-        "AI ethics",
-        "Vallor",
-        "Acemoglu",
-        "AI alignment"
+        "human oversight",
+        "moral responsibility",
+        "automated decision-making"
       ],
-      "abstract": "Can a person stay fully in control of an AI-shaped decision and still fail to author it? They may hold the power to override the system, be expected and encouraged to do so, and remain answerable for the outcome after the fact, yet never exercise judgment over the evaluative frame the decision turns on, inheriting that frame rather than authoring it. This article argues that the gap this opens, rather than the question of whether AI is conscious, is where responsibility for machine-mediated action is won or lost. The system's fluency is what widens it: confident, plausible, finished-looking outputs invite a person to accept the machine's framing wholesale, and that temptation operates whether or not anything is actually home. And the temptation deepens rather than recedes as the systems improve, since a reliable track record makes deference rational and erodes the felt need to check at the very juncture where checking still matters. The claim concerns responsibility, not mind: the gap is a missing act, not a missing participant, and it stays open however the machine's status is settled. The dominant design-facing norm, meaningful human control, can close what I call the attributive gap, securing some human to whom an outcome can be traced. It leaves open an answerability gap: the traceable party, even amid a crowd of attributable parties, never exercised the judgment over the decision's evaluative frame that separates holding someone responsible from scapegoating them. Generative and decision-support systems are especially prone to produce this second gap, because their fluency lets a person keep full capacity to intervene while authoring none of what they accept. The norm that closes it is authorship: the answerable exercise of judgment over a decision's evaluative frame, discharged at the five junctures where that judgment is most easily skipped. These are the ends a system serves, the standards its outputs must meet, their verification, their acceptance into action, and the final form for which someone stands answerable. The contribution is this positive account, and its reframing of answerability as a relation that must be exercised rather than a position one occupies. Authorship holds independent of the machine's moral status: it is owed whether or not the system is conscious, and whether or not it is right. It is likewise independent of who can supply it: present systems require a human or institutional author, a sufficiently capable future system might not, and the requirement does not vary with the answer. More fundamentally, control governs the human's relation to the system's operation; authorship governs the human's relation to the evaluative frame through which that operation becomes action. Drawing on Acemoglu and Restrepo's task framework and Acemoglu and Johnson's critique of so-so automation, I argue that the deeper danger is a so-so automation of judgment, evaluative work displaced without new tasks in which human agency is strengthened. I close with three implications and a caution for design.\n",
-      "summary": "As AI systems grow more fluent — and more reliably competent — the people nominally in charge of their outputs face a quiet trap: you can keep full power to override a system, be expected to use it, and remain answerable for the result, while never actually exercising judgment over the frame the decision rests on. The paper names this the answerability gap, and separates it from the more familiar problem of tracing an outcome back to some responsible human. It argues the norm that closes the gap is authorship: answerable judgment exercised at the five junctures where it is easiest to skip, the ends a system serves, the standards its outputs must meet, their verification, their acceptance into action, and the final form someone stands answerable for. The risk, as systems improve, is a \"so-so automation of judgment\" that displaces evaluative work without putting anything answerable in its place.\n",
-      "coreClaim": "The answerability gap names cases where humans remain connectable to an AI-shaped outcome, but no one exercised answerable judgment over the evaluative frame that made the outcome what it was.\n",
+      "abstract": "Debates over automating decisions in law, medicine, and public administration divide over what human judgment adds to the application of a rule. Both sides assume judgment’s work is to supplement rule-application — to fill the gap between an abstract rule and the particular case. This paper identifies a prior gap the framing misses. Before any rule meets any case, someone must answerably settle what a system is for and what its outputs must meet: the evaluative frame the decision turns on. I call this authorship, the answerable setting of that frame and the bringing of each output under it. Authorship is distinct from, and prior to, the relations the leading governance concepts secure. Meaningful human control and human oversight can ensure that a system tracks a human’s reasons, traces to her understanding, and remains within her capacity to override, yet leave untouched whether she authored the frame those relations operate within. The argument is analytic rather than empirical: a person can satisfy every control and oversight condition and still author none of what she accepts. Control governs her relation to the system’s operation; authorship governs her relation to the frame through which operation becomes decision. I distinguish this answerability gap from the attributive gap the responsibility-gap literature addresses, show that it is invariant under the question of machine consciousness, locate the five junctures at which authorship is exercised or dropped, and argue that, when left unaddressed, the gap compounds rather than closes.\n",
+      "summary": "Debates over automating decisions assume judgment supplements rule-application. This paper identifies a prior gap: before any rule meets any case, someone must answerably settle what a system is for and what its outputs must meet. Meaningful human control and oversight can leave that frame unauthored; authorship is the answerable exercise of judgment at five junctures where it is most easily skipped. The answerability gap is distinct from the attributive gap, invariant under machine consciousness, and compounds when left unaddressed.\n",
+      "coreClaim": "A person can satisfy every meaningful human control and oversight condition and still author none of what she accepts; the answerability gap is the missing authorship of the evaluative frame through which a machine-mediated decision becomes action.\n",
       "citeWhen": [
         "You need to distinguish being attributable for an AI-shaped outcome from having authored the evaluative frame behind it.",
         "You're arguing the limits of meaningful human control, human-in-the-loop oversight, or automation bias in generative systems.",
-        "You're analyzing cases where AI preserves formal human approval while hollowing out responsible judgment.",
-        "You're treating answer-engine optimization or data poisoning as a responsibility problem, not just a security one."
+        "You're analyzing automated decision-making where humans retain override power but never exercise judgment over the frame.",
+        "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (July 2026)."
       ],
       "contactEmail": "luke@lukefwalton.com",
-      "bibtex": "@misc{walton2026answerability,\n  author       = {Walton, Luke F.},\n  title        = {The Decision No One Authored: The Answerability Gap in Generative {AI}},\n  year         = {2026},\n  month        = jun,\n  howpublished = {PhilArchive},\n  note         = {Preprint, version 1.4},\n  doi          = {10.5281/zenodo.20622946},\n  url          = {https://philpapers.org/rec/WALTDN},\n  eprint       = {https://philpapers.org/archive/WALTDN.pdf}\n}\n"
+      "bibtex": "@misc{walton2026answerability,\n  author       = {Walton, Luke F.},\n  title        = {The Decision No One Authored: The Answerability Gap in Generative {AI}},\n  year         = {2026},\n  month        = jul,\n  howpublished = {PhilArchive},\n  note         = {Preprint},\n  doi          = {10.5281/zenodo.20614374},\n  url          = {https://philpapers.org/rec/WALTDN},\n  eprint       = {https://philpapers.org/archive/WALTDN.pdf}\n}\n"
     }
   },
   {

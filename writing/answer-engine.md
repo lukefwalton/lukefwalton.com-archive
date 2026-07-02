@@ -148,9 +148,9 @@ Source code, the example corpus, and the gold-query eval are available at <https
 
 ## References
 
-[1] L. F. Walton, "The Decision No One Authored: The Answerability Gap in Generative AI," preprint, v1.4, Zenodo, 2026. <https://doi.org/10.5281/zenodo.20622946>
+[1] L. F. Walton, "The Decision No One Authored: The Answerability Gap in Generative AI," preprint, Zenodo, 2026. <https://doi.org/10.5281/zenodo.20614374>
 
-[2] L. F. Walton, "The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization," preprint, Zenodo, 2026. <https://doi.org/10.5281/zenodo.20676328>
+[2] L. F. Walton, "The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization," preprint, Zenodo, 2026. <https://doi.org/10.5281/zenodo.20676327>
 
 [3] L. F. Walton, "The Invariant of Answerability," working paper, Zenodo, 2026. <https://doi.org/10.5281/zenodo.20606493>
 

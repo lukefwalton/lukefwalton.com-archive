@@ -68,8 +68,8 @@ bibtex: |
 
 This paper is **paper three** of the **Answerability Quartet** — four papers on who answers when an AI acts.
 
-1. [**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20622946) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-2. [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676328) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+1. [**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+2. [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 3. **This paper** — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 4. [**Building Answerable AI**](/writing/building-answerable-ai/) — the builder response ([DOI](https://doi.org/10.5281/zenodo.20682307) · [lukefwalton.com](https://lukefwalton.com/writing/building-answerable-ai/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
