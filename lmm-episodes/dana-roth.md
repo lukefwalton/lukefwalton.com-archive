@@ -18,14 +18,13 @@ appleUrl: "https://podcasts.apple.com/us/podcast/input-to-put-in-with-dana-roth/
 
 topicsDiscussed:
   - "Bass"
-  - "The pandemic"
   - "Collaboration"
+  - "The pandemic"
   - "Creativity"
   - "Animation timed to music and DIY music videos"
   - "Berklee burnout and self-taught animation"
   - "Debut album Airship"
   - "Music school vs. learning on your own"
-  - "Trust and groove in bass sessions"
   - "Rhythm in visuals and illustration"
 
 hostNote: |

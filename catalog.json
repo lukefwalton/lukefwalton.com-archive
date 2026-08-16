@@ -7475,6 +7475,158 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "chic-chameleon",
+    "title": "Anything That’s Unique with Chic Chameleon",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/chic-chameleon/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/chic-chameleon/",
+    "archive": {
+      "markdown": "lmm-episodes/chic-chameleon.md",
+      "html": "lmm-episodes/chic-chameleon.html"
+    },
+    "source": "src/content/lmm-episodes/chic-chameleon.md",
+    "metadata": {
+      "title": "Anything That’s Unique with Chic Chameleon",
+      "description": "Artist Chic Chameleon joined the show to talk about what makes a genre a genre, how to blend tones and influences, and how to grow a career from Edmonton, Canada. He’s supported Calgary bands Sea of Lettuce and Zoo! on their headlining tour, just played the Sled Island Festival in Calgary in June, and has garnered over 1,000,000 streams for his two great singles “Won’t you Love Me Again?” and “Shade Your Way.” His record’s almost out, dropping in August of this year.",
+      "status": "complete",
+      "date": "2026-07-07",
+      "kind": "guest",
+      "guestSlugs": [
+        "chic-chameleon"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Anything-Thats-Unique-with-Chic-Chameleon-e3lndjg",
+      "spotifyUrl": "https://open.spotify.com/episode/3fe83AMaRLAUjCxzf7StYC",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/anything-thats-unique-with-chic-chameleon/id1567355195?i=1000775758948&uo=4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yeGpRMhCQLk",
+      "topicsDiscussed": [
+        "Creativity",
+        "Dreams",
+        "Genre",
+        "Collaboration",
+        "Creative process and authenticity",
+        "Experiences at Sled Island Festival",
+        "Challenges of DIY recording",
+        "Live performance dynamics",
+        "Emotional journeys through music",
+        "Self-releasing music",
+        "Maintaining artistic identity",
+        "Insights on shoegaze and dream pop"
+      ],
+      "hostNote": "**Chic Chameleon** is Patrick Froese’s Edmonton dream-pop / shoegaze project. He has a bachelor’s in jazz and contemporary music, then left the chops-flex (Joshua Redman *Jazz Crimes* in school) for the stuff he actually wants to hear back: chill indie rock with a wall of sound. Shoegaze, in his telling, is literally gazing at your shoes — enveloped, not showing off.\n\nWe talk genre as looping and home, DIY recording after the pandemic, a live band (bass, drums, synth/backups) plus a vocal pedal he bought because he could not outsource the vibe, **Sled Island** in Calgary, and why Canadian college radio still matters when the next city might be Regina. Music, for him, is a way out of a negative headspace.\n",
+      "selectedMoments": [
+        {
+          "label": "Chic's musical background",
+          "startSec": 136,
+          "note": "Chic discusses the transition from jazz music to chill indie rock."
+        },
+        {
+          "label": "Listener interpretation of music",
+          "startSec": 197,
+          "note": "The conversation dives into how music can evoke different feelings for artists and listeners alike."
+        },
+        {
+          "label": "The definition of shoegaze",
+          "startSec": 450,
+          "note": "Chic explains the origins and essence of the shoegaze genre."
+        },
+        {
+          "label": "The use of vocal pedals in live shows",
+          "startSec": 2161,
+          "note": "Chic shares his experience with incorporating a vocal pedal in his live performances."
+        },
+        {
+          "label": "The emotional impact of music",
+          "startSec": 2314,
+          "note": "Chic reflects on how music serves as a refuge during difficult times."
+        },
+        {
+          "label": "Distinctive characteristics of dream pop",
+          "startSec": 541,
+          "note": "Discussion on how dream pop can create an immersive sound experience."
+        },
+        {
+          "label": "DIY recording insights",
+          "startSec": 900,
+          "note": "Chic elaborates on transitioning to a home recording setup during the pandemic."
+        },
+        {
+          "label": "The challenges of the indie music scene",
+          "startSec": 2075,
+          "note": "Chic reflects on the unique aspects of performing in Canada."
+        },
+        {
+          "label": "Balancing creative processes",
+          "startSec": 1190,
+          "note": "The complexities of multitasking in music creation and its challenges."
+        },
+        {
+          "label": "Perfection in music production",
+          "startSec": 1596,
+          "note": "Importance of maintaining unique qualities while striving for a polished sound."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "I started this project around six years ago... I'm making the stuff that comes out naturally and that I actually enjoy listening back to.",
+          "startSec": 137,
+          "reviewed": true
+        },
+        {
+          "text": "I feel like, you know, music itself because it's time-based, it begins and it ends... how are things looping and changing?",
+          "startSec": 361,
+          "reviewed": true
+        },
+        {
+          "text": "The original idea behind shoegaze is quite literally gazing at your shoes... you're kind of also gazing at your shoes, you're just enveloped in this wall of sound.",
+          "startSec": 412,
+          "reviewed": true
+        },
+        {
+          "text": "I just felt like I need to go find a network of musicians... where's the closest place I could do that?",
+          "startSec": 725,
+          "reviewed": true
+        },
+        {
+          "text": "My live performance is... I have a bass player, a drummer, and a synth player who does backups.",
+          "startSec": 2137,
+          "reviewed": true
+        },
+        {
+          "text": "If I can't rely on somebody for something that important, like I need to invest in the gear myself and make that decision myself.",
+          "startSec": 2159,
+          "reviewed": true
+        },
+        {
+          "text": "I love music because it can really get me out of a negative headspace... that's kind of always what I've used it for.",
+          "startSec": 2330,
+          "reviewed": true
+        },
+        {
+          "text": "If there is a weakness in one or just like you don't like doing one of them then... it's good to have people that have your back.",
+          "startSec": 2045,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is Chic Chameleon's music style?",
+          "answer": "Chic Chameleon blends chill indie rock with dream pop and shoegaze influences."
+        },
+        {
+          "question": "How does Chic Chameleon approach live performances?",
+          "answer": "Chic's live performance involves a band setup with a bass player, drummer, and synth backup, focusing on creating an immersive sound."
+        },
+        {
+          "question": "What inspired Chic Chameleon to pursue music?",
+          "answer": "Chic was inspired by personal experiences and a desire to create music that resonates emotionally with listeners."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "chris-hackman",
     "title": "The Soul of an Artist (with Human Barbie and veronicavon — Chris Hackman and Xuan Nguyen)",
     "type": "PodcastEpisode",
@@ -7867,14 +8019,13 @@
       "appleUrl": "https://podcasts.apple.com/us/podcast/input-to-put-in-with-dana-roth/id1567355195?i=1000773849975&uo=4",
       "topicsDiscussed": [
         "Bass",
-        "The pandemic",
         "Collaboration",
+        "The pandemic",
         "Creativity",
         "Animation timed to music and DIY music videos",
         "Berklee burnout and self-taught animation",
         "Debut album Airship",
         "Music school vs. learning on your own",
-        "Trust and groove in bass sessions",
         "Rhythm in visuals and illustration"
       ],
       "hostNote": "**Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation — which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.\n\nWe talk through learning animation vs. music school, the chaos of making your own music videos, trusting collaborators to let you be yourself on bass, and why putting a soundtrack on something makes the whole thing feel more magical.\n",
@@ -14117,6 +14268,148 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "joe-carra",
+    "title": "Pockets Of Presence with Joe Carra (Hiatus Kaiyote, Middle Kids, Pond)",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/joe-carra/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/joe-carra/",
+    "archive": {
+      "markdown": "lmm-episodes/joe-carra.md",
+      "html": "lmm-episodes/joe-carra.html"
+    },
+    "source": "src/content/lmm-episodes/joe-carra.md",
+    "metadata": {
+      "title": "Pockets Of Presence with Joe Carra (Hiatus Kaiyote, Middle Kids, Pond)",
+      "description": "With more than 30 years of experience, Grammy nominated, mastering engineer, Joe Carra, is the chief engineer at Crystal Mastering. He joins the pod to talk about the history, the present, and the future of the audio world. He dives into his Dolby Atmos setup and tips for managing such a stacked roster of musicians. As a mastering engineer, he has a unique perch, working on thousands of songs per year. So it’s great to hear his take on the whole thing and where this crazy industry is headed.",
+      "status": "complete",
+      "date": "2026-08-11",
+      "kind": "guest",
+      "guestSlugs": [
+        "joe-carra"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Pockets-Of-Presence-with-Joe-Carra-Hiatus-Kaiyote--Middle-Kids--Pond-e3n6a4t",
+      "spotifyUrl": "https://open.spotify.com/episode/0nINqxSDE2EowBTg7EUOJF",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/pockets-of-presence-with-joe-carra-hiatus-kaiyote/id1567355195?i=1000782506757&uo=4",
+      "topicsDiscussed": [
+        "AI",
+        "Mastering",
+        "Spatial audio",
+        "Dolby Atmos",
+        "Metadata and credits",
+        "Singles vs albums",
+        "NAMM and Melbourne community",
+        "Mentorship in audio education"
+      ],
+      "hostNote": "**Joe Carra** is a Grammy-nominated mastering engineer and chief engineer at **Crystal Mastering** in Melbourne, with 30-plus years on the desk and a roster that includes **Hiatus Kaiyote**, **Middle Kids**, and **Pond**. The episode title is his phrase: **pockets of presence** — half a dB, a dB, hours of listening to find the pocket that actually belongs to the record.\n\nWe talk through mastering as a small business (hustle, clients, never going complacent), why a stacked single-first schedule fights the album as a whole, Dolby Atmos as interpretation rather than a skippable step, and why **LANDR** “doesn’t understand context.” Joe also traces credits through digital distributors for the Music Producers Guild, and wants some of that NAMM spirit back in Melbourne.\n",
+      "selectedMoments": [
+        {
+          "label": "Joe's journey into mastering",
+          "startSec": 66,
+          "note": "Joe explains how he began his career in mastering despite wanting to be a recording and mixing engineer."
+        },
+        {
+          "label": "Challenges of the mastering business",
+          "startSec": 135,
+          "note": "Joe highlights the constant need for mastering engineers to hustle and maintain their clientele."
+        },
+        {
+          "label": "Entrepreneurial mindset",
+          "startSec": 201,
+          "note": "Joe discusses treating a mastering career like any small business and the importance of networking."
+        },
+        {
+          "label": "Discussing the Grammy-winning pedigree",
+          "startSec": 278,
+          "note": "The unique vantage point of mastering and how it compares to production."
+        },
+        {
+          "label": "Importance of understanding the overall project",
+          "startSec": 325,
+          "note": "Joe reflects on the intricacies of managing multiple clients and projects."
+        },
+        {
+          "label": "Mastering singles vs albums",
+          "startSec": 596,
+          "note": "Insights on how mastering singles first impacts the entire project."
+        },
+        {
+          "label": "The impact of AI on mastering",
+          "startSec": 1629,
+          "note": "Joe on LANDR: easy to beat, no special sauce a semi-experienced engineer couldn't do better."
+        },
+        {
+          "label": "On metadata and credits in music",
+          "startSec": 2207,
+          "note": "Exploring Joe's work with the Music Producers Guild regarding credit accuracy."
+        },
+        {
+          "label": "Community in the music industry",
+          "startSec": 2340,
+          "note": "Joe emphasizes the importance of community, drawing parallels from his experiences at NAMM."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "It's always challenging working in the industry itself, but that doesn't mean you can get complacent... things are always changing and moving.",
+          "startSec": 90,
+          "reviewed": true
+        },
+        {
+          "text": "You're an entrepreneur in this industry and you're trying to figure out your next moves and look at all the technology behind you.",
+          "startSec": 203,
+          "reviewed": true
+        },
+        {
+          "text": "Mastering is a unique vantage point just based on the sheer amount of music that you work on.",
+          "startSec": 283,
+          "reviewed": true
+        },
+        {
+          "text": "Mastering isn't about matching everything the same way. You just want to keep that spirit if nothing else.",
+          "startSec": 740,
+          "reviewed": true
+        },
+        {
+          "text": "The reality is particularly with major labels, they're in such a hurry to get stuff out the door that they're like, we've got a single now, the album's coming next week.",
+          "startSec": 597,
+          "reviewed": true
+        },
+        {
+          "text": "AI and that whole world seems to be progressing all the time, but I have eyes; I bought it for a rebalance function which can sometimes be a little get me out of jail scenario.",
+          "startSec": 1673,
+          "reviewed": true
+        },
+        {
+          "text": "It doesn't understand context. It doesn't understand music like we understand music.",
+          "startSec": 1851,
+          "reviewed": true
+        },
+        {
+          "text": "I did a little bit of a background project for the Guild where I kind of checked on credits... and traced it through the digital distributors to see where it got lost.",
+          "startSec": 2209,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What does Joe Carra mean by pockets of presence?",
+          "answer": "On a dense mix he looks for tiny, careful lifts — half a dB or a dB — that add presence without flattening the record. He spent hours finding which pocket worked, with the producer in the room."
+        },
+        {
+          "question": "What does Joe Carra think of LANDR and AI mastering?",
+          "answer": "Artists still send him LANDR versions to beat. He would rather use his own plugins than LANDR, and says it does not understand musical context the way an engineer does."
+        },
+        {
+          "question": "Where does Joe Carra work?",
+          "answer": "He is chief engineer at Crystal Mastering in Melbourne. crystalmastering.com is the contact he gives on the episode."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "john-michael-rouchell",
     "title": "Where American Music Began with John Michael Rouchell (G-Eazy, Avery*Sunshine, Galactic)",
     "type": "PodcastEpisode",
@@ -16449,6 +16742,147 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "little-luna",
+    "title": "Breathing In This Timeline with little luna",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/little-luna/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/little-luna/",
+    "archive": {
+      "markdown": "lmm-episodes/little-luna.md",
+      "html": "lmm-episodes/little-luna.html"
+    },
+    "source": "src/content/lmm-episodes/little-luna.md",
+    "metadata": {
+      "title": "Breathing In This Timeline with little luna",
+      "description": "I’ve been a fan of little luna’s music for years, and after this pod, I’m a fan of her process, informed by her background as a yoga instructor and in guided meditation. It’s easy to get swept up in all of the tasks behind releasing a song: the album art, recording, mix, master, marketing, etc. But little luna reminds us to take a breath, center the practice, and enjoy the ride.",
+      "status": "complete",
+      "date": "2026-07-21",
+      "kind": "guest",
+      "guestSlugs": [
+        "little-luna"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Breathing-In-This-Timeline-with-little-luna-e3maa20",
+      "spotifyUrl": "https://open.spotify.com/episode/2lyhsa1dydJiwF6d5e36xZ",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/breathing-in-this-timeline-with-little-luna/id1567355195?i=1000777678583&uo=4",
+      "topicsDiscussed": [
+        "Collaboration",
+        "Creativity",
+        "Songwriting",
+        "The music business",
+        "Creative influences — yoga and meditation",
+        "Music as a journey — authentic expression",
+        "Navigating the music industry today",
+        "Importance of visuals in music",
+        "Releasing music independently",
+        "Challenges of being a DIY artist",
+        "Embracing vulnerability in creative processes",
+        "Sync placements and their impact on indie artists"
+      ],
+      "hostNote": "**little luna** is an LA singer-songwriter who has taught **yoga and guided meditation for a decade**. Lyrics show up in meditation; she writes from voice memos with the antenna up. The episode title is her line: **breathing in this timeline** — a song can belong to the person living it, not just the chart.\n\nWe talk through an honest writing year with no real breaks, collaboration as a creative exchange even when the song stays hers, **sync** without abandoning the little-luna sound, and a live show she wants to feel like a heated yoga class: the music slaps, the flow works, everyone leaves better. She has even thought about VIP as a guided meditation, not just a photo.\n",
+      "selectedMoments": [
+        {
+          "label": "little luna on her creative process",
+          "startSec": 450,
+          "note": "Discusses how meditation influences her songwriting and how ideas come to her during her daily life."
+        },
+        {
+          "label": "Transition from acting to music",
+          "startSec": 2258,
+          "note": "Details her decision to fully commit to music and leave her acting career behind."
+        },
+        {
+          "label": "Artistic visual inspirations",
+          "startSec": 2391,
+          "note": "Describes how her visual themes and inspirations shape her music identity."
+        },
+        {
+          "label": "Embracing the challenges of the industry",
+          "startSec": 1415,
+          "note": "Talks about the reality of being an artist wearing many hats in today's music landscape."
+        },
+        {
+          "label": "Advice for aspiring artists",
+          "startSec": 1221,
+          "note": "Shares insights on how to authentically create and navigate the music industry."
+        },
+        {
+          "label": "The importance of collaboration",
+          "startSec": 586,
+          "note": "Explores what she looks for in collaboration and why it's vital to her creative process."
+        },
+        {
+          "label": "How little luna defines success",
+          "startSec": 2209,
+          "note": "Reflects on what it means to be successful in her art and personal motivations."
+        },
+        {
+          "label": "Her thoughts on artistic integrity",
+          "startSec": 1560,
+          "note": "Discusses remaining true to oneself while navigating commercial expectations."
+        },
+        {
+          "label": "The evolution of little luna's music style",
+          "startSec": 2432,
+          "note": "Reflects on her merging of different musical styles and influences over time."
+        },
+        {
+          "label": "Releasing new material",
+          "startSec": 94,
+          "note": "Covers her excitement about the upcoming rollout of multiple new songs."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "I love to follow that creative flow although it will end up being my song we're still making it together, we're having this creative exchange.",
+          "startSec": 498,
+          "reviewed": true
+        },
+        {
+          "text": "I've taken no real breaks and I haven't felt like I needed to. And so last year I just was... really trying to write the music that's the most honest to me.",
+          "startSec": 184,
+          "reviewed": true
+        },
+        {
+          "text": "I want to write my own and it is as cheesy as it sounds.",
+          "startSec": 2300,
+          "reviewed": true
+        },
+        {
+          "text": "Getting sync placements... has been placed by different companies that work with independent, unpublished artists.",
+          "startSec": 1087,
+          "reviewed": true
+        },
+        {
+          "text": "You could have a kind of trash song but somehow... it could end up... being massive even though it's kind of a trash song.",
+          "startSec": 1667,
+          "reviewed": true
+        },
+        {
+          "text": "If what I'm making sounds way too far away from my artistry, then when it gets placed in something, I'm probably not going to promote it because I don't, I'm like this doesn't relate to my artistry.",
+          "startSec": 1131,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What does little luna mean by breathing in this timeline?",
+          "answer": "She talks about songs belonging to the person living and breathing in this timeline — a favorite can be about the life you are in, not a universal chart formula."
+        },
+        {
+          "question": "How does little luna use yoga and meditation in her music?",
+          "answer": "She has taught yoga and meditation for about a decade. Lyrics often arrive in meditation; she treats live shows like a class where the music and the flow should leave people better."
+        },
+        {
+          "question": "How does little luna think about sync placements?",
+          "answer": "She will write toward sync boxes without abandoning the little-luna sound. If a placement is too far from her artistry, she will not promote it."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "luke-moellman",
     "title": "Mixing and Production with Luke Moellman (Great Good Fine Ok)",
     "type": "PodcastEpisode",
@@ -17053,6 +17487,129 @@
         {
           "question": "What insights do I share about spatial audio and Dolby Atmos?",
           "answer": "I talk about his certification in Dolby Atmos and how it influences his mixing techniques and music creation."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "mapping-randy-rhoads-to-the-shamisen",
+    "title": "Mapping Randy Rhoads to the Shamisen",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/mapping-randy-rhoads-to-the-shamisen/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/mapping-randy-rhoads-to-the-shamisen/",
+    "archive": {
+      "markdown": "lmm-episodes/mapping-randy-rhoads-to-the-shamisen.md",
+      "html": "lmm-episodes/mapping-randy-rhoads-to-the-shamisen.html"
+    },
+    "source": "src/content/lmm-episodes/mapping-randy-rhoads-to-the-shamisen.md",
+    "metadata": {
+      "title": "Mapping Randy Rhoads to the Shamisen",
+      "description": "What is your main (or favorite) instrument? Consider it, then take a step back. For example, I love guitar. But what is guitar but a stringed instrument like a lyre or a lute or a shamisen? When you think of it that way, there's a world out there to learn, then apply to your instrument. Never stop learning, even if you can shred like Randy!",
+      "status": "complete",
+      "date": "2026-07-28",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Mapping-Randy-Rhoads-to-the-Shamisen-e3mj7ob",
+      "spotifyUrl": "https://open.spotify.com/episode/1UdBPd0coCsygNKaPvqKW8",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/mapping-randy-rhoads-to-the-shamisen/id1567355195?i=1000778660420&uo=4",
+      "topicsDiscussed": [
+        "Creativity",
+        "Guitar",
+        "Randy Rhoads",
+        "Shamisen lessons",
+        "Musical growth",
+        "Diverse instruments",
+        "Creative expression",
+        "Learning from other musicians",
+        "Accessing your essence",
+        "Composing with new sounds",
+        "Connection to stringed instruments"
+      ],
+      "hostNote": "Guitar is a stringed instrument, like a lyre, a lute, or a **shamisen**. I took a shamisen lesson in Japan after reading **Randy Rhoads** taking guitar lessons on the road — never stop learning, even if you can shred. The bachi attack, the three-string layout, the koto sitting next to it in a geisha-trio picture: all of that can come back onto the guitar.\n\nSome players dabble with no primary instrument. I think that can be dangerous. Grow a dominant hand, then steal colors from the unfamiliar one.\n",
+      "selectedMoments": [
+        {
+          "label": "The essence of musical growth",
+          "startSec": 91,
+          "note": "I emphasize the act of creating music and the importance of returning to one's primary instrument."
+        },
+        {
+          "label": "Randy Rhoads as an inspiration",
+          "startSec": 137,
+          "note": "I discuss Randy Rhoads' approach to guitar and his commitment to continual learning."
+        },
+        {
+          "label": "Exploring the shamisen",
+          "startSec": 225,
+          "note": "Describing my experience in Japan and how the shamisen differs yet relates to the guitar."
+        },
+        {
+          "label": "Impact of playing different instruments",
+          "startSec": 319,
+          "note": "Explaining how skills from the shamisen can transform my guitar playing."
+        },
+        {
+          "label": "Musical insights from a shamisen lesson",
+          "startSec": 407,
+          "note": "Sharing a conversation with my teacher about the differences between the shamisen and the koto."
+        },
+        {
+          "label": "Composing through different lenses",
+          "startSec": 541,
+          "note": "I reflect on how merging familiar and new techniques can inspire creativity."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "What is your primary or what is your dominant instrument? Just like a right hand, left hand kind of situation.",
+          "startSec": 58,
+          "reviewed": true
+        },
+        {
+          "text": "There are some musicians that don't have a primary instrument. They kind of dabble. And I actually think that can be very dangerous.",
+          "startSec": 89,
+          "reviewed": true
+        },
+        {
+          "text": "One of the things that stuck with me most about his guitar world... was that he loved to go on the road and take guitar lessons.",
+          "startSec": 134,
+          "reviewed": true
+        },
+        {
+          "text": "The shamisen, literally three strings is very different than the guitar but fundamentally is kind of laid out in a similar way.",
+          "startSec": 272,
+          "reviewed": true
+        },
+        {
+          "text": "That is what you picture kind of like a geisha trio, they're playing shamisen, they're playing koto, they're playing together.",
+          "startSec": 405,
+          "reviewed": true
+        },
+        {
+          "text": "When I was doing that shamisen lesson, the woman that was teaching me also played koto, which is a large horizontal stringed instrument.",
+          "startSec": 363,
+          "reviewed": true
+        },
+        {
+          "text": "How can you attack the sense of emotion that you're trying to bring through both the thing that you're most familiar with and something that you're unfamiliar with?",
+          "startSec": 452,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the connection between Randy Rhoads and shamisen?",
+          "answer": "My discussion highlights how Randy Rhoads' dedication to mastering his instrument compels me to explore the shamisen, enhancing my musicality."
+        },
+        {
+          "question": "How can learning new instruments improve my music?",
+          "answer": "Learning different instruments helps to apply new techniques and perspectives, enriching your primary instrument's expression."
+        },
+        {
+          "question": "What insights did I gain from my shamisen lessons?",
+          "answer": "The lessons taught me about the unique qualities of stringed instruments and how to apply those insights to my guitar playing."
         }
       ],
       "transcriptPublished": false,
@@ -19639,6 +20196,139 @@
         {
           "question": "What are voice leading and polyphony?",
           "answer": "Voice leading involves the way individual melodic lines or voices move and connect, while polyphony refers to multiple independent melodies being played simultaneously."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "pacing-for-sustained-making",
+    "title": "Pacing for Sustained Making",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/pacing-for-sustained-making/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/pacing-for-sustained-making/",
+    "archive": {
+      "markdown": "lmm-episodes/pacing-for-sustained-making.md",
+      "html": "lmm-episodes/pacing-for-sustained-making.html"
+    },
+    "source": "src/content/lmm-episodes/pacing-for-sustained-making.md",
+    "metadata": {
+      "title": "Pacing for Sustained Making",
+      "description": "Making music in the age of streaming, AI, and the content treadmill is harder and easier than ever. But that's not the point at all, is it? Making a record, something you truly give your all to, is timeless and precious, but it's easy to lose yourself in it or break your momentum within it. Music is like the tide: it comes in with force, retreats to develop, then returns again. The key is catching the wave and riding it as far as it goes.",
+      "status": "complete",
+      "date": "2026-07-14",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Pacing-for-Sustained-Making-e3m0cam",
+      "spotifyUrl": "https://open.spotify.com/episode/0jdG4oHTveoJH2ANTsRTbf",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/pacing-for-sustained-making/id1567355195?i=1000776722545&uo=4",
+      "topicsDiscussed": [
+        "Creativity",
+        "The music business",
+        "The Tide of Music",
+        "Balancing Inspiration and Output",
+        "Challenges of Modern Distribution",
+        "Personal Reflections on Excitement in Music",
+        "Managing Creative Cycles",
+        "The Impact of Streaming on Artistry",
+        "Releasing Music Mid-Process",
+        "Artistic Inadequacy",
+        "Embracing the Creative Journey"
+      ],
+      "hostNote": "Making music in the streaming/AI treadmill is easier and harder at once, and that is not the point. I have put out **382 commercially released songs**, and the lesson I keep relearning is pacing: music has a **tide**. It comes in with force, retreats so you can fill the cup, then returns. Miss which phase you are in and you burn the record before it exists.\n\nI lost excitement on the last LP by putting it out as I was making it. Singles 1–6 spent the intensity that belonged to 7. When in doubt, make something — but some art is supposed to be slow. See the whole idea through, then let people accept or deny it.\n",
+      "selectedMoments": [
+        {
+          "label": "Introductory Thoughts on Creativity",
+          "startSec": 58,
+          "note": "I mention how creativity can fluctuate between fast-paced production and slow development."
+        },
+        {
+          "label": "The Tide of Music",
+          "startSec": 96,
+          "note": "Discussing the nature of music resembling a tide that requires knowledge of when to create and when to internalize."
+        },
+        {
+          "label": "Struggles with Momentum",
+          "startSec": 181,
+          "note": "Sharing personal feelings about maintaining excitement and momentum during the music-making process."
+        },
+        {
+          "label": "Releasing Music Midway",
+          "startSec": 270,
+          "note": "Explaining how releasing singles during the album-making process can potentially harm overall momentum."
+        },
+        {
+          "label": "Lessons on Speed versus Deliberation",
+          "startSec": 318,
+          "note": "Reflecting on my struggles with timely completion and the need to capture inspiration quickly."
+        },
+        {
+          "label": "Value of Full Ideas",
+          "startSec": 454,
+          "note": "Advocating for the importance of completing bigger musical ideas before slicing them into parts for release."
+        },
+        {
+          "label": "Artistic Inadequacy and Its Challenges",
+          "startSec": 632,
+          "note": "Discussing the toxic nature of feeling artistically inadequate amidst commercial pressures."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "Creativity is so strange because there will be times where things will happen very quickly, times that things will happen very slowly and they both have to coexist.",
+          "startSec": 59,
+          "reviewed": true
+        },
+        {
+          "text": "I think that there is a tide to music. It comes out, it goes in, and in order to really be in it and have a long-term career, you have to know when it's time to fill up your cup.",
+          "startSec": 97,
+          "reviewed": true
+        },
+        {
+          "text": "When in doubt, make something. However, that's not the way that everything goes, and also some art is supposed to be slow, some art is supposed to be fast.",
+          "startSec": 136,
+          "reviewed": true
+        },
+        {
+          "text": "The trick is knowing which is which and when to do which because it's very easy to do the opposite.",
+          "startSec": 146,
+          "reviewed": true
+        },
+        {
+          "text": "I lost excitement on my last record because I was putting it out as I was making it and not enough people liked it.",
+          "startSec": 226,
+          "reviewed": true
+        },
+        {
+          "text": "If you burn out all of your intensity on public reception of one through six before you even made seven, you may never make it.",
+          "startSec": 271,
+          "reviewed": true
+        },
+        {
+          "text": "If I was faster, I would have finished it and I would have captured that moment because I wasn't fast enough. I let that moment go by.",
+          "startSec": 321,
+          "reviewed": true
+        },
+        {
+          "text": "I think the best thing is to see that idea through because then it comes out whole and then people can accept or deny it.",
+          "startSec": 455,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What are the challenges of making music in the streaming era?",
+          "answer": "The challenges include managing the pace of creativity, dealing with public reception, and sustaining excitement throughout the music-making process."
+        },
+        {
+          "question": "How do I balance my inspiration and output in music?",
+          "answer": "It involves recognizing when to draw in inspiration and when to actively create, knowing that both elements are essential for a long-term music career."
+        },
+        {
+          "question": "What should I consider before releasing singles?",
+          "answer": "It's important to ensure that you don't compromise the overall vision of your project by releasing too many singles before the full work is finished."
         }
       ],
       "transcriptPublished": false,
@@ -22350,6 +23040,123 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "silence-the-points-between-the-notes",
+    "title": "Silence, The Points Between The Notes",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/silence-the-points-between-the-notes/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/silence-the-points-between-the-notes/",
+    "archive": {
+      "markdown": "lmm-episodes/silence-the-points-between-the-notes.md",
+      "html": "lmm-episodes/silence-the-points-between-the-notes.html"
+    },
+    "source": "src/content/lmm-episodes/silence-the-points-between-the-notes.md",
+    "metadata": {
+      "title": "Silence, The Points Between The Notes",
+      "description": "When the music stops... what happens? From dreams to songs-stuck-in-your-head to John Cage's 4'33\", silence is just as much a part of music as the actual music. Let's talk about breath, phrasing, anticipation, and even a little neuroscience.",
+      "status": "complete",
+      "date": "2026-06-30",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Silence--The-Points-Between-The-Notes-e3lecqk",
+      "spotifyUrl": "https://open.spotify.com/episode/34azmi92HJLVkgpfbGrj5c",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/silence-the-points-between-the-notes/id1567355195?i=1000774810583&uo=4",
+      "topicsDiscussed": [
+        "Philosophy",
+        "John Cage",
+        "The role of silence in music",
+        "Breath and music phrasing",
+        "Anticipation in rhythm",
+        "Neuroscience of sound",
+        "Groove dynamics",
+        "Emotional response in music",
+        "Transcribing from wind instruments",
+        "Silence in composition"
+      ],
+      "hostNote": "When the music stops, what is left? I start from Debussy and Miles on the spaces between notes, then **John Cage’s 4'33\"** — you cannot make a silence no matter what you try. Guitarists who transcribe horn players are really learning where to breathe.\n\nRhythm needs absence the way a phrase needs inhale. The brain still answers silence; groove is placement plus the hole that makes it funky. So much of the dopamine is anticipation, not the hit.\n",
+      "selectedMoments": [
+        {
+          "label": "Introduction to Silence",
+          "startSec": 54,
+          "note": "I introduce the concept of silence being integral to music and reference historical figures like Debussy and Miles Davis."
+        },
+        {
+          "label": "Cage's 4'33\" Explained",
+          "startSec": 137,
+          "note": "I discuss how Cage's 4'33\" shifts our perception of music and silence during a performance."
+        },
+        {
+          "label": "Silence and Rhythm",
+          "startSec": 229,
+          "note": "I explain how silence is necessary for rhythm to exist and how it echoes the act of breathing."
+        },
+        {
+          "label": "Neuroscience and Silence",
+          "startSec": 271,
+          "note": "Exploring the brain's auditory response to silence and the deeper connection tied to musical memory."
+        },
+        {
+          "label": "Groove and Anticipation",
+          "startSec": 361,
+          "note": "I delve into how groove is affected by silence and how music uses moments of anticipation to engage us."
+        },
+        {
+          "label": "Emotional Impact of Silence",
+          "startSec": 495,
+          "note": "I conclude by affirming that silence shapes emotional responses and the anticipation of upcoming musical phrases."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "The idea is true. And we should talk about Mr. John Cage.",
+          "startSec": 93,
+          "reviewed": true
+        },
+        {
+          "text": "You cannot make a silence no matter what you try.",
+          "startSec": 138,
+          "reviewed": true
+        },
+        {
+          "text": "In a lot of guitarists' lives is when they start transcribing horn players and trying to figure out how do they solo.",
+          "startSec": 181,
+          "reviewed": true
+        },
+        {
+          "text": "Music is pleasing not only because of the sound but because of the silence that is in it.",
+          "startSec": 224,
+          "reviewed": true
+        },
+        {
+          "text": "So much of what we have a dopamine response to is anticipation.",
+          "startSec": 494,
+          "reviewed": true
+        },
+        {
+          "text": "It's the placement and the absence that makes them funky, makes it groove.",
+          "startSec": 541,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is John Cage's 4'33\"?",
+          "answer": "4'33\" is a composition by John Cage where performers do not play their instruments for four minutes and thirty-three seconds, inviting the audience to focus on the ambient sounds and silence."
+        },
+        {
+          "question": "How does silence affect musical phrasing?",
+          "answer": "Silence provides necessary pauses and space which allow for rhythmic articulation and emotional expression in music."
+        },
+        {
+          "question": "Why is silence important in music composition?",
+          "answer": "Silence helps create anticipation and contrast, enriching the listener's experience and enhancing the impact of musical notes."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "sister-songs-writing-two-songs-back-to-back",
     "title": "Sister Songs (Writing Two Songs Back-to-Back)",
     "type": "PodcastEpisode",
@@ -25034,12 +25841,13 @@
       "guestSlugs": [],
       "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-Substrates-Inside-Speech-e3kq1hr",
       "topicsDiscussed": [
+        "AI",
+        "Creativity",
         "music and speech",
         "inflection and meaning",
         "crossing boundaries",
         "cultural rhythms",
         "language as music",
-        "AI and speech",
         "emotion in communication",
         "creative expression",
         "translating speech into music",
@@ -27299,6 +28107,118 @@
         {
           "question": "What defines a supergroup in rock music?",
           "answer": "A supergroup is formed by musicians who are already famous or accomplished in their own right, combining their talents."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "what-makes-a-song-a-hit-song",
+    "title": "What Makes a Song a Hit Song",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/what-makes-a-song-a-hit-song/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/what-makes-a-song-a-hit-song/",
+    "archive": {
+      "markdown": "lmm-episodes/what-makes-a-song-a-hit-song.md",
+      "html": "lmm-episodes/what-makes-a-song-a-hit-song.html"
+    },
+    "source": "src/content/lmm-episodes/what-makes-a-song-a-hit-song.md",
+    "metadata": {
+      "title": "What Makes a Song a Hit Song",
+      "description": "Robbie Williams is one of the biggest artists of all time in the United Kingdom. Why don't people know him in the United States? What makes something popular? Let's dig into the aesthetic \"aha\" and the ways researchers have been looking into it in the lab.",
+      "status": "complete",
+      "date": "2026-08-04",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/What-Makes-a-Song-a-Hit-Song-e3mscum",
+      "spotifyUrl": "https://open.spotify.com/episode/0CgvZBfkJ8bzsEkViUEfUU",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/what-makes-a-song-a-hit-song/id1567355195?i=1000779832311&uo=4",
+      "topicsDiscussed": [
+        "Cultural Context",
+        "Popularity Factors",
+        "Robbie Williams",
+        "Aesthetic 'Aha'",
+        "Psychology of Music",
+        "Familiarity vs. Novelty",
+        "Music Exposure",
+        "Song Evaluation",
+        "Digital Music Market",
+        "Social Influence on Music Taste"
+      ],
+      "hostNote": "**Robbie Williams** can fill stadiums in the UK and still be a blank to most Americans. That gap is the episode: what makes a song a hit is not a universal molecule in the audio. It is familiarity plus novelty — the aesthetic **aha** — run through a cultural lens.\n\nI walk through lab work on popularity cues (the same track ranked differently once people think it is already a hit), Gotye as both-at-once, and how digital ranking plus social proof can mint a local giant and a nowhere-else. Identical music, two rooms, two verdicts.\n",
+      "selectedMoments": [
+        {
+          "label": "Introduction to Robbie Williams",
+          "startSec": 58,
+          "note": "I discuss how Robbie Williams was introduced to his partner, highlighting the cultural gap."
+        },
+        {
+          "label": "Popularity and Cultural Context",
+          "startSec": 136,
+          "note": "I explore how cultural context affects the perception of music."
+        },
+        {
+          "label": "Aesthetic Components of Hit Songs",
+          "startSec": 227,
+          "note": "Discussion of the balance between familiarity and innovation in music."
+        },
+        {
+          "label": "Impact of Popularity on Song Success",
+          "startSec": 318,
+          "note": "Insights from a research study on how perceived popularity affects song ratings."
+        },
+        {
+          "label": "Differences in Music Ranking Over Time",
+          "startSec": 496,
+          "note": "I reflect on how music consumption and popularity ranking have changed in the digital age."
+        },
+        {
+          "label": "Addressing Independent Artists",
+          "startSec": 586,
+          "note": "Consideration of how social pressures influence the success of new independent artists."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "It's weird that I even know who Robbie Williams is.",
+          "startSec": 92,
+          "reviewed": true
+        },
+        {
+          "text": "This is such an interesting thing and I've been thinking about it all week...",
+          "startSec": 138,
+          "reviewed": true
+        },
+        {
+          "text": "If you can do both of those things at once, and I think like Gotye is such a good example...",
+          "startSec": 228,
+          "reviewed": true
+        },
+        {
+          "text": "So you could have a major hit in one world and relatively poor in another.",
+          "startSec": 364,
+          "reviewed": true
+        },
+        {
+          "text": "What do you get when you have somebody with identical music confronted in two different cultural lenses?",
+          "startSec": 677,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the cultural significance of Robbie Williams?",
+          "answer": "Robbie Williams is a massive star in the UK but has not gained the same recognition in the US, prompting discussions on cultural context and popularity."
+        },
+        {
+          "question": "How do cultural factors influence song popularity?",
+          "answer": "Cultural context can shape how audiences perceive music, affecting elements like familiarity and novelty in songs."
+        },
+        {
+          "question": "What psychological factors contribute to a song being a hit?",
+          "answer": "Factors like familiarity, expectation, and cultural resonance play crucial roles in determining why songs become popular."
         }
       ],
       "transcriptPublished": false,

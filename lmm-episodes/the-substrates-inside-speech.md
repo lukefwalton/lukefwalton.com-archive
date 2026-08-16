@@ -14,12 +14,13 @@ guestSlugs: []
 listenUrl: "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-Substrates-Inside-Speech-e3kq1hr"
 
 topicsDiscussed:
+  - "AI"
+  - "Creativity"
   - "music and speech"
   - "inflection and meaning"
   - "crossing boundaries"
   - "cultural rhythms"
   - "language as music"
-  - "AI and speech"
   - "emotion in communication"
   - "creative expression"
   - "translating speech into music"
