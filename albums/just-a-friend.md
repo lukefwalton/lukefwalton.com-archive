@@ -32,6 +32,6 @@ draft: false
 
 Chronology: parallel band line at La Costa Canyon (solo EPs ran at the same time) — Rock I IV V club (2006) · <a href="/with/casey-mcsocial/">Casey McSocial</a> (first band) · **Mannequin** (Walton founded) · <a href="/with/blue-suburbia/">Blue Suburbia</a> ([*The Other Side*](/albums/the-other-side/), 2009). Solo releases: [*Heart in Hand*](/albums/heart-in-hand/) (2008) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010, The Luke Walton Band).
 
-See [Catalog](/catalog/#luke-walton-band) · [Wikipedia: The Luke Walton Band](https://en.wikipedia.org/wiki/The_Luke_Walton_Band)
+See [Catalog](/catalog/#luke-walton-band) · [Wikidata: The Luke Walton Band (Q15044350)](https://www.wikidata.org/wiki/Q15044350)
 
 ---

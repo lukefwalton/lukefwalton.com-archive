@@ -762,9 +762,9 @@
         },
         {
           "outlet": "San Diego Reader (Swift Serenade, Jun 2009)",
-          "url": "https://www.sandiegoreader.com/news/2009/jun/17/blurt1/",
+          "url": "https://www.sandiegoreader.com/news/2009/jun/17/blurt1/?amp=&page=all",
           "date": "2009-06-17",
-          "desc": "San Diego Reader Blurt coverage of the Taylor Swift date video."
+          "desc": "San Diego Reader Blurt coverage of the Taylor Swift date video as a local artifact: recent graduate of La Costa Canyon, the YouTube rewrite of “Love Story,” KSON and local-TV attention, and a ~45,000-hit snapshot."
         },
         {
           "outlet": "San Diego Union-Tribune (May 2009)",
@@ -799,15 +799,26 @@
           "desc": "Official discography: Goodbye/Hello 2010, ~35:05, eleven-track order."
         },
         {
-          "outlet": "Wikipedia: The Luke Walton Band",
-          "url": "https://en.wikipedia.org/wiki/The_Luke_Walton_Band",
-          "desc": "Band history and release chronology."
+          "outlet": "Wikidata: The Luke Walton Band (Q15044350)",
+          "url": "https://www.wikidata.org/wiki/Q15044350",
+          "desc": "Structured record: musical group, inception 2006, San Diego, alternative rock. Replaces the English Wikipedia article, which was deleted July 16, 2026 after a deletion discussion; the Wikidata item carries no lineup."
         },
         {
           "outlet": "Charitable Chords: Know Your Rights",
           "url": "https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world",
           "date": "2010-06",
           "desc": "Student charity compilation for Knit The World. Track 5: Luke Walton (Blue Suburbia), Preschool."
+        },
+        {
+          "outlet": "TEDxUSC: Peter Lee Johnson — Electric Violin Performance",
+          "url": "https://www.youtube.com/watch?v=XitV7TGn1b4",
+          "date": "2010-06-21",
+          "desc": "TEDx Talks upload. The speaker bio names Johnson as a USC Thornton Popular Music Performance student “currently performing with 'The Beat Advocate' and 'The Luke Walton Band'” — a dated third-party source for the band's lineup, ten weeks before Goodbye/Hello was released."
+        },
+        {
+          "outlet": "ReverbNation: lukewaltonmusic",
+          "url": "https://www.reverbnation.com/lukewaltonmusic",
+          "desc": "Surviving Luke Walton Music artist profile from the early-internet era; source lead for the pre-USC self-promotion trail alongside the archived lukewaltonband.com."
         }
       ],
       "draft": false
