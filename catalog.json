@@ -44895,11 +44895,12 @@
       "type": "paper",
       "title": "The Decision No One Authored",
       "subtitle": "The Answerability Gap in Generative AI",
-      "description": "Before any rule meets any case, someone must answerably settle the evaluative frame a system operates within — authorship, distinct from and prior to meaningful human control.",
+      "description": "A person can retain full control of an AI-shaped decision and still fail to author it — the answerability gap is a missing act of judgment over the evaluative frame.",
       "authorName": "Luke F. Walton",
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
-      "date": "2026-07-02",
+      "date": "2026-08-25",
+      "version": "2.0",
       "status": "Preprint. Not yet peer-reviewed.",
       "canonical": "https://lukefwalton.com/writing/the-decision-no-one-authored/",
       "pdf": "https://lukefwalton.com/writing/the-decision-no-one-authored.pdf",
@@ -44918,23 +44919,23 @@
       ],
       "keywords": [
         "answerability gap",
-        "authorship",
-        "meaningful human control",
-        "human oversight",
+        "moral patiency",
+        "attributability",
         "moral responsibility",
+        "meaningful human control",
         "automated decision-making"
       ],
-      "abstract": "Debates over automating decisions in law, medicine, and public administration divide over what human judgment adds to the application of a rule. Both sides assume judgment’s work is to supplement rule-application — to fill the gap between an abstract rule and the particular case. This paper identifies a prior gap the framing misses. Before any rule meets any case, someone must answerably settle what a system is for and what its outputs must meet: the evaluative frame the decision turns on. I call this authorship, the answerable setting of that frame and the bringing of each output under it. Authorship is distinct from, and prior to, the relations the leading governance concepts secure. Meaningful human control and human oversight can ensure that a system tracks a human’s reasons, traces to her understanding, and remains within her capacity to override, yet leave untouched whether she authored the frame those relations operate within. The argument is analytic rather than empirical: a person can satisfy every control and oversight condition and still author none of what she accepts. Control governs her relation to the system’s operation; authorship governs her relation to the frame through which operation becomes decision. I distinguish this answerability gap from the attributive gap the responsibility-gap literature addresses, show that it is invariant under the question of machine consciousness, locate the five junctures at which authorship is exercised or dropped, and argue that, when left unaddressed, the gap compounds rather than closes.\n",
-      "summary": "Debates over automating decisions assume judgment supplements rule-application. This paper identifies a prior gap: before any rule meets any case, someone must answerably settle what a system is for and what its outputs must meet. Meaningful human control and oversight can leave that frame unauthored; authorship is the answerable exercise of judgment at five junctures where it is most easily skipped. The answerability gap is distinct from the attributive gap, invariant under machine consciousness, and compounds when left unaddressed.\n",
-      "coreClaim": "A person can satisfy every meaningful human control and oversight condition and still author none of what she accepts; the answerability gap is the missing authorship of the evaluative frame through which a machine-mediated decision becomes action.\n",
+      "abstract": "Can a person retain full control of an AI-shaped decision and still fail to author it? Consider a hypothetical pension fund whose generative system guides its allocations through a decade of good returns. Officers review proposals, can override anything, and sign every trade: every outward mark of control, oversight, and authorship is present. Yet in this case, the conception of risk under which the money moves remains a vendor's default: no one at the fund ever decides what risk should mean for these beneficiaries. The decision appears authored, though the fund never made the judgment it turns on. The natural question is whether responsibility has shifted to the machine or remains secured by the humans around it. Debates over consciousness, patiency, and machine agency address the first possibility; meaningful human control and oversight address the second. Neither settles whether anyone performed that prior judgment. I call this the answerability gap. It is deepest where the system is best: reliability promotes the unowned frame into more consequential decisions and dissolves the checking that would expose it. The paper gives an account of the missing act and of the adoption that makes an inherited frame answerably one's own.\n",
+      "summary": "A pension fund can keep every outward mark of control — override, review, a named signer on every trade — and still never decide what risk should mean for its beneficiaries. That failure is the answerability gap: not a missing human in the loop, and not a question about whether the machine is a mind, but a missing act of judgment over the frame the decisions run on. Meaningful human control and oversight can hold completely while that act never occurs. Reliability makes the gap deeper: good returns promote the unowned frame and retire the checking that would expose it. Closing it is adoption — confronting the value choice and making the inherited frame answerably one's own.\n",
+      "coreClaim": "A person can retain full control of an AI-shaped decision and still fail to author it; the answerability gap is a missing act of judgment over the evaluative frame, not a missing participant or a missing capacity.\n",
       "citeWhen": [
-        "You need to distinguish being attributable for an AI-shaped outcome from having authored the evaluative frame behind it.",
+        "You need to distinguish being attributable for an AI-shaped outcome from having performed the judgment over the evaluative frame behind it.",
         "You're arguing the limits of meaningful human control, human-in-the-loop oversight, or automation bias in generative systems.",
-        "You're analyzing automated decision-making where humans retain override power but never exercise judgment over the frame.",
-        "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (July 2026)."
+        "You're analyzing automated decision-making where humans retain override power but never adopt the frame the system operates under.",
+        "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (preprint v2.0, August 2026)."
       ],
       "contactEmail": "luke@lukefwalton.com",
-      "bibtex": "@misc{walton2026answerability,\n  author       = {Walton, Luke F.},\n  title        = {The Decision No One Authored: The Answerability Gap in Generative {AI}},\n  year         = {2026},\n  month        = jul,\n  howpublished = {PhilArchive},\n  note         = {Preprint},\n  doi          = {10.5281/zenodo.20614374},\n  url          = {https://philpapers.org/rec/WALTDN},\n  eprint       = {https://philpapers.org/archive/WALTDN.pdf}\n}\n"
+      "bibtex": "@misc{walton2026answerability,\n  author       = {Walton, Luke F.},\n  title        = {The Decision No One Authored: The Answerability Gap in Generative {AI}},\n  year         = {2026},\n  month        = aug,\n  howpublished = {PhilArchive},\n  note         = {Preprint, version 2.0},\n  doi          = {10.5281/zenodo.20614374},\n  url          = {https://philpapers.org/rec/WALTDN},\n  eprint       = {https://philpapers.org/archive/WALTDN.pdf}\n}\n"
     }
   },
   {

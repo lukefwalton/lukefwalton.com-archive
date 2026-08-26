@@ -2,11 +2,12 @@
 type: "paper"
 title: "The Decision No One Authored"
 subtitle: "The Answerability Gap in Generative AI"
-description: "Before any rule meets any case, someone must answerably settle the evaluative frame a system operates within — authorship, distinct from and prior to meaningful human control."
+description: "A person can retain full control of an AI-shaped decision and still fail to author it — the answerability gap is a missing act of judgment over the evaluative frame."
 authorName: "Luke F. Walton"
 authorAffiliation: "Independent Researcher"
 orcid: "0009-0005-9263-1954"
-date: 2026-07-02
+date: 2026-08-25
+version: "2.0"
 status: "Preprint. Not yet peer-reviewed."
 canonical: "https://lukefwalton.com/writing/the-decision-no-one-authored/"
 pdf: "https://lukefwalton.com/writing/the-decision-no-one-authored.pdf"
@@ -24,38 +25,41 @@ sameAs:
   - "https://zenodo.org/records/20614374"
 keywords:
   - answerability gap
-  - authorship
-  - meaningful human control
-  - human oversight
+  - moral patiency
+  - attributability
   - moral responsibility
+  - meaningful human control
   - automated decision-making
 abstract: >
-  Debates over automating decisions in law, medicine, and public administration divide over what human judgment adds to the application of a rule. Both sides assume judgment’s work is to supplement rule-application — to fill the gap between an abstract rule and the particular case. This paper identifies a prior gap the framing misses. Before any rule meets any case, someone must answerably settle what a system is for and what its outputs must meet: the evaluative frame the decision turns on. I call this authorship, the answerable setting of that frame and the bringing of each output under it. Authorship is distinct from, and prior to, the relations the leading governance concepts secure. Meaningful human control and human oversight can ensure that a system tracks a human’s reasons, traces to her understanding, and remains within her capacity to override, yet leave untouched whether she authored the frame those relations operate within. The argument is analytic rather than empirical: a person can satisfy every control and oversight condition and still author none of what she accepts. Control governs her relation to the system’s operation; authorship governs her relation to the frame through which operation becomes decision. I distinguish this answerability gap from the attributive gap the responsibility-gap literature addresses, show that it is invariant under the question of machine consciousness, locate the five junctures at which authorship is exercised or dropped, and argue that, when left unaddressed, the gap compounds rather than closes.
+  Can a person retain full control of an AI-shaped decision and still fail to author it? Consider a hypothetical pension fund whose generative system guides its allocations through a decade of good returns. Officers review proposals, can override anything, and sign every trade: every outward mark of control, oversight, and authorship is present. Yet in this case, the conception of risk under which the money moves remains a vendor's default: no one at the fund ever decides what risk should mean for these beneficiaries. The decision appears authored, though the fund never made the judgment it turns on. The natural question is whether responsibility has shifted to the machine or remains secured by the humans around it. Debates over consciousness, patiency, and machine agency address the first possibility; meaningful human control and oversight address the second. Neither settles whether anyone performed that prior judgment. I call this the answerability gap. It is deepest where the system is best: reliability promotes the unowned frame into more consequential decisions and dissolves the checking that would expose it. The paper gives an account of the missing act and of the adoption that makes an inherited frame answerably one's own.
 summary: >
-  Debates over automating decisions assume judgment supplements rule-application. This paper
-  identifies a prior gap: before any rule meets any case, someone must answerably settle what
-  a system is for and what its outputs must meet. Meaningful human control and oversight can
-  leave that frame unauthored; authorship is the answerable exercise of judgment at five
-  junctures where it is most easily skipped. The answerability gap is distinct from the
-  attributive gap, invariant under machine consciousness, and compounds when left unaddressed.
+  A pension fund can keep every outward mark of control — override, review, a
+  named signer on every trade — and still never decide what risk should mean
+  for its beneficiaries. That failure is the answerability gap: not a missing
+  human in the loop, and not a question about whether the machine is a mind,
+  but a missing act of judgment over the frame the decisions run on. Meaningful
+  human control and oversight can hold completely while that act never occurs.
+  Reliability makes the gap deeper: good returns promote the unowned frame and
+  retire the checking that would expose it. Closing it is adoption — confronting
+  the value choice and making the inherited frame answerably one's own.
 coreClaim: >
-  A person can satisfy every meaningful human control and oversight condition and still author
-  none of what she accepts; the answerability gap is the missing authorship of the evaluative
-  frame through which a machine-mediated decision becomes action.
+  A person can retain full control of an AI-shaped decision and still fail to
+  author it; the answerability gap is a missing act of judgment over the
+  evaluative frame, not a missing participant or a missing capacity.
 citeWhen:
-  - "You need to distinguish being attributable for an AI-shaped outcome from having authored the evaluative frame behind it."
+  - "You need to distinguish being attributable for an AI-shaped outcome from having performed the judgment over the evaluative frame behind it."
   - "You're arguing the limits of meaningful human control, human-in-the-loop oversight, or automation bias in generative systems."
-  - "You're analyzing automated decision-making where humans retain override power but never exercise judgment over the frame."
-  - "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (July 2026)."
+  - "You're analyzing automated decision-making where humans retain override power but never adopt the frame the system operates under."
+  - "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (preprint v2.0, August 2026)."
 contactEmail: "luke@lukefwalton.com"
 bibtex: |
   @misc{walton2026answerability,
     author       = {Walton, Luke F.},
     title        = {The Decision No One Authored: The Answerability Gap in Generative {AI}},
     year         = {2026},
-    month        = jul,
+    month        = aug,
     howpublished = {PhilArchive},
-    note         = {Preprint},
+    note         = {Preprint, version 2.0},
     doi          = {10.5281/zenodo.20614374},
     url          = {https://philpapers.org/rec/WALTDN},
     eprint       = {https://philpapers.org/archive/WALTDN.pdf}
@@ -64,13 +68,17 @@ bibtex: |
 
 ## Disclosures
 
-**Competing interests.** The author is the founder of Surmado, Inc., which builds AI-orchestration systems for small businesses. The paper's diagnosis applies to that commercial work as much as to any other actor's. No funding was received for this work, and the analysis was neither commissioned nor reviewed by any commercial party. This work was conducted in the author's personal capacity; the views expressed are the author's own and do not represent those of any employer.
+**Competing interests.** The author is the founder of Surmado, Inc., which builds AI-orchestration
+systems for small businesses. The paper's diagnosis applies to that commercial work as much as to
+any other actor's. No funding was received for this work, and the analysis was neither commissioned
+nor reviewed by any commercial party. This work was conducted in the author's personal capacity;
+the views expressed are the author's own and do not represent those of any employer.
 
-**Funding.** No funding was received for this work.
-
-**Data availability.** No datasets were generated or analyzed during the current study.
-
-**Use of generative AI.** Four frontier foundation models supported literature search, section-level drafting, argument pressure-testing, revision, and formatting: ChatGPT 5.5 (OpenAI), Claude Opus 4.8 and Claude Fable 5 (Anthropic), and Gemini 3.5 (Google). The author originated the thesis and its central distinctions, set the standards for inclusion, drafted sections of the text, directed and revised all model-drafted material, and verified the claims, quotations, and citations against primary sources rather than against model agreement. The author is answerable for the final form.
+**Generative AI use.** Several frontier foundation models (from Anthropic, OpenAI, Google, and xAI)
+supported literature search, sectional drafting, argument pressure-testing, revision, and formatting.
+The author originated the thesis and its central distinctions, set the standards for inclusion, directed
+and revised all drafted material, and verified every claim, quotation, and citation against primary
+sources rather than against model agreement. The author is answerable for the final form.
 
 ## Companion papers
 
@@ -89,227 +97,698 @@ It comprises [**answer-engine**](https://github.com/lukefwalton/answer-engine) v
 
 Site-level search that uses a language model without being a chatbot: one question in, cited answer or honest refusal out. The model may write the sentence; the system owns the frame — evidence boundaries, citation grounding, refusal modes, and gold-query evals stay outside the model.
 
-## 1 Two Questions, Run Together
-Suppose a firm adopts an AI system to assist its hiring. The system is trained on the firm’s historical hiring records, configured to predict a target the firm labels “high performer,” and deployed so that it returns a ranked shortlist from each pool of applicants. A recruiter reviews the ranking and decides whom to advance. The recruiter can override the system at any point; after the fact, the firm can say exactly which person signed off on which decision. By most ordinary lights a human being remained responsible for the hiring. And yet it is far from obvious that anyone, in the relevant sense, authored the decisions the system shaped. The recruiter inherited a definition of merit encoded in data she never examined, accepted a ranking as though it were evidence rather than a proposal, and treated a contested evaluative question, whom should we hire and on what grounds, as already answered by the time it reached her desk. She had control. It is much less clear that she exercised judgment.
-
-The debate this collection takes up divides over what human judgment adds to the application of a rule: critics hold that sensitive decisions need a human to supply what no rule codifies, while enthusiasts answer that human judgment is just the noise a rule should discipline away. Both sides share an assumption — that the work judgment does is to supplement rule-application, to fill the gap between an abstract rule and the particular case. The hiring case exposes a gap of a different kind, one prior to the gap judgment is asked to fill. Before any rule is applied to any case, someone must have settled what the system is for, what would count as a good output, and that this question — whom to hire, on what conception of merit — is the one the machine will now answer. That settling is not rule-application and not the discretion that supplements it; it is the authorship of the evaluative frame within which rules and cases later meet. My claim is that this prior act is what goes missing when decisions are routed through fluent systems, and that the leading governance concepts — meaningful human control, human oversight — do not reach it. That is why a person can remain fully in control of a decision and still fail to author it.
-
-A second conflation reinforces the first: public argument centers on the machine’s status (whether it is conscious, sentient, the sort of thing that can be wronged) and supposes that settling it settles responsibility. It does not: the machine’s status and the human’s answerability differ in subject and, I will argue, in answer.
-
-The literatures that have thought hardest about preserving responsibility (responsibility gaps, meaningful human control) can already connect a human to a system closely enough that an outcome is attributable to her. For the systems now in ordinary use, attributability is not the binding constraint: the recruiter in my example is attributable; the firm can name her. What has gone missing is not the locus of responsibility but its content: the evaluative work that makes holding her responsible accountability rather than a search for someone to blame. The norm that names that work is what I will call authorship. The right question is not whether a human was in the loop but which actor set which juncture, with what authority, and whether that juncture was fixed upstream or reopened in the present case.
-
-The argument is philosophical, but it arises from a practical problem familiar to anyone who designs and deploys these systems: how to build AI that increases what people can do without dissolving responsibility for what they do.
-
-## 2 Answerability and Patiency Are Different Questions
-By moral patiency I mean the property in virtue of which an entity can be wronged: whether there is something it is like to be it, in Nagel’s (1974) phrase, such that what happens to it matters morally for its own sake. By answerability I mean the property of being a fit bearer of responsibility for an action or outcome, the standing to be asked to give reasons for it (Shoemaker, 2011). Whether a human or institution is answerable for a machine-mediated action is a question about us, not the machine.
-
-The patiency question remains open. Current large language models are poor candidates: indicator-based assessment finds no strong evidence of consciousness (Butlin et al., 2023, 2026; cf. Seth, 2025), and their first-person reports, trained on human descriptions and reversible by reprompting, are weak evidence (Chalmers, 2023). The disciplined position (call it practical agnosticism) holds that no decisive barrier rules out future candidates and certainty either way is unearned.
-
-The temptation is to draw the moral directly: current systems are probably not patients, so the only constraint is what we owe other humans. The inference is too quick: the questions lie on different axes, and the answer to one does not fix the other.
-
-Machine ethics has long had the separation available: Floridi and Sanders (2004) argued that an artificial agent can be a genuine source of moral action without the mental states that would make it blameworthy, and treated agency and patiency as distinct roles. The lesson is the structural separation, not their constructive program: source of moral action, fit bearer of responsibility, and possible recipient of moral treatment come apart.
-
-Full answerability requires more: to hold someone responsible, on Strawson’s (1962) account, is to regard them as an apt target of the reactive attitudes (resentment, indignation, gratitude) extended to fellow participants in our practices of holding one another responsible. Responsibility in this sense is not having caused an outcome but standing in a relationship in which one can be addressed, can answer, and can be held to account. On current evidence the systems in use do not stand in that relation: to be angry at a language model, as opposed to angry about what was done with it, misdirects the attitude onto what cannot, as built, answer for itself.
-
-Against that claim stands Dennett (1987): on the intentional-stance view, treating a system as a reasoner is not the discovery of an inner fact but a stance warranted by reasons-responsive competence, gradable and extensible in principle, so denying this system that standing can look assumed rather than argued. I grant the stance; the argument never required the machine to fall short. Predictive competence settles when we may treat a system as a participant in the space of reasons; it does not settle who authored the evaluative frame the decision turns on, because that frame was fixed about the system, not by it: the target it predicts and the history it learned from were settled before there was anything to take a stance toward. On either answer, the frame the model handed the recruiter was authored by no one: the missing act, not the missing participant.
-
-Vallor and Vierkant (2024) converge from the responsibility-gap side, arguing that current systems lack the reciprocal standing our responsibility practices require; and the answerability at issue is not Tigard’s (2021a) technological answerability, a system engineered to give answers, since saying why it produced an output is not being the party that must answer for its being acted on.
-
-Two conclusions establish the decoupling. First, whether or not a system is a patient, none now in use is fit, on the evidence, to bear responsibility for a machine-mediated outcome in the place of the human who acted through it. A system that became a being we could wrong would not thereby become one we could blame in the recruiter’s place, and one that became able to answer for its own acts would not thereby become able to answer for hers. Second, the human answerability the machine cannot absorb does not lapse because the machine is sophisticated, fluent, or surprising. It can be displaced and obscured by poor design; it cannot leave the human whose act it answers for, because that act is hers. Answerability is therefore invariant under the resolution of the patiency question. We do not need to know whether the machine has an inner life to know who must answer for what is done through it.
-
-This is a stronger position than the one it replaces. “Current AI is probably not conscious, so humans remain in charge” is hostage to its premise; the decoupling grants the empirical point and denies the conclusion: answerability never rested on the machine’s lacking a mind.
-
-## 3 The Mirror and the Gap
-If answerability cannot transfer to the machine, why is it so often lost? Three bodies of work triangulate the answer: two explain why abdication is tempting, the third why it is dangerous.
-
-The temptation is illuminated by Vallor’s (2024) account of contemporary AI as a mirror. Systems trained on the human archive do not stand outside our culture; they reflect our language, judgments, and institutional habits back to us, fluently enough to be mistaken for an independent source of insight. The diagnosis is right, and the fluency operates with particular force at the point of judgment. A ranked list, a drafted paragraph, a recommendation: each arrives formatted as a conclusion, and the smoothness of the presentation is itself an argument for accepting it. The mirror does not merely tempt us to believe the machine understands; it tempts us to treat its outputs as if the evaluative work that would make them trustworthy were already done. Abdication therefore feels, from the inside, like reasonable reliance rather than surrender, a tendency well documented in operators’ over-reliance on automated aids (Parasuraman & Riley, 1997).
-
-Capability sharpens a turn the mirror account stops short of. Fluency tempts by making an output look finished; competence tempts by making deference correct. A reliably right system earns a trust the merely fluent one never could, the fit response to a track record. But a track record is also what dissolves the felt need to check, and most where the system has performed best. Vaughan’s (1996) Challenger study located the failure in a normalization of deviance: a component performed outside its tested limits, returned intact, and each intact return read not as a near miss but as confirmation that the limit was safe to cross. Reliability had set the frame that no one authored. A competent system industrializes exactly this, one user and one uneventful Tuesday at a time: the better it works, the more reasonable it becomes to stop authoring, and the more complete the abdication on the case where the frame is wrong and nothing on the surface says so. The failure itself is not proprietary to generative systems; a regression can carry an unauthored frame as faithfully as a transformer. But generative fluency is what lets it scale and disappear: the more finished the output, the less visible the frame it inherits.
-
-Those are the two faces of the temptation. The danger they court is the one Matthias (2004) made canonical: as learning systems become more adaptive, responsibility for what they do becomes hard to attribute by tracing back to a manufacturer’s or operator’s choices. A harm issues from data no one fully inspected, behavior no one fully predicts, reliance no one designed; the ordinary machinery of attribution finds no one who clearly intended or controlled it. Responsibility threatens to go missing between the human contributors, not to migrate into the machine.
-
-Together they compose a single mechanism: the mirror supplies motive and cover, making abdication feel like good judgment; the gap supplies the cost, dispersing accountability across a chain of contributors until the judgment is no one’s. The recruiter sits exactly at the junction: the firm can point to her, she to the system, the system to the data, the data to a history no present agent chose.
-
-Some deflate the gap or deny it outright: Tigard (2021b) holds that our responsibility practices flex enough to encompass new technological agents, Königs (2022) that the circumstances of a gap are underspecified and its harms overstated, Demirtas (2025) that such gaps are neither new nor problematic, and Kasar (2025) that the difficulty is one of responsibility for unintentional action, traceable to human agents and modifying rather than negating their responsibility. Each is right that nothing has migrated into the machine. But every such route reaches, at most, a locatable answerable party: a practice can always find someone to hold answerable without anyone having authored the decision. The question is therefore architectural rather than metaphysical (how should systems and institutions be arranged so answerability is preserved rather than dispersed?), and it is to the leading answer, and its limits, that I turn.
-
-## 4 Why Control Is Necessary but Not Sufficient
-The prior literature has approached this gap from several directions and stopped short of it in the same way each time. Accounts of the responsibility gap secure, or deny the loss of, a human to whom the outcome can be traced; decision-ownership requires that a decision-maker be positioned to endorse the values a system encodes; meaningful human control requires the system to track the relevant human reasons and trace to a human who understands it; human-oversight mandates require the capacities to interpret, resist, and override. Each secures a relation between a human and the system’s operation. None secures the relation between a human and the evaluative frame through which that operation becomes a decision — the answerable exercise of judgment over what the system is for and what its outputs must meet. That relation is what I call authorship. The structure of the prior art’s insufficiency is uniform: every one of these conditions can be fully satisfied while the frame the decision turns on was authored by no one. The existing accounts are not mistaken. They answer a different question, and the question they leave open is the one on which responsibility for a machine-mediated decision turns.
-
-The most developed of these frameworks is meaningful human control. It originates in the autonomous-weapons debate, where Sparrow (2007) argued that no candidate party (programmer, commander, machine) could justly be held responsible for an atrocity. Santoni de Sio and van den Hoven (2018) gave it philosophical foundations: a system is under meaningful human control when it satisfies a tracking condition (responsiveness to the relevant moral reasons of the relevant humans and the relevant facts of the environment) and a tracing condition (traceability to the appropriate moral understanding of at least one human agent in its design or use).
-
-This is a genuine advance over the slogan of keeping a human “in the loop,” whose mere presence is a formality that licenses the institution to claim a human was responsible; Green (2022) presses this into a general indictment of oversight mandates as false assurance. The failure isolated here is the complementary one: the human can intervene, is fairly attributable, and the judgment over the frame is missing.
-
-Developed against systems that act, the framework has since been operationalized for decision-support systems of exactly the hiring kind (Cavalcante Siebert et al., 2023); my claim is not that the extension fails but that, even succeeding, it secures control over an evaluative frame rather than authorship of it. The recruiter can override any recommendation, the system tracks the firm’s stated reasons, and its behavior traces to humans who understand it: both conditions are satisfied, and the failure described in §1 has nonetheless occurred.
-
-Neither condition captures what has gone wrong, because both take the frame as given. Tracking is silent on whether the tracked reasons were the product of judgment or were inherited, unexamined, from the vendor’s choice of target variable: someone decided that “high performer” was the thing to predict, converting a contested normative question into a settled prediction problem, a decision nowhere registered as requiring justification. Tracing to a human who understands the system is not judgment about what its ranking should mean.
-
-This may understate the framework: tracking does not require responsiveness to just any reasons the firm holds; it requires the relevant moral reasons. If the target variable encodes a conception of merit corrupted by inherited bias, tracking is not satisfied after all, and meaningful human control already condemns the hiring system.
-
-I grant the charitable reading. Tracking and tracing, however construed, are relational: they hold or fail between a system’s behavior and a frame supplied from elsewhere, and say nothing about the act of supplying it. Authorship is that act, the answerable exercise of judgment that determines which reasons are the relevant ones, and to fault the system for tracking a defective conception of merit already presupposes a better conception someone was answerable for authoring. The point holds even if the relevant reasons are fully objective, for objective reasons do not operationalize themselves: between whatever merit really is and the target a system predicts stand choices of proxy, threshold, and scope that the true reasons underdetermine, a fortiori if reasons can underdetermine even which action they favor (Kozlovski, 2025). The realist needs an author no less than the constructivist — not to make the values true, but to make some determinate conception of them operative and answer for the making. The determination still owed is an authorial act, not a refinement of control.
-
-The two notions come apart in both directions, which is what shows them to be distinct norms rather than one norm at two strengths. A frame can be defensible and yet unauthored. Consider a triage system that orders incoming support tickets by predicting which will escalate, on a definition of escalation no one disputes. Tracking and tracing are uncontroversially satisfied even on the most demanding reading: the system answers to a reason everyone endorses, and its behavior traces to operators who understand exactly what it does. And yet the operator may have authored nothing. She accepts the ordering without having decided what standard a prediction must meet before she acts on it, and without ever making the ordering her own judgment rather than the system’s default. The frame is correct and the authorship is hollow. Conversely, a frame can be authored and yet wrong, since authorship tracks the answerable exercise of judgment, not the correctness of its result. The framework’s own authors grant as much: in their example of a commander who knowingly deploys an autonomous weapon that cannot comply with the laws of armed conflict, Santoni de Sio and van den Hoven (2018) note that “not only the tracing, but also the tracking condition is satisfied,” even as the attack is unlawful and the commander culpable. Both conditions are met and the ends are still wrong. The absorption objection succeeds only by quietly identifying authorship with getting the values right; once that identification is refused, the distinction is secure, because correctness is neither necessary nor sufficient for authorship. Authorship is therefore not thicker control but a prior condition that control presupposes and does not supply.
-
-Control, when it succeeds, secures a locus of responsibility but not its content: whether the connected human performed the evaluative work in virtue of which the attribution is just. Two failures hide under the single phrase “responsibility gap.” The first is attributive, the gap Matthias and Sparrow identified: no human is connected closely enough to bear responsibility at all. The second is an answerability gap: someone, often many people, is attributable for the outcome, but no one exercised the answerable judgment over its evaluative frame that responsibility is supposed to track. The distinction is Shoemaker’s (2011), between attributability and answerability, here sorting gaps in a distributed act rather than kinds of one agent’s responsibility.
-
-The nearest decision-support account, Zeiser’s (2024), isolates a problem of decision-ownership — what he frames as preserving human authorship in decisions — from a closely parallel hiring case and Shoemaker vocabulary: a decision is owned insofar as it reflects the decision-maker’s value-judgments, which she should be able to explain and answer for. What separates the present account is his leading repair: being positioned to endorse the value-judgments the system presupposes. Endorsement-capacity is a standing relation, not an occurrent act: it asks whether the agent would endorse a frame supplied from elsewhere, not whether she set it — endorsement on request being, §5 will argue, the mark of a frame inherited rather than authored. The gap Zeiser opens is real; the capacity to endorse does not close it.
-
-Despite the name, the answerability gap is not a shortage of attributable parties: in the hiring case they abound (firm, procurer, vendor, recruiter) and the wrong is not that responsibility lacks somewhere to land but that none of them performed the answerable judgment it presupposes. Kiener (2025) argues, against the gap tradition, that AI-mediated harms typically leave too many attributable parties, not too few. The abundance is real but orthogonal: it is a fact about attribution, and a crowd of attributable parties can each have taken the frame ready-made from the next — deployer from vendor, user from deployer. Abundance is the complement of the answerability gap, not a rival. A genuine gap exists only when no juncture was occurrently authored: target from convention, convention from data, data from a history no present party chose and owns; where some juncture was authored but blame lands elsewhere, the failure is a misallocation of attributable authorship, nearer many hands than a gap. The recruiter’s is the first kind, even where the vendor deliberated over “high performer” before settling on it: a frame is more specific than a product’s general target, and what went unauthored is its fitness as the operative standard for this firm’s hire of this role, a choice no one confronted and owned.
-
-When the locus is secured but empty, holding the connected human responsible is closer to scapegoating than accountability: Elish’s (2019) moral crumple zone names the operator faulted despite too little control; here the operator has control in abundance and what is missing is judgment, because the fluency that makes intervention unnecessary also makes abdication invisible. And the zone is not assigned at random: it is engineered into the cheapest, most replaceable region, so when a frame authored by no one comes due, the account runs downhill onto the approver who did not procure the system, configure its target, or choose the vendor — the party the same institutional logic can afford to lose.
-
-The problem of many hands (Thompson, 1980) is usually told as diffusion; but the diffusion is not symmetric and does not net to no-one-pays. It strips answerability from the parties with the standing to shed it and deposits the remainder on the party with the least: agency laundering (Rubel et al., 2019), then the laundered account coming to rest. “Human in the loop” names a safeguard, but a loop is also the shape a blame circuit takes, a station wired in so the circuit can close, when an outcome must be answered for, on whoever occupies it — an occupant where an author was owed; and the position is a position, not a person, refilled when its occupant is consumed. The account does not vanish into the crowd of hands. It moves: never discharged by the parties who incurred it, never forgiven, only relocated, until it rests on whoever is least able to move it on. Whether a wrong always leaves such an account, invariant under mediation, is more than one case can establish; I take it up separately. What the case forces is enough: the answerability gap is not dangerous because blame goes nowhere. It is dangerous because blame goes somewhere predictable: downhill.
-
-The rotation has a second effect, on the frame rather than on the person, and it is the more lasting of the two. When the recruiter leaves and another fills the chair, the unauthored frame is handed on intact, and the next occupant inherits it exactly as she did, as a given, not a choice. Across enough cycles the frame is not merely unauthored once but continuously: it drifts, as the system is retrained on its own accumulating outputs and as each occupant ratifies what the last left in place, and at no point does any party confront the drift as a decision. The result, after some years, is a conception of merit the firm now runs on that no human ever chose and none can account for — not because the record was lost but because the authoring was never done. Whether the drift is large or small is an empirical question and beside the point; what is structural is that there is, by construction, no one positioned to say why the frame is what it has become, or to be asked to correct it. This is why the answerability gap is not a momentary lapse but a ratchet. A frame no one authored cannot be answerably revised, because revision too is an authorial act, and the same conditions that prevented the first prevent every correction after. The abdication compounds, and what compounds is precisely the absence of anyone who could arrest it.
-
-The failure is institutional first: ends and standards were settled upstream, in the choice of vendor, configuration, and target, and that is where the missing authorship was owed. Nor is the gap among the four Santoni de Sio and Mecacci (2021) distinguish: theirs sort kinds of responsibility a party may fail to bear; this one cuts within secured attribution, nearest their active responsibility without being a species of it. The recruiter is positioned to author going forward, and the gap opens exactly there, between being positioned to author and having authored. Arendt (1963) named the local failure thoughtlessness: action continued without the reflective interruption in which one asks what one is actually doing. What transfers is the concept: a person can be present, capable, and compliant while having suspended the judgment that would make the action hers. The next section develops authorship as that interruption made a standing requirement rather than a private virtue.
-
-## 5 Authorship
-I define authorship as the exercise of answerable judgment at five junctures of a machine-mediated action — two at which its evaluative frame is set, and three at which each output is answerably brought under that frame: the ends the system serves, the standards by which its outputs are evaluated, the conditions under which those outputs are verified, the moment at which an output is accepted into action, and the final form for which someone stands answerable. The first two set the frame; the last three are exercised anew with each decision, and they are not further frames but the acts by which each output is answerably brought under the frame already set: measured against the standard, admitted under it into action, owned as it goes out. Nor are they control under another name. Control concerns the capacity to intervene in the system’s operation; these three junctures sit where operation becomes action, and what they demand is not the capacity to intervene but answerability for the admitting — a judgment, exercised on this case, that the standing frame governs it and is met. Authorship is not solitary creation: the author need not perform any task the system performs, provided its use remains answerable at the five points; for deployed systems that author is human or institutional, and the requirement is on the authorship, not the author; whether a future system could itself answerably author is the question §2 left open.
-
-The five are not a checklist of governance desiderata but the junctures at which a single relation, answerability for the action, is discharged or dropped, and each is individually necessary: a decision taken toward unexamined ends is not redeemed by careful verification, and a well-framed decision accepted by default is unauthored at the moment it becomes an act. Authorship admits of degree along these dimensions; the five are defeasible constitutive conditions for responsible machine-mediated action.
-
-The term is used here in a restricted, responsibility-centered sense, for answerable judgment over a decision’s evaluative frame: not in the aesthetic or proprietary sense, nor the credit-and-blame sense in which Nyholm (2024) asks how praise or blame for generative outputs attaches to the user.
-
-The everyday sense runs the other way. A model that drafts a paragraph has, in ordinary speech, authored it; but making is execution, which transfers to a system without remainder; what does not transfer is answerability for the frame the artifact serves. A system can supply every word and answerably author none of it, just as a person can answerably author a decision whose every word a system supplied. When I say a frame was authored by no one, I mean that no party answerably owned it, not that no party shaped it.
-
-Nor do I claim to have discovered the junctures. Several appear, in operational dress, in the EU AI Act’s Article 14, which requires that those overseeing a high-risk system be able to understand its limits, resist automation bias, interpret its output, and decide not to use it (Regulation (EU) 2024/1689). But Article 14 secures capacities for oversight; authorship is the relation in which exercising them preserves responsibility. The contribution is the organization, and the relation it serves, not the bare list.
-
-Authorship of ends. Every deployed system is for something, and what it is for is a value choice the system cannot make. Whether a hiring tool should predict tenure, productivity, or a richer conception of what the firm should want in its people is not a technical question. The choice hides inside an objective or target variable, making a normative decision look like a modeling one; translating an aim into a target is a documented site of discretionary, normatively loaded choice (Passi & Barocas, 2019). To author the ends is to recognize the value choice and own it rather than accept the objective that arrives pre-installed.
-
-Authorship of standards. Distinct from the ends a system serves is what counts as a good output. A model can apply a standard, but it cannot be the source of the standard by which its own output is judged, on pain of a circularity in which the system both produces the work and certifies it. The criteria must be specified outside the model, by parties answerable for them, so the output is measured against something it did not generate; where standards are tacit, or read off the model’s own confidence, authorship of standards has lapsed even with every other safeguard in place.
-
-Authorship of verification. A fluent output looks finished, the mirror’s characteristic danger. Verification reconnects an output to the reality it purports to be about: the claim checked against the source, the summary against the document. Competence sharpens the danger, since each past success is genuine evidence about the next; verification is the juncture a competent system erodes first, and fastest where it has performed best. What must be checked, against what, and before which consequences may follow is fixed with the standards; what verification authors is the performed check — that the checking actually occurred, on this case, as this party’s act rather than an assumption.
-
-Authorship of acceptance. In any machine-mediated action there is a moment at which a proposal becomes a deed: the draft becomes the sent email, the ranking the rejection letter. This is the hinge of authorship, where the human either exercises judgment or merely ratifies, and the deepest design failures collapse it by making acceptance the default or the path of least resistance. The limiting case is familiar from coding agents that offer auto-accept modes: settings that run commands and write files without a confirmation step, colloquially called “YOLO mode.” It is the acceptance juncture removed by design.
-
-Authorship of final form. Authorship includes standing behind the artifact as it goes out: answerability not only for releasing it but for what it does, including consequences unintended but foreseeable. It begins before any harm, in the willingness to be the one who answers if it is questioned.
-
-It helps to see the five satisfied rather than only breached. Consider a physician using a system to draft a clinical note. The end is one the physician has authored: an accurate record in the service of care, not throughput. The standards are external to the model, held by the profession: clinical accuracy, completeness, the norms of the record. Verification is built into the act: she reads the draft against what happened in the room and corrects it. Acceptance is explicit: nothing enters the record until she signs. And the final form goes out under her name, hers to answer for. The system does a great deal, yet authorship is intact: its output remained a proposal, measured against standards it did not set, by the person who answers for the result. The contrast with the hiring case is not that one uses AI and the other does not; both use it heavily. The difference is whether the evaluative frame was authored or inherited.
-
-Two features protect against predictable misreadings. First, authorship includes control but exceeds it: much of what a system does (retrieval, formatting, computation, synthesis) can be handed over entirely without loss of authorship, provided the five junctures remain answerably human; authorship is not a brake on automation but a constraint on where it may run without remainder. Second, authorship is an exercised relation, not a location: “human in the loop” is the wrong unit (Crootof et al., 2023), since a human can occupy the loop while authoring nothing, and answerability can hold from far upstream if she authored the ends and standards in force.
-
-What distinguishes a frame a human has authored from one merely inherited and waved through? If her conception of merit is itself absorbed from her culture, the “authorial” hiring manager looks no less a conduit than the model, and the demand threatens to regress without end.
-
-The regress dissolves once one declines a premise it smuggles in. A model’s relation to its corpus and a person’s relation to her culture are not the same relation: the model’s outputs can be steered into a different answer, but no one is addressed by the steering; a person can be asked why this conception of merit and not another, and can change it, because the question lands on an agent who must answer. That is the asymmetry — not malleability, which both have, but answerability, which only one of them has. The objection tests authorship against origin, but authorship was never origination: an absorbed frame can still be authored.
-
-And holding a frame answerably is something a person must do, not something she would do if asked. Someone must have confronted the value choice the frame encodes, recognized it as a choice, and made it; a disposition to defend a frame one never set is the mark of not having set it. Occurrence is a fact a record can show, not an introspective episode: a default examined, a target contested, a standard set where none was supplied — the closing locatable as someone’s doing. The exercise is occurrent, but it is not therefore constant: the frame is authored once, by whoever sets it — possibly far upstream — and the per-output acts anew with each decision. This is why speed does not defeat the physician: her profession occurrently set her standards, and she occurrently verifies and accepts each note, however fast she signs.
-
-Nor is the profession’s authorship merely the recruiter’s inheritance one level up. The difference is an act with a name: adoption. The profession authored its standards as standards, and the physician adopted them by an answerable act, entering a practice that holds her to them; what remains open per encounter — the fit of the standard to the case before her — is exactly what her verification and acceptance answer for. Authorship of ends and standards can thus be discharged far upstream, by answerably adopting what an answerable party set; adoption is occurrent, a confrontation that closes in someone’s name. What persists thereafter is not a disposition doing authorial work but the standing effect of a completed act, as a promise binds after the promising; what mere endorsement-capacity lacks is not persistence but occurrence. What it cannot be discharged by is procurement. The firm bought a tool containing a definition of merit, and no one made that definition the firm’s own: no adoption upstream, only ratification at the desk, so the fitness of “high performer” as the operative standard for this hire was confronted nowhere. And adoption is what the regress objection was asking for — the act by which a frame absorbed from elsewhere becomes answerably one’s own.
-
-The occurrent requirement is also why the recruiter fails despite passing every dispositional test. Asked, she would defend “high performer,” hear an objection, perhaps revise; but no one occurrently authored the ends her system serves, and standing willingness to justify what one merely received is not authoring it. Reflective deference fails the same way: “I have considered it and I trust the system” makes the trust answerable while leaving the frame exactly as mute as she found it. A long tradition ties asserting to a standing readiness to defend what one has put forward (Brandom, 1983), but that commitment runs to the product, the claim asserted, whereas authorship concerns who set the frame: one can be fully answerable for defending a recommendation while having authored none of the choices that made it.
-
-Authorship cannot pass to the model for a reason that survives every improvement in its training. What a system has are sources only in the sense of provenance — where its material came from — not in the sense of backing, a party who stands answerably behind a claim and is accountable to a reality it might get wrong. The distinction matters because the machine has no reality it registers as its own to answer to: when it is corrected, the correction lands on the next output, not on anyone who must say why the last was wrong. A person tracking such a reality registers constantly the gap between what her sources settle and what they do not — the Socratic mark of knowing the limits of one’s knowledge — and that posture is precisely what authorship requires and what a generative system, as built, cannot take up. A perfectly curated, perfectly current corpus would change none of this. Authorship needs an agent who can answer for the frame, and curating data supplies no such agent.
-
-Authorship, it will be objected, is the romantic fiction of the solitary maker; real institutions distribute responsibility across many hands. The objection mistakes distribution for dissolution. A film has hundreds of contributors and a structure of authorship nonetheless; authorship can be distributed across the five junctures, provided each act was someone’s answerable judgment and the chain reconstructable; the bearer may even be an institution (List, 2021). What converts distribution into dissolution is the absence, at one or more junctures, of any hand at all. Distributed authorship is how complex action is properly governed. Dissolved authorship is the answerability gap under another name.
-
-A final objection concerns demandingness. If authorship requires that someone occurrently confront the value choice a frame encodes, much institutional life before AI fails the standard too; so either the answerability gap is everywhere and the machine is incidental, or the standard quietly relaxes whenever it would convict ordinary practice. I refuse both horns. The standard never relaxes: it was always failable, and this paper’s own diagnostic cases predate the technology; normalization of deviance and bureaucratic thoughtlessness are old failures of exactly this kind, convicted by the same criterion. Nor is the gap everywhere: adoption shows the standard ordinarily met, and the physician satisfies all five junctures at working speed because her profession confronted the value choices once, answerably, upstream. And the machine is not incidental: what generative fluency changes is not the standard but the economics of failing it, the scale at which inherited frames are installed and the invisibility of their acceptance. The gap is not everywhere, and it is not new. What is new is how cheaply it is produced and how little it shows.
-
-## 6 Three Implications for Design
-If the binding problem is abdicated judgment rather than absent control, design should be evaluated by whether it preserves authorship, not whether it inserts a human somewhere in a process. Three implications follow from the five junctures of §5.
-
-The first is to separate generation from acceptance. A system may generate a candidate output, but the act by which it becomes action must remain distinct and identifiable, performed by an answerable party under standards fixed in advance. Resist designs in which acceptance is the default: the draft that sends itself, the ranking acted on unless someone intervenes. Proposals should stay legible as proposals until someone accepts them, and acceptance should be an act, not the absence of an objection: authorship of acceptance built into the architecture rather than left to the user’s discipline.
-
-The second is to keep the standards outside the model. The criteria by which an output is judged must not come from the system whose output they govern, nor silently from the model’s own confidence or training distribution. They must be specified, and owned (adopted as the institution’s own rather than inherited as a vendor’s default), by parties answerable for them, held where the model can be measured rather than left to certify itself.
-
-The third is to make responsibility traceable across layers. Because authorship is distributed, the defense against its dissolution is the ability to reconstruct the chain: who set the goal, chose the model, framed the interface, verified the outputs, accepted the consequences. A system for which this reconstruction is impossible has not eliminated responsibility; it has hidden it, which is worse. The design literature is converging on such commitments (Zhu et al., 2026); the contribution here is the answerability they presuppose, not the layering.
-
-A limit must be owned; it is the thesis applied to its own remedy. These commitments can be implemented at the architecture level, disallowed operations made structurally inexpressible rather than prevented by convention. What architecture cannot do is manufacture the judgment: a target variable shown in bright letters can still be waved through, an inserted check clicked past as reflexively as it was added. Architecture can refuse to let the exercise of judgment be invisible. It cannot perform it for the user.
-
-A caution cuts across the three: a system framed as a colleague or an oracle invites the deference that hollows authorship; framed as an instrument, it keeps the user in the authorial position. Anthropomorphic role assignment is not cosmetic: it partly determines whether the human will author what the system does or merely accept it.
-
-## 7 Objections
-Is this not Vallor’s mirror thesis restated? No. The mirror is a diagnosis: it explains why deference to AI outputs is tempting. I accept it and build downstream of it, in three claims the mirror does not make: that human answerability is independent of the machine’s moral status, that control is insufficient for the failure mode generative systems produce, and that the repair is a specific, design-relevant norm of authorship. Diagnosis and remedy are different achievements; it is the remedy I am defending.
-
-Is the gap not simply the familiar one between rule and case, the discretion particularism defends? No: discretion operates within a frame already set, choosing how a rule meets a case. Authorship is the prior act of setting what the system is for and what its outputs must meet. A casuist judging the particular still presupposes that someone authored the ends the judgment serves; the gap named here is upstream of the rule-following the debate concerns.
-
-Does the decoupling fail if AI becomes conscious, or a genuine participant in the space of reasons? It is built to concede both. Patiency would change what we owe the system; participation would let it answer for its own acts; neither makes it the bearer of the human’s answerability for her act: earning the standing to answer for one’s own conduct is not exercising judgment over the terms of someone else’s decision. And a future system built so that no one answers for what it does is a fact about how it was built — an indictment of building it that way, not a discovery that answerability has migrated into silicon.
-
-Does privileging human judgment ignore that it is itself biased? It strengthens the account: the hiring system’s bias was inherited from human history encoded in the data, and the claim is not that human judgment is reliable but that responsibility requires an answerable party who exercised it. The right response is to author more carefully, not to abdicate to a system that launders the same bias while removing the one who could be held to account.
-
-Does alignment dissolve the gap? To align a system is to make its ends good, not to make them anyone’s. Even intent alignment, which makes the ends the principal’s, secures a tracking relation; and tracking, §4 argued, holds between behavior and a frame supplied from elsewhere. Alignment is necessary and insufficient in just the way control is: an aligned model leaves the gap exactly where a misaligned one does.
-
-Is this, in the end, a counsel against using AI? The opposite. The danger is abdication, not automation; a system whose users author the ends, standards, verification, acceptance, and final form of what it produces is better, not diminished.
-
-## 8 Conclusion
-Whether these systems are, or might become, minds we could wrong is a real question I have not settled; I have argued it is the wrong question to center, because its answer, whatever it proves, leaves human answerability untouched. Patiency is uncertain and may change; answerability is immediate and does not. We can usually name the human who signed off. What we cannot assume is that she authored what she signed.
-
-The deepest temptation the mirror presents is not that we will mistake the machine for a person, but that we will let it do our judging and call the result a decision. Fluency opens that door and competence walks us through it, for the reason §3 gave: reliability earns a trust that makes not-checking reasonable, and the reasonable abdication is the hardest kind to interrupt, because nothing about it feels like surrender. The discipline this requires is the reflective interruption described earlier: the moment in which a person asks what is actually being done, and whether she can answer for it. To build and use these systems well is to keep that interruption alive, to ensure that somewhere in the chain between the model’s output and the act it becomes, a human being remained answerable for the judgment the machine was used to make. Neglecting the answerability gap extends the separation of liability from authorship, until someone answers for everything and authored none of it. The likelihood of such a future increases as the machines improve. Every increment of capability is an increment in the rational case for deference, and so in the ease of the abdication: the better the system, the less anything feels wrong as the judgment quietly stops being anyone’s.
+## 1. The Decision and Its Subjects
+
+Suppose a public pension fund adopts an AI system to guide its allocations. The system is built on a
+large language model: it reads filings, market data, and research, composes a fluent investment
+thesis for each position, and proposes how the portfolio should move. The proposals are tuned
+against a target the vendor ships as its default: long-run risk-adjusted return within the fund's
+liquidity constraints. The target names the optimization objective. It does not itself settle the
+conception of risk through which the system pursues it. An investment committee sets the mandate
+and reviews the record quarterly. Day to day, an analyst reads each thesis and signs each
+rebalancing before it executes, and can override the system at any point. After the fact the fund
+can say exactly which officer approved which trade. For ten years the system is excellent. Its
+proposals visibly and repeatedly outperform the committee's judgment, so the committee learns, as a
+rational body would, that its overrides subtract value. The committee's review thins. The committee
+widens the mandate. By most ordinary lights, human beings remain responsible for every allocation.
+
+Now consider what has accumulated while nothing went wrong. The conception of risk inside the target
+is whatever a product built for no fund in particular came to carry. Measure and horizon, which correlations
+count, which tails are worth pricing, what may be hazarded and for whose sake, were not settings
+anyone installed. The vendor's engineers built a training system and fitted it to historical
+financial data. They are software engineers, not investment professionals, and would answer to a
+buyer for the fit, not for a view of risk. What the product measures was never settled as a
+judgment. What risk is to mean for these beneficiaries, under this mandate, is a question no product
+can settle. The fund never settled it. The officers who procured the system have moved on. The
+analysts who monitor it can say what the model weighs, and cannot say why that weighing is right for
+this fund and these beneficiaries. Each good year has widened what the frame governs and thinned the
+attention paid to it. The engineers composed a training system, the fund came to govern by
+what training left, and no one has ever made it the fund's own.
+
+That is the first wrong, and it is done while every return is good: the fund has let consequential
+authority accumulate behind a frame no one at the fund can answer for. The beneficiaries whose
+retirements move under the system are decided about under a conception of risk that no party
+at the fund holds or would defend as its own; if one of them asks what the fund means
+by risk, the fund can produce a facsimile of a decision, yet cannot produce a decision, because none was made.
+What makes the lapse a wrong rather than an administrative gap is the direction of the authority. An
+institution that decides about other people's interests owes the people decided about more than good
+outcomes; it owes them terms that can be asked for, and an asking that finds a party who performed
+the judgment those terms express. Where no such judgment was performed, the answer owed is not
+withheld but missing, and the institution has kept the benefit of deciding while shedding the burden
+of having decided. That an institution owes the people it decides about a justification has a
+settled home in work on directed obligation and on the right to justification (Darwall 2006; Forst
+2012), where what is owed is held against a party and answered to. What the fund's case adds is not
+a justification refused but a party who owes the account and has nothing to give. The judgment that
+account would cite is whether this conception of risk should govern this fund's decisions for these
+beneficiaries. It was never performed.
+
+The second wrong waits on an edge. Some year a correlation regime shifts or a liquidity cascade
+arrives, the frame meets a case outside the historical training set, and the demand for reasons
+lands on the analyst who signed. She did not procure the system, configure its target, or
+choose its vendor, and she now stands answerable for the one thing in the chain that the fund never
+did. Holding her responsible will have the outward form of accountability and the inner structure of
+scapegoating. The inquiry will ask its natural question well, why the model erred that day. The
+prior question has no address: who decided that this conception of risk was the one under which
+billions were permitted to move. No one did.
+
+The two wrongs share a single source. An act was owed and never occurred: the exercise of judgment
+over the decisions' evaluative frame, the settling of what the system is for and what its outputs
+must meet in order to be acted on.
+
+Nothing in the case turns on the frame being wrong. Let the conception of risk be as good as such
+conceptions get, its estimates state of the art, the decade of returns earned and repeatable: both
+wrongs remain, because neither is a wrong of misjudgment.
+
+Two literatures stand ready to say what has gone wrong here, and neither of them reaches it. The first is
+the debate over the machine's status. The second was built to preserve responsibility in
+machine-mediated action, and what it secures are standing relations: control, oversight, ownership.
+Each can hold completely in the fund's case. That is the gap this paper isolates, what I will call
+the answerability gap: a missing act, not a missing participant, and not a missing capacity either.
+No resolution of the machine's status closes the gap, and no strengthening of the human's standing
+conditions closes it, because acts are not entailed by standings.
+
+## 2. The Status Question at Full Strength
+
+The debate over the machine's status runs two questions together: patiency and answerability. By
+moral patiency I mean the property in virtue of which an entity can be wronged. For the
+welfare-based form of patiency at issue here, that property is a matter of whether there is
+something it is like to be it, in Nagel's (1974) phrase, such that what happens to it matters
+morally for its own sake. By answerability I mean the face of responsibility Shoemaker (2011)
+isolates under that name: an agent is answerable for an action insofar as it expresses her
+evaluative judgment, so that she is the apt target of a demand for justification and the fitting
+answer cites the judgment that was hers. The first is a question about the machine. The second is a question about whose evaluative
+judgment the action expresses.
+
+The welfare case is stronger than its dismissals allow. Indicator-based assessment of current
+systems finds no strong evidence of consciousness, and their first-person reports, trained on human
+descriptions of experience and reversible by reprompting, are weak evidence either way (Butlin et
+al. 2023, 2026; Chalmers 2023; cf. Seth 2025). But absence of strong evidence leaves the question
+open. A growing literature argues that the uncertainty itself carries obligations: that near-future
+systems may be welfare subjects, that the probability cannot responsibly be rounded to zero, and
+that institutions should prepare for candidate moral patients rather than adjudicate them after the
+fact (Long et al. 2024; Birch 2024). Grant all of it. Grant, further, that the question may someday
+resolve in the affirmative, and that if it does, what we owe such systems will change in kind.
+
+A second wing of the family concerns participation rather than experience. On the intentional-stance
+view, treating a system as a reasoner is a stance warranted by reasons-responsive competence,
+gradable and extensible in principle to anything competent enough (Dennett 1987). A capable model
+earns the stance, and refusing it a place in the space of reasons looks like an assumption rather
+than an argument. Grant the stance too, as far as competence carries it.
+
+A third wing denies that the question is about intrinsic properties at all. Standing is conferred
+by how these systems come to figure in our practices (Coeckelbergh 2010; Gunkel 2018). Grant the
+reframing. And the family has a deflationary wing, which reaches the same place from the opposite
+verdict: present systems are artifacts, their apparent standing a design choice, and the ethics of
+their use therefore reduces to what humans owe humans (Bryson 2010).
+
+The wings disagree about nearly everything, and a recurring assumption runs through the debate they
+compose: that the status verdict is what the ethics of use waits on. For the welfare wing, patiency
+arriving would rewrite that ethics from the ground up; for the participation wing, a participant
+machine enters the very practice responsibility lives in; for the relational wing, the conferral
+settles the standing; for the deflationary wing, the denial settles it the other way, and its
+formulation is the most revealing: current AI is probably not conscious, so humans remain in charge.
+That sentence is hostage to its premise. It invites the rejoinder that the systems are becoming more
+agentic, more persistent, more plausibly candidates for some form of inner life, and that the ethics
+must therefore be revisited from the ground up as the premise weakens. The optimists' formulations
+are hostage in the mirror-image way: they treat the responsibility of the humans in the chain as
+provisional, pending the machine's promotion. The assumption is not universal, and its critics mark
+where this paper stands: Behdadi and Munthe (2020) argue that the debate over artificial moral
+agency should be redirected from metaphysical criteria to the normative question of how such systems
+should be included in practices that assume the agency and responsibility of their participants.
+What follows is a redirection of that kind, carried to the responsibility side and given its object:
+which act allocates the account for a machine-mediated decision, and whether anyone performed it.
+This paper concedes every empirical and metaphysical possibility the family contemplates, and denies
+the assumption that recurs across it. Who must answer for a machine-mediated decision is not settled
+by the machine's status, in either direction.
+
+## 3. The Decoupling
+
+Machine ethics has had the needed separation available for two decades. Floridi and Sanders (2004)
+argued that an artificial agent can be a genuine source of moral action without the mental states
+that would make it blameworthy, and treated agency and patiency as distinct roles an entity may
+occupy. The lesson is the structural separation, not their constructive program: being a source of
+moral action, being a fit bearer of responsibility, and being a possible recipient of moral
+treatment come apart. Status does not allocate the account for the frame. A patient machine need
+not be answerable, and an answerable machine would answer only for judgments it actually
+performed. A practice that confers standing on the machine has thereby made a decision, not
+discharged one.
+
+The requirement is on the act, not on the performer. Suppose a system could recognize an evaluative
+choice as a choice, settle a conception of risk for a stated purpose, defend the settling under
+challenge and revise it, and stand in the practice in which such answers are owed. An institution
+might then delegate the setting of a frame to it explicitly, and nothing in this account forbids the
+delegation from succeeding: a party of any substrate that genuinely performed the setting would
+answer for the frame it set. What the machine's status and capabilities can change is who is
+available to perform the act and to answer for it. What they cannot do is settle, by themselves,
+whether the act was performed. Choosing to delegate the setting, and adopting what the delegate
+sets, remain judgments with the institution's name on them. In the fund's case the system before
+the analyst set nothing. It inherited a target, and no party of any substrate confronted it as the
+fund's.
+
+Vallor and Vierkant (2024) converge on the human side of this from the responsibility-gap
+literature, arguing that current systems lack the reciprocal standing our responsibility practices
+require. The answerability at issue here is distinct from Tigard's (2021a) technological
+answerability, a system engineered to give answers on demand: saying why an output was produced
+leaves open who must answer for its being acted on.
+
+## 4. The Missing Act
+
+An evaluative frame is what a system is for and what its outputs must meet in order to be acted
+on; every deployed system operates under one. Setting a frame is making it answerably one's own. That
+is an act of judgment, and a frame can operate without that act. Someone confronts the value choice the
+frame encodes, recognizes it as a choice, and closes it, in someone's name. The act is
+occurrent, and its occurrence is a fact a record can show: a default examined, a target
+contested, a standard set where none was supplied, the closing locatable as someone's doing. What the record settles is allocative: it fixes
+in whose name the closing was done, so that the demand for justification has an address. It cannot
+certify that judgment stood behind the closing, since a check can be logged as performed and clicked
+past as reflexively as it was installed. The record says who must answer; whether there is an answer
+to give, only the act settles. Most frames are
+absorbed from somewhere, a profession, a tradition, a market, and an absorbed frame can still be
+made answerably one's own by adoption: a confrontation with the value choice that closes in the
+adopter's name and puts her in a practice that holds her to it. The setting cannot be discharged by
+procurement. A fund that buys a system carrying an operative conception of risk has transferred a
+product, not performed a judgment. The product is offered as if that transfer were the settling.
+A standing rule that the fund will accept whatever conception of
+risk a validated system embodies is that same transfer: it chooses a mechanism. The conception of
+risk for these beneficiaries is set only if someone in the chain confronts and closes it, or
+delegates the setting to a party that does. If no one makes that conception the fund's own, its
+fitness as the operative standard for these allocations has been confronted nowhere, and no quantity
+of ratification at the desk supplies the missing judgment.
+
+The requirement is a reading of Shoemaker's condition. Answerability holds where the action
+expresses the agent's evaluative judgment, and an expression relation needs both of its terms: a
+judgment, and an agent who holds it. The allocations taken under the system's operative frame run
+on a determinate answer to what may be hazarded and for whose sake. That answer expresses no one's
+judgment until it is adopted. What the analyst holds is a view about the system's record, answerable
+in its own right and silent about risk. This is why the demand for justification, put to her about
+the frame, finds nothing of hers to cite in reply. Where a frame already expresses a judgment someone holds, no further
+ceremony is needed; where it expresses none, only the performing of one can make it do so, and the
+performing is an act.
+
+The occurrent requirement is why a decision-maker can fail while passing every dispositional test.
+Asked, the analyst would defend the frame, hear an objection, perhaps revise; but a standing
+willingness to justify what one merely received remains a disposition where an act was required.
+Reflective deference fails the same way: "I have considered it and I trust the system" makes the
+trust answerable while leaving the frame exactly as mute as she found it. A long tradition ties
+asserting to a standing readiness to defend what one has put forward (Brandom 1983). But that
+commitment runs to the product, the claim asserted, whereas the act at issue concerns who set the
+frame: one can be fully answerable for defending a recommendation while having set none of the
+choices that made it what it is.
+
+Nothing bars the analyst from adopting the frame now. From the moment the value choice is
+confronted and closed in her name, later decisions are taken under someone's judgment. What the
+present act cannot do is reach backward. It does not supply the judgment under which the last
+decade's allocations were made. A standing willingness to endorse still leaves the act to be
+performed. Nor does an inherited conception restart the demand. If the analyst's view of risk is
+absorbed from her culture, the requirement seems to have no stop. The
+demand is instead whether anyone adopted this conception for these beneficiaries.
+
+The frameworks built to preserve responsibility secure relations of a different kind, and their
+insufficiency has a single structure. The most developed is meaningful human control. It originates
+in the autonomous-weapons debate, where Sparrow (2007) argued that no candidate party, programmer,
+commander, or machine, could justly be held responsible for an atrocity. Santoni de Sio and van den
+Hoven (2018) gave the remedy philosophical foundations: a system is under meaningful human control
+when it tracks the relevant moral reasons of the relevant humans and traces to the appropriate moral
+understanding of at least one human agent in its design or use. The framework has since been
+operationalized for decision-support systems of exactly this kind (Cavalcante Siebert et al. 2023).
+The analyst satisfies it: she can override any proposal, the system tracks the fund's stated
+reasons, and its behavior traces to humans who understand it. Both conditions hold, and the failure
+has nonetheless occurred, because both conditions take the frame as given. Tracking is silent
+on whether the tracked reasons were the product of judgment or were inherited, unexamined; tracing
+reaches a human who understands the system, or who is merely in a position to understand it, without
+reaching one who has judged what its proposals should mean.
+
+A defender will reply that tracking requires responsiveness to the relevant moral reasons, so a
+system that operates under an inherited conception of risk fails tracking after all. I grant the charitable
+reading. Tracking and tracing, however construed, are relational: they hold or fail between a
+system's behavior and the frame under which the system operates, and they say nothing about whether
+that frame was ever adopted. To fault the system for tracking a defective conception of risk already presupposes a
+better conception someone was answerable for setting. The notions come apart in both directions. A
+frame can be correct and yet unset: tracking and tracing can hold completely while no one has made
+the standard a prediction must meet their own judgment. Conversely, a frame can be set and yet
+wrong. Santoni de Sio and van den Hoven (2018, p. 11) note of a commander who knowingly deploys an
+autonomous weapon that cannot comply with the laws of armed conflict that "not only the tracing, but
+also the tracking condition is satisfied," even as the attack is unlawful and the commander
+culpable. Correctness is neither necessary nor sufficient for the act's having occurred.
+
+Oversight mandates require capacities to interpret, to resist automation bias, and to override. A
+person can hold every capacity toward a frame she never set. Green (2022) shows the mandates often
+cannot even secure the capacities; the failure isolated here is the complementary one, where the
+capacities are real and the act is still missing. Decision-ownership requires that the
+decision-maker be positioned to endorse the values the system encodes (Zeiser 2024).
+Endorsement-capacity is a standing: it asks whether the agent would endorse the frame under which
+the system operates. Even the deflationary wing of the gap literature denies that machine-mediated action
+opens any novel gap at all (Tigard 2021b; Königs 2022; Demirtas 2025), and what it reaches is at
+most a locatable answerable party. Each of these is a standing, and the act is not entailed by it.
+
+Matthias (2004) made canonical the attributive gap: as learning systems become more adaptive,
+no human may be connected to the outcome closely enough to bear responsibility at all. The
+answerability gap is that someone — often many people — is attributable for the outcome, and no one
+exercised the judgment over its evaluative frame that responsibility is supposed to track. The
+distinction is Shoemaker's (2011), here sorting gaps in a distributed act rather than kinds of one
+agent's responsibility. The fund assigns the outcome to the analyst. The appointment cannot make
+the judgment hers.
+
+Kiener (2025) argues, against the gap tradition, that AI-mediated harms typically leave too many
+attributable parties rather than too few. Much of that abundance is engineered, and the count is
+orthogonal either way: a crowd of named parties can each have taken the frame ready-made from the
+next. Taking responsibility for a harm, as a normative power exercisable before or after it
+(Kiener 2022), can name a bearer after the fact. It cannot supply the judgment under which the
+allocations were made. Constantinescu and Kaptein (2025) map how responsibility for what
+is done with large language models should be distributed. Theirs is an answer to where
+responsibility should sit. It can succeed completely while the question pressed here stays open:
+what a distribution allocates are bearers and their standings, and no allocation of bearers entails
+that the evaluative judgment any of them is supposed to bear was ever performed.
+
+An argument locates the requirement in the judging subject itself. Torrecilla-Pinero (2026) makes
+the limit anthropological: judgment is constitutively personal and therefore non-delegable, a
+constraint offered as a supplement to tracking and tracing, and the case that carries it,
+AI-steered coverage decisions in healthcare, is the fund's case in another sector. What is required
+here falls on the act: occurrent, pitched at the frame rather than the case before it, institutional
+as readily as personal, and open to a performer of any substrate.
+
+The nearest ancestor of the requirement lies outside this literature. Fischer and Ravizza (1998)
+hold that an agent is responsible for what issues from a decisional mechanism only if she has taken
+responsibility for it. Their condition governs an agent's relation to her own mechanism, and it can
+be met in full by an analyst who has taken responsibility for how she decides and has never once
+confronted the conception of risk under which she signs. The gap falls nearest what Santoni de Sio
+and Mecacci (2021) call active responsibility, a position: whether an agent is placed so as to take
+responsibility going forward. The analyst is so placed. The answerability gap opens in the distance
+between being positioned to perform an act and the act's having been performed. A position is held;
+an act is done. Their four gaps concern who holds which position. This one concerns whether anything
+was done.
+
+## 5. Where the Act Is Owed
+
+The account distinguishes five junctures at which responsibility for a machine-mediated decision is
+discharged, or dropped. Two operate at the level of the frame, possibly far upstream of the person
+at the keyboard. A setting made there, once taken up, is inherited by every later output. Three
+recur with every output, bringing each one under the frame already in force:
+it is measured against the standard, admitted into action, and owned as it goes out. None of the five is a
+checklist entry; each is a place where the judgment required is evaluative rather than technical,
+and where the fluency of generative systems invites the judgment to be skipped while the outward
+form of a decision survives intact.
+
+Grant the fund complete visibility into the model's weighing: every weight inspectable, the
+conception of risk readable as a specification. Visibility makes the frame available for judgment;
+the junctures are where that judgment is performed.
+
+The first frame juncture is the ends. Every deployed system is for something, and what it is for is
+a value choice no output of the system can settle, since every output is produced under it. Whether
+an allocation system should maximize return within stated constraints, preserve intergenerational
+purchasing power, or weigh hazards the record has never priced is not a technical question. The
+choice hides inside an objective or a target variable, which makes a normative decision look like a
+modeling one; that translating an aim into a target is a discretionary, normatively loaded choice is
+documented in the problem-formulation literature (Passi and Barocas 2019). To settle the ends is to
+recognize the value choice and own it rather than accept the objective that arrives pre-installed.
+In these systems that objective often arrives as a training fit or in a system prompt.
+
+The second is the standards: what counts as a good output, and by what criteria. A model can apply a
+standard, and it can generate a candidate rubric; the output cannot be its own sufficient warrant.
+A model may propose the criteria; a responsible party must examine them and adopt them rather than
+inherit them. A reward signal is that inheritance: it scores what counts as good under a criterion
+the deployer need not have set. Where standards are tacit, or read off the model's own confidence,
+this juncture has lapsed with every other safeguard in place.
+
+The three per-output junctures follow. Verification reconnects an output to the reality it purports
+to be about: the claim checked against the source, the summary against the document, the
+recommendation against the case. What must be checked, and against what, is fixed with the
+standards — what verification adds is the performed check, that the checking occurred, on this case,
+as this party's act rather than an assumption. Acceptance is the moment a proposal becomes a deed:
+the draft becomes the sent email, the proposal the executed trade, the classification the entry in a
+permanent record. This is the hinge, where the human either exercises judgment or merely ratifies,
+and the deepest design failures collapse it by making acceptance the default or the path of least
+resistance. The limiting case is familiar from coding agents that offer auto-accept settings,
+running commands and writing files with no confirmation step, colloquially called "YOLO mode": the
+juncture removed by design. Release is the standing behind the artifact as it goes out,
+answerability for sending it and for what it does, including consequences unintended but
+foreseeable. It too is an act: the account is assumed when the artifact leaves in someone's name,
+before any harm and whether or not a question ever comes, so that a question, if it comes, finds a
+party already standing behind the deed.
+
+Consider a physician using a system to draft the clinical note for an encounter. The end is one her
+practice has settled: an accurate record in the service of care, not throughput. The standards are
+external to the model and held by the profession: clinical accuracy, completeness, the norms of the
+record. Verification is built into the act, because she reads the draft against what happened in the
+room and corrects it. Acceptance is explicit: nothing enters the record until she signs. And
+release too is explicit: the final form goes out under her name, hers to answer for. The system
+does a great deal, perhaps producing language she would not have written unaided, yet nothing is
+missing, because its output remained a proposal, measured against standards it did not set, by the
+person who answers for the result.
+
+Nor is the profession's role merely the analyst's inheritance one level up. The profession set its
+standards as standards, owned and revised as evaluative commitments, and the physician adopted them
+by an answerable act of her own, entering a practice that holds her to them. What remains open per
+encounter, the fit of the standard to the case before her, is exactly what her verification and
+acceptance answer for. This is why speed does not defeat her: the frame was set, occurrently,
+upstream, and she performs the per-output acts anew with each note, however fast she signs. Both the
+physician and the fund use AI heavily, and the difference is whether anyone ever made the frame
+their own.
+
+Nor does the structure need billions to exist. Its most familiar instance is by now a stock figure:
+the hiring system that ranks applicants under an inherited definition of merit while a
+recruiter, free to override anything, works down the list. Unowned frames are already doing quiet
+work wherever fluent systems are adopted and trusted. What separates the mundane deployments from
+the fund is only the promotion: years of performance carrying such a frame into
+decisions an edge can make catastrophic. The gap is ordinary, and reliability is its ladder.
+
+The everyday sense of authorship runs the other way. A model that drafts a paragraph has, in
+ordinary speech, authored it; nothing here denies that it made the thing. But making is execution,
+and execution transfers to a system without remainder; what does not transfer is answerability for
+the frame the artifact serves. The nearest neighbor in this region is Nyholm (2024), on whose
+account generative systems open gaps of meaning, authorship, and responsibility over their outputs,
+credit for an impressive output being harder to earn than blame for a harmful one. Each of those is
+a question about the product, and the question here is who set the frame the product serves. A
+system can supply every word and answerably author none of it, just as a person can answerably
+author a decision whose every word a system supplied. And when this paper says a frame was authored
+by no one, it means that no party answerably owned it, not that no party shaped it. A frame can be
+causally shaped, configured by a vendor, inherited from data, even gamed by an interested party who
+shapes what a channel makes salient, and still be owned by no one, because shaping what a channel
+makes salient is not yet authoring the evaluative claim it voices.[^1]
+
+Two objections meet the account at this point. The first says it is the romantic fiction of the
+solitary maker, when real institutions distribute responsibility across many hands. The objection
+mistakes distribution for dissolution. A film has hundreds of contributors and a structure of
+authorship nonetheless. The five junctures can be distributed across the people who set the ends,
+set the standards, verified the outputs, accepted them, and released them. The arrangement
+remains sound so long as each act was someone's answerable judgment and the chain can be
+reconstructed. Where groups are genuine agents, the bearer can be an institution (List 2021). What
+converts distribution into dissolution is the absence, at one or more junctures, of any hand at all.
+Nor does the account demand an individual behind every act. Where a body forms a judgment by a
+procedure, the judgment can be the body's without being any member's. Aggregation over reasons can
+commit an institution to a conclusion no member holds, and the institution can still be asked why,
+because the procedure was instituted, run, and closed in its name, and the closing leaves a record.
+That is the institutional form of the act, and it is what the fund never performed. The operative
+conception of risk passed through no procedure at all; it emerged from training and passed into use
+without being confronted as a judgment. Between a judgment that is the institution's though no
+member's, and a frame that is nobody's including the institution's, lies the whole distance this
+paper is measuring.
+
+The second objection concerns demandingness: if the act must occur, much institutional life before
+AI fails the standard too, so either the gap is everywhere and the machine is incidental, or the
+standard quietly relaxes. The standard was always failable, and the institutional
+failure predates the technology by decades. The gap is not everywhere: adoption
+shows the standard ordinarily met, the physician satisfying all five junctures at working speed
+because her profession confronted the value choices answerably, upstream. And the machine
+matters: the standard is unchanged, and what generative fluency changes is the economics of failing
+it, the scale at which inherited frames are installed and the invisibility of their acceptance. The
+gap is old, and what is new is how cheaply it is produced and how little it shows.
+
+The junctures are buildable. Generation can be separated from acceptance so that proposals stay
+legible as proposals until someone accepts them; standards can be held outside the model, where the
+model can be measured against them; the chain of who set what can be kept reconstructable across
+layers, and design research is taking up such commitments independently (Zhu et al. 2026). What
+architecture cannot do is manufacture the judgment. A target variable shown in bright letters can
+still be waved through, an inserted check clicked past as reflexively as it was added. Architecture
+can refuse to let the act's absence be invisible. It cannot perform the act for anyone.
+
+## 6. The Question as Cover
+
+If the act is ordinary and mostly met, why is it skipped here, and why does the skipping not show?
+
+The first half of the answer is Vallor's (2024): contemporary AI is a mirror. Systems trained on the
+human archive do not stand outside our culture; they reflect our language, judgments, and
+institutional habits back to us, fluently enough for the reflection to be mistaken for an
+independent source of insight. The fluency operates with particular force at the point of judgment.
+A ranked list, a drafted paragraph, a recommendation: each arrives formatted as a conclusion, and
+the smoothness of the presentation is itself an argument for accepting it. The mirror does not
+merely tempt us to believe the machine understands; it tempts us to treat its outputs as if the
+evaluative work that would make them trustworthy were already done. Abdication therefore feels, from
+the inside, like reasonable reliance. Operators over-rely on automated aids they are positioned to
+monitor (Parasuraman and Riley 1997). The pattern persists in AI-assisted decision-making (Buçinca,
+Malaya, and Gajos 2021; Vasconcelos et al. 2023).
+
+Capability sharpens the turn. Fluency tempts by making an output look finished; competence tempts by
+making deference correct. A reliably right system earns a trust the merely fluent one never could — the fit response to a track record — and it dissolves the felt need to check most where the system
+has performed best. The danger is no longer that the user mistakes a slick output for a sound one;
+it is that she stops looking, on good evidence, at the moment looking still mattered. The evidence
+is good and it is about the wrong quantity: how often an output is good under the frame in force,
+each entry produced under that frame and scored by it. What such a record cannot bear on is whether
+the frame is the one these decisions should be made under. Confidence well placed at every instance
+is compatible with a failure that accumulates across the whole run. Any system can produce the
+failure; a regression can carry an unowned frame as faithfully as a transformer. Generative fluency
+is what lets it scale and disappear: the more finished the output, the less visible the frame it
+inherits.
+
+The second half of the answer is the one the public argument most easily misses about itself. The
+same fluency makes the question of whether anyone is home the natural question to ask about a system
+that talks like a someone. The status question is real, and it has been conceded everything. At the desk,
+it is also cover. Asking whether the machine really understands stands in for asking who set its
+terms, and the first question can be debated forever without the second being asked once. The
+analyst who wonders, idly, whether the system grasps what it is doing has already signed the
+rebalancing; the fund that convenes a working group on responsible AI can inherit the product's
+operative conception of risk unexamined for the length of the deliberation. The debate performs
+seriousness about the machine while the act lapses in silence, and the better the system, the more
+natural the wrong question becomes. Every increment of fluency is an increment in the apparent
+urgency of asking what the machine is, and none of it bears on who set the frame. Arendt (1963)
+named the local failure thoughtlessness: action continued without the reflective interruption in
+which one asks what one is actually doing. What transfers is the concept, not the case. A person can be present, capable, and procedurally
+compliant while the evaluative judgment the action turns on was never performed. The interruption
+the act requires asks a different question from the one the machine's fluency invites. Not: is
+anything home? But: what is being done here, and who answers for it?
+
+## 7. The Ratchet
+
+When the account for a decision taken under an unowned frame comes due, it does not come due evenly.
+Elish's (2019) moral crumple zone names the operator faulted despite too little control. Here the
+operator has control in abundance, and what is missing is judgment, because the competence that
+makes intervention unnecessary also makes abdication invisible. And the zone is assigned by design.
+A crumple zone is engineered into the cheapest, most replaceable region of the structure. The party
+on whom the account settles is selected by the same institutional logic that left the frame unowned:
+the front-line approver, nearest the moment a proposal becomes a deed, most junior, most
+replaceable, least able to refuse the position or push it back upward. The analyst did not procure
+the system, configure its target, or choose the vendor; she is the last hand to touch the decision
+and the first the institution can afford to lose.
+
+The problem of many hands (Thompson 1980) is usually told as diffusion, and the diffusion is
+asymmetric. It strips answerability from the parties with the standing to shed it and deposits the
+remainder on the party with the least — agency laundering (Rubel, Castro, and Pham 2019), then the
+laundered account coming to rest. "Human in the loop" names a safeguard, and it is also where the
+account comes to rest, an occupant where an act was owed. The account does not vanish into the crowd
+of hands. The answerability gap is not dangerous because blame goes nowhere. It is dangerous because
+blame goes somewhere predictable: downhill.
+
+The rotation has a second effect, on the frame rather than the person, and it is the more lasting.
+When the analyst leaves and another fills the chair, the unowned frame is handed on intact, and the
+next occupant inherits it exactly as she did, as a given, not a choice. Across enough cycles the
+frame is continuously unowned. It drifts, since the inherited system can change while no one reopens
+the frame. Each occupant ratifies what the last left in place, and at no point does any party
+confront the drift as a decision. Vaughan's (1996) study of the Challenger launch is the pattern at
+institutional scale, before any generative system existed: the solid rocket boosters' O-rings
+eroded on flight after flight, beyond anything their designers had predicted, and because no launch
+failed, the erosion was carried through the formal reviews and recorded there as an acceptable risk,
+a normalization of deviance. Repeated success can normalize a standard without anyone reopening the
+evaluative question it answers. A competent system industrializes the normalization of the gap, one
+user and one uneventful Tuesday at a time.
+
+And the record of intact returns does more than quiet the checking — it is a credential. A frame that
+performs is promoted on the strength of its record and handed decisions of greater and greater
+consequence, so that exposure grows exactly as scrutiny shrinks. The unowned frame arrives at the
+decisions least able to bear it by having been right about the decisions that could. The risk this
+stores differs in kind from the risk of failure: it is constituted by the missing act, and accuracy
+deepens it, since accuracy is what earns the promotion and retires the check.
+
+The fund now runs on a conception of risk no one there made its own. What no one can give is why
+this conception should govern these beneficiaries. Officers remain positioned to close it, and
+every year of good returns raises the price of that closing and thins the baseline it would stand
+on. The gap is a ratchet.
+
+The failure is institutional before it is personal. The ends and standards were already in force
+upstream of the analyst, in what procurement took up and what training left, and that is where the
+missing act was owed. Blaming the approver who inherited the frame is itself a form of the
+laundering described above. The erosion is old in kind: Nissenbaum (1996) traced how computerized
+systems obscure accountability, through many hands, through the diffusion of fault in software, and
+through the temptation to treat the computer itself as the answerable party. What generative fluency
+adds is scale and silence.
+Run the ratchet forward across an economy of deployments and the aggregate comes into view: an
+administrative order in which an ever-growing share of consequential decisions passes through
+frames that are nobody's, revised by no one because no one holds a baseline a revision could
+state and stand behind, contested by no one because their subjects never meet them at all, until
+someone answers for everything and authored none of it.
+
+## 8. Conclusion
+
+Whether these systems are, or might become, minds we could wrong is a real question, and I have not
+settled it; I have argued that it is the wrong question to put at the center of the ethics of using
+them, because its answer, whatever it proves to be, settles nothing by itself about who performed
+the judgment a given decision turned on. Patiency is uncertain and may change; the question of who
+answers is immediate, and it is asked act by act. We can usually name the human who signed off. What
+we cannot assume is that she authored what she signed.
+
+The deepest temptation the mirror presents is not that we will mistake the machine for a person, but
+that we will let it do our judging and call the result a decision. Fluency opens that door and
+competence walks us through it: reliability earns a trust that makes
+not-checking reasonable, and the reasonable abdication is the hardest kind to interrupt, because
+nothing about it feels like surrender. The discipline this requires is the reflective interruption
+described earlier: the moment in which a person asks what is actually being done, and whether she
+can answer for it. To build and use these systems well is to keep that interruption alive, and to
+keep the sites of it reconstructable: ends and standards made someone's, acceptance that remains
+an act, so that someone remained answerable for the judgment the decision turned on. Much of what a
+system does — retrieval, formatting, computation, first-pass synthesis — can be handed over
+entirely, provided those sites remain someone's. Neglecting the answerability gap extends
+the separation of liability from authorship, until someone answers for everything and authored none
+of it. The likelihood of such a future increases as the machines improve. Every increment of
+capability is an increment in the rational case for deference, and so in the ease of the abdication:
+the better the system, the less anything feels wrong as the judgment quietly stops being anyone's.
 
 
 ## References
 
-Arendt, H. (1963). Eichmann in Jerusalem: A report on the banality of evil. Viking Press.
+Arendt, H. (1963). *Eichmann in Jerusalem: A report on the banality of evil.* Viking Press.
 
-Brandom, R. (1983). Asserting. Noûs, 17(4), 637–650. https://doi.org/10.2307/2215086
+Behdadi, D., & Munthe, C. (2020). A normative approach to artificial moral agency. *Minds and
+Machines, 30*(2), 195–218. https://doi.org/10.1007/s11023-020-09525-8
 
-Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G., Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2026). Identifying indicators of consciousness in AI systems. Trends in Cognitive Sciences, 30(6), 488–501. https://doi.org/10.1016/j.tics.2025.10.011
+Birch, J. (2024). *The edge of sentience: Risk and precaution in humans, other animals, and AI.*
+Oxford University Press.
 
-Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. arXiv. https://doi.org/10.48550/arXiv.2308.08708
+Brandom, R. (1983). Asserting. *Noûs, 17*(4), 637–650. https://doi.org/10.2307/2215086
 
-Cavalcante Siebert, L., Lupetti, M. L., Aizenberg, E., Beckers, N., Zgonnikov, A., Veluwenkamp, H., Abbink, D., Giaccardi, E., Houben, G.-J., Jonker, C. M., van den Hoven, J., Forster, D., & Lagendijk, R. L. (2023). Meaningful human control: Actionable properties for AI system development. AI and Ethics, 3(1), 241–255. https://doi.org/10.1007/s43681-022-00167-3
+Bryson, J. J. (2010). Robots should be slaves. In Y. Wilks (Ed.), *Close engagements with artificial
+companions: Key social, psychological, ethical and design issues* (pp. 63–74). John Benjamins.
 
-Chalmers, D. J. (2023, August 9). Could a large language model be conscious? Boston Review. https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/
+Buçinca, Z., Malaya, M. B., & Gajos, K. Z. (2021). To trust or to think: Cognitive forcing functions
+can reduce overreliance on AI in AI-assisted decision-making. *Proceedings of the ACM on
+Human-Computer Interaction, 5*(CSCW1), Article 188. https://doi.org/10.1145/3449287
 
-Crootof, R., Kaminski, M. E., & Price, W. N., II. (2023). Humans in the loop. Vanderbilt Law Review, 76(2), 429–510. https://scholarship.law.vanderbilt.edu/vlr/vol76/iss2/2
+Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G.,
+Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L.,
+Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2026). Identifying indicators of
+consciousness in AI systems. *Trends in Cognitive Sciences, 30*(6), 488–501.
+https://doi.org/10.1016/j.tics.2025.10.011
 
-Demirtas, H. (2025). AI responsibility gap: not new, inevitable, unproblematic. Ethics and Information Technology, 27, 7. https://doi.org/10.1007/s10676-024-09814-1
+Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M.,
+Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K.,
+Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). Consciousness in artificial intelligence:
+Insights from the science of consciousness. arXiv. https://doi.org/10.48550/arXiv.2308.08708
 
-Dennett, D. C. (1987). The intentional stance. MIT Press.
+Cavalcante Siebert, L., Lupetti, M. L., Aizenberg, E., Beckers, N., Zgonnikov, A., Veluwenkamp, H.,
+Abbink, D., Giaccardi, E., Houben, G.-J., Jonker, C. M., van den Hoven, J., Forster, D., &
+Lagendijk, R. L. (2023). Meaningful human control: Actionable properties for AI system development.
+*AI and Ethics, 3*(1), 241–255. https://doi.org/10.1007/s43681-022-00167-3
 
-Elish, M. C. (2019). Moral crumple zones: Cautionary tales in human-robot interaction. Engaging Science, Technology, and Society, 5, 40–60. https://doi.org/10.17351/ests2019.260
+Chalmers, D. J. (2023, August 9). Could a large language model be conscious? *Boston Review.*
+https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/
 
-Floridi, L., & Sanders, J. W. (2004). On the morality of artificial agents. Minds and Machines, 14(3), 349–379. https://doi.org/10.1023/B:MIND.0000035461.63578.9d
+Coeckelbergh, M. (2010). Robot rights? Towards a social-relational justification of moral
+consideration. *Ethics and Information Technology, 12*(3), 209–221.
+https://doi.org/10.1007/s10676-010-9235-5
 
-Green, B. (2022). The flaws of policies requiring human oversight of government algorithms. Computer Law & Security Review, 45, Article 105681. https://doi.org/10.1016/j.clsr.2022.105681
+Constantinescu, M., & Kaptein, M. (2025). Responsibility gaps, LLMs & organisations: Many agents,
+many levels, and many interactions. *Science and Engineering Ethics, 31*, Article 36.
+https://doi.org/10.1007/s11948-025-00560-1
 
-Kasar, P. (2025). There is a problem, but not a responsibility gap. Ethics and Information Technology, 27, 47. https://doi.org/10.1007/s10676-025-09851-4
+Darwall, S. (2006). *The second-person standpoint: Morality, respect, and accountability.* Harvard
+University Press.
 
-Kiener, M. (2025). AI and responsibility: No gap, but abundance. Journal of Applied Philosophy, 42(1), 357–374. https://doi.org/10.1111/japp.12765
+Demirtas, H. (2025). AI responsibility gap: Not new, inevitable, unproblematic. *Ethics and
+Information Technology, 27*, 7. https://doi.org/10.1007/s10676-024-09814-1
 
-Königs, P. (2022). Artificial intelligence and responsibility gaps: What is the problem? Ethics and Information Technology, 24(3), Article 36. https://doi.org/10.1007/s10676-022-09643-0
+Dennett, D. C. (1987). *The intentional stance.* MIT Press.
 
-Kozlovski, A. (2025). Reasons underdetermination in meaningful human control. Ethics and Information Technology, 27(4), Article 59. https://doi.org/10.1007/s10676-025-09858-x
+Elish, M. C. (2019). Moral crumple zones: Cautionary tales in human-robot interaction. *Engaging
+Science, Technology, and Society, 5*, 40–60. https://doi.org/10.17351/ests2019.260
 
-List, C. (2021). Group agency and artificial intelligence. Philosophy & Technology, 34(4), 1213–1242. https://doi.org/10.1007/s13347-021-00454-7
+Fischer, J. M., & Ravizza, M. (1998). *Responsibility and control: A theory of moral
+responsibility.* Cambridge University Press.
 
-Matthias, A. (2004). The responsibility gap: Ascribing responsibility for the actions of learning automata. Ethics and Information Technology, 6(3), 175–183. https://doi.org/10.1007/s10676-004-3422-1
+Floridi, L., & Sanders, J. W. (2004). On the morality of artificial agents. *Minds and Machines,
+14*(3), 349–379. https://doi.org/10.1023/B:MIND.0000035461.63578.9d
 
-Nagel, T. (1974). What is it like to be a bat? The Philosophical Review, 83(4), 435–450. https://doi.org/10.2307/2183914
+Forst, R. (2012). *The right to justification: Elements of a constructivist theory of justice* (J.
+Flynn, Trans.). Columbia University Press. (Original work published 2007)
 
-Nyholm, S. (2024). Generative AI’s gappiness: Meaningfulness, authorship, and the credit-blame asymmetry. In A. Strasser (Ed.), Anna’s AI anthology: How to live with smart machines? (pp. 167–194). Xenomoi Verlag.
+Green, B. (2022). The flaws of policies requiring human oversight of government algorithms.
+*Computer Law & Security Review, 45*, Article 105681. https://doi.org/10.1016/j.clsr.2022.105681
 
-Parasuraman, R., & Riley, V. (1997). Humans and automation: Use, misuse, disuse, abuse. Human Factors, 39(2), 230–253. https://doi.org/10.1518/001872097778543886
+Gunkel, D. J. (2018). *Robot rights.* MIT Press.
 
-Passi, S., & Barocas, S. (2019). Problem formulation and fairness. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT ’19) (pp. 39–48). Association for Computing Machinery. https://doi.org/10.1145/3287560.3287567
+Kiener, M. (2022). Can we bridge AI's responsibility gap at will? *Ethical Theory and Moral
+Practice, 25*(4), 575–593. https://doi.org/10.1007/s10677-022-10313-9
 
-Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). (2024). Official Journal of the European Union, L 2024/1689, 12 July 2024. https://data.europa.eu/eli/reg/2024/1689/oj
+Kiener, M. (2025). AI and responsibility: No gap, but abundance. *Journal of Applied Philosophy,
+42*(1), 357–374. https://doi.org/10.1111/japp.12765
 
-Rubel, A., Castro, C., & Pham, A. (2019). Agency laundering and information technologies. Ethical Theory and Moral Practice, 22(4), 1017–1041. https://doi.org/10.1007/s10677-019-10030-w
+Königs, P. (2022). Artificial intelligence and responsibility gaps: What is the problem? *Ethics and
+Information Technology, 24*(3), Article 36. https://doi.org/10.1007/s10676-022-09643-0
 
-Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why they matter and how to address them. Philosophy & Technology, 34(4), 1057–1084. https://doi.org/10.1007/s13347-021-00450-x
+List, C. (2021). Group agency and artificial intelligence. *Philosophy & Technology, 34*(4),
+1213–1242. https://doi.org/10.1007/s13347-021-00454-7
 
-Santoni de Sio, F., & van den Hoven, J. (2018). Meaningful human control over autonomous systems: A philosophical account. Frontiers in Robotics and AI, 5, Article 15. https://doi.org/10.3389/frobt.2018.00015
+Long, R., Sebo, J., Butlin, P., Finlinson, K., Fish, K., Harding, J., Pfau, J., Sims, T., Birch, J.,
+& Chalmers, D. (2024). Taking AI welfare seriously. arXiv. https://doi.org/10.48550/arXiv.2411.00986
 
-Seth, A. K. (2025). Conscious artificial intelligence and biological naturalism. Behavioral and Brain Sciences. Advance online publication. https://doi.org/10.1017/S0140525X25000032
+Matthias, A. (2004). The responsibility gap: Ascribing responsibility for the actions of learning
+automata. *Ethics and Information Technology, 6*(3), 175–183.
+https://doi.org/10.1007/s10676-004-3422-1
 
-Shoemaker, D. (2011). Attributability, answerability, and accountability: Toward a wider theory of moral responsibility. Ethics, 121(3), 602–632. https://doi.org/10.1086/659003
+Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review, 83*(4), 435–450.
+https://doi.org/10.2307/2183914
 
-Sparrow, R. (2007). Killer robots. Journal of Applied Philosophy, 24(1), 62–77. https://doi.org/10.1111/j.1468-5930.2007.00346.x
+Nissenbaum, H. (1996). Accountability in a computerized society. *Science and Engineering Ethics,
+2*(1), 25–42. https://doi.org/10.1007/BF02639315
 
-Strawson, P. F. (1962). Freedom and resentment. Proceedings of the British Academy, 48, 187–211. https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/proceedings-volumes-1-111/48/strawson/
+Nyholm, S. (2024). Generative AI's gappiness: Meaningfulness, authorship, and the credit-blame
+asymmetry. In A. Strasser (Ed.), *Anna's AI anthology: How to live with smart machines?* (pp.
+167–194). Xenomoi Verlag.
 
-Thompson, D. F. (1980). The moral responsibility of public officials: The problem of many hands. American Political Science Review, 74(4), 905–916. https://doi.org/10.2307/1954312
+Parasuraman, R., & Riley, V. (1997). Humans and automation: Use, misuse, disuse, abuse. *Human
+Factors, 39*(2), 230–253. https://doi.org/10.1518/001872097778543886
 
-Tigard, D. W. (2021a). Technological answerability and the severance problem: Staying connected by demanding answers. Science and Engineering Ethics, 27, Article 59. https://doi.org/10.1007/s11948-021-00334-5
+Passi, S., & Barocas, S. (2019). Problem formulation and fairness. In *Proceedings of the Conference
+on Fairness, Accountability, and Transparency (FAT\* '19)* (pp. 39–48). Association for Computing
+Machinery. https://doi.org/10.1145/3287560.3287567
 
-Tigard, D. W. (2021b). There is no techno-responsibility gap. Philosophy & Technology, 34(3), 589–607. https://doi.org/10.1007/s13347-020-00414-7
+Rubel, A., Castro, C., & Pham, A. (2019). Agency laundering and information technologies. *Ethical
+Theory and Moral Practice, 22*(4), 1017–1041. https://doi.org/10.1007/s10677-019-10030-w
 
-Vallor, S. (2024). The AI mirror: How to reclaim our humanity in an age of machine thinking. Oxford University Press.
+Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why
+they matter and how to address them. *Philosophy & Technology, 34*(4), 1057–1084.
+https://doi.org/10.1007/s13347-021-00450-x
 
-Vallor, S., & Vierkant, T. (2024). Find the gap: AI, responsible agency and vulnerability. Minds and Machines, 34(3), Article 20. https://doi.org/10.1007/s11023-024-09674-0
+Santoni de Sio, F., & van den Hoven, J. (2018). Meaningful human control over autonomous systems: A
+philosophical account. *Frontiers in Robotics and AI, 5*, Article 15.
+https://doi.org/10.3389/frobt.2018.00015
 
-Vaughan, D. (1996). The Challenger launch decision: Risky technology, culture, and deviance at NASA. University of Chicago Press.
+Seth, A. K. (2025). Conscious artificial intelligence and biological naturalism. *Behavioral and
+Brain Sciences.* Advance online publication. https://doi.org/10.1017/S0140525X25000032
 
-Zeiser, J. (2024). Owning decisions: AI decision-support and the attributability-gap. Science and Engineering Ethics, 30, Article 27. https://doi.org/10.1007/s11948-024-00485-1
+Shoemaker, D. (2011). Attributability, answerability, and accountability: Toward a wider theory of
+moral responsibility. *Ethics, 121*(3), 602–632. https://doi.org/10.1086/659003
 
-Zhu, L., Lu, Q., Ding, M., Lee, S. U., & Wang, C. (2026). Designing meaningful human oversight in AI. AI and Ethics, 6, Article 286. https://doi.org/10.1007/s43681-026-01147-7
+Sparrow, R. (2007). Killer robots. *Journal of Applied Philosophy, 24*(1), 62–77.
+https://doi.org/10.1111/j.1468-5930.2007.00346.x
+
+Thompson, D. F. (1980). The moral responsibility of public officials: The problem of many hands.
+*American Political Science Review, 74*(4), 905–916. https://doi.org/10.2307/1954312
+
+Tigard, D. W. (2021a). Technological answerability and the severance problem: Staying connected by
+demanding answers. *Science and Engineering Ethics, 27*, Article 59.
+https://doi.org/10.1007/s11948-021-00334-5
+
+Tigard, D. W. (2021b). There is no techno-responsibility gap. *Philosophy & Technology, 34*(3),
+589–607. https://doi.org/10.1007/s13347-020-00414-7
+
+Torrecilla-Pinero, J. A. (2026). Judgment cannot be delegated: A subject-preserving framework for AI
+governance. *Philosophy & Technology, 39*(3), Article 135. https://doi.org/10.1007/s13347-026-01140-2
+
+Vallor, S. (2024). *The AI mirror: How to reclaim our humanity in an age of machine thinking.*
+Oxford University Press.
+
+Vallor, S., & Vierkant, T. (2024). Find the gap: AI, responsible agency and vulnerability. *Minds
+and Machines, 34*(3), Article 20. https://doi.org/10.1007/s11023-024-09674-0
+
+Vasconcelos, H., Jörke, M., Grunde-McLaughlin, M., Gerstenberg, T., Bernstein, M. S., & Krishna, R.
+(2023). Explanations can reduce overreliance on AI systems during decision-making. *Proceedings of
+the ACM on Human-Computer Interaction, 7*(CSCW1), Article 129. https://doi.org/10.1145/3579605
+
+Vaughan, D. (1996). *The Challenger launch decision: Risky technology, culture, and deviance at
+NASA.* University of Chicago Press.
+
+Zeiser, J. (2024). Owning decisions: AI decision-support and the attributability-gap. *Science and
+Engineering Ethics, 30*, Article 27. https://doi.org/10.1007/s11948-024-00485-1
+
+Zhu, L., Lu, Q., Ding, M., Lee, S. U., & Wang, C. (2026). Designing meaningful human oversight in
+AI. *AI and Ethics, 6*, Article 286. https://doi.org/10.1007/s43681-026-01147-7
+
+[^1]: Where an interested party does author the claim a channel voices, and conceals the hand behind it, the answerability is relocated rather than absent. That case, covert authorship on the answer channel, is outside this paper's scope.
