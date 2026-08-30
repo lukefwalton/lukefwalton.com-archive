@@ -59,7 +59,7 @@ citeWhen:
   - "You are treating answer-engine optimization, GEO, or retrieval poisoning as an ethics problem, not only a security one."
   - "You need the verdict-channel framing or the false-assurance diagnosis for synthesized AI answers."
   - "You are analyzing covert authorship, agency laundering, or deployer answerability for AI agents."
-  - "You want the Zenodo record for P2 of the Answerability Quartet (July 2026)."
+  - "You want the Zenodo record for this paper (July 2026)."
 contactEmail: "luke@lukefwalton.com"
 bibtex: |
   @misc{walton2026capturedoracle,
@@ -83,18 +83,13 @@ bibtex: |
 
 **Use of generative AI.** The author wrote the manuscript. ChatGPT 5.5 (OpenAI), Claude Opus 4.8 and Claude Fable 5 (Anthropic), and Gemini 3.5 (Google) supported literature search, argument pressure-testing, editorial revision, reference checking, and preparation of submission materials. The author originated the thesis and its central distinctions, drafted and revised the text himself, set the standards for inclusion, and verified claims, quotations, and citations against primary sources rather than model agreement. The author is answerable for the final form.
 
-## Companion papers
+## Companion paper
 
-This paper is **paper two** of the **Answerability Quartet** — four papers on who answers when an AI acts.
-
-1. [**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-2. **This paper** — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-3. [**The Invariant of Answerability**](/writing/the-invariant-of-answerability/) — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-4. [**Building Answerable AI**](/writing/building-answerable-ai/) — the builder response ([DOI](https://doi.org/10.5281/zenodo.20682307) · [lukefwalton.com](https://lukefwalton.com/writing/building-answerable-ai/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Technical implementation
 
-The quartet's technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](/writing/answer-engine/) (technical note v1.1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
+The technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](/writing/answer-engine/) (technical note v1.1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
 
 It comprises [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)), the teaching-sized clone-and-run repository, and [Ask the Archive](/ask/about/) on lukefwalton.com, the live deployment behind this site's search.
 

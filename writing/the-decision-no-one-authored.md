@@ -50,7 +50,7 @@ citeWhen:
   - "You need to distinguish being attributable for an AI-shaped outcome from having performed the judgment over the evaluative frame behind it."
   - "You're arguing the limits of meaningful human control, human-in-the-loop oversight, or automation bias in generative systems."
   - "You're analyzing automated decision-making where humans retain override power but never adopt the frame the system operates under."
-  - "You want the Zenodo or PhilArchive record for P1 of the Answerability Quartet (preprint v2.0, August 2026)."
+  - "You want the Zenodo or PhilArchive record for this paper (preprint v2.0, August 2026)."
 contactEmail: "luke@lukefwalton.com"
 bibtex: |
   @misc{walton2026answerability,
@@ -80,18 +80,13 @@ The author originated the thesis and its central distinctions, set the standards
 and revised all drafted material, and verified every claim, quotation, and citation against primary
 sources rather than against model agreement. The author is answerable for the final form.
 
-## Companion papers
+## Companion paper
 
-This article is **paper one** of the **Answerability Quartet** — four papers on who answers when an AI acts.
-
-1. **This paper** — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-2. [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-3. [**The Invariant of Answerability**](/writing/the-invariant-of-answerability/) — the general invariant ([DOI](https://doi.org/10.5281/zenodo.20606493) · [lukefwalton.com](https://lukefwalton.com/writing/the-invariant-of-answerability/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
-4. [**Building Answerable AI**](/writing/building-answerable-ai/) — the builder response ([DOI](https://doi.org/10.5281/zenodo.20682307) · [lukefwalton.com](https://lukefwalton.com/writing/building-answerable-ai/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Technical implementation
 
-The quartet's technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](/writing/answer-engine/) (technical note v1.1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
+The technical implementation is **Answer Engine** — documented in [*Answer Engine: A Small Reference Implementation for Citation-Grounded AI Answers*](/writing/answer-engine/) (technical note v1.1, June 2026 · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)). The note states the design contract, evaluation harness, and scope.
 
 It comprises [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [GitHub](https://github.com/lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)), the teaching-sized clone-and-run repository, and [Ask the Archive](/ask/about/) on lukefwalton.com, the live deployment behind this site's search.
 

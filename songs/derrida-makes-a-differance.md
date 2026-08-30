@@ -91,6 +91,6 @@ The title puns on [différance](https://plato.stanford.edu/entries/derrida/), De
 
 Then the turn, which is the whole point: *but living in the meaningless / a freedom can come out of it*. Not leaving the meaninglessness, living in it long enough for freedom to leak out. The Big Bang verse splits the pun clean (*Big Bang might've separated / all that matters into places*) and the close lands small on the sun/son homophone: *to be the sun / to be a son / I find my meaning in my family*. Meaning after the cosmic shrug comes from family, not from any answer to the purpose of life.
 
-Philosophical thread continues on [*Don't Know Much*](/songs/dont-know-much/), [*What Makes You You*](/songs/what-makes-you-you/), [*1101*](/songs/1101/). [The Bent Stick](/writing/the-bent-stick/) (*essai #1*), meaning bends at the waterline when languages meet, same stick-in-river image.
+Philosophical thread continues on [*Don't Know Much*](/songs/dont-know-much/), [*What Makes You You*](/songs/what-makes-you-you/), [*1101*](/songs/1101/). [The Bent Stick](/writing/the-bent-stick/) (*essay #1*), meaning bends at the waterline when languages meet, same stick-in-river image.
 
 ---

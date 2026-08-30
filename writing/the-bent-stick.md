@@ -1,7 +1,7 @@
 ---
 type: essay
 title: "The Bent Stick"
-subtitle: "essai #1"
+subtitle: "essay #1"
 description: "After Guillain-Barré took guitar and sight, a stick in the river became a lesson about bent knowing, language, and standing behind what you can't prove."
 date: 2026-06-07
 keywords:

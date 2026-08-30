@@ -3,16 +3,16 @@
   "description": "Dependency-free mirror of lukefwalton.com. The canonical site is authoritative.",
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
-  "generatedAt": "2026-08-26",
+  "generatedAt": "2026-08-30",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "1ac80b586cc792b5e228331874b2d72860fb2993"
+    "commit": "80d92741cad716798ebbebd724d3f00d3e615fc3"
   },
-  "total": 668,
+  "total": 666,
   "counts": {
     "songs": 382,
     "albums": 28,
-    "writing": 7,
+    "writing": 5,
     "letters": 3,
     "publications": 1,
     "interviews": 28,

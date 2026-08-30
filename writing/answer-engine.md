@@ -34,7 +34,7 @@ keywords:
 abstract: >
   Chat-style language-model systems collapse five distinct operations — retrieval, use of private context, generation, citation, and refusal — into a single conversational surface, which makes it hard to say what evidence an answer rests on or whether it should have been given at all. This note describes answer-engine, a small TypeScript reference implementation that holds those operations apart. The system answers one question at a time against a bounded corpus, cites the public evidence it used, declines when no evidence clears a retrieval floor, and enforces a type-level boundary that keeps private text out of the model prompt while still allowing it to route retrieval. A fixed set of gold queries tests refusal, citation grounding, and the no-leak boundary as regressions. The artifact is a teaching-sized reference pattern, not a benchmark or a production framework.
 summary: >
-  Answer Engine is the runnable technical implementation behind the Answerability Quartet —
+  Answer Engine is the runnable technical implementation behind the answerability papers —
   a small TypeScript pattern for one-shot, citation-grounded answers over a bounded corpus,
   with honest refusal and a type-level no-leak boundary for private material. v1.1 adds
   empirical scaling notes from the production deployment behind Ask the Archive on this site.
@@ -69,7 +69,7 @@ bibtex: |
 
 ## Context
 
-This note documents the **Answer Engine** technical implementation for the [**Answerability Quartet**](/research/) — four papers on who answers when an AI acts (P1–P4). It is set apart from the papers as a runnable reference pattern.
+This note documents the **Answer Engine** technical implementation that accompanies the [answerability papers](/research/) on who answers when an AI acts. It is set apart from the papers as a runnable reference pattern.
 
 - [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — teaching-sized clone-and-run repository ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0))
 - [**Ask the Archive**](/ask/about/) — live deployment on lukefwalton.com

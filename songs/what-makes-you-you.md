@@ -73,7 +73,7 @@ A sensible-life daydream, twice. Quit music, move to the Midwest (Ohio roots, [*
 
 The hook breaks across lines so *do* lands alone: *when you lose what you / do / that which makes you you*. That pun is the song. Maybe what makes you you is the doing, not a fixed self underneath.
 
-Written while recovering from Guillain-Barré, when guitar wasn't an option and the question had time to sit. Same recovery season as [無門関](/songs/mumonkan/), with the personal arc in [The Bent Stick](/writing/the-bent-stick/) (*essai #1*). Pairs with [*Who Am I Really Fooling Anyway*](/songs/who-am-i-really-fooling-anyway/) and [*a song to quit your job to*](/songs/a-song-to-quit-your-job-to/), actually quitting.
+Written while recovering from Guillain-Barré, when guitar wasn't an option and the question had time to sit. Same recovery season as [無門関](/songs/mumonkan/), with the personal arc in [The Bent Stick](/writing/the-bent-stick/) (*essay #1*). Pairs with [*Who Am I Really Fooling Anyway*](/songs/who-am-i-really-fooling-anyway/) and [*a song to quit your job to*](/songs/a-song-to-quit-your-job-to/), actually quitting.
 
 I also like Yu Yu Hakusho a lot.
 

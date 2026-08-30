@@ -1,8 +1,8 @@
 ---
 type: essay
 title: "The Seam"
-subtitle: "essai #2"
-description: "A dog mask, a meme-reader interview, and an answer engine that split Scoobert from Luke — essai #2 on standing behind the seam."
+subtitle: "essay #2"
+description: "A dog mask, a meme-reader interview, and an answer engine that split Scoobert from Luke — essay #2 on standing behind the seam."
 date: 2026-06-14
 keywords:
   - authorship
@@ -72,7 +72,7 @@ That's the thing I research now, commercially and philosophically. [The answerab
 
 My friends knew me as separate people. The search engines and the AIs knew me as separate people too. And I'm sick of it haha. I want to be [whole](/songs/chai-whole/).
 
-So I [built this silly website](https://lukefwalton.com/). I'm [writing these essais](/writing/#blog). I'm looking backwards to look forwards. There was a moment where philosopher-Luke could've become yet another identity — a clean new mask to add to the pile. Instead I wanted to come full circle. A [recapitulation](https://en.wikipedia.org/wiki/Recapitulation_(music)), if you're into music!
+So I [built this silly website](https://lukefwalton.com/). I'm [writing these essays](/writing/#blog). I'm looking backwards to look forwards. There was a moment where philosopher-Luke could've become yet another identity — a clean new mask to add to the pile. Instead I wanted to come full circle. A [recapitulation](https://en.wikipedia.org/wiki/Recapitulation_(music)), if you're into music!
 
 I am committing to doing it all under my real name — writing, in the manner of the academic establishment that first archived me as a cartoon dog, about the answerability gap. I did that to myself, on purpose, with a dog mask, and I'm telling you: it's lonely on the other side of that cut!
 
