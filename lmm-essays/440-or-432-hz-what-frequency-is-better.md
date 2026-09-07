@@ -1,0 +1,108 @@
+---
+title: "440 or 432 Hz — What Frequency Is Better?"
+subtitle: "A debunking of tuning mysticism"
+description: "A=440 Hz is a 20th-century compromise, not a cabal. 432 is a beautiful idea that cheapens music if you treat it as the one true frequency. Frequency is a spectrum, not a binary."
+date: 2024-11-20
+series: music-theory-101
+part: 4
+substack: "https://lovemusicmore.substack.com/p/440-or-432-hz-what-frequency-is-better"
+keywords:
+  - 440 Hz
+  - 432 Hz
+  - concert pitch
+  - tuning
+  - ISO 16
+  - music theory
+  - philosophy of music
+draft: false
+---
+
+> "Future medicine will be the medicine of frequencies." — Albert Einstein
+
+I really like the idea of the healing power of music. It's seductive. I even wrote [a post on frequencies and their relationship to the overall universe](/love-music-more/essays/tuning-into-the-universes-frequency/).
+
+But it's really easy to get swept up in the mysticism. It gets clicks.
+
+## Let's Get Some Clicks
+
+I'd like to focus on one debate in particular: which note we should consider the note called "A." In frequency terms, 440 vs 432 hertz.
+
+There's something deeply compelling about the idea that sound can change our physical and mental states. It vibrates through the air, and through us, stirring emotions, memories, and guiding our sense of identity.
+
+And seeing patterns like the base of the Great Pyramid and a lotus-blossom visualization of a tone is pretty neat. But I can't help but feel like this is ancient-aliens energy.
+
+<figure>
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f70a919-1c96-433a-8fea-090e0e2895bf_1280x720.jpeg" alt="A mystical graphic overlaying 432 Hz and 528 Hz on pyramids and geometry" loading="eager" />
+</figure>
+
+## An Unnatural Tuning (Or Is It Evil?)
+
+Before the 20th century, music was very regional. Cities, countries, and even orchestras had their own way of doing things and their own preferences for tuning. Consider the differences in taste, including the composer, conductor, musicians, and audience. One composer might like a darker sound, leading toward a lower pitch, so everyone would tune around that. Another virtuoso might like the way their instrument sounds shifted a bit higher, leading the rest of the ensemble to tune up by force of personality. The venue might also sound a bit better with different tunings.
+
+So the eras of classical music shifted over time, with Baroque music often tuned way lower, like 415 Hz. I like that. Baroque concerts on period instruments are chef's kiss. I think I like it so much because it's so noticeable — 5.68% lower. (440 vs 432 is only 1.81% lower. Quite a bit less perceptible, especially without flashy accompanying visuals biasing you.)
+
+<div class="essay-embed">
+<iframe src="https://www.youtube-nocookie.com/embed/MmzazFIGpYg" title="Baroque music on period instruments, around A=415 Hz" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+And as time passed, the world got smaller, as it tends to do in modernity. Imagine yourself as a traveling musician or a violin luthier, confused as you go from orchestra to orchestra.
+
+## So Why 440 Hz?
+
+The choice wasn't random. (But was it nefarious?!)
+
+The "A" note typically ranged from 400 Hz to 450 Hz. Some singers didn't like singing too high or too low on the far ranges. Some instrument makers liked the higher tension on the strings, but some older instruments couldn't handle their strings too cranked.
+
+So, compromise. In 1834, the German Natural History Society proposed 440 as a nice spot to stop. (I think this is why people call 440 a Nazi frequency.) Also, technological developments like tuning forks (and later digital tuners) made standardization possible.
+
+In 1939, the radio industry was looking for more consistency in pitches. Think about it. If you're handed the aux cord, and are the DJ in the car, don't you want the songs to be in tune with each other? It can be quite jarring when my Baroque music comes on shuffle.
+
+From 1955–1975, the International Organization for Standardization (ISO) decided on 440 Hz and made it the law of the land. Sorta. But with the rise of digital tools, it was easier to hit that standard. It's part of what made electronic tuners so ubiquitous. And with advances in recording technology, there was less pitch warble, allowing the 440 tuning to shine through — and out-of-tune instruments to become more apparent.
+
+But it's not an ironclad law by any means. Some orchestras still eschew the standard, favoring alternative tunings for historical or aesthetic reasons. Like the Baroque bois.
+
+Some say this decision was actually orchestrated (pun) by a secret cabal, intent on shifting humanity from its purest form. Maybe. But if you can make a claim without any evidence, I can disprove it without any evidence. So there.
+
+## The Verdi tuning, A=432 Hz
+
+Advocates claim that this frequency has a unique power to harmonize our minds, bodies, and the natural world. They speak of its supposed ability to create a feeling of calm, connection, and balance, even suggesting that it aligns with the natural vibrations of the universe. That sounds nice. And if it makes you feel that way, great.
+
+The notion is actually quite beautiful. Is there a deeper, more "natural" way to restore harmony? Wouldn't it be nice to solve all of the world's problems by tuning everything slightly lower?
+
+## Snake Oil
+
+But that act cheapens what music is. It brings the unknowable into the material, ascribing our hopes and dreams to yet another construct. Placebos can be nice. So can idols, I guess. But they can also distract from the real medicine or a true divinity.
+
+Music's bigger than that. Music is like water to a fish. Pervasive. Unknowable. We're participants in it — part of those frequencies, physical beings of energy — but we're also passengers. We manipulate sound and sights but have no defenses to the radioactive or the rumblings of earthquakes. So why pretend instead that we're in the driver's seat? That music goes from good to bad on our whims. Can something as pedantic as a slight change in hertz (440 vs 432) really change humanity? Or is that mistaking our water for some fish flakes?
+
+## What are frequencies, really?
+
+Let's start the debunk by considering what frequencies even are.
+
+Frequency is defined by the number of vibrations per second, measured in Hertz (Hz). When something vibrates, air molecules are pushed around, creating sound waves. These waves travel to your ears and are interpreted by your brain as sound. Low frequencies vibrate fewer times a second. High frequencies vibrate more.
+
+But think about the human assumptions made here. A *second* is an arbitrary measure of time. Mystical 432 graphics overlay other arbitrary measures — miles, pyramids, bees — the same way the [Golden Ratio](/love-music-more/essays/why-are-there-twelve-notes/) can be used and abused. Nice figures can be overlaid. Arbitrary coincidence and tenuous correlations can be graphed and twisted to look good at a glance.
+
+<figure>
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f70a919-1c96-433a-8fea-090e0e2895bf_1280x720.jpeg" alt="The same 432 Hz graphic, overlaying pyramids and geometry" loading="eager" />
+</figure>
+
+So too can history. The origin of the 440 compromise was technological advancement, not secret cabals. And the history of tuning was varied and regional, not some uniform and sacred alignment on 432 in some times past.
+
+## Nothing Wrong with Change
+
+But I'm no 440 shill.
+
+The key to music having positive health benefits is enjoyment. Do what makes you happy. 432 Hz music is cool. 440 Hz is too. But so is 445. Or 415. (Like I said, I love period performances of Baroque music.)
+
+Idk what else to tell you, fellow hippies. I guess I'd say, free your mind from the notion of right or wrong in something as fluid as frequency. Frequency is a spectrum, not a binary.
+
+Go make music that's in different pitch centers. Appreciate the moments of "out of tune." And accept that the universe isn't a series of perfect ratios. Or even "notes." Warble, wave, and live. Be organic.
+
+It's messy. It's ever changing.
+
+Just like us.
+
+Thanks for reading, internet friend,
+
+Scoob

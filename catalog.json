@@ -19333,6 +19333,133 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "navigating-fulfilling-chords",
+    "title": "Navigating Fulfilling Chords",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/navigating-fulfilling-chords/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/navigating-fulfilling-chords/",
+    "archive": {
+      "markdown": "lmm-episodes/navigating-fulfilling-chords.md",
+      "html": "lmm-episodes/navigating-fulfilling-chords.html"
+    },
+    "source": "src/content/lmm-episodes/navigating-fulfilling-chords.md",
+    "metadata": {
+      "title": "Navigating Fulfilling Chords",
+      "description": "What makes a chord cool? How do we go beyond the 12 notes and into frequencies? And how do we avoid all that nasty music theory getting in the way of our artistic selves? Well, I brought my mini-piano to explore just that. Let's dive in.",
+      "status": "complete",
+      "date": "2026-09-01",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Navigating-Fulfilling-Chords-e3o3pcd",
+      "spotifyUrl": "https://open.spotify.com/episode/6CBb0zDRI8EW901Pyul4iv",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/navigating-fulfilling-chords/id1567355195?i=1000787131340&uo=4",
+      "topicsDiscussed": [
+        "Music theory",
+        "Piano, synth, and keys",
+        "Mixing",
+        "Guitar",
+        "Jazz",
+        "Creativity",
+        "Pedal tones",
+        "Harmonic series",
+        "Radiohead",
+        "The Beatles"
+      ],
+      "hostNote": "What makes a chord cool is not a secret seventh-chord recipe. I sit at the mini-piano in **C major** — all the white keys — and treat theory as a map you can ignore once you can hear where a note wants to go. A Cmaj7 hangs because you counted to seven and it does not resolve. That hanging is the feeling, not the vocab word.\n\nThe through-line is **static notes**. Keep a pedal in the bass and let the other voices move: pop's oldest trick, and the same simple means that make **Radiohead** and Coldplay sound complex on guitar. **The Beatles** get complexity out of white-key simplicity. I compare it to speaking Japanese and then reading the transcription back: the ear first, the spelling later.\n\nThen I drop into the low end, where the **harmonic series** starts to rub. Mixing is choosing which partials come out; a spectrometer does not replace taste, but it shows why **JAWS** hits as tension and why dense voicings get brutal below a certain register. The point is not prettier chords. It is fulfilling the intuition so the song you wished existed can exist.\n",
+      "selectedMoments": [
+        {
+          "label": "C major as tone cleanser",
+          "startSec": 87,
+          "note": "I reset to C major on the mini-piano so chord talk starts on the white keys instead of a theory worksheet."
+        },
+        {
+          "label": "Why a seventh hangs",
+          "startSec": 129,
+          "note": "I count a C major seven so you can hear the unresolved seventh instead of memorizing the name."
+        },
+        {
+          "label": "Pedal tone in pop",
+          "startSec": 244,
+          "note": "I show the static bass note that holds still while the rest of the chord moves — the common pop pedal."
+        },
+        {
+          "label": "Radiohead complexity from staying still",
+          "startSec": 328,
+          "note": "I connect static inner notes to why Radiohead and Coldplay can sound dense without changing every voice."
+        },
+        {
+          "label": "Beatles: complexity out of simplicity",
+          "startSec": 433,
+          "note": "I use the Beatles as the white-key case: textbook moments that still come from following the ear."
+        },
+        {
+          "label": "Harmonic series as a mix move",
+          "startSec": 650,
+          "note": "I treat the harmonic series as what mixing actually manipulates: which partials you let speak."
+        },
+        {
+          "label": "Why JAWS is tension in the lows",
+          "startSec": 767,
+          "note": "I drop the voicing until the low-end rub is brutal, then point at JAWS as that same harmonic tension."
+        },
+        {
+          "label": "Fulfilling the intuition",
+          "startSec": 1102,
+          "note": "I close on EQ, progression, and timbre as knobs for emotion — so the song you wished existed can exist."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "C major is just the default to all of the white keys on the keyboard.",
+          "startSec": 93,
+          "reviewed": true
+        },
+        {
+          "text": "It's because you can count one, two, three, four, five, six, seven, and you hear how it kind of doesn't resolve.",
+          "startSec": 132,
+          "reviewed": true
+        },
+        {
+          "text": "This is one of the most common uses in pop music.",
+          "startSec": 239,
+          "reviewed": true
+        },
+        {
+          "text": "And this is one of the things that makes like Radiohead sound complex, but also the thing that makes Coldplay sound complex.",
+          "startSec": 327,
+          "reviewed": true
+        },
+        {
+          "text": "That's where I think the Beatles are a great example of complexity out of simplicity.",
+          "startSec": 437,
+          "reviewed": true
+        },
+        {
+          "text": "And all of those are just knobs and things that you can do for the sake of emotion and for the sake of fulfilling your intuition and making the song that you wished existed exist.",
+          "startSec": 1097,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What do I mean by a fulfilling chord?",
+          "answer": "I mean a voicing that satisfies the ear, not a correct textbook label. A Cmaj7 hangs because the seventh does not resolve; a pedal tone can make a simple triad feel huge because one note stays still while the others move. The test is whether the chord does the emotional job the song asked for."
+        },
+        {
+          "question": "How can static notes make a song sound more complex?",
+          "answer": "Keep one pitch — often the bass — and change the notes above it. That pedal is everywhere in pop, and it is the same guitar habit that makes Radiohead and Coldplay sound dense without rewriting the whole chord. Complexity here is held notes plus moving voices, not more theory."
+        },
+        {
+          "question": "Why does the harmonic series matter when I mix chords?",
+          "answer": "Low notes carry more partials, so dense voicings rub harder at the bottom of the keyboard. Mixing is choosing which parts of that series come forward. That is why a spectrometer can help you see the rub, and why something like the JAWS figure hits as tension rather than as a pretty triad."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "nicole-mccabe",
     "title": "Instant Musicality with Nicole McCabe (Dolphin Hyperspace, Louis Cole, Patrice Rushen)",
     "type": "PodcastEpisode",
@@ -26457,6 +26584,267 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "to-be-like-water-take-a-nap",
+    "title": "To Be like Water, Take a Nap",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/to-be-like-water-take-a-nap/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/to-be-like-water-take-a-nap/",
+    "archive": {
+      "markdown": "lmm-episodes/to-be-like-water-take-a-nap.md",
+      "html": "lmm-episodes/to-be-like-water-take-a-nap.html"
+    },
+    "source": "src/content/lmm-episodes/to-be-like-water-take-a-nap.md",
+    "metadata": {
+      "title": "To Be like Water, Take a Nap",
+      "description": "If you want to learn a new instrument, you should start napping. In this pod, I talk about mind-body connection, forming new synapses, and how musicians and pro athletes are actually very similar. Stop brute forcing your way to music greatness, and sleep your way to success!",
+      "status": "complete",
+      "date": "2026-08-18",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/To-Be-like-Water--Take-a-Nap-e3nfvcd",
+      "spotifyUrl": "https://open.spotify.com/episode/7jOcxGNnAhW7S4Os2ZcOvv",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/to-be-like-water-take-a-nap/id1567355195?i=1000784003606&uo=4",
+      "topicsDiscussed": [
+        "Drums",
+        "Philosophy",
+        "Creativity",
+        "Dreams",
+        "Friendship",
+        "Practice and napping",
+        "Musicians and athletes",
+        "Metronomes",
+        "Wu Wei",
+        "TOMMASO"
+      ],
+      "hostNote": "If you want to learn a new instrument, start napping. The episode title is the method: **be like water**, then actually sleep. I stack musicians next to professional athletes — not the hotel rooms, the drills. Drumming makes the parallel brutally obvious: four limbs, a metronome that younger players hate, and a body that will not fluidly do what the ear already knows.\n\nThe secret that has helped me most is not another hour of brute force. It is **practice, nap, practice, sleep**. NFL and NBA players already live that loop; I name **LeBron** taking two or three naps a day because longevity is the point, not a grind aesthetic. Short naps count. The person who sleeps after the session usually beats the person who just kept going.\n\n**Wu Wei** is the other half: stop forcing the groove and let the water find the shape. I teed this up the week before **Go-To Patterns with TOMMASO** — same drum-body conversation, from a drummer who is better at it than I am.\n",
+      "selectedMoments": [
+        {
+          "label": "Musicians and athletes, not just travel",
+          "startSec": 86,
+          "note": "I set the parallel: professional musicians and athletes share the body-learning, not only the hotels."
+        },
+        {
+          "label": "Next week: TOMMASO on drum mechanics",
+          "startSec": 101,
+          "note": "I flag the Tommaso interview as the drummer-eyed half of this practice conversation."
+        },
+        {
+          "label": "Why younger players hate the metronome",
+          "startSec": 263,
+          "note": "I talk through four-limb drift on the kit — the metronome makes every miss public."
+        },
+        {
+          "label": "Drills until the body stops thinking",
+          "startSec": 407,
+          "note": "I compare unthinking drum limbs to NBA footwork: fingers teaching the brain, then the reverse."
+        },
+        {
+          "label": "The secret is taking naps",
+          "startSec": 493,
+          "note": "I name napping as the practice tool that has helped me more than extra hours of forcing."
+        },
+        {
+          "label": "NFL, NBA, LeBron",
+          "startSec": 529,
+          "note": "I point at pro athletes' nap loops — drills, rest, drills — as the model for musical longevity."
+        },
+        {
+          "label": "Practice, nap, practice, sleep",
+          "startSec": 582,
+          "note": "I reduce the method to a loop: encode, sleep, encode again, then a full night."
+        },
+        {
+          "label": "Wu Wei: be like water",
+          "startSec": 723,
+          "note": "I close the craft argument: brute force fights the groove; Wu Wei lets the water find it."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "I really think that there's a lot of parallels between professional musicians and professional athletes.",
+          "startSec": 84,
+          "reviewed": true
+        },
+        {
+          "text": "And my biggest secret, the thing that's helped me the most, is taking naps.",
+          "startSec": 489,
+          "reviewed": true
+        },
+        {
+          "text": "The people that I know that take the most naps are NFL and NBA players.",
+          "startSec": 527,
+          "reviewed": true
+        },
+        {
+          "text": "Those naps, I think LeBron takes like two or three naps a day, but those naps are the secret to the longevity.",
+          "startSec": 542,
+          "reviewed": true
+        },
+        {
+          "text": "If you can practice, nap, practice, sleep, you're gonna wake up the next morning.",
+          "startSec": 587,
+          "reviewed": true
+        },
+        {
+          "text": "There's this thing called Wu Wei, like be like water.",
+          "startSec": 725,
+          "reviewed": true
+        },
+        {
+          "text": "I think that we're going to be talking with Tommaso and we'll pick up this conversation from the eyes of a drummer that's a lot better than I am.",
+          "startSec": 757,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why do I say you should nap to learn an instrument?",
+          "answer": "Because the hard part is getting the body to do what the ear already hears. I have had more luck with a focused session, a nap, then a shorter second pass than with brute-forcing the same passage. Sleep is when the pattern stops fighting you."
+        },
+        {
+          "question": "What do musicians and pro athletes actually share?",
+          "answer": "Not just travel. Both live in drills until the body can run the pattern without thinking — NBA footwork, four-limb drum independence, a metronome that exposes every drift. The people who last treat rest as training, not as a break from it. I use LeBron's nap habit as the longevity version of that idea."
+        },
+        {
+          "question": "What does Wu Wei have to do with practice?",
+          "answer": "Wu Wei here means stop shoving. If you only brute-force a groove, you are fighting the water. Intention and focus still matter; the other half is letting the pattern arrive after you have given the body sleep. The Tommaso episode the next week is the same argument from a drummer's chair."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "tommaso",
+    "title": "Go-To Patterns with TOMMASO",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/tommaso/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/tommaso/",
+    "archive": {
+      "markdown": "lmm-episodes/tommaso.md",
+      "html": "lmm-episodes/tommaso.html"
+    },
+    "source": "src/content/lmm-episodes/tommaso.md",
+    "metadata": {
+      "title": "Go-To Patterns with TOMMASO",
+      "description": "You’d be surprised by how many great producers are also great drummers. TOMMASO is the perfect guy to discuss why. The thing he landed on? Drummers don’t just control the rhythm. They dictate the energy.",
+      "status": "complete",
+      "date": "2026-08-25",
+      "kind": "guest",
+      "guestSlugs": [
+        "tommaso"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Go-To-Patterns-with-TOMMASO-e3npeil",
+      "spotifyUrl": "https://open.spotify.com/episode/7ytHBtw48umQybRRkZoGgE",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/go-to-patterns-with-tommaso/id1567355195?i=1000785697775&uo=4",
+      "topicsDiscussed": [
+        "Drums",
+        "Music production",
+        "Mixing",
+        "Collaboration",
+        "Friendship",
+        "Songwriting",
+        "The home studio",
+        "Chicago",
+        "Ringo Starr",
+        "Meg White"
+      ],
+      "hostNote": "**TOMMASO** (Tommaso Veronesi) is a Chicago songwriter, producer, and drummer — Scoobert collab on **While Away**. Same orbit: he produced **Chan Fuze** singles **This Is Not Cool** and **Methadone Nights** (2023); Walton mixed both. We have mixed together and hung out in the city. The episode title is his session habit: **go-to fills and patterns**. We start where his production ear comes from. He barely had theory; he had drums, and he thought in **energy** — how the song moves forward — long before he had other instruments.\n\nWe talk **Ringo-y** fills that stay simple on purpose, muscle memory as teaching (\"a hundred times is really like nothing\"), and a hot take that puts **Meg White** next to Ringo: the drummer who is the song without winning a rudiment contest. After years of weekend gigs he moved back to Chicago and started producing again; the solo project exists as a no-compromise lane. Identity lagged the work: singer, drummer, songwriter, producer — now he can just say producer and musician.\n\nThe closer is the Love Music Why question. He does not know who he is without music. He lives it until the job title is almost beside the point.\n",
+      "selectedMoments": [
+        {
+          "label": "Chicago friends, mixing, hanging out",
+          "startSec": 109,
+          "note": "We start as Chicago friends who already mix and collaborate — not a cold first meeting."
+        },
+        {
+          "label": "Energy first, theory later",
+          "startSec": 176,
+          "note": "TOMMASO describes coming into production from drums with almost no theory — asking how the song is moving, not what the chord is called."
+        },
+        {
+          "label": "The simplest fill, the Ringo-y one",
+          "startSec": 445,
+          "note": "He hunts for the best fill in the moment and usually lands on something simple and Ringo-like rather than flashy."
+        },
+        {
+          "label": "Teaching drums as muscle memory",
+          "startSec": 992,
+          "note": "He has taught drums for a long time: send a kid home to play it a hundred times, because a hundred times is still nothing."
+        },
+        {
+          "label": "Go-to fills and patterns",
+          "startSec": 1204,
+          "note": "The episode title shows up in the room: in sessions he reaches for go-to fills and patterns that already work."
+        },
+        {
+          "label": "Meg White / Ringo hot take",
+          "startSec": 1284,
+          "note": "He contrasts the savant kit player with Meg White and Ringo: barely a double-stroke roll, still the song."
+        },
+        {
+          "label": "Back to Chicago, producing again",
+          "startSec": 1611,
+          "note": "After years of weekend gigs, moving back to Chicago is when he started producing again in earnest."
+        },
+        {
+          "label": "Singer, drummer, songwriter, producer",
+          "startSec": 2244,
+          "note": "He used to freeze when other musicians asked who he was; now he can say producer and musician without negotiating it."
+        },
+        {
+          "label": "I am music",
+          "startSec": 3388,
+          "note": "On why he loves music: he does not know who he is without it — he lives and breathes it until the question almost dissolves."
+        }
+      ],
+      "excerptQuotes": [
+        {
+          "text": "I didn't get a say into like what the music was, you know? Like I got a say in like the energy.",
+          "startSec": 156,
+          "reviewed": true
+        },
+        {
+          "text": "It's all muscle memory. It's like your brain is like a hundred times smarter than your body.",
+          "startSec": 1033,
+          "reviewed": true
+        },
+        {
+          "text": "It's so funny because I have like these like go-to drum beats.",
+          "startSec": 1351,
+          "reviewed": true
+        },
+        {
+          "text": "Even like a few years ago, I'm like, who am I? Am I like a singer? Am I a drummer? Am I a songwriter? Am I like a producer?",
+          "startSec": 2237,
+          "reviewed": true
+        },
+        {
+          "text": "Now I'm just like I'm a producer and a musician and I feel like happy with that.",
+          "startSec": 2251,
+          "reviewed": true
+        }
+      ],
+      "faq": [
+        {
+          "question": "What does TOMMASO mean by go-to patterns?",
+          "answer": "In sessions he reaches for fills and drum beats he already trusts — tasteful, often simple, often Ringo-like — instead of inventing a new trick every bar. The patterns are how a drummer-turned-producer keeps energy moving without overplaying."
+        },
+        {
+          "question": "Why does TOMMASO think drummers make good producers?",
+          "answer": "He came in from the kit with almost no theory. What he had was a say in the energy: how the song moves forward, how the kick and snare sit, how a fill should be the simplest thing that still feels like the best fill. Groove and dynamics were the production ear before other instruments arrived."
+        },
+        {
+          "question": "How is TOMMASO connected to Scoobert Doobert?",
+          "answer": "They are Chicago friends who have mixed and collaborated — including While Away (TOMMASO × Scoobert Doobert), and two 2023 Chan Fuze singles Veronesi produced and Walton mixed (This Is Not Cool, Methadone Nights). The interview is that relationship on tape, not a first meeting. The week before, the solo episode To Be like Water, Take a Nap pointed at this conversation from the drummer's chair."
+        }
+      ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "travis-ference",
     "title": "Memories In The Gear with Travis Ference (St. Vincent, Aloe Blacc, Skylar Grey)",
     "type": "PodcastEpisode",
@@ -30163,6 +30551,136 @@
         }
       ],
       "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-essays",
+    "slug": "440-or-432-hz-what-frequency-is-better",
+    "title": "440 or 432 Hz — What Frequency Is Better?",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/love-music-more/essays/440-or-432-hz-what-frequency-is-better/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/essays/440-or-432-hz-what-frequency-is-better/",
+    "archive": {
+      "markdown": "lmm-essays/440-or-432-hz-what-frequency-is-better.md",
+      "html": "lmm-essays/440-or-432-hz-what-frequency-is-better.html"
+    },
+    "source": "src/content/lmm-essays/440-or-432-hz-what-frequency-is-better.md",
+    "metadata": {
+      "title": "440 or 432 Hz — What Frequency Is Better?",
+      "subtitle": "A debunking of tuning mysticism",
+      "description": "A=440 Hz is a 20th-century compromise, not a cabal. 432 is a beautiful idea that cheapens music if you treat it as the one true frequency. Frequency is a spectrum, not a binary.",
+      "date": "2024-11-20",
+      "series": "music-theory-101",
+      "part": 4,
+      "substack": "https://lovemusicmore.substack.com/p/440-or-432-hz-what-frequency-is-better",
+      "keywords": [
+        "440 Hz",
+        "432 Hz",
+        "concert pitch",
+        "tuning",
+        "ISO 16",
+        "music theory",
+        "philosophy of music"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-essays",
+    "slug": "its-the-circle-of-fifths",
+    "title": "It's the Circle of Fifths",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/love-music-more/essays/its-the-circle-of-fifths/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/essays/its-the-circle-of-fifths/",
+    "archive": {
+      "markdown": "lmm-essays/its-the-circle-of-fifths.md",
+      "html": "lmm-essays/its-the-circle-of-fifths.html"
+    },
+    "source": "src/content/lmm-essays/its-the-circle-of-fifths.md",
+    "metadata": {
+      "title": "It's the Circle of Fifths",
+      "subtitle": "And it moves us all...",
+      "description": "Stack perfect fifths twelve times and you close a circle — or a spiral, until musicians fudge the math (enharmonics) the way geocentrism fudged the planets.",
+      "date": "2024-07-17",
+      "series": "music-theory-101",
+      "part": 3,
+      "substack": "https://lovemusicmore.substack.com/p/its-the-circle-of-fifths",
+      "episodeSlug": "the-circle-of-fifths-depicts-the-blueprint",
+      "keywords": [
+        "circle of fifths",
+        "perfect fourth",
+        "enharmonic",
+        "equal temperament",
+        "keys",
+        "music theory",
+        "Pythagoras"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-essays",
+    "slug": "tuning-into-the-universes-frequency",
+    "title": "Tuning into the Universe's Frequency (What Are Notes?)",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/love-music-more/essays/tuning-into-the-universes-frequency/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/essays/tuning-into-the-universes-frequency/",
+    "archive": {
+      "markdown": "lmm-essays/tuning-into-the-universes-frequency.md",
+      "html": "lmm-essays/tuning-into-the-universes-frequency.html"
+    },
+    "source": "src/content/lmm-essays/tuning-into-the-universes-frequency.md",
+    "metadata": {
+      "title": "Tuning into the Universe's Frequency (What Are Notes?)",
+      "subtitle": "What are frequencies?",
+      "description": "All notes are frequencies; all frequencies are waves. A note is what an ensemble agrees to call a pitch — culture, not essence — on an infinite gradient.",
+      "date": "2024-06-25",
+      "series": "music-theory-101",
+      "part": 1,
+      "substack": "https://lovemusicmore.substack.com/p/tuning-into-the-universes-frequency",
+      "episodeSlug": "why-are-there-12-notes",
+      "keywords": [
+        "frequency",
+        "notes",
+        "waves",
+        "philosophy of music",
+        "music theory",
+        "Pythagoras"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-essays",
+    "slug": "why-are-there-twelve-notes",
+    "title": "Why are there twelve notes?",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/love-music-more/essays/why-are-there-twelve-notes/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/essays/why-are-there-twelve-notes/",
+    "archive": {
+      "markdown": "lmm-essays/why-are-there-twelve-notes.md",
+      "html": "lmm-essays/why-are-there-twelve-notes.html"
+    },
+    "source": "src/content/lmm-essays/why-are-there-twelve-notes.md",
+    "metadata": {
+      "title": "Why are there twelve notes?",
+      "subtitle": "And why did Pythagoras hate beans?",
+      "description": "Western music's twelve tones come from stacking octaves (2:1) and fifths (3:2) — a search for order and divinity in ratios, whether or not the universe is actually that tidy.",
+      "date": "2024-07-10",
+      "series": "music-theory-101",
+      "part": 2,
+      "substack": "https://lovemusicmore.substack.com/p/why-are-there-twelve-notes",
+      "episodeSlug": "why-are-there-12-notes",
+      "keywords": [
+        "Pythagoras",
+        "twelve notes",
+        "octave",
+        "perfect fifth",
+        "overtone series",
+        "music theory",
+        "philosophy of music"
+      ],
       "draft": false
     }
   },
