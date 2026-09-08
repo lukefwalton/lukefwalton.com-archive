@@ -96,11 +96,11 @@ Track eight on [*Little Hug*](/albums/little-hug/) (**April 2021**), also on [*B
 
 The joy is built entirely from cartoon resilience and nonsense. Verse one trips over a banana and gets up grinning, helped along by weed *named Obama OG*; verse two saddles up for a pilgrimage with the Dalai Lama (*we ride through the seven seas / getting karma knowing dharma born new*). Not Buddhism homework, just spiritual fan-fiction. Between them the hook stacks until it overflows into *better better better*, the grin pushed past the point of credibility, which is the joke and also the point after a pandemic record.
 
-[Official music video on YouTube](https://www.youtube.com/watch?v=Pz3QqvWzDQI), also on [/music/#selected-videos](/music/#selected-videos).
+[Official music video on YouTube](https://www.youtube.com/watch?v=Pz3QqvWzDQI), also on [Selected Videos](/music/#selected-videos).
 
 **egoFM rotation:** Climbed egoFM's weekly **ego 42** chart from **#10** (Mar 13, 2021) to **#8** (Apr 3, 2021). On **November 24, 2023**, [egoFM published its 15-year Top 1,000 most-played songs](https://www.egofm.de/musik/news/meistgespielte-songs) — Scoobert Doobert listed as **#654** (**Cant Imagine Feeling Better Like This**), between Radiohead — *Jigsaw Falling Into Place* (#653) and Aim feat. YZ (#655). Long-rotation Munich receipt beyond the weekly chart Instagram posts.
 
-**Coors Light (TV, Canada):** [Mike Ladman](https://www.linkedin.com/in/mike-ladman-14807739/) placed the track while at **[Droga5](https://droga5.com/)**: music supervision for the brand's summer Canada TV campaign. [@beformer announced the placement](https://www.instagram.com/p/Chsga7bvFDL/) **August 25, 2022**, crediting Droga5. Ladman later joined Love Music More for [Going To Air with Mike Ladman (Droga5, McCann)](/love-music-more/episodes/mike-ladman/). See [/press/#sync](/press/#sync).
+**Coors Light (TV, Canada):** [Mike Ladman](https://www.linkedin.com/in/mike-ladman-14807739/) placed the track while at **[Droga5](https://droga5.com/)**: music supervision for the brand's summer Canada TV campaign. [@beformer announced the placement](https://www.instagram.com/p/Chsga7bvFDL/) **August 25, 2022**, crediting Droga5. Ladman later joined Love Music More for [Going To Air with Mike Ladman (Droga5, McCann)](/love-music-more/episodes/mike-ladman/). See [Sync](/press/#sync).
 
 On *Little Hug* it sits between [*I'm Addicted to Baths*](/songs/im-addicted-to-baths/) and [*I Am a Lobster, I Am a Barnacle*](/songs/i-am-a-lobster-i-am-a-barnacle/); on *Big Hug* it carries the EP's seed into the larger LP alongside reworked *If I Could Only* and [*Debby*](/songs/debby/) (Extended). Opposite energy from [*A Good Life*](/songs/a-good-life/) on MMM: bottled grin versus earnest mantra.
 

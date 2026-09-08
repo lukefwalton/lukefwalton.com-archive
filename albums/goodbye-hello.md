@@ -102,6 +102,6 @@ The public break was the March 2009 **Taylor Swift “Love Story”** date [vide
 
 **Preschool** has a distinct earlier commercial credit: track 5 on [Charitable Chords](https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world)’s *Know Your Rights (In Collaboration With Knit The World)*: **June 10, 2010**, billed as **Luke Walton (Blue Suburbia)**. Jake Barnes’ student charity project (Social Justice course); proceeds to **Knit The World** (Sarah Edelstein). Same song, three months before the Luke Walton Band LP: Blue Suburbia name on the comp, band marquee on *Goodbye/Hello*.
 
-All eleven tracks now link to [/songs/](/songs/). Present-tense credits use **Luke Francis Walton** or **Scoobert Doobert**; the bare “Luke Walton” credit belongs to this historical window only.
+All eleven tracks now link to [Songs](/songs/). Present-tense credits use **Luke Francis Walton** or **Scoobert Doobert**; the bare “Luke Walton” credit belongs to this historical window only.
 
 Listen: [Bandcamp](https://lukewaltonband.bandcamp.com/album/goodbye-hello) · [Amazon Music](https://www.amazon.com/Goodbye-Hello-Luke-Walton-Band/dp/B00454TZJE) · [Wikidata](https://www.wikidata.org/wiki/Q15044350)

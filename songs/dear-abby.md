@@ -41,6 +41,6 @@ draft: false
 
 Public credits on [SoundCloud](https://soundcloud.com/rees-finley/dear-abby) and the [official music video](https://youtu.be/hlUnCOPWw2s): **recorded and produced by FEiN**; **guitars by Luke Walton**; **drums and percussion by Brandon Woodward**. Same Tiny Giant / FEiN lane as [Hate To See You](/songs/hate-to-see-you/) (recording) and [American Champagne](/songs/american-champagne/) (guitars + FEiN production).
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 
 ---

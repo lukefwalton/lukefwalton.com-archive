@@ -26,6 +26,6 @@ draft: false
 
 Walton toured as guitarist/vocalist with Lara Johnston (Doobie Brothers, Gregg Allman) before this studio collab — the released-track proof that closes the earlier *released-track session credit not yet found* research gap on the [Lara Johnston live arc](/with/lara-johnston/) (she now performs as **Lara Lucille**: [Facebook](https://www.facebook.com/LaraLucilleSings)). Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** alongside [Out of My Mind](/songs/out-of-my-mind/), [Boomerang (with FEiN)](/songs/boomerang/), and [Remember Us](/songs/remember-us/) (Embody / Armada).
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [Lara Johnston](/with/lara-johnston/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Lara Johnston](/with/lara-johnston/)
 
 ---

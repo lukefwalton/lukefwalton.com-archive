@@ -35,7 +35,7 @@ isrcSource: spotify
 draft: false
 ---
 
-**たまや**, lead track on ***DEBUT***; pre-released **January 21, 2026** per [Natalie](https://natalie.mu/music/news/655580). [NiEW](https://niewmedia.com/en/news/093904/) documents the **A SCENE** (エーシーン) gadget-accessory brand tie-in: [official MV](https://www.youtube.com/watch?v=tEEZb8UeLLk) art-directed by the brand’s **koki furuya**, also on [/music/#selected-videos](/music/#selected-videos). Track 4 on the eight-song album ([Spotify](https://open.spotify.com/track/2FMqS0ulNgiBZfDuD326GD) · [Apple Music](https://music.apple.com/us/song/tamaya/1867075174)).
+**たまや**, lead track on ***DEBUT***; pre-released **January 21, 2026** per [Natalie](https://natalie.mu/music/news/655580). [NiEW](https://niewmedia.com/en/news/093904/) documents the **A SCENE** (エーシーン) gadget-accessory brand tie-in: [official MV](https://www.youtube.com/watch?v=tEEZb8UeLLk) art-directed by the brand’s **koki furuya**, also on [Selected Videos](/music/#selected-videos). Track 4 on the eight-song album ([Spotify](https://open.spotify.com/track/2FMqS0ulNgiBZfDuD326GD) · [Apple Music](https://music.apple.com/us/song/tamaya/1867075174)).
 
 The [Apple Music credits pane](https://music.apple.com/us/song/tamaya/1867075174) lists **Scoobert Doobert** as **Mixing Engineer**.
 

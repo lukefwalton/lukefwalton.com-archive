@@ -30,7 +30,7 @@ draft: false
 
 Unlike the long-form **visual albums** on earlier records, this is a straight live bundle, a snapshot of North Park pandemic material performed for release. Luke Francis Walton wrote, played, and mixed the studio originals; these are performance versions, not new compositions. **Bravo Buggs** played drums on the live set.
 
-**[Creature Comfort: Unity MV](https://www.youtube.com/watch?v=fOM9s5-ZnXA)** with [Max Horwich](/with/max-horwich/) · **[Full Virtual Concert](https://www.youtube.com/watch?v=qWF1jZqKMrY)** (directed by Horwich), both on [/music/#selected-videos](/music/#selected-videos). The Love Music More *Live from the Void* solo episodes document the Unity/VR build.
+**[Creature Comfort: Unity MV](https://www.youtube.com/watch?v=fOM9s5-ZnXA)** with [Max Horwich](/with/max-horwich/) · **[Full Virtual Concert](https://www.youtube.com/watch?v=qWF1jZqKMrY)** (directed by Horwich), both on [Selected Videos](/music/#selected-videos). The Love Music More *Live from the Void* solo episodes document the Unity/VR build.
 
 Notable metadata: [*I Want Yu Yu - Live*](/songs/i-want-yu-yu-live/) and [*My Mind Is Slowly Slipping - Live*](/songs/my-mind-is-slowly-slipping-live/) list **J MESA** (Taylor James / Babidi) and **Malik LovesYall** on the features (studio *My Mind* was **feat. Babidi** on [*Masks and Monsters*](/albums/masks-and-monsters/)): see [With J MESA](/with/j-mesa/).
 

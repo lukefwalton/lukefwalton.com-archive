@@ -26,7 +26,7 @@ draft: false
 
 ---
 
-**Kevin Tubbs** records as **Sanguine Penguin** — also **K Tubbles** and **Kajax** ([@ktubbles](https://www.instagram.com/ktubbles/) · [/with/kevin-tubbs/](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 15, 2022** on Spotify (label **Sanguine Penguin**; SoundExchange credit **Kajax × Scoobert Doobert**). Japan-facing international collab in the same cluster as [*do what i wanna*](/songs/do-what-i-wanna/) and [*wowowow*](/songs/wowowow/). Luke Francis Walton on the Scoobert side.
+**Kevin Tubbs** records as **Sanguine Penguin** — also **K Tubbles** and **Kajax** ([@ktubbles](https://www.instagram.com/ktubbles/) · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 15, 2022** on Spotify (label **Sanguine Penguin**; SoundExchange credit **Kajax × Scoobert Doobert**). Japan-facing international collab in the same cluster as [*do what i wanna*](/songs/do-what-i-wanna/) and [*wowowow*](/songs/wowowow/). Luke Francis Walton on the Scoobert side.
 
 **Release week:** [@ktubbles posted a bass promo](https://www.instagram.com/tv/CcWhV8aF33u/) (April 14, 2022 · Portland) ahead of the Spotify drop; [@beformer confirmed official OFF POP](https://www.instagram.com/p/CcYn62gPhBP/) the next day (next to [Great Good Fine Ok](/with/great-good-fine-ok/)). See [Catalog: official playlists](/catalog/#spotify-editorial).
 

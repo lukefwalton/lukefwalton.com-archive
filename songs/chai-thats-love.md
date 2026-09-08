@@ -24,10 +24,10 @@ themes: ["CHAI", "production", "Japan", "final live", "2024"]
 draft: false
 ---
 
-**CHAI** Japan single **ラブじゃん（ That's Love）**: Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [/music/#selected-videos](/music/#selected-videos).
+**CHAI** Japan single **ラブじゃん（ That's Love）**: Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [Selected Videos](/music/#selected-videos).
 
 **Not a U.S. release**: Japan-only single; no Spotify U.S. catalog entry indexed here. Do not conflate with **Let's Love**, a separate CHAI anime-theme release.
 
-Part of the post-*WINK TOGETHER* production run alongside [WHOLE](/songs/chai-whole/) (**track 11 まるごと** on the final Blu-ray), [夢のはなし (MY DREAM)](/songs/chai-yume-no-hanashi/), and [Chill Takatsu](/songs/chai-chill-takatsu/) (CHAI × Shingo Murakami). **Final live:** **track 3** on [『We The CHAI Tour! FINAL ～NEO KAWAII IS FOREVER♡～』](https://www.sonymusic.co.jp/artist/chai/info/563144) — Mar 12, 2024 EX THEATER ROPPONGI · Blu-ray Jul 3, 2024. Full setlist: [/with/chai/#final-live](/with/chai/#final-live). Full narrative: [With CHAI](/with/chai/).
+Part of the post-*WINK TOGETHER* production run alongside [WHOLE](/songs/chai-whole/) (**track 11 まるごと** on the final Blu-ray), [夢のはなし (MY DREAM)](/songs/chai-yume-no-hanashi/), and [Chill Takatsu](/songs/chai-chill-takatsu/) (CHAI × Shingo Murakami). **Final live:** **track 3** on [『We The CHAI Tour! FINAL ～NEO KAWAII IS FOREVER♡～』](https://www.sonymusic.co.jp/artist/chai/info/563144) — Mar 12, 2024 EX THEATER ROPPONGI · Blu-ray Jul 3, 2024. Full setlist: [Final Live](/with/chai/#final-live). Full narrative: [With CHAI](/with/chai/).
 
 No Scoobert lyrics. See [With CHAI](/with/chai/) · [Catalog](/catalog/#production)

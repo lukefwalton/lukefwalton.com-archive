@@ -27,6 +27,6 @@ draft: false
 
 Same session lane as [What You Want (Slow It Down)](/songs/what-you-want-slow-it-down/) and the broader [catalog — Tiny Giant / FEiN credited work](/catalog/#credited-work).
 
-See [/music/fein/#collaboration](/music/fein/#collaboration)
+See [FEiN Collaboration](/music/fein/#collaboration)
 
 ---

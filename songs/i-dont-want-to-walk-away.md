@@ -27,6 +27,6 @@ draft: false
 
 Same Tiny Giant session lane as [Dear Abby](/songs/dear-abby/) (FEiN production + Luke guitars), [Hate To See You](/songs/hate-to-see-you/) (recording), and [American Champagne](/songs/american-champagne/).
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 
 ---

@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-**Kevin Tubbs** (**Sanguine Penguin** · [/with/kevin-tubbs/](/with/kevin-tubbs/)) × **Scoobert Doobert**: **March 30, 2022**. Third in the Sanguine Penguin single cluster ([*Bumblebae*](/songs/bumblebae/), [*wowowow*](/songs/wowowow/)). Luke Francis Walton on the Scoobert side.
+**Kevin Tubbs** (**Sanguine Penguin** · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **March 30, 2022**. Third in the Sanguine Penguin single cluster ([*Bumblebae*](/songs/bumblebae/), [*wowowow*](/songs/wowowow/)). Luke Francis Walton on the Scoobert side.
 
 No press beyond streaming metadata.
 

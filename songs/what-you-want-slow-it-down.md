@@ -27,6 +27,6 @@ draft: false
 
 Same session lane as [Saints And Sinners](/songs/saints-and-sinners/), [Dear Abby](/songs/dear-abby/), [Boomerang (with FEiN)](/songs/boomerang/), and the broader [catalog — Tiny Giant / FEiN credited work](/catalog/#credited-work).
 
-See [/music/fein/#collaboration](/music/fein/#collaboration)
+See [FEiN Collaboration](/music/fein/#collaboration)
 
 ---

@@ -84,7 +84,7 @@ It started as a voice note on a cliff above Moonlight Beach: California burrito,
 
 The rest is beach comedy, a burrito *bigger than my forearm* and a request to be buried like a grunion with *room for my hand* to hold an ice cream. The chorus stacks *alright* until it's less a question than a fact.
 
-[Official music video on YouTube](https://www.youtube.com/watch?v=CkmdF0jQn2s), also on [/music/#selected-videos](/music/#selected-videos).
+[Official music video on YouTube](https://www.youtube.com/watch?v=CkmdF0jQn2s), also on [Selected Videos](/music/#selected-videos).
 
 [Soundville](https://soundvilleblog.com/2025/08/29/this-track-feels-like-floating-through-the-stars-alright-will-melt-your-soul/) called it floating-through-the-stars soul-melt; [Distromono](https://distromono.com/artists/heart-to-heart-with-scoobert-doobert-burritos-and-feeling-alright/) has the burrito heart-to-heart. See also: [Press](/press/) · [Catalog](/catalog/).
 

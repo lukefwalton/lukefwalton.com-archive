@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-**Kevin Tubbs** (**Sanguine Penguin** · [/with/kevin-tubbs/](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 9, 2023**. Later entry in the Japan collab run with [*Bumblebae*](/songs/bumblebae/) and [*do what i wanna*](/songs/do-what-i-wanna/). Luke Francis Walton on the Scoobert side.
+**Kevin Tubbs** (**Sanguine Penguin** · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 9, 2023**. Later entry in the Japan collab run with [*Bumblebae*](/songs/bumblebae/) and [*do what i wanna*](/songs/do-what-i-wanna/). Luke Francis Walton on the Scoobert side.
 
 No press found beyond distro.
 

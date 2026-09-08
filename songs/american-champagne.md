@@ -32,6 +32,6 @@ draft: false
 
 Public [SoundCloud](https://soundcloud.com/rees-finley/american-champagne-1) credit: **recorded and produced by FEiN**; **guitars by Luke Walton**; **drums and percussion by Brandon Woodward**. Same credit block as [Dear Abby](/songs/dear-abby/) — FEiN production with Luke on guitar.
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 
 ---

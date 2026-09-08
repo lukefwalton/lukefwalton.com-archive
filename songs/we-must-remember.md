@@ -82,6 +82,6 @@ draft: false
 
 **2010+ reception.** [Union-Tribune](https://www.sandiegouniontribune.com/2010/02/25/carlsbad-high-school-teacher-students-win-peacemaker-award/) (February 25, 2010): National Conflict Resolution Center **Peacemaker Award**; festivals in Hollywood, Germany, and Croatia; DVD curriculum planned. [303 Magazine](https://303magazine.com/2012/10/never-forgotten-we-must-remember/) (October 2012): Denver Film Society / Mizel Museum screening with Green and students. [Patch](https://patch.com/california/carlsbad/bp--carlsbad-high-school-television-releases-two-docu64e69ddd02) (April 2013): HD digital downloads via chstvfilms.org; Dachau memorial distribution; Lustig and *Paper Clips* producer Joe Fab praise. [Amazon](https://www.amazon.com/We-Must-Remember-Lessons-Holocaust/dp/B0046KJPJW) lists a commercial DVD (ASIN B0046KJPJW). [TJFF study guide](https://tjff.com/media/We%20Must%20Remember.pdf) documents classroom use. [*The Coast News*](https://thecoastnews.com/carlsbad-high-school-has-award-winning-broadcast-program/) notes KPBS broadcast and international acclaim as CHSTV's first documentary.
 
-See also: [/albums/goodbye-hello/](/albums/goodbye-hello/) · [/press/](/press/)
+See also: [Goodbye Hello](/albums/goodbye-hello/) · [Press](/press/)
 
 ---

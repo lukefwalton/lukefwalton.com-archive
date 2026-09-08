@@ -47,6 +47,6 @@ draft: false
 
 **Kuwait Rising** (**April 27, 2018**): **Luke Francis Walton performed live** with Tamtam — named in the [Lyn Winter *Rise* press release](https://lynwinter.com/media/pages/news/tamtam-releases-music-video-rise/75dd3e98d8-1607628493/rise-press-release-final-8-15.pdf) (Aug 2018). Separate from the studio played-on memory above.
 
-See also: [Drive](/songs/drive/) (executive producer) · [ROLLERCOASTER](/songs/rollercoaster/) (2023, producer · Apple Music credits). [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [With Tamtam](/with/tamtam/)
+See also: [Drive](/songs/drive/) (executive producer) · [ROLLERCOASTER](/songs/rollercoaster/) (2023, producer · Apple Music credits). [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [With Tamtam](/with/tamtam/)
 
 ---

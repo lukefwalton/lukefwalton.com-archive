@@ -30,7 +30,7 @@ press:
   - outlet: "FEiN Facebook — Rico's Taco Shop / *Sculptor* promo (Jan 2016)"
     url: "https://soundcloud.com/feinmusic/sculptor"
     date: "2016-01-29"
-    desc: "Luke Walton + Brandon Woodward at Rico's Taco Shop, Encinitas (now Pavlos Tacos); SoundCloud Sculptor link framed as free burrito · archivist proof: /evidence/fein-ricos-taco-shop-encinitas-jan-2016.png"
+    desc: "Luke Walton + Brandon Woodward at Rico's Taco Shop, Encinitas (now Pavlos Tacos); SoundCloud Sculptor link framed as free burrito · [screenshot](/evidence/fein-ricos-taco-shop-encinitas-jan-2016.png)"
 
 isrc: QZ2QB1600002
 isrcSource: soundexchange
@@ -88,7 +88,7 @@ draft: false
 
 Track two on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), after [*American Man*](/songs/american-man/). [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein) lists cosmetic surgery among the album's themes, and this is where it lives. [SoundCloud](https://soundcloud.com/feinmusic/sculptor); Walton and Woodward co-write. [Fresh Beats 365](https://freshbeats365.com/2016/04/09/fein-interview/) (**Apr 9, 2016**) singled it out as the EP lead single: Brandon on living and working in LA entertainment; Luke on dysmorphia and body image *rarely examined critically — especially in entertainment.*
 
-**Promo:** Indexed **Jan 29, 2016** FEiN Facebook post (archivist proof: [/evidence/fein-ricos-taco-shop-encinitas-jan-2016.png](/evidence/fein-ricos-taco-shop-encinitas-jan-2016.png)): Luke Walton and Brandon Woodward at **Rico's Taco Shop**, **Encinitas, CA** — now **Pavlos Tacos** (same spot). Caption: *Successful trip to San Diego & Rico's Taco Shop* · *Click here for a free burrito* → [SoundCloud *Sculptor*](https://soundcloud.com/feinmusic/sculptor). Encinitas hometown run tied to the *Little Little Homes* teaser rollout.
+**Promo:** Indexed **Jan 29, 2016** FEiN Facebook post ([screenshot](/evidence/fein-ricos-taco-shop-encinitas-jan-2016.png)): Luke Walton and Brandon Woodward at **Rico's Taco Shop**, **Encinitas, CA** — now **Pavlos Tacos** (same spot). Caption: *Successful trip to San Diego & Rico's Taco Shop* · *Click here for a free burrito* → [SoundCloud *Sculptor*](https://soundcloud.com/feinmusic/sculptor). Encinitas hometown run tied to the *Little Little Homes* teaser rollout.
 
 It is the body-as-project song, the one little home you carry around with you.
 

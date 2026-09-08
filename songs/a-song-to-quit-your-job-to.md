@@ -105,7 +105,7 @@ It runs the resignation in plain language, from the spreadsheet nightmare (*40 y
 
 Same beach-Monday register as [*JAZZ FLUTE*](/songs/jazz-flute/) (*ain't got shit to do*) and a preview of [*Moonlight Beach*](/albums/moonlight-beach/), Encinitas as the place you quit toward, not just a vacation. Pairs with [*4:20 pm*](/songs/4-20-pm/), another permission-to-stop-worrying clock, on the full LP.
 
-**[360° music video + spatial audio](https://www.youtube.com/watch?v=YIHcBx5EkEI)** with [Max Horwich](/with/max-horwich/), also on [/music/#selected-videos](/music/#selected-videos).
+**[360° music video + spatial audio](https://www.youtube.com/watch?v=YIHcBx5EkEI)** with [Max Horwich](/with/max-horwich/), also on [Selected Videos](/music/#selected-videos).
 
 **Spotify editorial:** [The New LoFi](https://thenewlofi.com/scoobert-dooberts-new-single-is-a-breezy-indie-pop-hug-that-questions-our-modern-way-of-life/) documents the Jan. 7, 2022 release on Spotify official playlists **Fresh Finds**, **Fresh Finds Pop**, and **Indie Brandneu**; [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CYfMHBHv5i1/) the next day (between Pinegrove and Broken Social Scene). See [Catalog: official playlists](/catalog/#spotify-editorial).
 

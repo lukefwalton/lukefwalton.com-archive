@@ -40,6 +40,6 @@ draft: false
 
 **bed** are not a conventional Tokyo indie act, a **2022**-formed underground rave-rock/post-punk unit (UNE, SINJI, JONEU, SHUN-1) built on anti-industry live mythology, 2052 world-building, and controlled scarcity before this broadcast moment. The [Spotify credits pane](https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4) lists **Luke Francis Walton** as **Lyricist/Composer** (co-writer) and **Scoobert Doobert** as **Studio Producer**; Luke also **mixed** the track (bed sleepwell / FRIENDSHIP. release). The credit is transcribed in the [press-kit evidence log](/press-kit/evidence/#bed-kare-wa). He posted a [production demo](https://www.instagram.com/scoobertdoobert.pizza/p/DIUQ1XfSvgv/) (**April 11, 2025**) syncing the bed mix to the actual *HEART ATTACK* opening sequence—the broadcast version he co-wrote, produced, and mixed as theme song. Earlier in the arc: [mother ship (Scoobert Doobert Remix)](/songs/mother-ship-scoobert-doobert-remix/) on the **April 2023** single.
 
-See [With bed](/with/bed/) · [/press/](/press/) · [Catalog](/catalog/#production) · [Remixes](/catalog/#remixes)
+See [With bed](/with/bed/) · [Press](/press/) · [Catalog](/catalog/#production) · [Remixes](/catalog/#remixes)
 
 ---

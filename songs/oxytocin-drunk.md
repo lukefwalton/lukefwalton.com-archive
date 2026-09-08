@@ -34,6 +34,6 @@ Track **1** on [**applied communications has a midlife crisis**](/albums/applied
 
 The EP is Wood’s comeback after 17 years, alt-pop navigating depression, gender dysphoria, and self-love ([V13](https://v13.net/2024/04/applied-communications-share-oxytocin-drunk-single-from-new-ep/)). **Mixed by Luke Francis Walton (Scoobert Doobert)**: credited alongside CHAI and Victor Marc work in press; **mastered by Riley Knapp**.
 
-No Scoobert lyrics. See the [EP essay](/albums/applied-communications-has-a-midlife-crisis/) · [Bandcamp](https://applcomm.bandcamp.com/) · [/press/](/press/)
+No Scoobert lyrics. See the [EP essay](/albums/applied-communications-has-a-midlife-crisis/) · [Bandcamp](https://applcomm.bandcamp.com/) · [Press](/press/)
 
 ---

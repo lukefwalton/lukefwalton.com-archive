@@ -32,6 +32,6 @@ Public [SoundCloud](https://soundcloud.com/rees-finley/hate-to-see-you) credit: 
 
 Same Tiny Giant / FEiN session world as [Dear Abby](/songs/dear-abby/) and [American Champagne](/songs/american-champagne/).
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 
 ---

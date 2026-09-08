@@ -37,6 +37,6 @@ draft: false
 
 [Official music video](https://www.youtube.com/watch?v=LAn98aOwV-U). Public DSP metadata confirms the release; the producer field comes from Genius + FEiN identity resolution, not from streaming credits alone.
 
-See [/catalog/#credited-work](/catalog/#credited-work) · [/music/fein/#collaboration](/music/fein/#collaboration) · [/press/](/press/)
+See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Press](/press/)
 
 ---

@@ -38,7 +38,7 @@ draft: false
 
 Track 3 on OKAME’s first album ***DEBUT*** (**February 4, 2026**). **主題歌** (theme song) for the short film **餃子店で朝食を** (*Gyoza-ten de Chōshoku o*), produced by apparel brand **FAT CLUB**: [Natalie](https://natalie.mu/music/news/655580) notes it screened alongside the documentary **OK A ME REVOLUTION THROUGH MUSIC** at Euro Live, Shibuya (Feb 11, 2026).
 
-**[Official MV](https://www.youtube.com/watch?v=OKJ4oh_9nH8)**: full-animation video directed by **chao!** (KANA’s husband, illustrator); retro-animated treatment per [Skream!](https://skream.jp/news/2026/03/okame_animation_mv.php) (Mar 2026), also on [/music/#selected-videos](/music/#selected-videos).
+**[Official MV](https://www.youtube.com/watch?v=OKJ4oh_9nH8)**: full-animation video directed by **chao!** (KANA’s husband, illustrator); retro-animated treatment per [Skream!](https://skream.jp/news/2026/03/okame_animation_mv.php) (Mar 2026), also on [Selected Videos](/music/#selected-videos).
 
 The [Apple Music credits pane](https://music.apple.com/us/song/dont-like-the-night/1867075173) lists **Scoobert Doobert** as **Mixing Engineer**.
 
