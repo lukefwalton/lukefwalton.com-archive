@@ -76,6 +76,8 @@ Track ten on [*MÖB*](/albums/mob/), penultimate before [*All I Need*](/songs/al
 
 **[Vinyl Moon Vol. 100: *Century*](https://vinylmoon.co/products/vol-100)** (VM Club **Dec 2023**, 2× LP milestone release) — **B1**, opening side B ([Discogs](https://www.discogs.com/master/3361636-Various-Vinyl-Moon-Volume-100-Century) · [Spotify](https://open.spotify.com/album/7eRBlvq93T9EXDqaUPkFxu) · [AR experience](https://ar.vinylmoon.co/vm100/)). The Century placement is the bigger vinyl win in the public trail; Vol. 066 carried [*Take a Breath*](/songs/take-a-breath/) earlier ([/catalog/#vinyl-moon](/catalog/#vinyl-moon)).
 
+An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Chasing the Sunset*](/songs/chasing-the-sunset/). See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
+
 The fantasy starts small and honest. *Maybe you and I become plant parents*, then *I killed our tiny cactus*, overwatered, *drowning in doubt*: parenting anxiety scaled to something you can kill on a windowsill. Verse two widens to the state, Yosemite green again while older trees turn to ash, and to a crack in the relationship (*I hate it when you say that*), before the bridge asks the real question under the fire and waterfall: *will I ever be ready*.
 
 The chorus is the answer he can give now: *I want you to be happy and a little lazy drifting on the clouds*. Not a kid yet, a wish. *Nothing is ever easy*, but the title lands twice: *it's getting easier to me*. This is *MÖB* trying on adulthood without pretending it's arrived.

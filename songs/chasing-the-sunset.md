@@ -105,7 +105,7 @@ The turn is the tarmac, tears held back and a hollow stomach, then the line that
 
 [@91xsandiego](https://www.instagram.com/p/C_b9pfFvyra/) spun it on Hilary's **Planet Nü Nü** (**Sep 1, 2024** broadcast) — Instagram audio track attached; [91x.com playlist log](https://www.91x.com/91x/planet-nu-nu-playlist-9-1-24/) corroborates.
 
-**Brand/social sync:** *Chasing the Sunset* was included in a **rhode** campaign featuring Claudia Schiffer. Beformer public material and Instagram posts also document two rhode social-ad placements using Scoobert Doobert instrumentals, with Mean Machine credited and language describing rhode and Hailey Bieber tapping Scoobert Doobert again for ad music — brand/social sync, not a TV buy unless usage terms separately confirm that. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync &amp; placements](/press/#sync).
+**Brand sync:** An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Getting Easier*](/songs/getting-easier/). Beformer public material documents this song in a campaign featuring Claudia Schiffer, with Mean Machine credited; a second post matches the Hailey Bieber / rhode ad lane. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
 
 See also: [*I*](/albums/i/) · [Catalog](/catalog/).
 
