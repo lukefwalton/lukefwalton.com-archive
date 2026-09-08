@@ -31,9 +31,9 @@ topicsDiscussed:
   - "The future of podcasting and audio technology"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with **Bryson Barnes**, Head of Audio Production at NBC News. With his extensive experience in audio storytelling, Bryson sheds light on the fascinating overlaps between music and podcasting. From his journey as a jazz trumpet player to producing award-winning podcasts, he reveals how his musical background influences his approach to creating compelling podcasts. This conversation is not just about production; it dives into the emotional depth and human connection that audio storytelling can achieve.
+  **Bryson Barnes** is Head of Audio Production at **NBC News**, where his work has touched 15 Apple #1 podcasts and helped produce Peabody, DuPont, Pulitzer, Emmy, and Ambie-recognized shows. He started as a jazz trumpet player, and that background still shapes how he builds a podcast.
   
-  Bryson provides unique insights into the evolution of podcasting, discussing how music enhances the listening experience and shapes the narrative. His passion for storytelling and sound design makes this episode a
+  We talk about the overlap between music and podcasting: how music informs pacing and sound design, why a "sound world" matters as much in a news podcast as it does on a record, and the practical headaches of getting clean audio out of a remote interview. Bryson talks plainly about trusting his gut over chasing a formula, and about how much of what makes a podcast land is really about listening, not talking.
 
 selectedMoments:
   - label: "Bryson on his transition from music to audio production"

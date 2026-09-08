@@ -26,7 +26,11 @@ topicsDiscussed:
   - "Emotional impact of music"
 
 hostNote: |
-  In this thought-provoking solo episode, I dive deep into the complexities of musical genres and their impact on artists and audiences alike. Drawing from his recent experience at a Cro-Mags show, I explore how genre classifications can both guide and limit creative expression. By the end of the episode, Expect to ponder the role of classification in music, how it shapes our listening experiences, and whether or not it's time to redefine our approach to genre altogether. This episode invites you to open your mind and embrace a more fluid understanding of music's potential.
+  Genre is mostly a branding tool, and that's not an insult, it's just what it is: a way an artist signals what to expect before the first note plays. I just got back from a Cro-Mags show, and Harley Flanagan crushing a Ramones-style song mid-set is the moment that cracked this open for me: an artist's identity is more fluid than the label on the playlist.
+  
+  I get into why rock's boundaries have always been fuzzy, why some people say genre is dead when it's actually evolving, and the real risk artists take when they blend or leave a genre behind. Underneath all of it is dance: every kind of music, hardcore included, moves a body somehow, and if you think of genre as the way it makes people move, it becomes your canvas instead of a cage.
+  
+  Classification cuts both ways. It's real inspiration and a real limit, and knowing which one you're dealing with in the moment is the actual skill.
 
 selectedMoments:
   - label: "Introduction to genre discussions"

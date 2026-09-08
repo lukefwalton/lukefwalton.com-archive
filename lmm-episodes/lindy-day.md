@@ -32,9 +32,11 @@ topicsDiscussed:
   - "Incorporating technology in music"
 
 hostNote: |
-  In this episode of the *Love Music More* podcast, I dive into the world of guitar and music education with the incredibly talented **Lindy Day**. Lindy is not only an exceptional guitarist and songwriter but also a passionate educator who embraces the modern musician’s journey. Her approach to sharing knowledge is refreshingly accessible, and her infectious enthusiasm for teaching inspires listeners to reconnect with their own passions for music.
-  
-  Lindy’s insights shed light on the evolving landscape of music, addressing the artist-fan relationship and the importance of staying true to one’s artistic vision. We touch on the challenges and rewards of teaching music, the creative process behind songwriting, and the fluidity of genre.
+  Teaching guitar wasn't the plan for **Lindy Day**. In her own words she never thought it would become her main thing, and now she reaches a wide social media following in what she calls microdoses of music. She still frames teaching the way she'd frame anything else she cares about: "it's really a job in people," not a job in knowing your inversions.
+
+  We talk through how she built the confidence to teach, the intermediate plateau as a way of understanding students who feel stuck, and why she thinks curiosity about other skills keeps a musician sharp. She uses her own Japanese, conversational but not yet at the level where she can read a novel, as the example.
+
+  The conversation also lands on what the pandemic changed. Lindy points to a fierce need audiences and musicians share to be back in a room together, and says she doesn't think age has much to do with whether someone can still become the artist they want to be.
 
 selectedMoments:
   - label: "How teaching became Lindy's main thing"

@@ -25,6 +25,6 @@ draft: false
 
 **FEiN** single featuring **Noreen**, co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Indexed in SoundExchange as ISRC **TCADA1736360**, in the same **TCAC\*** FEiN registration cluster as [*It's Alright*](/songs/its-alright/), [*LOVED*](/songs/loved/), and [*P.A.R.T.S.*](/songs/p-a-r-t-s/).
 
-See [FEiN on Spotify](https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW) · [Catalog](/catalog/) · [With FEiN](/with/fein/) if wired
+See [FEiN on Spotify](https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW) · [Catalog](/catalog/) · [FEiN](/music/fein/)
 
 ---

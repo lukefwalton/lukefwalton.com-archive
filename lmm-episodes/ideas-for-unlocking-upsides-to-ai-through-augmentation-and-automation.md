@@ -27,9 +27,11 @@ topicsDiscussed:
   - "Future of music technology"
 
 hostNote: |
-  In this episode, I dive deep into the intersection of music and technology, exploring how musicians can leverage AI to enhance their creative processes through augmentation and automation. I emphasize the importance of embracing tools like vibe coding and Python to streamline the more tedious aspects of music creation, inviting listeners to join me on this exploratory journey.
-  
-  I share personal insights and practical approaches to integrating AI into the artistic workflow, showcasing how it can serve not only to automate dull tasks but to potentially unlock new avenues of musical expression.
+  Figuring out how to actually use AI as a musician is vexing, so I dig into where it's worked for me: vibe coding tools like Cursor, and a little actual Python, aimed only at automating the boring parts of the process, not the creative ones.
+
+  I walk through what that automation looks like in practice, and then push further: what if AI could help me invent a new instrument, not just speed up an old workflow? I ran into real limits along the way, including a model that falls apart past roughly 600,000 of something, and even that failure told me something useful about where the technology's edges are.
+
+  The more I pull on this thread, the more interesting it gets. I'm inviting you to try it, and fail at it, with me.
 
 selectedMoments:
   - label: "Introduction to Vibe Coding"

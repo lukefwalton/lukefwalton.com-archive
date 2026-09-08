@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Music's Reflection of Society"
 
 hostNote: |
-  In this solo episode, I dive into the fascinating evolution of rock music, tracing its journey from the flamboyance of glam to the aggressive edge of hair metal. I explore the layers beneath the spectacle: how the hyper-competitive music scene of the 70s fostered distinctive personas like **David Bowie**, and how I and others challenged norms surrounding identity and performance. As I share stories interwoven with music theory, I discuss pivotal moments in rock history, including the rise of MTV and its impact on hair metal bands, bringing us to the very essence of what music means in a visual age.
+  By the 70s, rock and roll had gotten so competitive that the only way to top the last band was to get stranger. I trace how that pressure produced **David Bowie** and the androgynous, larger-than-life persona he built, the New York Dolls bridging glam into punk, and Twisted Sister taking the same theatrics somewhere blue-collar and unpolished instead of major-label sheen.
   
-  I discuss how artists pushed boundaries during this iconic era, exemplifying grandeur and rebellion, and I reflect on my personal experiences with the music that shaped my teenage years. By examining artists, including **Eddie Van Halen** and **Twisted Sister**, I provide insights into their revolutionary techniques and the societal reflections that inspired their musical expressions. This episode encapsulates not just history but the emotions and motivations behind the music that continues to resonate today.
+  I get into why Eddie Van Halen's two-handed tapping technique reshaped what rock guitar could sound like, and how MTV then turned all of that spectacle into something you watched as much as heard. I also tell some of my own story here, playing venues on the Sunset Strip and feeling the same guitar-centric, LA-sheened edge these bands built decades earlier.
+  
+  The episode closes on why hair metal's excess wasn't an accident: it was the visual age arriving early, before video ever caught up to it.
 
 selectedMoments:
   - label: "Introduction to Rock History"

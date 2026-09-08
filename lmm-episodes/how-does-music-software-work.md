@@ -24,7 +24,11 @@ topicsDiscussed:
   - "Future of music technology"
 
 hostNote: |
-  In this episode, I dig into the fascinating yet frustrating world of music software, specifically focusing on authentication methods like the dreaded iLok. By sharing personal anecdotes and industry insights, I reveal why software companies are gripped by fears of piracy and how this impacts the creative process for musicians. Understanding the challenges behind software usage opens up discussions about the future of music production tools and their accessibility.
+  The iLok is a little USB dongle you have to keep plugged in to use software you already paid for, and it's a good symbol for how scared the music software industry still is of piracy: music was one of the first targets of piracy across the board, and that fear shaped the tools.
+
+  I get into the strange case of Waves' cracked plugins: pirated copies spread so widely that they onboarded a huge number of people into music production, and Waves arguably benefited from giving away a free trial it never intended to give. That's part of why I think Ableton, which doesn't require an iLok at all, has become the DAW of choice for younger producers over Pro Tools. The people who are going to pirate are going to pirate regardless, and a lot of people who pirate early stop once they can afford not to.
+
+  I close on where this is all headed. I don't know what music software looks like in ten or fifteen years, or how big a part AI ends up playing in it, but the authentication fight is a real part of that story.
 
 selectedMoments:
   - label: "Introduction to iLok and its frustrations"

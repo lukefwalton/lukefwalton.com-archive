@@ -1,7 +1,7 @@
 ---
 title: "The Found Palette with Tristan Clopet (Crown Heights, The Infiltrator, This American Life)"
 
-description: "Some musicians do better with chaos. Others under deadlines and with teams. Tristan Clopet is a rare pro who’s done both, and because of it knows the value of working towards a greater goal with a big team (and bigger pressure). Tristan’s prolific work on film and TV scores gives him a deep insight into the nature of that side of the industry (and how different it is from his touring days supporting X Ambassadors, Billy Bragg, Tove Lo, Glen Hansard, and The Weeknd). It’s a collaborative, deadline-oriented, large effort, with hundreds of creatives contributing to the final work. He shares how inspiring that journey is, and how knowing the boundaries can unlock even more creativity. I loved his story about scoring to Martin Freeman’s solo acting in a car. (Martin Freeman happens to be one of my favorite actors.)"
+description: "Some musicians do better with chaos. Others under deadlines and with teams. Tristan Clopet is a rare pro who’s done both, and because of it knows the value of working towards a greater goal with a big team (and bigger pressure). Tristan’s prolific work on film and TV scores gives him a deep insight into the nature of that side of the industry (and how different it is from his touring days supporting X Ambassadors, Billy Bragg, Tove Lo, Glen Hansard, and The Weeknd). It’s a collaborative, deadline-oriented, large effort, with hundreds of creatives contributing to the final work. He shares how inspiring that process is, and how knowing the boundaries can unlock even more creativity. I loved his story about scoring to Martin Freeman’s solo acting in a car. (Martin Freeman happens to be one of my favorite actors.)"
 
 status: complete
 
@@ -33,9 +33,11 @@ topicsDiscussed:
   - "The evolution of album structure"
 
 hostNote: |
-  In this episode of **Love Music More**, we sit down with composer **Tristan Clopet**, who has made a name for himself in film and TV scoring. His impressive portfolio includes work for projects like *Crown Heights*, *The Infiltrator*, and *This American Life*. Tristan shares his unique journey through both the touring and film industries, highlighting how different they are while also recognizing the shared creative pressures they impose.
+  **Tristan Clopet** scores for film and TV (*Crown Heights*, *The Infiltrator*, *This American Life*) and has toured behind **X Ambassadors**, **Billy Bragg**, **Tove Lo**, **Glen Hansard**, and **The Weeknd**. The episode title, **the found palette**, is about what changes when you're not writing from nothing but responding to a picture, an actor, a scene that's already there.
   
-  Tristan provides a captivating look into the collaborative nature of scoring for film: how it’s about working within constraints to produce something meaningful. We delve into his experiences, including memorable moments like crafting the score for a powerful scene featuring Martin Freeman, which offers a glimpse into how he translates a character's internal struggles into musical themes.
+  He walks through why deadlines sharpen rather than limit the work, what a **temp score** is and how it sets the director's expectations before he ever writes a note, and how editing rhythm and timing shape where the music has to land emotionally. One session stands out: scoring a scene built around **Martin Freeman** acting alone in a car, translating a performance instead of a script into music.
+  
+  Tristan describes scoring as writing an extension of himself, closer to training a whole body than just one limb, and closes on why he loves music at all: an answer he admits he can't fully explain.
 
 selectedMoments:
   - label: "Introduction to Tristan Clopet"

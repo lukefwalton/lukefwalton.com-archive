@@ -32,7 +32,9 @@ topicsDiscussed:
   - "Understanding rhythm and melody"
 
 hostNote: |
-  In this episode of Love Music More, we're thrilled to welcome **Danny Wolf**, a versatile multi-instrumentalist and music producer. Danny shares his unique journey through the music industry, from the early days of drumming in school to crafting viral mashups that captivate listeners. Our conversation dives deep into the nuances of touring, the evolution of his production techniques, and how his varied musical experiences shape his creative output. If you're curious about the inner workings of music production and the artistic process behind viral hits, Danny's insights into the complexities of mixing and the relationship between rhythm and melody offer invaluable lessons for aspiring musicians and producers alike. We believe that this episode not only showcases Danny's incredible talent but also inspires listeners to embrace their musical journeys, no matter where they start.
+  **Danny Wolf** is a drummer and producer whose credits include Rhye, John K, Great Good Fine Ok, and Gavin Turek, with production placed on Queer Eye, Love Is Blind, and Married at First Sight. His drumming started sideways: he wanted the drum audition, didn't get it, ended up on clarinet, then switched to saxophone, and found his way back to drums through a love of jazz.
+
+  We trace how that detour still shows up in his mixing, thinking about drums melodically changes how he listens to frequencies, and get into the unglamorous math of touring: mostly loading and unloading, not much playing. The back half is about his viral mashups: a spontaneous car idea that turned into a running bit, and the actual puzzle behind it, finding two songs in a compatible key or pitching one to fit.
 
 selectedMoments:
   - label: "Danny's early interest in drumming"

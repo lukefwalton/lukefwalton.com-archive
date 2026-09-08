@@ -28,7 +28,11 @@ topicsDiscussed:
   - "Emotional impact of music"
 
 hostNote: |
-  In this episode of *Love Music More*, I dive deep into the concept of contrast as a vital songwriting tool. I explore how utilizing contrast (not just in melody and lyrics but also in the mix) can enhance listener engagement and create memorable music. By differentiating between tension and release, I provide practical insights that can elevate your songwriting and production skills. This episode invites you to think critically about your own musical creations and discover the power that contrast can hold in your songwriting arsenal.
+  Contrast is what breaks up repetition, tells the listener where to focus, and gives a song forward momentum, in the melody and the mix both. I get into dissonance and the leading tone, the note that wants to resolve, and how a melody that anticipates a chord change before it arrives creates its own kind of pull.
+
+  On the production side, I work through how manipulating high-end frequencies can build contrast the same way a melody does, opening space up so a moment can hit harder when it arrives. The storytelling parallel is the hero's journey: without the lull, the recapitulation, the return to what was expected, doesn't land the same way.
+
+  The point isn't to avoid repetition, it's to earn it. Get good at using contrast in both songwriting and mixing, and the boring chord progression stops being boring.
 
 selectedMoments:
   - label: "Understanding Contrast"

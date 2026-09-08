@@ -33,7 +33,11 @@ topicsDiscussed:
   - "The creative journey of an artist"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with Mike Ladman, a prominent music supervisor known for his innovative work at agencies like **Droga5** and **McCann**. With his extensive experience in music supervision for major brands, Mike dives into the art and science behind his craft. From his beginnings as a guitarist in bands to becoming a sought-after music supervisor, Mike shares anecdotes that highlight the evolving landscape of music in advertising. He brings fresh perspectives on music discovery, the impact of streaming, and the balance of creativity and business in his role.
+  **Mike Ladman** is a music supervisor who's worked the agency side at **Droga5** and **McCann**, picking the songs behind Super Bowl spots and multi-year global campaigns. We start where he did, discovering music behind a record-store counter, a sponge for everything that came through.
+
+  Mike walks us through what a supervisor actually does day to day: matching a song to a brief so it tells the story and supports the visuals, the licensing tangles that come with working across brands, and how the job has changed as streaming reshaped discovery. His working rule holds through all of it: better to lose a pitch with work you loved than win one with work you hated.
+
+  He closes on why he's still doing it, that specific high of hearing a song for the first time, one he says never really goes away.
 
 selectedMoments:
   - label: "Welcome to the show"

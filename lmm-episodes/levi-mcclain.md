@@ -31,7 +31,11 @@ topicsDiscussed:
   - "Practical applications in music"
 
 hostNote: |
-  In this episode of **Love Music More**, we're thrilled to welcome **Levi McClain**, a pioneering voice in the realm of microtonal music. Levi takes us on an enlightening journey through the intricacies of microtonality and its emotional landscapes. As a musician and educator, he has dedicated himself to expanding our auditory palettes beyond the traditional 12-tone system, revealing how much remains uncharted in the world of sound. Levi breaks down these complex ideas into relatable concepts, emphasizing that music is not merely a collection of notes but an expansive realm where beauty and emotion intertwine. We’re excited for you to
+  **Levi McClain** teaches microtonal harmony on his YouTube channel, and the premise of this one is right in the title: what happens if you divide an octave into **31** equally spaced notes instead of the usual 12?
+  
+  We get into where microtones already live inside Western music, bent notes and places theory doesn't usually name, then back further into the science: how frequency relationships build the octave in the first place, and how the ancient Greeks already had their own take on tuning. Levi treats tuning as a tool rather than a limitation, and walks through the practical side, fretless instruments, DAWs, and tuning systems like Scala, that actually let you use it.
+  
+  We close on AI in music, where Levi lays out both the use and the controversy, and on his bigger point: music is an exploration as much as a technical practice, and the best of it was never only about being mathematically perfect.
 
 selectedMoments:
   - label: "Introduction to Levi and Microtonal Harmony"

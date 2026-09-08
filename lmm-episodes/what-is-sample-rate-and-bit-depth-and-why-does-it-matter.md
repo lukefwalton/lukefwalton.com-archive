@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Lessons from Live Performance"
 
 hostNote: |
-  In this solo episode, I delve into the fundamental concepts of **sample rate** and **bit depth** in audio recording. Understanding these terms is crucial for musicians and producers who want to enhance the fidelity of their work. I also share some personal anecdotes about my experiences, like a memorable canceled gig, to illustrate the often unpredictable nature of creating music.
-  
-  Throughout this episode, I explain how recorded music captures moments in a way that differs from visual media, and how nuances in sample rate and bit depth can significantly impact the sound. This exploration serves as a reminder that every recording is both a technical and artistic endeavor, merging science with creativity.
+  A recording captures a moment the way a photograph does, except richer: sample rate and bit depth are the two dials that decide how much of that moment actually survives. Sample rate is how often you're sampling the sound to build the illusion of the real thing; bit depth is the amplitude, the wave as it crests and falls.
+
+  I demonstrate both live, dropping the sample rate to hear what breaks, and walk through why a continuous, complex signal turns flatter as those numbers shrink. There's a detour into why recorded audio behaves differently than a photo or video in the first place, and why hosting this podcast has ended up functioning as a diary of my own musical year.
+
+  The idea I land on: there's beauty in the gaps between the dots. A listener gets something real out of a recording at different levels of fidelity, lofi and hifi both have a place.
 
 selectedMoments:
   - label: "Introduction to Recording Concepts"

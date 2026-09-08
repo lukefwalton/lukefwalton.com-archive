@@ -10,9 +10,9 @@ draft: false
 
 *Luke F. Walton · Founder, Surmado · May 2026*
 
-I wrote yesterday about why [code review isn't just for engineers anymore](/blog/code-review-isnt-just-for-engineers-anymore/). The short version: marketers, founders, and CEOs are shipping code now, and nobody built the review layer for them.
+I wrote yesterday about why [code review isn't just for engineers anymore](/letters/code-review-isnt-just-for-engineers-anymore/). The short version: marketers, founders, and CEOs are shipping code now, and nobody built the review layer for them.
 
-This post is the other half of that story. Not the argument. The decision. Why we built [Surmado Code Review](/review/) the way we did, who it's actually for, and what we got wrong before we got it right.
+This post is the other half of that story. Not the argument. The decision. Why we built [Surmado Code Review](https://www.surmado.com/review/) the way we did, who it's actually for, and what we got wrong before we got it right.
 
 ## We built it for ourselves first
 
@@ -70,7 +70,7 @@ Surmado Code Review is $15 a month for 100 PRs. That's not a typo. One hundred r
 
 There's also a free tier. Ten PRs a month, no credit card required. Enough to try it on your most active repo and see what it catches.
 
-We didn't set the [price](/pricing/) to compete with other code review tools. We set it so that price is never the reason someone skips review. If you're a solo founder pushing code to three repos, $15 a month should be a line item you never think about. That's the point.
+We didn't set the [price](https://www.surmado.com/pricing/) to compete with other code review tools. We set it so that price is never the reason someone skips review. If you're a solo founder pushing code to three repos, $15 a month should be a line item you never think about. That's the point.
 
 ## What we don't do
 
@@ -82,7 +82,7 @@ We don't rewrite your code. Some tools will auto-apply fixes or push changes dir
 
 ## The honest version
 
-We're a small company. We built [Scout](/scout/), the AI agent behind Surmado, for marketers and small businesses. That's our world. Code Review came out of that world, and it shows in every design decision: the conversational setup, the readable output, the price point, the zero-config onboarding. We get marketers because we are marketers who code.
+We're a small company. We built [Scout](https://www.surmado.com/scout/), the AI agent behind Surmado, for marketers and small businesses. That's our world. Code Review came out of that world, and it shows in every design decision: the conversational setup, the readable output, the price point, the zero-config onboarding. We get marketers because we are marketers who code.
 
 What I can tell you is this: if you are vibe coding a marketing site, a landing page, an internal tool, or anything that real people are going to use, and you don't have a code reviewer, you are flying without a net. Not because you're bad at this. Because nobody is good enough to review their own work.
 
@@ -90,7 +90,7 @@ The free tier is there so you can see it for yourself. Connect one repo. Push on
 
 ---
 
-*[Start free at surmado.com/review →](/review/)*
+*[Start free at surmado.com/review →](https://www.surmado.com/review/)*
 
 ## Questions and Answers
 

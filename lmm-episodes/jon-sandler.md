@@ -34,9 +34,11 @@ topicsDiscussed:
   - "Creating a supportive band culture"
 
 hostNote: |
-  In this episode of *Love Music More*, we sit down with **Jon Sandler** from Great Good Fine Ok, an artist whose journey through the ever-evolving music landscape offers invaluable insights for both aspiring and seasoned musicians. Having collaborated with legends like The Chainsmokers and toured with notable acts such as X Ambassadors and Tove Lo, Jon reflects on the realities of sustaining a music career while savoring the process. He shares personal anecdotes and the organic evolution of his music, emphasizing the significance of collaboration in navigating the industry.
-  
-  We peel back the layers of Jon's experience, discussing everything from the intricacies of songwriting sessions in Los Angeles to the emotional ups and downs of touring. This episode is a heartfelt reminder that the path of a musician is as much about the journey as it is about the destination, and Jon's passion for his craft shines through in every discussion.
+  The title comes from how Jon Sandler of Great Good Fine Ok talks about his own career: nourishing it while savoring the process, not just chasing outcomes. He's written and toured behind songs with The Chainsmokers and played rooms opening for X Ambassadors and Tove Lo, and over a decade in, he's still building.
+
+  We talk through his move from Brooklyn to Los Angeles and what that shift did to his songwriting sessions, the tension between chasing a hit and just writing a great song, and the reality of touring: the highs, the unpredictability, and merch as the thing that actually keeps a band solvent between tours.
+
+  His advice for anyone trying to stay in it long-term is blunt: the friends who made it are the ones who didn't quit.
 
 selectedMoments:
   - label: "Jon on moving from Brooklyn to L.A."

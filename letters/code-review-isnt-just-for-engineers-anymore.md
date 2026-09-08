@@ -38,7 +38,7 @@ So code gets merged anyway. Reviews get skipped. And the code can become a ticki
 
 This is where you'll find stuff that don't look like bugs. Like when your AI imported a heavy JavaScript library to handle something CSS could do natively. Or hallucinated a package entirely. Or used an outdated schema because it was too lazy to check the internet.
 
-It might not show up today. But it can show up in audits, in [search performance](/site-audit/), and in whether AI engines trust your site enough to recommend it.
+It might not show up today. But it can show up in audits, in [search performance](https://www.surmado.com/site-audit/), and in whether AI engines trust your site enough to recommend it.
 
 Addy Osmani, Head of Chrome Developer Experience at Google, described what he calls the ["70% problem"](https://addyo.substack.com/p/the-70-problem-hard-truths-about): non-engineers using AI get to roughly 70% of a working solution quickly, but the final 30% becomes an exercise in diminishing returns as each fix creates new bugs. The [vibe coding community](https://codingwithvibe.com/vibe-coding-success-rate-non-developer/) reports the same pattern, with quality walls hitting around month three as accumulated issues from earlier sessions start cascading.
 
@@ -56,7 +56,7 @@ In that world, your website's code quality is part of your brand. AI engines can
 
 Francis Brero from HG Insights shared a framework at the summit that stuck with me. He breaks every marketing task into three tiers: $5 tasks that should be fully automated, $50 tasks that are AI-assisted, and $500 tasks that require human strategy and judgment.
 
-Code review is the $5 task. (Or in [Claude Code Review](/compare/surmado-code-review-vs-claude-code-review/)'s case a $15-per-PR task.) Every pull request, every time, no exceptions. It should never require a human to catch a naming convention violation or a missing auth check. It should never require you to stare at 800 lines of AI-generated diff hoping you spot the problem. It should just happen, automatically, against a set of standards you defined once.
+Code review is the $5 task. (Or in [Claude Code Review](https://www.surmado.com/compare/surmado-code-review-vs-claude-code-review/)'s case a $15-per-PR task.) Every pull request, every time, no exceptions. It should never require a human to catch a naming convention violation or a missing auth check. It should never require you to stare at 800 lines of AI-generated diff hoping you spot the problem. It should just happen, automatically, against a set of standards you defined once.
 
 The fact that most vibe coders are doing this manually (or not at all) is a huge operational gap in the "everyone can build" era.
 
@@ -78,7 +78,7 @@ Code review is the first guardrail. And everyone touching GitHub should have it 
 
 ---
 
-*If you're shipping code and want to see what automated review looks like, [Surmado Code Review](/review/) is free for 10 PRs a month. And it's EASY. Just two clicks to connect GitHub. Then your code follows your standards, every PR, automatically.*
+*If you're shipping code and want to see what automated review looks like, [Surmado Code Review](https://www.surmado.com/review/) is free for 10 PRs a month. And it's EASY. Just two clicks to connect GitHub. Then your code follows your standards, every PR, automatically.*
 
 ## Questions and Answers
 

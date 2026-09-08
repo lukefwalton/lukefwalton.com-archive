@@ -31,7 +31,11 @@ topicsDiscussed:
   - "Navigating the film industry as an independent artist"
 
 hostNote: |
-  In this episode, we welcome **Kelley Baker**, an acclaimed sound designer and filmmaker known for his impactful work on classics like *Good Will Hunting* and *My Own Private Idaho*. Kelley dives deep into the essence of sound design, exploring its significance in storytelling and the emotional experience of film. Kelley brings a wealth of experience and passion to the conversation, discussing the nuances of ADR (Automated Dialogue Replacement) and the challenges that come with it. This episode is a journey into the often-overlooked world of sound design, leaving listeners with a deeper appreciation for this integral part of filmmaking and how it intertwines with music.
+  Kelley Baker signed his book to me with a line that doubles as his whole philosophy: "Remember, the only people who really care about sound are the audience." He's the sound designer behind *Good Will Hunting*, *My Own Private Idaho*, and *Finding Forrester*, and he calls himself the Angry Filmmaker because he's pissed off in the way only someone who cares this much can be.
+
+  We get into what sound design actually is and how it differs from scoring, and why ADR (Automated Dialogue Replacement) can kill a performance that worked fine on set. Kelley describes building soundscapes that carry emotion with no music at all, treating each film as its own universe he gets to construct from nothing.
+
+  He closes on something that reaches past filmmaking: technical skill only matters because it clears the way for the emotional moment, and understanding failure is part of getting there.
 
 selectedMoments:
   - label: "Introduction of Kelley Baker"

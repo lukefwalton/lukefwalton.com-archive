@@ -31,9 +31,11 @@ topicsDiscussed:
   - "The importance of cultural exploration in music"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Geneva Harrison**, a renowned percussionist and producer known for her work with bands like Y La Bamba and Nu Deco Ensemble. Geneva's insights into the intricate connection between music and culture are not only thought-provoking but also deeply resonate with anyone intrigued by the art of sound. We explore the unique elasticity of rhythm, a concept that delights both musicians and listeners alike, allowing us to appreciate the human heartbeat found in every beat.
+  **Geneva Harrison** is a percussionist and producer who's toured with **Y La Bamba**, scored live stories for WNYC's *Snap Judgment*, and plays with **Nu Deco Ensemble** and **Rachel Goodrich**.
   
-  Tune in as Geneva shares her experiences rooted in Brazilian music, the role of rhythm in connecting with audiences, and the magic that emerges when music is both liberating and grounded in tradition. This episode invites listeners to think critically about how we move and feel together through the power of music.
+  We trace her connection to Brazilian rhythm back to samba's own origins: born out of resistance, out of enslaved people finding a place to express themselves, and Geneva calls playing it a way of having a conversation with ancestors, with your own history and place. From there we get into the **elasticity of rhythm** she describes: steady and unsteady at the same time, human, tied to the environment and the culture around it, like a heartbeat. She also thinks groove complexity in supposedly simple rhythms is underappreciated.
+  
+  The back half turns technical: how drummers and vocalists communicate live, the work of transcribing a vocal melody into percussion, and how one mix decision can be the difference between a song working and not.
 
 selectedMoments:
   - label: "Geneva on Brazilian music"

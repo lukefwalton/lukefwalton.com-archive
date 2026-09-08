@@ -1,7 +1,7 @@
 ---
 title: "Taking the Leap with the Rising Serena Sun"
 
-description: "Join us as we chat with the talented Serena Sun about her exciting journey from Vancouver to London! 🇨🇦➡️🇬🇧 We dive into her upcoming EP, the challenges of moving across the world, and how it's shaping her music. 🌆🎶 Get ready for some serious wanderlust and musical inspiration! 💭 💫👉 Discover: • Sneak peek into her upcoming EP 🎵• How the move is influencing her sound 🎸☁︎• Tips for aspiring musicians making big moves 🌠🎧 Tune in for an inspiring conversation about music, travel, and chasing your dreams! 🌟🎤🧳"
+description: "Serena Sun moved from Vancouver to London to chase a bigger music scene. We talk about the visa process, songwriting circles, her first official Spotify playlist placement, and how the move is shaping her upcoming EP."
 
 status: complete
 
@@ -29,8 +29,9 @@ topicsDiscussed:
   - "Getting on playlists"
 
 hostNote: |
-  In this episode of Love Music More, we dive into the inspiring journey of **Serena Sun**, a Chinese-Canadian artist who has made an exciting leap from Vancouver to London. We explore the challenges and triumphs she faced during this big move and how it's reshaping her music style and artistic identity. Serena's story is not just about relocation; it's about taking bold steps in her career and embracing the unknown as she crafts her upcoming EP.  
-  As Serena shares her experiences, from navigating the music scenes to collaborating with fellow artists, you’ll feel the adrenaline rush of pursuing dreams and the magic that happens when you take risks in life and art.
+  **Serena Sun** moved from Vancouver to London to chase a bigger music scene, and this conversation is about what that leap actually looked like: an unexpectedly easy visa process, then the harder work of rebuilding a career somewhere new.
+
+  We get into signing with Indie Shake, the mix of excitement and anxiety that comes with handing over control to a label partnership you don't fully know yet, and how songwriting circles in London shaped her collaborative process. She also talks through the mechanics of a first official Spotify playlist placement, and how pressure and identity shift once the work starts reaching more people than it used to.
 
 selectedMoments:
   - label: "Introduction to Serena's journey"

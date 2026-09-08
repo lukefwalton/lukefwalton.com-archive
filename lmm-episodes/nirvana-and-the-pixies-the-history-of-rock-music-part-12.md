@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Impact of Venue on Sound"
 
 hostNote: |
-  Kurt Cobain said I should have been in a Pixies cover band. That's not false modesty, it's the most honest account of where *Smells Like Teen Spirit* actually came from. The baton passing between underground bands is how a new branch forms when rock seems to have run out of tree.
+  Kurt Cobain said he should have been in a Pixies cover band. That's not false modesty, it's the most honest account of where *Smells Like Teen Spirit* actually came from. The baton passing between underground bands is how a new branch forms when rock seems to have run out of tree.
   
   I trace the specific physics of why the Pixies' sound, built for basements, not stadiums, was the perfect incubator for what became grunge. Hair metal spent millions on production; these bands made records for under a grand and found something rawer for it. "It's that ability to restrain and organize chaos" is the sentence that explains both bands.
   

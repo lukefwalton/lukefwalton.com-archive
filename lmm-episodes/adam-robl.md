@@ -1,7 +1,7 @@
 ---
 title: "Making Music for Movies with Shawn Sutta and Adam Robl"
 
-description: "I’m joined with the duo of composers as we take an inside look into what it takes to be a indie film composer. They walk me through their home studio build, gear, and journey of serendipity. Shawn Sutta is a composer whose devotion to film is fueled by his desire to bring people together - both to create a work of art and to tell stories that move people. A passionate collaborator, Shawn enjoys creating with orchestras, choirs, bands and instrumentalists while working closely with filmmaking teams to make stories that connect with audiences."
+description: "Shawn Sutta and Adam Robl score indie films together, keeping the work as analog as possible. We get into their home studio build, their gear, and how they ended up working as a duo."
 
 status: complete
 

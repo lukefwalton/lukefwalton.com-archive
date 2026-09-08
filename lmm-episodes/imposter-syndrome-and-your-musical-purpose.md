@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Flow State in Music"
 
 hostNote: |
-  In this compelling solo episode, I tackles the intricate feelings of **imposter syndrome** that many musicians face. I explore what it means to seek validation in an art form that lacks traditional metrics of success. This conversation invites listeners to consider the worth of their creative output and whether the world truly needs more music. 
-  
-  By examining my own journey and the realities of being an artist, I hope to inspire listeners to confront their doubts and redefine their purpose.
+  **Imposter syndrome** hits hardest in a field with no scoreboard. There's no win or loss in music, so the question becomes: what counts as good, what counts as bad, and who gets to decide? I sit with that directly in this episode, along with the harder question underneath it: does the world actually need more music?
+
+  I work through the judgment voice that follows artists around, and land on something that helps me personally: the music I make is mine alone, like a fingerprint, and its job is to reflect the modern moment honestly rather than compete with the Beatles. Technique matters here too, not as a goal in itself but as what lets you say the thing you're trying to say.
+
+  The episode closes on flow state, which I think of as a genuinely holy experience, but one you only reach once you've cleared the specific blocks standing between you and the work.
 
 selectedMoments:
   - label: "Understanding Imposter Syndrome"

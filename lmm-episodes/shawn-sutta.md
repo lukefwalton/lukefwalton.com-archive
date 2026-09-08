@@ -34,9 +34,11 @@ topicsDiscussed:
   - "Navigating industry challenges"
 
 hostNote: |
-  In this episode, we dive deep into the world of indie film composition with the talented duo Shawn Sutta and Adam Robl. As they share their journey, From the serendipitous events that brought them together to their approach to scoring amidst the ever-evolving landscape of film and technology, this conversation offers a rare glimpse into the heart of scoring for visual media.
-  
-  By the end of our time with Shawn and Adam, you'll have a greater appreciation for how music intertwines with storytelling, as well as the technical skills these composers employ to breathe life into films.
+  **Shawn Sutta** and **Adam Robl** score film and TV together. We get into how they actually build a cue: starting from a temp score already cut into the picture, learning when a scene works better with silence than music, and the mic choices that make an orchestral recording sound real rather than just loud.
+
+  Shawn talks about scoring as something that gives him structure and inspiration precisely because an open brief, any instrument, any purpose, no deadline, is the hardest thing to write to. Adam gets into what composing for someone else's story lets him do: step into emotional territory that isn't part of his own life. Both of them walk through their home studio build and the gear decisions behind it.
+
+  The conversation closes on where they want to take it next: bigger ensembles, choirs, and building a new studio to record them in.
 
 selectedMoments:
   - label: "Melding loves for film and music"

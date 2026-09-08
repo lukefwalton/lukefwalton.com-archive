@@ -25,7 +25,7 @@ topicsDiscussed:
   - "The Meters and New Orleans second-line feel"
 
 hostNote: |
-  Musicologists call "Cold Sweat" the first true funk song, and once you hear why that accent on beat one was the rupture, you start tracing a line straight through to hip-hop, breakdance, and every loop-based production that came after. James Brown didn't just change the feel; I changed the address of the whole genre.
+  Musicologists call "Cold Sweat" the first true funk song, and once you hear why that accent on beat one was the rupture, you start tracing a line straight through to hip-hop, breakdance, and every loop-based production that came after. James Brown didn't just change the feel; he changed the address of the whole genre.
   
   I follow that line: the drum breaks that were easy to sample because there wasn't a ton of messy instrumentation in the way, funk's inherently political and racial dimensions, and how George Clinton and Parliament-Funkadelic pushed the whole thing into something stranger and freer. You can say almost anything over a fat groove, funk teaches you that.
   

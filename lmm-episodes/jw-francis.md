@@ -34,9 +34,9 @@ topicsDiscussed:
   - "Starting a new project amidst challenges"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **JW Francis**, a dynamic indie artist who has captivated listeners with his unique sound and heartfelt lyrics. We delve into his journey as an independent musician navigating unconventional touring paths, the intricacies of modern-day music distribution, and the creativity behind his new single, "Orbit." JW shares insightful anecdotes about performing during the pandemic, the fascinating process of writing songs for Valentine's Day, and his philosophy on being an artist in today's landscape.
+  **JW Francis** is a working indie songwriter who tours DIY shows to build a fanbase in person, and who keeps a standing bit going: write a stranger a personalized Valentine's Day song if they'll give him a name and a reason. That habit sits next to his new single "Orbit" as two versions of the same instinct, turning a small, specific ask into a finished song.
   
-  His candidness about his experiences reveals not just the challenges artists face, but also the joys that come with building connections through music.
+  We talk about how those DIY shows built real, intimate connections with fans, how he kept a creative routine going through the pandemic, and the pull between chasing commercial success and staying the artist people actually connect with. What keeps him at it, in his own words: "I love putting smiles on people's faces. That fulfills me the most."
 
 selectedMoments:
   - label: "JW on discovering his fanbase through DIY shows"

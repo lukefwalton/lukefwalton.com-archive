@@ -22,6 +22,6 @@ draft: false
 
 **Applied Communications** (Max Wood), on **greatest applied communications music**. Mix credit on the project documented on [**applied communications has a midlife crisis**](/albums/applied-communications-has-a-midlife-crisis/) (2024). [Bandcamp](https://applcomm.bandcamp.com/).
 
-Mixing credit page, no Scoobert lyrics. See [With applied communications](/with/applied-communications/) · [Catalog](/catalog/#production)
+Mixing credit, no Scoobert lyrics. See [With applied communications](/with/applied-communications/) · [Catalog](/catalog/#production)
 
 ---

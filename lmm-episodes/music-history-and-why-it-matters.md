@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Artistic freedom and expression"
 
 hostNote: |
-  In this solo episode, I delve into the fascinating world of music history and why it remains profoundly relevant today. By exploring the evolution of music over the past millennium, I aim to uncover how our present musical landscape was shaped by the past. The interplay between different cultures and the unique ways we can now access music globally enrich our creative expressions like never before.
+  Written music has been around for a thousand years, and I'm reading a lot of music history books lately asking the same question: how did we end up making the music we're making? That's the spine of this episode.
   
-  I also discuss significant musical transitions, from the structure of classical compositions to the freeform nature of contemporary sounds, illustrating how these shifts reflect broader historical narratives. Understanding these dynamics allows us to appreciate our current musical identity while pushing the boundaries of our creativity.
+  I get into how access to music from other cultures can fundamentally change how you hear your own, and why a perfectly notated jazz chart would still trip up a baroque musician who has never heard the style. Beethoven is the hinge point: I break down how he had all the technical chops of Mozart but pushed music toward the individual, toward Romanticism, in a way that still shapes how composers think about personal expression today.
+  
+  I close on where that leaves us now: we have tools Beethoven couldn't have imagined, and the job is to take what came before and push past it, not repeat it.
 
 selectedMoments:
   - label: "Introduction to music history"

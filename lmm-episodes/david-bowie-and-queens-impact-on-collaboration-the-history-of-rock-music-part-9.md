@@ -30,10 +30,10 @@ topicsDiscussed:
   - "Influence on Future Generations"
 
 hostNote: |
-  David Bowie is larger than life. I i impossible to distill. And that's exactly the problem I try to solve in this episode, how do you trace a thread through someone whose whole career was about refusing to be a single thread.
-  
-  I cover Bowie's early work before Ziggy Stardust, the sci-fi futurism that got injected into rock, and the socio-political atmosphere that made that aesthetic land the way it did. Then the episode turns to Queen, and to the moment Bowie walked into their studio and "Under Pressure" happened. What makes that song work isn't just that two legends were in the room, it's that the chaos and imperfection of that session is exactly what makes it perfect. The collision of two creative gravitational fields produced something neither would have made alone.
-  
+  David Bowie is larger than life; he's impossible to distill. That's the problem I try to solve in this episode: how do you sum up a career built around refusing to be one thing.
+
+  I cover Bowie's early work before Ziggy Stardust, the sci-fi futurism that got injected into rock, and the socio-political atmosphere that made that aesthetic land the way it did. Then the episode turns to Queen, and the moment Bowie walked into their studio and Under Pressure happened. What makes that song work isn't just that two legends were in the room, it's that the chaos and imperfection of that session is exactly what makes it perfect. Two creative forces collided and produced something neither would have made alone.
+
   You come away understanding why collaboration has a ceiling when both artists are pulling in the same direction, and no ceiling when they're not.
 
 selectedMoments:

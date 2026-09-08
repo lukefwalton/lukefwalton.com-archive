@@ -1,7 +1,7 @@
 ---
 title: "Pitchy in a Perfect World (the Art of Vocal Comping)"
 
-description: "Recording vocals is probs the hardest part of pop music production. Vocal comping (assembling the best parts of multiple takes) is the secret sauce. In this pod, I dive into the techniques behind the dark art of vocal compilation. To explore these themes further"
+description: "Recording vocals is probs the hardest part of pop music production. Vocal comping, assembling the best parts of multiple takes, is how you get there. I walk through how I actually do it, take by take."
 
 status: complete
 
@@ -30,7 +30,11 @@ topicsDiscussed:
   - "Recording strategies for vocalists"
 
 hostNote: |
-  In this episode, I into the world of vocal comping, the art of assembling the best parts of multiple vocal takes into a perfect performance. Though often seen as a hidden aspect of pop music production, vocal comping is crucial to achieving polished, professional recordings. With insights drawn from my own experiences and techniques, I demystify this essential practice for both aspiring and established musicians alike.
+  Recording vocals is the hardest part of making a pop record, and vocal comping, assembling the best parts of a bunch of different takes into one performance, is the tool nobody outside a studio thinks about. I walk through what comping actually is: taking the best syllables, phrases, and takes and building one vocal that never happened as a single performance.
+
+  Modern comping has gotten extreme compared to how it used to work, and I don't think that's automatically good or bad. What matters more is what happens in the booth before comping starts: singing multiple takes with different emotional choices, even ones that feel wrong for the song, because that range is what gives me something to comp from later.
+
+  The part I keep coming back to is that comping isn't about chasing perfect. If you want it note-perfect, you might as well let software sing the whole thing. The goal is a performance that still sounds like a person took a risk, assembled from the take where that risk landed.
 
 selectedMoments:
   - label: "Intro to vocal comping"

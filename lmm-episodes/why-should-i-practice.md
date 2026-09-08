@@ -29,7 +29,11 @@ topicsDiscussed:
   - "Continuous Growth as a Musician"
 
 hostNote: |
-  In this episode, I take a deep dive into the often-uncomfortable concept of practice for musicians. I explore how traditional views of practice can feel restrictive and even daunting, and how reframing practice as a goal-based and playful activity can transform your relationship with music. I share personal insights into my journey, making the case that practice doesn't have to be a chore, it can be an exciting exploration of creativity and expression.
+  Practice feels icky to most musicians the second you bring it up: it's a chore, something you're supposed to do. I want to rebuild that word from scratch, starting with a real question: where do you actually want to go?
+
+  My goals aren't scales and etudes, they're to be interesting, to be myself, and to be fluent enough to play with other musicians in a compelling way. So instead of running scales against a metronome, I improvise against it, and instead of treating the click as a timer, I try to make it groove like a cowbell or a clave. I also record sessions to go back and analyze what's actually happening in my playing.
+
+  The through-line: figure out what you actually want, whether that's songwriting or fluency or something else, learn only what serves that goal, surround yourself with great work, and let yourself write a bunch of bad songs on the way there.
 
 selectedMoments:
   - label: "Introducing Practice Context"

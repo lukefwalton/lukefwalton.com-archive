@@ -37,7 +37,7 @@ draft: false
 
 **Nick Belcher**, lead vocals. [SoundCloud](https://soundcloud.com/nickbelchermusic): Los Angeles, USC Popular Music graduate, “fusing rock and EDM sounds.” Shared USC Thornton's [2014 Pop Showcase](https://www.neontommy.com/news/2014/04/usc-thorntons-pop-showcase-highlights-seniors-troubadour.html) bill with **FEiN** and **Nina Francis**; later featured on [*Dragon Ball $d*](/albums/dragon-ball-d/) and [*Next Time on Dragon Ball Sd (feat. Nick Belcher)*](/songs/next-time-on-dragon-ball-sd-feat-nick-belcher/). Jan 2017 [ReverbNation FEiN interview](/catalog/#dragon-ball-spine): Luke on **#Grownupz**: *Hashtags and the letter z. #DragonBallZ*.
 
-**Luke Francis Walton**: **recording engineer** (sound design). Production credit page only; Walton did not write these songs and is not named on public streaming metadata.
+**Luke Francis Walton**: **recording engineer** (sound design). Production credit only; Walton did not write these songs and is not named on public streaming metadata.
 
 **Studio trail:** A [YouTube post for *Forget I Said Anything*](https://www.youtube.com/watch?v=QNPPPXdEXEQ) describes it as the third song on the new EP *Heartquake Saga* and credits **Tiny Giant Recording** with **mixing by [Frank Rosato](/with/frank-rosato/)**: public support for the Tiny Giant era (same studio lane as [*Little Homes*](/albums/little-homes-fein/), [*Boomerang (with FEiN)*](/songs/boomerang/), [*Between Dreams*](/albums/between-dreams/)).
 

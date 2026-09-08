@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Woodstock '99 vs. Community"
 
 hostNote: |
-  In this solo episode, I explore the fascinating evolution of rock music from the underground scenes of DC hardcore to the mainstream success of artists like **Olivia Rodrigo**. I delve into how Nirvana's rise transformed the landscape of rock, splintering it into numerous subgenres that continue to shape music today. From **punk's** rebellious roots to the feminist sounds of **Riot Grrrl**, every shift reflects a broader cultural evolution contributing to the vibrant and diverse fabric of modern music.
-  
-  I also connect the dots between past and present, revealing how bands like **Fugazi** have laid the groundwork for today's artists. As I discuss the intricacies of these musical legacies, you'll discover how genres overlap and influence one another, showcasing that the spirit of rock music is alive and well, fostering new communities and stories every day.
+  Last episode ended with Nirvana knocking Michael Jackson off the charts. Part 13 picks up the pattern that follows: the underground doesn't stay underground, it becomes the mainstream and then splinters into something new. I trace the line from DC hardcore and **Fugazi** through to a specific, concrete example: Olivia Rodrigo's "Good For You" sounded so much like Paramore's "Misery Business" that her team retroactively credited Haley Williams and Josh Farrow as co-writers.
+
+  I work through how **Riot Grrrl** took punk's DIY energy and turned it into a feminist statement, how the internet democratized who gets to make and hear music, and why Woodstock '99 reads to me like the death knell of one specific kind of rock energy, even if you can still feel it at a hardcore show today.
+
+  Rock didn't die, it just got so adopted and so splintered that it turned into something closer to the air we breathe. New communities used its vocabulary to tell their own stories, from Riot Grrrl to boygenius, and that's worth celebrating.
 
 selectedMoments:
   - label: "Welcome to the History of Rock"

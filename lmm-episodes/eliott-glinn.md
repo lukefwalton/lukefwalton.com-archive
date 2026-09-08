@@ -31,9 +31,11 @@ topicsDiscussed:
   - "The journey from amateur to professional"
 
 hostNote: |
-  On this episode of **Love Music More**, we dive deep into the world of mixing with the talented **Eliott Glinn**. As a mixing engineer, Eliott uncovers the alchemy of blending sounds to craft final records that breathe life into the emotions and intentions of artists' visions. Through our conversation, Eliott shares invaluable insights and practical techniques that every aspiring engineer and musician can benefit from. If you’ve ever wondered how a mix transforms raw recordings into polished songs, this episode is your gateway to understanding that intricate process.
-  
-  We explore the nuances of mixing, the organizational strategies behind session setups, and how Eliott balances the technical and creative demands of his role.
+  **Eliott Glinn** mixes under his own name, Eliott Glinn Audio, and defines the job in one line: a mix engineer's work should be invisible to the listener. We talk about how he knows a mix is finished (nothing waves its hand asking to be fixed) and why the techniques you learn only count once you apply them from zero on every new session.
+
+  We get into the practical end too: how he organizes sessions with templates, what's changed as home-studio gear has closed the gap with professional rooms, and the career choices behind building a path with real work-life balance. He's honest about the climb, and how much mentorship shaped where he landed.
+
+  The through-line is Eliott's own: it's the knowledge, not the gear, that makes a mix engineer, even though knowing how to use the gear is most of the job.
 
 selectedMoments:
   - label: "Eliott's definition of mixing"

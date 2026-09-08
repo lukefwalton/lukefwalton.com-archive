@@ -1,7 +1,7 @@
 ---
 title: "Put To Wax with Harry Katz (Harry Katz and the Pistachios, Big Top Pistachioland)"
 
-description: "Harry Katz and the Pistachios have one foot in the future, one in the vinyl warmth of the past. Harry isn’t just an artist, he’s an evangelist, spreading the good word of music long forgotten. He’s dusting off records, usually the little ones (called 78s or 45s), and spinning DJ sets or narratives on Instagram. His comment sections are little libraries, with fans sharing anecdotes and connections, turning his insights into community."
+description: "Harry Katz and the Pistachios have one foot in the future, one in the vinyl warmth of the past. Harry isn’t just an artist, he’s an evangelist, spreading the good word of music long forgotten. He’s dusting off records, usually the little ones (called 78s or 45s), and spinning DJ sets or narratives on Instagram. His comment sections are little libraries, with fans sharing anecdotes and connections that turn into community."
 
 status: complete
 
@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Balancing performance and personal expression"
 
 hostNote: |
-  **Harry Katz** came up as a punk bassist and ended up deep in vinyl: specifically 45s, where "you can kind of learn the story of every song" through the width and depth of knowledge embedded in each release. That's the thread that runs through this conversation: how serious record collecting reshapes how you hear music, and what it means to become an evangelist for it.
+  **Harry Katz** came up as a punk bassist and ended up deep in vinyl: specifically 45s, where "you can kind of learn the story of every song" through the width and depth of knowledge embedded in each release. That's the throughline of this conversation: how serious record collecting reshapes how you hear music, and what it means to become an evangelist for it.
   
   Katz DJs with authenticity, builds community around music history and ska and record collecting on Instagram (his comment sections are little libraries), and fronts Harry Katz and the Pistachios. We talk through the 45 as a format, what changes when you approach live performance as someone who's spent years with the recordings, and how building community around forgotten music becomes its own creative practice.
 

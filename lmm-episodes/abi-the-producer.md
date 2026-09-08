@@ -30,7 +30,9 @@ topicsDiscussed:
   - "Finding your sonic fingerprint"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Abi the Producer**, the A&R at Safari Pedals, who shares her distinctive approach to music production through the lens of guitar pedals. With her background in magic and a passion for sound, Abi discusses her journey from audio school to creating a unique podcast, The Safari Pedals Show. Abi dives deep into the transformative power of guitar pedals, illustrating how they influence her work with artists and enhance the creative process.
+  **Abi the Producer** is the A&R at Safari Pedals and a professional magician, which turns out to be good training for a studio: both jobs are about pointing attention toward what actually matters. She reached out to Safari Pedals while finishing audio school and built the role from there.
+  
+  We talk about how guitar pedals became her main production tool, why she started The Safari Pedals Show, and the soft-skill side of the job she describes as being a "vibe curator," giving an artist the room and comfort to make a record honest to them. She's built the career on trust and proactive networking rather than waiting for one big break, working sessions in person in cities around the world and remotely in between.
 
 selectedMoments:
   - label: "Starting her journey with Safari Pedals"

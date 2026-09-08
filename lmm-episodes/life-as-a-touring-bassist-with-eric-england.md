@@ -26,9 +26,9 @@ topicsDiscussed:
   - "Navigating different music scenes"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Eric England**, a distinguished bassist known for his collaborations with heavyweight artists like Rihanna and Jon Secada. Eric kicks off the conversation by sharing his journey from Miami to Los Angeles, detailing how he navigated the creative landscape of each city and built a thriving music career. This episode is a behind-the-scenes look at the realities of being a touring musician, the strategies for establishing connections in a new scene, and the importance of community in the music industry.
+  **Eric England** is a bassist who's recorded and toured with Rihanna, Leslie Odom Jr., Jon Secada, and Nicole Henry, trained at the Frost School of Music at the University of Miami, and is now based in Los Angeles. He moved from Miami to LA with no specific plan, just to expand his opportunities, and rebuilt his network from scratch through word of mouth: "If you can play and you're a good hang, there's opportunity for sure."
   
-  We also delve into Eric's insights on growth as a musician during and after the pandemic. He reflects on the unique challenges and opportunities that emerged during this time, highlighting the resilience required to return to performing live.
+  We get into how he found his way to bass through unusual avenues, playing tuba parts in school before it stuck, why articulation and playing along with records matter more than people think, and what changed moving from jazz sessions into pop gigs. He also talks about what a good tour manager actually does for a touring musician, how he chooses which gigs to take, and how much of his career traces back to the connections he made in music school.
 
 selectedMoments:
   - label: "Eric's journey to LA"

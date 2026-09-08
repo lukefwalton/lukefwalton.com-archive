@@ -26,7 +26,11 @@ topicsDiscussed:
   - "Patterns and structure: The geometry of the fretboard"
 
 hostNote: |
-  In this episode of Love Music More, we delve into the fascinating world of guitar with expert Jeb Sherrill, known for his innovative approach to the instrument through the 'chair system.' Jeb shares his unique journey from struggling musician to guitar educator, emphasizing how finding the right perspective on the fretboard transformed his playing. **Jeb's passion shines through as he explores the intersections of improvisation and composition, inviting listeners to see the guitar in a new light. Whether you play or simply appreciate music, there's something profound here to inspire your own musical journey.
+  **Jeb Sherrill** built the **chair system**, his own way of mapping the guitar fretboard, after a YouTube video reframed how he saw the instrument, about seven years into a career that started three decades ago. We talk about what that reframe actually was: seeing the fretboard as one shape instead of a set of memorized box patterns.
+
+  He describes thinking diagonally across the neck instead of horizontally or vertically, and what changes once you stop seeing separate patterns and start seeing one channel running through all of them. Jeb also gets into something harder to pin down: visualizing music on the fretboard at night, a process he calls almost spiritual, and how that connects improvisation to composition rather than treating them as separate skills.
+
+  The conversation stays practical throughout: if your current method for learning guitar isn't working, the chair system is built around the idea that there's a more intuitive way in.
 
 selectedMoments:
   - label: "Introduction to the chair system"

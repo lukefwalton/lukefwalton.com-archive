@@ -24,7 +24,9 @@ topicsDiscussed:
   - "creative confidence"
 
 hostNote: |
-  In this episode, I dive deep into the art of mixing music, likening it to a culinary craft. By utilizing food metaphors, I clarify the complexities of balancing sound elements in mixing and shares my unique approach that blends artistic intuition with technical expertise. As we step into 2024, I call for a creative revolution, encouraging artists and engineers alike to push boundaries and redefine what music can feel like. This is a clarion call for passionate musicians to approach their craft with confidence, as I unpack the nuances of mixing techniques and technology that can elevate a composition beyond the usual.
+  Mixing is a lot like cooking: knowing when to apply high heat and take something all the way, and knowing when to leave it alone. I use food metaphors throughout to work through the uncanny valley of a mix, that specific discomfort when something is almost right but not quite, and why closing that gap is one of the more interesting problems in the job.
+
+  I also look at how mixing has changed even in the last five years, mono mixing used to be a much bigger deal than it is now, and where AI tools like Gulfos actually help: pushing a sound further, not sanitizing its character. The closing line is the one I keep coming back to going into the new year: don't make music that AI can make, don't mix like AI can mix, don't master like AI can master.
 
 selectedMoments:
   - label: "Introduction and Gratitude"

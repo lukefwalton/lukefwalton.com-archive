@@ -25,7 +25,7 @@ topicsDiscussed:
 hostNote: |
   "I've never felt a guitar feel this good before." That moment, picking up a Telecaster after years on inferior instruments, wasn't just about the hardware. It changed the direction I was heading entirely, from metal toward something with more space and more voice in it.
   
-  I trace what that shift actually meant: learning an instrument as a singer rather than as a technician, where the goal isn't fluency for its own sake but finding a voice that says something. Guitar has always been my home instrument, but the journey through surf, melody, and multi-instrumentalism gave me a vocabulary I couldn't have built on guitar alone.
+  I trace what that shift actually meant: learning an instrument as a singer rather than as a technician, where the goal isn't fluency for its own sake but finding a voice that says something. Guitar has always been my home instrument, but working through surf, melody, and multi-instrumentalism gave me a vocabulary I couldn't have built on guitar alone.
   
   The frame I come back to is this: "it just becomes part of you and then you have a voice." Finding that is the whole project.
 

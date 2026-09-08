@@ -32,9 +32,11 @@ topicsDiscussed:
   - "Emotional connection to music"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with **David Gnozzi**, the platinum mix engineer and host of MixbusTV. David shares insights from his extensive career, providing listeners with an understanding of what it takes to thrive in the modern mixing industry. From mastering the right gear to developing the correct mindset, our conversation not only dives into the technical aspects of mixing but also touches on the emotional journey that comes with working in such a competitive field.
+  **David Gnozzi** is a platinum mix engineer and the host of **MixbusTV**, where hundreds of thousands of subscribers watch him teach mixing. The episode title is his own phrase for the target he's chasing on every song: **the peak of the euphonic**.
   
-  As David unapologetically reveals the hard work behind his achievements, he emphasizes the importance of passion in the music industry. His contagious enthusiasm and authentic approach make this episode a
+  David's day starts at 6 a.m. with a workout before he ever touches a fader, and he treats his mixing setup like a race car: everything within reach, nothing wasted. He's blunt about one piece of advice in particular: don't produce your own music, because the emotional attachment that comes from writing it makes it much harder to mix objectively. We get into the record-label experiences that taught him that the hard way, and why staying organized is the only way to survive deadline after deadline.
+  
+  We also cover where AI fits into modern mixing and analog versus digital tools, before David lands on why he does any of this: music, in his words, offers healing and connection nothing else does.
 
 selectedMoments:
   - label: "Introduction to David Gnozzi"

@@ -1,7 +1,7 @@
 ---
 title: "Sound Foundations: Building Better Engineers with Stephan Hawkes"
 
-description: "Stephan Hawkes offers a compelling discussion on the importance of experience in the music industry, focusing on how his extensive background as a producer and engineer has shaped his approach to creating impactful music. He shares insights into the production process, emphasizing collaboration and the nuances of sound engineering."
+description: "Stephan Hawkes works as producer, mix engineer, and mastering engineer, and explains what changes when one person handles every stage: tone choices made early that still have to survive mastering, and the trust between engineer and artist along the way."
 
 status: complete
 

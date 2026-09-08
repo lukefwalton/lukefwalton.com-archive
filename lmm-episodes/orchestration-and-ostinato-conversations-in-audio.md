@@ -30,9 +30,11 @@ topicsDiscussed:
   - "Creative Choices"
 
 hostNote: |
-  In this solo episode, I delve into the intricacies of **orchestration** and the significance of understanding different instruments' strengths and weaknesses. Drawing from the previous discussion on film scoring, I explore essential music theory concepts like **voice leading** and **polyphony**. By leveraging these principles, I aim to illustrate how composers can make bold creative choices, breaking traditional expectations in their arrangements.
-  
-  I also share my personal journey with learning various instruments, emphasizing the **dual approach** of understanding a piece through both practice and collaboration. This episode is packed with insights on how to elevate your composition skills, ultimately leading to richer soundscapes and more engaging music-making experiences.
+  Every instrument has a range where it's comfortable and a range where it starts to strain, and the interesting choices happen at the edges of that range. This is the follow-up to the film-scoring episode, so I'm digging into **orchestration**: how you lean into what an instrument does well, voice leading and polyphony among the tools, and what happens when you deliberately break that expectation instead, like pushing a saxophone into a register it was never built for and using the strain itself.
+
+  I work through the vocabulary, **ostinato** (a repeated phrase that holds a piece together rhythmically), modular synths, and the dual approach I actually use: play it myself when I can, bring in someone more skilled when the arrangement needs a level I don't have. Writing for cello is the example I use for how knowing an instrument's range changes what you write for it.
+
+  The comparison I keep coming back to: understanding theory works the same way language does. It's grammar, and once you also know the slang, you're a better writer. Paul McCartney comes up as an example of someone who got there mostly through exposure and practice, not just rules.
 
 selectedMoments:
   - label: "Exploring Orchestration"

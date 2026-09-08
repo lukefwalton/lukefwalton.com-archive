@@ -34,7 +34,11 @@ topicsDiscussed:
   - "Maintaining passion for music"
 
 hostNote: |
-  In this episode, we dive into Fernando's journey from session musician to respected producer, uncovering the stories and experiences that have shaped his artistic path. Fernando shares invaluable wisdom on surviving the rigors of the road, navigating the industry, and the significance of creativity that transcends financial motivations. Tune in to hear why Fernando believes that music is a universal language, capable of evoking deep emotions and forging lasting connections.
+  Fernando Perdomo has played guitar for Jackson Browne, Beck, and Fiona Apple, and this conversation traces how he got there: his mother's early influence, then the adaptability session work demands, then the record with a major Latin artist that changed how people saw him.
+
+  We get into why he moved to Los Angeles to keep advancing, and his own definition of success: not the car or the mansion, but making music for a living. He still takes projects for little or no money because of how they make him feel, and talks about a song that found new life years later when it landed in a film, a reminder that a song is only as old as its newest pair of ears.
+
+  Fernando closes on why he keeps at it: music is one of the few places where creativity and uniqueness both actually get rewarded.
 
 selectedMoments:
   - label: "Fernando talks about his introduction to music"

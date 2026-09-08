@@ -34,9 +34,11 @@ topicsDiscussed:
   - "Balancing artistry and commercial goals"
 
 hostNote: |
-  In this episode of **Love Music More**, we're thrilled to welcome Sam Moses, an extraordinary mastering engineer whose credits include work with Kesha, Dolly Parton, and Morgan Wade. With over 14 years of experience, Sam dives deep into the intricate world of music production and the crucial role mastering plays in shaping the final sound of a record. He shares his insights on how the landscape of music has evolved, particularly in the age of streaming and social media, providing a fresh perspective on what it truly means to finish a record today.
-  
-  This episode is essential for anyone looking to understand the nuances of music production and how to ensure their work resonates in an industry increasingly dominated by digital platforms.
+  **Sam Moses** masters records out of Nashville and has the numbers to back up the reputation: 4 billion-plus streams, a Gold Record, a Dove Award, and a Grammy nomination. His job title, in his own words, is Peace of Mind Bringer, and this conversation is really about what that means when a big chunk of mastering has, in his phrase, "been hijacked and watered down to just two-bus processing."
+
+  We get into how Spotify and playlist culture have changed what mastering is even for, why loudness and competitiveness now matter as much as artistic vision, and how a decent song with great marketing can outperform a better song without it. Sam is direct about the tension: artistic integrity matters, but the market is real and you have to compete in it.
+
+  He closes on why he still treats every song as its own project worth getting right, even inside an industry he describes as one giant echo chamber.
 
 selectedMoments:
   - label: "Mastering workflow insights"

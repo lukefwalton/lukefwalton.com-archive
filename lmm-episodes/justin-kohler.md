@@ -32,7 +32,11 @@ topicsDiscussed:
   - "Using unconventional spaces for recording"
 
 hostNote: |
-  In this episode of Love Music More, we're thrilled to welcome **Justin Kohler**, the owner of Fox and Robyn Recording in Loveland, Colorado. Justin's passion for music and commitment to creating an accessible recording environment have made him a cornerstone in the local music scene. This conversation dives deep into the challenges and triumphs of running a recording studio, the nuances of music production, and the dynamic nature of the Northern Colorado music community.
+  **Justin Kohler** owns **Fox and Robyn Recording** in Loveland, Colorado, built out of rooms that were never meant to record in: kitchens, bedrooms, whatever space he had before the studio existed. That's the throughline here: building a real studio for a Northern Colorado music scene that didn't have one yet.
+  
+  We get into what it took to turn a home into a working studio, the shift into immersive formats like **Dolby Atmos** (up to nine speakers around the room, software that walks you through every step), and why he still likes getting a whole band tracking together in the room instead of piecing parts in one at a time.
+  
+  Justin closes on the unsung side of the job, the engineer nobody knows unless the artist gets famous, and on the frame that keeps him going: a session is a painting, and the drum kit is one more color on the sonic palette.
 
 selectedMoments:
   - label: "Justin's journey to opening a studio"

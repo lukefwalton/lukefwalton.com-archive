@@ -1,7 +1,7 @@
 ---
 title: "DIY Music Production with Garvie"
 
-description: "My friend and collaborator, Garvie, joins the pod to talk DIY production, creating a sound, songwriting technique, artist-fan connections, masked musicians, and dealing with mixing engineers in San Diego :) Find more my stuff at"
+description: "My friend and collaborator Garvie joins the pod to talk DIY production, songwriting technique, artist-fan connections, and performing behind a mask."
 
 status: complete
 
@@ -28,9 +28,9 @@ topicsDiscussed:
   - "Navigating the music industry"
 
 hostNote: |
-  In this episode of the Love Music More podcast, we welcome **Garvie**, a remarkably talented artist who merges traditional songwriting with innovative DIY production techniques. Garvie opens up about his journey in the music industry, from navigating the challenges of self-producing tracks to experimenting with unique artistic identities through masked performances. The discussion provides insights into the often complex relationship between artists and their work, including how the pressures of perfection can inhibit creativity.
-  
-  Garvie's approach to songwriting and production reveals not only the importance of individual expression in music but also how connecting with fans authentically can elevate a musical project. If you're interested in music production, songwriting, or simply the creative process, this episode is filled with actionable insights and inspiring stories.
+  Garvie is a friend and collaborator, and this conversation runs like one: DIY production, songwriting, and the mask he performs behind. We talk about how his current project found its identity after a lot of false starts, and why getting a song out the door matters more than getting it perfect.
+
+  Garvie walks through what pushed him toward performing in a mask, and the different mindset mixing takes when it's your own song versus someone else's; he prefers a direct, present sound over heavy reverb. He closes out talking about two upcoming records, different from each other in vibe and theme.
 
 selectedMoments:
   - label: "Garvie discusses his project evolution"

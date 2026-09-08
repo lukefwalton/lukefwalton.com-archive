@@ -26,9 +26,11 @@ topicsDiscussed:
   - "Emotional Impact of Music"
 
 hostNote: |
-  In this episode, I embark on a hands-on exploration of artificial intelligence in music creation. By crafting a song using AI tools: ChatGPT for lyrics, Splice AI for instrumentation, and GrimesAI for vocals, I give listeners a firsthand look at the strengths and weaknesses of these technologies. This episode is not only about the song-making process; it's also a reflection on how AI is transforming the music landscape and what that means for artists.
-  
-  I encourage you to consider the philosophical implications of using AI in music. Are we losing the emotional depth and cultural significance that makes music truly special? I unpack these complex questions while building something real.
+  Three AI tools, one song: ChatGPT for lyrics, Splice AI for instrumentation, GrimesAI for vocals. The only way to actually understand the hype (and the weaknesses) of these tools is to build something with them, so that's what I do here, live, on record.
+
+  GrimesAI turns out to be the most interesting piece: it's not a Vocaloid trick, it keeps my vibrato, my articulation, my breath, which raises real questions about identity and where a voice actually lives. Splice works differently. It pays musicians to record small loops, and using it means outsourcing a chorus of other producers into your beat without ever meeting them.
+
+  I don't land on a clean verdict. There's something between missing breaths and genuine collaboration that I want to keep digging into, a kind of sympathy between the tool and the musician I'm not ready to explain away yet.
 
 selectedMoments:
   - label: "The Call to Experiment with AI"

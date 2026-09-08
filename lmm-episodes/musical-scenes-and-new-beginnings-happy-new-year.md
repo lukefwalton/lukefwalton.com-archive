@@ -28,7 +28,11 @@ topicsDiscussed:
   - "Music and Identity"
 
 hostNote: |
-  In this first episode of the new year, I reflect on the concept of musical scenes and their profound impact on the music we create and enjoy. I dive into how these scenes form not just as geographical locations, but as vibrant communities of artists who influence one another through competition, collaboration, and shared experiences. I discuss my own scene, characterized by connection and creativity, highlighting the importance of context in shaping music history and the growth that comes from these influences.
+  Musical scenes are under-reported and under-appreciated, and their stories don't get told enough. That's the case I make in this first episode of the new year: a scene isn't just a place, it's a web of competition, collaboration, and adoration that shapes the music people actually make.
+
+  I trace that through history (the symbiosis between Sun Records and its distribution channels) and through my own path: music school alongside people who went on to notable careers, and my first tour, three weeks up the coast of California. What I take from both is the same: like chemistry, you can put two things together, but nothing happens without a catalyst.
+
+  I close the year looking forward: what it would take to build toward a bigger scene, and where I want the connections and collaborations to go from here.
 
 selectedMoments:
   - label: "Importance of Musical Scenes"

@@ -29,7 +29,11 @@ topicsDiscussed:
   - "Not Giving Up on Songs"
 
 hostNote: |
-  In this solo episode, I delve into the intricate process of **lyric writing** and share my personal strategies for overcoming obstacles like **writer's block**. Drawing on my experiences and insights, I aim to help songwriters navigate the sometimes daunting task of crafting meaningful lyrics.
+  After my conversation with **Slow Leaves**, I wanted to talk specifically about lyrics: how I write them, and what I do when I get stuck. **Randy Newman** once told me my lyrics were lazy, and this episode is me still trying to prove him both right and wrong.
+  
+  I get into a technique I call "two steps removed": you write the blunt, obvious version of what you mean first, then push it a couple of steps away from the literal until it becomes something worth singing. I also cover brainstorming with sensory words tied to a single time or place, and why stepping away from a lyric for a day often does more than forcing it.
+  
+  I close on why I finish songs rather than abandon them, even the ones I'm sure are dead. More than once, a song I almost gave up on became something I was proud to release.
 
 selectedMoments:
   - label: "On Songwriting Reflection"

@@ -30,9 +30,9 @@ topicsDiscussed:
   - "Building a unique sound signature"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with the multifaceted Riley Knapp of RKCB. A prolific producer, engineer, and musician, Riley brings his extensive experience and insights into the art of not just music creation but also the importance of releasing your work into the world. After spending over a decade collaborating with Luke Walton, Riley has mastered a unique understanding of how sonic art evolves and resonates with listeners. **This episode is packed with invaluable takeaways for aspiring musicians**, especially around the pressures of perfectionism and the power of simply putting your music out there.
-  
-  We delve into various facets of the music-making process, exploring how Riley's journey from drummer to producer shaped his perspective on collaboration and creativity. The conversation highlights the balance between personal expression and audience connection, affirming that sometimes the best approach is to let go and allow your art to live freely.
+  **Riley Knapp** records as RKCB and has mastered my music for over a decade, engineer, producer, and musician enough to know the catalog as well as anyone. The through-line of the conversation is what happens after a song is finished: one of his tracks sat under a thousand plays before landing in an Apple commercial, the kind of outcome that only happens if you actually put the thing out.
+
+  We trace his path from drummer, where listening and holding rhythm for the group becomes its own kind of instinct, into production and mastering, and the mindset shift he credits most: release it, stop sitting on finished work, and get less precious about music that might matter to someone else. He also talks through how cheaper, more accessible technology has changed what a bedroom setup can do, and what he still checks by gut rather than spec when he's mixing.
 
 selectedMoments:
   - label: "Musical family background"

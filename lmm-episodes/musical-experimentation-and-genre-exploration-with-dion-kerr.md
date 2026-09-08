@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Community support among musicians"
 
 hostNote: |
-  In this compelling episode of Love Music More, we dive into the fascinating world of musical experimentation and genre exploration with the multi-talented **Dion Kerr**. Fresh off a tour opening for Unknown Mortal Orchestra, Dion shares his unique insights into the art of collaboration and his creative process, characterized by fluidity and a fearless embrace of genre-bending influences. We discuss how Dion’s upbringing in a musical household shaped his artistic voice and how his eclectic tastes inform his projects today.
-  
-  Listeners are in for an enlightening journey as Dion reflects on everything from his early musical conversations with family to his recent efforts in film scoring. This episode not only showcases Dion's impressive credentials as a forward-thinking artist but also emphasizes the importance of community and collaboration in the music industry. We explore the powerful interplay between musical mastery and personal expression.
+  **Dion Kerr** is a multi-instrumentalist, producer, and bassist from South Florida, fresh off a tour opening for **Unknown Mortal Orchestra** when we talked. He grew up in a musical household, jamming with family before he had any formal training, and later taught himself upright bass by trying to become **Jaco Pastorius**, stripping the frets off a bass to chase that sound.
+
+  We get into why he thinks every musician should learn a little drums, the rhythmic foundation runs through everything, how playing fretless changed what he could express, and why he treats genre as something to cross rather than defend: he lets the music tell him what to do project to project, rather than showing up with one fixed approach. Dion also talks about **Dialogues**, his YouTube series built around collaborating with musicians, and eventually non-musicians, outside his usual circle.
+
+  The episode closes on community: Dion's belief that there's an unlimited amount of talent out there, and that musicians lifting each other up is how those barriers actually come down.
 
 selectedMoments:
   - label: "Dion's Musical Roots"

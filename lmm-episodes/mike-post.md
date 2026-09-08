@@ -1,7 +1,7 @@
 ---
 title: "Designing A Dolby Atmos Room, Running An LA Studio, and Trading Up Gear with Mike Post (Local Natives, Orion Sun, Alice Cooper)"
 
-description: "Mike Post (of MooseCat Recording) joins the pod to talk the nuts and bolts of operating a studio, creating vibey environments, developing a killer workflow, and his journey to Los Angeles to take his career to the next level. Get your foot in the MooseCat Recording Studio door 👟🚪"
+description: "Mike Post runs MooseCat Recording in mid-city LA, sessions with Local Natives, Orion Sun, and Alice Cooper, plus a new Dolby Atmos room. We talk the nuts and bolts of operating a studio: creating a vibey environment, building a workflow, and the run of internships that got him to LA."
 
 status: complete
 

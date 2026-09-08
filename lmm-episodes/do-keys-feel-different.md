@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Historical context of keys"
 
 hostNote: |
-  A friend texted me a deceptively simple question: does C major feel different from G major, or are all major chords the same? The answer pulls in two directions at once, and I think both are right.
+  A friend texted me a deceptively simple question: does C major feel different from G major, or are all major chords the same? The answer pulls in two directions, and I think both are right.
   
   On one hand, music is relational: the shape of the melody, the intervals between notes, those survive transposition. But notes are also frequencies, not just abstract positions on a scale. Every key has its own flavor because you're dealing with physical phenomena interacting with each other and with whatever instruments you're playing. When you transpose a song you do change the emotion, even if you keep the colors. I get into inversions, the cultural weight certain keys have accumulated over centuries, and why your instrumentation often determines your key more than aesthetics do.
   

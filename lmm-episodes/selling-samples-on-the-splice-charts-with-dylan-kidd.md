@@ -31,9 +31,9 @@ topicsDiscussed:
   - "The role of day jobs for musicians"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with **Dylan Kidd**, a rising star in the sample and loop economy, to explore his journey through music production. As a prominent figure on Splice, Dylan shares how his innovative one-shots and loops have made waves in the industry, leading to significant placements in major label releases and impactful brand campaigns. This conversation goes beyond his accomplishments; it delves into his creative process, the importance of cultivating a diverse range of interests, and how real-life experiences shape his music.
+  **Dylan Kidd** has torn up the **Splice** charts with his one-shots and loops, work that's led to major label placements and brand campaigns. We talk about how the sample and loop economy actually works, the pool system that pays creators based on how popular their samples get, and how he built the sample pack "Sticks and Stones."
   
-  Dylan’s refreshing perspectives on the balance between practice and personal joy will inspire musicians and non-musicians alike to view music as a lifelong journey rather than just a career path.
+  Dylan traces his musical upbringing back to jazz band and early exposure to Motown, then the left turn of moving from New Orleans to LA's competitive session player scene. He argues that having diverse hobbies outside music feeds directly back into the work, and that keeping a day job while building a music career is nothing to be embarrassed about. He closes on something simple: music is an outlet, and picking up a guitar to noodle for ten minutes still counts.
 
 selectedMoments:
   - label: "Dylan's Musical Background"

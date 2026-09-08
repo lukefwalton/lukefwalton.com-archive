@@ -31,9 +31,11 @@ topicsDiscussed:
   - "Lessons from a long music career"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Andy Shernoff**, a founding member of the iconic punk band The Dictators. Andy takes us on a vivid journey through the gritty and electrifying New York City punk scene of the 70s, a time when the music world was ripe for revolution. From his first encounter with the Ramones to the band's enduring legacy, this episode provides invaluable insights into the origins of punk rock and the spirit of creativity that thrived in an era of chaos and transformation.
-  
-  His stories of forming The Dictators and the camaraderie that fueled their creativity serve as a testament to the community spirit that defined this groundbreaking genre. Dive in to explore what it means to not just make music, but to live it.
+  Andy Shernoff founded The Dictators, one of the first bands to play CBGB, in a New York City he describes as crumbling and bursting with creativity at the same time: cheap rents, an influx of artists, and in his words a whole different style of living.
+
+  We trace how the band came together, meeting Ross the Boss and drawing on MC5's urgency, then Andy's first time seeing the Ramones play CBGB and what that show did to him. He talks about his friendship with Joey Ramone and what it meant for both of their paths. Late in the conversation he brings punk into the present, pointing to the Japanese band Otoboke Beaver as proof the raw three-minute song is due for another comeback.
+
+  Andy's stories run from The Dictators' formation through decades of writing and touring, up to his 2024 tour with The Damned.
 
 selectedMoments:
   - label: "Reflecting on NYC in the 70s"

@@ -1,7 +1,7 @@
 ---
 title: "Chains of Influence: David Baron (Noah Kahan, Lana Del Rey, Lenny Kravitz) & Ginger Winn"
 
-description: 'Join us for an intimate conversation with renowned producer/musician David Baron and artist Ginger Winn as they unravel the creative process behind their mesmerizing album "Stop Motion." Discover how these two musical potion makers found their collaborative rhythm and transformed their individual artistic visions into a seamless sonic journey. From studio magic to songwriting secrets, Baron and Winn share the stories and inspirations that shaped their June 2024 release. David brings his extensive experience working with artists like The Lumineers, Shawn Mendes, and Matt Maeson to this unique collaboration, while Ginger contributes her distinctive voice and songwriting perspective.'
+description: "David Baron (Noah Kahan, Lana Del Rey, Lenny Kravitz, The Lumineers, Shawn Mendes, Matt Maeson) and singer-songwriter Ginger Winn on making their album Stop Motion together, out June 2024, and how the two of them actually worked."
 
 status: complete
 
@@ -33,7 +33,11 @@ topicsDiscussed:
   - "Journey from demo to final track"
 
 hostNote: |
-  In this special episode of Love Music More, we sit down with **David Baron**, a celebrated producer known for his work with major artists like Noah Kahan and Lana Del Rey, alongside rising singer-songwriter **Ginger Winn**. Together, they dive deep into their creative process behind their collaborative album, "Stop Motion," which exemplifies the magic of blending their unique artistic visions. This conversation is a
+  **David Baron** produces and writes with Noah Kahan, Lana Del Rey, Lenny Kravitz, The Lumineers, Shawn Mendes, and Matt Maeson, among others. **Ginger Winn** is the singer-songwriter he made **Stop Motion** with, released June 2024. This conversation is about that album and how the two of them actually worked together.
+
+  We get into what balancing preparation with spontaneity looks like in the room, and where Ginger's South Carolina upbringing shows up in her songwriting. David talks about the artists he sees early in their careers, "pretty green," still figuring it out, and what changes with training and time; Ginger talks about pulling songs out of personal struggle rather than around it.
+
+  The conversation closes on why they both keep doing this at all: a ukulele from a father decades ago, the sense that a life without music was never really an option, and the shared belief that music carries you through the hard stretches as much as it does the good ones.
 
 selectedMoments:
   - label: "David and Ginger's unique collaboration"

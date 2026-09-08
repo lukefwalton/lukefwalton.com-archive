@@ -34,7 +34,11 @@ topicsDiscussed:
   - "Finding your artistic voice"
 
 hostNote: |
-  In this episode of **Love Music More**, we sit down with the innovative Ron Jackson, creator of the dynamic "Musora Covers On The Spot" series. With a rich background in educational media and a passion for music, Ron shares his unique journey from teaching to producing, highlighting how he encourages bands to explore new facets of their creativity. This conversation is a We explore Ron's insights on the changing landscape of music collaboration and learning, and he provides practical advice for students and aspiring musicians alike. Prepare to be inspired as he discusses the importance of creativity under pressure and the magic that happens when artists step outside their comfort zones.
+  **Ron Jackson** creates "Musora Covers On The Spot," where a band covers a song they've never heard before, live, on camera. His line about the format: it's not really about the covers, it's about watching a band work.
+
+  We talk through what that pressure actually reveals, why he wants every artist to leave the session feeling like a win, and how Musora and Drumeo have built tools that make it easier for musicians to know where to start. He also gets into how the pandemic changed music education, the support Canadian arts programs give local musicians, and the streaming pressures artists everywhere are navigating.
+
+  The conversation lands on something simple: music processes things words can't, and that's what keeps him building tools and formats around it.
 
 selectedMoments:
   - label: "Welcome and the Purpose of Musora"

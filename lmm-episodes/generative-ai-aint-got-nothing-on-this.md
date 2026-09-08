@@ -28,7 +28,11 @@ topicsDiscussed:
   - "Emotional Experience in Music"
 
 hostNote: |
-  In this introspective solo episode of Love Music More, I dive into the complex relationship between the mind and body in music creation, a theme from my recent conversation with Alex Delacada. While generative AI has made remarkable strides, I argue that it fundamentally lacks the ability to recreate the nuanced, embodied experiences that musicians go through. I reflect on the beauty and struggles of being an artist, illustrating the profound connection between physical practice, artistic intuition, and the authentic human experience behind music creation.
+  What is Coltrane without his body, his hands, his mouth, his tongue? That's the question at the center of this one, and it's the case against treating music as something purely computational.
+
+  I dig into the mind-body split that came out of a recent conversation with Alex: how much of musical skill lives in the diaphragm and the lungs, run by the brain without you ever thinking about it, and why generative AI has no body to draw on. Intuition versus theory runs the same way. Most of what a musician does isn't rules-based, and time in nature can move creativity as much as time spent practicing.
+
+  I close on the personal cost: the repetition, the humility, the pain of actually giving yourself to music every day. No computer goes through that, and that's the gap no model closes.
 
 selectedMoments:
   - label: "Mind-Body Connection in Creativity"

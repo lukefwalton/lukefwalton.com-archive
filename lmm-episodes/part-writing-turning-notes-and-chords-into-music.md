@@ -32,7 +32,7 @@ topicsDiscussed:
 hostNote: |
   There's a difference between a power chord and a big sparkly dream pop chord, and both are just notes until someone decides how each instrument moves. Part-writing is the craft of making every line feel like it has somewhere to go.
   
-  I trace the lineage from early polyphony through counterpoint to James Jamerson's Motown bass lines, where you're supporting the melody, adding syncopation, and providing a melodic voice of your own all at once. Bernard Purdie's instruction to "make the drums sing" is the whole idea in four words. Even chaos has intention behind it; the question is whether you put it there deliberately.
+  I trace the lineage from early polyphony through counterpoint to James Jamerson's Motown bass lines, where you're supporting the melody, adding syncopation, and providing a melodic voice of your own, all at the same time. Bernard Purdie's instruction to "make the drums sing" is the whole idea in four words. Even chaos has intention behind it; the question is whether you put it there deliberately.
   
   You come away with a way of listening to individual instrument parts as melodies in their own right, not just as filler supporting a vocal.
 

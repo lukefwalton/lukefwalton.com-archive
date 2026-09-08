@@ -34,9 +34,9 @@ topicsDiscussed:
   - "Influence of classical on contemporary music inspirations"
 
 hostNote: |
-  In this enlightening episode of **Love Music More**, we have the pleasure of welcoming Dr. **Guy Shkolnik**, a renowned music theorist and composer with a PhD focused on Bach. With a vibrant following on social media, Guy specializes in deep-dive analyses that demystify complex musical concepts and uncover the genius behind iconic songs across genres. In this episode, we explore a wealth of topics from harmony and counterpoint to the intricacies of composition, specifically how these elements differ even between cultural contexts like Western music and Japanese city pop.
-  
-  Guy's infectious passion for revealing the structure beneath beloved songs will inspire both musicians and music lovers alike to approach their craft with renewed curiosity and openness. We follow the white rabbit deeper into the world of music and what makes it resonate so profoundly with us!
+  Guy Shkolnik has a PhD focused on Bach and built a following breaking down why songs work, from Beatles chord progressions to Japanese city pop harmony. We start with the basics: passing chords, and why he'd rather talk about tendencies than rules, because harmony behaves more like grammar than law.
+
+  From there we go into how the bass line shapes harmony, how chord stability and instability carry emotional weight, and what classical voice leading has to teach a jazz player. Guy explains negative harmony as mirror harmony, chords reflected across a tonal center, and how personalizing a scale with a few extra semitones can make it sound more organic. The conversation ends somewhere genuinely open: how many keys are there, really, and where does music theory stop being fixed rules and start being a set of tools?
 
 selectedMoments:
   - label: "Introduction and Background"

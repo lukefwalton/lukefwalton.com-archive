@@ -34,9 +34,11 @@ topicsDiscussed:
   - "Creative risk-taking in music"
 
 hostNote: |
-  In this episode of *Love Music More*, we sit down with **Hendrick Valera**, a talented producer and mixer whose journey has taken him from Venezuela to Argentina, then the U.S., and now Colombia. This eclectic background informs not just his skillset but also his unique perspective on global music. Hendrick's experiences highlight the importance of adapting to different music scenes and cultures. This conversation delves into the nuances of music production and community building in the modern landscape.
-  
-  Hendrick shares enriching insights on creating music in a collective and dynamic environment, and how he successfully navigates various challenges in the industry. If you're passionate about music and looking for inspiration or practical advice on fostering musical communities,
+  Hendrick Valera is a producer and mixer who started in Venezuela, then worked in Argentina, the U.S., and now Colombia, and that path is the spine of this conversation. He talks about the obstacles to studying music in Venezuela, and how he found his way to production after starting out as a saxophonist.
+
+  We get into what it took to keep going through rejection, including getting fired from a cruise ship gig and what that taught him, and how each small win in the studio built toward the next one. Hendrick compares the music scenes in Argentina and Colombia, and talks about why networking and real relationships matter as much as the work itself.
+
+  He closes on staying true to his own values through all of it, and on wanting to keep making music that's actually his.
 
 selectedMoments:
   - label: "Introduction to Hendrick's journey"

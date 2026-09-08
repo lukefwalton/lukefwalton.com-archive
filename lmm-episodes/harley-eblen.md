@@ -1,7 +1,7 @@
 ---
 title: "A Symphony in The Taste Gap with Harley Eblen (Billboard #1 String Arranger)"
 
-description: "Strings tell a story. They're so good at making us cry. Why? How does a string quartet fit into a pop arrangement? What is it about simplicity? Harley joins the pod to discuss his journey as a cellist, string arranger, producer, and more. From his hometown Hawaiian roots to his current recording studio, his journey and take on music and music making is sure to help you love music more!"
+description: "Strings tell a story. They're so good at making us cry. Why? How does a string quartet fit into a pop arrangement? What is it about simplicity? Harley Eblen, a Billboard #1 string arranger raised in Hawaii, joins the pod to talk cello, string arranging, and production."
 
 status: complete
 
@@ -34,9 +34,9 @@ topicsDiscussed:
   - "Finding one's musical identity"
 
 hostNote: |
-  In this thrilling episode of **Love Music More**, we dive deep into the world of strings with our guest **Harley Eblen**, a celebrated Billboard #1 string arranger. Harley takes us on a personal journey, sharing how his Hawaiian roots shaped his love for music and his intricate relationship with strings. Our conversation touches on how strings can elevate pop music to new emotional heights, and by the end, you’ll find yourself appreciating strings like never before.
-  
-  Listeners can anticipate a fascinating exploration of Harley's thoughts on music theory, arrangement, and the creative process behind string arrangements. His candid insights and unique perspectives are not only enlightening but remind us why the craft of music resonates so deeply with all of us.
+  **Harley Eblen** is a Billboard #1 string arranger raised in Hawaii, the kind of arranger who can take a string quartet and make it carry a pop song's emotional weight. His mother played him a Stevie Ray Vaughan CD when he was two days old and, by his account, he stopped breathing to listen. He heard cello on the radio at nine or ten and knew that was the instrument.
+
+  We trace the move from classical training into bluegrass, Irish music, and pop arranging, and what he calls the taste gap: the space between technical training and having something to say with it. Music is his first language and his outlet, he's direct about that, and about the satisfaction that comes from work that heightens someone else's music rather than his own.
 
 selectedMoments:
   - label: "Harley's early music influence"

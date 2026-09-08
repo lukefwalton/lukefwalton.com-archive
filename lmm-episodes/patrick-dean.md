@@ -31,9 +31,9 @@ topicsDiscussed:
   - "Balancing perfection with spontaneity"
 
 hostNote: |
-  On this episode, we welcome Patrick Dean, a talented guitarist, educator, and social media influencer who shares his journey through the world of music. **Patrick's insights into guitar playing and teaching bring a fresh perspective**, making this episode valuable for musicians of all levels. We explore the importance of maintaining joy in music, the impact of mentorship, and how social media can be a powerful tool for spreading the love of music.
+  **Patrick Dean** is a guitarist, educator, songwriter, producer, and, as he puts it himself, a social media wizard. He found real joy in guitar in high school once he had a mentor pushing him, and that mentorship, and the positive reinforcement behind it, is what he still tries to pass on to the people he teaches.
   
-  Through candid stories and practical advice, Patrick encourages listeners to find their own path in music while appreciating the joy that comes from it. His experiences from music school to session work paint a vivid picture of the ups and downs of a musician's life, offering inspiration and insight for aspiring guitarists and music lovers alike.
+  We talk through how social media and visual learning can expand a player's vocabulary by osmosis, how he balances composition with spontaneity in his own writing, and why finding people outside your own instrument pushes you further than staying inside your lane ever will. He also gets into how he adapted his teaching for online platforms without losing what made in-person lessons work.
 
 selectedMoments:
   - label: "Patrick's journey to serious guitar playing"

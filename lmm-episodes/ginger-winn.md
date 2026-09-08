@@ -1,7 +1,7 @@
 ---
 title: "Chains of Influence: David Baron (Noah Kahan, Lana Del Rey, Lenny Kravitz) & Ginger Winn"
 
-description: 'Join us for an intimate conversation with renowned producer/musician David Baron and artist Ginger Winn as they unravel the creative process behind their mesmerizing album "Stop Motion." Discover how these two musical potion makers found their collaborative rhythm and transformed their individual artistic visions into a seamless sonic journey. From studio magic to songwriting secrets, Baron and Winn share the stories and inspirations that shaped their June 2024 release. David brings his extensive experience working with artists like The Lumineers, Shawn Mendes, and Matt Maeson to this unique collaboration, while Ginger contributes her distinctive voice and songwriting perspective.'
+description: 'David Baron and Ginger Winn on making the album "Stop Motion" together, released in June 2024. David has produced for The Lumineers, Shawn Mendes, and Matt Maeson; Ginger is the artist finding her own voice on the record.'
 
 status: complete
 
@@ -30,9 +30,11 @@ topicsDiscussed:
   - "The significance of live performance"
 
 hostNote: |
-  In this episode of Love Music More, **David Baron** and **Ginger Winn** " David, a renowned producer with an impressive history alongside artists like Noah Kahan and Lana Del Rey, brings a wealth of experience to the table. Ginger, an emerging artist with a unique voice, shares her journey and insights that shaped the album. The conversation reflects on the challenges and triumphs of navigating the music industry today, especially for those on the brink of breaking through.
-  
-  This episode is not only enlightening but also inspiring for anyone interested in the art of music-making and the evolving landscape of the industry.
+  The title is Chains of Influence, and it names what this conversation is about: how **David Baron**'s years of production experience and **Ginger Winn**'s newer voice as an artist fed into each other while they made the album *Stop Motion*, released in June 2024. David's credits include The Lumineers, Shawn Mendes, and Matt Maeson; a co-writer's email is what put him and Ginger in the same room in the first place.
+
+  We get into Ginger's first tour, alongside the Gypsy Kings, and how performing live differs from anything a studio session prepares you for. David explains why he records for the energy in the room rather than just the notes on the page, and Ginger talks about how isolation shaped the songs that became *Stop Motion*.
+
+  The conversation closes on why they both keep doing this: music as a way to connect to something bigger than either of them, and the long road each of them took to get here.
 
 selectedMoments:
   - label: "Introduction to Ginger and David's collaboration"

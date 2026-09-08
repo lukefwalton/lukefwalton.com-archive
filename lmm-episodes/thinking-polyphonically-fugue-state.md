@@ -30,9 +30,11 @@ topicsDiscussed:
   - "Compositional Techniques"
 
 hostNote: |
-  In this episode of *Love Music More*, I dive deep into the evolution of Western music from Gregorian chant to the complexity of polyphony, drawing parallels to modern pop music. I explore why studying composers like Bach remains relevant and how these principles can inform today's music-making practices.
-  
-  This episode is a beautiful blend of music theory and practical insights for anyone wanting to enrich their appreciation and understanding of music.
+  Bach is the vitamins-and-pushups of music theory. Transcribing his fugues is how you train a polyphonic mindset: the ability to hear several melodies as independent lines, rather than one sitting on top of a stack of chords.
+
+  I trace that idea from Gregorian chant, monophonic, one melody, one voice, through the arrival of polyphony and counterpoint, into what voice leading really means: every chord already contains multiple notes that can move independently, like a bass line and a vocal melody doing their own dance and then meeting back up.
+
+  A fugue, it turns out, is just another song form, the same idea as verse-chorus-bridge wearing different clothes. Composition rewards patience in a way performance doesn't: you get to tweak it, sleep on it, and come back the next day.
 
 selectedMoments:
   - label: "Introducing Voice Leading Concepts"

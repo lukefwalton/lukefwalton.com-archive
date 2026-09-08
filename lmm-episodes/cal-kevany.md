@@ -30,9 +30,11 @@ topicsDiscussed:
   - "Development of personal music style"
 
 hostNote: |
-  In this episode of **Love Music More**, we chat with guitarist **Cal Kevany**, known for his work with artists like Wallice and Albert Hammond Jr. Take a deep dive into the nuances of touring life and how it differs from the first to the hundredth show. Cal shares his journey from a local musician in San Diego to navigating the complexities of being on the road, revealing the endurance required and the unexpected moments that come with performing live.
-  
-  Expect fascinating insights as Cal discusses the importance of a good tour manager, the challenges of running tracks without a full band, and how a jazz background informs his approach to indie rock music. This episode is packed with stories that emphasize the communal and expressive power of music while underscoring the necessity of maintaining one’s health on the road.
+  We talk with **Cal Kevany**, guitarist, engineer, and producer who has toured with **Wallice**, **Albert Hammond Jr.**, and **JW Francis**. The episode title question is what changes between the first show and the hundredth: less thrill, more logistics, more fast food.
+
+  We get into touring without a full band (running tracks live), the trick of learning songs fast with Roman numerals instead of by ear alone, and the physical toll of two straight weeks on the road, his neck was still catching up after. Cal also talks about how a jazz background feeds his indie-rock playing, and about posting musical ideas on TikTok for the fun of it, before it became a strategy.
+
+  The episode closes on why he keeps doing it: the friendships and community that only show up when you make music with other people instead of alone in a room.
 
 selectedMoments:
   - label: "Introduction to Cal's Journey"

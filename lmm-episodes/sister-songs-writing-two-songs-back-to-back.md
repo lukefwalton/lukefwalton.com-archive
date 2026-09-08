@@ -29,7 +29,11 @@ topicsDiscussed:
   - "Artistic viability"
 
 hostNote: |
-  In this introspective solo episode, I share my insights on the unique creative process behind what I refer to as "sister songs." By writing quickly and in batches, I capture fleeting moments that reflect my evolving sense of self, a theme intricately connected to my upcoming record cycle, Möbius. I reflect on my growth as a songwriter, offering a candid look at my creative mindset as I prepare to unveil my latest single, "Stories."
+  Sister songs are what I call two tracks written back to back, close enough in time that they come from the same emotional weather. Writing fast like that isn't just about output, it's about catching a version of yourself mid-change before it's gone, since most of who you are is in flux, not fixed.
+  
+  I get into why revisiting old songs can be uncomfortable, you're hearing a self you've already moved past, and how that discomfort actually shows how much you've grown. This connects to Möbius, my next record cycle: reconnecting with who I used to be to figure out who I'm becoming, instead of running from it. "Stories," the first single, comes straight out of that idea.
+  
+  If you're putting out a record or two a year, people who like one sister song tend to like the other. Speed isn't a shortcut here, it's how you keep the moment honest.
 
 selectedMoments:
   - label: "Discussing the creative process and the need for breaks"

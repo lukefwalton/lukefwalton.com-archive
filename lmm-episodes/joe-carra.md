@@ -1,7 +1,7 @@
 ---
 title: "Pockets Of Presence with Joe Carra (Hiatus Kaiyote, Middle Kids, Pond)"
 
-description: "With more than 30 years of experience, Grammy nominated, mastering engineer, Joe Carra, is the chief engineer at Crystal Mastering. He joins the pod to talk about the history, the present, and the future of the audio world. He dives into his Dolby Atmos setup and tips for managing such a stacked roster of musicians. As a mastering engineer, he has a unique perch, working on thousands of songs per year. So it’s great to hear his take on the whole thing and where this crazy industry is headed."
+description: "With more than 30 years of experience, Grammy nominated, mastering engineer, Joe Carra, is the chief engineer at Crystal Mastering. He joins the pod to talk about the history, the present, and the future of the audio world. He walks through his Dolby Atmos setup and tips for managing such a stacked roster of musicians. As a mastering engineer, he has a particular vantage point, working on thousands of songs per year. So it’s great to hear his take on the whole thing and where this crazy industry is headed."
 
 status: complete
 

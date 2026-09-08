@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Voice Leading"
 
 hostNote: |
-  In this episode of *Love Music More*, I dive into the fascinating world of music theory, specifically focusing on chord inversions and harmony. I explore how the arrangement of notes (what positions they're in and how they're voiced) affects their sound and feel. **Understanding these concepts can transform your approach to music, **
-  
-  By sharing insights and demonstrations using a MIDI keyboard, I illustrate how to think about musical notes not just as isolated entities but as integral parts of a larger structure. This episode serves as an invitation to rethink how you perceive and create music.
+  Chords aren't fixed objects, they're arrangements: the same notes, voiced and positioned differently, carry different weight and feeling. I start from that idea and build outward into inversions and harmony.
+
+  I walk through notes as points in space, C as the anchor example, why the same note lands differently across octaves the way a color can shift in different light, and a geometric way of picturing chords, almost like small architecture, that makes stacking and voicing easier to hear before you play them. On a MIDI keyboard, I get into how spacing and timbre shape emotion, and why treating music theory as a grammar, a way to name what you're already doing, not a cage, makes the whole thing more useful.
+
+  The episode closes on intent, with the guitar as the focal example: you can invent your own language on an instrument, but understanding the shared one means you can actually communicate what you're going for.
 
 selectedMoments:
   - label: "Introduction to Harmony and Inversions"

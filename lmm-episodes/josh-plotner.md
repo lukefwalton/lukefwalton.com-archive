@@ -35,7 +35,7 @@ topicsDiscussed:
 hostNote: |
   **Josh Plotner** has played around 120 instruments, which is a number that sounds like marketing until he explains the logic: "It's easier to learn more once you know more." Each new instrument lowers the threshold for the next one. He wanted saxophone at age 3, fell in love with flute and clarinet in high school when orchestra clicked, and built from there into a career spanning Broadway, The Marvelous Mrs. Maisel, Babylon, Meghan Trainor, and anime recordings including Naruto and Avatar.
   
-  We talk through multi-instrumentalism as accumulative skill rather than novelty, what it actually looks like to build that range across a career, what non-western instruments add to the palette, and what music education looks like when it works. The thread is curiosity as a professional practice: the same instinct that sent him to saxophone at 3 is the same instinct that keeps adding instruments now.
+  We talk through multi-instrumentalism as accumulative skill rather than novelty, what it actually looks like to build that range across a career, what non-western instruments add to the palette, and what music education looks like when it works. Curiosity runs through all of it as a professional practice: the same instinct that sent him to saxophone at 3 is the same instinct that keeps adding instruments now.
 
 selectedMoments:
   - label: "Josh's early love for music"

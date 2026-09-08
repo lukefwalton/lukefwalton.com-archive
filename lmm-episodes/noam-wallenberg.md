@@ -34,9 +34,9 @@ topicsDiscussed:
   - "Collaborative processes in production"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Noam Wallenberg**, known for his innovative work with artists like Vulfpeck and Anderson .Paak. Noam shares his insights on music production, emphasizing how creative limitations can drive unique artistic outcomes. We explore the challenges and triumphs of mixing a live record while maintaining the essence of a studio recording, providing a fascinating glimpse into the mind of a producer who thrives under unconventional constraints.
+  **Noam Wallenberg** has made records with **Vulfpeck** and **The Fearless Flyers**, and he's built a whole approach around creative limitations: tracking with the "wrong mics" on purpose, mixing a live record like it was cut in a studio. We get into how he handles microphone bleed and volume writing on a live mix, and why he leans on that over compression when the setting calls for it.
   
-  This conversation is not just for producers but for anyone who loves music and wants to understand the magic behind the scenes.
+  We also talk about what tape actually does to a recording, and how the unconventional route (the constraint you didn't choose but decided to work with) tends to land somewhere better than the safe one. Noam says outright that making records is a selfish pursuit for him: he does it because it's fun, and he tries to make moments for someone else the way music once did for him.
 
 selectedMoments:
   - label: "Introduction to Noam Wallenberg and Vulfpeck"

@@ -1,7 +1,7 @@
 ---
 title: "Not So Classical: Genre Pockets, Cello and The Unconscious with Greg Byers"
 
-description: "The orchestra is the traditional path, but how are musicians that play orchestral instruments really making their living? Greg walks through the interweaving tapestry that add up to a career, and how unlikey passions like Brazilian Jiu Jitsu can improve your playing. Listen to Greg's work and hire him at: CelloGreg.com This podcast episode was brought to you by Vinyl Moon. Check them out and get your first vinyl for free!"
+description: "The orchestra is the traditional path, but how are musicians who play orchestral instruments really making their living? Greg walks through the pieces that add up to a career, and how an unlikely passion like Brazilian Jiu Jitsu can improve your playing."
 
 status: complete
 
@@ -29,7 +29,9 @@ topicsDiscussed:
   - "Early music education"
 
 hostNote: |
-  In this episode of Love Music More, host Luke Walton sits down with the incredibly versatile musician **Greg Byers**. With a background that spans performance, composition, and education, Greg sheds light on the unconventional paths cellists can take in today's music landscape. Their discussion navigates through genre boundaries, the nuances of performance, and even dives into how unexpected hobbies, such as Brazilian Jiu Jitsu, can enhance musicality. Greg's journey is a testament to the power of creativity and resilience in the pursuit of a fulfilling career in music.
+  **Greg Byers** is a cellist and composer affiliated with the New Directions Cello Festival and the Seifert International Jazz Competition. His mother wanted him on violin; his teacher steered him to cello instead, reasoning there would always be fewer cellists competing for work.
+
+  We get into the actual economics of an orchestral instrument: a finite number of professional orchestra chairs against a much larger pool of trained players, and why building a career outside that path means picking a clear goal and saying yes to unexpected work. Brazilian Jiu Jitsu comes up as more than a hobby, Greg argues the body performs better under pressure, not worse, and draws a direct line between sparring and musical improvisation. Joni Mitchell's genre-hopping career is the example he returns to for what it looks like to keep evolving instead of settling into one lane.
 
 selectedMoments:
   - label: "Introducing Greg and his cats"

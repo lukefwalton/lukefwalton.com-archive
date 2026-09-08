@@ -32,9 +32,11 @@ topicsDiscussed:
   - "Maintaining artistic integrity in commercial spaces"
 
 hostNote: |
-  In this episode of the Love Music More podcast, we sit down with **Håkan Persson**, a multifaceted musician and producer from Sweden. Håkan is a true testament to the DIY ethic, having built his career through collaboration and community. His projects, from **Swedish Red Elephant** to **I Don't Speak French**, showcase a unique blend of genres and the evolving landscape of music in today's world.
-  
-  His heartwarming philosophy on music emphasizes community and creativity, making this episode not just an interview, but a celebration of artistic freedom.
+  Håkan Persson writes, produces, and runs a label out of Sweden, and he traces all of it back to his mother's love of music and to writing his first song at eight years old. He's since built **Swedish Red Elephant** into a 65-million-stream electronic project, placed songs with **I Don't Speak French** in commercials and TV, and founded the label **Indieshake** on a DIY, community-first ethic.
+
+  We talk through his path from the punk and indie scene into electronic music, a genre he says he hated the first time he heard it before falling into writing top lines for it, and what changed his mind. He walks through how sync licensing actually works for an indie artist, why brands are often more open to unusual indie voices than people assume, and where he draws the line on selling out: "there are different degrees of selling out."
+
+  The conversation keeps returning to community: Håkan's belief that going far in music means going together, and how Sweden's grassroots label culture makes that possible in practice.
 
 selectedMoments:
   - label: "Håkan's love for music from a young age"

@@ -29,7 +29,9 @@ topicsDiscussed:
   - "Artistry vs. Structure"
 
 hostNote: |
-  In this solo episode, I delve into the intriguing question of why there are **12 musical notes** in Western music. I explore the concept's roots, tracing back to **Pythagoras** and his fascinating ideas about sound as mathematics. The episode examines how this seemingly arbitrary system shapes our perception of music and the implications of focusing solely on the perfect fifth.
+  Why does Western music have 12 notes? I trace it back to **Pythagoras** and his 3:2 ratio, the "perfect fifth": stack that ratio twelve times and you land almost exactly back where you started, which is the whole reason we ended up with 12.
+  
+  I walk through the math with actual notes so it's audible, not abstract, and then get into why the system is mostly arbitrary: it's the tuning that stuck because the culture that used it spread. I also make the case for paying attention to the perfect octave as a more inclusive way into music beyond the standard 12, and set up where the show goes next: how those notes actually work together in harmony.
 
 selectedMoments:
   - label: "Pythagoras and Musical Notes"

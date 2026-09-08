@@ -1,7 +1,7 @@
 ---
 title: "Of Signals and Systems with Nolan Lem (Sound Researcher and Auditory Artist)"
 
-description: "Nolan Lem’s work has been featured internationally at venues such as the Museum of Modern Art Buenos Aires, Pioneer Works , L’HOSTE Art Contemporain , and the Danish National Museum of Music. He has participated in a number of residencies, including IRCAM, MassMoCA, Cité Internationale des Arts, and the Bemis Center for Contemporary Arts. Nolan joins us to explore his fascinating work with interactive sound systems and sonic machinery. Drawing from his unique background in saxophone performance, electrical engineering, and computer music, Nolan shares how he creates immersive audio-visual environments that bring together technology, sound, and systems thinking. From his time at Stanford's CCRMA to his current research at Chalmers University, discover how Nolan's innovative approach is pushing the boundaries of contemporary sound art."
+description: "Nolan Lem’s work has been featured internationally at venues such as the Museum of Modern Art Buenos Aires, Pioneer Works , L’HOSTE Art Contemporain , and the Danish National Museum of Music. He has participated in a number of residencies, including IRCAM, MassMoCA, Cité Internationale des Arts, and the Bemis Center for Contemporary Arts. Nolan joins us to talk through his work with interactive sound systems and sonic machinery. Drawing from his background in saxophone performance, electrical engineering, and computer music, Nolan shares how he creates immersive audio-visual environments that bring together technology, sound, and systems thinking. From his time at Stanford's CCRMA to his current research at Chalmers University, discover how Nolan's innovative approach is pushing the boundaries of contemporary sound art."
 
 status: complete
 
@@ -32,9 +32,9 @@ topicsDiscussed:
   - "Sonification of data"
 
 hostNote: |
-  In this episode of Love Music More, we are thrilled to welcome **Nolan Lem**, a sound researcher and auditory artist whose work offers fresh insights into the interplay between sound and technology. Nolan's unique journey spans jazz performance, electrical engineering, and sound art, opening the door to new sonic experiences that challenge our understanding of music and sound production. Prepare to delve into his innovative approach to immersive audio-visual environments and how he melds artistic expression with technical expertise.
-  
-  We explore how sound can influence perception and create emotional memories, and how Nolan's journey from jazz performance through electrical engineering to sound art research informs the work he's doing now.
+  **Nolan Lem** is a sound researcher and auditory artist whose work has shown at the Museum of Modern Art Buenos Aires, Pioneer Works, and the Danish National Museum of Music, with residencies at IRCAM, MassMoCA, and the Bemis Center. He trained as a jazz saxophonist first, toured and played gigs out of Miami, then folded in electrical engineering, a combination he describes as balancing intellectual curiosity with something that still connected to a future in music.
+
+  We get into what that combination actually produces: sound generated mechanically through physical systems rather than triggered digitally, the binaural work he's done from his time at Stanford's CCRMA through his current research at Chalmers University, and what he calls the trust and art involved in sonification, turning data into something you can hear and feel.
 
 selectedMoments:
   - label: "Nolan's diverse background"

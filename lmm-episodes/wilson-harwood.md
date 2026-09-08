@@ -33,9 +33,9 @@ topicsDiscussed:
   - "Best practices for soundproofing"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Wilson Harwood**, a seasoned soundproofing designer and musician who's on a mission to help creative professionals build the ideal studio environment. For anyone looking to enhance their sound quality or create a home studio, Wilson shares invaluable insights into the world of acoustic design. We delve into the complexities of soundproofing versus sound treatment, the challenges of DIY construction, and the decisions that can make or break your studio's acoustics.
+  **Wilson Harwood** is a musician first, a producer second, and now a studio designer and acoustician, running **Soundproof Your Studio** out of Nashville. He came up DIY, which makes his case for hiring a professional land harder: soundproofing means a room that's completely airtight, no leaks, a ton of mass, and that's a different job from sound treatment, which is about how a room sounds once you're inside it.
   
-  By unpacking the differences between treating a space for sound versus completely isolating it, Wilson opens up a new perspective on how to approach studio design. Tune in to gain a deeper understanding of how to tackle the often daunting world of soundproofing, and find out why sometimes hiring a professional can save you both time and money in the long run.
+  We get into what DIY soundproofing gets wrong, what sound isolation actually requires, and realistic numbers for budgeting a build (professional studios in the $25,000 to $30,000 range, depending on materials and design). Wilson is upfront about his bias toward hiring pros, and just as direct about the payoff: a space that's really yours, and feels like it.
 
 selectedMoments:
   - label: "Difference between soundproofing and sound treatment"

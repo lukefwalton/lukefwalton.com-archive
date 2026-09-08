@@ -33,9 +33,11 @@ topicsDiscussed:
   - "Making decisions in production"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with **Ben Rice**, a notable producer at the helm of the Brooklyn music scene. With a career working alongside icons like Norah Jones and The National, Ben shares his unique perspective on production and creativity. He effortlessly combines chill vibes with profound insights, allowing listeners to appreciate the behind-the-scenes craft that shapes their favorite songs.
+  **Ben Rice** has run **Degraw Sound** in Gowanus, Brooklyn since 2012, making records with **The National**, **Norah Jones**, and **Joan Osborne**, among others, and picking up an Americana Producer of the Year nomination along the way. The episode itself runs at his pace: unhurried, no rush anywhere in it.
   
-  Ben's approach to music production is deeply rooted in his understanding of the artist's journey. As he guides us through his creative process, we explore what it truly means to be the 'fifth Beatle' in a band and how fostering a nurturing, collaborative environment can transform music from a simple idea into a polished masterpiece.
+  We talk about the producers who shaped how he works, especially **Gus Van Gogh**, whose patience became the model for his own nurturing approach, and about how creating a comfortable, trusting space is most of the job before a single fader moves. Ben describes the producer-artist relationship as one where the artist hands over real trust, since it's their one shot at the record, and why staying as present as you're asking the band to be matters more than any plugin chain.
+  
+  We close on crate-digging for the buried gem in a take, and on why, plugins or real instruments, it comes down to commitment either way.
 
 selectedMoments:
   - label: "Ben introduces himself and his studio"

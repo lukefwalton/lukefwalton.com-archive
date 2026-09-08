@@ -29,9 +29,11 @@ topicsDiscussed:
   - "Resilience in the Industry"
 
 hostNote: |
-  In this reflective solo episode, **I** welcomes the new year by looking back on the incredible conversations of 2025. By recapping highlights from various guests, I draw connections between their insights and the universal love of music. **This episode serves as a heartfelt reminder of the rich tapestry of stories and experiences that shape the music industry.** 
-  
-  I navigates through the lessons I learned from engaging with artists and professionals of all genres.
+  Every year I look back on the guest conversations and ask what they had in common. This is that look back: what a year of talking to other musicians actually taught me.
+
+  David Barron and Ginger Wynn both showed up as apprenticeship stories, learning the business by working next to someone who already knew it. Nolan Lem merged research with art. Sam Fishman kept crossing the line between technical and non-technical work without treating it as a line at all. Fernando Pardomo talked about blending someone else's sound with your own vision when you're mixing for other artists.
+
+  The through-line is osmosis: music cannot be taught, only learned, because you have to actually be part of it. I keep coming back to the left turns and alleyways I didn't know existed, the paths nobody plans for. By the end it's a dance between all of these things, technical and personal, planned and accidental, and that dance is the unifying thing this whole show keeps circling: the love of music.
 
 selectedMoments:
   - label: "I reflect on the year and his favorite guests."

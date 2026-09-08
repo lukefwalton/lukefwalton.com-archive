@@ -31,9 +31,11 @@ topicsDiscussed:
   - "Advice for aspiring artists"
 
 hostNote: |
-  In this episode of Love Music More, we dive deep into the inspiring journey of **Kyle Pulley**, a talented music producer, audio engineer, and bassist based in Philadelphia. With a wealth of experience working alongside notable artists like **Alex G** and **Dr. Dog**, Kyle offers a unique perspective on the music industry, touching upon the challenges and triumphs one faces in building a successful career. His narratives about studio life (from being evicted from one space to establishing a flourishing new studio) resonate with anyone who's navigated the ups and downs of artistic endeavors.
-  
-  Kyle emphasizes the importance of relationships and support in the music scene, making this episode a
+  **Kyle Pulley** produces, engineers, and plays bass in Philadelphia, co-owns **Headroom Studios**, and plays in the band **Thin Lips**. He's worked with **Alex G**, **Dr. Dog**, and **Mo Lowda & the Humble**. The through-line of the conversation is what it actually takes to build a career and a studio step by step, including the studio he built getting sold out from under him along the way.
+
+  We get into why Philadelphia works the way it does: less competitive than LA or New York, a scene that holds together because enough people decided to stick around and build something. Kyle talks about moving studios mid-pandemic, what he looks for in a mix (parallel processing, chasing the right "vibe" for a record over a formula), and having a song land in a film.
+
+  The episode closes on why he does any of it: music, he says, can heal people and their trauma, and make them feel less alone.
 
 selectedMoments:
   - label: "Kyle's journey in music production"

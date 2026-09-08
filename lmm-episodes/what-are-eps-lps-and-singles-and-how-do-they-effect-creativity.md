@@ -25,9 +25,9 @@ topicsDiscussed:
   - "History of EPs and LPs"
 
 hostNote: |
-  In this episode, I explore the relationship between musical formats like EPs, LPs, and singles, and their impact on creativity. I share insights gathered from my own experiences, including a recent live performance that highlighted how limitations can breed innovation. This episode is a deep dive into how parameters influence artistry and offer listeners a fresh perspective on embracing creativity within constraints. 
+  A recent live performance in a record store, playing in a space that shaped the sound in ways I didn't choose, is what got me thinking about formats: EPs, LPs, singles, and how each one's limits actually push creativity rather than block it.
   
-  I discuss not just the history but the potential to reframe how we think about and utilize these traditional structures in contemporary music-making.
+  I get into where these formats come from and what they mean, why an album side has its own narrative arc (you can hear where Sgt. Pepper's side ends before the vinyl tells you), and how a length limit can turn an infinite range of ideas into something you can actually finish. I also talk about a meta cycle I'm planning across future releases, using format itself to tell a bigger story over time.
 
 selectedMoments:
   - label: "Creative Limitation in Live Settings"

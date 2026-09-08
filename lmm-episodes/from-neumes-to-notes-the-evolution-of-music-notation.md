@@ -1,7 +1,7 @@
 ---
 title: "From Neumes to Notes: The Evolution of Music Notation"
 
-description: "How do you write music down? How do I convey my musical ideas to you without being in the same room or without recorded music? These questions have puzzled musicians for thousands of years! But now, the question is: Is our current method of music notation the best it can be? Should innovation stop here? Join us as we break down the history of music notation and explore its future in this episode of LMM."
+description: "How do you write music down? How do I convey my musical ideas to you without being in the same room or without recorded music? These questions have puzzled musicians for thousands of years! But now, the question is: is our current method of music notation the best it can be? Should innovation stop here? I break down the history of music notation and where it might go next."
 
 status: complete
 

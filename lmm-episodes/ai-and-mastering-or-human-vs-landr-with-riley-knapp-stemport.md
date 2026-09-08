@@ -25,9 +25,11 @@ topicsDiscussed:
   - "The rise of Stemport"
 
 hostNote: |
-  In this episode, we sit down with **Riley Knapp**, mastering engineer and co-founder of Stemport, as he dives deep into the evolving landscape of audio mastering in the age of AI. Riley shares his candid experiences navigating the challenges posed by AI mastering tools like LANDR, offering insights into how these technologies have not only impacted the industry but also transformed his approach to creativity and sound. This conversation is particularly important as it sheds light on the balance between embracing new technologies while safeguarding the artistry that defines music creation.
+  **Riley Knapp** is a mastering engineer and co-founder of **Stemport**, the audio software company he built to fix how engineers organize and label stems. He also runs an EPIC program of his own and has run direct shootouts pitting his mastering against **LANDR**, the AI mastering tool.
   
-  Riley's perspective on the intersection of technology and artistry is both candid and practical, he's lost work to LANDR and adapted, which makes this more than just a discussion about the future.
+  We talk about what it's like to lose real business to LANDR and adapt anyway. "I'm so lucky that I got into the game when I did," he says, while admitting it has already taken a real chunk of his work. Riley walks through how AI is changing listening habits, where he still finds room to add something a tool can't, and what Stemport solves for engineers stuck in workflow problems.
+  
+  The conversation widens at the end into music's outsized pull on economics and culture, and why Riley keeps adopting the tools that threaten his own business while still defending what a human ear adds.
 
 selectedMoments:
   - label: "Discussion on AI challenges"

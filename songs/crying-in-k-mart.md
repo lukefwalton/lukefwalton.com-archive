@@ -24,6 +24,6 @@ draft: false
 
 Track **3** on [**applied communications has a midlife crisis**](/albums/applied-communications-has-a-midlife-crisis/), **Applied Communications** (Max Wood). Part of the five-song **April 2024** comeback EP **mixed by Luke Francis Walton (Scoobert Doobert)** and **mastered by Riley Knapp** ([V13](https://v13.net/2024/04/applied-communications-share-oxytocin-drunk-single-from-new-ep/), [Northern Transmissions](https://northerntransmissions.com/listen-to-a-new-single-from-applied-communications/)).
 
-Mixing credit page: Max Wood wrote the lyrics.
+Mixing credit: Max Wood wrote the lyrics.
 
 ---

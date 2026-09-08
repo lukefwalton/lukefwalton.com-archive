@@ -27,7 +27,7 @@ topicsDiscussed:
 hostNote: |
   "I don't want a sugar daddy, I want an enchilada mama", that line sparked joy the moment it came out, and it's also a pretty good summary of what makes AI music generation interesting when you stop trying to make it sound serious. Burrito Bot, my side project dedicated entirely to songs about Mexican food, turned into a genuine laboratory for figuring out where these tools break down and where they don't.
   
-  The thing that really unlocked it was writing my own lyrics rather than letting the AI do it. AI lyric generation is still the weakest link, but plugging that gap with human taste elevates the whole thing. BBL Drizzy is the more high-profile example: a voice transform done with AI, anonymously, that went viral. The tools are already in use; the question is how.
+  The thing that really unlocked it was writing my own lyrics rather than letting the AI do it. AI lyric generation is still the weakest link, but plugging that gap with human taste is what makes the whole thing work. BBL Drizzy is the more high-profile example: a voice transform done with AI, anonymously, that went viral. The tools are already in use; the question is how.
   
   A lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools. I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.
 

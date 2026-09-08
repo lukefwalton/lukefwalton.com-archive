@@ -6,13 +6,13 @@ origin: "https://www.surmado.com/blog/what-makes-scout-different"
 draft: false
 ---
 
-[Scout](/glossary/#scout) is not a ChatGPT wrapper.
+[Scout](https://www.surmado.com/glossary/#scout) is not a ChatGPT wrapper.
 
 A lot of tools are. They take one model, put a nice interface on it, and call it a product. That's fine. But it's not what we built for our customers.
 
 Scout combines 7 different AI platforms, each doing what they're best at. But they don't do the math. Traditional programming handles the deterministic stuff: the calculator logic that actually needs to be right every time. And then machine learning algorithms tie all of it together. LLMs are the strategy layer, not the audit layer.
 
-And no, we didn't just build on top of someone else's APIs. We built our own. And you can use it too. Check out the [Jobs API →](/api/).
+And no, we didn't just build on top of someone else's APIs. We built our own. And you can use it too. Check out the [Jobs API →](https://www.surmado.com/api/).
 
 -----
 
@@ -20,7 +20,7 @@ And no, we didn't just build on top of someone else's APIs. We built our own. An
 
 We're from San Diego. Our goal isn't to make AI that replaces. We don't believe in AGI or any of that mythical robot overlord stuff.
 
-Scout is here to give [business owners](/businesses/) their time back. Time they can spend with their families, at the beach, or eating burritos.
+Scout is here to give [business owners](https://www.surmado.com/businesses/) their time back. Time they can spend with their families, at the beach, or eating burritos.
 
 But we don't like tradeoffs. We want to make you richer too. Richer because the findings are good enough to drive better decisions. Scout's output should feel like a job done. Not a job started.
 
@@ -52,7 +52,7 @@ So get strategizing. On the web, on your [Android](https://play.google.com/store
 
 -----
 
-## [Strategy](/strategy/): Where It Gets Interesting
+## [Strategy](https://www.surmado.com/strategy/): Where It Gets Interesting
 
 This is our super users' favorite Job.
 
@@ -66,7 +66,7 @@ It's automated. But it's automated with care. Our prompt and context orchestrati
 
 ## Who This Is For
 
-**Marketing teams at [agencies](/agencies/).** Scout is the analyst you wish you could hire. Available on demand. Never misses a deadline. Never forgets to check the data. We love agencies. We want to give smaller, scrappier shops the same superpowers the big dogs have. Let's level the playing field.
+**Marketing teams at [agencies](https://www.surmado.com/agencies/).** Scout is the analyst you wish you could hire. Available on demand. Never misses a deadline. Never forgets to check the data. We love agencies. We want to give smaller, scrappier shops the same superpowers the big dogs have. Let's level the playing field.
 
 **Owners and founders.** You need answers, not more software to figure out. You shouldn't need to hire a consultant to understand what's happening with your digital presence. Dashboards are so 2010.
 

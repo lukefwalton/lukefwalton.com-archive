@@ -29,7 +29,11 @@ topicsDiscussed:
   - "Real-time audio tracking"
 
 hostNote: |
-  In this episode of the Love Music More podcast, we sit down with **Martin Rieger**, an expert in immersive audio and the creative mind behind VR Tonung. Martin takes us on a deep dive into the exciting world of **Spatial Audio**, illuminating its potential to transform our listening experiences. From the nuances of mixing techniques for 3D audio to the groundbreaking tools available today, this episode highlights why Spatial Audio is more than just a trend. As Martin shares his journey from film composing to revolutionary sound design, he offers concrete, practical insights from years of early adoption.
+  **Martin Rieger** started as a film composer and moved into immersive audio after discovering VR, and he now runs VRTonung as one of the early builders of Spatial Audio as a format. He's blunt about where the hype ends: "Dolby wants you to buy a lot of speakers," but you don't need them, this works on the headphones everyone already owns.
+
+  We get into what actually separates object-based audio from channel-based mixing, why that difference gives a mixer more creative freedom to place a sound anywhere in a 3D field, and where Dolby Atmos gets misunderstood in practice. Martin's been doing this for eight years and says he still learns something new regularly.
+
+  He closes on where he thinks Spatial Audio is headed next, and why he wants more listeners to actually try it and report back what they hear.
 
 selectedMoments:
   - label: "Martin's journey into immersive audio"

@@ -29,7 +29,9 @@ topicsDiscussed:
   - "Concept albums and musical experimentation"
 
 hostNote: |
-  In this solo episode, I dive into the evolution of rock music, touching on **Jimi Hendrix**'s groundbreaking performances and the chaotic energy of **The Who**. I explore how the rise of supergroups like **Cream** and the legendary **Led Zeppelin** transformed the music scene with their larger-than-life personas and musical innovation. From the dawn of classic rock to the complexities of fandom and the evolving role of the artist, I reflect on what really makes a rock star in today's landscape and the importance of creative freedom in music.
+  I get into what actually makes a rock star: **Jimi Hendrix**'s guitar innovations, the chaos of **The Who**'s stage-smashing performances, and the rise of supergroups like **Cream** and **Led Zeppelin**, who turned technical skill and excess into their own kind of persona.
+  
+  I cover how stadium technology changed what a live show could be, why concept albums like *Pet Sounds* and *Sgt. Pepper's* pushed rock toward performance art, and how the cult-like pull around these artists set expectations that shaped the genre for decades. I close on why creative freedom, the license to make more than just happy music, is what actually separates a rock star from a hit-maker.
 
 selectedMoments:
   - label: "Rock music's transformative era"

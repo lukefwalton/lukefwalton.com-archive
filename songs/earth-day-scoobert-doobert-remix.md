@@ -24,6 +24,6 @@ draft: false
 
 Scoobert Doobert remix of **“Earth Day”**: credited on streaming to **Free Your Inhibition**, **Malik LovesYall**, and **J MESA** on the original side. Malik LovesYall also appears on [*Big Hug*](/albums/big-hug/) (*Kick It in Nirvana*, *All in the Feeling*); J MESA later collabbed on [*Prisoner*](/songs/prisoner/).
 
-Remix credit page, no Scoobert original lyrics.
+Remix credit, no Scoobert original lyrics.
 
 ---

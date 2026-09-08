@@ -29,7 +29,7 @@ topicsDiscussed:
 hostNote: |
   "Every single song I'm trying to practice just being a musician, not being an instrumentalist, not being a recording engineer, not being a producer. Just a musician that uses all of these tools." That reframe is the whole argument here.
   
-  The starting point is always the same: I want to make music. Direction doesn't matter. From there, every song is a chance to practice being all the things at once, composer, engineer, performer, without switching modes. I use the image of laying bricks on a three-story house: you're picturing the next 25 bricks while placing the current one, and the house evolves as you go.
+  The starting point is always the same: I want to make music. Direction doesn't matter. From there, every song is a chance to practice being composer, engineer, and performer in the same pass, without switching modes. I use the image of laying bricks on a three-story house: you're picturing the next 25 bricks while placing the current one, and the house evolves as you go.
   
   Quick can be honest. Quick is fun. And it means you get to make more instead of dwelling on one thing until it stops meaning anything.
 

@@ -32,7 +32,11 @@ topicsDiscussed:
   - "Raising musically-inclined children"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Gustav Brunn**, an accomplished music producer and mixing engineer hailing from Lund, Sweden. Gustav shares his journey from learning the ropes of recording in compulsory school to touring internationally with bands like Atlas Losing Grip and eventually shifting his focus to the world of mixing and mastering. Through his insights,
+  **Gustav Brunn** grew up in Lund, Sweden, with access to a recording studio in compulsory school by age 10 or 11, the kind of early start that led to touring internationally before he shifted his focus to mixing and mastering. He runs AllinAudio.se now, and has gone on to win Swedish Grammys for that work.
+  
+  We trace that path from a kid begging for an Alice Cooper CD to forming bands with his brother, to the practical gear philosophy he holds now: get to know one or two microphones intimately before adding more, and know when not to touch something rather than over-processing it. He also talks about live sound versus studio recording, and how the two inform each other more than people expect.
+  
+  The second half turns to what changes once you're both a father and an entrepreneur: staying productive with less time, how Sweden's system benefits young musicians, and the nerves that come with mixing for artists at a higher profile than yourself.
 
 selectedMoments:
   - label: "Introduction and background"

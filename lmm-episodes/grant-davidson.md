@@ -1,7 +1,7 @@
 ---
 title: "Songwriting, TikTok and Determinism with Slow Leaves (Grant Davidson)"
 
-description: "Slow Leaves joins the pod as a very special guest to discuss his take on songwriting, fingerstyle guitar, philosophy, TikTok videos, and the how the weather in Winnipeg, Canada influences art. Questions? Wanna hear our music? Head on over to"
+description: "Grant Davidson of Slow Leaves joins the pod to talk songwriting, fingerstyle guitar, philosophy, TikTok, and how the weather in Winnipeg shapes what he writes."
 
 status: complete
 
@@ -28,9 +28,9 @@ topicsDiscussed:
   - "Navigating online presence as an artist"
 
 hostNote: |
-  In this episode of the Love Music More podcast, **Grant Davidson** of Slow Leaves joins us for an enlightening conversation about the intricacies of songwriting, the impact of seasonal changes in his hometown of Winnipeg, and the influence of modern platforms like TikTok on artistic expression. As a dedicated musician, Grant shares his experiences navigating the creative landscape while discussing the delicate balance between inspiration and the craft of songwriting. 
+  **Grant Davidson** records as **Slow Leaves** out of Winnipeg, and the Winnipeg weather is part of the conversation: winter days that go dark at 4:30 p.m. shape how and when he writes. We talk through the difference between songs that come easy (his best material, generally written in a day or two) and songs that take real craft, and why he trusts that instinct now.
   
-  This episode is a reflective exploration that inspires individuals, whether they are seasoned creators or just starting out, to find their unique voice in the world of music and art.
+  Grant also talks about leaving a stable job for music, the vulnerability of putting work on TikTok and finding his voice there, and the plain fact that most people doubting themselves are having the same doubts everyone else is. He describes fingerstyle guitar as central to his sound, and why creating, in whatever form it takes, is something he could not walk away from.
 
 selectedMoments:
   - label: "Seasonal impact on songwriting"

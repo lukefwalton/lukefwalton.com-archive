@@ -28,7 +28,9 @@ topicsDiscussed:
   - "Emotional Composition"
 
 hostNote: |
-  In this episode, I dive deep into the concepts of knowing versus understanding in the realm of music creation and appreciation. I reflect on how these two seemingly similar ideas play contrasting roles in the journey of musicians and composers. By examining historical figures like Beethoven and the Beatles, I shed light on how practical experience often shapes a musician's voice more profoundly than theoretical knowledge alone.
+  Some people know music, some people understand it, and the best have both. I get into what separates the two: knowing is the practical stuff you get from doing, understanding is the theory underneath it.
+  
+  I look at how Beethoven started composing before his own teachers thought he was ready, and how he imitated Mozart on his way to a voice that was unmistakably his own. That leads into a comparison I keep coming back to: theory-first musicians versus musicians like the Beatles who worked mostly by ear, and why the best way to actually learn something, in music or in language, is to go out, fumble, and figure it out by doing it.
 
 selectedMoments:
   - label: "Beethoven's Early Compositional Journey"

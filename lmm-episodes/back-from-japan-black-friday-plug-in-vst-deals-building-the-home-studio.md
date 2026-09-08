@@ -1,7 +1,7 @@
 ---
 title: "Back from Japan, Black Friday Plug-in/VST Deals, Building the Home Studio"
 
-description: "The tools for making music are getting CRAZY. Let's dig into the future of audio, how the tools influence building a recording studio, and what I learned from my recent music trip to Japan. Want to hear my stuff? Check out"
+description: "The tools for making music are getting CRAZY. Let's dig into the future of audio, how the tools influence building a recording studio, and what I learned from my recent music trip to Japan."
 
 status: complete
 

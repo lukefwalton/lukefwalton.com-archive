@@ -34,7 +34,11 @@ topicsDiscussed:
   - "Finding Steady Income as a Musician"
 
 hostNote: |
-  In this episode of *Love Music More*, we dive into the intricate world of music licensing with **Ashlee Chanelle**, a Senior Enterprise Account Executive at Epidemic Sound. Ashlee brings a wealth of experience as a mix engineer and music producer, shedding light on how musicians can navigate the ever-evolving landscape of music monetization. **Throughout our conversation, Ashlee shares her unique career path, punctuated by significant milestones that shape her understanding of both the artistic and business sides of music. This episode is essential for anyone curious about the intersection of creativity and commerce in the music industry.
+  **Ashlee Chanelle** is a Senior Enterprise Account Executive at **Epidemic Sound** and, before that and alongside it, a mix engineer and music producer. Her career never went in a straight line: studios, gigs, a startup sales job that turned out to be a natural fit, and a producer's ear that never left.
+  
+  We talk about how music licensing actually works, how Epidemic Sound is bringing AI into its catalog without cutting out the musicians who make the tracks, and how she moved between the creative and business sides without losing either one. Ashlee is direct about the part most musicians skip past: how to talk to people, how to sell without it feeling like selling, and how sound design (Foley steps, notification tones, the sounds nobody names) shapes daily life more than anyone notices.
+  
+  She closes on why music has been part of her earliest memories, full stop.
 
 selectedMoments:
   - label: "Ashlee's Journey into Music Licensing"

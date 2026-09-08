@@ -34,9 +34,9 @@ topicsDiscussed:
   - "The future of music technology and Dolby Atmos"
 
 hostNote: |
-  In this episode of **Love Music More**, we are thrilled to welcome **Matt Meyer**, an accomplished drummer, voiceover artist, and team member at **Vintage King**. This conversation dives deep into the world of pro audio gear, the unique mindset of drummers, and how Matt’s career has evolved in Los Angeles’ vibrant music scene. Matt shares his journey from a small town in Illinois to becoming a sought-after musician in LA, linking his passion for drums and gear with his experiences at Vintage King, where he not only sells gear but also supports musicians' dreams.
+  **Matt Meyer** is a drummer, voiceover artist, and member of the **Vintage King** team, and this one is for anyone who loves gear as much as playing it. Matt started drumming young, credits his band instructor for lighting the spark, and traces his path through a pivotal middle school jazz band to a career built on both playing and understanding the tools.
   
-  Matt's passion for music and commitment to helping others find their sound makes this episode a
+  He talks about discovering gear through catalogs as a kid, why musicianship still matters more than the equipment, and what the **Vintage King** LA showroom does for musicians who want to actually get their ears on something before they buy it. We also get into Dolby Atmos and where he thinks audio technology is headed next.
 
 selectedMoments:
   - label: "Matt talks about his journey to drumming"

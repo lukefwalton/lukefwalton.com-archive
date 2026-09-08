@@ -25,7 +25,9 @@ topicsDiscussed:
   - "Inspiring Musicians"
 
 hostNote: |
-  In this inaugural episode of the Love Music More podcast, host **I** (also known as **I**) lays the groundwork for a journey through the world of music. Alongside stories and practical insights, I emphasize the importance of understanding the craft of music-making.
+  To appreciate a good chef, you need to know a little bit about cooking. Music isn't too different. That's the idea behind this show: I'm Scoobert Doobert, and this first episode lays out what I'm here to do, break down the techniques, ingredients, and happy accidents that turn notes into something you can't stop listening to.
+  
+  It's for musicians and non-musicians alike. Understanding a little of the craft changes how you hear everything after.
 
 selectedMoments:
   - label: "Goals of the Podcast"

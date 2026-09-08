@@ -32,7 +32,9 @@ topicsDiscussed:
   - "Navigating the commercial music industry"
 
 hostNote: |
-  In this episode of the Love Music More podcast, we’re thrilled to welcome **Joshoo**, a multi-talented musician who just returned from touring with the legendary **Peter Gabriel**. With insights drawn from his diverse musical experiences, Joshoo shares what it’s like to perform at iconic venues like Madison Square Garden and how he blends different musical influences into his own artistic voice. Joshoo also opens up about his experiences in the music industry, from landing commercials with big names like Apple to his personal journey through various genres. This episode promises to inspire both aspiring musicians and music lovers alike, as we delve into the depths of musical expression and collaboration.
+  **Joshoo** just got off the road playing trumpet in **Peter Gabriel's** band, his OG lineup of instrumentalists he calls legends in their own right. We talk about his start on trumpet in school, the mentorship of his godfather that pointed him toward jazz, and how a trumpet and a flugelhorn actually differ mechanically, not just in tone.
+  
+  We get into what it felt like performing at Madison Square Garden with musicians who, despite their age, stayed as excited about music as anyone starting out. Joshoo also tells the story of how one of his own songs ended up in an Apple commercial after a sync company picked it up, and how he thinks about music as a craft that gives back as much as he puts in.
 
 selectedMoments:
   - label: "Joshoo discusses how he began in music"

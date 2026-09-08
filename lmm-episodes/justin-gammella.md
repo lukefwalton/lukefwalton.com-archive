@@ -31,9 +31,11 @@ topicsDiscussed:
   - "Navigating music publishing deals"
 
 hostNote: |
-  In this episode of the Love Music More podcast, we sit down with **Justin Gammella**, a platinum-selling songwriter and advocate for songwriters, as we explore the changing landscape of songwriting in 2024. Justin brings his experience working with artists like FINNEAS, Bella Poarch, and Bahamas to the conversation, sharing both the challenges and opportunities that songwriters face today. The discussion ranges from the misconceptions of glamorous music careers to the reality of earning a living as a songwriter in the digital age.
-  
-  **We unpack** Justin's journey from classical musician to hit songwriter, how he navigates the complexities of the music industry, and what the future holds for creators. This episode is filled with insight on how songwriters can advocate for their rights and why it’s essential for fans to ensure that artists are compensated fairly for their work. Let's Love Music More together!
+  **Justin Gammella** is a platinum-selling songwriter who's written with **FINNEAS**, **Bella Poarch**, and **Bahamas**, and he's also an active advocate for songwriter pay through SONA. We start with the gap between how glamorous the job looks from outside and how hard it actually is to make a living writing songs for other artists.
+
+  Justin walks us from classical training into hit songwriting, what changes in a room when you're writing for someone else's voice, and how to know what you actually want from a publisher before you sign with one, "if you don't know what you want, you might not be ready for one." We get into fair pay, streaming economics, and why he thinks songwriter compensation won't move without consumers pushing for it too.
+
+  He closes on the balance between artistry and commercial pressure, and why, whatever else he's doing, music keeps pulling him back.
 
 selectedMoments:
   - label: "Opening introduction and welcome"

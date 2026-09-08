@@ -29,9 +29,11 @@ topicsDiscussed:
   - "The kazoo test: Ensuring song integrity"
 
 hostNote: |
-  In this episode of Love Music More, we welcome **Skinny Dippers**, also known as Ryan, a talented musician and collaborator deeply rooted in the Brooklyn music scene. Ryan brings his unique insights into the world of collaboration and creativity, sharing his journey from playing in various bands in Maine to establishing himself in New York City.
-  
-  Throughout the conversation, For anyone interested in the dynamics of the indie music scene or looking for inspiration in their artistic endeavors,
+  Skinny Dippers, also known as Ryan, is a friend and collaborator rooted in the Brooklyn music scene, and this is a conversation between two people who make music together, not an introduction. Ryan traces his path from playing keyboard and trumpet as a kid in Maine to guitar and vocals now, through a string of bands before landing in New York.
+
+  We get into the case for multi-instrumentalism, how playing in ensembles shaped his songwriting, and his method: Logic, songwriting classes, and what he calls the kazoo test, if a song's hook survives being hummed on a kazoo, the melody is doing its job even before the production is. Ryan also lays out the blunt economics of playing live, guaranteed expenses against unguaranteed income, and why he leans on a support crew rather than doing it all alone.
+
+  He closes on where the music is headed next: chasing the weird variations that actually feel new.
 
 selectedMoments:
   - label: "Introduction of Skinny Dippers' Background"

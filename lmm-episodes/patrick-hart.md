@@ -1,7 +1,7 @@
 ---
 title: "The Modern Composer (Video Games and Immersive Art with Patrick Hart)"
 
-description: "Patrick Hart is an artist living in Los Angeles. His music has received press in The Guardian, Billboard, The Sunday Times, Spin, and USA Today. His commissioned compositions have been performed on stage in nine countries. His art and installation work co-opts familiar tools of corporate communication to critically explore themes of capitalist ambition, AI, surveillance, and the ‘consumer family.’ Patrick has composed original score for over ten feature films, including ESPN 30 for 30 documentaries The U, Broke, and The U Part 2, and HBO’s 537 Votes. He has scored commercials for McDonalds, Microsoft, Best Buy, Google and Nike, among others. As a graphic/motion designer, past clients include the University of Toronto, UCLA, University of California Santa Cruz, and the City of Miami Beach. Patrick has a Master’s in music composition from McGill University and a Bachelor’s from the University of Miami. We talk the role of the modern composer, the unique tools and challenges, the promise of AI, and the value of music itself."
+description: "Patrick Hart is an artist living in Los Angeles. His music has received press in The Guardian, Billboard, The Sunday Times, Spin, and USA Today. His commissioned compositions have been performed on stage in nine countries. His art and installation work co-opts familiar tools of corporate communication to critically explore themes of capitalist ambition, AI, surveillance, and the ‘consumer family.’ Patrick has composed original score for over ten feature films, including ESPN 30 for 30 documentaries The U, Broke, and The U Part 2, and HBO’s 537 Votes. He has scored commercials for McDonalds, Microsoft, Best Buy, Google and Nike, among others. As a graphic/motion designer, past clients include the University of Toronto, UCLA, University of California Santa Cruz, and the City of Miami Beach. Patrick has a Master’s in music composition from McGill University and a Bachelor’s from the University of Miami. We talk the role of the modern composer, the tools and challenges, the promise of AI, and the value of music itself."
 
 status: complete
 
@@ -30,9 +30,9 @@ topicsDiscussed:
   - "Interactive music opportunities"
 
 hostNote: |
-  In this episode of Love Music More, we sit down with **Patrick Hart**, a modern composer known for his innovative work in video game scoring and immersive art. With compositions that have graced the stages of nine countries and original scores for notable films, Patrick brings a wealth of experience and insight into the evolving landscape of music. We explore the intersection of technology and creativity, discuss the role of AI, and delve into the unique challenges faced by today's composers. This episode is a deep dive into the passion and process that modern artists navigate in our ever-changing digital world.
-  
-  We uncover how Patrick's experiences across film, advertising, and installation art shape his perspective on what composers can, and should, be doing right now.
+  **Patrick Hart** is a composer who has scored more than ten feature films, including ESPN's 30 for 30 documentaries *The U*, *Broke*, and *The U Part 2*, and HBO's *537 Votes*, alongside commercial work for McDonald's, Microsoft, Best Buy, Google, and Nike. He holds a master's in composition from McGill and started with piano lessons as a kid, the kind of beginning he says he mostly moved through without overthinking it.
+
+  We trace his path from a first film score in college through advertising and into video game composition, where he now uses game engines like Unreal to build music that's interactive rather than fixed. He's blunt about the job's economics ("the number one goal is just to make stuff, make money, but also make money") and about where he lands on AI: a tool alongside the belief that everyone should be making music, rhythm or none.
 
 selectedMoments:
   - label: "Exploring music creation"

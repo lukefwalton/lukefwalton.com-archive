@@ -30,9 +30,11 @@ topicsDiscussed:
   - "John Lennon and Yoko Ono"
 
 hostNote: |
-  In this episode, I dive deep into a pivotal moment in rock history: the breakup of The Beatles and the emergence of progressive rock. **The Beatles** encapsulated the spirit of an era, influencing countless artists and the wider cultural landscape. With their dissolution, rock music was forced to evolve, paving the way for new sounds and innovations. I examine how this seismic shift not only marked the end of an era but also set the stage for a new wave of experimental music and artistry.
+  The Beatles breaking up is a mic drop, the end of rock's second wave, the one that runs from early rock and blues through the psychedelic era. I get into why that ending forced the genre to turn inward: when the band everyone measured themselves against was gone, the next wave had to change on its own terms instead of reacting to one.
   
-  I connect the dots between the avant-garde experimentation in The Beatles' later works, the rise of FM radio, and the influential bands that prog rock produced in the years that followed.
+  That change runs through the shift from AM to FM radio, which I compare to the jump from black and white to color: more room, more fidelity, and space for the longer, stranger songs that became progressive rock. I connect that directly to Pink Floyd's Dark Side of the Moon, an album grappling with mental illness as much as it's building a sound, and to the bands that carried the progressive label forward from there.
+  
+  FM radio, pirate radio, stereo, and the synthesizer all opened channels right as The Beatles closed one. Rock didn't end, it just needed a new frequency to grow into.
 
 selectedMoments:
   - label: "The Beatles as Cultural Icons"

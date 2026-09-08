@@ -1,7 +1,7 @@
 ---
 title: "Fresh Sonic Lenses in Less Knobs with Sam Fischmann (Musik Hack)"
 
-description: "Sam Fischmann, software developer at Musik Hack LLC, discusses bridging the gap between complex audio tech and user-friendly music tools. From DSP to web development, discover how his experience as both developer and musician shapes his approach to creating intuitive music software. Episode Topics!၊|၊|၊ Simplifying professional-grade music tools၊|၊|၊ Audio development and DSP insights၊|၊|၊ Journey from musician to tech innovator၊|၊|၊ Building Musik Hack's streamlined solutions"
+description: "Sam Fischmann, a software developer at Musik Hack, talks about closing the gap between complex audio tech and tools musicians can actually use, and his own path from musician to plugin developer."
 
 status: complete
 
@@ -28,9 +28,11 @@ topicsDiscussed:
   - "The intersection of music and coding"
 
 hostNote: |
-  In this episode, we welcome **Sam Fischmann**, the innovative mind behind Musik Hack LLC. As a software developer and musician, Sam melds technical prowess with musical insight, providing a unique perspective on the audio tech landscape. He dives into the often-misunderstood world of mastering, demystifying its complexities and discussing how accessible technology can empower both seasoned producers and beginners alike.
-  
-  Sam shares his journey of transitioning from a musician to a tech innovator, highlighting the challenges and revelations he encountered along the way.
+  Sam Fischmann builds plugins at Musik Hack, and this conversation is about why mastering still feels spooky, even to some mixers, and how good tool design can close that gap without pretending the craft is simple. Sam compares it to giving someone a fewer-knobs way in, rather than making them understand every variable to get a good result.
+
+  He walks through his own pivot from musician to developer, including a real technical wall in real-time audio programming: you can't just ask the operating system for memory mid-session, which forces a different kind of problem-solving than most software work. We also get into the design philosophy behind his Masterplan plugin, and where he thinks AI actually helps in production versus where it doesn't.
+
+  Sam's closing note is less technical: trust yourself as a creator, and actually listen to what you want your own music to sound like.
 
 selectedMoments:
   - label: "Sam discusses the spooky nature of mastering"

@@ -30,9 +30,11 @@ topicsDiscussed:
   - "The visual culture of the 80s"
 
 hostNote: |
-  In this solo episode, I dive into the explosive impact of **MTV** on rock music during the early '80s. The emergence of music videos reshaped how artists presented themselves, influenced what music became popular, and created an entirely new landscape for musicians and fans alike. I explore how these visual media cures the relationship musicians have with their creations, comparable to the transitions we've seen from AM to FM radio and vinyl to CD.
-  
-  I discuss how the iconography of artists like **Michael Jackson** and the spectacle they brought directly connected to market competition and audience expectations. All these shifts forever changed the cultural fabric of music consumption, as we moved into an era where appearance and performance on video became as crucial as the music itself.
+  **MTV** launched in 1981 and turned musicians into astronauts overnight. I get into what changed the moment music had to work as television too, not just radio, the same kind of shift you can trace through AM mono to FM stereo, and now through TikTok.
+
+  **Michael Jackson** is the test case: a fourteen-minute music video that basically told every other artist no one was going to beat this. I trace how that raised the stakes for image and performance across the whole decade, and I stop on Weird Al, who I think of as an OG YouTuber, decades before there was a YouTube to be one on.
+
+  The episode is really about how a new medium doesn't just carry music, it rewrites what a musician has to be to survive in it.
 
 selectedMoments:
   - label: "Introduction to MTV's impact"

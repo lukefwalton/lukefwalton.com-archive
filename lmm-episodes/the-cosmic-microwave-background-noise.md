@@ -29,9 +29,11 @@ topicsDiscussed:
   - "radio interference"
 
 hostNote: |
-  In this episode of *Love Music More*, I delve into the fascinating world of sound by exploring the nature of noise and its omnipresence in our lives. From the subtle hum of electronics to the background radiation from the Big Bang, I reveal how noise impacts everything we hear and record. This exploration highlights not just the technical aspects of sound but also brings awareness to how we interact with our auditory environment on both a personal and creative level.
-  
-  I tie in personal experiences and practical advice for sound engineers, making this episode a
+  There's no such thing as silence. Even an empty microphone has some noise on it, and if you put a person in an anechoic chamber, a room engineered to have none at all, they start to hallucinate: hearing their own organs, freaking out. Noise isn't the enemy of signal, it's the baseline everything else has to work against, all the way back to the cosmic microwave background left over from the Big Bang.
+
+  I break down the actual types: white noise (flat power per hertz, which sounds bright to us because our hearing isn't flat), pink noise (down 3 dB per octave, less harsh), and where brown and blue noise sit relative to those. Gain staging gets real time too, part of why older records have a vibe modern ones don't is that gain staging used to be looser, less locked in, and that looseness is audible.
+
+  The bigger idea underneath all of it: music is emergent from noise, not opposed to it. Every mix decision is really a negotiation between entropy and structure, and radio interference creeping into a home studio recording is just that negotiation showing up uninvited.
 
 selectedMoments:
   - label: "Introduction to Noise and Signal"
