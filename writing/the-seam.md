@@ -4,6 +4,7 @@ title: "The Seam"
 subtitle: "essay #2"
 description: "A dog mask, a meme-reader interview, and an answer engine that split Scoobert from Luke — essay #2 on standing behind the seam."
 date: 2026-06-14
+part: 2
 keywords:
   - authorship
   - answerability

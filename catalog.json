@@ -30573,6 +30573,7 @@
       "date": "2024-11-20",
       "series": "music-theory-101",
       "part": 4,
+      "featured": true,
       "substack": "https://lovemusicmore.substack.com/p/440-or-432-hz-what-frequency-is-better",
       "keywords": [
         "440 Hz",
@@ -30605,6 +30606,7 @@
       "date": "2024-07-17",
       "series": "music-theory-101",
       "part": 3,
+      "featured": true,
       "substack": "https://lovemusicmore.substack.com/p/its-the-circle-of-fifths",
       "episodeSlug": "the-circle-of-fifths-depicts-the-blueprint",
       "keywords": [
@@ -30638,6 +30640,7 @@
       "date": "2024-06-25",
       "series": "music-theory-101",
       "part": 1,
+      "featured": true,
       "substack": "https://lovemusicmore.substack.com/p/tuning-into-the-universes-frequency",
       "episodeSlug": "why-are-there-12-notes",
       "keywords": [
@@ -30670,6 +30673,7 @@
       "date": "2024-07-10",
       "series": "music-theory-101",
       "part": 2,
+      "featured": true,
       "substack": "https://lovemusicmore.substack.com/p/why-are-there-twelve-notes",
       "episodeSlug": "why-are-there-12-notes",
       "keywords": [
@@ -45264,6 +45268,7 @@
       "subtitle": "essay #1",
       "description": "After Guillain-Barré took guitar and sight, a stick in the river became a lesson about bent knowing, language, and standing behind what you can't prove.",
       "date": "2026-06-07",
+      "part": 1,
       "keywords": [
         "authorship",
         "answerability",
@@ -45410,6 +45415,7 @@
       "subtitle": "essay #2",
       "description": "A dog mask, a meme-reader interview, and an answer engine that split Scoobert from Luke — essay #2 on standing behind the seam.",
       "date": "2026-06-14",
+      "part": 2,
       "keywords": [
         "authorship",
         "answerability",

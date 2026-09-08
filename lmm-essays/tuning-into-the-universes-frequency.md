@@ -5,6 +5,7 @@ description: "All notes are frequencies; all frequencies are waves. A note is wh
 date: 2024-06-25
 series: music-theory-101
 part: 1
+featured: true
 substack: "https://lovemusicmore.substack.com/p/tuning-into-the-universes-frequency"
 episodeSlug: why-are-there-12-notes
 keywords:

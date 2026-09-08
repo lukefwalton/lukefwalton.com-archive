@@ -5,6 +5,7 @@ description: "A=440 Hz is a 20th-century compromise, not a cabal. 432 is a beaut
 date: 2024-11-20
 series: music-theory-101
 part: 4
+featured: true
 substack: "https://lovemusicmore.substack.com/p/440-or-432-hz-what-frequency-is-better"
 keywords:
   - 440 Hz

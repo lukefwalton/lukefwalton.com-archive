@@ -5,6 +5,7 @@ description: "Western music's twelve tones come from stacking octaves (2:1) and 
 date: 2024-07-10
 series: music-theory-101
 part: 2
+featured: true
 substack: "https://lovemusicmore.substack.com/p/why-are-there-twelve-notes"
 episodeSlug: why-are-there-12-notes
 keywords:

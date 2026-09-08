@@ -5,6 +5,7 @@ description: "Stack perfect fifths twelve times and you close a circle — or a 
 date: 2024-07-17
 series: music-theory-101
 part: 3
+featured: true
 substack: "https://lovemusicmore.substack.com/p/its-the-circle-of-fifths"
 episodeSlug: the-circle-of-fifths-depicts-the-blueprint
 keywords:
