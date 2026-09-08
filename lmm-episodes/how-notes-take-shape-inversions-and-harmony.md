@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Voice Leading"
 
 hostNote: |
-  In this episode of *Love Music More*, I dive into the fascinating world of music theory, specifically focusing on chord inversions and harmony. I explore how the arrangement of notes—what positions they're in and how they're voiced—affects their sound and feel. **Understanding these concepts can transform your approach to music, **
+  In this episode of *Love Music More*, I dive into the fascinating world of music theory, specifically focusing on chord inversions and harmony. I explore how the arrangement of notes (what positions they're in and how they're voiced) affects their sound and feel. **Understanding these concepts can transform your approach to music, **
   
   By sharing insights and demonstrations using a MIDI keyboard, I illustrate how to think about musical notes not just as isolated entities but as integral parts of a larger structure. This episode serves as an invitation to rethink how you perceive and create music.
 

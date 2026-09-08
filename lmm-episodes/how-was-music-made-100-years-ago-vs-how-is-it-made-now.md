@@ -1,7 +1,7 @@
 ---
 title: "How was music made 100 years ago vs. how is it made now?"
 
-description: "In this episode I talk through all of the different jobs that go into making music—and how most of those jobs have been combined."
+description: "In this episode I talk through all of the different jobs that go into making music, and how most of those jobs have been combined."
 
 status: complete
 

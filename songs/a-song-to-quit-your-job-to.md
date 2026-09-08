@@ -18,12 +18,12 @@ apple: "https://music.apple.com/us/album/a-song-to-quit-your-job-to/1618191665?i
 youtube: "https://www.youtube.com/watch?v=BJlKsN8hhHE"
 
 press:
-  - outlet: "Beformer — Spotify Indie Brandneu (Instagram)"
+  - outlet: "Beformer: Spotify Indie Brandneu (Instagram)"
     url: "https://www.instagram.com/p/CYfMHBHv5i1/"
-    desc: "January 8, 2022 — official Spotify Indie Brandneu (Germany) add; between Pinegrove and Broken Social Scene, alt-J on cover."
-  - outlet: "The New LoFi — a song to quit your job to"
+    desc: "January 8, 2022: official Spotify Indie Brandneu (Germany) add; between Pinegrove and Broken Social Scene, alt-J on cover."
+  - outlet: "The New LoFi: a song to quit your job to"
     url: "https://thenewlofi.com/scoobert-dooberts-new-single-is-a-breezy-indie-pop-hug-that-questions-our-modern-way-of-life/"
-    desc: "January 2022 release feature — Fresh Finds, Fresh Finds Pop, and Indie Brandneu editorial adds."
+    desc: "January 2022 release feature: Fresh Finds, Fresh Finds Pop, and Indie Brandneu editorial adds."
 
 themes: ["work", "freedom", "beach", "KŌAN", "internet"]
 

@@ -17,10 +17,10 @@ spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 officialVideo: "https://www.youtube.com/watch?v=oNmOB8WVc_U"
 
 press:
-  - outlet: "Smells Like New Talent — Worth A Listen (Week 40)"
+  - outlet: "Smells Like New Talent: Worth A Listen (Week 40)"
     url: "https://www.instagram.com/p/CFq7gN8HNmO/"
-    desc: "October 2020 Instagram feature — Encinitas origin bio, multi-instrumentalist arc, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
-  - outlet: "Backseat Mafia — Moving to Canada video premiere"
+    desc: "October 2020 Instagram feature: Encinitas origin bio, multi-instrumentalist arc, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
+  - outlet: "Backseat Mafia: Moving to Canada video premiere"
     url: "https://www.backseatmafia.com/premiere-scoobert-doobert-releases-new-video-for-moving-to-canada/"
   - outlet: "Moving to Canada (official MV)"
     url: "https://www.youtube.com/watch?v=oNmOB8WVc_U"

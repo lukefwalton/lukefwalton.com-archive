@@ -28,11 +28,11 @@ topicsDiscussed:
   - "TOMMASO"
 
 hostNote: |
-  If you want to learn a new instrument, start napping. The episode title is the method: **be like water**, then actually sleep. I stack musicians next to professional athletes — not the hotel rooms, the drills. Drumming makes the parallel brutally obvious: four limbs, a metronome that younger players hate, and a body that will not fluidly do what the ear already knows.
+  If you want to learn a new instrument, start napping. The episode title is the method: **be like water**, then actually sleep. I stack musicians next to professional athletes: not the hotel rooms, the drills. Drumming makes the parallel brutally obvious: four limbs, a metronome that younger players hate, and a body that will not fluidly do what the ear already knows.
 
   The secret that has helped me most is not another hour of brute force. It is **practice, nap, practice, sleep**. NFL and NBA players already live that loop; I name **LeBron** taking two or three naps a day because longevity is the point, not a grind aesthetic. Short naps count. The person who sleeps after the session usually beats the person who just kept going.
 
-  **Wu Wei** is the other half: stop forcing the groove and let the water find the shape. I teed this up the week before **Go-To Patterns with TOMMASO** — same drum-body conversation, from a drummer who is better at it than I am.
+  **Wu Wei** is the other half: stop forcing the groove and let the water find the shape. I teed this up the week before **Go-To Patterns with TOMMASO**, same drum-body conversation, from a drummer who is better at it than I am.
 
 selectedMoments:
   - label: "Musicians and athletes, not just travel"
@@ -43,7 +43,7 @@ selectedMoments:
     note: "I flag the Tommaso interview as the drummer-eyed half of this practice conversation."
   - label: "Why younger players hate the metronome"
     startSec: 263
-    note: "I talk through four-limb drift on the kit — the metronome makes every miss public."
+    note: "I talk through four-limb drift on the kit: the metronome makes every miss public."
   - label: "Drills until the body stops thinking"
     startSec: 407
     note: "I compare unthinking drum limbs to NBA footwork: fingers teaching the brain, then the reverse."
@@ -52,7 +52,7 @@ selectedMoments:
     note: "I name napping as the practice tool that has helped me more than extra hours of forcing."
   - label: "NFL, NBA, LeBron"
     startSec: 529
-    note: "I point at pro athletes' nap loops — drills, rest, drills — as the model for musical longevity."
+    note: "I point at pro athletes' nap loops (drills, rest, drills) as the model for musical longevity."
   - label: "Practice, nap, practice, sleep"
     startSec: 582
     note: "I reduce the method to a loop: encode, sleep, encode again, then a full night."
@@ -87,7 +87,7 @@ faq:
   - question: "Why do I say you should nap to learn an instrument?"
     answer: "Because the hard part is getting the body to do what the ear already hears. I have had more luck with a focused session, a nap, then a shorter second pass than with brute-forcing the same passage. Sleep is when the pattern stops fighting you."
   - question: "What do musicians and pro athletes actually share?"
-    answer: "Not just travel. Both live in drills until the body can run the pattern without thinking — NBA footwork, four-limb drum independence, a metronome that exposes every drift. The people who last treat rest as training, not as a break from it. I use LeBron's nap habit as the longevity version of that idea."
+    answer: "Not just travel. Both live in drills until the body can run the pattern without thinking: NBA footwork, four-limb drum independence, a metronome that exposes every drift. The people who last treat rest as training, not as a break from it. I use LeBron's nap habit as the longevity version of that idea."
   - question: "What does Wu Wei have to do with practice?"
     answer: "Wu Wei here means stop shoving. If you only brute-force a groove, you are fighting the water. Intention and focus still matter; the other half is letting the pattern arrive after you have given the body sleep. The Tommaso episode the next week is the same argument from a drummer's chair."
 

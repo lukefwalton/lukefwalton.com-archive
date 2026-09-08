@@ -33,8 +33,8 @@ draft: false
 
 **to sleep (EP)**, fourteen short tracks, **December 1, 2018**, [Bandcamp only](https://scoobertdoobert.bandcamp.com/album/to-sleep-ep) (not on Spotify). Pre-[*$WAMI$*](/albums/wami/) and pre-the DistroKid catalog that starts with [*Finding $D*](/albums/finding-d-remastered/) in 2019.
 
-Bandcamp’s note: an unreleased album from 2018, an improvised lo-fi hip-hop meditation on death. Recorded at a friend’s house in LA while he was away; produced and mixed in a coffee shop in Greenwich Village. Most tracks run under ninety seconds; titles read like fragments from the same sleepless conversation — [*Side One*](/songs/side-one/), [*dad, are you okay*](/songs/dad-are-you-okay/), [*to sleep but breath abates*](/songs/to-sleep-but-breath-abates/), [*to sleep?*](/songs/to-sleep-question/), [*to Journey?*](/songs/to-journey-question/), [*\/one*](/songs/to-sleep-one/), and the rest are **all one EP**, not separate releases.
+Bandcamp’s note: an unreleased album from 2018, an improvised lo-fi hip-hop meditation on death. Recorded at a friend’s house in LA while he was away; produced and mixed in a coffee shop in Greenwich Village. Most tracks run under ninety seconds; titles read like fragments from the same sleepless conversation: [*Side One*](/songs/side-one/), [*dad, are you okay*](/songs/dad-are-you-okay/), [*to sleep but breath abates*](/songs/to-sleep-but-breath-abates/), [*to sleep?*](/songs/to-sleep-question/), [*to Journey?*](/songs/to-journey-question/), [*\/one*](/songs/to-sleep-one/), and the rest are **all one EP**, not separate releases.
 
-Track pages link to Bandcamp for per-track streaming and download. No lyrics: improvised spoken word and beats, not annotated line-by-line. No Spotify ISRCs — Bandcamp-only, pre-DistroKid.
+Track pages link to Bandcamp for per-track streaming and download. No lyrics: improvised spoken word and beats, not annotated line-by-line. No Spotify ISRCs: Bandcamp-only, pre-DistroKid.
 
 ---

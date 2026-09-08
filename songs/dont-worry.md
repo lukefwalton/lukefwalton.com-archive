@@ -18,18 +18,18 @@ officialVideo: "https://www.youtube.com/watch?v=mdo5I9lQXi4"
 apple: "https://music.apple.com/us/album/dont-worry/1585121212?i=1585121214"
 
 press:
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#1, ↑ from #7)"
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#1, ↑ from #7)"
     url: "https://www.instagram.com/p/CO52mijKaI2/"
-    desc: "May 15, 2021 — Don't Worry hit #1 on the egoFM weekly chart (↑ from #7); first #1 on a public weekly radio chart for Scoobert Doobert."
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#7, ↑ from #10)"
+    desc: "May 15, 2021: Don't Worry hit #1 on the egoFM weekly chart (↑ from #7); first #1 on a public weekly radio chart for Scoobert Doobert."
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#7, ↑ from #10)"
     url: "https://www.instagram.com/p/COn3ggSqhEv/"
-    desc: "May 8, 2021 — Don't Worry at #7 on the egoFM weekly chart (↑ from #10); Twenty One Pilots — Shy Away at #1 that week."
-  - outlet: "91X FM — Local Break artist of the month (Instagram)"
+    desc: "May 8, 2021: Don't Worry at #7 on the egoFM weekly chart (↑ from #10); Twenty One Pilots: Shy Away at #1 that week."
+  - outlet: "91X FM: Local Break artist of the month (Instagram)"
     url: "https://www.instagram.com/p/CNI5AsIhGeN/"
-    desc: "April 2021 — @91xsandiego Local Break promo for Scoobert Doobert from Encinitas; Don't Worry on air all month; Scoobertverse quote from site."
-  - outlet: "91X FM — Local Break feature"
+    desc: "April 2021: @91xsandiego Local Break promo for Scoobert Doobert from Encinitas; Don't Worry on air all month; Scoobertverse quote from site."
+  - outlet: "91X FM: Local Break feature"
     url: "https://www.91x.com/music/scoobert-doobert-dont-worry/"
-    desc: "Encinitas origin story — Swami's, Surfing Madonna, Cardiff Kook, learning to jam alone; Surfdog mailer room to Local Break arc."
+    desc: "Encinitas origin story: Swami's, Surfing Madonna, Cardiff Kook, learning to jam alone; Surfdog mailer room to Local Break arc."
 
 themes: ["anxiety", "wellness culture", "Big Hug", "post-pandemic", "satire"]
 
@@ -107,6 +107,6 @@ Same post-pandemic lane as [*I'm an Idiot*](/songs/im-an-idiot/) and *Scared to 
 
 [91X Local Break](https://www.91x.com/music/scoobert-doobert-dont-worry/) is also where a lot of the Encinitas origin lore lives on the record: Swami's, the Surfing Madonna, the Cardiff Kook, bandmates leaving for college, learning drums and bass by jamming alone. That feature was one of the first breaks that pulled Scoobert into wider attention and toward [egoFM Munich](https://www.egofm.de/radiowelt/scoobert-doobert-interview). Full circle: Walton had interned at [Surfdog Records](https://surfdog.com/) in **2007–2008** on [Brian Setzer](https://surfdog.com/artists/brian-setzer/) and [Dave Stewart](https://surfdog.com/artists/dave-stewart/) releases, packing CDs into mailers while 91X played in the background.
 
-91X kept spinning the project on Tim Pyles's **Loudspeaker** (2020–2024) and **Planet Nü Nü**, with documented playlist logs on [91x.com](https://www.91x.com/). [@91xsandiego](https://www.instagram.com/p/C1ShxBgRyse/) posted Hilary's **Planet Nü Nü** **91Xmas** stack (**Dec 24, 2023** broadcast) with Scoobert in the holiday lineup. Marquee placements: [#1 Loudspeaker Top 5 for April 2021](https://www.91x.com/loudspeaker/91x-loudspeaker-top-5-for-april-2021/) and **[#90 on the Top 91 of 2021](https://www.91x.com/top-91/top-91-2021/)** countdown. In Munich, [*Don't Worry* hit **#1 on egoFM's ego 42 weekly chart**](https://www.instagram.com/p/CO52mijKaI2/) (May 15, 2021, ↑ from #7) — the project's first #1 on a public weekly radio chart, after climbing ego 42 from #10 to #7 the week before. Walton visited the [91X studio with Tim Pyles](https://www.instagram.com/p/CUnGAK-ltD9/) in October 2021. Full spin index: [Music Industry](/music/#music-industry) (91X radio log).
+91X kept spinning the project on Tim Pyles's **Loudspeaker** (2020–2024) and **Planet Nü Nü**, with documented playlist logs on [91x.com](https://www.91x.com/). [@91xsandiego](https://www.instagram.com/p/C1ShxBgRyse/) posted Hilary's **Planet Nü Nü** **91Xmas** stack (**Dec 24, 2023** broadcast) with Scoobert in the holiday lineup. Marquee placements: [#1 Loudspeaker Top 5 for April 2021](https://www.91x.com/loudspeaker/91x-loudspeaker-top-5-for-april-2021/) and **[#90 on the Top 91 of 2021](https://www.91x.com/top-91/top-91-2021/)** countdown. In Munich, [*Don't Worry* hit **#1 on egoFM's ego 42 weekly chart**](https://www.instagram.com/p/CO52mijKaI2/) (May 15, 2021, ↑ from #7), the project's first #1 on a public weekly radio chart, after climbing ego 42 from #10 to #7 the week before. Walton visited the [91X studio with Tim Pyles](https://www.instagram.com/p/CUnGAK-ltD9/) in October 2021. Full spin index: [Music Industry](/music/#music-industry) (91X radio log).
 
 ---

@@ -15,29 +15,29 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 placement: "Coors Light TV (Canada): music supervisor Mike Ladman (Droga5)"
 
 press:
-  - outlet: "Beformer — Coors Light Canada TV campaign (Instagram)"
+  - outlet: "Beformer: Coors Light Canada TV campaign (Instagram)"
     url: "https://www.instagram.com/p/Chsga7bvFDL/"
-    desc: "August 25, 2022 — Can't Imagine Feeling Better in Coors Light summer Canada TV campaign; Droga5 credited."
-  - outlet: "Newlywed Records — The Prenup"
+    desc: "August 25, 2022: Can't Imagine Feeling Better in Coors Light summer Canada TV campaign; Droga5 credited."
+  - outlet: "Newlywed Records: The Prenup"
     url: "https://www.instagram.com/p/CPBDTCrHreK/"
-    desc: "May 18, 2021 — @newlywedrecords write-up for Can't Imagine Feeling Better by @comfysongs; end-of-semester porch scene, bluetooth speaker, late-afternoon sun."
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#8, ↑ from #10)"
+    desc: "May 18, 2021: @newlywedrecords write-up for Can't Imagine Feeling Better by @comfysongs; end-of-semester porch scene, bluetooth speaker, late-afternoon sun."
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#8, ↑ from #10)"
     url: "https://www.instagram.com/p/CNNrF_3DK9A/"
-    desc: "April 3, 2021 — climbed to #8 with Can't Imagine Feeling Better (↑ from #10 on chart graphic); Roosevelt — See You Again at #1 that week."
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#9, ↑ from #10)"
+    desc: "April 3, 2021: climbed to #8 with Can't Imagine Feeling Better (↑ from #10 on chart graphic); Roosevelt: See You Again at #1 that week."
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#9, ↑ from #10)"
     url: "https://www.instagram.com/p/CMpts-vC_WC/"
-    desc: "March 20, 2021 — climbed to #9 with Can't Imagine Feeling Better (↑ from #10); AVEC — I Don't Pray at #1 that week."
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#10)"
+    desc: "March 20, 2021: climbed to #9 with Can't Imagine Feeling Better (↑ from #10); AVEC: I Don't Pray at #1 that week."
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#10)"
     url: "https://www.instagram.com/p/CMXwh31FP9t/"
-    desc: "March 13, 2021 — first Scoobert Doobert entry on the egoFM weekly chart at #10 with Can't Imagine Feeling Better (↑); Julien Baker — Heatwave at #1 that week."
-  - outlet: "egoFM — Top 1,000 most-played songs (15 years, #654)"
+    desc: "March 13, 2021: first Scoobert Doobert entry on the egoFM weekly chart at #10 with Can't Imagine Feeling Better (↑); Julien Baker: Heatwave at #1 that week."
+  - outlet: "egoFM: Top 1,000 most-played songs (15 years, #654)"
     url: "https://www.egofm.de/musik/news/meistgespielte-songs"
-    desc: "November 24, 2023 — Cant Imagine Feeling Better Like This ranked #654 of 1,000 on egoFM's 15-year most-played list; catalog title Can't Imagine Feeling Better."
+    desc: "November 24, 2023: Cant Imagine Feeling Better Like This ranked #654 of 1,000 on egoFM's 15-year most-played list; catalog title Can't Imagine Feeling Better."
   - outlet: "Love Music More: Mike Ladman (Droga5, McCann)"
     url: "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Going-To-Air-with-Mike-Ladman-Droga5--McCann-e357gku"
   - outlet: "Droga5"
     url: "https://droga5.com/"
-  - outlet: "Indie Shuffle — Can't Imagine Feeling Better"
+  - outlet: "Indie Shuffle: Can't Imagine Feeling Better"
     url: "https://www.indieshuffle.com/scoobert-doobert-cant-imagine-feeling-better"
 
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
@@ -98,7 +98,7 @@ The joy is built entirely from cartoon resilience and nonsense. Verse one trips 
 
 [Official music video on YouTube](https://www.youtube.com/watch?v=Pz3QqvWzDQI), also on [Selected Videos](/music/#selected-videos).
 
-**egoFM rotation:** Climbed egoFM's weekly **ego 42** chart from **#10** (Mar 13, 2021) to **#8** (Apr 3, 2021). On **November 24, 2023**, [egoFM published its 15-year Top 1,000 most-played songs](https://www.egofm.de/musik/news/meistgespielte-songs) — Scoobert Doobert listed as **#654** (**Cant Imagine Feeling Better Like This**), between Radiohead — *Jigsaw Falling Into Place* (#653) and Aim feat. YZ (#655). Long-rotation Munich receipt beyond the weekly chart Instagram posts.
+**egoFM rotation:** Climbed egoFM's weekly **ego 42** chart from **#10** (Mar 13, 2021) to **#8** (Apr 3, 2021). On **November 24, 2023**, [egoFM published its 15-year Top 1,000 most-played songs](https://www.egofm.de/musik/news/meistgespielte-songs): Scoobert Doobert listed as **#654** (**Cant Imagine Feeling Better Like This**), between Radiohead: *Jigsaw Falling Into Place* (#653) and Aim feat. YZ (#655). Long-running Munich rotation beyond the weekly chart Instagram posts.
 
 **Coors Light (TV, Canada):** [Mike Ladman](https://www.linkedin.com/in/mike-ladman-14807739/) placed the track while at **[Droga5](https://droga5.com/)**: music supervision for the brand's summer Canada TV campaign. [@beformer announced the placement](https://www.instagram.com/p/Chsga7bvFDL/) **August 25, 2022**, crediting Droga5. Ladman later joined Love Music More for [Going To Air with Mike Ladman (Droga5, McCann)](/love-music-more/episodes/mike-ladman/). See [Sync](/press/#sync).
 

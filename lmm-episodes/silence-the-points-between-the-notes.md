@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Silence in composition"
 
 hostNote: |
-  When the music stops, what is left? I start from Debussy and Miles on the spaces between notes, then **John Cage’s 4'33"** — you cannot make a silence no matter what you try. Guitarists who transcribe horn players are really learning where to breathe.
+  When the music stops, what is left? I start from Debussy and Miles on the spaces between notes, then **John Cage’s 4'33"**: you cannot make a silence no matter what you try. Guitarists who transcribe horn players are really learning where to breathe.
   
   Rhythm needs absence the way a phrase needs inhale. The brain still answers silence; groove is placement plus the hole that makes it funky. So much of the dopamine is anticipation, not the hit.
 

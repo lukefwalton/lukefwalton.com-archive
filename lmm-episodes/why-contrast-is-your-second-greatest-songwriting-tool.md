@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Emotional impact of music"
 
 hostNote: |
-  In this episode of *Love Music More*, I dive deep into the concept of contrast as a vital songwriting tool. I explore how utilizing contrast—not just in melody and lyrics but also in the mix—can enhance listener engagement and create memorable music. By differentiating between tension and release, I provide practical insights that can elevate your songwriting and production skills. This episode invites you to think critically about your own musical creations and discover the power that contrast can hold in your songwriting arsenal.
+  In this episode of *Love Music More*, I dive deep into the concept of contrast as a vital songwriting tool. I explore how utilizing contrast (not just in melody and lyrics but also in the mix) can enhance listener engagement and create memorable music. By differentiating between tension and release, I provide practical insights that can elevate your songwriting and production skills. This episode invites you to think critically about your own musical creations and discover the power that contrast can hold in your songwriting arsenal.
 
 selectedMoments:
   - label: "Understanding Contrast"

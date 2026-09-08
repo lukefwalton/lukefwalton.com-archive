@@ -45,7 +45,7 @@ selectedMoments:
     note: "An explanation of polyphony and counterpoint, emphasizing the evolution of musical parts over time."
   - label: "The significance of vocal hooks"
     startSec: 316
-    note: "I articulate the importance of viewing instrument parts—like drums and bass—as vocalists supporting melodies."
+    note: "I articulate the importance of viewing instrument parts (like drums and bass) as vocalists supporting melodies."
   - label: "The intentionality of note selection"
     startSec: 586
     note: "Insight into the significance of how each note's arrangement creates musical texture and harmony."

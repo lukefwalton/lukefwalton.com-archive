@@ -1,7 +1,7 @@
 ---
 title: "What is reverb and delay?"
 
-description: "We've covered pitch (frequency) and loudness (dynamics). In this episode, we look at the third major component of music: TIME. I discuss my philosophical view of reverbs, delays and time-based effects—including spacial / binaural audio."
+description: "We've covered pitch (frequency) and loudness (dynamics). In this episode, we look at the third major component of music: TIME. I discuss my philosophical view of reverbs, delays and time-based effects, including spacial / binaural audio."
 
 status: complete
 

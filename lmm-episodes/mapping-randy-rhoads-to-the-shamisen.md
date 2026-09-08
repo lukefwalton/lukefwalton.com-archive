@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Connection to stringed instruments"
 
 hostNote: |
-  Guitar is a stringed instrument, like a lyre, a lute, or a **shamisen**. I took a shamisen lesson in Japan after reading **Randy Rhoads** taking guitar lessons on the road — never stop learning, even if you can shred. The bachi attack, the three-string layout, the koto sitting next to it in a geisha-trio picture: all of that can come back onto the guitar.
+  Guitar is a stringed instrument, like a lyre, a lute, or a **shamisen**. I took a shamisen lesson in Japan after reading **Randy Rhoads** taking guitar lessons on the road: never stop learning, even if you can shred. The bachi attack, the three-string layout, the koto sitting next to it in a geisha-trio picture: all of that can come back onto the guitar.
   
   Some players dabble with no primary instrument. I think that can be dangerous. Grow a dominant hand, then steal colors from the unfamiliar one.
 

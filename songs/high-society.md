@@ -20,9 +20,9 @@ apple: "https://music.apple.com/us/album/k%C5%8Dan/1618191665"
 themes: ["KŌAN", "social media", "anxiety", "wellness culture", "nostalgia", "choice"]
 
 press:
-  - outlet: "Beformer — Spotify Indie Brandneu (Instagram)"
+  - outlet: "Beformer: Spotify Indie Brandneu (Instagram)"
     url: "https://www.instagram.com/p/CcJEoDmPdvP/"
-    desc: "April 9, 2022 — official Spotify Indie Brandneu (Germany) add; thanks egoFM / Max Klement for on-air that week."
+    desc: "April 9, 2022: official Spotify Indie Brandneu (Germany) add; thanks egoFM / Max Klement for on-air that week."
 
 isrc: QZDA82242997
 isrcSource: soundexchange
@@ -156,6 +156,6 @@ The opener names the trap and stutters on the anxious words: *deleting all of my
 
 The outro stacks *I'm thinking about* and *momma make me happy* until the delete-social-media verse comes back whole, the invite fear returning intact. Same KŌAN thread as [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) and the LP-only disinformation pair ([*Miss Disinformation*](/songs/miss-disinformation/), [*to everyone who had a good pandemic*](/songs/to-everyone-who-had-a-good-pandemic/)). Lighter cousin of [*Don't Worry*](/songs/dont-worry/) on *Big Hug*: same *good vibes* poison, more pop bounce.
 
-**Spotify editorial:** [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CcJEoDmPdvP/) (April 9, 2022); the same post thanks **egoFM** for on-air that week with host **Max Klement** — same April 2022 Munich radio thread as the [Apr 6 interview promo](https://www.instagram.com/p/CcASTR8IrM7/). See [Catalog: official playlists](/catalog/#spotify-editorial).
+**Spotify editorial:** [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CcJEoDmPdvP/) (April 9, 2022); the same post thanks **egoFM** for on-air that week with host **Max Klement**. Same April 2022 Munich radio thread as the [Apr 6 interview promo](https://www.instagram.com/p/CcASTR8IrM7/). See [Catalog: official playlists](/catalog/#spotify-editorial).
 
 ---

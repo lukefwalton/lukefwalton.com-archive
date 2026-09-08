@@ -24,7 +24,7 @@ topicsDiscussed:
   - "creative confidence"
 
 hostNote: |
-  In this episode, I dive deep into the art of mixing music, likening it to a culinary craft. By utilizing food metaphors, I clarify the complexities of balancing sound elements in mixing and shares my unique approach that blends artistic intuition with technical expertise. As we step into 2024, I call for a creative revolution—encouraging artists and engineers alike to push boundaries and redefine what music can feel like. This is a clarion call for passionate musicians to approach their craft with confidence, as I unpack the nuances of mixing techniques and technology that can elevate a composition beyond the usual.
+  In this episode, I dive deep into the art of mixing music, likening it to a culinary craft. By utilizing food metaphors, I clarify the complexities of balancing sound elements in mixing and shares my unique approach that blends artistic intuition with technical expertise. As we step into 2024, I call for a creative revolution, encouraging artists and engineers alike to push boundaries and redefine what music can feel like. This is a clarion call for passionate musicians to approach their craft with confidence, as I unpack the nuances of mixing techniques and technology that can elevate a composition beyond the usual.
 
 selectedMoments:
   - label: "Introduction and Gratitude"

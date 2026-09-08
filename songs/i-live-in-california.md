@@ -18,9 +18,9 @@ officialVideo: "https://www.youtube.com/watch?v=vGywF3QeCuc"
 apple: "https://music.apple.com/us/album/big-hug/1585121212"
 
 press:
-  - outlet: "slackcitybitch — New Music Friday pick"
+  - outlet: "slackcitybitch: New Music Friday pick"
     url: "https://www.instagram.com/p/CRZ7ruPB4-d/"
-    desc: "July 16, 2021 — @slackcitybitch review of I Live in California (alternative/indie); pop hooks, funky guitar, California-sun blunt energy, psychedelic summer song."
+    desc: "July 16, 2021: @slackcitybitch review of I Live in California (alternative/indie); pop hooks, funky guitar, California-sun blunt energy, psychedelic summer song."
 
 themes: ["California", "Big Hug", "class", "satire", "midwest", "wellness"]
 

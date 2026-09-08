@@ -35,7 +35,7 @@ topicsDiscussed:
 hostNote: |
   In this episode of **Love Music More**, we sit down with composer **Tristan Clopet**, who has made a name for himself in film and TV scoring. His impressive portfolio includes work for projects like *Crown Heights*, *The Infiltrator*, and *This American Life*. Tristan shares his unique journey through both the touring and film industries, highlighting how different they are while also recognizing the shared creative pressures they impose.
   
-  Tristan provides a captivating look into the collaborative nature of scoring for film—how it’s about working within constraints to produce something meaningful. We delve into his experiences, including memorable moments like crafting the score for a powerful scene featuring Martin Freeman, which offers a glimpse into how he translates a character's internal struggles into musical themes.
+  Tristan provides a captivating look into the collaborative nature of scoring for film: how it’s about working within constraints to produce something meaningful. We delve into his experiences, including memorable moments like crafting the score for a powerful scene featuring Martin Freeman, which offers a glimpse into how he translates a character's internal struggles into musical themes.
 
 selectedMoments:
   - label: "Introduction to Tristan Clopet"

@@ -56,7 +56,7 @@ selectedMoments:
     note: "How Nirvana's rise was shaped by their DIY roots, influenced heavily by the Pixies."
   - label: "Kurt Cobain's reflections on the Pixies"
     startSec: 1081
-    note: "Kurt Cobain's acknowledgment of the Pixies' influence — 'I was basically trying to rip off the Pixies.'"
+    note: "Kurt Cobain's acknowledgment of the Pixies' influence: 'I was basically trying to rip off the Pixies.'"
   - label: "Evolution of the genre and its complexities"
     startSec: 1621
     note: "The complex layers found in what seems like simple rock music."

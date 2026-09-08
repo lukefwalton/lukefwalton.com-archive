@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Insights on shoegaze and dream pop"
 
 hostNote: |
-  **Chic Chameleon** is Patrick Froese’s Edmonton dream-pop / shoegaze project. He has a bachelor’s in jazz and contemporary music, then left the chops-flex (Joshua Redman *Jazz Crimes* in school) for the stuff he actually wants to hear back: chill indie rock with a wall of sound. Shoegaze, in his telling, is literally gazing at your shoes — enveloped, not showing off.
+  **Chic Chameleon** is Patrick Froese’s Edmonton dream-pop / shoegaze project. He has a bachelor’s in jazz and contemporary music, then left the chops-flex (Joshua Redman *Jazz Crimes* in school) for the stuff he actually wants to hear back: chill indie rock with a wall of sound. Shoegaze, in his telling, is literally gazing at your shoes: enveloped, not showing off.
   
   We talk genre as looping and home, DIY recording after the pandemic, a live band (bass, drums, synth/backups) plus a vocal pedal he bought because he could not outsource the vibe, **Sled Island** in Calgary, and why Canadian college radio still matters when the next city might be Regina. Music, for him, is a way out of a negative headspace.
 

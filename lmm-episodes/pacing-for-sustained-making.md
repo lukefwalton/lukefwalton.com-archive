@@ -31,7 +31,7 @@ topicsDiscussed:
 hostNote: |
   Making music in the streaming/AI treadmill is easier and harder at once, and that is not the point. I have put out **382 commercially released songs**, and the lesson I keep relearning is pacing: music has a **tide**. It comes in with force, retreats so you can fill the cup, then returns. Miss which phase you are in and you burn the record before it exists.
   
-  I lost excitement on the last LP by putting it out as I was making it. Singles 1–6 spent the intensity that belonged to 7. When in doubt, make something — but some art is supposed to be slow. See the whole idea through, then let people accept or deny it.
+  I lost excitement on the last LP by putting it out as I was making it. Singles 1–6 spent the intensity that belonged to 7. When in doubt, make something, but some art is supposed to be slow. See the whole idea through, then let people accept or deny it.
 
 selectedMoments:
   - label: "Introductory Thoughts on Creativity"

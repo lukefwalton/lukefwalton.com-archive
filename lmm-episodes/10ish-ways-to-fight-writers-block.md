@@ -1,7 +1,7 @@
 ---
 title: "10ish Ways to FIGHT Writer's Block"
 
-description: "A Reddit listener asked how to stay in the creative zone; Luke runs through his bag of tricks — garbage-in-garbage-out inputs, abandoning ideas on purpose, master-bus experiments, and why tempo changes belong early, not late."
+description: "A Reddit listener asked how to stay in the creative zone; Luke runs through his bag of tricks: garbage-in-garbage-out inputs, abandoning ideas on purpose, master-bus experiments, and why tempo changes belong early, not late."
 
 status: complete
 
@@ -45,7 +45,7 @@ selectedMoments:
     note: "Frame: changing perspective applies to any creative work, not just music."
   - label: "Garbage in, garbage out"
     startSec: 93
-    note: "Dad's phrase applied to inputs — classical, jazz, and field recordings outside my usual frame."
+    note: "Dad's phrase applied to inputs: classical, jazz, and field recordings outside my usual frame."
   - label: "Abandon the first idea"
     startSec: 185
     note: "Start something, leave it, let the next idea arrive from the wreckage."
@@ -60,7 +60,7 @@ selectedMoments:
     note: "Stacking a part until it feels solid enough to commit."
   - label: "Tempo early, not late"
     startSec: 812
-    note: "Closing caveat — shifting BPM at the end of a production is miserable."
+    note: "Closing caveat: shifting BPM at the end of a production is miserable."
 
 excerptQuotes:
   - text: "There's a whole bag of tricks that I have that I go to all the fricking time, and I'm sharing with you, because I want you to make more music."
@@ -82,7 +82,7 @@ faq:
   - question: "What does 'garbage in, garbage out' mean for musicians?"
     answer: "I borrow the phrase from his dad and applies it to listening diet: if you only feed yourself one genre, your outputs narrow. I recommend classical, jazz, field recordings, and deep musical history as ways to break a slump."
   - question: "What production tricks does Luke recommend when ideas stall?"
-    answer: "Abandon a starter idea on purpose, experiment with master-bus settings, learn a new instrument, double a part for confidence, and — critically — change tempo early in the process, not after the arrangement is locked."
+    answer: "Abandon a starter idea on purpose, experiment with master-bus settings, learn a new instrument, double a part for confidence, and, critically, change tempo early in the process, not after the arrangement is locked."
 
 transcriptPublished: false
 

@@ -24,14 +24,14 @@ topicsDiscussed:
   - "Creativity"
   - "Music production"
   - "The music business"
-  - "Overcoming creative blocks — ..."
-  - "Innovative music education — ..."
-  - "The role of technology in music learning — ..."
-  - "Cultural exchange through music — ..."
-  - "The impact of Canadian arts support — ..."
-  - "Music's narrative power — ..."
-  - "Navigating the music industry's challenges — ..."
-  - "Finding your artistic voice — ..."
+  - "Overcoming creative blocks"
+  - "Innovative music education"
+  - "The role of technology in music learning"
+  - "Cultural exchange through music"
+  - "The impact of Canadian arts support"
+  - "Music's narrative power"
+  - "Navigating the music industry's challenges"
+  - "Finding your artistic voice"
 
 hostNote: |
   In this episode of **Love Music More**, we sit down with the innovative Ron Jackson, creator of the dynamic "Musora Covers On The Spot" series. With a rich background in educational media and a passion for music, Ron shares his unique journey from teaching to producing, highlighting how he encourages bands to explore new facets of their creativity. This conversation is a We explore Ron's insights on the changing landscape of music collaboration and learning, and he provides practical advice for students and aspiring musicians alike. Prepare to be inspired as he discusses the importance of creativity under pressure and the magic that happens when artists step outside their comfort zones.

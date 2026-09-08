@@ -23,9 +23,9 @@ isrcSource: spotify
 draft: false
 ---
 
-**Crying Today** (**July 4, 2025**, [Spotify](https://open.spotify.com/track/413EZPiXJ1z58kKBmT48rt) · [Apple Music](https://music.apple.com/us/song/crying-today/1823203089)) is a **J MESA** solo single on **FYI Music Group**. The [Spotify credits pane](https://open.spotify.com/track/413EZPiXJ1z58kKBmT48rt) lists **Luke Walton** as **Mixing Engineer**, **Riley Knapp** as **Mastering Engineer**, **J MESA** as studio personnel, and **Kiko Brenneisen** on drums — a verified platform mix credit, not just client-work archive memory. The [official visualizer](https://www.youtube.com/watch?v=n8tUv5wAcqg) credits **Mixed by Luke Walton** / [scoobertdoobert.pizza](https://scoobertdoobert.pizza).
+**Crying Today** (**July 4, 2025**, [Spotify](https://open.spotify.com/track/413EZPiXJ1z58kKBmT48rt) · [Apple Music](https://music.apple.com/us/song/crying-today/1823203089)) is a **J MESA** solo single on **FYI Music Group**. The [Spotify credits pane](https://open.spotify.com/track/413EZPiXJ1z58kKBmT48rt) lists **Luke Walton** as **Mixing Engineer**, **Riley Knapp** as **Mastering Engineer**, **J MESA** as studio personnel, and **Kiko Brenneisen** on drums, a verified platform mix credit, not just remembered client work. The [official visualizer](https://www.youtube.com/watch?v=n8tUv5wAcqg) credits **Mixed by Luke Walton** / [scoobertdoobert.pizza](https://scoobertdoobert.pizza).
 
-Same client lane as [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/) and [*Untitled (fọláṣadé)*](/songs/untitled-folasade/), distinct from joint-artist **collaborator** receipts on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
+Same client lane as [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/) and [*Untitled (fọláṣadé)*](/songs/untitled-folasade/), distinct from joint-artist **collaborations** on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
 
 No Scoobert lyrics. See also: [With J MESA](/with/j-mesa/) · [Catalog](/catalog/#production)
 

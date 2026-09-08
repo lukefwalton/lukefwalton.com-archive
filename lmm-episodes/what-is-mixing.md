@@ -1,7 +1,7 @@
 ---
 title: "What is mixing?"
 
-description: "In this pod, I discuss the differences between production and mixing—giving more insight into the process of making pro-sounding records."
+description: "In this pod, I discuss the differences between production and mixing, giving more insight into the process of making pro-sounding records."
 
 status: complete
 

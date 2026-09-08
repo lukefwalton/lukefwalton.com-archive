@@ -20,9 +20,9 @@ apple: "https://music.apple.com/us/album/k%C5%8Dan/1618191665"
 themes: ["KŌAN", "funk", "depression", "news", "work", "relationships", "post-pandemic"]
 
 press:
-  - outlet: "Beformer — Get the Funk Out of My Head on Spotify Soirée (Instagram)"
+  - outlet: "Beformer: Get the Funk Out of My Head on Spotify Soirée (Instagram)"
     url: "https://www.instagram.com/p/ChNXXzZJ8Qh/"
-    desc: "August 13, 2022 — official Soirée editorial add; KŌAN LP fourth movement (LP Sep 9)."
+    desc: "August 13, 2022: official Soirée editorial add; KŌAN LP fourth movement (LP Sep 9)."
 
 isrc: QZES82288270
 isrcSource: soundexchange

@@ -1,7 +1,7 @@
 ---
 title: "Why are there twelve notes?"
 subtitle: "And why did Pythagoras hate beans?"
-description: "Western music's twelve tones come from stacking octaves (2:1) and fifths (3:2) — a search for order and divinity in ratios, whether or not the universe is actually that tidy."
+description: "Western music's twelve tones come from stacking octaves (2:1) and fifths (3:2): a search for order and divinity in ratios, whether or not the universe is actually that tidy."
 date: 2024-07-10
 series: music-theory-101
 part: 2

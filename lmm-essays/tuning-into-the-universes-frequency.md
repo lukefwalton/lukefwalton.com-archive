@@ -1,7 +1,7 @@
 ---
 title: "Tuning into the Universe's Frequency (What Are Notes?)"
 subtitle: "What are frequencies?"
-description: "All notes are frequencies; all frequencies are waves. A note is what an ensemble agrees to call a pitch — culture, not essence — on an infinite gradient."
+description: "All notes are frequencies; all frequencies are waves. A note is what an ensemble agrees to call a pitch (culture, not essence) on an infinite gradient."
 date: 2024-06-25
 series: music-theory-101
 part: 1

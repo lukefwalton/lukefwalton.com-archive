@@ -31,7 +31,7 @@ topicsDiscussed:
 hostNote: |
   Lose The Beatles and rock becomes a ship without a rudder. That's the premise of this chapter, and what fills the void is stranger and more varied than anyone expected.
   
-  Tony Iommi loses the tips of his fretting fingers in a factory accident, tunes down to make the strings easier to bend, and accidentally invents the heaviest sound anyone had heard — "otherworldly, evil cosplay" is how I describe it. Meanwhile Iron Maiden is stacking two simultaneous guitar solos, and punk is doing the opposite of all of it: stripping out the virtuosity, turning the volume up on the social and political, and making music anyone could play.
+  Tony Iommi loses the tips of his fretting fingers in a factory accident, tunes down to make the strings easier to bend, and accidentally invents the heaviest sound anyone had heard: "otherworldly, evil cosplay" is how I describe it. Meanwhile Iron Maiden is stacking two simultaneous guitar solos, and punk is doing the opposite of all of it: stripping out the virtuosity, turning the volume up on the social and political, and making music anyone could play.
   
   By the end you understand why there isn't one rock sound anymore, and why that's exactly the point.
 

@@ -17,13 +17,13 @@ apple: "https://music.apple.com/us/song/who-am-i-really-fooling-anyway/161819210
 youtube: "https://www.youtube.com/watch?v=nh-pjqaxgjI"
 
 press:
-  - outlet: "Beformer — Spotify Indie Pop (Instagram)"
+  - outlet: "Beformer: Spotify Indie Pop (Instagram)"
     url: "https://www.instagram.com/p/Cd1Q6u-v1hF/"
-    desc: "May 21, 2022 — official Spotify Indie Pop editorial add; KŌAN C era."
-  - outlet: "Beformer — Spotify Bedroom Pop (Instagram)"
+    desc: "May 21, 2022. Official Spotify Indie Pop editorial add; KŌAN C era."
+  - outlet: "Beformer: Spotify Bedroom Pop (Instagram)"
     url: "https://www.instagram.com/p/Ce1qzrVPiys/"
-    desc: "June 15, 2022 — official Spotify Bedroom Pop editorial add; KŌAN C era."
-  - outlet: "Indie Shuffle — Who Am I Really Fooling Anyway"
+    desc: "June 15, 2022. Official Spotify Bedroom Pop editorial add; KŌAN C era."
+  - outlet: "Indie Shuffle: Who Am I Really Fooling Anyway"
     url: "https://www.indieshuffle.com/scoobert-doobert-who-am-i-fooling-anyway"
 
 themes: ["KŌAN", "identity", "imposter syndrome", "self-doubt"]

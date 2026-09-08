@@ -90,7 +90,7 @@ lyrics: |
 draft: false
 ---
 
-**FEiN & Lara Johnston** unreleased collaboration (Walton/Woodward co-write with **Lara Johnston**). [SoundCloud](https://soundcloud.com/feinmusic/feinxlara). Walton toured as guitarist/vocalist with Lara Johnston (Doobie Brothers, Gregg Allman) before production work together — released studio collab: [**Fresh Fruit (FEiN x Lara Johnston)**](/songs/fresh-fruit/) (**Sep 15, 2015**, public SoundCloud credits). Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** alongside [*Boomerang*](/songs/boomerang/) and [*Marry You On the Dance Floor*](/songs/marry-you-on-the-dance-floor/). Released feature: [*Remember Us*](/songs/remember-us/) (Embody / Armada).
+**FEiN & Lara Johnston** unreleased collaboration (Walton/Woodward co-write with **Lara Johnston**). [SoundCloud](https://soundcloud.com/feinmusic/feinxlara). Walton toured as guitarist/vocalist with Lara Johnston (Doobie Brothers, Gregg Allman) before production work together. Released studio collab: [**Fresh Fruit (FEiN x Lara Johnston)**](/songs/fresh-fruit/) (**Sep 15, 2015**, public SoundCloud credits). Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** alongside [*Boomerang*](/songs/boomerang/) and [*Marry You On the Dance Floor*](/songs/marry-you-on-the-dance-floor/). Released feature: [*Remember Us*](/songs/remember-us/) (Embody / Armada).
 
 A morning-after ballad built on domestic residue: cold sheets, *brush my teeth lonely*, the coffee made for two. The pre-chorus accepts the ending but not the manner of it (*maybe we were bound to break / but not like this*), which is the whole tension the chorus keeps circling.
 

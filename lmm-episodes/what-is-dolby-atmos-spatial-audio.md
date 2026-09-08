@@ -1,7 +1,7 @@
 ---
 title: "What is Dolby Atmos / Spatial Audio?"
 
-description: "Let’s talk about how to mix in Dolby Atmos—the benefits, the challenges and the stuff I’m most excited for. Thanks to EngineEars for the certification course. Been fun getting to know this new way of mixing."
+description: "Let’s talk about how to mix in Dolby Atmos: the benefits, the challenges and the stuff I’m most excited for. Thanks to EngineEars for the certification course. Been fun getting to know this new way of mixing."
 
 status: complete
 

@@ -98,13 +98,13 @@ lyrics: |
 draft: false
 
 press:
-  - outlet: "Indie Shuffle — Gonna Go to Japan"
+  - outlet: "Indie Shuffle: Gonna Go to Japan"
     url: "https://www.indieshuffle.com/scoobert-doobert-gonna-go-to-japan"
-  - outlet: "GRRIF — Recherche de titres"
+  - outlet: "GRRIF: Recherche de titres"
     url: "https://www.grrif.ch/recherche-de-titres/?date=2023-09-25"
     date: "2023-09-25"
-    desc: "Radio playlist log: \"gonna go to japan\" listed twice on 25 septembre 2023 (12:28, 17:25). Petite trace radio — not a campaign."
-  - outlet: "Radio Nova — catalogue des titres"
+    desc: "Radio playlist log: \"gonna go to japan\" listed twice on 25 septembre 2023 (12:28, 17:25). Petite trace radio, not a campaign."
+  - outlet: "Radio Nova: catalogue des titres"
     url: "https://www.nova.fr/"
     desc: "Catalog record: GONNA GO TO JAPAN · Scoobert Doobert · title ID #38775 · 03:05. Broadcast date unconfirmed from the accessible search result."
 
@@ -116,8 +116,8 @@ It's a whole trip taken entirely in the imagination: pre-flight jitters that los
 
 The gap closes on [*I*](/albums/i/), recorded partly on the Tōkaidō, San'yō, and Tōhoku Shinkansen. On *Moonlight Beach* Japan is still the horizon. Points forward to [*MÖB*](/albums/mob/) and the Möbius tag on the closer too.
 
-**Before the Shinkansen sessions:** Luke's first night in Japan — landing on his birthday — ended in a four-hour Kanda jam (20+ songs with local musicians). [Instagram TV archive](https://www.instagram.com/tv/CDZttU3lGrU/).
+**Before the Shinkansen sessions:** Luke's first night in Japan, landing on his birthday, ended in a four-hour Kanda jam (20+ songs with local musicians). [Instagram TV archive](https://www.instagram.com/tv/CDZttU3lGrU/).
 
-**Europe-facing radio traces (modest, verified):** [GRRIF](https://www.grrif.ch/recherche-de-titres/?date=2023-09-25)'s public title-search log for **25 septembre 2023** lists *gonna go to japan* twice (12:28, 17:25): a petite trace radio in French-language Switzerland, not a hit narrative. [Radio Nova](https://www.nova.fr/)'s **catalogue des titres** lists **GONNA GO TO JAPAN** by Scoobert Doobert as title ID **#38775** (03:05); the accessible search result does not confirm a dated broadcast, so treat it as a catalog / editorial-system artifact unless a dated Nova playlist log surfaces. Un petit fossile public — another public trace on the road, not a Paris radio campaign.
+**Europe-facing radio traces (modest, verified):** [GRRIF](https://www.grrif.ch/recherche-de-titres/?date=2023-09-25)'s public title-search log for **25 septembre 2023** lists *gonna go to japan* twice (12:28, 17:25): a petite trace radio in French-language Switzerland, not a hit narrative. [Radio Nova](https://www.nova.fr/)'s **catalogue des titres** lists **GONNA GO TO JAPAN** by Scoobert Doobert as title ID **#38775** (03:05); the accessible search result does not confirm a dated broadcast, so treat it as a catalog / editorial-system artifact unless a dated Nova playlist log surfaces. Un petit fossile public, another public trace on the road, not a Paris radio campaign.
 
 ---

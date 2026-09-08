@@ -56,7 +56,7 @@ selectedMoments:
     note: "Russ shares insights into how he navigated his identity as a musician, learning to embrace versatility while honing his skills on multiple instruments."
   - label: "Commitment to Craft"
     startSec: 1656
-    note: "The conversation highlights Russ's dedication to continuous growth as a musician and the importance of practicing—accepting the frustrations that come with it."
+    note: "The conversation highlights Russ's dedication to continuous growth as a musician and the importance of practicing, accepting the frustrations that come with it."
   - label: "Music's Emotional Impact"
     startSec: 3996
     note: "In a heartfelt conclusion, Russ reveals why he loves music, reflecting on its lasting excitement and the pursuit of creating something meaningful."

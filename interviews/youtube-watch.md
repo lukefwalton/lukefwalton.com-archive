@@ -1,6 +1,6 @@
 ---
 title: Us then
-description: Video interview — *Little Homes* era.
+description: Video interview from the *Little Homes* era.
 subject: FEiN
 outlet: Us then
 publisher: YouTube
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Us then](https://www.youtube.com/watch?v=IMbCaso2O3w)
 
-Video interview — *Little Homes* era.
+Video interview from the *Little Homes* era.

@@ -23,9 +23,9 @@ isrc: QMAAK1748494
 isrcSource: spotify
 
 press:
-  - outlet: "Rees Finley — Dear Abby (SoundCloud credits)"
+  - outlet: "Rees Finley: Dear Abby (SoundCloud credits)"
     url: "https://soundcloud.com/rees-finley/dear-abby"
-  - outlet: "Rees Finley — Dear Abby (YouTube MV credits)"
+  - outlet: "Rees Finley: Dear Abby (YouTube MV credits)"
     url: "https://youtu.be/hlUnCOPWw2s"
   - outlet: "Songs 1-5 EP (Apple Music)"
     url: "https://music.apple.com/us/album/songs-1-5-ep/1269175934"
@@ -37,7 +37,7 @@ themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2017", "session"]
 draft: false
 ---
 
-**Rees Finley** — neurotic alt-pop from the USC Thornton orbit. [Dear Abby](https://youtu.be/hlUnCOPWw2s) landed on the five-song [**Songs 1-5**](/catalog/#credited-work) EP (**August 4, 2017**) and later on the fourteen-track [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) collection (**March 8, 2019**).
+**Rees Finley**: neurotic alt-pop from the USC Thornton orbit. [Dear Abby](https://youtu.be/hlUnCOPWw2s) landed on the five-song [**Songs 1-5**](/catalog/#credited-work) EP (**August 4, 2017**) and later on the fourteen-track [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) collection (**March 8, 2019**).
 
 Public credits on [SoundCloud](https://soundcloud.com/rees-finley/dear-abby) and the [official music video](https://youtu.be/hlUnCOPWw2s): **recorded and produced by FEiN**; **guitars by Luke Walton**; **drums and percussion by Brandon Woodward**. Same Tiny Giant / FEiN lane as [Hate To See You](/songs/hate-to-see-you/) (recording) and [American Champagne](/songs/american-champagne/) (guitars + FEiN production).
 

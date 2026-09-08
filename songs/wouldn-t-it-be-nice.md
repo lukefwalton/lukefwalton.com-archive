@@ -20,12 +20,12 @@ youtube: "https://www.youtube.com/watch?v=cAVzu5PS-F8"
 themes: ["KŌAN", "cover", "2022"]
 
 press:
-  - outlet: "Beformer — Spotify Modern Psychedelia (Instagram)"
+  - outlet: "Beformer: Spotify Modern Psychedelia (Instagram)"
     url: "https://www.instagram.com/p/CdYkhnKlR73/"
-    desc: "May 10, 2022 — official Spotify Modern Psychedelia add; Beach Boys cover."
-  - outlet: "Beformer — Spotify Indie Covers (Instagram)"
+    desc: "May 10, 2022. Official Spotify Modern Psychedelia add; Beach Boys cover."
+  - outlet: "Beformer: Spotify Indie Covers (Instagram)"
     url: "https://www.instagram.com/p/Cd8d2nzrQ-_/"
-    desc: "May 24, 2022 — official Spotify Indie Covers add; Beach Boys cover."
+    desc: "May 24, 2022. Official Spotify Indie Covers add; Beach Boys cover."
 
 isrc: QZDA82294196
 isrcSource: soundexchange

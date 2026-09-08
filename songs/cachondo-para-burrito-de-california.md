@@ -22,7 +22,7 @@ draft: false
 
 Standalone **2018** instrumental (**~1:02**, SoundExchange). One of dozens of ~one-minute distro drops between the March 2018 [*Finding $D (Remastered)*](/albums/finding-d-remastered/) cycle and [*$WAMI$*](/albums/wami/) (**May 9, 2018** on Bandcamp): joke titles and palette cleansers, not a formal EP.
 
-The title is the whole gag — *cachondo para burrito de California*: same coastal food geography that later shows up on [*Feels So Good*](/songs/feels-so-good/) and becomes pure insistence on [*Shrimp Burrito*](/songs/shrimp-burrito/) (*Moonlight Beach*, 2023). Instrumental; no lyrics page.
+The title is the whole gag: *cachondo para burrito de California*, same coastal food geography that later shows up on [*Feels So Good*](/songs/feels-so-good/) and becomes pure insistence on [*Shrimp Burrito*](/songs/shrimp-burrito/) (*Moonlight Beach*, 2023). Instrumental; no lyrics page.
 
 See [Catalog](/catalog/) · [*$WAMI$*](/albums/wami/)
 

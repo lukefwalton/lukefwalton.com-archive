@@ -18,10 +18,10 @@ apple: "https://music.apple.com/us/album/kōan/1618191665"
 themes: ["KŌAN", "Japan", "childhood", "memory", "Japanese"]
 
 press:
-  - outlet: "KCRW — Morning Becomes Eclectic playlist"
+  - outlet: "KCRW: Morning Becomes Eclectic playlist"
     url: "https://www.kcrw.com/shows/morning-becomes-eclectic/stories/morning-becomes-eclectic-playlist-july-5-2022"
-    desc: "July 5, 2022 — KODOMO MITAI from KŌAN C (Beformer); DJ note: out of San Diego, like a child in Japanese."
-  - outlet: "Beformer — KCRW Morning Becomes Eclectic (Instagram)"
+    desc: "July 5, 2022: KODOMO MITAI from KŌAN C (Beformer); DJ note: out of San Diego, like a child in Japanese."
+  - outlet: "Beformer: KCRW Morning Becomes Eclectic (Instagram)"
     url: "https://www.instagram.com/p/CiN9BHmPbR2/"
     desc: "Beformer celebrates KODOMO MITAI on Morning Becomes Eclectic; Anthony Valadez on-air quote on the artist name."
 

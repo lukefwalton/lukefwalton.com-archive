@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Emotional storytelling in music"
 
 hostNote: |
-  In this episode of Love Music More, we explore the depths of artistic creation with the fascinating duo, **Chris Hackman** of Human Barbie and **Xuan Nguyen** of veronicavon. Together, they share insights into their unique musical processes, revealing how their contrasting styles—one rooted in lo-fi pop and the other in analog rock—collaborate to create an enticing sound. This episode is a From discussing the influence of recording techniques to navigating the challenges of collaboration, Chris and Xuan offer a candid look at the realities of being an artist today. Whether you’re a budding musician or a dedicated fan, this conversation will resonate with anyone who values the magic inherent in creativity.
+  Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home; **Xuan Nguyen** records as veronicavon, rock tracked on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.
 
 selectedMoments:
   - label: "The contrast of music styles"

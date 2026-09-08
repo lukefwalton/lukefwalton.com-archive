@@ -29,7 +29,7 @@ hostNote: |
   
   The thing that really unlocked it was writing my own lyrics rather than letting the AI do it. AI lyric generation is still the weakest link, but plugging that gap with human taste elevates the whole thing. BBL Drizzy is the more high-profile example: a voice transform done with AI, anonymously, that went viral. The tools are already in use; the question is how.
   
-  A lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools — I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.
+  A lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools. I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.
 
 selectedMoments:
   - label: "Introduction to AI Music Project"

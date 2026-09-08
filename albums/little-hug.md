@@ -31,10 +31,10 @@ tracks:
   - { title: "A Little Hug", song: a-little-hug }
 
 press:
-  - outlet: "The Wavys — EP of the Year nominee"
+  - outlet: "The Wavys: EP of the Year nominee"
     url: "https://www.instagram.com/p/CUNCY0srSAg/"
     date: "2021-09-24"
-    desc: "wavyawards2021 — Little Hug nominated for EP of the Year; @wavyawards Instagram carousel with @mr.scoobert_doobert among nominees."
+    desc: "wavyawards2021: Little Hug nominated for EP of the Year; @wavyawards Instagram carousel with @mr.scoobert_doobert among nominees."
   - outlet: "Glasse Factory"
     url: "https://glassefactory.com/scoobert-dooberts-new-track-think-about-it-is-experimental-funk-at-its-finest/"
     desc: "Artist note: fifth record, about the process of coming back into the world."

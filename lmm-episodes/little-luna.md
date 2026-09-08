@@ -21,8 +21,8 @@ topicsDiscussed:
   - "Creativity"
   - "Songwriting"
   - "The music business"
-  - "Creative influences — yoga and meditation"
-  - "Music as a journey — authentic expression"
+  - "Creative influences: yoga and meditation"
+  - "Music as a journey: authentic expression"
   - "Navigating the music industry today"
   - "Importance of visuals in music"
   - "Releasing music independently"
@@ -31,7 +31,7 @@ topicsDiscussed:
   - "Sync placements and their impact on indie artists"
 
 hostNote: |
-  **little luna** is an LA singer-songwriter who has taught **yoga and guided meditation for a decade**. Lyrics show up in meditation; she writes from voice memos with the antenna up. The episode title is her line: **breathing in this timeline** — a song can belong to the person living it, not just the chart.
+  **little luna** is an LA singer-songwriter who has taught **yoga and guided meditation for a decade**. Lyrics show up in meditation; she writes from voice memos with the antenna up. The episode title is her line: **breathing in this timeline**, a song can belong to the person living it, not just the chart.
   
   We talk through an honest writing year with no real breaks, collaboration as a creative exchange even when the song stays hers, **sync** without abandoning the little-luna sound, and a live show she wants to feel like a heated yoga class: the music slaps, the flow works, everyone leaves better. She has even thought about VIP as a guided meditation, not just a photo.
 
@@ -89,7 +89,7 @@ excerptQuotes:
 
 faq:
   - question: "What does little luna mean by breathing in this timeline?"
-    answer: "She talks about songs belonging to the person living and breathing in this timeline — a favorite can be about the life you are in, not a universal chart formula."
+    answer: "She talks about songs belonging to the person living and breathing in this timeline: a favorite can be about the life you are in, not a universal chart formula."
   - question: "How does little luna use yoga and meditation in her music?"
     answer: "She has taught yoga and meditation for about a decade. Lyrics often arrive in meditation; she treats live shows like a class where the music and the flow should leave people better."
   - question: "How does little luna think about sync placements?"

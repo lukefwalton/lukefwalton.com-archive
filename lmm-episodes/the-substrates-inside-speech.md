@@ -27,32 +27,32 @@ topicsDiscussed:
   - "the role of rhythm"
 
 hostNote: |
-  Where does speech end and song begin? This solo episode follows that line — through inflection, stress, and pitch that change meaning without changing words, the blurry border between talk and rap, and **Mononeon**'s groove-forward clips that treat conversation like a pocket.
+  Where does speech end and song begin? This solo episode follows that line: through inflection, stress, and pitch that change meaning without changing words, the blurry border between talk and rap, and **Mononeon**'s groove-forward clips that treat conversation like a pocket.
   
   I pull on **Diana Deutsch**'s speech-to-song illusion, cross-cultural comedy timing, and what happens when AI voice and auto-tune reshape the musical vocabulary we inherit from everyday talk.
 
 selectedMoments:
   - label: "Exploring inflection and meaning"
     startSec: 65
-    note: "Same words, different pitch and stress — different meaning. That's the music of language."
+    note: "Same words, different pitch and stress: different meaning. That's the music of language."
   - label: "Vagueness between speech and rap"
     startSec: 92
-    note: "Speech, rap, song — mostly context."
+    note: "Speech, rap, song: mostly context."
   - label: "Language learning as playing an instrument"
     startSec: 182
-    note: "You're not just learning words — you're learning a new rhythmic instrument."
+    note: "You're not just learning words. You're learning a new rhythmic instrument."
   - label: "Speech patterns and genres"
     startSec: 227
     note: "Word order across languages is genre, not just semantics."
   - label: "Speech-to-song illusion"
     startSec: 361
-    note: "Diana Deutsch — repeat a phrase unchanged and the border dissolves."
+    note: "Diana Deutsch: repeat a phrase unchanged and the border dissolves."
   - label: "Cultural differences in comedic timing"
     startSec: 725
     note: "Everyone cracks up; you're the one who doesn't get the joke."
   - label: "Impact of AI on speech"
     startSec: 863
-    note: "How synthetic voice enters the musical vocabulary — like auto-tune did."
+    note: "How synthetic voice enters the musical vocabulary, like auto-tune did."
   - label: "Melody, rhythm, phrasing recap"
     startSec: 948
     note: "What's stressed, unstressed, where's the beat."

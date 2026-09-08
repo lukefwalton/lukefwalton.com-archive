@@ -17,7 +17,7 @@ apple: "https://music.apple.com/us/album/infant/1459487931?i=1459487932"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
 press:
-  - outlet: "Spotify for Artists — New Music Friday (FEiN Facebook, May 3, 2019)"
+  - outlet: "Spotify for Artists: New Music Friday (FEiN Facebook, May 3, 2019)"
     url: "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"
 
 themes: ["FEiN", "grief", "misreading", "loss", "theatrical pop", "Spotify editorial"]
@@ -83,6 +83,6 @@ Trust under false sleep: the title as helpless noise (*a teething infant bleatin
 
 The second verse goes theatrical, FEiN drama at full register, *patiently, you waited for the moment to remove the head*, execution imagery as relationship climax. By the outro the chorus stacks until language breaks, no new information, only repetition as a grief loop. Less satirical than *Little Homes*, less static than *Culling*: misrecognition as the wound. Pairs with [*Behave*](/songs/behave/) (control scripts you can't follow) and [*800,000*](/songs/800-000/) (apocalyptic exit).
 
-**Spotify editorial:** **May 3, 2019** FEiN Facebook post ([screenshot](/evidence/fein-infant-new-music-friday-facebook.png)) thanked Spotify for including *Infant* on **New Music Friday** — **Spotify for Artists** graphic: *“Infant” by FEiN was added to this playlist* (release **May 2, 2019**). See [Catalog: official playlists and platform circulation](/catalog/#spotify-editorial).
+**Spotify editorial:** **May 3, 2019** FEiN Facebook post ([screenshot](/evidence/fein-infant-new-music-friday-facebook.png)) thanked Spotify for including *Infant* on **New Music Friday**, via a **Spotify for Artists** graphic: *“Infant” by FEiN was added to this playlist* (release **May 2, 2019**). See [Catalog: official playlists and platform circulation](/catalog/#spotify-editorial).
 
 ---

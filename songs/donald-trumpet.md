@@ -22,7 +22,7 @@ draft: false
 
 Standalone **2018** instrumental (**~1:13**, SoundExchange). Same pre-[*$WAMI$*](/albums/wami/) scatter as [*Cuckoo's Nest*](/songs/cuckoos-nest/), [*Speak Easy*](/songs/speak-easy/), and [*Purdie Birdie*](/songs/purdie-birdie/): one-minute distro singles with pun titles, tracked while the cartoon-lore LP was still assembling.
 
-The joke is in the name — *Donald Trumpet*, a brass-instrument gag from the 2018 news cycle, not a speech sample. Instrumental bed; no lyric annotation.
+The joke is in the name: *Donald Trumpet*, a brass-instrument gag from the 2018 news cycle, not a speech sample. Instrumental bed; no lyric annotation.
 
 See [Catalog](/catalog/) · [*$WAMI$*](/albums/wami/)
 

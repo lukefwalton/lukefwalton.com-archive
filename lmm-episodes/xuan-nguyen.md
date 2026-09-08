@@ -34,7 +34,7 @@ topicsDiscussed:
 hostNote: |
   In this episode of **Love Music More**, we dive deep into the creative synergy of *Veronica Vaughn*, the dynamic duo of Chris Hackman (Human Barbie) and Xuan Nguyen. As they share insights about their artistic journey, Their engaging discussions touch on everything from the interplay between lo-fi pop and analog production to the serendipity that can lead to unexpected artistic collaborations.
   
-  With their whimsical soundscapes and a shared passion for pushing musical boundaries, Chris and Xuan help illuminate the essence of collaboration in music-making. This conversation isn't just for fans of their work—it's for anyone interested in the creative process and the beauty of music’s evolving landscape.
+  With their whimsical soundscapes and a shared passion for pushing musical boundaries, Chris and Xuan help illuminate the essence of collaboration in music-making. This conversation isn't just for fans of their work. It's for anyone interested in the creative process and the beauty of music’s evolving landscape.
 
 selectedMoments:
   - label: "Differences in project production styles"

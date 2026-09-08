@@ -41,7 +41,7 @@ selectedMoments:
     note: "Andy paints a picture of New York City as it was crumbling yet bursting with creativity, filled with cheap rents and an influx of artists and musicians."
   - label: "Forming The Dictators"
     startSec: 396
-    note: "Andy narrates the beginnings of The Dictators—how he met Ross the Boss and the early influences that shaped their sound."
+    note: "Andy narrates the beginnings of The Dictators: how he met Ross the Boss and the early influences that shaped their sound."
   - label: "Discovering punk music's potential"
     startSec: 478
     note: "He discusses how the urgent need for new music inspired their formation and how bands like MC5 influenced their direction."

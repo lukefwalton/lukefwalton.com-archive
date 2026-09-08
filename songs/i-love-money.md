@@ -18,7 +18,7 @@ officialVideo: "https://www.youtube.com/watch?v=VkWi_2cmFbI"
 apple: "https://music.apple.com/us/album/i-love-money/1585121212?i=1585121216"
 
 press:
-  - outlet: "Indie Shuffle — I Love Money"
+  - outlet: "Indie Shuffle: I Love Money"
     url: "https://www.indieshuffle.com/scoobert-doobert-i-love-money"
 
 themes: ["capitalism", "Big Hug", "satire", "hustle culture", "class", "meme stocks"]
@@ -111,6 +111,6 @@ What dates it is the 2021 finance-bro regret. *It's not a gamble when you win* i
 
 Same *Big Hug* thesis: approachable weirdness, class anxiety without the dread, money worship as a cartoon shell around turning thirty.
 
-**Mix / radio-show circulation:** Deep House Cat’s Apple Podcasts episode [*Mountain Hemlock Mix - feat. Dexaville*](https://podcasts.apple.com/us/podcast/mountain-hemlock-mix-feat-dexaville-deep-house-cat-show/id212654198?i=1000548599173) (January 21, 2022) lists *I Love Money* as track 14 in the published tracklist. Deep House Cat is a syndicated deep-house podcast/radio show — mix circulation, not a Spotify editorial playlist. See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/#radio-playlists).
+**Mix / radio-show circulation:** Deep House Cat’s Apple Podcasts episode [*Mountain Hemlock Mix - feat. Dexaville*](https://podcasts.apple.com/us/podcast/mountain-hemlock-mix-feat-dexaville-deep-house-cat-show/id212654198?i=1000548599173) (January 21, 2022) lists *I Love Money* as track 14 in the published tracklist. Deep House Cat is a syndicated deep-house podcast/radio show: mix circulation, not a Spotify editorial playlist. See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/#radio-playlists).
 
 ---

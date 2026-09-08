@@ -1,7 +1,7 @@
 ---
 title: "5 Lessons from Igor Stravinsky"
 
-description: "Five lessons from Igor Stravinsky's early career — riots at The Rite of Spring, mentorship under Rimsky-Korsakov, and why being ahead of the curve felt like failure from the inside."
+description: "Five lessons from Igor Stravinsky's early career: riots at The Rite of Spring, mentorship under Rimsky-Korsakov, and why being ahead of the curve felt like failure from the inside."
 
 status: complete
 
@@ -49,7 +49,7 @@ selectedMoments:
     note: "Piano study wasn't extraordinary, but mentorship and deliberate craft were."
   - label: "Riots at the premiere"
     startSec: 410
-    note: "The Rite of Spring was so intense it spilled into the streets — divisiveness as a signal."
+    note: "The Rite of Spring was so intense it spilled into the streets: divisiveness as a signal."
   - label: "Combining old and new"
     startSec: 632
     note: "Folk melodies, classical forms, and contemporary chaos woven into one voice."
@@ -81,7 +81,7 @@ faq:
   - question: "What five lessons does Luke draw from Igor Stravinsky?"
     answer: "Being ahead of the curve hurts but can signal you're onto something; relationships and mentorship (Rimsky-Korsakov) mattered as much as talent; riots at The Rite of Spring show how divisive innovation can be; absorb what's around you without losing your voice; and blurring performer and audience (Petrushka) can be its own kind of marketing."
   - question: "Why did Stravinsky's music cause riots?"
-    answer: "The premiere of The Rite of Spring was so rhythmically and harmonically intense that contemporary audiences reacted violently — critics at the time trashed it the way they had trashed Beethoven decades earlier. Luke uses Dr. Greenberg's course clips to show that 'most people hated it' is often what ahead-of-the-curve work looks like from inside the moment."
+    answer: "The premiere of The Rite of Spring was so rhythmically and harmonically intense that contemporary audiences reacted violently. Critics at the time trashed it the way they had trashed Beethoven decades earlier. Luke uses Dr. Greenberg's course clips to show that 'most people hated it' is often what ahead-of-the-curve work looks like from inside the moment."
   - question: "What does Stravinsky have to do with modern mixing?"
     answer: "Luke ties Stravinsky's reliance on mentors to his own craft: some skills, mixing among them, still require a teacher and a community, not just solitary trial and error."
 

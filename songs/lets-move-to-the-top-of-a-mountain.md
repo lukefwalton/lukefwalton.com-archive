@@ -18,7 +18,7 @@ officialVideo: "https://www.youtube.com/watch?v=262Lyzs67yQ"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
 press:
-  - outlet: "Indie Shuffle — Let's Move to the Top of a Mountain"
+  - outlet: "Indie Shuffle: Let's Move to the Top of a Mountain"
     url: "https://www.indieshuffle.com/schoobert-doobert-lets-move-to-the-top-of-a-mountain"
 
 themes: ["KŌAN", "escape", "love", "nature", "utopia"]

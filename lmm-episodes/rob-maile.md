@@ -37,7 +37,7 @@ hostNote: |
   
   We get into the physics first: microphones are transducers, they translate sound into electricity, and dynamic mics and speakers are built from the same components (coil and magnet), which means you can use a speaker as a microphone if you know what you’re doing. Rob walks through ribbon microphones, why analog low-end is an underexplored area of recording, and the kind of non-traditional experiments that produce interesting results when you stop treating the signal chain as fixed.
   
-  We also talk about the Pultec — "almost an instrument on its own", the intersection of professional gear and DIY thinking, and what it means that music is one of the things that makes us continue existing: the stories that hold people together, especially when everything else is uncertain.
+  We also talk about the Pultec, "almost an instrument on its own", the intersection of professional gear and DIY thinking, and what it means that music is one of the things that makes us continue existing: the stories that hold people together, especially when everything else is uncertain.
 
 selectedMoments:
   - label: "Rob introduces his role in the industry"

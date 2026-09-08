@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Mentorship in audio education"
 
 hostNote: |
-  **Joe Carra** is a Grammy-nominated mastering engineer and chief engineer at **Crystal Mastering** in Melbourne, with 30-plus years on the desk and a roster that includes **Hiatus Kaiyote**, **Middle Kids**, and **Pond**. The episode title is his phrase: **pockets of presence** — half a dB, a dB, hours of listening to find the pocket that actually belongs to the record.
+  **Joe Carra** is a Grammy-nominated mastering engineer and chief engineer at **Crystal Mastering** in Melbourne, with 30-plus years on the desk and a roster that includes **Hiatus Kaiyote**, **Middle Kids**, and **Pond**. The episode title is his phrase: **pockets of presence**, half a dB, a dB, hours of listening to find the pocket that actually belongs to the record.
   
   We talk through mastering as a small business (hustle, clients, never going complacent), why a stacked single-first schedule fights the album as a whole, Dolby Atmos as interpretation rather than a skippable step, and why **LANDR** “doesn’t understand context.” Joe also traces credits through digital distributors for the Music Producers Guild, and wants some of that NAMM spirit back in Melbourne.
 
@@ -88,7 +88,7 @@ excerptQuotes:
 
 faq:
   - question: "What does Joe Carra mean by pockets of presence?"
-    answer: "On a dense mix he looks for tiny, careful lifts — half a dB or a dB — that add presence without flattening the record. He spent hours finding which pocket worked, with the producer in the room."
+    answer: "On a dense mix he looks for tiny, careful lifts (half a dB or a dB) that add presence without flattening the record. He spent hours finding which pocket worked, with the producer in the room."
   - question: "What does Joe Carra think of LANDR and AI mastering?"
     answer: "Artists still send him LANDR versions to beat. He would rather use his own plugins than LANDR, and says it does not understand musical context the way an engineer does."
   - question: "Where does Joe Carra work?"

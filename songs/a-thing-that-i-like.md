@@ -13,9 +13,9 @@ spotify: "https://open.spotify.com/track/3hfPi3a4TjFGK6psC7o8OZ"
 themes: ["FASONE", "collaboration", "2022"]
 
 press:
-  - outlet: "Beformer — Spotify Fresh Finds Rock (Instagram)"
+  - outlet: "Beformer: Spotify Fresh Finds Rock (Instagram)"
     url: "https://www.instagram.com/p/CdMWBOAvXML/"
-    desc: "May 5, 2022 — official Spotify Fresh Finds Rock add; FASONE × Scoobert Doobert collab."
+    desc: "May 5, 2022: official Spotify Fresh Finds Rock add; FASONE × Scoobert Doobert collab."
 
 isrc: QZES82217869
 isrcSource: soundexchange

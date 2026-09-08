@@ -74,7 +74,7 @@ draft: false
 
 Track ten on [*MÖB*](/albums/mob/), penultimate before [*All I Need*](/songs/all-i-need/). Luke's note: **trying to conceive of being a father**. He does not have kids yet, so the song is rehearsal, not report.
 
-**[Vinyl Moon Vol. 100: *Century*](https://vinylmoon.co/products/vol-100)** (VM Club **Dec 2023**, 2× LP milestone release) — **B1**, opening side B ([Discogs](https://www.discogs.com/master/3361636-Various-Vinyl-Moon-Volume-100-Century) · [Spotify](https://open.spotify.com/album/7eRBlvq93T9EXDqaUPkFxu) · [AR experience](https://ar.vinylmoon.co/vm100/)). The Century placement is the bigger vinyl win in the public trail; Vol. 066 carried [*Take a Breath*](/songs/take-a-breath/) earlier ([Vinyl Moon](/catalog/#vinyl-moon)).
+**[Vinyl Moon Vol. 100: *Century*](https://vinylmoon.co/products/vol-100)** (VM Club **Dec 2023**, 2× LP milestone release): **B1**, opening side B ([Discogs](https://www.discogs.com/master/3361636-Various-Vinyl-Moon-Volume-100-Century) · [Spotify](https://open.spotify.com/album/7eRBlvq93T9EXDqaUPkFxu) · [AR experience](https://ar.vinylmoon.co/vm100/)). The Century placement is the bigger vinyl win in the public trail; Vol. 066 carried [*Take a Breath*](/songs/take-a-breath/) earlier ([Vinyl Moon](/catalog/#vinyl-moon)).
 
 An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Chasing the Sunset*](/songs/chasing-the-sunset/). See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
 

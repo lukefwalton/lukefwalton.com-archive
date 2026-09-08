@@ -17,9 +17,9 @@ spotify: "https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD"
 themes: ["cover", "Japan", "2022"]
 
 press:
-  - outlet: "Beformer — Spotify Today's Indie Rock (Instagram)"
+  - outlet: "Beformer: Spotify Today's Indie Rock (Instagram)"
     url: "https://www.instagram.com/p/CeuQ6cbP7HP/"
-    desc: "June 12, 2022 — official Spotify Today's Indie Rock add; Kenshi Yonezu (@hachi_08) feat. Yojiro Noda cover."
+    desc: "June 12, 2022: official Spotify Today's Indie Rock add; Kenshi Yonezu (@hachi_08) feat. Yojiro Noda cover."
 
 isrc: QZHN62269758
 isrcSource: soundexchange

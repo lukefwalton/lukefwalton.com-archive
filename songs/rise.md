@@ -11,7 +11,7 @@ artist: "Tamtam"
 role: production
 productionRoles: "Production · played on"
 
-credits: "Production: Luke Walton & Brandon Woodward — [Genius](https://genius.com/Tamtam-rise-lyrics); [FEKR Meet Tamtam](https://fekrarabia.com/music); [YouTube MV description](https://www.youtube.com/watch?v=EiePL0e9p7o): Produced by Fein; lyrics Tamtam & Grandson; mixed Frank Rosato; mastered Riley Knapp. Played on: remembered by Luke Walton; not in Apple/Spotify credits metadata. Live: Walton performed with Tamtam at Kuwait Rising (Apr 27, 2018) per Lyn Winter press release."
+credits: "Production: Luke Walton & Brandon Woodward, per [Genius](https://genius.com/Tamtam-rise-lyrics); [FEKR Meet Tamtam](https://fekrarabia.com/music); [YouTube MV description](https://www.youtube.com/watch?v=EiePL0e9p7o): Produced by Fein; lyrics Tamtam & Grandson; mixed Frank Rosato; mastered Riley Knapp. Played on: remembered by Luke Walton; not in Apple/Spotify credits metadata. Live: Walton performed with Tamtam at Kuwait Rising (Apr 27, 2018) per Lyn Winter press release."
 
 press:
   - outlet: "Genius: Rise (producers Luke Walton & Brandon Woodward)"
@@ -43,9 +43,9 @@ draft: false
 
 **Tamtam** (Reem Altamimi), co-written with **Jordan Benjamin (Grandson)**; **produced by Brandon Woodward and Luke Walton** ([FEiN](/music/fein/)), before the Scoobert bedroom-pop breakout. Video directed by **Meshal Al Jaser**.
 
-[Genius](https://genius.com/Tamtam-rise-lyrics), [FEKR’s *Meet Tamtam* feature](https://fekrarabia.com/music), and the [official MV description](https://www.youtube.com/watch?v=EiePL0e9p7o) all name **Luke Walton and Brandon Woodward** as producers (Genius and FEKR also frame them as **FEiN**); lyrics **Tamtam & Grandson**; mixed **Frank Rosato**; mastered **Riley Knapp**; video **Meshal Al Jaser**. **Production is public record.** Luke Walton **remembers playing on the record**; unlike [**ROLLERCOASTER**](/songs/rollercoaster/) (2023), *Rise* does not surface instrumentation in Apple/Spotify credits metadata — that role stays **private archive / memory**.
+[Genius](https://genius.com/Tamtam-rise-lyrics), [FEKR’s *Meet Tamtam* feature](https://fekrarabia.com/music), and the [official MV description](https://www.youtube.com/watch?v=EiePL0e9p7o) all name **Luke Walton and Brandon Woodward** as producers (Genius and FEKR also frame them as **FEiN**); lyrics **Tamtam & Grandson**; mixed **Frank Rosato**; mastered **Riley Knapp**; video **Meshal Al Jaser**. **Production is public record.** Luke Walton **remembers playing on the record**; unlike [**ROLLERCOASTER**](/songs/rollercoaster/) (2023), *Rise* does not surface instrumentation in Apple/Spotify credits metadata. That role is remembered, not documented.
 
-**Kuwait Rising** (**April 27, 2018**): **Luke Francis Walton performed live** with Tamtam — named in the [Lyn Winter *Rise* press release](https://lynwinter.com/media/pages/news/tamtam-releases-music-video-rise/75dd3e98d8-1607628493/rise-press-release-final-8-15.pdf) (Aug 2018). Separate from the studio played-on memory above.
+**Kuwait Rising** (**April 27, 2018**): **Luke Francis Walton performed live** with Tamtam, named in the [Lyn Winter *Rise* press release](https://lynwinter.com/media/pages/news/tamtam-releases-music-video-rise/75dd3e98d8-1607628493/rise-press-release-final-8-15.pdf) (Aug 2018). Separate from the studio played-on memory above.
 
 See also: [Drive](/songs/drive/) (executive producer) · [ROLLERCOASTER](/songs/rollercoaster/) (2023, producer · Apple Music credits). [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [With Tamtam](/with/tamtam/)
 

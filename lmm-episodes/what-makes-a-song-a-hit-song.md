@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Social Influence on Music Taste"
 
 hostNote: |
-  **Robbie Williams** can fill stadiums in the UK and still be a blank to most Americans. That gap is the episode: what makes a song a hit is not a universal molecule in the audio. It is familiarity plus novelty — the aesthetic **aha** — run through a cultural lens.
+  **Robbie Williams** can fill stadiums in the UK and still be a blank to most Americans. That gap is the episode: what makes a song a hit is not a universal molecule in the audio. It is familiarity plus novelty (the aesthetic **aha**) run through a cultural lens.
   
   I walk through lab work on popularity cues (the same track ranked differently once people think it is already a hit), Gotye as both-at-once, and how digital ranking plus social proof can mint a local giant and a nowhere-else. Identical music, two rooms, two verdicts.
 

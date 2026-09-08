@@ -37,7 +37,7 @@ selectedMoments:
     note: "Open the thesis: funk is when groove displaces melody as the main event."
   - label: "Hitting the one"
     startSec: 135
-    note: "James Brown's rhythmic rupture — everything resolves back to beat one."
+    note: "James Brown's rhythmic rupture: everything resolves back to beat one."
   - label: "Cold Sweat as ground zero"
     startSec: 181
     note: "Why musicologists call this the first true funk record."
@@ -76,9 +76,9 @@ excerptQuotes:
 
 faq:
   - question: "Why does Luke call 'Cold Sweat' the first true funk song?"
-    answer: "Musicologists point to James Brown's 1967 record as the moment rhythm and the accent on beat one became the organizing principle — melody and harmony stepped back so the pocket could lead. I use it as the origin point for everything that followed."
+    answer: "Musicologists point to James Brown's 1967 record as the moment rhythm and the accent on beat one became the organizing principle. Melody and harmony stepped back so the pocket could lead. I use it as the origin point for everything that followed."
   - question: "How did funk drum breaks shape hip-hop?"
-    answer: "Breaks like Clyde Stubblefield's on 'Funky Drummer' were sparse enough to sample cleanly — no dense arrangement in the way — so producers could loop them into the backbone of hip-hop and breakdance culture."
+    answer: "Breaks like Clyde Stubblefield's on 'Funky Drummer' were sparse enough to sample cleanly (no dense arrangement in the way), so producers could loop them into the backbone of hip-hop and breakdance culture."
   - question: "Who are the key figures in Luke's funk history?"
     answer: "James Brown and Clyde Stubblefield for the rhythmic foundation, George Clinton and Parliament-Funkadelic for the psychedelic expansion, and the New Orleans lineage (The Meters) for the second-line pocket that funk inherited."
 

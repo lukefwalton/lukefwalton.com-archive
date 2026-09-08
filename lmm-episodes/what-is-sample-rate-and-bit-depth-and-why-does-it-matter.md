@@ -1,7 +1,7 @@
 ---
 title: "What is sample rate and bit depth? And why does it matter?"
 
-description: "In this pod, I talk through how recorded music, film and images are actually quite similar. Sample rate and bit depth are two important parts of an audio recording's fidelity (think lofi vs. hifi)—and are two awesome tools to play with as musicians."
+description: "In this pod, I talk through how recorded music, film and images are actually quite similar. Sample rate and bit depth are two important parts of an audio recording's fidelity (think lofi vs. hifi), and are two awesome tools to play with as musicians."
 
 status: complete
 

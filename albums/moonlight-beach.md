@@ -27,18 +27,18 @@ tracks:
   - { title: "möbius . spuǝ ʇᴉ ʍoɥ ʇoN", song: mobius-how-to-not-use-it }
 
 press:
-  - outlet: "Beformer — Indie Covers & Feel Good (Instagram)"
+  - outlet: "Beformer: Indie Covers & Feel Good (Instagram)"
     url: "https://www.instagram.com/p/CqJOsHWv_4D/"
-    desc: "March 23, 2023 — Dancing in the Moonlight (Beach) + Feels So Good on Indie Covers & Feel Good; Remi Wolf on Indie Covers art."
-  - outlet: "Beformer — Dancing in the Moonlight (Beach) on Spotify Chill Vibes (Instagram)"
+    desc: "March 23, 2023: Dancing in the Moonlight (Beach) + Feels So Good on Indie Covers & Feel Good; Remi Wolf on Indie Covers art."
+  - outlet: "Beformer: Dancing in the Moonlight (Beach) on Spotify Chill Vibes (Instagram)"
     url: "https://www.instagram.com/p/CpHC2DcrPYV/"
-    desc: "February 25, 2023 — major Chill Vibes editorial add; King Harvest cover."
-  - outlet: "Beformer — Feels So Good on Spotify Chilled Indie (Instagram)"
+    desc: "February 25, 2023: major Chill Vibes editorial add; King Harvest cover."
+  - outlet: "Beformer: Feels So Good on Spotify Chilled Indie (Instagram)"
     url: "https://www.instagram.com/p/Co3zXQEOmeR/"
-    desc: "February 19, 2023 — official Chilled Indie editorial add."
-  - outlet: "Beformer — Feels So Good Spotify playlist adds (Instagram)"
+    desc: "February 19, 2023: official Chilled Indie editorial add."
+  - outlet: "Beformer: Feels So Good Spotify playlist adds (Instagram)"
     url: "https://www.instagram.com/p/CoNgwdrPDlX/"
-    desc: "February 2023 — six official Spotify editorial adds; Ocean View promo in caption."
+    desc: "February 2023: six official Spotify editorial adds; Ocean View promo in caption."
   - outlet: "EARMILK"
     url: "https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/"
     date: "2023-02"
@@ -72,7 +72,7 @@ The title is not abstract. [Moonlight State Beach](https://www.parks.ca.gov/?pag
 
 This is also where the release becomes more social and less solipsistic. Earlier records were heavily internal-world: cartoon lore, pandemic mind, koan structure, internet friends. *Moonlight Beach* has covers, guests, and a more legible “come hang out” surface. *Walk Don't Run*, *Dancing in the Moonlight (Beach)*, and *Low Tide* make the album partly a covers conversation; Bubby Lewis and Jamie Drake make it a collaborator record; *Gonna Go to Japan* keeps the KŌAN/Japan thread alive; and the final flipped-title [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/) points forward into [*MÖB*](/albums/mob/) and the planned four-part cycle (**MÖB → I → US → MÖBIUS**). *MÖB* and *I* are finished; [*US*](/albums/us/) is in progress.
 
-Public radio logs show [FIP](https://en.wikipedia.org/wiki/FIP_(radio_station)) plays for *Walk Don't Run (Ventures Cover)* and *Dancing in the Moonlight (Beach)*. FIP is Radio France’s nationwide eclectic station: curated, genre-spanning, built for discovery rather than chart repetition. For [*Gonna Go to Japan*](/songs/gonna-go-to-japan/), the verified trail is smaller: [GRRIF](https://www.grrif.ch/recherche-de-titres/?date=2023-09-25) logged the title twice on **25 septembre 2023** (12:28, 17:25), and [Radio Nova](https://www.nova.fr/)'s **catalogue des titres** lists **GONNA GO TO JAPAN** as title ID **#38775** (03:05) without a confirmed broadcast date from the accessible search result. Not a campaign — un petit fossile public beside the FIP cover plays. On the Munich/Bavaria side, egoFM had already brought Scoobert into its world with a [Radiowelt interview](https://www.egofm.de/radiowelt/scoobert-doobert-interview), a written [California-week blog feature](https://www.egofm.de/blog/bier-burritos-und-marihuana) (beer, burritos, Encinitas), and a hosted [**Privataudienz**](https://www.egofm.de/radiowelt/die-egofm-privataudienz) guest hour (~25 min online cut): his curated track picks, his stories, funk and current favorites in rotation. egoFM broadcasts in Munich at 100.8 FM and across other Bavarian cities. Moonlight Beach is the era where that beach-pop language had visible French and German radio traction.
+Public radio logs show [FIP](https://en.wikipedia.org/wiki/FIP_(radio_station)) plays for *Walk Don't Run (Ventures Cover)* and *Dancing in the Moonlight (Beach)*. FIP is Radio France’s nationwide eclectic station: curated, genre-spanning, built for discovery rather than chart repetition. For [*Gonna Go to Japan*](/songs/gonna-go-to-japan/), the verified trail is smaller: [GRRIF](https://www.grrif.ch/recherche-de-titres/?date=2023-09-25) logged the title twice on **25 septembre 2023** (12:28, 17:25), and [Radio Nova](https://www.nova.fr/)'s **catalogue des titres** lists **GONNA GO TO JAPAN** as title ID **#38775** (03:05) without a confirmed broadcast date from the accessible search result. Not a campaign: un petit fossile public beside the FIP cover plays. On the Munich/Bavaria side, egoFM had already brought Scoobert into its world with a [Radiowelt interview](https://www.egofm.de/radiowelt/scoobert-doobert-interview), a written [California-week blog feature](https://www.egofm.de/blog/bier-burritos-und-marihuana) (beer, burritos, Encinitas), and a hosted [**Privataudienz**](https://www.egofm.de/radiowelt/die-egofm-privataudienz) guest hour (~25 min online cut): his curated track picks, his stories, funk and current favorites in rotation. egoFM broadcasts in Munich at 100.8 FM and across other Bavarian cities. Moonlight Beach is the era where that beach-pop language had visible French and German radio traction.
 
 It also lines up with the live transition. In a [2021 VENTS interview](https://ventsmagazine.com/2021/04/16/interview-indie-pops-scoobert-doobert/), Scoobert said he had not yet played live as Scoobert Doobert and was still figuring out solo performance. By the egoFM interviews around 2021–2022, he was talking about turning the virtual, live-stacked Scoobert idea into a real-world thing and starting to play out. This is the period when the project becomes a live act, not only a studio persona.
 

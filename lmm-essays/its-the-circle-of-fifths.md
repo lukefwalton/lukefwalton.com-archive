@@ -1,7 +1,7 @@
 ---
 title: "It's the Circle of Fifths"
 subtitle: "And it moves us all..."
-description: "Stack perfect fifths twelve times and you close a circle — or a spiral, until musicians fudge the math (enharmonics) the way geocentrism fudged the planets."
+description: "Stack perfect fifths twelve times and you close a circle, or a spiral, until musicians fudge the math (enharmonics) the way geocentrism fudged the planets."
 date: 2024-07-17
 series: music-theory-101
 part: 3

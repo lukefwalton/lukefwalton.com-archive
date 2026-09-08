@@ -18,9 +18,9 @@ spotify: "https://open.spotify.com/track/7n40YhDRGRow6PgquDAWRm"
 themes: ["KŌAN", "cover", "2022"]
 
 press:
-  - outlet: "Beformer — September on Spotify metropolis (Instagram)"
+  - outlet: "Beformer: September on Spotify metropolis (Instagram)"
     url: "https://www.instagram.com/p/CidhoQVv0t8/"
-    desc: "September 13, 2022 — official metropolis editorial add; Earth, Wind & Fire cover; KŌAN LP fourth movement."
+    desc: "September 13, 2022. Official metropolis editorial add; Earth, Wind & Fire cover; KŌAN LP fourth movement."
 
 isrc: QZHN32255315
 isrcSource: soundexchange

@@ -18,7 +18,7 @@ officialVideo: "https://www.youtube.com/watch?v=-EYpF1Xsw2A"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
 press:
-  - outlet: "Indie Shuffle — Boardwalk"
+  - outlet: "Indie Shuffle: Boardwalk"
     url: "https://www.indieshuffle.com/scoobert-doobert-boardwalk"
 
 themes: ["beach", "KŌAN", "One Piece", "class", "idle"]

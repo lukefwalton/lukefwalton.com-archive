@@ -31,7 +31,7 @@ topicsDiscussed:
   - "Advice for aspiring artists"
 
 hostNote: |
-  In this episode of Love Music More, we dive deep into the inspiring journey of **Kyle Pulley**, a talented music producer, audio engineer, and bassist based in Philadelphia. With a wealth of experience working alongside notable artists like **Alex G** and **Dr. Dog**, Kyle offers a unique perspective on the music industry, touching upon the challenges and triumphs one faces in building a successful career. His narratives about studio life—from being evicted from one space to establishing a flourishing new studio—resonate with anyone who's navigated the ups and downs of artistic endeavors.
+  In this episode of Love Music More, we dive deep into the inspiring journey of **Kyle Pulley**, a talented music producer, audio engineer, and bassist based in Philadelphia. With a wealth of experience working alongside notable artists like **Alex G** and **Dr. Dog**, Kyle offers a unique perspective on the music industry, touching upon the challenges and triumphs one faces in building a successful career. His narratives about studio life (from being evicted from one space to establishing a flourishing new studio) resonate with anyone who's navigated the ups and downs of artistic endeavors.
   
   Kyle emphasizes the importance of relationships and support in the music scene, making this episode a
 

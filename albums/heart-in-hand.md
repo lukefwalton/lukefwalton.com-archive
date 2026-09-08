@@ -1,7 +1,7 @@
 ---
 title: "Heart in Hand"
 
-description: "Early archive — 2008 self-released solo EP from Luke Walton’s teenage songwriter period (~13:00, four tracks)."
+description: "Early archive: 2008 self-released solo EP from Luke Walton’s teenage songwriter period (~13:00, four tracks)."
 
 year: 2008
 releaseType: EP

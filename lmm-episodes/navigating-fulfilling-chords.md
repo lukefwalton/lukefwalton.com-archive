@@ -28,7 +28,7 @@ topicsDiscussed:
   - "The Beatles"
 
 hostNote: |
-  What makes a chord cool is not a secret seventh-chord recipe. I sit at the mini-piano in **C major** — all the white keys — and treat theory as a map you can ignore once you can hear where a note wants to go. A Cmaj7 hangs because you counted to seven and it does not resolve. That hanging is the feeling, not the vocab word.
+  What makes a chord cool is not a secret seventh-chord recipe. I sit at the mini-piano in **C major** (all the white keys) and treat theory as a map you can ignore once you can hear where a note wants to go. A Cmaj7 hangs because you counted to seven and it does not resolve. That hanging is the feeling, not the vocab word.
   
   The through-line is **static notes**. Keep a pedal in the bass and let the other voices move: pop's oldest trick, and the same simple means that make **Radiohead** and Coldplay sound complex on guitar. **The Beatles** get complexity out of white-key simplicity. I compare it to speaking Japanese and then reading the transcription back: the ear first, the spelling later.
   
@@ -43,7 +43,7 @@ selectedMoments:
     note: "I count a C major seven so you can hear the unresolved seventh instead of memorizing the name."
   - label: "Pedal tone in pop"
     startSec: 244
-    note: "I show the static bass note that holds still while the rest of the chord moves — the common pop pedal."
+    note: "I show the static bass note that holds still while the rest of the chord moves: the common pop pedal."
   - label: "Radiohead complexity from staying still"
     startSec: 328
     note: "I connect static inner notes to why Radiohead and Coldplay can sound dense without changing every voice."
@@ -58,7 +58,7 @@ selectedMoments:
     note: "I drop the voicing until the low-end rub is brutal, then point at JAWS as that same harmonic tension."
   - label: "Fulfilling the intuition"
     startSec: 1102
-    note: "I close on EQ, progression, and timbre as knobs for emotion — so the song you wished existed can exist."
+    note: "I close on EQ, progression, and timbre as knobs for emotion, so the song you wished existed can exist."
 
 excerptQuotes:
   - text: "C major is just the default to all of the white keys on the keyboard."
@@ -84,7 +84,7 @@ faq:
   - question: "What do I mean by a fulfilling chord?"
     answer: "I mean a voicing that satisfies the ear, not a correct textbook label. A Cmaj7 hangs because the seventh does not resolve; a pedal tone can make a simple triad feel huge because one note stays still while the others move. The test is whether the chord does the emotional job the song asked for."
   - question: "How can static notes make a song sound more complex?"
-    answer: "Keep one pitch — often the bass — and change the notes above it. That pedal is everywhere in pop, and it is the same guitar habit that makes Radiohead and Coldplay sound dense without rewriting the whole chord. Complexity here is held notes plus moving voices, not more theory."
+    answer: "Keep one pitch (often the bass) and change the notes above it. That pedal is everywhere in pop, and it is the same guitar habit that makes Radiohead and Coldplay sound dense without rewriting the whole chord. Complexity here is held notes plus moving voices, not more theory."
   - question: "Why does the harmonic series matter when I mix chords?"
     answer: "Low notes carry more partials, so dense voicings rub harder at the bottom of the keyboard. Mixing is choosing which parts of that series come forward. That is why a spectrometer can help you see the rub, and why something like the JAWS figure hits as tension rather than as a pretty triad."
 

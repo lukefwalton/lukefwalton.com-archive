@@ -28,11 +28,11 @@ topicsDiscussed:
   - "Collaborative Creation"
 
 hostNote: |
-  The magic of guitar distortion doesn't come from pushing a clean signal — it comes from pushing the machine past what it was designed to do. I use that as my entry point into AI: the interesting outputs aren't the consensus ones, they're what happens when you use the tool in ways it wasn't meant to be used.
+  The magic of guitar distortion doesn't come from pushing a clean signal. It comes from pushing the machine past what it was designed to do. I use that as my entry point into AI: the interesting outputs aren't the consensus ones, they're what happens when you use the tool in ways it wasn't meant to be used.
   
-  I get into the feedback loop of working with generative AI — it becomes a conversation, the same way a musician converses with their instrument. But there's a bigger thing at stake: musicians have been handing their narrative over to tech companies, and the question of just because we can, does that mean we should is worth sitting with.
+  I get into the feedback loop of working with generative AI: it becomes a conversation, the same way a musician converses with their instrument. But there's a bigger thing at stake: musicians have been handing their narrative over to tech companies, and the question of just because we can, does that mean we should is worth sitting with.
   
-  Art is there to challenge. The essence of the universe flows through our creations — and that's not a platitude, it's the actual argument for why the human element isn't redundant just because the tool got more powerful.
+  Art is there to challenge. The essence of the universe flows through our creations, and that's not a platitude. It's the actual argument for why the human element isn't redundant just because the tool got more powerful.
 
 selectedMoments:
   - label: "Engaging with AI's Limitations"

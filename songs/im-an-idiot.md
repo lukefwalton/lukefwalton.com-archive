@@ -18,15 +18,15 @@ officialVideo: "https://www.youtube.com/watch?v=sz0jHvnLYG4"
 apple: "https://music.apple.com/us/album/im-an-idiot/1585121212?i=1585121218"
 
 press:
-  - outlet: "egoFM ego 42 — Die besten Songs der Woche (#5, NEU)"
+  - outlet: "egoFM ego 42: Die besten Songs der Woche (#5, NEU)"
     url: "https://www.instagram.com/p/CT-OnU2KLbZ/"
-    desc: "September 18, 2021 — I'm an Idiot chart debut at #5 on egoFM ego 42 (NEU); first week after summer break; AURORA — Cure For Me at #1."
-  - outlet: "Beformer — Spotify Fresh Finds + Fresh Finds Pop (Instagram carousel)"
+    desc: "September 18, 2021: I'm an Idiot chart debut at #5 on egoFM ego 42 (NEU); first week after summer break; AURORA: Cure For Me at #1."
+  - outlet: "Beformer: Spotify Fresh Finds + Fresh Finds Pop (Instagram carousel)"
     url: "https://www.instagram.com/p/CTp1kGilZme/"
-    desc: "September 10, 2021 — @beformer two-slide post: official Spotify Fresh Finds and Fresh Finds Pop adds for I'm an Idiot."
-  - outlet: "Beformer — Spotify New Music Friday (Instagram)"
+    desc: "September 10, 2021. @beformer two-slide post: official Spotify Fresh Finds and Fresh Finds Pop adds for I'm an Idiot."
+  - outlet: "Beformer: Spotify New Music Friday (Instagram)"
     url: "https://www.instagram.com/p/CTXwJA_FqMD/"
-    desc: "September 3, 2021 — @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI discovery hinge."
+    desc: "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI discovery hinge."
 
 themes: ["self-deprecation", "Big Hug", "social anxiety", "post-pandemic", "spotlight effect"]
 

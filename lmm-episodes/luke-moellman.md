@@ -30,7 +30,7 @@ topicsDiscussed:
   - "The importance of visual art in music presentation"
 
 hostNote: |
-  **Luke Moellman** is one half of **Great Good Fine Ok**, which started as a single song he and John made in 2013 — "this is cool, we should keep doing this": and grew into a project with real audience geography that surprised even them. He's also a producer, synth designer, graphic artist, and the person running Ableton Live while playing a live show.
+  **Luke Moellman** is one half of **Great Good Fine Ok**, which started as a single song he and John made in 2013 ("this is cool, we should keep doing this"), and grew into a project with real audience geography that surprised even them. He's also a producer, synth designer, graphic artist, and the person running Ableton Live while playing a live show.
   
   We start with the logistics question most bands eventually face: how much of the live show is humans, and how much is the computer? Moellman walks through how GGFO approaches that split, most of the parts covered by actual people, some handed to the backing track, and every song a little different in terms of what he can adjust in the session mid-show. That leads into DAW philosophy, the Logic-to-Ableton switch in 2018, and what "faster workflow for live performance" actually means in practice.
   

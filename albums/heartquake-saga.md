@@ -31,11 +31,11 @@ press:
 draft: false
 ---
 
-**Hammer City — *Heartquake Saga* EP**: four-song rock EP (**August 31, 2016**; [Apple Music](https://music.apple.com/us/album/heartquake-saga-ep/1155213057): ~18 minutes, ℗ 2016 Hammer City). Public release name **Hammer City**; Nick Belcher's Los Angeles project also indexed as **The Hammers** ([BandMix](https://www.bandmix.com/hammer-city/): Belcher lead vocalist / songwriter). [Spotify](https://open.spotify.com/artist/3hnlsCnRf7wVSdh2r7AwQV).
+**Hammer City: *Heartquake Saga* EP**: four-song rock EP (**August 31, 2016**; [Apple Music](https://music.apple.com/us/album/heartquake-saga-ep/1155213057): ~18 minutes, ℗ 2016 Hammer City). Public release name **Hammer City**; Nick Belcher's Los Angeles project also known as **The Hammers** ([BandMix](https://www.bandmix.com/hammer-city/): Belcher lead vocalist / songwriter). [Spotify](https://open.spotify.com/artist/3hnlsCnRf7wVSdh2r7AwQV).
 
 **Tracks (Apple Music order):** **Lookin'** · **Forget I Said Anything** · **Heartquake** · **Forever**
 
-**Nick Belcher**, lead vocals. [SoundCloud](https://soundcloud.com/nickbelchermusic): Los Angeles, USC Popular Music graduate, “fusing rock and EDM sounds.” Shared USC Thornton's [2014 Pop Showcase](https://www.neontommy.com/news/2014/04/usc-thorntons-pop-showcase-highlights-seniors-troubadour.html) bill with **FEiN** and **Nina Francis**; later featured on [*Dragon Ball $d*](/albums/dragon-ball-d/) and [*Next Time on Dragon Ball Sd (feat. Nick Belcher)*](/songs/next-time-on-dragon-ball-sd-feat-nick-belcher/). Jan 2017 [ReverbNation FEiN interview](/catalog/#dragon-ball-spine): Luke on **#Grownupz** — *Hashtags and the letter z. #DragonBallZ*.
+**Nick Belcher**, lead vocals. [SoundCloud](https://soundcloud.com/nickbelchermusic): Los Angeles, USC Popular Music graduate, “fusing rock and EDM sounds.” Shared USC Thornton's [2014 Pop Showcase](https://www.neontommy.com/news/2014/04/usc-thorntons-pop-showcase-highlights-seniors-troubadour.html) bill with **FEiN** and **Nina Francis**; later featured on [*Dragon Ball $d*](/albums/dragon-ball-d/) and [*Next Time on Dragon Ball Sd (feat. Nick Belcher)*](/songs/next-time-on-dragon-ball-sd-feat-nick-belcher/). Jan 2017 [ReverbNation FEiN interview](/catalog/#dragon-ball-spine): Luke on **#Grownupz**: *Hashtags and the letter z. #DragonBallZ*.
 
 **Luke Francis Walton**: **recording engineer** (sound design). Production credit page only; Walton did not write these songs and is not named on public streaming metadata.
 

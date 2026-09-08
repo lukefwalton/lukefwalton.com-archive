@@ -32,7 +32,7 @@ draft: false
 
 **KOMAGOME**: **YUUKA** and **CHIHIRO** (ex-[つぼみ大革命](https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%BC%E3%81%BF%E5%A4%A7%E9%9D%A9%E5%91%BD)), produced by ex-**CHAI** **MANA** and **KANA**. Digital single **CHAHHAN** released **February 25, 2026** (℗ Yoshimoto Music), first of two back-to-back singles ahead of the *コマゴメイト* one-man at Shimokitazawa SHELTER (Mar 8, 2026).
 
-[Uta-Net](https://www.uta-net.com/song/388399/) and [Jungle Life](https://www.jungle.ne.jp/newsfeature/ko216/) list **作詞 MANA & KANA** and **作曲 Scoobert Doobert, MANA & KANA**: same composition credit split as [WE CAN'T DOLL](/songs/we-cant-doll/). Luke Francis Walton **co-produced with MANA & KANA**, **mixed**, and **played** on the track. No full music video — [official YouTube upload](https://www.youtube.com/watch?v=Wca8MJ4qmJI) is streaming/static art only (not an MV like [WE CAN'T DOLL](/songs/we-cant-doll/)).
+[Uta-Net](https://www.uta-net.com/song/388399/) and [Jungle Life](https://www.jungle.ne.jp/newsfeature/ko216/) list **作詞 MANA & KANA** and **作曲 Scoobert Doobert, MANA & KANA**: same composition credit split as [WE CAN'T DOLL](/songs/we-cant-doll/). Luke Francis Walton **co-produced with MANA & KANA**, **mixed**, and **played** on the track. No full music video: the [official YouTube upload](https://www.youtube.com/watch?v=Wca8MJ4qmJI) is streaming/static art only (not an MV like [WE CAN'T DOLL](/songs/we-cant-doll/)).
 
 Same MANA/KANA post-CHAI Japan thread as [WE CAN'T DOLL](/songs/we-cant-doll/) (2025) and [With OKAME](/with/okame/) mixing on [おかしなきもち](/songs/okashi-na-kimochi/) / [*DEBUT*](/songs/game-over/), KOMAGOME and OKAME are distinct artist names, one continuous producer arc.
 

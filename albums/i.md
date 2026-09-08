@@ -55,7 +55,7 @@ press:
 draft: false
 ---
 
-*I* is the self-record, but not in a lonely way. Scoobert’s own Bandcamp note states the thesis plainly: the album is called “I,” but the lyrics keep using “u” — “u are why I’m me.” After [*MÖB*](/albums/mob/) opened the loop with body, memory, illness, anxiety, and self-story, *I* turns toward the self as something formed through movement, love, place, family, friends, nature, and return.
+*I* is the self-record, but not in a lonely way. Scoobert’s own Bandcamp note states the thesis plainly: the album is called “I,” but the lyrics keep using “u”: “u are why I’m me.” After [*MÖB*](/albums/mob/) opened the loop with body, memory, illness, anxiety, and self-story, *I* turns toward the self as something formed through movement, love, place, family, friends, nature, and return.
 
 [*Finding $D*](/albums/finding-d-remastered/) is the lab notebook. [*Swami's*](/albums/wami/) is the lore dump. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. [*Masks and Monsters*](/albums/masks-and-monsters/) is the pandemic record. [*Little Hug*](/albums/little-hug/) is the small recovery object. [*Big Hug*](/albums/big-hug/) is the accessible thesis. [*KŌAN*](/albums/koan/) is the four-part paradox / international expansion. [*Moonlight Beach*](/albums/moonlight-beach/) is the place-record, radio record, and live-body record. [*MÖB*](/albums/mob/) is the first Möbius turn: body, memory, anxiety, survival, loop-form. **I** is the second: relational selfhood, movement, love, nature, craft, and “u.” [*US*](/albums/us/) is the third turn, in progress. *MÖBIUS* is the planned completing turn.
 
@@ -73,7 +73,7 @@ Collaborators sharpen the “everything sings” idea. [**Lou Roy**](/with/lou-r
 
 <h3 id="liner-credits">Liner credits (vinyl insert)</h3>
 
-**Released on Beformer** · **All songs written by Luke Francis Walton (BMI #00579587572)** · **Illustrator and designer — [Grizzard Graphics](/with/grizzard-graphics/)** · **Mastering engineer — Riley Knapp** · **Background vocals (tracks 3, 4, 6, 10, 11, 13) — [Lou Roy](/with/lou-roy/)** · **Bass clarinet (tracks 4, 10, 12, 13) — Nicole McCabe** (unknown unbranded clarinet from Reverb; D'Addario reeds) · **Bass (tracks 5, 12, 13) — [Bubby Lewis](/with/bubby-lewis/)** (MTD Bubby Lewis Signature).
+**Released on Beformer** · **All songs written by Luke Francis Walton (BMI #00579587572)** · **Illustrator and designer: [Grizzard Graphics](/with/grizzard-graphics/)** · **Mastering engineer: Riley Knapp** · **Background vocals (tracks 3, 4, 6, 10, 11, 13): [Lou Roy](/with/lou-roy/)** · **Bass clarinet (tracks 4, 10, 12, 13): Nicole McCabe** (unknown unbranded clarinet from Reverb; D'Addario reeds) · **Bass (tracks 5, 12, 13): [Bubby Lewis](/with/bubby-lewis/)** (MTD Bubby Lewis Signature).
 
 **Scoobert Doobert:** recording engineer, mix engineer, arranger, producer (Pro Tools 2023.6), vocals, background vocals, acoustic guitar (Taylor 814ce), electric guitar (Godin LGX-SA, Fender American Deluxe Stratocaster), drums (Yamaha Custom Hip), drum programming (Jake Reed sample pack), bass guitar (Ibanez SR500E), ukulele (Luna High Tide Concert Koa), mandolin, Afuche/Cabasa (LP LP234A), triangle (LP), shaker (Nino Wood Egg), guiro, whistle, tambourine, Juno (TAL-UNO-LX-V2), 1974 Rhodes Eighty Eight Suitcase Mark 1 (UAD Electra 88), Yamaha CS-01 (Baby Audio BA-1), field recording (MS-EHB-2 Binaural Microphone).
 
@@ -83,23 +83,23 @@ Collaborators sharpen the “everything sings” idea. [**Lou Roy**](/with/lou-r
 
 **Side one** · UPC 198084158653 · release **June 14, 2024**
 
-1. [**daydreaming**](/songs/daydreaming/) — QZWFP2305908  
-2. [**time with u**](/songs/time-with-u/) — QZWFK2378378  
-3. [**the cycle**](/songs/the-cycle/) — QZFYZ2461802  
-4. [**ez pz**](/songs/ez-pz/) — QZES72430624  
-5. [**singing for u**](/songs/singing-for-u/) — QZES72489606  
-6. [**watercolor sky**](/songs/watercolor-sky/) — QZDA62475492  
-7. [**don't drive sleepy**](/songs/dont-drive-sleepy/) — QZHN32444128  
+1. [**daydreaming**](/songs/daydreaming/) · QZWFP2305908  
+2. [**time with u**](/songs/time-with-u/) · QZWFK2378378  
+3. [**the cycle**](/songs/the-cycle/) · QZFYZ2461802  
+4. [**ez pz**](/songs/ez-pz/) · QZES72430624  
+5. [**singing for u**](/songs/singing-for-u/) · QZES72489606  
+6. [**watercolor sky**](/songs/watercolor-sky/) · QZDA62475492  
+7. [**don't drive sleepy**](/songs/dont-drive-sleepy/) · QZHN32444128  
 
 **Side two**
 
-8. [**omw**](/songs/omw/) — QZHN32444129  
-9. [**that's how u know i love u**](/songs/thats-how-u-know-i-love-u/) — QZDA52463035  
-10. [**only the beginning**](/songs/only-the-beginning/) — QZDA82495964  
-11. [**see you again?**](/songs/see-you-again/) — QZDA82494901  
-12. [**it gets better**](/songs/it-gets-better/) — QZES82478724  
-13. [**golden state of mind**](/songs/golden-state-of-mind/) — QZES92483682  
-14. *where did the sun go?* — unlisted bonus; no ISRC; not on streaming services  
+8. [**omw**](/songs/omw/) · QZHN32444129  
+9. [**that's how u know i love u**](/songs/thats-how-u-know-i-love-u/) · QZDA52463035  
+10. [**only the beginning**](/songs/only-the-beginning/) · QZDA82495964  
+11. [**see you again?**](/songs/see-you-again/) · QZDA82494901  
+12. [**it gets better**](/songs/it-gets-better/) · QZES82478724  
+13. [**golden state of mind**](/songs/golden-state-of-mind/) · QZES92483682  
+14. *where did the sun go?*: unlisted bonus; no ISRC; not on streaming services  
 
 Full lyrics for tracks 1–13: individual song pages (linked above).
 
@@ -109,7 +109,7 @@ Hello dear (rare) vinyl listener and (even rarer) liner-note reader,
 
 While this record is called “I,” I sure used “u” a lot in the lyrics. I guess u are why I'm me??? I intended this album to be a soundtrack for travel, mostly by coastal train or driving in a car (or being driven by a robot car?). I bought a little side monitor on Black Friday for my laptop, so I could watch train cab-view videos while arranging and recording. (I wrote "time with u" after being inundated by Black Friday ads after making that purchase.) Calling the LP “I” felt like it had to be personal, so I dug into doubt, self-destruction, elation, hope, loss, excitement, discovery, the natural world, and shamanistic voyages. I wrote these songs over about eight months, starting in the Grand Tetons, then to the Sierra Nevada mountains and up the face of Mount Whitney. A lot of songs didn't make it to the record, but they were important cairns along the way. On these long, grueling hikes, I mumbled into voice notes, captured little glimpses of lyrics, and even wrote a little poem that I'll attach to the end of this bad boi.
 
-I programmed many of the electronic grooves while on trains up the California coast, on Shinkansen darting around Japan, and sometimes in the air traveling here and there. I wanted that feeling of movement baked into the music. I hope you feel it. It also forced me to produce fast, get ideas down, and edit later. It's hard to get audiophile quality when there's an airplane engine next to you (though the Dreamliner that Japan Air uses is pretty quiet — my favorite plane). But I dug deep into the sonic weeds later, I promise. The combo of rough and precise made for an interesting audio fingerprint and my favorite-sounding thing I've ever made.
+I programmed many of the electronic grooves while on trains up the California coast, on Shinkansen darting around Japan, and sometimes in the air traveling here and there. I wanted that feeling of movement baked into the music. I hope you feel it. It also forced me to produce fast, get ideas down, and edit later. It's hard to get audiophile quality when there's an airplane engine next to you (though the Dreamliner that Japan Air uses is pretty quiet, my favorite plane). But I dug deep into the sonic weeds later, I promise. The combo of rough and precise made for an interesting audio fingerprint and my favorite-sounding thing I've ever made.
 
 I started this LP with most of the songs already written before laying down a note (haven't done that in a while), but a lot of the demos didn't have chords. They were just little melodies isolated, floating in the wind (and sometimes the demos were super windy because they were written in the High Sierras). It was a fun challenge writing around the melody rather than to the melody. It gave a different sort of flexibility and led me to a more "classic" harmonic structure. I also recorded the lead vocal first for most of these songs, just accompanied by a drone note instead of harmony. Probably because of that, there ended up being a lot of "line clichés" on this LP, which I think lends a Beatles-esque vibe that I'm quite proud of.
 
@@ -121,13 +121,13 @@ I got some new toys for this record. The most important (as it always is) was my
 
 A lot of this record was laid down during the biggest rainstorm in like 40 years here in San Diego. I think that calm, contemplative energy seeped into this LP (and the sound of the rain bled into the mic sometimes). I listed some of my gear on the liner notes here because I think the music instrument makers deserve their shine. Thank you, music people, for making the tools we used to create. A miner is nothing without a pickaxe, or something like that.
 
-The coolest tool? Remember how I wanted everything to sound like it was in the same room? Well, I got to resurrect the sound of Sound City Studios with their reverb plugin! I used it on every song! Most of the time it's blended in 1% — or less — but it gives the sense of space. And it combines with my small studio to create a great hybrid — lofi meets hifi. One part bedroom-pop one part classic-studio. I didn't want to recreate; I wanted to create a third room by synthesizing the virtual and actual. It's the same deal with the Hitsville reverb plugin. I've added some dashes of the classic Motown sound, sometimes liberally, on things like tambourines or snare drums. The beauty of that bit of software was that it emulated a chamber. Chamber verbs are created when you run a pre-recorded sound into a speaker and re-capture it with a microphone, adding the sound of that new room in, and then you blend the two signals to get a punchy dry signal and a vibey wet signal. But the beauty here was that Hitsville was just an attic. It was an imperfect chamber, the OG home recording studio move, recreated with math and stuff. Yes!
+The coolest tool? Remember how I wanted everything to sound like it was in the same room? Well, I got to resurrect the sound of Sound City Studios with their reverb plugin! I used it on every song! Most of the time it's blended in 1% (or less), but it gives the sense of space. And it combines with my small studio to create a great hybrid: lofi meets hifi. One part bedroom-pop one part classic-studio. I didn't want to recreate; I wanted to create a third room by synthesizing the virtual and actual. It's the same deal with the Hitsville reverb plugin. I've added some dashes of the classic Motown sound, sometimes liberally, on things like tambourines or snare drums. The beauty of that bit of software was that it emulated a chamber. Chamber verbs are created when you run a pre-recorded sound into a speaker and re-capture it with a microphone, adding the sound of that new room in, and then you blend the two signals to get a punchy dry signal and a vibey wet signal. But the beauty here was that Hitsville was just an attic. It was an imperfect chamber, the OG home recording studio move, recreated with math and stuff. Yes!
 
 Beyond that, I used a copious amount of spring reverb, a synthetic verb created with a transducer at one end of a spring and a pickup at the other. It's the sound of surf guitar. I remember my grandpa burning me a CD of the Ventures when I was first learning guitar. That's why my LP [*Moonlight Beach*](/albums/moonlight-beach/) starts with an instrumental cover of “Walk Don't Run.” I used that type of 'verb to give that surf vibe in this record (especially since it name-drops San Diego a lot). Shout out to Waves Magma Springs and MixWave Benson Tall Bird for a good chunk of that vibe. The trick to all reverb is to use less and have a shorter decay than you think. It adds up. Sometimes 1% of three different reverbs is better than 60% of one. Maybe that's a metaphor for creativity writ large?
 
 Finally, I added a little wifi to my lofi-and-hifi with Adaptiverb, a "reflectionless reverb." It's the most otherworldly reverb because it doesn't emulate a room at all. It's just bizarre math, adding endless expanses of harmonics and synthesized pitches. To create larger-than-life moments, I reached here. You can hear it in its full glory at the very end of Side A. My vocals swell into the plugin and drift out into space itself, with no reflections! I also played with tuning all of my instruments down… a lot. Most of these songs were written on my acoustic guitar tuned down a minor third (three half-steps further than where guitars are usually tuned). It adds woody richness and a pitch warble. The guitar doesn't want to be that low. A tension comes from the lack of tension…
 
-I hope the combination of the gear, the environment, the spirit, the subject, the goal, and the love all connect with you. It was some v difficult music to record, but the beauty was it all revealed itself effortlessly. In other words, I'd start recording background vocals and all at once the whole part would be revealed. I'd sigh because I'd know it would take about 7 or 8 more hours to lay it all down — and these ideas can be fragile, so I'd have to skip lunch to not forget anything, but there was very little forcing or searching involved. It was more just doing the work – attaching to the golden thread of the muses, taking the next step across the mountain pass, and losing myself in the trail.
+I hope the combination of the gear, the environment, the spirit, the subject, the goal, and the love all connect with you. It was some v difficult music to record, but the beauty was it all revealed itself effortlessly. In other words, I'd start recording background vocals and all at once the whole part would be revealed. I'd sigh because I'd know it would take about 7 or 8 more hours to lay it all down, and these ideas can be fragile, so I'd have to skip lunch to not forget anything, but there was very little forcing or searching involved. It was more just doing the work – attaching to the golden thread of the muses, taking the next step across the mountain pass, and losing myself in the trail.
 
 I hope you like this little handful of sand I laid on that mountain top, and I appreciate you for taking the serious step of buying a physical music product. Did you know the Library of Congress still backs their music up on vinyl? It's more durable. I finally get to make something that might last, even if Spotify or Apple Music disappears. Someone could invent a record player in a post-apocalyptic world, and this thing could still work (don't leave it in the sun!). It might be the only thing of mine that survives long term. I tried to live up to that when recording it. I hope I did. Forgive me if I didn't. Every time you drop a needle, you give the music life again. It's born with each play and dies with each stop. That's why I like music as an art form so much. It's just like life itself. Time delimited. Ephemeral. And even more beautiful for it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Input To Put In with Dana Roth"
 
-description: "SF-based animator, bass player, composer and producer, Dana Roth brings groove to everything she creates. We talked about the rhythm of visuals, of illustrations, and of course, bass guitar. Her debut album, Airship, absolutely rips, as does everything else she spends her time on — including this episode!"
+description: "SF-based animator, bass player, composer and producer, Dana Roth brings groove to everything she creates. We talked about the rhythm of visuals, of illustrations, and of course, bass guitar. Her debut album, Airship, absolutely rips, as does everything else she spends her time on, including this episode!"
 
 status: complete
 
@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Rhythm in visuals and illustration"
 
 hostNote: |
-  **Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation — which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.
+  **Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation, which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.
   
   We talk through learning animation vs. music school, the chaos of making your own music videos, trusting collaborators to let you be yourself on bass, and why putting a soundtrack on something makes the whole thing feel more magical.
 
@@ -44,7 +44,7 @@ selectedMoments:
     note: "Music training shapes how she times frames to the beat."
   - label: "Chaotic but intentional music videos"
     startSec: 290
-    note: "Making her own visuals — conscious of animation rhythm against the track."
+    note: "Making her own visuals, conscious of animation rhythm against the track."
   - label: "Animation is slow and expensive"
     startSec: 412
     note: "How long a short actually takes vs. what audiences assume."
@@ -57,7 +57,7 @@ selectedMoments:
   - label: "Animation community ↔ music community"
     startSec: 902
     note: "Overlap between her visual work and the players she records with."
-  - label: "Trust on bass — give more when you're yourself"
+  - label: "Trust on bass, give more when you're yourself"
     startSec: 1802
     note: "When a collaborator wants her voice, not a generic part."
   - label: "Airship and where to find Dana"

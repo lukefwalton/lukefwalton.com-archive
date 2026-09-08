@@ -27,14 +27,14 @@ isrcSource: spotify
 draft: false
 ---
 
-**Untitled (fọláṣadé)** (**April 24, 2026**, [Spotify](https://open.spotify.com/track/2ZBwtBat7EfbxPUMzkoM8i)) is a **J MESA** solo single. The [Spotify credits pane](https://open.spotify.com/track/2ZBwtBat7EfbxPUMzkoM8i) lists **Luke Walton** as **Mixing Engineer**, **Riley Knapp** as **Mastering Engineer**, and **Taylor James Washington** as lyricist and composer — [**Taylor James**](/with/j-mesa/) is **J MESA** on the artist credit.
+**Untitled (fọláṣadé)** (**April 24, 2026**, [Spotify](https://open.spotify.com/track/2ZBwtBat7EfbxPUMzkoM8i)) is a **J MESA** solo single. The [Spotify credits pane](https://open.spotify.com/track/2ZBwtBat7EfbxPUMzkoM8i) lists **Luke Walton** as **Mixing Engineer**, **Riley Knapp** as **Mastering Engineer**, and **Taylor James Washington** as lyricist and composer. [**Taylor James**](/with/j-mesa/) is **J MESA** on the artist credit.
 
 Press describes Afro-Latin influence and a slow-burning contemporary R&B / soul track:
 
 - [Aipate](https://aipate.com/2026/05/14/untitled-fola%e1%b9%a3ade-by-j-mesa-is-one-of-the-grooviest-tracks-youll-hear-this-week/), groove-forward review of the release
 - [Soaplife Magazine](https://www.soaplifemagazine.com/2026/04/j-mesa-unveils-slow-burning-romance-on.html), slow-burning romance framing
 
-Same client lane as [*Crying Today*](/songs/crying-today/) and [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/), distinct from joint-artist **collaborator** receipts on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
+Same client lane as [*Crying Today*](/songs/crying-today/) and [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/), distinct from joint-artist **collaborator** credits on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
 
 No Scoobert lyrics. See also: [With J MESA](/with/j-mesa/) · [Catalog](/catalog/#production)
 
