@@ -31,14 +31,14 @@ topicsDiscussed:
 hostNote: |
   Every year I look back on the guest conversations and ask what they had in common. This is that look back: what a year of talking to other musicians actually taught me.
 
-  David Barron and Ginger Wynn both showed up as apprenticeship stories, learning the business by working next to someone who already knew it. Nolan Lem merged research with art. Sam Fishman kept crossing the line between technical and non-technical work without treating it as a line at all. Fernando Pardomo talked about blending someone else's sound with your own vision when you're mixing for other artists.
+  David Baron and Ginger Winn both showed up as apprenticeship stories, learning the business by working next to someone who already knew it. Nolan Lem merged research with art. Sam Fischmann kept crossing the line between technical and non-technical work without treating it as a line at all. Fernando Perdomo talked about blending someone else's sound with your own vision when you're mixing for other artists.
 
   The through-line is osmosis: music cannot be taught, only learned, because you have to actually be part of it. I keep coming back to the left turns and alleyways I didn't know existed, the paths nobody plans for. By the end it's a dance between all of these things, technical and personal, planned and accidental, and that dance is the unifying thing this whole show keeps circling: the love of music.
 
 selectedMoments:
   - label: "I reflect on the year and his favorite guests."
     startSec: 70
-    note: "The year saw fascinating guests like David Barron and Ginger Wynn, both pivotal in illustrating the apprenticeship aspect of the music business."
+    note: "The year saw fascinating guests like David Baron and Ginger Winn, both pivotal in illustrating the apprenticeship aspect of the music business."
   - label: "Apprenticeship in music"
     startSec: 141
     note: "I emphasize how vital mentorship and community are in developing artistry."
@@ -47,13 +47,13 @@ selectedMoments:
     note: "Nolan Lem's innovative work merges research with artistic expression."
   - label: "The crossover of technical and non-technical aspects in music"
     startSec: 369
-    note: "Sam Fishman highlights the intertwining of creativity and technical precision."
+    note: "Sam Fischmann highlights the intertwining of creativity and technical precision."
   - label: "Understanding the different paths in music careers"
     startSec: 633
     note: "I discuss the randomness of career paths and the importance of choice."
   - label: "Mixing techniques and artist collaboration"
     startSec: 861
-    note: "Fernando Pardomo stresses the significance of blending personal sounds with artistic vision."
+    note: "Fernando Perdomo stresses the significance of blending personal sounds with artistic vision."
   - label: "Teaching and sharing within the music community"
     startSec: 992
     note: "I reflect on knowledge sharing as a key theme of his conversations."
