@@ -2111,7 +2111,7 @@
         {
           "outlet": "egoFM: Radiowelt",
           "url": "https://www.egofm.de/radiowelt/scoobert-doobert-interview",
-          "desc": "Munich Glumanda interview; promotes Privataudienz guest hour."
+          "desc": "Munich Charmander interview; promotes Privataudienz guest hour."
         },
         {
           "outlet": "egoFM: Privataudienz (hosted guest hour)",
@@ -2941,7 +2941,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "egoFM: Scoobert Doobert bei egoFM",
-      "description": "interview / radio feature · Glumanda / Charmander frame (der schwere Weg), burritos, Pokémon, church-jam story, solo multi-instrumentalist arc; hosts the full 2021 interview.",
+      "description": "interview / radio feature · Charmander frame (der schwere Weg; Glumanda on-air), burritos, Pokémon, church-jam story, solo multi-instrumentalist arc; hosts the full 2021 interview.",
       "subject": "Scoobert Doobert",
       "outlet": "egoFM: Scoobert Doobert bei egoFM",
       "publisher": "egoFM",

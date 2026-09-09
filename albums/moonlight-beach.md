@@ -51,7 +51,7 @@ press:
     desc: "On “Feels So Good.”"
   - outlet: "egoFM: Radiowelt"
     url: "https://www.egofm.de/radiowelt/scoobert-doobert-interview"
-    desc: "Munich Glumanda interview; promotes Privataudienz guest hour."
+    desc: "Munich Charmander interview; promotes Privataudienz guest hour."
   - outlet: "egoFM: Privataudienz (hosted guest hour)"
     url: "https://www.egofm.de/radiowelt/die-egofm-privataudienz"
     desc: "Scoobert Doobert hosted and curated ~25 min guest hour on Munich radio; Slow Jam.wav in published tracklist."
