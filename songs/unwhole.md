@@ -96,6 +96,8 @@ draft: false
 
 Track three on [*413*](/albums/413/) (**August 2, 2013**), between [*Can't Fall*](/songs/cant-fall/) and [*Genesis*](/songs/genesis/). If *Can't Fall* refuses love from a place of damage, *Unwhole* clings to it from the same wound. The opening is unsettling on purpose: *I wanna lock you in my room / cuz you can't hurt me if I do*: love as captivity, dependency stated as biology (*you are the air I breathe*).
 
+Exist Elsewhere played it live on [The Artie Lange Show](https://www.youtube.com/watch?v=QrYlPx-0bNw) (**August 14, 2013**), the same set as [*Tokyo*](/songs/tokyo/); [USC Thornton](https://music.usc.edu/usc-thornton-popular-music-students-featured-on-the-artie-lang-show/) posted the same day.
+
 The bridge names what the verses circle: *you're my obsession, the only showpiece on the wall / and I'm a weapon only your hands can control.* Then the title lands, not as a plea to be fixed but as a confession: *dig a little deeper and you'll see that I'm just unwhole.* Asking to be seen as incomplete is a stranger, more honest move than asking to be made whole.
 
 On *413* the two heartbreak songs are mirror images: [*Can't Fall*](/songs/cant-fall/) won't show up, *Unwhole* won't let go. Opposite postures, same Thornton-era wound, years before FEiN sharpened need-as-weapon into satire.

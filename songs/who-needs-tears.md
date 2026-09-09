@@ -3,7 +3,7 @@ title: "Who Needs Tears"
 
 meaning: "Childhood ending: who needs tears when you can be blind; faking that life's not rough while refusing to repeat what's been done."
 
-year: 2006
+year: 2007
 release: "Just A Friend"
 releaseType: EP
 
@@ -13,7 +13,7 @@ credits: "Words and music by Luke Walton. Also on Goodbye/Hello (2010)."
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/who-needs-tears"
 
-themes: ["Luke Walton", "Just A Friend", "youth", "2006"]
+themes: ["Luke Walton", "Just A Friend", "youth", "2007"]
 
 lyrics: |
   The clouds speak, but we don't hear,
@@ -52,7 +52,7 @@ lyrics: |
 draft: false
 ---
 
-Track five on [*Just A Friend*](/albums/just-a-friend/) (**2006**). Also track nine on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010). Lyrics per [archived lukewaltonband.com](https://web.archive.org/web/20120501002356/http://www.lukewaltonband.com/site/Who_Needs_Tears_Lyrics.html), same text on both releases.
+Track five on [*Just A Friend*](/albums/just-a-friend/) (**2007**). Also track nine on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010). Lyrics per [archived lukewaltonband.com](https://web.archive.org/web/20120501002356/http://www.lukewaltonband.com/site/Who_Needs_Tears_Lyrics.html), same text on both releases.
 
 *Childhood ends now*, the clouds still speak but you've forgotten how to listen. The chorus chooses numbness over grief: *who needs tears / when you can be blind?* Bridge pushes back on adult condescension: *at least we're expressing something / I don't wanna do what's been done.*
 

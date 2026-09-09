@@ -3,7 +3,7 @@ title: "Dirty Blonde"
 
 meaning: "Cheerleader vs not-so-normal guy: April the all-American girl who played with your heart until trust was gone."
 
-year: 2006
+year: 2007
 release: "Just A Friend"
 releaseType: EP
 
@@ -11,7 +11,7 @@ artist: "Luke Walton"
 
 credits: "Words and music by Luke Walton."
 
-themes: ["Luke Walton", "Just A Friend", "heartbreak", "2006"]
+themes: ["Luke Walton", "Just A Friend", "heartbreak", "2007"]
 
 lyrics: |
   She was a dancer,
@@ -47,7 +47,7 @@ lyrics: |
 draft: false
 ---
 
-Track six on [*Just A Friend*](/albums/just-a-friend/) (**2006**). Character sketch: **April**, the *dirty blonde*: dancer, pop-culture junkie, cheerleader archetype against *the not so normal guy*. Cheating rumor kills what was left: *then my trust was gone.*
+Track six on [*Just A Friend*](/albums/just-a-friend/) (**2007**). Character sketch: **April**, the *dirty blonde*: dancer, pop-culture junkie, cheerleader archetype against *the not so normal guy*. Cheating rumor kills what was left: *then my trust was gone.*
 
 See [Catalog](/catalog/#luke-walton-band)
 

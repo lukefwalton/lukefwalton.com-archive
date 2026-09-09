@@ -3,13 +3,13 @@ title: "Preschool"
 
 meaning: "Young love as grade-school mismatch: preschool compared to you; one yawn and the older romance is gone."
 
-year: 2006
+year: 2007
 release: "Just A Friend"
 releaseType: EP
 
 artist: "Luke Walton"
 
-credits: "Words and music by Luke Walton. Debut on Just A Friend EP (2006); The Other Side (2009); Goodbye/Hello (2010); Charitable Chords comp (2010, Luke Walton feat. Blue Suburbia)."
+credits: "Words and music by Luke Walton. Debut on Just A Friend EP (2007); The Other Side (2009); Goodbye/Hello (2010); Charitable Chords comp (2010, Luke Walton feat. Blue Suburbia)."
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/preschool"
 
@@ -55,7 +55,7 @@ lyrics: |
 draft: false
 ---
 
-First on [*Just A Friend*](/albums/just-a-friend/) (**2006**, track 4). [Preschool lyrics archive](https://web.archive.org/web/20120501002356/http://www.lukewaltonband.com/site/Preschool_Lyrics.html). Later: [*The Other Side*](/albums/the-other-side/) (**2009**, Luke Walton feat. Blue Suburbia, opening track) · **Preschool** single (2009) · [Charitable Chords](https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world) comp (**June 2010**, billed Luke Walton feat. Blue Suburbia) · [*Goodbye/Hello*](/albums/goodbye-hello/) (2010, track 10).
+First on [*Just A Friend*](/albums/just-a-friend/) (**2007**, track 4). [Preschool lyrics archive](https://web.archive.org/web/20120501002356/http://www.lukewaltonband.com/site/Preschool_Lyrics.html). Later: [*The Other Side*](/albums/the-other-side/) (**2009**, Luke Walton feat. Blue Suburbia, opening track) · **Preschool** single (2009) · [Charitable Chords](https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world) comp (**June 2010**, billed Luke Walton feat. Blue Suburbia) · [*Goodbye/Hello*](/albums/goodbye-hello/) (2010, track 10).
 
 The metaphor is age-gap innocence: *I'm in preschool compared to you / and I just learned how to tie my shoes*. The kiss heals blindness; the exit is trivial: *one day I made you yawn*: and permanent: *preschool is left far behind / you broke the sands of time*.
 

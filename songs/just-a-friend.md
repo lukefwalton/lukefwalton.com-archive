@@ -1,19 +1,19 @@
 ---
 title: "Just A Friend"
 
-meaning: "Friend-zone confession: two lyric sets: 2006 solo EP (know you too well) and 2010 LP (too damn tough to stay just a friend)."
+meaning: "Friend-zone confession: two lyric sets: 2007 solo EP (know you too well) and 2010 LP (too damn tough to stay just a friend)."
 
-year: 2006
+year: 2007
 release: "Just A Friend"
 releaseType: EP
 
 artist: "Luke Walton"
 
-credits: "Words and music by Luke Walton. Two versions: Just A Friend EP (2006) and Goodbye/Hello LP (2010, The Luke Walton Band)."
+credits: "Words and music by Luke Walton. Two versions: Just A Friend EP (2007) and Goodbye/Hello LP (2010, The Luke Walton Band)."
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/just-a-friend"
 
-themes: ["Luke Walton", "Just A Friend", "unrequited", "2006"]
+themes: ["Luke Walton", "Just A Friend", "unrequited", "2007"]
 
 lyrics: |
  : Just A Friend EP (2006) —
@@ -97,9 +97,9 @@ lyrics: |
 draft: false
 ---
 
-Title track of [*Just A Friend*](/albums/just-a-friend/) (**2006** solo EP) and track seven on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010). **Two lyric sets**, not a straight reissue.
+Title track of [*Just A Friend*](/albums/just-a-friend/) (**2007** solo EP, recorded 2006) and track seven on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010). **Two lyric sets**, not a straight reissue.
 
-**2006 EP** per [CDs & Lyrics archive](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html): *I know you too well*, coin/safety-net middle, *I'd rather stay living in this lie*. **2010 LP** per [Just A Friend lyrics archive](https://web.archive.org/web/20120423002356/http://www.lukewaltonband.com/site/Just_A_Friend_Lyrics.html): dorm-hall setting, *too damn tough to stay just a friend*, February verse ends with *are you feelin' feelin' feelin' the same?*
+**2007 EP** per [CDs & Lyrics archive](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html): *I know you too well*, coin/safety-net middle, *I'd rather stay living in this lie*. **2010 LP** per [Just A Friend lyrics archive](https://web.archive.org/web/20120423002356/http://www.lukewaltonband.com/site/Just_A_Friend_Lyrics.html): dorm-hall setting, *too damn tough to stay just a friend*, February verse ends with *are you feelin' feelin' feelin' the same?*
 
 See [Catalog](/catalog/#luke-walton-band)
 

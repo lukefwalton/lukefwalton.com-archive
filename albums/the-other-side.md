@@ -30,7 +30,7 @@ draft: false
 
 A **Preschool** single was also listed separately (**2009**, 3:40). **Preschool** later appeared on the Jun 2010 [Charitable Chords](https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world) comp as **Luke Walton (Blue Suburbia)** and again on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
 
-Chronology: [*Just A Friend*](/albums/just-a-friend/) (2006) → [*Heart in Hand*](/albums/heart-in-hand/) (2008) → *The Other Side* (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
+Chronology: [*Just A Friend*](/albums/just-a-friend/) (2007) → [*Heart in Hand*](/albums/heart-in-hand/) (2008) → *The Other Side* (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
 
 See [Catalog](/catalog/#luke-walton-band) · [Wikidata: The Luke Walton Band (Q15044350)](https://www.wikidata.org/wiki/Q15044350) · [deleted Wikipedia (Wayback, Jun 2026)](https://web.archive.org/web/20260618142012/https://en.wikipedia.org/wiki/The_Luke_Walton_Band)
 

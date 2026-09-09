@@ -80,7 +80,12 @@
         {
           "outlet": "The Artie Lange Show: Tokyo (live)",
           "url": "https://www.youtube.com/watch?v=9eLAJll9PsQ",
-          "desc": "Exist Elsewhere performing “Tokyo” on The Artie Lange Show."
+          "desc": "August 14, 2013. Exist Elsewhere on The Artie Lange Show; this clip is “Tokyo.” They also played Unwhole. USC Thornton write-up the same day."
+        },
+        {
+          "outlet": "The Artie Lange Show: Unwhole (live)",
+          "url": "https://www.youtube.com/watch?v=QrYlPx-0bNw",
+          "desc": "August 14, 2013. Exist Elsewhere on The Artie Lange Show; this clip is “Unwhole.” They also played Tokyo."
         },
         {
           "outlet": "Pantene: Can't Fall (national TV)",
@@ -1056,8 +1061,8 @@
     "source": "src/content/albums/just-a-friend.md",
     "metadata": {
       "title": "Just A Friend",
-      "description": "Early archive: 2006 self-released solo EP from Luke Walton’s teenage songwriter period (~17:40, six tracks).",
-      "year": 2006,
+      "description": "Early archive: solo EP from Luke Walton’s teenage songwriter period, recorded in 2006 and released in 2007 (~17:40, six tracks).",
+      "year": 2007,
       "releaseType": "EP",
       "artist": "Luke Walton",
       "amazon": "https://www.amazon.com/Just-Friend-Luke-Walton/dp/B000XXWXF4",
@@ -1091,7 +1096,7 @@
         {
           "outlet": "Luke Walton Band: CDs & Lyrics (archived)",
           "url": "https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html",
-          "desc": "Official discography page: release 2006, ~17:40, six-track listing."
+          "desc": "Official discography page (lists 2006), ~17:40, six-track listing."
         }
       ],
       "draft": false
@@ -34214,7 +34219,7 @@
     "metadata": {
       "title": "Dirty Blonde",
       "meaning": "Cheerleader vs not-so-normal guy: April the all-American girl who played with your heart until trust was gone.",
-      "year": 2006,
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
@@ -34223,7 +34228,7 @@
         "Luke Walton",
         "Just A Friend",
         "heartbreak",
-        "2006"
+        "2007"
       ],
       "lyrics": "She was a dancer,\nShe liked music that wasn't mine,\nA pop-culture junkie,\nStole away all my time.\n\nMy baby's name was April,\nAnd her reign lasted far too long.\nMy pretty little girlfriend,\nMy dirty blonde.\n\nHow did a cheerleader,\nEnd up with a guy like me?\nYou played with my heart,\nI guess that's just your fee.\n\nThe all-American girl,\nAnd the not so normal guy.\nYou had all the power,\nYou made a stone-face cry.\n\nI heard she was cheatin',\nThen my trust was gone,\nMy pretty little girlfriend,\nMy dirty blonde.\n\nShe was a dancer,\nShe liked music that wasn't mine,\nA pop-culture junkie,\nStole away all my time.\n",
       "draft": false
@@ -37801,18 +37806,18 @@
     "source": "src/content/songs/just-a-friend.md",
     "metadata": {
       "title": "Just A Friend",
-      "meaning": "Friend-zone confession: two lyric sets: 2006 solo EP (know you too well) and 2010 LP (too damn tough to stay just a friend).",
-      "year": 2006,
+      "meaning": "Friend-zone confession: two lyric sets: 2007 solo EP (know you too well) and 2010 LP (too damn tough to stay just a friend).",
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
-      "credits": "Words and music by Luke Walton. Two versions: Just A Friend EP (2006) and Goodbye/Hello LP (2010, The Luke Walton Band).",
+      "credits": "Words and music by Luke Walton. Two versions: Just A Friend EP (2007) and Goodbye/Hello LP (2010, The Luke Walton Band).",
       "bandcamp": "https://lukewaltonband.bandcamp.com/track/just-a-friend",
       "themes": [
         "Luke Walton",
         "Just A Friend",
         "unrequited",
-        "2006"
+        "2007"
       ],
       "lyrics": ": Just A Friend EP (2006) —\n\n I see your face and I can't erase what's already there.\n You're just a friend I say again even though I care.\n It's not that I'm afraid to fail,\n What holds me back is just the fact I know you too well.\n\n Two sides to one pretty coin,\n Wish I could wish one away.\n Lose the front, I'll be your safety net,\n And I would catch you, babe.\n\n Can't be perfect, but I can try.\n\n I see your face and I can't erase what's already there.\n You're just a friend I say again even though I care.\n It's not that I'm afraid to fail,\n What holds me back is just the fact I know you too well.\n\n Even when I tried to shut my eyes,\n Your figure still shone through.\n I'd rather stay living in this lie,\n Than lose what I have of you.\n\n I see your face and I can't erase what's already there.\n You're just a friend I say again even though I care.\n It's not that I'm afraid to fail,\n What holds me back is just the fact I know you too well.\n\n When even February last forever,\n It seems there's nothing left for me to find.\n Cross all them bridges left for me to sever,\n Your still runnin' runnin' runnin' through my mind.\n\n I see your face and I can't erase what's already there.\n You're just a friend I say again even though I care.\n It's not that I'm afraid to fail,\n What holds me back is just the fact I know you too well.\n\n: Goodbye/Hello LP (2010) —\n\n Sitting in my room laughing away the world,\n Your perfect smile so in sync with mine.\n But when we brush hands we quickly pull away,\n And say that being friends is just fine.\n\n I'm sick of pretending,\n That I don't mind.\n\n I see your face and I can't erase what's already there,\n You're just a friend I say again even though I care,\n I try to bring these thoughts to an end,\n Cause I'm too in love and it's too damn tough to stay just a friend.\n\n You're across the hall flirtin with some idiot guy,\n Who doesn't care the least bout love.\n But I keep my fist buried in my pocket,\n Cause I'm too scared to mess this up.\n\n I'm sick of running,\n From how we feel.\n\n I see your face and I can't erase what's already there,\n You're just a friend I say again even though I care,\n I try to bring these thoughts to an end,\n Cause I'm too in love and it's too damn tough to stay just a friend.\n\n When even February lasts forever,\n I know I've gotta go and make a change.\n I move my lips and just hope for the better,\n But are you feelin' feelin' feelin' the same?\n\n I see your face and I can't erase what's already there.\n I see your face and I can't erase what's already there,\n You're just a friend I say again even though I care,\n I try to bring these thoughts to an end,\n Cause I'm too in love and it's too damn tough to stay just a friend.\n",
       "draft": false
@@ -40625,7 +40630,7 @@
     "metadata": {
       "title": "One Take",
       "meaning": "Ultimatum pop: one take, one chance; secrets in daylight and a relationship that never gave anything back.",
-      "year": 2006,
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
@@ -40637,7 +40642,7 @@
         "Luke Walton",
         "Just A Friend",
         "heartbreak",
-        "2006"
+        "2007"
       ],
       "lyrics": "One take, one chance, this is all you get.\nTake me or leave me just do it quick.\nI never asked of anything from you,\nAnd you never gave me anything, now we're through.\n\nThere we're things never said, secrets that you kept,\nAway from me.\nSee them in this light of day,\nNow you're losing me.\n\nAnd she said,\nOne take, one chance, this is all you get.\nTake me or leave me just do it quick.\nI never asked of anything from you,\nAnd you never gave me anything, now we're through.\n\nOne take, one chance, this is all you get.\nTake me or leave me just do it quick.\nI never asked of anything from you,\nAnd you never gave me anything, now we're through.\n",
       "draft": false
@@ -41168,8 +41173,8 @@
     "source": "src/content/songs/prelude.md",
     "metadata": {
       "title": "Prelude",
-      "meaning": "Instrumental opener on the 2006 Just A Friend EP: Luke Walton, music only.",
-      "year": 2006,
+      "meaning": "Instrumental opener on the 2007 Just A Friend EP: Luke Walton, music only.",
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
@@ -41178,7 +41183,7 @@
         "Luke Walton",
         "Just A Friend",
         "instrumental",
-        "2006"
+        "2007"
       ],
       "draft": false
     }
@@ -41236,11 +41241,11 @@
     "metadata": {
       "title": "Preschool",
       "meaning": "Young love as grade-school mismatch: preschool compared to you; one yawn and the older romance is gone.",
-      "year": 2006,
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
-      "credits": "Words and music by Luke Walton. Debut on Just A Friend EP (2006); The Other Side (2009); Goodbye/Hello (2010); Charitable Chords comp (2010, Luke Walton feat. Blue Suburbia).",
+      "credits": "Words and music by Luke Walton. Debut on Just A Friend EP (2007); The Other Side (2009); Goodbye/Hello (2010); Charitable Chords comp (2010, Luke Walton feat. Blue Suburbia).",
       "bandcamp": "https://lukewaltonband.bandcamp.com/track/preschool",
       "themes": [
         "Luke Walton",
@@ -44903,7 +44908,7 @@
     "metadata": {
       "title": "Who Needs Tears",
       "meaning": "Childhood ending: who needs tears when you can be blind; faking that life's not rough while refusing to repeat what's been done.",
-      "year": 2006,
+      "year": 2007,
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
@@ -44913,7 +44918,7 @@
         "Luke Walton",
         "Just A Friend",
         "youth",
-        "2006"
+        "2007"
       ],
       "lyrics": "The clouds speak, but we don't hear,\nWe've forgotten how.\nWorlds seem to disappear,\nChildhood ends now.\n\nI'm finally losing my mind,\nFinally one of them.\nWho needs tears,\nWhen you can be blind?\n\nThe world was a happy place,\nFilled with honey love.\nBut now I have to put on a face,\nAnd fake that life's not rough.\n\nI'm finally losing my mind,\nFinally one of them.\nWho needs tears,\nWhen you can be blind?\n\nThey think we're acting dumb,\nAt least we're expressing something.\nI don't wanna do what's been done.\n\nI've had the realization,\n\nI'm finally losing my mind,\nFinally one of them.\nWho needs tears,\nWhen you can be blind?\nWho needs tears,\nWhen you can be blind?\n",
       "draft": false
