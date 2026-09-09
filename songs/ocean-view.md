@@ -75,7 +75,7 @@ draft: false
 
 ---
 
-Track four on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single ahead of the LP. [EARMILK](https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/) heard laidback summer guitar, bass grooves, and calm ocean-facing pop, a preview of the whole record's posture.
+Track four on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single ahead of the LP. [EARMILK](https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/) heard laidback summer guitar, bass grooves, and calm ocean-facing pop.
 
 A deserted-island domestic fantasy that keeps shrinking the world to fit two people. The island is *not very big*, so *every day we go in circles*, which is the whole ambition rather than a complaint.
 

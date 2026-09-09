@@ -53,10 +53,10 @@ draft: false
 
 Track five on [*Masks and Monsters*](/albums/masks-and-monsters/): Luke solo, North Park lockdown, August 2020. The LP's named *blues* track in the album essay, alongside [*It Can Get Worse*](/songs/it-can-get-worse/), [*Creature Comfort*](/songs/creature-comfort/), and [*When It's Over*](/songs/when-its-over/).
 
-The title nods to [The 1919 Influenza Blues](https://folkways.si.edu/essie-jenkins/the-1919-influenza-blues/blues/music/album/smithsonian) by Essie Jenkins, the stark piano blues about the last century's plague (disease that *killed the rich, killed the poor* and *sent the doctors all home to bed*), preserved on Smithsonian Folkways. Luke's version sits in that lineage, not parody but the form itself updated for stir-crazy 2020.
+The title nods to [The 1919 Influenza Blues](https://folkways.si.edu/essie-jenkins/the-1919-influenza-blues/blues/music/album/smithsonian) by Essie Jenkins, the stark piano blues about the last century's plague (disease that *killed the rich, killed the poor* and *sent the doctors all home to bed*), preserved on Smithsonian Folkways. Luke's version is the same form, no parody, updated for stir-crazy 2020.
 
 The verse is domestic absurdism: a musician in a *comfort prison with a guitar in my cell*, a sandwich built from *the butts of moldy bread*, and the heroic act of getting up from bed (depression physics). The chorus flips the idiom from "got it bad" to *I've got the pandemic blues, I've got it good*, then inventories the low-rent comforts (marijuana, malt alcohol, HBO Go), privilege and collapse in the same breath. Same register as [*Creature Comfort*](/songs/creature-comfort/).
 
-Pairs with [*2020 Is Over*](/songs/2020-is-over/) (December single, same season) and leads toward recovery on [*Little Hug*](/albums/little-hug/). Distinct from track four, [*When It's Over*](/songs/when-its-over/): different song, same end-is-near mood.
+Pairs with [*2020 Is Over*](/songs/2020-is-over/) (December single, same season). [*Little Hug*](/albums/little-hug/) (April 2021) came next. Distinct from track four, [*When It's Over*](/songs/when-its-over/): different song, same end-is-near mood.
 
 ---

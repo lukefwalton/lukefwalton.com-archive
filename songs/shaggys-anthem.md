@@ -111,7 +111,7 @@ draft: false
 
 Track eleven on [*Masks and Monsters*](/albums/masks-and-monsters/), teased ahead of the LP by [Neon Music](https://neonmusic.co.uk/face-your-fears-with-scoobert-dooberts-shaggys-anthem) as courage while your knees are shaking. Luke solo; North Park lockdown record.
 
-It opens in full brainposter voice (*me, an intellectual / I greet anxiety with a friendly pull*), where *we live in a society* is the joke. The group chant underneath admits the terror it's trying to chant away: *happy / then get terrified*, the whole album's emotional arc in four words.
+It opens in full brainposter voice (*me, an intellectual / I greet anxiety with a friendly pull*), where *we live in a society* is the joke. The group chant underneath admits the terror it's trying to chant away: *happy / then get terrified*, the whole album in four words.
 
 The chorus is courage that wobbles (*villains are all around me / but I will not run away*), and the bridge turns the album's masks literal and social at once: *funny how the monsters are the ones you trusted from the very start*. Then the tag collapses the distinction the song has been worrying at, *pretending's what I'll do / but isn't that the same?*, leaving performed courage and the real thing indistinguishable.
 

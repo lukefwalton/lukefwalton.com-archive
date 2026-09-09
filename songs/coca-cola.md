@@ -121,7 +121,7 @@ draft: false
 
 ---
 
-Track thirteen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke solo**, North Park lockdown, **August 2020**. The back-half pivot from pandemic tenderness ([*Happy Birthday*](/songs/happy-birthday/)) into advertising brain: the album that named masks literally and socially now names personal branding as intimacy's evil twin.
+Track thirteen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke solo**, North Park lockdown, **August 2020**. After the pandemic tenderness of [*Happy Birthday*](/songs/happy-birthday/), the back half turns to advertising brain: the album that named masks literally and socially now names personal branding as intimacy's evil twin.
 
 The refrain is the whole argument, repeated until it sticks: *whether it's your lover or your customer / sell em on a dream / lie to all you love / it's the only way that they can stay happy*. Romance and commerce run the same script, lying reframed as kindness. The chorus turns a soda name into a verb for staying on-message, Coke as a stand-in for every personal feed rather than a jingle for the drink. The bridge stacks borrowed slogans (*treat yourself / just do it*), Nike meeting self-care.
 

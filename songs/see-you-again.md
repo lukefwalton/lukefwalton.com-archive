@@ -81,7 +81,7 @@ Track eleven on [*I*](/albums/i/). Luke's note: **for many friends he has lost o
 
 The regret comes without drama (*shoulda savored*, *never in another world*) and the wish is plain. The question mark in the title matters. Around it run two images of memory out of sync with place: a talisman carried into a bonfire on a Kyoto hill, *not sure if I did it right*, and a dorm room repainted, the dents you made covered over. The bridge refuses a clean answer, cycling *maybe I will / I hope I will / I never will* until hope and impossibility sit in the same mouth.
 
-Released ahead of the LP as a single. [Apple Music](https://music.apple.com/gb/song/see-you-again/1734387742) splits credits the way the entity layer should: **Luke Walton, songwriter**, **Scoobert Doobert: producer**, with **Riley Knapp** mastering: platforms already know pieces of the truth; this site is the canonical human-readable version.
+Released ahead of the LP as a single. [Apple Music](https://music.apple.com/gb/song/see-you-again/1734387742) credits **Luke Walton** as songwriter and **Scoobert Doobert** as producer, with **Riley Knapp** mastering.
 
 On an album full of *u* and motion, this is the track that stops for **who isn't here anymore**. See also: [Catalog](/catalog/).
 

@@ -72,6 +72,6 @@ Track nine on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), a
 
 A man eyeing a woman who *couldn't be a day over nineteen* gets the line that flips the whole scene: *she tells me I look just like her daddy.* He has a daughter of his own, *twenty-three* and *locked inside her bedroom, so empty.* The chorus is hers, the child's clear sight of a father who keeps leaving and keeps pretending: *he don't know that I know, yeah I know what he is.* Then verse two answers it. The man at the bar slurs *I swear I can drive, nobody can stop me* as someone tries to take his keys, and we watch him become the exact father his daughter sees. The damage runs as inheritance, and the song closes by hollowing out the chorus to *he don't know, he don't, he don't, know.*
 
-Family is the first little home to fail here, before any politics. Pairs with [*Creatures*](/songs/creatures/), and prefigures the later Scoobert [*Damned*](/songs/damned/) (*hey momma, hey my brother*). Leads into [*Don't You*](/songs/dont-you/).
+Family is the first little home to fail here, before any politics. Pairs with [*Creatures*](/songs/creatures/) and the later Scoobert [*Damned*](/songs/damned/) (*hey momma, hey my brother*). Leads into [*Don't You*](/songs/dont-you/).
 
 ---

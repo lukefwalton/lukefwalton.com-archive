@@ -22,7 +22,7 @@ isrcSource: spotify
 draft: false
 ---
 
-On **greatest applied communications music**: later **Applied Communications** (Max Wood) material on [Bandcamp](https://applcomm.bandcamp.com/). Press-verified mix credit: [**applied communications has a midlife crisis**](/albums/applied-communications-has-a-midlife-crisis/) (2024), mixed by Luke Francis Walton · mastered by Riley Knapp.
+On **greatest applied communications music**: later **Applied Communications** (Max Wood) material on [Bandcamp](https://applcomm.bandcamp.com/). Earlier mix credit: [**applied communications has a midlife crisis**](/albums/applied-communications-has-a-midlife-crisis/) (2024), mixed by Luke Francis Walton · mastered by Riley Knapp.
 
 Streaming metadata also lists Scoobert Doobert as mixing engineer on this track. Luke did not write the lyrics.
 

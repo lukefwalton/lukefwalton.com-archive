@@ -68,7 +68,7 @@ draft: false
 
 Track four on [*Dragon Ball $d*](/albums/dragon-ball-d/), **feat. Babidi & Gokudaxij** (**Taylor James / J MESA** and **Eric Radloff**). Luke wrote, played, mixed, and mastered; they sing the feature. The Namek arc as breezy travel song, the Dragon Ball hunt rendered as a road trip. [**Frieza**](https://en.wikipedia.org/wiki/Frieza) is coming and the song knows it, but the hook (*stay cool cuz a chill's in the air*) grooves anyway.
 
-Then it switches to **Bulma**, brushing off Krillin (*I'm a blue beauty but you're short and bald*) while she eyes the prince. That sets up the page's real payload, **Luke's fan theory**: Bulma's life goes so well because she covertly makes wishes. Only her radar finds the Dragon Balls, and that's why **Vegeta** ends up domesticated. Played for comedy, but the thesis is sincere: whoever controls the radar controls canon.
+Then it switches to **Bulma**, brushing off Krillin (*I'm a blue beauty but you're short and bald*) while she eyes the prince. That sets up **Luke's fan theory**: Bulma's life goes so well because she covertly makes wishes. Only her radar finds the Dragon Balls, and that's why **Vegeta** ends up domesticated. Played for comedy, but the theory is sincere: whoever controls the radar controls canon.
 
 Same duo as [*Prince of All Saiyans*](/songs/prince-of-all-saiyans/) and [*Enter, the Ginyu Force*](/songs/enter-the-ginyu-force/) next, vacation pop until the chill stops being weather.
 

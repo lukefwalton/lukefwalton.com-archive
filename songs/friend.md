@@ -63,7 +63,7 @@ Same political skeleton as the debut: the *motherfuckin senator*, the *tyrant lo
 
 What changes is delivery: two voices, roughly two minutes, a pop-rock arrangement instead of Scoobert bedroom chaos. The loneliness is the same (*hangin on, I barely am / not alone, though I know I am*), just a cleaner line, with *steel* corrected from *steal* on deities.
 
-Origin chain: **Finding $D** (solo lab notebook) → **FEiN Friend** (2018 single) → live *My Friend, Scoobert* on *Live from the Void* (2020). Same lyricist throughout; FEiN is the early duo pass at a song that already existed.
+The song first appeared on **Finding $D** (2017, solo lab notebook), then as the FEiN single **Friend** (2018), then live as *My Friend, Scoobert* on *Live from the Void* (2020). Same lyricist throughout; FEiN is the duo pass at a song that already existed.
 
 See: [*My Friend, Scoobert*](/songs/my-friend-scoobert/) · [FEiN](/music/fein/) · [Catalog](/catalog/).
 

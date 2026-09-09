@@ -63,10 +63,10 @@ draft: false
 
 ---
 
-Title track of [*Little Hug*](/albums/little-hug/) (**April 2021**), the EP closer, track twelve. Luke solo. **Core vocal and ukulele recorded in the water at June Lake** (Sierra Nevada). Not to be confused with [*A Big Hug*](/songs/a-big-hug/) on the later LP: the lake recording is this song, the small recovery object before *Big Hug* scaled the thesis up.
+Title track of [*Little Hug*](/albums/little-hug/) (**April 2021**), the EP closer, track twelve. Luke solo. **Core vocal and ukulele recorded in the water at June Lake** (Sierra Nevada). Not to be confused with [*A Big Hug*](/songs/a-big-hug/) on the later LP: the lake recording is this song.
 
 The hook frames the need as communal and circular: *everybody including me could use a little company*, and the hug travels *from me to you to me*, a loop rather than one-directional charity. The bridge is plain repair (*let's take our time and reassess / think for ourselves and make amends*), post-pandemic re-entry in language anyone can use after eleven tracks of baths, crickets, *Debby*, and *so what*. The chorus holds dignity and self-disgust in one breath, *piece of God / though I'm a piece of shit*, the same flawed-and-beautiful energy [*A Big Hug*](/songs/a-big-hug/) would later echo at scale.
 
-After the parasocial plea of [*Debby*](/songs/debby/) and the epistemic spiral of [*Don't Know Much*](/songs/dont-know-much/), this is contact actually offered, and the *little reminder of what love can do* lands as something you do, not something you theorize. The EP's thesis in one place: not fine, but reaching for warmth anyway ([*Little Hug* essay](/albums/little-hug/)), and the seed for the full [*Big Hug*](/albums/big-hug/) LP a few months later.
+After the parasocial plea of [*Debby*](/songs/debby/) and the epistemic spiral of [*Don't Know Much*](/songs/dont-know-much/), this is contact actually offered, and the *little reminder of what love can do* lands as something you do, not something you theorize. Not fine, but reaching for warmth anyway ([*Little Hug* essay](/albums/little-hug/)). The [*Big Hug*](/albums/big-hug/) LP followed a few months later.
 
 ---

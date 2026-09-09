@@ -80,6 +80,6 @@ The hook is a loop that never resolves. Vows made and abandoned, loneliness unde
 
 The second verse is where it gets funny and bleak at once. The narrator considers joining the army to *get it hammered into me*, then can't escape the search that thought it up: *I always close the tab and redirect my madness / but the cookies keep following me / serving ads of martial glory*. The algorithm reads the spiral better than he can. Recruitment and self-help retargeting close the loop, the wellness industry recast as polite extraction (*self help take all my money / please smile and ignore me*).
 
-On *Big Hug* it leads into [*Scared to Reunite*](/songs/scared-to-reunite/) and the title track, part of the LP's scared-to-be-a-person arc ([*Big Hug* essay](/albums/big-hug/)).
+On *Big Hug* it leads into [*Scared to Reunite*](/songs/scared-to-reunite/) and the title track, the LP's scared-to-be-a-person stretch ([*Big Hug* essay](/albums/big-hug/)).
 
 ---

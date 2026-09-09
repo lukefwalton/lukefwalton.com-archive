@@ -35,7 +35,7 @@ draft: false
 
 **Fly Felix**: **Beautiful Animal** (**November 2, 2018**), track 2 on *The Sun Will Wake You Up*. [Genius](https://genius.com/Fly-felix-beautiful-animal-lyrics) lists **Drew Tyler** and **FEiN** as producers; [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein) publicly identifies **FEiN** as **Luke Walton** and **Brandon Woodward**, a **FEiN co-production**, not solo Luke.
 
-[Official music video](https://www.youtube.com/watch?v=LAn98aOwV-U). Public DSP metadata confirms the release; the producer field comes from Genius + FEiN identity resolution, not from streaming credits alone.
+[Official music video](https://www.youtube.com/watch?v=LAn98aOwV-U). Streaming metadata confirms the release; the producer credit is from Genius, with FEiN's membership per BMI.
 
 See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Press](/press/)
 

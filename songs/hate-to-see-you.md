@@ -26,11 +26,11 @@ themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2018", "session"]
 draft: false
 ---
 
-**Rees Finley**: **Hate To See You** from the *Reject Mixtape* lane, also collected on [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) (**March 8, 2019**).
+**Rees Finley**: **Hate To See You** from *Reject Mixtape*, also collected on [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) (**March 8, 2019**).
 
 Public [SoundCloud](https://soundcloud.com/rees-finley/hate-to-see-you) credit: **recorded by Brandon Woodward and Luke Walton at Tiny Giant Studios**. Guitars and mandolin on this track are **Ethan Sherman**. Luke’s role here is **recording**, not performed guitar.
 
-Same Tiny Giant / FEiN session world as [Dear Abby](/songs/dear-abby/) and [American Champagne](/songs/american-champagne/).
+Same Tiny Giant / FEiN sessions as [Dear Abby](/songs/dear-abby/) and [American Champagne](/songs/american-champagne/).
 
 See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 

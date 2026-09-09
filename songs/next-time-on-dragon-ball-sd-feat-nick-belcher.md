@@ -19,9 +19,9 @@ draft: false
 
 ---
 
-**Next Time on Dragon Ball SD (feat. Nick Belcher)**, vocal/feature version tied to the same DBZ SD trailer concept as [*Aaahh!!! Real Monsters*](/songs/aaahh-real-monsters/), the instrumental closer on [*Finding $D*](/albums/finding-d-remastered/) and *Next Time on Dragon Ball SD* on [*$WAMI$*](/albums/wami/). **Nick Belcher**: lead vocalist of [**Hammer City / The Hammers**](/with/hammer-city/) ([*Heartquake Saga*](/albums/heartquake-saga/) EP, 2016), also features across [*Dragon Ball $d*](/albums/dragon-ball-d/) (*Vegeta's Lament*, *Ally to Good*, *My Dad Sucks*, etc.). This cut predates the full hip-hopera as a standalone feature.
+**Next Time on Dragon Ball SD (feat. Nick Belcher)**, vocal/feature version tied to the same DBZ SD trailer concept as [*Aaahh!!! Real Monsters*](/songs/aaahh-real-monsters/), the instrumental closer on [*Finding $D*](/albums/finding-d-remastered/) and *Next Time on Dragon Ball SD* on [*$WAMI$*](/albums/wami/). **Nick Belcher**: lead vocalist of [**Hammer City / The Hammers**](/with/hammer-city/) ([*Heartquake Saga*](/albums/heartquake-saga/) EP, 2016), also features across [*Dragon Ball $d*](/albums/dragon-ball-d/) (*Vegeta's Lament*, *Ally to Good*, *My Dad Sucks*, etc.).
 
-Not on the *Dragon Ball $d* LP tracklist; lives as its own streaming single bridging the 2018 collage era and the 2020 cartoon-rap record.
+Not on the *Dragon Ball $d* LP tracklist; its own streaming single, between the 2018 collage era and the 2020 cartoon-rap record.
 
 See [Catalog](/catalog/) · [*$WAMI$* album notes](/albums/wami/) · [*Dragon Ball $d*](/albums/dragon-ball-d/)
 

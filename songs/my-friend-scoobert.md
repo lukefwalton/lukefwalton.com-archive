@@ -102,7 +102,7 @@ draft: false
 
 ---
 
-Track three on [*Finding $D*](/albums/finding-d-remastered/), Luke solo, and the debut LP's first turn from gag into **political loneliness**. The title names the ask. Scoobert is the invented friend, the persona the project would wear for years, and here he's the friend you make up when the world won't hold you.
+Track three on [*Finding $D*](/albums/finding-d-remastered/), Luke solo, and the debut LP's first **political loneliness** song. The title names the ask. Scoobert is the invented friend, the persona the project would wear for years, and here he's the friend you make up when the world won't hold you.
 
 The verses are 2017 collapse poetry: Nietzsche, fallen Rome, and Flint-era poison (*our water's full of lead*) stacked next to a glancing *Arjuna, don't kill again*, which borrows the Bhagavad Gita's pacifism-versus-duty knot. Culture-war noise and the *right to my body* land in the same breath. The pre-chorus boils all of it down to a *shitty little brain* that's *overdrawn*, which squares with the [Last Day Deaf](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/)-era talk of raw chaos next to precise moments.
 
@@ -110,6 +110,6 @@ The actual song lives in the chorus: *hanging on, I barely am... will you be my 
 
 A live version later appeared on *Live from the Void* (2020). FEiN rerecorded the song as [*Friend*](/songs/friend/) (**2018** single): shorter, theatrical pop, no Scoobert in the title, *steel your mind* and *though I know I am* in the chorus.
 
-Pairs with [*My Meddling Kids (Hallelujah Sexy)*](/songs/my-meddling-kids-hallelujah-sexy/) on the same LP and leads toward [*Damned*](/songs/damned/) and [*Mother of Exile*](/songs/mother-of-exile/) before the lore dump on [*$WAMI$*](/albums/wami/).
+Pairs with [*My Meddling Kids (Hallelujah Sexy)*](/songs/my-meddling-kids-hallelujah-sexy/) on the same LP and leads toward [*Damned*](/songs/damned/) and [*Mother of Exile*](/songs/mother-of-exile/) before [*$WAMI$*](/albums/wami/).
 
 ---

@@ -95,7 +95,7 @@ draft: false
 
 ---
 
-Standalone holiday single (**December 13, 2024** · Beformer), not on [*US*](/albums/us/), [*Moonlight Beach*](/albums/moonlight-beach/), or *A Very Doobert Christmas, Vol. 1* (that's the [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) era). Same seasonal lane as [*don't join the skeletons!*](/songs/dont-join-the-skeletons/): holiday song, California register.
+Standalone holiday single (**December 13, 2024** · Beformer), not on [*US*](/albums/us/), [*Moonlight Beach*](/albums/moonlight-beach/), or *A Very Doobert Christmas, Vol. 1* (that's the [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) era). Same kind of seasonal single as [*don't join the skeletons!*](/songs/dont-join-the-skeletons/): holiday song, California register.
 
 The hook is the whole argument: *merry Christmas from the beach*, *it's alright to do it differently*. White caps for snow, a coastal pine for the Charlie Brown tree, sand angels and palm-tree lights, *a little bit chilly / at least to me*. SoCal winter as its own tradition.
 

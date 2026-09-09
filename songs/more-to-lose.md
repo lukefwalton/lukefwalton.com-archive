@@ -61,6 +61,6 @@ Track eleven on [*KŌAN*](/albums/koan/), **KŌAN B** (May 2022), between [*Less
 
 The verse toggles between *I* and *we* (*it's all I've ever known* / *it's all we've ever known*), loneliness as both personal history and the shared dread after the pandemic years on this record. The title hook is the koan without jokes: *the more you live, the more you lose, not much else to do.* No NFT, no beach, no army ads, just arithmetic, and the only refusal is *no* tagged after each line. The song ends still asking.
 
-Same post-*Big Hug* loneliness lane as [*If I Could Only*](/songs/if-i-could-only/) (*wake alone untethered*) and [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) on KŌAN C, but minimal here: no characters, no internet, just the loop. Pairs with [*Less than Nothing*](/songs/less-than-nothing/) as KŌAN B's body-versus-isolation diptych, breath you can't trust and company you can't keep.
+Same post-*Big Hug* loneliness as [*If I Could Only*](/songs/if-i-could-only/) (*wake alone untethered*) and [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) on KŌAN C, but minimal here: no characters, no internet, just the loop. Pairs with [*Less than Nothing*](/songs/less-than-nothing/) as KŌAN B's body-versus-isolation diptych, breath you can't trust and company you can't keep.
 
 ---

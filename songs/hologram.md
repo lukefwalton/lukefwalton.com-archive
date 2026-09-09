@@ -23,9 +23,9 @@ draft: false
 
 ---
 
-Standalone cover of **Nico Touches the Walls’** **“ホログラム”** (*Hologram*): opening theme for ***Fullmetal Alchemist: Brotherhood***. Released on Scoobert’s second DistroKid account (see [Catalog](/catalog/#covers)); predates the Beformer-era LPs but fits the long Japan/anime thread that later runs through [*KŌAN*](/albums/koan/), CHAI production, and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/).
+Standalone cover of **Nico Touches the Walls’** **“ホログラム”** (*Hologram*): opening theme for ***Fullmetal Alchemist: Brotherhood***. Released on Scoobert’s second DistroKid account (see [Catalog](/catalog/#covers)); predates the Beformer-era LPs. Later Japan and anime work: [*KŌAN*](/albums/koan/), CHAI production, and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/).
 
-**[Official cover music video](https://www.youtube.com/watch?v=BCDUhIRTbAo)**: one of the catalog’s early anime-cover visuals; also on [Selected Videos](/music/#selected-videos).
+**[Official cover music video](https://www.youtube.com/watch?v=BCDUhIRTbAo)**, also on [Selected Videos](/music/#selected-videos).
 
 Original lyrics by Nico Touches the Walls. No lyrics published here.
 

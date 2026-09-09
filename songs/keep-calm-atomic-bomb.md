@@ -86,10 +86,10 @@ draft: false
 
 ---
 
-Track six on [*KŌAN*](/albums/koan/), **KŌAN A** closer (after instrumental *Information*), full LP September 2022. Luke solo. Third leg of the EP hinge after [*Think About It*](/songs/think-about-it/) and [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/): historical dread and inherited burden. The title parodies the WWII *Keep Calm and Carry On* poster, a stiff-upper-lip command pasted over apocalypse.
+Track six on [*KŌAN*](/albums/koan/), **KŌAN A** closer (after instrumental *Information*), full LP September 2022. Luke solo. After [*Think About It*](/songs/think-about-it/) and [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/) on the EP: historical dread and inherited burden. The title parodies the WWII *Keep Calm and Carry On* poster, a stiff-upper-lip command pasted over apocalypse.
 
 The song is about comfort built on violence you didn't commit but still benefit from: *no blame looking from the summit,* then the one question, *did they force your hand?,* aimed at Truman, parents, presidents, anyone who said there was no choice. The chorus stacks eras into single images, a *sword of Damocles above my nursery* and a president who *never really cared about you.* Verse two is justification culture, the *fog of war* and the math that hides madness with numbers until *there wasn't really any other way.* It's the same move as [*Think About It*](/songs/think-about-it/)'s Schrödinger koan, but the paradox here is moral, not quantum.
 
-The outro is just *bomb* eight times, no melody left. Japan shapes the record's name and aesthetic; this track names the American twentieth century shadowing that thread, atomic dread as nursery furniture ([*KŌAN* essay](/albums/koan/)). Pairs with [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/)'s *another world* invite: happiness offered, then the cost of how we got here.
+The outro is just *bomb* eight times, no melody left. Japan shapes the record's name and aesthetic; this track names the American twentieth century behind it, atomic dread as nursery furniture ([*KŌAN* essay](/albums/koan/)). Pairs with [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/)'s *another world* invite: happiness offered, then the cost of how we got here.
 
 ---

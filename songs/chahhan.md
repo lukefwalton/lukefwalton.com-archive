@@ -34,7 +34,7 @@ draft: false
 
 [Uta-Net](https://www.uta-net.com/song/388399/) and [Jungle Life](https://www.jungle.ne.jp/newsfeature/ko216/) list **作詞 MANA & KANA** and **作曲 Scoobert Doobert, MANA & KANA**: same composition credit split as [WE CAN'T DOLL](/songs/we-cant-doll/). Luke Francis Walton **co-produced with MANA & KANA**, **mixed**, and **played** on the track. No full music video: the [official YouTube upload](https://www.youtube.com/watch?v=Wca8MJ4qmJI) is streaming/static art only (not an MV like [WE CAN'T DOLL](/songs/we-cant-doll/)).
 
-Same MANA/KANA post-CHAI Japan thread as [WE CAN'T DOLL](/songs/we-cant-doll/) (2025) and [With OKAME](/with/okame/) mixing on [おかしなきもち](/songs/okashi-na-kimochi/) / [*DEBUT*](/songs/game-over/), KOMAGOME and OKAME are distinct artist names, one continuous producer arc.
+Walton's other work with MANA and KANA after CHAI: [WE CAN'T DOLL](/songs/we-cant-doll/) (2025), and mixing for [OKAME](/with/okame/) on [おかしなきもち](/songs/okashi-na-kimochi/) and [*DEBUT*](/songs/game-over/). KOMAGOME and OKAME are distinct artist names.
 
 No Scoobert lyrics. See [With KOMAGOME](/with/komagome/) · [With OKAME](/with/okame/) · [Catalog](/catalog/#production)
 

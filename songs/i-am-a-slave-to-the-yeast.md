@@ -49,10 +49,10 @@ draft: false
 
 ---
 
-Track fifteen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke solo**, North Park lockdown, **August 2020**. The LP's sourdough song: the 2020 quarantine hobby as religious submission, the same domestic-comedy lane as [*Creature Comfort*](/songs/creature-comfort/) (*wash another pan*) and [*Pandemic Blues*](/songs/pandemic-blues/) (*moldy bread sandwich*).
+Track fifteen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke solo**, North Park lockdown, **August 2020**. The LP's sourdough song: the 2020 quarantine hobby as religious submission, the same domestic comedy as [*Creature Comfort*](/songs/creature-comfort/) (*wash another pan*) and [*Pandemic Blues*](/songs/pandemic-blues/) (*moldy bread sandwich*).
 
 Inside wins. Fear of leaving curdles into preference, then full Stockholm syndrome (*the agoraphobia is setting in*, *now I only love my home*), with the starter culture standing in for a personality. The bridge envies the world through the window (*all of the people on the beach / so careless and free / but not me*), an inverted *Under the Sea* where you don't actually want out. The chorus collapses the whole diet to levain: *I am a slave to the yeast / homebrewing is taking over me*, beer and bread both, fermentation as obsession.
 
-Back-half MMM after [*Corona*](/songs/corona/)'s romantic terror, before [*Why, How, Yeah, Yeah, Yeah*](/songs/why-how-yeah-yeah-yeah/) and [*Mystery Machine*](/songs/mystery-machine/). Same can't-leave-the-house thread as [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) (desert island by choice) and [*Flip Flop Phil*](/songs/flip-flop-phil/) (open mic elsewhere you can't reach).
+Back-half MMM after [*Corona*](/songs/corona/)'s romantic terror, before [*Why, How, Yeah, Yeah, Yeah*](/songs/why-how-yeah-yeah-yeah/) and [*Mystery Machine*](/songs/mystery-machine/). Same can't-leave-the-house subject as [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) (desert island by choice) and [*Flip Flop Phil*](/songs/flip-flop-phil/) (open mic elsewhere you can't reach).
 
 ---

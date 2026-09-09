@@ -118,7 +118,7 @@ Imposter syndrome dressed up as a pep talk. The self-help imperatives stack up (
 
 The anxiety gets specific in the recurring-dream verse: you graduate, get the job, and they find out you were *short two credits* and never earned the degree. The ambitions crash the same way, the dream undone by the machine it depends on (*my laptop crashes and there's no autotune to save me*).
 
-Same KŌAN C identity thread as [*What Makes You You*](/songs/what-makes-you-you/) and [無門関](/songs/mumonkan/): if you're faking it, who's the you underneath? [The Bent Stick](/writing/the-bent-stick/) takes the other side, on standing behind what you can't prove.
+Same KŌAN C identity question as [*What Makes You You*](/songs/what-makes-you-you/) and [無門関](/songs/mumonkan/): if you're faking it, who's the you underneath? [The Bent Stick](/writing/the-bent-stick/) takes the other side, on standing behind what you can't prove.
 
 **Spotify editorial:** [@beformer confirmed Indie Pop](https://www.instagram.com/p/Cd1Q6u-v1hF/) (May 21, 2022) and [Bedroom Pop](https://www.instagram.com/p/Ce1qzrVPiys/) (June 15, 2022). See [Catalog: official playlists](/catalog/#spotify-editorial).
 

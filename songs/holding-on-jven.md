@@ -27,11 +27,11 @@ themes: ["J.VEN", "FEiN", "Tiny Giant", "2016", "session", "R&B"]
 draft: false
 ---
 
-**J.VEN**: **Holding On** ([SoundCloud](https://soundcloud.com/officiallyjven/holding-on), uploaded **July 8, 2016** · **R&amp;B &amp; Soul**). Public SoundCloud credit block: **written by J.VEN and Michael O'Konis** · **vocals performed by J.VEN** · **recorded by Tiny Giant Recordings**. Luke Walton confirms **recording engineer** and **recorded by Luke Walton and Brandon Woodward** (FEiN / [Tiny Giant Recording](/catalog/#credited-work)). The studio credit on the upload resolves to the same Walton + Woodward session lane as [Dear Abby](/songs/dear-abby/) and [Hate To See You](/songs/hate-to-see-you/).
+**J.VEN**: **Holding On** ([SoundCloud](https://soundcloud.com/officiallyjven/holding-on), uploaded **July 8, 2016** · **R&amp;B &amp; Soul**). Public SoundCloud credit block: **written by J.VEN and Michael O'Konis** · **vocals performed by J.VEN** · **recorded by Tiny Giant Recordings**. Luke Walton confirms **recording engineer** and **recorded by Luke Walton and Brandon Woodward** (FEiN / [Tiny Giant Recording](/catalog/#credited-work)). Same Walton + Woodward Tiny Giant sessions as [Dear Abby](/songs/dear-abby/) and [Hate To See You](/songs/hate-to-see-you/).
 
 **Session:** A **Jan 30, 2016** FEiN Facebook post ([screenshot](/evidence/fein-jven-tiny-giant-session-jan-2016.png)): *Tracking drums, bass, guitar, keys, and vocals #live at Tiny Giant Recording … with the talented J.VEN! Excited for the gospel choir tomorrow. Man, recording is fun. #USCpop* Wide shot of the Tiny Giant live room: guitar wall, central workstation, red-walled drum booth, full-band tracking in progress.
 
-Same Tiny Giant / FEiN session world as the [Julia Ryan](/songs/what-you-want-slow-it-down/) 2016 SoundCloud uploads and the broader [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
+Same Tiny Giant / FEiN sessions as the [Julia Ryan](/songs/what-you-want-slow-it-down/) 2016 SoundCloud uploads and the broader [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
 
 See [FEiN Collaboration](/music/fein/#collaboration)
 

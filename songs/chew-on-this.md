@@ -83,7 +83,7 @@ lyrics: |
 draft: false
 ---
 
-Standalone single only (**July 26, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. Also appears on the [indiemono *GOLDEN BAY* compilation](https://music.apple.com/us/album/chew-on-this/1759489046?i=1759489048); this page is the **single** object.
+Standalone single only (**July 26, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. Also appears on the [indiemono *GOLDEN BAY* compilation](https://music.apple.com/us/album/chew-on-this/1759489046?i=1759489048); this page covers the **single**.
 
 It opens in the same sunset language as [*chasing the sunset*](/songs/chasing-the-sunset/), then the mood curdles: *what if it gets cloudy*, *ain't no money for dreamers*. Hope as something you chase until the weather wins. The chorus sharpens internet dread into body horror, **big data** feeding on the output of your soul: *don't take another bite / swallow me whole*.
 

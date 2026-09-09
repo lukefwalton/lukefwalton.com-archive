@@ -98,7 +98,7 @@ draft: false
 
 ---
 
-Track two on [*MÖB*](/albums/mob/). The title pun is the thesis: **memory** plus **LAN**, nostalgia as a local network where everyone brought a TV for the sleepover. The detail work dates you exactly, blowing into a cartridge, fresh ASCII art to copy-paste on AIM, *stop screen-watching me, dude*. Fall asleep first and you wake up tattooed, *looking like Anthony Davis before he had a stylist*.
+Track two on [*MÖB*](/albums/mob/). The title pun says it: **memory** plus **LAN**, nostalgia as a local network where everyone brought a TV for the sleepover. The detail work dates you exactly, blowing into a cartridge, fresh ASCII art to copy-paste on AIM, *stop screen-watching me, dude*. Fall asleep first and you wake up tattooed, *looking like Anthony Davis before he had a stylist*.
 
 Under the gags is a real ache. The chorus keeps reaching for *colors like I used to* while knowing the honest answer to *can it be like it used to* is no. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) heard it as nostalgic and groove-centered. The outro doesn't fix the loop, it thanks it: *I am grateful... for all the good times with you*. The Möbius move is wanting the past while admitting the party already ended.
 

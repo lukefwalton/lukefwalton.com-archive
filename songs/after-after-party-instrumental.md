@@ -19,7 +19,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Instrumental version of [*after after party*](/songs/after-after-party/), **AFTER-PARTY** chapter on the in-progress [*US*](/albums/us/) cycle (**2025**). Same arrangement without vocals; no lyrics on instrumental pages.
+Instrumental version of [*after after party*](/songs/after-after-party/), **AFTER-PARTY** chapter on the in-progress [*US*](/albums/us/) cycle (**2025**). Same arrangement without vocals.
 
 *US* is the third MÖBIUS turn (after [*MÖB*](/albums/mob/) and [*I*](/albums/i/)); chapter EPs roll out before the full LP. See [US status page](/albums/us/) · [Catalog](/catalog/)
 

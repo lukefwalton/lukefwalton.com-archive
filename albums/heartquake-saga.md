@@ -39,8 +39,8 @@ draft: false
 
 **Luke Francis Walton**: **recording engineer** (sound design). Production credit only; Walton did not write these songs and is not named on public streaming metadata.
 
-**Studio trail:** A [YouTube post for *Forget I Said Anything*](https://www.youtube.com/watch?v=QNPPPXdEXEQ) describes it as the third song on the new EP *Heartquake Saga* and credits **Tiny Giant Recording** with **mixing by [Frank Rosato](/with/frank-rosato/)**: public support for the Tiny Giant era (same studio lane as [*Little Homes*](/albums/little-homes-fein/), [*Boomerang (with FEiN)*](/songs/boomerang/), [*Between Dreams*](/albums/between-dreams/)).
+**Studio:** A [YouTube post for *Forget I Said Anything*](https://www.youtube.com/watch?v=QNPPPXdEXEQ) describes it as the third song on the new EP *Heartquake Saga* and credits **Tiny Giant Recording** with **mixing by [Frank Rosato](/with/frank-rosato/)**: the same studio as [*Little Homes*](/albums/little-homes-fein/), [*Boomerang (with FEiN)*](/songs/boomerang/), and [*Between Dreams*](/albums/between-dreams/).
 
-See [With Hammer City](/with/hammer-city/) · [Dragon Ball $d spine](/catalog/#dragon-ball-spine) · [With Frank Rosato](/with/frank-rosato/) · [Catalog](/catalog/#production)
+See [With Hammer City](/with/hammer-city/) · [Catalog: Dragon Ball $d](/catalog/#dragon-ball-spine) · [With Frank Rosato](/with/frank-rosato/) · [Catalog](/catalog/#production)
 
 ---

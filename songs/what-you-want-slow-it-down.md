@@ -23,9 +23,9 @@ themes: ["Julia Ryan", "FEiN", "Tiny Giant", "USC Thornton", "2016", "session", 
 draft: false
 ---
 
-**Julia Ryan**: **What You Want (Slow It Down)** ([SoundCloud](https://soundcloud.com/julia-ryan-music/what-you-want-slow-it-down), uploaded **August 13, 2016** · tagged **Soul Pop**). USC Thornton Popular Music orbit collab with [**FEiN**](/music/fein/) (Luke Francis Walton + Brandon Woodward): **produced and recorded by FEiN**; **guitars by Luke Walton**. Session credits confirmed by Walton; the guitar part is unmistakably his on the upload. The public SoundCloud description is Julia's songwriting note about manifesting self-love before giving love to someone else (*slow it down* until your own inner love is solid).
+**Julia Ryan**: **What You Want (Slow It Down)** ([SoundCloud](https://soundcloud.com/julia-ryan-music/what-you-want-slow-it-down), uploaded **August 13, 2016** · tagged **Soul Pop**). USC Thornton Popular Music collab with [**FEiN**](/music/fein/) (Luke Francis Walton + Brandon Woodward): **produced and recorded by FEiN**; **guitars by Luke Walton**. Session credits confirmed by Walton. The public SoundCloud description is Julia's songwriting note about manifesting self-love before giving love to someone else (*slow it down* until your own inner love is solid).
 
-Same session lane as [Saints And Sinners](/songs/saints-and-sinners/), [Dear Abby](/songs/dear-abby/), [Boomerang (with FEiN)](/songs/boomerang/), and the broader [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
+Same kind of session work as [Saints And Sinners](/songs/saints-and-sinners/), [Dear Abby](/songs/dear-abby/), [Boomerang (with FEiN)](/songs/boomerang/), and the broader [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
 
 See [FEiN Collaboration](/music/fein/#collaboration)
 

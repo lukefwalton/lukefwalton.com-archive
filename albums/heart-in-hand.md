@@ -22,7 +22,7 @@ press:
 draft: false
 ---
 
-**Early archive**: **2008** self-released solo EP, follow-up to [*Just A Friend*](/albums/just-a-friend/) in the same teenage songwriter period. **Luke Walton**: guitar, piano, voice, songwriting. Per [archived lukewaltonband.com](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html) (~13:00). See [early solo releases](/catalog/#early-solo-releases) for how these EPs are framed on this site.
+**Early archive**: **2008** self-released solo EP, follow-up to [*Just A Friend*](/albums/just-a-friend/) in the same teenage songwriter period. **Luke Walton**: guitar, piano, voice, songwriting. Per [archived lukewaltonband.com](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html) (~13:00). See [early solo releases](/catalog/#early-solo-releases).
 
 [**Heart in Hand**](/songs/heart-in-hand/) · [**Out of (This) Place**](/songs/out-of-this-place/) · [**Storyline**](/songs/storyline/) · [**Dead End Love**](/songs/dead-end-love/)
 

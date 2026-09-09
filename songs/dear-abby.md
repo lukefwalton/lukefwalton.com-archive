@@ -1,7 +1,7 @@
 ---
 title: "Dear Abby"
 
-meaning: "Rees Finley single (2017); Luke Walton guitars; recorded and produced by FEiN at the Tiny Giant-era Rees Finley session lane."
+meaning: "Rees Finley single (2017); Luke Walton guitars; recorded and produced by FEiN in the Tiny Giant-era Rees Finley sessions."
 
 year: 2017
 release: "Songs 1-5"
@@ -37,9 +37,9 @@ themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2017", "session"]
 draft: false
 ---
 
-**Rees Finley**: neurotic alt-pop from the USC Thornton orbit. [Dear Abby](https://youtu.be/hlUnCOPWw2s) landed on the five-song [**Songs 1-5**](/catalog/#credited-work) EP (**August 4, 2017**) and later on the fourteen-track [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) collection (**March 8, 2019**).
+**Rees Finley**: neurotic alt-pop from the USC Thornton scene. [Dear Abby](https://youtu.be/hlUnCOPWw2s) landed on the five-song [**Songs 1-5**](/catalog/#credited-work) EP (**August 4, 2017**) and later on the fourteen-track [**Songs 1-14**](https://reesfinley.bandcamp.com/album/songs-1-14) collection (**March 8, 2019**).
 
-Public credits on [SoundCloud](https://soundcloud.com/rees-finley/dear-abby) and the [official music video](https://youtu.be/hlUnCOPWw2s): **recorded and produced by FEiN**; **guitars by Luke Walton**; **drums and percussion by Brandon Woodward**. Same Tiny Giant / FEiN lane as [Hate To See You](/songs/hate-to-see-you/) (recording) and [American Champagne](/songs/american-champagne/) (guitars + FEiN production).
+Public credits on [SoundCloud](https://soundcloud.com/rees-finley/dear-abby) and the [official music video](https://youtu.be/hlUnCOPWw2s): **recorded and produced by FEiN**; **guitars by Luke Walton**; **drums and percussion by Brandon Woodward**. Same Tiny Giant / FEiN session work as [Hate To See You](/songs/hate-to-see-you/) (recording) and [American Champagne](/songs/american-champagne/) (guitars + FEiN production).
 
 See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Rees Finley artist site](https://www.reesfinley.com/)
 

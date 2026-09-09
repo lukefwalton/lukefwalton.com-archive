@@ -77,10 +77,10 @@ draft: false
 
 ---
 
-The [*Big Hug*](/albums/big-hug/) opener is a thesis in one joke: performing California while the math doesn't work. Luke solo, October 2021. An Ohio kid takes a selfie at the beach in winter and tells his family he surfs every day, though he never even caught a wave, then loops back home anyway. *From Cali back to Cleveland, I am never leaving.* The *no* reads as a defiant stay, not an escape fantasy.
+The [*Big Hug*](/albums/big-hug/) opener runs on one joke: performing California while the math doesn't work. Luke solo, October 2021. An Ohio kid takes a selfie at the beach in winter and tells his family he surfs every day, though he never even caught a wave, then loops back home anyway. *From Cali back to Cleveland, I am never leaving.* The *no* reads as a defiant stay, not an escape fantasy.
 
 The chorus sells the state as bargain-bin paradise, where you *swim in the marijuana that no one can afford* and everyone still lives with their momma: legal-weed glamour against the rent crisis, hustle as regional identity. The westside waiter cast as a dead guy on CSI, the crystals, the vegan posting, the *cocaine on the weekend*: same good-vibes hypocrisy as *High Society* on [*KŌAN*](/songs/high-society/) a year later.
 
-It sets the table for the record. Approachable post-pandemic weirdness rather than dread, the California myth as a softening device and not just camouflage. Pairs with [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) and [*I'm an Idiot*](/songs/im-an-idiot/) ([*Big Hug* album essay](/albums/big-hug/)).
+Approachable post-pandemic weirdness rather than dread, the California myth as a softening device. Pairs with [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) and [*I'm an Idiot*](/songs/im-an-idiot/) ([*Big Hug* album essay](/albums/big-hug/)).
 
 ---

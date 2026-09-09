@@ -21,7 +21,7 @@ draft: false
 
 **Ho Ho Ho (Ozempic)**, standalone holiday meme single, separate from [*A Very Doobert Christmas, Vol. 1*](/albums/a-very-doobert-christmas-vol-1/) (**2023**). [Catalog](/catalog/#singles) lists it on an **indiemono** holiday compilation (**2025**), title pairs Santa’s *ho ho ho* with **Ozempic** / GLP-1 cultural moment as punchline.
 
-Not part of the MÖBIUS LP cycle; sits with other one-off holiday drops ([*Merry Christmas from the Beach*](/songs/merry-christmas-from-the-beach/), Christmas covers) as Scoobert’s parallel Christmas lane.
+Not part of the MÖBIUS LP cycle. One of Scoobert’s one-off holiday drops, with [*Merry Christmas from the Beach*](/songs/merry-christmas-from-the-beach/) and the Christmas covers.
 
 See [Catalog](/catalog/#singles)
 

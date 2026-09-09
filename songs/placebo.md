@@ -27,7 +27,7 @@ draft: false
 
 ---
 
-Cover of **米津玄師 (Kenshi Yonezu)** feat. **野田洋次郎 (Yojiro Noda of RADWIMPS)**: **“PLACEBO + 野田洋次郎”** from *STRAY SHEEP*. Standalone single in the Japan thread alongside [*KŌAN*](/albums/koan/) originals like [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/) and [*KODOMO MITAI*](/songs/kodomo-mitai/).
+Cover of **米津玄師 (Kenshi Yonezu)** feat. **野田洋次郎 (Yojiro Noda of RADWIMPS)**: **“PLACEBO + 野田洋次郎”** from *STRAY SHEEP*. Standalone single, released in 2022, the same year as [*KŌAN*](/albums/koan/) originals such as [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/) and [*KODOMO MITAI*](/songs/kodomo-mitai/).
 
 Original lyrics by Kenshi Yonezu. No lyrics published here.
 

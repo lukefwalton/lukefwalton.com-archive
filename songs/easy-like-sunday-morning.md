@@ -24,7 +24,7 @@ draft: false
 
 ---
 
-Standalone DistroKid cover of **The Commodores’** **“Easy (Like Sunday Morning).”** Sits outside the main LP essays, not on [*I*](/albums/i/) or [*MÖB*](/albums/mob/), as a one-off chill cover in the long tail of Scoobert singles.
+Standalone DistroKid cover of **The Commodores’** **“Easy (Like Sunday Morning).”** Not on [*I*](/albums/i/) or [*MÖB*](/albums/mob/); a one-off chill cover among the Scoobert singles.
 
 Original by Lionel Richie / Commodores. No lyrics published here.
 

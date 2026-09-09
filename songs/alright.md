@@ -78,7 +78,7 @@ draft: false
 
 ---
 
-Standalone single (**July 11, 2025** · Beformer × indiemono), not wired to [*US*](/albums/us/) or any in-progress LP. A post-*I* beach day in the same 2025 singles lane as [*best. day. ever.*](/songs/best-day-ever/).
+Standalone single (**July 11, 2025** · Beformer × indiemono), not on [*US*](/albums/us/) or any in-progress LP. A post-*I* beach day, like the 2025 single [*best. day. ever.*](/songs/best-day-ever/).
 
 It started as a voice note on a cliff above Moonlight Beach: California burrito, waves, and a silly call-and-response, *you feeling alright?* / *yeah*. The song keeps asking until the answer sticks. The logistics are the romance: you bring the weed, I'll bring the music, is this a holiday or a workday? (*I think that it's Tuesday*.) Sunroof down, UV on purpose.
 

@@ -42,7 +42,7 @@ draft: false
 
 ---
 
-Track sixteen on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), the album closer after [*All Her Books*](/songs/all-her-books/). Walton/Woodward co-write. BMI's metaphysics thread, and the one place the record drops the satire and ends on aspiration.
+Track sixteen on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), the album closer after [*All Her Books*](/songs/all-her-books/). Walton/Woodward co-write. BMI listed metaphysics among the record's subjects; this is that song, and the one place the record drops the satire and ends on aspiration.
 
 There is *a place that I have heard someone once found through harder work than you or I will ever know*, and the narrator concedes he may not get there. That concession becomes the refrain, forgiveness without arrival: *so if I cannot reach it, forgive me for the way I crawl.* After fifteen tracks of little homes, bodies, and bystanders, crawling is offered as honest motion rather than failure. The last verse lifts the whole thing level: *there is a light that God himself must bow his head to every single night, as we sleep, you and I and God alike, we dream of better bigger things.* Even the divine sleeps and dreams here, and the final phrase is *better bigger things*, scale escaped instead of a little home defended.
 

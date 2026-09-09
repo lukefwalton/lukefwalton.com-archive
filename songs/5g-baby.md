@@ -104,7 +104,7 @@ Standalone single (**November 19, 2021** · Beformer), not on [*Big Hug*](/album
 
 The hook makes appetite into intimacy: *I wanna consume ya / another little bite of your soul*. Love as data harvest, the phone as the container the whole relationship lives in, loneliness made optional because *I keep you in my pocket*.
 
-The second verse runs the always-on economy from dial-up AIM through Venmo, crypto and IG to the punchline: *so so many wires / now it makes sense that we tied up*. The title leans into the same 5G it sexualizes, the network that during the pandemic also got blamed for spreading the virus by [conspiracy theorists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205032/). Here it just means never lonely on the long road again. Same lane as [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/), hornier and poppier.
+The second verse runs the always-on economy from dial-up AIM through Venmo, crypto and IG to the punchline: *so so many wires / now it makes sense that we tied up*. The title leans into the same 5G it sexualizes, the network that during the pandemic also got blamed for spreading the virus by [conspiracy theorists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205032/). Here it just means never lonely on the long road again. Same subject as [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/), hornier and poppier.
 
 See also: [Catalog](/catalog/).
 

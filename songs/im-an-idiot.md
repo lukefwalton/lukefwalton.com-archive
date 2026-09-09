@@ -1,7 +1,7 @@
 ---
 title: "I'm an Idiot"
 
-meaning: "Big Hug breakout single: self-deprecation as relief: miss every social cue, envy narcissists, spiral at bedtime, then realize nobody's watching and we're all idiots."
+meaning: "Big Hug single: self-deprecation as relief: miss every social cue, envy narcissists, spiral at bedtime, then realize nobody's watching and we're all idiots."
 
 year: 2021
 release: "Big Hug"
@@ -26,7 +26,7 @@ press:
     desc: "September 10, 2021. @beformer two-slide post: official Spotify Fresh Finds and Fresh Finds Pop adds for I'm an Idiot."
   - outlet: "Beformer: Spotify New Music Friday (Instagram)"
     url: "https://www.instagram.com/p/CTXwJA_FqMD/"
-    desc: "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI discovery hinge."
+    desc: "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI heard the song after this placement."
 
 themes: ["self-deprecation", "Big Hug", "social anxiety", "post-pandemic", "spotlight effect"]
 
@@ -131,12 +131,12 @@ draft: false
 
 ---
 
-Breakout single and track six on [*Big Hug*](/albums/big-hug/), pitched ahead of the album in **September 2021** and added to [**Spotify New Music Friday**](https://www.instagram.com/p/CTXwJA_FqMD/) around release ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). Luke solo. [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
+Track six on [*Big Hug*](/albums/big-hug/), a single pitched ahead of the album in **September 2021** and added to [**Spotify New Music Friday**](https://www.instagram.com/p/CTXwJA_FqMD/) around release ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). Luke solo. [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
 
 The verses run a familiar tape. Faking the laugh and correcting mid-bit (*ooo yeah, I mean no, I'm sorry dude, I didn't follow*), envying the narcissists who *shoot they shot and never think they miss*, then lying awake while the brain keeps *skipping* over stupid things you've said. The bridge is a clean statement of the [spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect): nobody is really looking your way, you're only that important in your own head. The flip is generous, *if anything you might be a little entertained by this idiot*, the performance of idiocy turned into the actual product.
 
-The outro widens it to everyone: *no one cares 'cause we're all idiots*. Same post-pandemic thesis as [*Don't Worry*](/songs/dont-worry/) and [*Scared to Reunite*](/songs/scared-to-reunite/), how to be a person again without pretending you aren't dumb or scared. Pairs with [*I Live in California*](/songs/i-live-in-california/) and [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/), the first record that clearly reaches beyond the self-contained Scoobertverse ([*Big Hug* essay](/albums/big-hug/)).
+The outro widens it to everyone: *no one cares 'cause we're all idiots*. Same post-pandemic subject as [*Don't Worry*](/songs/dont-worry/) and [*Scared to Reunite*](/songs/scared-to-reunite/), how to be a person again without pretending you aren't dumb or scared. Pairs with [*I Live in California*](/songs/i-live-in-california/) and [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) ([*Big Hug* essay](/albums/big-hug/)).
 
-**CHAI spine:** The New Music Friday placement is the documented hinge into CHAI hearing the song and commissioning [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/), then WHOLE, MY DREAM, and the broader Japan production run. Public bio pages (Music Metrics Vault, Love Music More, Soundcharts) echo the same sequence. See [Catalog: CHAI collaboration spine](/catalog/#chai-spine) · [With CHAI](/with/chai/#chai-spine).
+**CHAI:** CHAI heard the song after its Spotify New Music Friday placement and commissioned [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/). WHOLE and MY DREAM followed. Public bio pages (Music Metrics Vault, Love Music More, Soundcharts) give the same sequence. See [Catalog: CHAI, in order of credits](/catalog/#chai-spine) · [With CHAI](/with/chai/#chai-spine).
 
 ---

@@ -66,7 +66,7 @@ draft: false
 
 ### Luke Walton: composer
 
-**Luke Walton** (then credited as Luke Walton; La Costa Canyon High graduate and Carlsbad native, not a Carlsbad High student) composed the film score. Only the [*San Diego Union-Tribune* encore screening notice](https://www.sandiegouniontribune.com/2009/05/14/student-film-has-2-screenings-today/) (May 14, 2009) names him in press, as composer scheduled to **perform** at MovieMax Carlsbad. Walton's composer credit is on [IMDb nm3306688](https://www.imdb.com/name/nm3306688/) and [tt1344450](https://www.imdb.com/title/tt1344450/). First credited film score; predates the March 2009 Taylor Swift date video and the USC / Luke Walton Band arc.
+**Luke Walton** (then credited as Luke Walton; La Costa Canyon High graduate and Carlsbad native, not a Carlsbad High student) composed the film score. Only the [*San Diego Union-Tribune* encore screening notice](https://www.sandiegouniontribune.com/2009/05/14/student-film-has-2-screenings-today/) (May 14, 2009) names him in press, as composer scheduled to **perform** at MovieMax Carlsbad. Walton's composer credit is on [IMDb nm3306688](https://www.imdb.com/name/nm3306688/) and [tt1344450](https://www.imdb.com/title/tt1344450/). First credited film score; predates the March 2009 Taylor Swift date video, USC, and The Luke Walton Band.
 
 ### Timeline (film, public record)
 

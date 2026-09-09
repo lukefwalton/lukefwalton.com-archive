@@ -127,11 +127,11 @@ press:
     desc: "July 1, 2022: official Indie Brandneu add from KŌAN C; next to Broken Bells on the playlist."
   - outlet: "Nagamag"
     url: "https://www.nagamag.com/the-latest/scoobert-doobert-no-worries-yes-worries"
-    desc: "Indie Brandneu and Today's Indie Rock playlist reach; CHAI and Shingo Murakami production thread."
+    desc: "Indie Brandneu and Today's Indie Rock playlist reach; mentions the CHAI and Shingo Murakami production credits."
 
 ---
 
-Track fourteen on [*KŌAN*](/albums/koan/), **KŌAN C** (June 30, 2022), immediately after instrumental **Intro** (track thirteen). Luke solo. *KŌAN* was built for headphones, with spatial and binaural work across the EP chapters; **Intro** is the clearest binaural example on the record, then this song lands. [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CffVLt-Jht_/) the day after **KŌAN C** dropped (July 1, 2022; next to Broken Bells) and [Today's Indie Rock](https://www.instagram.com/p/CfiDPxwFONB/) the next day; [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-no-worries-yes-worries) confirms both playlist adds. See [Catalog: official playlists](/catalog/#spotify-editorial).
+Track fourteen on [*KŌAN*](/albums/koan/), **KŌAN C** (June 30, 2022), immediately after instrumental **Intro** (track thirteen). Luke solo. *KŌAN* was built for headphones, with spatial and binaural work across the EP chapters; **Intro** is binaural, then this song lands. [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CffVLt-Jht_/) the day after **KŌAN C** dropped (July 1, 2022; next to Broken Bells) and [Today's Indie Rock](https://www.instagram.com/p/CfiDPxwFONB/) the next day; [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-no-worries-yes-worries) confirms both playlist adds. See [Catalog: official playlists](/catalog/#spotify-editorial).
 
 The title flips [*Don't Worry*](/songs/dont-worry/) on [*Big Hug*](/albums/big-hug/): not *don't worry* but *no worries / yes worries* at once, with *no meaning* and *I'm running* alongside. Verse one is mortality at a party, a *shadow on my birthday* and *thinking about the permanent,* then a bad bargain: a *good deal on a Genie, came with a [Monkey's Paw](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw) thrown in,* every wish inverting. The immortality verse cuts off before naming hell, interrupted by an office verse that mirrors [*a song to quit your job to*](/songs/a-song-to-quit-your-job-to/): *boss wants us in the office, who am I to question,* management as a shared delusion of agency that distracts *from how little we're in control.*
 

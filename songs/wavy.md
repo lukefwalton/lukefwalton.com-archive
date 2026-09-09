@@ -80,6 +80,6 @@ Standalone single (**October 22, 2021**), **feat. [Celeste Krishna](https://cele
 
 The first verse is a local-paradise checklist, an IPA, a heated jacuzzi, friends home for the weekend, a San Diego *local summer* breaking through June gloom. The chorus reuses the *wavy* vocabulary of [*Kick It in Nirvana*](/songs/kick-it-in-nirvana/) (*getting wavy with that good grass*) on *Big Hug*, here sober and sunlit. The cartoon-beach verse stacks absurd images, *swinging in a coconut* to the beat of a *dophin jump* (the typo is preserved from DistroKid).
 
-The bridge is surf philosophy: *when you tryna catch a wave / you gonna have to find the sweet spot*, repeated with *gotta learn what you forgot*, skill as memory and the relationship as wave-riding. A preview of [*Moonlight Beach*](/albums/moonlight-beach/) (2023) and [*Feels So Good*](/songs/feels-so-good/) before the place-record commits, and the opposite season from the [*Little Hug*](/albums/little-hug/) lockdown.
+The bridge is surf philosophy: *when you tryna catch a wave / you gonna have to find the sweet spot*, repeated with *gotta learn what you forgot*, skill as memory and the relationship as wave-riding. Beach-pop two years before [*Moonlight Beach*](/albums/moonlight-beach/) (2023) and [*Feels So Good*](/songs/feels-so-good/), and the opposite season from the [*Little Hug*](/albums/little-hug/) lockdown.
 
 ---

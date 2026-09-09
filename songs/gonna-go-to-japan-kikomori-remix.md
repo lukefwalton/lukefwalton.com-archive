@@ -23,6 +23,6 @@ draft: false
 
 **kikomori** remix of Scoobert’s [**Gonna Go To Japan**](/songs/gonna-go-to-japan/), third-party remix of a Scoobert original, not a Walton remix of someone else. **2025** · **Beformer**.
 
-Original song and lyrics: [Gonna Go To Japan](/songs/gonna-go-to-japan/). This page indexes the remix variant.
+Original song and lyrics: [Gonna Go To Japan](/songs/gonna-go-to-japan/).
 
 ---

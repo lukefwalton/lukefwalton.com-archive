@@ -1,6 +1,6 @@
 ---
 title: 'I Heart Moosiq: *Lucky You* premiere'
-description: 'Retrospective: #Grownupz premiere, Spotify/Hype Machine viral success, Lucky You quotes.'
+description: 'Retrospective: #Grownupz premiere, Spotify Viral 50 and Hype Machine placements, Lucky You quotes.'
 subject: FEiN
 outlet: 'I Heart Moosiq: *Lucky You* premiere'
 publisher: I Heart Moosiq
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [I Heart Moosiq: *Lucky You* premiere](https://iheartmoosiq.tumblr.com/post/177593085294/premiere-fein-lucky-you-lucky-us-we-get)
 
-Retrospective: #Grownupz premiere, Spotify/Hype Machine viral success, Lucky You quotes.
+Retrospective: #Grownupz premiere, Spotify Viral 50 and Hype Machine placements, Lucky You quotes.

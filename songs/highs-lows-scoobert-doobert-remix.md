@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-**Scoobert Doobert** remix of **Skinny Dippers’** **“Highs & Lows”**: **March 31, 2023** (Secret Sushi Records). Luke Francis Walton as remixer, not writer of the underlying song. Ties to the [Skinny Dippers](/love-music-more/episodes/skinny-dippers/) Love Music More episode in the catalog graph.
+**Scoobert Doobert** remix of **Skinny Dippers’** **“Highs & Lows”**: **March 31, 2023** (Secret Sushi Records). Luke Francis Walton as remixer, not writer of the underlying song. Skinny Dippers also appear on a [Love Music More episode](/love-music-more/episodes/skinny-dippers/).
 
 No Scoobert lyrics. See [Catalog](/catalog/#remixes) · [With collaborations](/catalog/#collaborations)
 

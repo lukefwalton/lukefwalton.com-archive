@@ -23,9 +23,9 @@ themes: ["Julia Ryan", "FEiN", "Tiny Giant", "USC Thornton", "2016", "session", 
 draft: false
 ---
 
-**Julia Ryan**: **Saints And Sinners** ([SoundCloud](https://soundcloud.com/julia-ryan-music/saints-and-sinners), uploaded **July 12, 2016** · tagged **Rock**). USC Thornton Popular Music orbit collab with [**FEiN**](/music/fein/) (Luke Francis Walton + Brandon Woodward): **produced and recorded by FEiN**. Session credits confirmed by Walton. The public SoundCloud description is Julia's note about writing during a stretch of trying to please everyone, then deciding other people's opinions don't control who she chooses to be.
+**Julia Ryan**: **Saints And Sinners** ([SoundCloud](https://soundcloud.com/julia-ryan-music/saints-and-sinners), uploaded **July 12, 2016** · tagged **Rock**). USC Thornton Popular Music collaboration with [**FEiN**](/music/fein/) (Luke Francis Walton + Brandon Woodward): **produced and recorded by FEiN**. Session credits confirmed by Walton. The public SoundCloud description is Julia's note about writing during a stretch of trying to please everyone, then deciding other people's opinions don't control who she chooses to be.
 
-Same session lane as [What You Want (Slow It Down)](/songs/what-you-want-slow-it-down/) and the broader [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
+FEiN also produced and recorded [What You Want (Slow It Down)](/songs/what-you-want-slow-it-down/); more in the [catalog: Tiny Giant / FEiN credited work](/catalog/#credited-work).
 
 See [FEiN Collaboration](/music/fein/#collaboration)
 

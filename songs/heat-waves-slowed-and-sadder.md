@@ -1,7 +1,7 @@
 ---
 title: "heat waves slowed and sadder"
 
-meaning: "Glass Animals hit reframed slow and sadder: 2022 DistroKid cover single in the pandemic-era long tail."
+meaning: "Glass Animals hit slowed and sadder: 2022 DistroKid cover single from the KŌAN era."
 
 year: 2022
 releaseType: "single"

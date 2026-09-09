@@ -23,6 +23,6 @@ draft: false
 
 **Swedish Red Elephant** remix of Scoobert’s [**Feels So Good**](/songs/feels-so-good/), third-party remix of a Scoobert original, not a Walton remix of someone else. Released on the *Feels So Good* single package ahead of [*Moonlight Beach*](/albums/moonlight-beach/). Same remix cluster as [**N0SERV1CE (Edit/Remix/Whatever)**](/songs/feels-so-good-n0service-edit-remix-whatever/) (**March 3, 2023** Bandcamp).
 
-Original song and lyrics: [Feels So Good](/songs/feels-so-good/). This page indexes the remix variant.
+Original song and lyrics: [Feels So Good](/songs/feels-so-good/). This page covers the remix.
 
 ---

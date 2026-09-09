@@ -22,9 +22,9 @@ draft: false
 
 ---
 
-Standalone **2018** instrumental (**~1:12**, SoundExchange). Never indexed on a parent LP essay here: it lives in the same lab-notebook scatter as [*Tincture*](/songs/tincture/), [*Lone Pine*](/songs/lone-pine/), and the other ~one-minute drops between [*Finding $D*](/albums/finding-d-remastered/) remaster activity and [*$WAMI$*](/albums/wami/).
+Standalone **2018** instrumental (**~1:12**, SoundExchange). Not on an LP: it lives in the same lab-notebook scatter as [*Tincture*](/songs/tincture/), [*Lone Pine*](/songs/lone-pine/), and the other ~one-minute drops between [*Finding $D*](/albums/finding-d-remastered/) remaster activity and [*$WAMI$*](/albums/wami/).
 
-The title reads romantic; the cut reads interlude, short mood texture before the lore-dump LP lands. Instrumental; no lyrics on this page.
+The title reads romantic; the cut reads interlude, short mood texture before [*$WAMI$*](/albums/wami/) lands. Instrumental; no lyrics on this page.
 
 See [Catalog](/catalog/#singles) · [*$WAMI$*](/albums/wami/)
 

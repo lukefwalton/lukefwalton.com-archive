@@ -115,10 +115,10 @@ draft: false
 
 ---
 
-Track five on [*Big Hug*](/albums/big-hug/), featuring **Malik LovesYall** (the same collaborator who co-wrote [*All in the Feeling*](/songs/all-in-the-feeling/)). Luke wrote, performed, and mixed; October 2021, also released as a standalone single. It's the chill counterweight to the LP's anxiety satire: less [*Don't Worry*](/songs/dont-worry/) breakdown, more domestic-bliss fantasy. The hook stacks the pun, *kick it in pajamas* and *getting wavy with that good grass* on the way to *kick it in nirvana*, bliss state and band-name joke at once. Same SoCal weed thread as [*I Live in California*](/songs/i-live-in-california/), but romantic instead of rent satire.
+Track five on [*Big Hug*](/albums/big-hug/), featuring **Malik LovesYall** (the same collaborator who co-wrote [*All in the Feeling*](/songs/all-in-the-feeling/)). Luke wrote, performed, and mixed; October 2021, also released as a standalone single. It's the chill counterweight to the LP's anxiety satire: less [*Don't Worry*](/songs/dont-worry/) breakdown, more domestic-bliss fantasy. The hook stacks the pun, *kick it in pajamas* and *getting wavy with that good grass* on the way to *kick it in nirvana*, bliss state and band-name joke at once. Same SoCal weed subject as [*I Live in California*](/songs/i-live-in-california/), but romantic instead of rent satire.
 
 The first half is room-bound love, waking up at noon and *probably never even really left the room* except for sun and breeze, with care offered as cooking rather than hustle. The middle plays stoned phone etiquette for a laugh: *Mother Mary present / can't be all wilding when I talk on the phone*, the sacred name treated as a roommate you have to whisper around. Malik's verse goes cosmic-athletic, body-and-nature meditation that lands on an *adobe-colored goddess* and a utopian close, *grow vegetables while we tend the seas... nourish many nations with our legacy*. Garden as world-building, Big Hug softness at scale.
 
-Pairs with [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) and [*All in the Feeling*](/songs/all-in-the-feeling/) as the LP's collaborator stretch, the first record where guests enter without breaking the Scoobert shell ([*Big Hug* essay](/albums/big-hug/)).
+Pairs with [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) and [*All in the Feeling*](/songs/all-in-the-feeling/) as the LP's collaborator stretch ([*Big Hug* essay](/albums/big-hug/)).
 
 ---

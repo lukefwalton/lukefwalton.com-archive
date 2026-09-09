@@ -79,7 +79,7 @@ Sixth and final released chapter of [*US*](/albums/us/) (Jan 3, 2025), for now t
 
 It opens on Bashō's *old pond* haiku, 古池や, frog and the sound of water, then hard-cuts to game brain: *speed run it, become rich and gun it*. Stillness, then main-character syndrome at full volume. The chorus grinds *life XP* and needs more DLC; verse two names the glitch when the loot screen turns up nothing: *digging through inventory and it's surprisingly empty*.
 
-The outro stacks *see it to believe it* eight times, affirmation or cope, which rhymes with the haiku up top: a single moment you have to witness to know. The Japan thread from [*KŌAN*](/albums/koan/) and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) meets internet-gamer Scoobert, and the anxiety of [*LOL*](/songs/lol/) meets the fantasy that you're the plot.
+The outro stacks *see it to believe it* eight times, affirmation or cope, which rhymes with the haiku up top: a single moment you have to witness to know. The Japan of [*KŌAN*](/albums/koan/) and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) meets internet-gamer Scoobert, and the anxiety of [*LOL*](/songs/lol/) meets the fantasy that you're the plot.
 
 Also on the chapter EP: *MAIN CHARACTER ENERGY (Instrumental)*.
 

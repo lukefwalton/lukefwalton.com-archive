@@ -41,7 +41,7 @@ isrcSource: spotify
 draft: false
 ---
 
-**Tamtam** (Reem Altamimi), co-written with **Jordan Benjamin (Grandson)**; **produced by Brandon Woodward and Luke Walton** ([FEiN](/music/fein/)), before the Scoobert bedroom-pop breakout. Video directed by **Meshal Al Jaser**.
+**Tamtam** (Reem Altamimi), co-written with **Jordan Benjamin (Grandson)**; **produced by Brandon Woodward and Luke Walton** ([FEiN](/music/fein/)). Video directed by **Meshal Al Jaser**.
 
 [Genius](https://genius.com/Tamtam-rise-lyrics), [FEKR’s *Meet Tamtam* feature](https://fekrarabia.com/music), and the [official MV description](https://www.youtube.com/watch?v=EiePL0e9p7o) all name **Luke Walton and Brandon Woodward** as producers (Genius and FEKR also frame them as **FEiN**); lyrics **Tamtam & Grandson**; mixed **Frank Rosato**; mastered **Riley Knapp**; video **Meshal Al Jaser**. **Production is public record.** Luke Walton **remembers playing on the record**; unlike [**ROLLERCOASTER**](/songs/rollercoaster/) (2023), *Rise* does not surface instrumentation in Apple/Spotify credits metadata. That role is remembered, not documented.
 

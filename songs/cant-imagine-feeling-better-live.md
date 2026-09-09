@@ -19,8 +19,8 @@ isrcSource: spotify
 draft: false
 ---
 
-Live version of [*Can't Imagine Feeling Better*](/songs/cant-imagine-feeling-better/) on [*Live from the Void*](/albums/live-from-the-void/), eight live recordings (2021 release group; streaming dated 2022). From *Little Hug* / *Big Hug*, the EP thesis title.
+Live version of [*Can't Imagine Feeling Better*](/songs/cant-imagine-feeling-better/) on [*Live from the Void*](/albums/live-from-the-void/), eight live recordings (2021 release group; streaming dated 2022). From *Little Hug* / *Big Hug*.
 
-Luke Francis Walton wrote, performed, and mixed the studio original. No separate lyric annotation on this page.
+Luke Francis Walton wrote, performed, and mixed the studio original.
 
 ---

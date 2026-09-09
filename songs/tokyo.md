@@ -120,9 +120,9 @@ Roughly: *I am not writing out of whim. The past that made me what I am is one p
 
 In Sōseki, Sensei isn't asking to be forgiven. He's leaving a true account of the past that made him (*私を生んだ私の過去*, "the past that gave birth to me") because no one else can tell it. But his letter arrives only after his death: honest, and too late to be answered. Walton keeps the channel open instead, tell it while you can still be asked. The outro holds both the confession and the trip: *through the rain and snow / our eyes may overflow / but someday soon I know / we'll wake up in Tokyo*.
 
-That thread runs forward into [*What Makes You You*](/songs/what-makes-you-you/) and the essays [The Bent Stick](/writing/the-bent-stick/) and [The Decision No One Authored](/writing/the-decision-no-one-authored/).
+The same concern returns in [*What Makes You You*](/songs/what-makes-you-you/) and the essays [The Bent Stick](/writing/the-bent-stick/) and [The Decision No One Authored](/writing/the-decision-no-one-authored/).
 
-Japan as longing in 2013 becomes lived geography later, on [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and [*Only the Beginning*](/songs/only-the-beginning/).
+Japan comes back on [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and [*Only the Beginning*](/songs/only-the-beginning/).
 
 See: [413 EP](/albums/413/) · [The Decision No One Authored](/writing/the-decision-no-one-authored/) · [The Bent Stick](/writing/the-bent-stick/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
 

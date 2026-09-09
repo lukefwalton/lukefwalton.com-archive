@@ -27,8 +27,6 @@ draft: false
 
 **Spotify editorial:** [@beformer confirmed Fresh Finds Rock](https://www.instagram.com/p/CdMWBOAvXML/) (May 5, 2022). See [Catalog: official playlists](/catalog/#spotify-editorial).
 
-Catalog-only collab (no `/with/` hub).
-
 See [Catalog: collaborations](/catalog/#collaborations)
 
 ---

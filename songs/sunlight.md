@@ -74,8 +74,8 @@ draft: false
 
 ---
 
-Track three on [*MÖB*](/albums/mob/), the deliberate turn toward warmth after [*Stories*](/songs/stories/)' head-loop. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) singled it out for bouncy funk energy, which fits its job: the album trying an answer to its own anxiety. The verses are a summer inventory (popsicle picnic, mango with Tajín, margarita number two) and the chorus is a prescription repeated until it sticks: *imma be in the sunlight*, throw a beer back, *savor it*.
+Track three on [*MÖB*](/albums/mob/), the turn toward warmth after [*Stories*](/songs/stories/)' head-loop. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) singled it out for bouncy funk energy, which fits its job: the album trying an answer to its own anxiety. The verses are a summer inventory (popsicle picnic, mango with Tajín, margarita number two) and the chorus is a prescription repeated until it sticks: *imma be in the sunlight*, throw a beer back, *savor it*.
 
-The quietly load-bearing line is *nobody needs me*. That's the freedom move, not martyrdom but permission to exist without being on call. On an LP shadowed by illness and dread, *Sunlight* is the choice to step into the light anyway. It pairs with [*Tired of the Sunshine*](/songs/tired-of-the-sunshine/) on [*Moonlight Beach*](/albums/moonlight-beach/) as the push-pull on California brightness. Here the vote is for the sun.
+The line that carries it is *nobody needs me*. That's the freedom move: permission to exist without being on call, not martyrdom. On an LP shadowed by illness and dread, *Sunlight* is the choice to step into the light anyway. It pairs with [*Tired of the Sunshine*](/songs/tired-of-the-sunshine/) on [*Moonlight Beach*](/albums/moonlight-beach/) as the push-pull on California brightness. Here the vote is for the sun.
 
 ---

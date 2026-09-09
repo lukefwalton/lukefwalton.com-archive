@@ -126,10 +126,10 @@ draft: false
 
 ---
 
-Track ten on [*Masks and Monsters*](/albums/masks-and-monsters/), **feat. Babidi** (**Taylor James / J MESA**). Co-written and performed with Luke Francis Walton; North Park lockdown, **August 2020**. The [album essay](/albums/masks-and-monsters/) names it alongside *It Can Get Worse* and *Corona* in the LP's direct emotional center: pandemic psychology with a collaborator, not cartoon filler.
+Track ten on [*Masks and Monsters*](/albums/masks-and-monsters/), **feat. Babidi** (**Taylor James / J MESA**). Co-written and performed with Luke Francis Walton; North Park lockdown, **August 2020**. The [album essay](/albums/masks-and-monsters/) names it alongside *It Can Get Worse* and *Corona* as the LP's direct emotional center.
 
 The whole song runs on guilt. *Getting to work from home but my brother's hurting some*, and on the second pass it's *my mother's hurting some*: the same sentence reopened on a different wound, WFH ease against family suffering. The chorus turns dissociation into a lullaby (*nothing else to do but chill / and gently forgetting*), and the spoken break folds in track nine, [*Quarantine and Chill*](/songs/quarantine-and-chill/), pulling its domestic-plans script into the collapse.
 
-Babidi's second co-write here, heavier than that phone-call love song but sharing its *chill* vocabulary. Pairs with [*A Good Life*](/songs/a-good-life/) and [*Pandemic Blues*](/songs/pandemic-blues/) as the record's unraveling thread.
+Babidi's second co-write here, heavier than that phone-call love song but sharing its *chill* vocabulary. Pairs with [*A Good Life*](/songs/a-good-life/) and [*Pandemic Blues*](/songs/pandemic-blues/) as the record's unraveling songs.
 
 ---

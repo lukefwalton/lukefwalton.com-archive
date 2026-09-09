@@ -118,8 +118,8 @@ Track six on [*Masks and Monsters*](/albums/masks-and-monsters/), also released 
 
 It opens on the gap between fantasy and reality (*I know it's not how you pictured, us alone*) and asks not to fix the world but to ignore it together: *come ignore the chaos won't ya, my love, my only one*. The survival instructions contradict themselves on purpose, keep moving and *don't look around*, and the chorus stacks *it's a good life, my dear* until it sounds like a lullaby you don't fully believe. Verse two finds quiet as mercy: *sleep in and stop your shaking, no noise to wake up to*.
 
-Then the bridge tells the truth under the mantra, repeated four times with no variation: *I'll keep on grinning, bottle it up*. The good life is performance plus compression. Same emotional lane as [*Creature Comfort*](/songs/creature-comfort/) and [*When It's Over*](/songs/when-its-over/), lighter surface, same locked-in room.
+Then the bridge tells the truth under the mantra, repeated four times with no variation: *I'll keep on grinning, bottle it up*. The good life is performance plus compression. Close to [*Creature Comfort*](/songs/creature-comfort/) and [*When It's Over*](/songs/when-its-over/): lighter surface, same locked-in room.
 
-Pairs with [*2020 Is Over*](/songs/2020-is-over/) (year-end exhale) and leads toward [*Little Hug*](/albums/little-hug/). The album's philosophical bookend is [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/).
+Pairs with [*2020 Is Over*](/songs/2020-is-over/) (year-end exhale). [*Little Hug*](/albums/little-hug/) came next. The album's philosophical bookend is [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/).
 
 ---

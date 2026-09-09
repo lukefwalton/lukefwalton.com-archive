@@ -100,12 +100,12 @@ draft: false
 
 ---
 
-Track one on [*Finding $D*](/albums/finding-d-remastered/), the debut LP opener and one of its first two singles alongside *My Scoobert Snack* (instrumental; [Stereofox](https://www.stereofox.com/scoobert-doobert-my-scoobert-snack/), July 2017). Luke solo; [every song on the LP](/albums/finding-d-remastered/) was written, recorded, mixed, and mastered in a single day. It reappears on [*$WAMI$*](/albums/wami/) as *What a Velma, What a Night (Quickie)*, a shorter collage cut on the 2018 lore-dump LP.
+Track one on [*Finding $D*](/albums/finding-d-remastered/), the debut LP opener and one of its first two singles alongside *My Scoobert Snack* (instrumental; [Stereofox](https://www.stereofox.com/scoobert-doobert-my-scoobert-snack/), July 2017). Luke solo; [every song on the LP](/albums/finding-d-remastered/) was written, recorded, mixed, and mastered in a single day. It reappears on [*$WAMI$*](/albums/wami/) as *What a Velma, What a Night (Quickie)*, a shorter collage cut on the 2018 LP.
 
 The song opens by swearing off grandeur (*don't expect some great long oratory*) and then breaks the promise, offering *stories of a druggy in frenzy*. The joke is the disclaimer; the song is the revelry it claimed it wouldn't deliver. Underneath the pop-funk chant, a self-roast doubles as a pickup line: a *brutish man* offering a brownie that *gives you powers right inside your pretty head*. The whole thing is bookended by one word, *the future*, left hanging like a thesis nobody finished.
 
-The clownish frame buys the song permission to be sincere, weird, and rough at once ([*Finding $D* album essay](/albums/finding-d-remastered/)). Reddit's r/listentothis picked it up as pop/funk around the same era.
+The clowning buys the song permission to be sincere, weird, and rough ([*Finding $D* album essay](/albums/finding-d-remastered/)). Reddit's r/listentothis picked it up as pop/funk around the same era.
 
-Pairs with [*My Meddling Kids (Hallelujah Sexy)*](/songs/my-meddling-kids-hallelujah-sexy/) on the debut, leading into the rest of the record before the lore dump on [*$WAMI$*](/albums/wami/) and the hip-hopera on [*Dragon Ball $d*](/albums/dragon-ball-d/).
+Pairs with [*My Meddling Kids (Hallelujah Sexy)*](/songs/my-meddling-kids-hallelujah-sexy/) on the debut, before [*$WAMI$*](/albums/wami/) (2018) and the hip-hopera on [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
 ---

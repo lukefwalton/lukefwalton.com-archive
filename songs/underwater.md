@@ -81,10 +81,10 @@ draft: false
 
 ---
 
-Track seven on [*MÖB*](/albums/mob/), the emotional low point before the record turns to mania, bowling, and [*All I Need*](/songs/all-i-need/). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) called it heavy and unusually chart-capable, and the song earns that read.
+Track seven on [*MÖB*](/albums/mob/), the emotional low point before the record turns to mania, bowling, and [*All I Need*](/songs/all-i-need/). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) called it heavy and unusually chart-capable.
 
 The damage is reported from the inside. *I don't wanna talk anymore* because talking *brings you down*; the best image is effort without arrival, a *stationary bike* and the dread it might be the rest of your life. From there it slides into the chorus, *bluff failure*, *never shoulda pretended to be stable*, *I'm meant to be underwater*, repeated until it sounds like fact and plea at once.
 
-On an LP framed partly around [Guillain-Barré](https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome) and nearly losing music ([Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview)), the sinking is psychological and bodily at once. Between [*TOO HOT*](/songs/too-hot/) and [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/), it's the depth the buoyant songs are floating above.
+Luke discussed the LP with [Guillain-Barré](https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome) and nearly losing music in the background ([Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview)); the sinking is both psychological and bodily. Between [*TOO HOT*](/songs/too-hot/) and [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/), it's the depth the buoyant songs are floating above.
 
 ---

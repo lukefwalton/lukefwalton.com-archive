@@ -81,7 +81,7 @@ draft: false
 
 ---
 
-Track eight on [*Masks and Monsters*](/albums/masks-and-monsters/): Luke solo, August 2020. Based on a man Luke met at an open mic night at Aztec Brewing in North County San Diego. Not pandemic-documentary like tracks one through seven, but the LP's appetite for local character comedy: a real person observed, then mythologized.
+Track eight on [*Masks and Monsters*](/albums/masks-and-monsters/): Luke solo, August 2020. Based on a man Luke met at an open mic night at Aztec Brewing in North County San Diego. Tracks one through seven are pandemic documentary; this one is the LP's local character comedy: a real person observed, then mythologized.
 
 The portrait builds the flute purchase into a hero's journey. Phil is a *staff accountant, king of the break room*, who *Excels* (spreadsheet pun as identity), and whose midlife crisis runs on prog-rock longing and a pricy Yamaha. The chorus frames the open-mic crowd as a supportive fantasy, gathering *all the little children round* to hear him play, and verse two finds him backstage in tie-dye, studying a picture of Jethro Tull flautist Ian Anderson like a mirror idol, *shaking as he writes* his name on the signup sheet.
 

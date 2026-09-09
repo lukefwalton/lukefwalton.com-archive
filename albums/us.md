@@ -57,10 +57,10 @@ chapters:
 draft: false
 ---
 
-*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* meta-hub](/albums/mobius-cycle/) for the super-album frame. [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. *US* is **in progress**: chapter EPs are rolling out on streaming now; the full album is not finished yet. The fourth resolving LP titled *MÖBIUS* is **planned**: no release page until it exists.
+*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* cycle page](/albums/mobius-cycle/). [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. *US* is **in progress**: chapter EPs are rolling out on streaming now; the full album is not finished yet. The fourth LP, titled *MÖBIUS*, is **planned**: no release page until it exists.
 
-This page is a **status object**, not a completed album hub. Like [*KŌAN*](/albums/koan/) before it (A / B / C chapters → LP), *US* is arriving in pieces first. Six chapter EPs are on streaming (seventeen tracks total). Chapter tracklists appear below as they are confirmed; song-meaning notes link where they exist.
+Like [*KŌAN*](/albums/koan/) before it (A / B / C chapters, then the LP), *US* is arriving in pieces first. Six chapter EPs are on streaming (seventeen tracks total). Chapter tracklists appear below as they are confirmed; song-meaning notes link where they exist.
 
-This is architectural promise becoming public object: the “we” turn after *I*’s relational “u.”
+*US* is the “we” turn after *I*’s “u.”
 
 See also: [Catalog](/catalog/) · [Möbius cycle on /music](/music/)

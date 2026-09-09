@@ -50,6 +50,6 @@ draft: false
 
 Track seven on [*I*](/albums/i/), the drowsy-drive song that's also a love song. The title is the PSA, the verses are the confession: island loop, lighthouse on the water, the slide into *zoning zoning out*. The danger is comfort itself, *cozy as molasses*. The fix isn't caffeine, it's *calling up my baby* to *love me back awake*, a partner's voice as stimulant. The outro is the arrival it buys: laughing, *soon I'm pulling up / home to you*.
 
-On an album built from train rides, hikes, and coastal motion, this is the small-circle version: island loop, partner on the phone, home as endpoint. Pairs with [*omw*](/songs/omw/) as the *I* travel-love spine.
+On an album built from train rides, hikes, and coastal motion, this is the small-circle version: island loop, partner on the phone, home as endpoint. Pairs with [*omw*](/songs/omw/), the other driving-home song on *I*.
 
 ---

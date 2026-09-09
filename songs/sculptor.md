@@ -94,6 +94,6 @@ It is the body-as-project song, the one little home you carry around with you.
 
 The trick is how it makes the knife sound like a lover. *Staple me baby, yeah staple me good / make me so pretty like you promised you would*: consent to mutilation phrased as romance. By the second verse the surgeon has become the *sculptor* of the title and asks for a little more blood; the patient agrees to *look thin / how you wish I had been*, accepting someone else's fantasy as her own face. Self-love arrives only on permission: *I'll love mah body when you say that I should.*
 
-Underneath the dark comedy is a plain fear, *all my life I've had a fear of dying, aging and dying*, and the chorus keeps answering it with the same purchase: *any price to be young again.* The song never lets her off that hook. It leads into [*Girl You Can't Hide It*](/songs/girl-you-cant-hide-it/), and BMI's "haunting and intense" read fits it well.
+Underneath the dark comedy is a plain fear, *all my life I've had a fear of dying, aging and dying*, and the chorus keeps answering it with the same purchase: *any price to be young again.* The song never lets her off that hook. It leads into [*Girl You Can't Hide It*](/songs/girl-you-cant-hide-it/). BMI called it "haunting and intense."
 
 ---

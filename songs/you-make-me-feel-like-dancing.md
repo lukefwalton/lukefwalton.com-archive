@@ -21,7 +21,7 @@ draft: false
 
 ---
 
-Cover of **Leo Sayer**’s **1976** hit **“You Make Me Feel Like Dancing”**: standalone single (**February 7, 2025**, Beformer) per [Catalog](/catalog/#singles). Not a *KŌAN* LP track; a post-MÖBIUS-cycle cover drop in the same lane as [*when it's over*](/songs/when-its-over-sugar-ray/) (Sugar Ray) and other distro singles.
+Cover of **Leo Sayer**’s **1976** hit **“You Make Me Feel Like Dancing”**: standalone single (**February 7, 2025**, Beformer) per [Catalog](/catalog/#singles). Not a *KŌAN* LP track; a standalone cover drop, like [*when it's over*](/songs/when-its-over-sugar-ray/) (Sugar Ray) and other distro singles.
 
 Luke Francis Walton’s version keeps the dance-floor DNA of the original, falsetto joy, handclap energy, filtered through bedroom-pop / funk production. No original lyrics on cover pages.
 

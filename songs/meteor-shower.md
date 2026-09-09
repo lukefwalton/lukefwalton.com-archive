@@ -68,10 +68,10 @@ draft: false
 
 ---
 
-Track seven on [*Moonlight Beach*](/albums/moonlight-beach/), **cowritten with [Jamie Drake](/with/jamie-drake/)** (feat. on the LP). Drake's debut *Everything's Fine* landed NPR, PopMatters, and Flood praise; this is the collaborator-record moment on a beach LP built for hanging out. See also the [**New Girl** remix](/songs/new-girl-scoobert-doobert-remix/) on the same thread.
+Track seven on [*Moonlight Beach*](/albums/moonlight-beach/), **cowritten with [Jamie Drake](/with/jamie-drake/)** (feat. on the LP). Drake's debut *Everything's Fine* landed NPR, PopMatters, and Flood praise. See also Walton's [**New Girl** remix](/songs/new-girl-scoobert-doobert-remix/) for Drake.
 
 A night at the shore counted out in small creatures: meteor or firefly, leopard sharks under the paddleboard, a ladybug on the wrist. Every wish goes the same place: *I spend it on you every time*. The bridge says it plain, *you're worthy of finding happiness*, with the catch that you have to believe it first, and the last line turns devotion into a small con: *I wish for many more wishes / so that you'll stick around for them.*
 
-Less joke-forward than much of the catalog, closer to [*it gets better*](/songs/it-gets-better/) but rooted in place. One of the tracks that makes *Moonlight Beach* a collaborator record, not only a solo mythology dump.
+Less joke-forward than much of the catalog, closer to [*it gets better*](/songs/it-gets-better/) but rooted in place. One of the *Moonlight Beach* tracks with a guest on it.
 
 ---

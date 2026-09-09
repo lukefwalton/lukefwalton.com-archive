@@ -69,7 +69,7 @@ draft: false
 
 ---
 
-Track nine on [*Masks and Monsters*](/albums/masks-and-monsters/), feat. Babidi (Taylor James / J MESA). Co-written and performed with Luke Francis Walton, North Park lockdown, August 2020. Same collaborator orbit as [*Dragon Ball $d*](/albums/dragon-ball-d/), [*$WAMI$*](/albums/wami/), and later [*Hold Up*](/songs/hold-up/) on *Big Hug*: a cartoon-era feature voice on the pandemic record.
+Track nine on [*Masks and Monsters*](/albums/masks-and-monsters/), feat. Babidi (Taylor James / J MESA). Co-written and performed with Luke Francis Walton, North Park lockdown, August 2020. Babidi also features on [*Dragon Ball $d*](/albums/dragon-ball-d/), [*$WAMI$*](/albums/wami/), and later [*Hold Up*](/songs/hold-up/) on *Big Hug*: a cartoon-era feature voice on the pandemic record.
 
 It plays as a phone check-in, the distance call as lifeline, with safety and sanity both in question (*wondering if you found a place that was safe, feeling crazy, I know*). The hook makes the meme title sincere, rewriting *Netflix and chill* into survival instruction: *gotta chill through the quarantine*. The bridge defers the reunion with a promise and a self-aware punchline (*when this is over, I'm running back to you, what'd you think that I say*), and widens past the couple to collective grief: *feeling all the people, feeling misery*.
 

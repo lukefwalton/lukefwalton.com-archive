@@ -22,7 +22,7 @@ draft: false
 
 ---
 
-Standalone cover of **Bump of Chicken’s** **“Souvenir.”** Part of the same Japan-adjacent covers thread as [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/), Scoobert learning J-rock and J-pop repertoire without a full album home.
+Standalone cover of **Bump of Chicken’s** **“Souvenir.”** One of Scoobert's Japanese covers, with [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/): J-rock and J-pop repertoire released as standalone singles.
 
 Original lyrics by Bump of Chicken. No lyrics published here.
 

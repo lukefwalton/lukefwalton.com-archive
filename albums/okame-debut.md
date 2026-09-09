@@ -21,7 +21,7 @@ press:
     desc: "Digital release Feb 4; documentary OK A ME REVOLUTION THROUGH MUSIC one-day screening Feb 11 at Shibuya Eurospace."
   - outlet: "Skream!: DEBUT"
     url: "https://skream.jp/news/2026/01/okame_debut_release.php"
-    desc: "ex-CHAI MANA & KANA project; eight-song tracklist and monthly-single arc."
+    desc: "ex-CHAI MANA & KANA project; eight-song tracklist and monthly-single rollout."
   - outlet: "Natalie: DEBUT"
     url: "https://natalie.mu/music/news/655580"
     desc: "Theme “this is the right answer for us now”; たまや lead + A SCENE tie-in; 夜はきらい film theme."
@@ -30,7 +30,7 @@ press:
     desc: "Lead track たまや pre-release Jan 21; A SCENE MV art direction by koki furuya."
   - outlet: "MARZEL: debut single"
     url: "https://marzel.jp/topics/20251003/"
-    desc: "OKAME launch and ノスタルポップ frame from first single おかしなきもち."
+    desc: "OKAME launch and the ノスタルポップ label from first single おかしなきもち."
 
 tracks:
   - { title: "おかしなきもち (Okashi Na Kimochi)", song: okashi-na-kimochi }
@@ -47,11 +47,11 @@ draft: false
 
 ***DEBUT***, first album by **OKAME**, the post-CHAI project of twin frontwomen **MANA** and **KANA**. Jacket illustration by **chao!** (KANA's husband, illustrator), same visual world as the [夜はきらい animation MV](https://www.youtube.com/watch?v=OKJ4oh_9nH8) and documentary **OK A ME REVOLUTION THROUGH MUSIC** ([Chao](/with/chao/)). The [MANAKANA official site](https://manakana.bitfan.id/) is explicit: **CHAI disbanded March 12, 2024** at **EX THEATER ROPPONGI** in Tokyo; OKAME began **September 2025** under **Revolution through Music**: intentionally **not** “CHAI part two,” but a new context for the expressiveness and pop sense they built in the old band.
 
-**February 4, 2026** digital release ([Rooftop](https://rooftop1976.com/news/2026/01/09183000.php), [Skream!](https://skream.jp/news/2026/01/okame_debut_release.php), [Natalie](https://natalie.mu/music/news/655580), [NiEW](https://niewmedia.com/en/news/093904/)). Eight songs from a three-month single run (**おかしなきもち** → **照れないで** → **GAME OVER**) into *これが今の私たちの正解*: NiEW frames DEBUT as a **new chapter** capturing their current musical identity, not a NEO KAWAII continuation.
+**February 4, 2026** digital release ([Rooftop](https://rooftop1976.com/news/2026/01/09183000.php), [Skream!](https://skream.jp/news/2026/01/okame_debut_release.php), [Natalie](https://natalie.mu/music/news/655580), [NiEW](https://niewmedia.com/en/news/093904/)). Eight songs from a three-month single run (**おかしなきもち** → **照れないで** → **GAME OVER**) into *これが今の私たちの正解*: NiEW calls DEBUT a **new chapter** capturing their current musical identity, not a NEO KAWAII continuation.
 
-The sound axis is **ノスタルポップ** (Nostalpop): inward, identity-forward pop after burnout and the end of a globally recognized band ([MARZEL](https://marzel.jp/topics/20251003/), [NiEW launch](https://niewmedia.com/en/news/2510okame/)). **Scoobert Doobert** is listed as **Mixing Engineer** on every track in the [Apple Music DEBUT credits pane](https://music.apple.com/us/album/debut/1867075169), verified platform credits across the full eight-song LP and the monthly singles that became it. The credit is also printed on the physical pressing: the **KODO RECORDS** vinyl LP (cat. **KODO-LP-001**, STEREO, ¥4,400 tax-in) back cover reads *“Mix engineer: Scoobert Doobert,”* alongside art work by **chao!**, photography by **Kaori Arai**, hair & make by **Yukino**, and *supported by A SCENE*. Adjacent in the same MANA/KANA arc: [KOMAGOME](/with/komagome/) (first post-CHAI produce lane) and [WE CAN'T DOLL](/songs/we-cant-doll/) / [CHAHHAN](/songs/chahhan/) composition credits.
+The sound axis is **ノスタルポップ** (Nostalpop): inward, identity-forward pop after burnout and the end of a globally recognized band ([MARZEL](https://marzel.jp/topics/20251003/), [NiEW launch](https://niewmedia.com/en/news/2510okame/)). **Scoobert Doobert** is listed as **Mixing Engineer** on every track in the [Apple Music DEBUT credits pane](https://music.apple.com/us/album/debut/1867075169), and on the monthly singles that became it. The credit is also printed on the physical pressing: the **KODO RECORDS** vinyl LP (cat. **KODO-LP-001**, STEREO, ¥4,400 tax-in) back cover reads *“Mix engineer: Scoobert Doobert,”* alongside art work by **chao!**, photography by **Kaori Arai**, hair & make by **Yukino**, and *supported by A SCENE*. Also with MANA and KANA: [KOMAGOME](/with/komagome/) (first post-CHAI production work) and [WE CAN'T DOLL](/songs/we-cant-doll/) / [CHAHHAN](/songs/chahhan/) composition credits.
 
-**Placement highlights on the LP:** [**たまや**](/songs/okame-tamaya/) is the lead track (Jan 21, 2026 pre-release) with an **A SCENE** gadget-brand MV ([NiEW](https://niewmedia.com/en/news/093904/)). [**夜はきらい**](/songs/okame-yoru-wa-kirai/) is the theme for FAT CLUB’s short film **餃子店で朝食を**, screened alongside the documentary **OK A ME REVOLUTION THROUGH MUSIC** at Shibuya Eurospace (Feb 11, 2026), [official animation MV](https://www.youtube.com/watch?v=OKJ4oh_9nH8) directed by **chao!** ([Skream!](https://skream.jp/news/2026/03/okame_animation_mv.php)). Album cut [**GAME OVER**](/songs/game-over/) closes the eight-track sequence, not the lead single, but the December cap on the monthly rollout.
+**Placement highlights on the LP:** [**たまや**](/songs/okame-tamaya/) is the lead track (Jan 21, 2026 pre-release) with an **A SCENE** gadget-brand MV ([NiEW](https://niewmedia.com/en/news/093904/)). [**夜はきらい**](/songs/okame-yoru-wa-kirai/) is the theme for FAT CLUB’s short film **餃子店で朝食を**, screened alongside the documentary **OK A ME REVOLUTION THROUGH MUSIC** at Shibuya Eurospace (Feb 11, 2026), [official animation MV](https://www.youtube.com/watch?v=OKJ4oh_9nH8) directed by **chao!** ([Skream!](https://skream.jp/news/2026/03/okame_animation_mv.php)). Album cut [**GAME OVER**](/songs/game-over/) closes the eight-track sequence; it was the December single, the last of the monthly rollout.
 
 **Documentary:** *OK A ME REVOLUTION THROUGH MUSIC*: directed by **chao!** (KANA’s husband, illustrator), one-day theatrical run Feb 11, 2026. [Rooftop](https://rooftop1976.com/news/2026/01/09183000.php) and [Natalie](https://natalie.mu/music/news/655580) on illness, fatigue, and choosing the mic again after dissolution.
 

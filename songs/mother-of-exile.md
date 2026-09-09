@@ -59,10 +59,10 @@ draft: false
 
 ---
 
-Track eight on [*Finding $D*](/albums/finding-d-remastered/), Luke solo; [every song on the LP](/albums/finding-d-remastered/) was written, recorded, mixed, and mastered in a single day. It closes the LP's run of lyric tracks before two instrumentals, and it's the debut's most **bare confession**, no mask at all.
+Track eight on [*Finding $D*](/albums/finding-d-remastered/), Luke solo; [every song on the LP](/albums/finding-d-remastered/) was written, recorded, mixed, and mastered in a single day. It closes the LP's run of lyric tracks before two instrumentals, and it's a **bare confession**, no mask at all.
 
 The verses admit a double failure, of language and of self: *I found violence / easier to hit than talk alone*, then *I couldn't even conquer my own soul*. Survival comes without redemption (*I'm not dying / I couldn't bear to end with nothing done*), and the title lands as *a silent mother of exiles*. The phrase **Mother of Exiles** is Emma Lazarus's name for the Statue of Liberty in [*The New Colossus*](https://www.poetryfoundation.org/poems/46550/the-new-colossus), the sonnet of *Give me your tired, your poor*. Here the welcome is inverted into silence, exile with no one to greet it.
 
-The song never resolves. The chorus alternates singular and plural (*exile* vs *exiles*, preserved from DistroKid), and the bridge is six plain *I love you*s with no object named, tenderness right after the admission of violence. It ends still chanting *exiles*. Same dread register as [*My Friend, Scoobert*](/songs/my-friend-scoobert/) and [*Damned*](/songs/damned/), tuned here to confession and survival. The title returns on [*$WAMI$*](/albums/wami/) as a lore remix; this is the 2017 origin take.
+The song never resolves. The chorus alternates singular and plural (*exile* vs *exiles*, preserved from DistroKid), and the bridge is six plain *I love you*s with no object named, tenderness right after the admission of violence. It ends still chanting *exiles*. Same dread register as [*My Friend, Scoobert*](/songs/my-friend-scoobert/) and [*Damned*](/songs/damned/), tuned here to confession and survival. The title returns on [*$WAMI$*](/albums/wami/) as a remix; this is the 2017 original.
 
 ---

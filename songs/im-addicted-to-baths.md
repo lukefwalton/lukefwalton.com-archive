@@ -33,7 +33,7 @@ draft: false
 
 ---
 
-Track seven on [*Little Hug*](/albums/little-hug/) (**April 2021**). Luke solo. One confession, no chorus repeat: an apology used as a pickup line. The vice is *baths*, not drugs or sex, and the escalation runs from *hot springs and onsens* (the Japan thread that Luke's later [*KŌAN*](/albums/koan/) era would lean into hard) down to the punchline, *bath bombs are nice / but all I really wanna do is take a long jacuzzi with you*. Consumer wellness undercut by the actual want: hot water, with someone. Whether that's platonic or romantic stays open, but it's the same warmth as the title track's small comfort object.
+Track seven on [*Little Hug*](/albums/little-hug/) (**April 2021**). Luke solo. One confession, no chorus repeat: an apology used as a pickup line. The vice is *baths*, not drugs or sex, and the escalation runs from *hot springs and onsens* (Japan, which Luke's later [*KŌAN*](/albums/koan/) era leans into hard) down to the punchline, *bath bombs are nice / but all I really wanna do is take a long jacuzzi with you*. Consumer wellness undercut by the actual want: hot water, with someone. Whether that's platonic or romantic stays open, but it's the same warmth as the title track's small comfort object.
 
 It inverts [*Take a Breath*](/songs/take-a-breath/)'s body dread into something safe when shared, and sits right before the EP's absurd peak, [*Can't Imagine Feeling Better*](/songs/cant-imagine-feeling-better/).
 

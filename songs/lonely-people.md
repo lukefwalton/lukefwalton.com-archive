@@ -99,7 +99,7 @@ draft: false
 
 ---
 
-Track twelve on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), after [*Roadtrip*](/songs/roadtrip/). Walton/Woodward co-write. A fingerpicked satire on loneliness as a thing to be sold back to you, tied to BMI's homelessness thread.
+Track twelve on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), after [*Roadtrip*](/songs/roadtrip/). Walton/Woodward co-write. A fingerpicked satire on loneliness as a thing to be sold back to you, tied to the homelessness theme BMI described.
 
 The refrain is the album's bleakest comfort: *we're all just happy lying to ourselves, but at least we're not alone / we're all just happy frolicking through hell, but at least we're not some sad sad sucker there alone.* Hell is bearable as a group activity, and the loneliness gets exported onto whichever sucker is left outside. Brandon's verse plays the salesman, *welcome to your new family, I will show you to your room, buy you all your wildest dreams*, the little home as showroom. Luke's bride verse turns rescue into extraction, *pulled her up from poverty by her hair and teeth*, and the duo finally states the terms outright: *love me with your wallet baby, love me with your checkbook, nothing is wrong.* The hook names the business model, *lonely people staying lonely, lonely people will pay*, and the song fractures into four bare repetitions of *Alone*, the sucker revealed at last as the listener.
 

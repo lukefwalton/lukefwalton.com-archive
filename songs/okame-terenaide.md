@@ -35,7 +35,7 @@ draft: false
 
 **照れないで** (*Terenaide*): OKAME’s **November 2025** single in the three-month run (**おかしなきもち** → **照れないで** → **GAME OVER**) ahead of ***DEBUT*** (Feb 4, 2026). Track 2 on the album ([Spotify](https://open.spotify.com/track/5sumgHaQFOfFBgKil4Z7dY) · [Apple Music](https://music.apple.com/us/song/terenaide/1867075172)).
 
-The [Apple Music credits pane](https://music.apple.com/us/song/terenaide/1867075172) lists **Scoobert Doobert** as **Mixing Engineer**: a verified platform mix credit on the DEBUT album version, consistent across the OKAME relaunch.
+The [Apple Music credits pane](https://music.apple.com/us/song/terenaide/1867075172) lists **Scoobert Doobert** as **Mixing Engineer** on the DEBUT album version.
 
 [NiEW](https://niewmedia.com/en/news/093904/) and [Natalie](https://natalie.mu/music/news/655580) document the DEBUT release and monthly single strategy.
 

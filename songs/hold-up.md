@@ -80,10 +80,10 @@ draft: false
 
 ---
 
-Track fifteen on [*Big Hug*](/albums/big-hug/), co-written and performed with **J MESA** (Taylor James / Babidi), the second *Big Hug* collab with him after [*I See the Moment*](/songs/i-see-the-moment/) (*I See the Monument* on Bandcamp). Same orbit as [*Masks and Monsters*](/albums/masks-and-monsters/) and later [*Prisoner*](/songs/prisoner/) (2024).
+Track fifteen on [*Big Hug*](/albums/big-hug/), co-written and performed with **J MESA** (Taylor James / Babidi), the second *Big Hug* collab with him after [*I See the Moment*](/songs/i-see-the-moment/) (*I See the Monument* on Bandcamp). J MESA is also on [*Masks and Monsters*](/albums/masks-and-monsters/) and later [*Prisoner*](/songs/prisoner/) (2024).
 
 It opens classic and willingly deluded, *I knew you were the one simply by the way you move*, then *won't you tell me if I'm wrong cause I don't wanna be right*. The hook turns that rush into a brake: the title *hold up* is both the flirt (*your body keep on saying hold up*) and the self-check (*I gotta clean up my mind*), attraction running faster than readiness, destiny and hesitation in the same line. The back half makes the move anyway, a journey *until we find this thing called love*, and asks for trust to *share a perfect life*.
 
-Lighter than [*I See the Moment*](/songs/i-see-the-moment/)'s media dread, the LP's romantic register just before the title track. J MESA carries the Babidi lineage from the cartoon-era collabs into post-pandemic approachable pop.
+Lighter than [*I See the Moment*](/songs/i-see-the-moment/)'s media dread, the LP's romantic register just before the title track. J MESA was Babidi on the cartoon-era collabs; here he is in post-pandemic approachable pop.
 
 ---

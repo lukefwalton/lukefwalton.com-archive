@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-**Sofasound** × **Scoobert Doobert**: **July 7, 2023** (Spotify tags: lo-fi beats / lo-fi hip hop; **Beformer**). Internet-creepypasta title meets bedroom production; Luke Francis Walton on the Scoobert side. Catalog-only collab (no `/with/` hub).
+**Sofasound** × **Scoobert Doobert**: **July 7, 2023** (Spotify tags: lo-fi beats / lo-fi hip hop; **Beformer**). Internet-creepypasta title meets bedroom production; Luke Francis Walton on the Scoobert side.
 
 No dedicated press article found.
 

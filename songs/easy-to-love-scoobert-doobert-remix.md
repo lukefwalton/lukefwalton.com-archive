@@ -22,7 +22,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Scoobert Doobert remix of **Okudaxij’s** **“easy to love.”** Standalone remix single: same broad Japan remix/production thread as [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/) and later CHAI catalog work. Not yet on MusicBrainz as of catalog notes.
+Scoobert Doobert remix of **Okudaxij’s** **“easy to love.”** Standalone remix single. Scoobert's other Japan remix and production credits: [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/) and the later CHAI work. Not listed on MusicBrainz.
 
 Credit and streaming page only.
 

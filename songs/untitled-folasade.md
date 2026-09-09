@@ -32,9 +32,9 @@ draft: false
 Press describes Afro-Latin influence and a slow-burning contemporary R&B / soul track:
 
 - [Aipate](https://aipate.com/2026/05/14/untitled-fola%e1%b9%a3ade-by-j-mesa-is-one-of-the-grooviest-tracks-youll-hear-this-week/), groove-forward review of the release
-- [Soaplife Magazine](https://www.soaplifemagazine.com/2026/04/j-mesa-unveils-slow-burning-romance-on.html), slow-burning romance framing
+- [Soaplife Magazine](https://www.soaplifemagazine.com/2026/04/j-mesa-unveils-slow-burning-romance-on.html), slow-burning romance review
 
-Same client lane as [*Crying Today*](/songs/crying-today/) and [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/), distinct from joint-artist **collaborator** credits on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
+A client mix, like [*Crying Today*](/songs/crying-today/) and [*I Say (I Did It Again)*](/songs/i-say-i-did-it-again/), distinct from joint-artist **collaborator** credits on [*Prisoner*](/songs/prisoner/), [*Big Hug*](/albums/big-hug/), and [*Live from the Void*](/catalog/#live).
 
 No Scoobert lyrics. See also: [With J MESA](/with/j-mesa/) · [Catalog](/catalog/#production)
 

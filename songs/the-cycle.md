@@ -68,7 +68,7 @@ draft: false
 
 ---
 
-Track three on [*I*](/albums/i/), the album's sharpest honesty about **cycles**. The title echoes the planned **Möbius** architecture (MÖB, I, US, MÖBIUS), but here the cycle is personal and ugly, not mythic. The confession is that pain rolls downhill: *get older then I'll be hurting people below me / and feeling so much better*. It isn't an endorsement, just a naming, and the song knows it's posturing too. Mercury retrograde becomes an excuse you don't fully believe, *a reason for abuse*, and the coping stack (*smile shake it off / smile have a drink*) repeats until repetitious becomes the point.
+Track three on [*I*](/albums/i/). The title echoes the **Möbius** cycle (MÖB, I, US, MÖBIUS), but here the cycle is personal and ugly. The confession is that pain rolls downhill: *get older then I'll be hurting people below me / and feeling so much better*. It isn't an endorsement, just a naming, and the song knows it's posturing too. Mercury retrograde becomes an excuse you don't fully believe, *a reason for abuse*, and the coping stack (*smile shake it off / smile have a drink*) repeats until repetitious becomes the point.
 
 On an LP mostly about *u*, travel, and tenderness, this is the crack where the singer admits how harm propagates and how easy it is to numb past it. It sits after [*daydreaming*](/songs/daydreaming/) and before [*ez pz*](/songs/ez-pz/); neither solves the loop, they alternate with it.
 

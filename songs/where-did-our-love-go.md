@@ -1,7 +1,7 @@
 ---
 title: "Where Did Our Love Go?"
 
-meaning: "Motown heartbreak on Big Hug: Supremes cover as the accessible LP's nod to classic pop grammar."
+meaning: "Motown heartbreak on Big Hug: Supremes cover on the 2021 LP beside the originals."
 
 year: 2021
 release: "Big Hug"
@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-Track eleven on [*Big Hug*](/albums/big-hug/), Scoobert’s cover of **The Supremes’** **“Where Did Our Love Go.”** The LP is the 2021 attention inflection point: post-pandemic alt-pop where the weirdness becomes approachable. A Motown cover beside originals like [*Don't Worry*](/songs/dont-worry/) and [*I'm an Idiot*](/songs/im-an-idiot/) shows the project learning classic pop hooks without pretending to be a covers act.
+Track eleven on [*Big Hug*](/albums/big-hug/) (2021), Scoobert’s cover of **The Supremes’** **“Where Did Our Love Go.”** A Motown cover beside originals like [*Don't Worry*](/songs/dont-worry/) and [*I'm an Idiot*](/songs/im-an-idiot/).
 
 DistroKid cover. No lyrics published here.
 

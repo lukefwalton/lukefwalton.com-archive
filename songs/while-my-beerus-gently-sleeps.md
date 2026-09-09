@@ -20,7 +20,7 @@ instrumental: true
 
 Closer on [*Dragon Ball $d*](/albums/dragon-ball-d/), *While My Guitar Gently Weeps* / Beerus pun; ends with a chopped [*Coca Cola*](/songs/coca-cola/) snippet.
 
-Luke Francis Walton uses instrumentals as interludes between vocal collage tracks, placement on the parent release matters as much as the riff. No lyrics on instrumental pages.
+Luke Francis Walton uses instrumentals as interludes between vocal collage tracks. No lyrics on instrumental pages.
 
 See [Catalog](/catalog/)
 

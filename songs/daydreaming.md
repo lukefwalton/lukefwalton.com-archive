@@ -93,7 +93,7 @@ draft: false
 
 ---
 
-Track one on [*I*](/albums/i/), the LP's front door, released ahead of the album as a single and the first step into the second Möbius turn after [*MÖB*](/albums/mob/)'s inward loop.
+Track one on [*I*](/albums/i/), the LP's front door, released ahead of the album as a single. *I* is the second Möbius LP, after [*MÖB*](/albums/mob/).
 
 The classroom window is the old escape fantasy updated for California: drive down the coast, *a permanent vacation*. Not a plan yet, a daydream with infrastructure. What keeps it from being a postcard is that it's shared. *Wish you were here* names the distance, *but it's closer than you know* collapses it, and the album that follows is mostly how that invitation gets lived.
 

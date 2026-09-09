@@ -51,6 +51,6 @@ draft: false
 
 Track five on [*Plague Beats, Vol. 1*](/albums/plague-beats-vol-1/) (**September 21, 2020**), one minute, Luke solo. The title is the [**Birds With Arms**](https://knowyourmeme.com/memes/birds-with-arms) meme (photoshopped birds with human arms), here given a full villain origin: wingless envy, a gym montage, then open tyranny with a sword and a stolen gun.
 
-The best line is the coup-speech homophone where the actual bird pun arrives as an afterthought: *flex on these weak-ass peasants / no / pheasants*. Same lane as [*Decreasingly Verbose (Ya'll'd'n't've)*](/songs/decreasingly-verbose-yalldntve/), an internet image worn as a first-person monologue.
+The best line is the coup-speech homophone where the actual bird pun arrives as an afterthought: *flex on these weak-ass peasants / no / pheasants*. Like [*Decreasingly Verbose (Ya'll'd'n't've)*](/songs/decreasingly-verbose-yalldntve/), an internet image worn as a first-person monologue.
 
 ---

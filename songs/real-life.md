@@ -22,7 +22,7 @@ draft: false
 
 **Garvie**: **June 16, 2023** single on **BigBoss Records**. **Self-produced by Garvie**; **mixed by Luke Francis Walton.** Mid-2023 entry in the Garvie mixing catalog between [*Never Learn*](/songs/never-learn/) and [*Default*](/songs/default/).
 
-Artist framing: DIY London pop with experimental collage ([garviesounds.com](https://garviesounds.com/)). No dedicated press for this title.
+Garvie's own description: DIY London pop with experimental collage ([garviesounds.com](https://garviesounds.com/)). No dedicated press for this title.
 
 No Scoobert lyrics. See [With Garvie](/with/garvie/) · [Catalog](/catalog/#production)
 

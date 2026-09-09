@@ -335,7 +335,7 @@
     "source": "src/content/albums/big-hug.md",
     "metadata": {
       "title": "Big Hug",
-      "description": "The 2021 attention inflection point: a post-pandemic alt-pop LP where Scoobert’s weirdness becomes approachable enough for strangers to enter.",
+      "description": "A 2021 post-pandemic alt-pop LP, sixth in the Scoobert run: Don't Worry at #1 on egoFM's ego 42 chart, Album der Woche on egoFM, and a San Diego Music Awards nomination.",
       "year": 2021,
       "releaseDate": "2021-10-08",
       "artist": "Scoobert Doobert",
@@ -446,7 +446,7 @@
           "outlet": "egoFM: Album der Woche (Big Hug)",
           "url": "https://www.egofm.de/musik/news/scoobert-doobert-big-hug",
           "date": "2021-10-08",
-          "desc": "Munich radio Album der Woche release-week feature on the LP: solo multi-instrumentalist arc, Little Hug → Big Hug, and tracks from Don't Worry to Heffalumps and Woozles."
+          "desc": "Munich radio Album der Woche release-week feature on the LP: solo multi-instrumentalist story, Little Hug then Big Hug, and tracks from Don't Worry to Heffalumps and Woozles."
         },
         {
           "outlet": "Future Hits Radio: Gingerbread House (2021) Edition (Instagram)",
@@ -498,7 +498,7 @@
     "source": "src/content/albums/dragon-ball-d.md",
     "metadata": {
       "title": "Dragon Ball $d",
-      "description": "The third-record pivot: a 2020 DBZ hip-hopera where cartoon chaos becomes a full narrative arc, with Babidi, Gokudaxij, and Nick Belcher.",
+      "description": "The third Scoobert record: a 2020 DBZ hip-hopera with Babidi, Gokudaxij, and Nick Belcher.",
       "year": 2020,
       "releaseDate": "2020-02-22",
       "artworkBy": "Grizzard Graphics",
@@ -587,7 +587,7 @@
     "source": "src/content/albums/finding-d-remastered.md",
     "metadata": {
       "title": "Finding $D",
-      "description": "The origin-point debut: every song written, recorded, mixed, and mastered in a single flu-haunted day, cartoon self-mythology as bedroom-pop and funk experimentation.",
+      "description": "The 2017 debut LP: every song written, recorded, mixed, and mastered in a single flu-haunted day; Velma, a Scoobert Snack, and meddling kids as bedroom-pop and funk experimentation.",
       "year": 2017,
       "releaseDate": "2017-05-27",
       "artist": "Scoobert Doobert",
@@ -829,7 +829,7 @@
         {
           "outlet": "ReverbNation: lukewaltonmusic",
           "url": "https://www.reverbnation.com/lukewaltonmusic",
-          "desc": "Surviving Luke Walton Music artist profile from the early-internet era; source lead for the pre-USC self-promotion trail alongside the archived lukewaltonband.com."
+          "desc": "Surviving Luke Walton Music artist profile from the early-internet era; see also the archived lukewaltonband.com."
         }
       ],
       "draft": false
@@ -1116,7 +1116,7 @@
     "source": "src/content/albums/koan.md",
     "metadata": {
       "title": "KŌAN",
-      "description": "A 2022 four-part alt-pop koan: an EP cycle that only becomes legible as a whole, using Zen paradox, Japanese songwriting, spatial sound, and post-pandemic happiness as pieces of one unresolved question.",
+      "description": "A 2022 four-part alt-pop koan: three EP chapters and an LP-only fourth movement, with Zen paradox, Japanese songwriting, spatial sound, and post-pandemic happiness as pieces of one unresolved question.",
       "year": 2022,
       "releaseDate": "2022-09-09",
       "artist": "Scoobert Doobert",
@@ -1466,7 +1466,7 @@
         {
           "outlet": "Early FEiN interview: us then (YouTube)",
           "url": "https://www.youtube.com/watch?v=IMbCaso2O3w",
-          "desc": "Little Homes–era snapshot: Walton and Woodward on camera before the LP fully landed, defining moment for the duo on record."
+          "desc": "Little Homes–era snapshot: Walton and Woodward on camera before the LP landed."
         },
         {
           "outlet": "Liminal: 360º Live at KCRW",
@@ -1765,7 +1765,7 @@
     "source": "src/content/albums/masks-and-monsters.md",
     "metadata": {
       "title": "Masks and Monsters",
-      "description": "The 2020 pandemic record: cartoon mythology as survival language, eighteen North Park tracks, and the first Scoobert album where the bit collides with adult reality.",
+      "description": "The 2020 pandemic record: eighteen tracks written, played, mixed, and mastered in North Park, San Diego, during lockdown, with Babidi and Gokudaxij on three of them.",
       "year": 2020,
       "releaseDate": "2020-08-11",
       "artworkBy": "Gentle Giant Illustrations",
@@ -1989,7 +1989,7 @@
     "source": "src/content/albums/mobius-cycle.md",
     "metadata": {
       "title": "MÖBIUS",
-      "description": "The four-part super-album in progress: one work told in turns, prophecy tag on Moonlight Beach, then MÖB, I, partial US, and a planned resolving LP.",
+      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, partial US, and a planned fourth LP.",
       "year": 2023,
       "catalogStatus": "in-progress",
       "artist": "Scoobert Doobert",
@@ -2012,7 +2012,7 @@
     "source": "src/content/albums/moonlight-beach.md",
     "metadata": {
       "title": "Moonlight Beach",
-      "description": "A 2023 Encinitas beach-pop LP where Scoobert turns the post-KŌAN range into a physical place: hometown myth, surf/funk, covers, Japan still in the distance, and a live touring body.",
+      "description": "A 2023 Encinitas beach-pop LP: Moonlight State Beach, surf/funk, covers, guests Bubby Lewis and Jamie Drake, Gonna Go to Japan, and Scoobert playing live.",
       "year": 2023,
       "releaseDate": "2023-05-19",
       "artworkBy": "Gentle Giant Illustrations",
@@ -2159,7 +2159,7 @@
         {
           "outlet": "Skream!: DEBUT",
           "url": "https://skream.jp/news/2026/01/okame_debut_release.php",
-          "desc": "ex-CHAI MANA & KANA project; eight-song tracklist and monthly-single arc."
+          "desc": "ex-CHAI MANA & KANA project; eight-song tracklist and monthly-single rollout."
         },
         {
           "outlet": "Natalie: DEBUT",
@@ -2174,7 +2174,7 @@
         {
           "outlet": "MARZEL: debut single",
           "url": "https://marzel.jp/topics/20251003/",
-          "desc": "OKAME launch and ノスタルポップ frame from first single おかしなきもち."
+          "desc": "OKAME launch and the ノスタルポップ label from first single おかしなきもち."
         }
       ],
       "tracks": [
@@ -2619,7 +2619,7 @@
     "source": "src/content/albums/wami.md",
     "metadata": {
       "title": "$WAMI$",
-      "description": "The 2018 lore dump after Finding SD: a free Bandcamp collage LP, bathrobe nostalgia wave, Encinitas beach weirdness, and a visual album with even more interludes.",
+      "description": "The 2018 second LP after Finding SD: a free Bandcamp collage LP, bathrobe nostalgia wave, Encinitas beach weirdness, and a visual album with even more interludes.",
       "year": 2018,
       "releaseDate": "2018-05-09",
       "artist": "Scoobert Doobert",
@@ -2769,7 +2769,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "91X FM: Local Break",
-      "description": "Full circle from Surfdog mailer room (91X on in the background) to Local Break; Encinitas origin story; led to egoFM Munich.",
+      "description": "Local Break feature: starting out in Encinitas, and the Surfdog mailer room with 91X on in the background.",
       "subject": "Scoobert Doobert",
       "outlet": "91X FM: Local Break",
       "publisher": "91X FM",
@@ -2841,7 +2841,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "BMI Indie Spotlight: FEiN",
-      "description": "Authority/profile: pronunciation, SoCal duo, USC/Tiny Giant, *Little Homes*, #Grownupz on Spotify U.S. Viral 50.",
+      "description": "BMI profile: pronunciation, SoCal duo, USC/Tiny Giant, *Little Homes*, #Grownupz on Spotify U.S. Viral 50.",
       "subject": "FEiN",
       "outlet": "BMI Indie Spotlight: FEiN",
       "publisher": "BMI",
@@ -2941,7 +2941,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "egoFM: Scoobert Doobert bei egoFM",
-      "description": "interview / radio feature · Charmander frame (der schwere Weg; Glumanda on-air), burritos, Pokémon, church-jam story, solo multi-instrumentalist arc; hosts the full 2021 interview.",
+      "description": "interview / radio feature · 2021 interview on Radiowelt (Sept. 2022): Charmander / Glumanda, burritos, Pokémon, church-jam story, going solo as a multi-instrumentalist.",
       "subject": "Scoobert Doobert",
       "outlet": "egoFM: Scoobert Doobert bei egoFM",
       "publisher": "egoFM",
@@ -3015,7 +3015,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "Fresh Beats 365: “Tellin’ stories, making cool sounds and shit”",
-      "description": "Tom Roden (Apr 9, 2016), the strongest indexed external Q&A: USC/carpool origin, #Grownupz Spotify surge into *Little Little Homes*, *Sculptor* LA body-image quotes, *Don't You* as sound summary, DBSRDS, habanero threshold mid-interview.",
+      "description": "Tom Roden (Apr 9, 2016): USC/carpool origin, #Grownupz Spotify surge, *Little Little Homes*, *Sculptor* LA body-image quotes, *Don't You* as sound summary, DBSRDS, habanero threshold mid-interview.",
       "subject": "FEiN",
       "outlet": "Fresh Beats 365: “Tellin’ stories, making cool sounds and shit”",
       "publisher": "Fresh Beats 365",
@@ -3090,7 +3090,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "I Heart Moosiq: *Lucky You* premiere",
-      "description": "Retrospective: #Grownupz premiere, Spotify/Hype Machine viral success, Lucky You quotes.",
+      "description": "Retrospective: #Grownupz premiere, Spotify Viral 50 and Hype Machine placements, Lucky You quotes.",
       "subject": "FEiN",
       "outlet": "I Heart Moosiq: *Lucky You* premiere",
       "publisher": "I Heart Moosiq",
@@ -3215,7 +3215,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "The Drop with Danno: GFN Gwangju",
-      "description": "Full-hour guest session (February 25, 2022 broadcast): world premiere of *Think About It*, on-air CHAI thread, curated playlist: *I'm An Idiot Part II*, *a song to quit your job to*, CHAI *WHOLE*.",
+      "description": "Full-hour guest session (February 25, 2022 broadcast): world premiere of *Think About It*, on-air conversation about producing for CHAI, curated playlist: *I'm An Idiot Part II*, *a song to quit your job to*, CHAI *WHOLE*.",
       "subject": "Scoobert Doobert",
       "outlet": "The Drop with Danno: GFN Gwangju",
       "publisher": "GFN Radio",
@@ -3265,7 +3265,7 @@
     "source": "src/lib/interviews.ts",
     "metadata": {
       "title": "Rock Da Fuq Out",
-      "description": "Strongest modern hit: *MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, long-term framing.",
+      "description": "*MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, thinking long term.",
       "subject": "Scoobert Doobert",
       "outlet": "Rock Da Fuq Out",
       "publisher": "Rock Da Fuq Out",
@@ -30708,7 +30708,7 @@
     "metadata": {
       "title": "Masks, Monsters, and Memes",
       "subtitle": "In Conversation with Scoobert Doobert",
-      "description": "Max Horwich's 2021 book chapter on Scoobert Doobert in the Institute of Network Cultures' Critical Meme Reader, the academic excavation that predates most of this archive.",
+      "description": "Max Horwich's 2021 book chapter on Scoobert Doobert in the Institute of Network Cultures' Critical Meme Reader (INC Reader #15, pp. 78–88).",
       "type": "chapter",
       "author": "Max Horwich",
       "subject": "Scoobert Doobert",
@@ -32711,7 +32711,7 @@
     "source": "src/content/songs/cachondo-para-burrito-de-california.md",
     "metadata": {
       "title": "Cachondo Para Burrito de California",
-      "meaning": "2018 instrumental interlude: Spanish-language burrito title gag in the pre-$WAMI$ scatter: burrito thread before Shrimp Burrito.",
+      "meaning": "2018 instrumental interlude: Spanish-language burrito title gag in the pre-$WAMI$ scatter, before Shrimp Burrito.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
@@ -32992,7 +32992,7 @@
       "placement": "TV broadcast only; not released on CD or streaming platforms",
       "press": [
         {
-          "outlet": "Illustrate Magazine: CHAI / Murakami thread",
+          "outlet": "Illustrate Magazine: CHAI / Murakami credits",
           "url": "https://illustratemagazine.com/scoobert-doobert-release-a-new-single-who-am-i-really-fooling-anyway/"
         }
       ],
@@ -33842,7 +33842,7 @@
         {
           "outlet": "Beformer: Dancing in the Moonlight (Beach) on Spotify Chill Vibes (Instagram)",
           "url": "https://www.instagram.com/p/CpHC2DcrPYV/",
-          "desc": "February 25, 2023: official Chill Vibes editorial add; major playlist; King Harvest cover."
+          "desc": "February 25, 2023: official Chill Vibes editorial add; King Harvest cover."
         }
       ],
       "isrc": "QZFZ72303986",
@@ -33932,7 +33932,7 @@
     "source": "src/content/songs/dear-abby.md",
     "metadata": {
       "title": "Dear Abby",
-      "meaning": "Rees Finley single (2017); Luke Walton guitars; recorded and produced by FEiN at the Tiny Giant-era Rees Finley session lane.",
+      "meaning": "Rees Finley single (2017); Luke Walton guitars; recorded and produced by FEiN in the Tiny Giant-era Rees Finley sessions.",
       "year": 2017,
       "release": "Songs 1-5",
       "releaseType": "EP",
@@ -34619,7 +34619,7 @@
         {
           "outlet": "91X FM: Local Break feature",
           "url": "https://www.91x.com/music/scoobert-doobert-dont-worry/",
-          "desc": "Encinitas origin story: Swami's, Surfing Madonna, Cardiff Kook, learning to jam alone; Surfdog mailer room to Local Break arc."
+          "desc": "Encinitas origin story: Swami's, Surfing Madonna, Cardiff Kook, learning to jam alone; Surfdog mailer room to Local Break."
         }
       ],
       "themes": [
@@ -35428,7 +35428,7 @@
     "source": "src/content/songs/friends.md",
     "metadata": {
       "title": "Friends",
-      "meaning": "WAMI-era friendship song: affection without needing to meet IRL, before the internet-friends thesis got its own anthem.",
+      "meaning": "WAMI-era friendship song: affection without needing to meet IRL, four years before All My Friends Live on the Internet.",
       "year": 2018,
       "release": "$WAMI$",
       "releaseType": "album",
@@ -35832,7 +35832,7 @@
           "outlet": "GRRIF: Recherche de titres",
           "url": "https://www.grrif.ch/recherche-de-titres/?date=2023-09-25",
           "date": "2023-09-25",
-          "desc": "Radio playlist log: \"gonna go to japan\" listed twice on 25 septembre 2023 (12:28, 17:25). Petite trace radio, not a campaign."
+          "desc": "Radio playlist log: \"gonna go to japan\" listed twice on 25 septembre 2023 (12:28, 17:25). Petite trace radio."
         },
         {
           "outlet": "Radio Nova: catalogue des titres",
@@ -36260,7 +36260,7 @@
     "source": "src/content/songs/heat-waves-slowed-and-sadder.md",
     "metadata": {
       "title": "heat waves slowed and sadder",
-      "meaning": "Glass Animals hit reframed slow and sadder: 2022 DistroKid cover single in the pandemic-era long tail.",
+      "meaning": "Glass Animals hit slowed and sadder: 2022 DistroKid cover single from the KŌAN era.",
       "year": 2022,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
@@ -36946,7 +36946,7 @@
     "source": "src/content/songs/i-want-yu-yu-feat-babidi.md",
     "metadata": {
       "title": "I Want Yu Yu (feat. Babidi)",
-      "meaning": "WAMI Babidi feature: J MESA orbit vocal on the 2018 collage LP.",
+      "meaning": "WAMI Babidi feature: J MESA (Babidi) on vocals on the 2018 collage LP.",
       "year": 2018,
       "release": "$WAMI$",
       "releaseType": "album",
@@ -37119,7 +37119,7 @@
     "source": "src/content/songs/im-an-idiot.md",
     "metadata": {
       "title": "I'm an Idiot",
-      "meaning": "Big Hug breakout single: self-deprecation as relief: miss every social cue, envy narcissists, spiral at bedtime, then realize nobody's watching and we're all idiots.",
+      "meaning": "Big Hug single: self-deprecation as relief: miss every social cue, envy narcissists, spiral at bedtime, then realize nobody's watching and we're all idiots.",
       "year": 2021,
       "release": "Big Hug",
       "releaseType": "album",
@@ -37144,7 +37144,7 @@
         {
           "outlet": "Beformer: Spotify New Music Friday (Instagram)",
           "url": "https://www.instagram.com/p/CTXwJA_FqMD/",
-          "desc": "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI discovery hinge."
+          "desc": "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI heard the song after this placement."
         }
       ],
       "themes": [
@@ -38235,7 +38235,7 @@
     "source": "src/content/songs/little-homes-intro.md",
     "metadata": {
       "title": "Intro",
-      "meaning": "Little Homes track 8 instrumental hinge: Justin Klunk baritone sax between Creatures and Twenty-Three.",
+      "meaning": "Little Homes track 8 instrumental interlude: Justin Klunk baritone sax between Creatures and Twenty-Three.",
       "year": 2016,
       "release": "Little Homes",
       "releaseType": "album",
@@ -38475,7 +38475,7 @@
     "source": "src/content/songs/loved.md",
     "metadata": {
       "title": "LOVED",
-      "meaning": "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: the duo's biggest single.",
+      "meaning": "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: FEiN's most-streamed song (~9M on Spotify).",
       "year": 2017,
       "release": "LOVED",
       "releaseType": "single",
@@ -38506,7 +38506,7 @@
           "url": "https://www.youtube.com/watch?v=16ufuyFgvik"
         },
         {
-          "outlet": "YouTube search: LOVED FEiN (PMV/AMV lane)",
+          "outlet": "YouTube search: LOVED FEiN (PMV/AMV videos)",
           "url": "https://www.youtube.com/results?search_query=LOVED+FEIN"
         }
       ],
@@ -38967,7 +38967,7 @@
     "source": "src/content/songs/miracle-scoobert-doobert-remix.md",
     "metadata": {
       "title": "Miracle (Scoobert Doobert Remix)",
-      "meaning": "The Sub Pop remix that connected Scoobert Doobert to CHAI: track 4 on WINK TOGETHER (2022), and the door into years of Japan production work.",
+      "meaning": "Scoobert Doobert remix of CHAI's Miracle: track 4 on WINK TOGETHER (Sub Pop, 2022). Walton's later CHAI credits include WHOLE (NHK theme) and MY DREAM (film theme).",
       "year": 2022,
       "release": "WINK TOGETHER",
       "releaseType": "EP",
@@ -39098,8 +39098,7 @@
         "Möbius",
         "2018",
         "music",
-        "Moonlight Beach",
-        "prophecy"
+        "Moonlight Beach"
       ],
       "isrc": "QZES62358098",
       "isrcSource": "soundexchange",
@@ -39248,7 +39247,7 @@
     "source": "src/content/songs/mother-ship-scoobert-doobert-remix.md",
     "metadata": {
       "title": "mother ship - Scoobert Doobert Remix",
-      "meaning": "Scoobert Doobert remix for bed, released as a single on Sep 20, 2024; the original 'mother ship' was a 2023 single in the APOLOGIZE → Kare Wa → Michael Mann → mother ship arc. Same artist thread as Kare Wa 3.0 (HEART ATTACK OP).",
+      "meaning": "Scoobert Doobert remix for bed, released as a single on Sep 20, 2024; the original 'mother ship' was a 2023 bed single, after APOLOGIZE, Kare Wa, and Michael Mann. Walton later mixed and did additional production on Kare Wa 3.0 (HEART ATTACK OP).",
       "year": 2024,
       "release": "mother ship remix",
       "releaseType": "single",
@@ -39258,7 +39257,7 @@
       "productionRoles": "Remix",
       "press": [
         {
-          "outlet": "SENSA: bed singles arc",
+          "outlet": "SENSA: bed singles",
           "url": "https://sensa.jp/news/20221013-bed.html"
         },
         {
@@ -39337,7 +39336,7 @@
         {
           "outlet": "Smells Like New Talent: Worth A Listen (Week 40)",
           "url": "https://www.instagram.com/p/CFq7gN8HNmO/",
-          "desc": "October 2020 Instagram feature: Encinitas origin bio, multi-instrumentalist arc, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
+          "desc": "October 2020 Instagram feature: Encinitas origin bio, multi-instrumentalist background, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
         },
         {
           "outlet": "Backseat Mafia: Moving to Canada video premiere",
@@ -39994,7 +39993,7 @@
         {
           "outlet": "Nagamag",
           "url": "https://www.nagamag.com/the-latest/scoobert-doobert-no-worries-yes-worries",
-          "desc": "Indie Brandneu and Today's Indie Rock playlist reach; CHAI and Shingo Murakami production thread."
+          "desc": "Indie Brandneu and Today's Indie Rock playlist reach; mentions the CHAI and Shingo Murakami production credits."
         }
       ]
     }
@@ -43215,7 +43214,7 @@
     "source": "src/content/songs/the-disco-feat-mike-funk.md",
     "metadata": {
       "title": "The Disco (feat. Mike Funk)",
-      "meaning": "FEiN single featuring Mike Funk: Walton/Woodward co-write in the post-Little Homes TCAC registration cluster.",
+      "meaning": "FEiN single featuring Mike Funk: Walton/Woodward co-write, the 2017 return single after Little Homes.",
       "year": 2017,
       "release": "The Disco (feat. Mike Funk)",
       "releaseType": "single",
@@ -44677,7 +44676,7 @@
     "source": "src/content/songs/where-did-our-love-go.md",
     "metadata": {
       "title": "Where Did Our Love Go?",
-      "meaning": "Motown heartbreak on Big Hug: Supremes cover as the accessible LP's nod to classic pop grammar.",
+      "meaning": "Motown heartbreak on Big Hug: Supremes cover on the 2021 LP beside the originals.",
       "year": 2021,
       "release": "Big Hug",
       "releaseType": "album",
@@ -44735,7 +44734,7 @@
     "source": "src/content/songs/where-were-going-to-go.md",
     "metadata": {
       "title": "Where We're Going To (Go)",
-      "meaning": "Class crush to porch-date arc: planning dates instead of notes, then finally knowing where we’re going to go.",
+      "meaning": "Class crush to porch date: planning dates instead of notes, then finally knowing where we’re going to go.",
       "year": 2010,
       "release": "Goodbye/Hello",
       "releaseType": "album",

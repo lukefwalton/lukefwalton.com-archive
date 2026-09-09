@@ -75,6 +75,6 @@ Track ten on [*KŌAN*](/albums/koan/), **KŌAN B** (May 29, 2022), after instrum
 
 The hook treats breath as a dumb question (*where does a breath come from? well, that question is a little dumb*) and answers with dialogue rather than anatomy. Verse one makes the sick body the paradox: *I haven't breathed normally for about a week, are viruses alive? Well, yes and no, a koan right inside of me.* Same *yes and no* as Schrödinger on [*Think About It*](/songs/think-about-it/), but internal and respiratory. The rest is a self-portrait of motion addiction (*comfortable with a fear of sitting still*) and contradiction, capped by *I'm the model of a modern man, man,* a [Gilbert-and-Sullivan](https://en.wikipedia.org/wiki/Major-General's_Song) echo turned burnout diary: the modern man as someone who drowns in the shallows.
 
-It returns to the breath hook with no answer, only *less than nothing*. Pairs with [*More to Lose*](/songs/more-to-lose/) and [無門関](/songs/mumonkan/) on the can't-solve-it-only-sing-it thread.
+It returns to the breath hook with no answer, only *less than nothing*. Pairs with [*More to Lose*](/songs/more-to-lose/) and [無門関](/songs/mumonkan/): can't solve it, only sing it.
 
 ---

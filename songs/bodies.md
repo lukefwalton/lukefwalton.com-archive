@@ -72,7 +72,7 @@ draft: false
 
 ---
 
-**FEiN** single (**October 22, 2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. [Discogs](https://www.discogs.com/release/20743678-FEiN-3-Bodies): self-released WAV single · **3:41** · Electronic / Rock / Pop · Alternative Rock · **produced by FEiN** · **mixed by Cary Singer** · **mastered by Riley Knapp** · ISRC **QZ2QB2100003**: same engineering chain as [*800,000*](/songs/800-000/), [*Culling*](/songs/culling/), and [*Liminal*](/songs/liminal/), not the [Frank Rosato](/with/frank-rosato/) Woodcliff lane on [*Little Homes*](/albums/little-homes-fein/). Not on the 2016 LP; later-era FEiN, same duo as [*Behave*](/songs/behave/) and [*Delicate*](/songs/delicate/) (2021 cluster).
+**FEiN** single (**October 22, 2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. [Discogs](https://www.discogs.com/release/20743678-FEiN-3-Bodies): self-released WAV single · **3:41** · Electronic / Rock / Pop · Alternative Rock · **produced by FEiN** · **mixed by Cary Singer** · **mastered by Riley Knapp** · ISRC **QZ2QB2100003**: the same engineers as on [*800,000*](/songs/800-000/), [*Culling*](/songs/culling/), and [*Liminal*](/songs/liminal/); [*Little Homes*](/albums/little-homes-fein/) had [Frank Rosato](/with/frank-rosato/) at Woodcliff. Not on the 2016 LP; later-era FEiN, same duo as [*Behave*](/songs/behave/) and [*Delicate*](/songs/delicate/) (2021 cluster).
 
 Overload at the edge of release. The opening races past its own intention (*I want out of the moment*) and the chorus reframes love as insomnia: *will you always be wide awake after I fall asleep*. *Catatonic Elysian*, paradise frozen, repeats *I just want to feel less alone* until the word wears thin.
 

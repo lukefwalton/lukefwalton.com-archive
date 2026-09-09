@@ -75,6 +75,6 @@ Track ten on [*Dragon Ball $d*](/albums/dragon-ball-d/), **feat. Babidi & Gokuda
 
 There are almost no plot lyrics. The title's *(Nah Nah Nah)* is the whole song: a wall of scat with Babidi & Gokudaxij as hype men at **Bulma's** house rather than narrators. The saga earns a nonsense victory lap. The outro tag, *oooooo (Snickers)*, is the same dumb-product joke register as early Scoobert: not a real sponsorship, just a laugh after the funeral track.
 
-Penultimate before [*While My Beerus Gently Sleeps*](/albums/dragon-ball-d/) (party, then nap). That instrumental closer fades out on a chopped *Coca Cola* snippet. This one pairs with [*In Peacetime Goku Smokes Blunts*](/songs/in-peacetime-goku-smokes-blunts/) as chill bookends at opposite ends of the arc.
+Penultimate before [*While My Beerus Gently Sleeps*](/albums/dragon-ball-d/) (party, then nap). That instrumental closer fades out on a chopped *Coca Cola* snippet. This one pairs with [*In Peacetime Goku Smokes Blunts*](/songs/in-peacetime-goku-smokes-blunts/) as chill bookends at opposite ends of the LP.
 
 ---

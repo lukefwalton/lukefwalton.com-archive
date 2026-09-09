@@ -42,7 +42,7 @@ Track 8 (closer) on OKAME’s first album [***DEBUT***](/albums/okame-debut/), *
 
 Project context: [DEBUT album notes](/albums/okame-debut/) · [With OKAME](/with/okame/) · [Catalog](/catalog/#production)
 
-The [Apple Music credits pane](https://music.apple.com/us/song/game-over/1867075178) lists **Scoobert Doobert** as **Mixing Engineer**, a verified platform mix credit, not just artist press.
+The [Apple Music credits pane](https://music.apple.com/us/song/game-over/1867075178) lists **Scoobert Doobert** as **Mixing Engineer**.
 
 [TuneCore Japan / LinkCore](https://linkco.re/CQ0yYRQE) lists Scoobert Doobert on **guitar** and documents December 2025 Spotify playlist captures including **New Music Wednesday**, **Indie Japan**, **元気Booster**, and **Best New Music: DIGLE SOUND**. See [Catalog: official playlists](/catalog/#spotify-editorial).
 

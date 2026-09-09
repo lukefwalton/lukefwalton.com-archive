@@ -105,11 +105,11 @@ draft: false
 
 ---
 
-Track four on [*Big Hug*](/albums/big-hug/), and a title that's bait for a switch: *I hate money, it's trying to control me, but when I'm turning 30, I know I'll be worshiping a dollar bill.* Luke solo, October 2021, same satirical lane as [*Don't Worry*](/songs/dont-worry/) and [*I Live in California*](/songs/i-live-in-california/). The chorus runs American pathology through a Tolkien joke, *money, my precious ring of power, I'm billing by the hour*: Gollum energy on hourly work, with *born and bred American who loves that money* as the honest line under the hate.
+Track four on [*Big Hug*](/albums/big-hug/), and a title that's bait for a switch: *I hate money, it's trying to control me, but when I'm turning 30, I know I'll be worshiping a dollar bill.* Luke solo, October 2021, same satire as [*Don't Worry*](/songs/dont-worry/) and [*I Live in California*](/songs/i-live-in-california/). The chorus runs American pathology through a Tolkien joke, *money, my precious ring of power, I'm billing by the hour*: Gollum energy on hourly work, with *born and bred American who loves that money* as the honest line under the hate.
 
 What dates it is the 2021 finance-bro regret. *It's not a gamble when you win* is survivor bias as ideology, and barely making rent is the same affordability crisis as *swim in the marijuana that no one can afford* on track one. The hustle-culture bridge (Gucci, billionaire mindset, *sell your friends, essential oils, multi-level marketing*) narrows to a confession: *finesse the ones I love, anything to be richest one.* Then the GameStop line writes the January 2021 meme-stock saga into a song months before release. The *oh no* is both punchline and outcome.
 
-Same *Big Hug* thesis: approachable weirdness, class anxiety without the dread, money worship as a cartoon shell around turning thirty.
+Same *Big Hug* mode: approachable weirdness, class anxiety without the dread, money worship as a cartoon shell around turning thirty.
 
 **Mix / radio-show circulation:** Deep House Cat’s Apple Podcasts episode [*Mountain Hemlock Mix - feat. Dexaville*](https://podcasts.apple.com/us/podcast/mountain-hemlock-mix-feat-dexaville-deep-house-cat-show/id212654198?i=1000548599173) (January 21, 2022) lists *I Love Money* as track 14 in the published tracklist. Deep House Cat is a syndicated deep-house podcast/radio show: mix circulation, not a Spotify editorial playlist. See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/#radio-playlists).
 

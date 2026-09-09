@@ -97,15 +97,15 @@ draft: false
 
 ---
 
-Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024) but not on the LP tracklist. Same relational lane as the album (*wherever you go I go*), except here the geography is literal and the stakes are airports.
+Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024) but not on the LP tracklist. Same subject as the album (*wherever you go I go*), except here the geography is literal and the stakes are airports.
 
 Verse one is the American map as love language, Hawaii or Boston College, Atlanta or Savannah, Chicago, Denver. Half geography quiz, half willingness test, and the answer isn't a city: it's *with love*. The chorus turns that into motion, flooring it west, following the colors, *we'll follow the sun* stacked until it's a mantra.
 
-The turn is the tarmac, tears held back and a hollow stomach, then the line that reframes it all: *this ain't just summer love, no / this is forever love*. The second chorus quietly shifts *I could* to *we could*. A distance song that refuses to treat distance as temporary.
+The turn is the tarmac, tears held back and a hollow stomach, then the line that reframes it all: *this ain't just summer love, no / this is forever love*. The second chorus shifts *I could* to *we could*. A distance song that refuses to treat distance as temporary.
 
 [@91xsandiego](https://www.instagram.com/p/C_b9pfFvyra/) spun it on Hilary's **Planet Nü Nü** (**Sep 1, 2024** broadcast), Instagram audio track attached; the [91x.com playlist log](https://www.91x.com/91x/planet-nu-nu-playlist-9-1-24/) confirms it.
 
-**Brand sync:** An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Getting Easier*](/songs/getting-easier/). Beformer public material documents this song in a campaign featuring Claudia Schiffer, with Mean Machine credited; a second post matches the Hailey Bieber / rhode ad lane. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
+**Brand sync:** An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Getting Easier*](/songs/getting-easier/). Beformer public material documents this song in a campaign featuring Claudia Schiffer, with Mean Machine credited; a second post matches the Hailey Bieber / rhode ads. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
 
 See also: [*I*](/albums/i/) · [Catalog](/catalog/).
 

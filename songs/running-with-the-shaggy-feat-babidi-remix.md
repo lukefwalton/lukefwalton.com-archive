@@ -25,7 +25,7 @@ draft: false
 
 Streaming version of [**Running with the Shaggy (feat. Babidi)**](/songs/running-with-the-shaggy-feat-babidi/) from [*$WAMI$*](/albums/wami/), track seventeen on the 2018 collage LP, **Babidi** on featured vocals.
 
-This is **not** a proper remix session. Luke Francis Walton was messing around with the **Amazing Slow Downer** app on the original master and liked the warped result enough that it ended up on distro: pitch/time-stretch artifacts, lo-fi science-fair energy, same lore-dump era as the rest of *$WAMI$*. For the actual song placement and Babidi feature context, see the [original track page](/songs/running-with-the-shaggy-feat-babidi/) and [*$WAMI$* album notes](/albums/wami/).
+This is **not** a proper remix session. Luke Francis Walton was messing around with the **Amazing Slow Downer** app on the original master and liked the warped result enough that it ended up on distro: pitch/time-stretch artifacts, lo-fi science-fair energy, same era as the rest of *$WAMI$*. For the actual song placement and Babidi feature context, see the [original track page](/songs/running-with-the-shaggy-feat-babidi/) and [*$WAMI$* album notes](/albums/wami/).
 
 See [Catalog](/catalog/#remixes) · [With J MESA](/with/j-mesa/)
 

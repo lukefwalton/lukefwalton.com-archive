@@ -78,10 +78,10 @@ draft: false
 
 ---
 
-Track one on [*Masks and Monsters*](/albums/masks-and-monsters/): Luke solo, North Park lockdown, August 2020. The LP opens on its title thesis, a weather report rather than reassurance, before the cartoon bits arrive. The avatar even gets summoned to do pandemic labor and then waved off in a parenthetical (*I didn't know there was a youbert*), the bit improvised mid-crisis.
+Track one on [*Masks and Monsters*](/albums/masks-and-monsters/): Luke solo, North Park lockdown, August 2020. The LP opens on its title line, a weather report rather than reassurance, before the cartoon bits arrive. The avatar even gets summoned to do pandemic labor and then waved off in a parenthetical (*I didn't know there was a youbert*), the bit improvised mid-crisis.
 
 From there it runs on dissociation, sunny cognition over a nightmare body, with the grammar slipping the same way the mind does: *it feel like a dream, yeah, it feel like a nightmare*. The rest is window versus wall, a pretty day outside and contact forbidden, fixed to its exact moment by one line: *second summer spent inside, government, keep me alive*. The state as lifeline while you're still trapped. It ends on a refusal chant, exit denied.
 
-Sets up the emotional spine the [album essay](/albums/masks-and-monsters/) names, before [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) turns the mask back on.
+The [album essay](/albums/masks-and-monsters/) covers the whole record. [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) follows and turns the mask back on.
 
 ---

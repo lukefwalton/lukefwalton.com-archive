@@ -1,7 +1,7 @@
 ---
 title: "Where We're Going To (Go)"
 
-meaning: "Class crush to porch-date arc: planning dates instead of notes, then finally knowing where we’re going to go."
+meaning: "Class crush to porch date: planning dates instead of notes, then finally knowing where we’re going to go."
 
 year: 2010
 release: "Goodbye/Hello"

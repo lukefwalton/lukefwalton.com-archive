@@ -91,6 +91,6 @@ Track one on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), th
 
 The chorus is the whole record's permission slip: *mind your own business / won't do no good to shame the man*, with shame deflected up to fathers and down to children but never owned in between. By verse two the self-improvement turns clinical: a reference photograph for surgery, a *steady stream of lethargy* to medicate, *now I'm feeling whole*.
 
-Then the door of the little home. A woman with a cardboard sign tries to sell him a handwritten book and he doesn't look: *I told her no, lady no.* The song exits where it entered, on *mind your own business*, with nothing resolved. It leads into [*#Grownupz*](/songs/grownupz/), and points ahead to the Scoobert political songs like [*My Friend, Scoobert*](/songs/my-friend-scoobert/). FEiN names American denial plainly here, years before the bedroom-pop mask.
+Then the door of the little home. A woman with a cardboard sign tries to sell him a handwritten book and he doesn't look: *I told her no, lady no.* The song exits where it entered, on *mind your own business*, with nothing resolved. It leads into [*#Grownupz*](/songs/grownupz/). Compare the later Scoobert political song [*My Friend, Scoobert*](/songs/my-friend-scoobert/). FEiN names American denial plainly here.
 
 ---

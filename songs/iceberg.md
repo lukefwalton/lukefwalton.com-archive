@@ -16,7 +16,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Standalone single with **Clyde Rivers**: **February 25, 2022** per Spotify (label **Clyde Rivers**). International collab; Luke Francis Walton on the Scoobert side. Catalog-only (no `/with/` hub). See also [Tommaso Veronesi (TOMMASO)](/with/tommaso-veronesi/) and [Victor Marc](/with/victor-marc/) on the international collab thread.
+Standalone single with **Clyde Rivers**: **February 25, 2022** per Spotify (label **Clyde Rivers**). International collab; Luke Francis Walton on the Scoobert side. See also [Tommaso Veronesi (TOMMASO)](/with/tommaso-veronesi/) and [Victor Marc](/with/victor-marc/) for other international collabs.
 
 No press or interview found for this title beyond distro metadata.
 

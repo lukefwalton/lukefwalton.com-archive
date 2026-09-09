@@ -94,9 +94,9 @@ draft: false
 
 ---
 
-Track one on [*MÖB*](/albums/mob/), the LP's front door and anxiety thesis, released as a standalone single ahead of the album. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) read it as a song about the stories people tell themselves, which is exactly the trick: a happy song that smiles while *never letting on how much I worry*.
+Track one on [*MÖB*](/albums/mob/), released as a standalone single ahead of the album. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) read it as a song about the stories people tell themselves, which is exactly the trick: a happy song that smiles while *never letting on how much I worry*.
 
-The whole record's logic is in the chorus: *it's the end of the world in my head*, so *won't you get out of my head?* Browsing history doubles as a diary, big data and Siri can't help, and confession plays as comedy (*I don't catastrophize, that information's classified*). The final verse widens to elections, family fracture, and heat, then lands right back inside the skull. The Möbius cycle begins here, with looped dread you can dance to.
+The chorus: *it's the end of the world in my head*, so *won't you get out of my head?* Browsing history doubles as a diary, big data and Siri can't help, and confession plays as comedy (*I don't catastrophize, that information's classified*). The final verse widens to elections, family fracture, and heat, then lands right back inside the skull. The Möbius cycle begins here, with looped dread you can dance to.
 
 It connects to the [*CHEW ON THIS*](/songs/chew-on-this/) lineage of internet anxiety, and sets up [*Sunlight*](/songs/sunlight/) as the album's attempted answer.
 

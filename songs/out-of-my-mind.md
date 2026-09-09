@@ -94,6 +94,6 @@ draft: false
 
 A morning-after ballad built on domestic residue: cold sheets, *brush my teeth lonely*, the coffee made for two. The pre-chorus accepts the ending but not the manner of it (*maybe we were bound to break / but not like this*), which is the whole tension the chorus keeps circling.
 
-The hook is a stuck loop. *My heart keeps slipping back in time, no matter what I do*, and the title command (*get out of my mind*) repeats because it never works. The bridge names the trap as paralysis and envy, *memories keep me paralyzed*, the ex moving on while the narrator can't. Pairs with [*Boomerang*](/songs/boomerang/) (long-distance motion) and [*Roadtrip*](/songs/roadtrip/) (*doesn't really matter*): a FEiN pop ballad outside the *Little Homes* satire lane.
+The hook is a stuck loop. *My heart keeps slipping back in time, no matter what I do*, and the title command (*get out of my mind*) repeats because it never works. The bridge names the trap as paralysis and envy, *memories keep me paralyzed*, the ex moving on while the narrator can't. Pairs with [*Boomerang*](/songs/boomerang/) (long-distance motion) and [*Roadtrip*](/songs/roadtrip/) (*doesn't really matter*): a FEiN pop ballad with none of the *Little Homes* satire.
 
 ---

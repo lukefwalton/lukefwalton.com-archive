@@ -33,10 +33,10 @@ draft: false
 
 ---
 
-Track five on [*Little Hug*](/albums/little-hug/) (**April 2021**). Luke solo. A short sketch, not a thesis song: one verse, two *yeah*s, done.
+Track five on [*Little Hug*](/albums/little-hug/) (**April 2021**). Luke solo. A short sketch: one verse, two *yeah*s, done.
 
 It's a single online portrait assembled from incompatible parts: fantasy fandom taken too seriously (*Game of Thrones isn't history*), the [NoFap](https://en.wikipedia.org/wiki/NoFap) abstinence streak as a whole personality (*no fap controls your mind*), then patriot cosplay and [Pepe the Frog](https://en.wikipedia.org/wiki/Pepe_the_Frog) meme politics collapsed together (*a Pepe meme come to life*). The *terrorist* line is an overheated online accusation, not a literal one.
 
-No chorus, no resolution, just the observation and *yeah yeah*. It shares a target with later, longer internet satire on [*High Society*](/songs/high-society/) and [*Miss Disinformation*](/songs/miss-disinformation/), but at sketch length. Part of the small recovery object is laughing at the timeline you just survived.
+No chorus, no resolution, just the observation and *yeah yeah*. It shares a target with later, longer internet satire on [*High Society*](/songs/high-society/) and [*Miss Disinformation*](/songs/miss-disinformation/), but at sketch length. Part of *Little Hug* is laughing at the timeline you just survived.
 
 ---

@@ -24,7 +24,7 @@ draft: false
 
 Live version of [*I Want Yu Yu (feat. Babidi)*](/songs/i-want-yu-yu-feat-babidi/) from [*Live from the Void*](/albums/live-from-the-void/), the Unity-engine virtual concert directed by [Max Horwich](/with/max-horwich/). Public streaming metadata credits **J MESA** on the feature (Babidi / Taylor James).
 
-This is a **live performance cut**, not an instrumental: same song, concert arrangement. Distinct from distro instrumental pages (no lyrics block here because the live vocal is the point: full lyric annotation lives on the studio/feature page).
+This is a **live performance cut**, not an instrumental: same song, concert arrangement. Lyrics are on the studio page, [*I Want Yu Yu (feat. Babidi)*](/songs/i-want-yu-yu-feat-babidi/).
 
 See [With J MESA](/with/j-mesa/) · [Live from the Void album](/albums/live-from-the-void/) · [Catalog](/catalog/)
 

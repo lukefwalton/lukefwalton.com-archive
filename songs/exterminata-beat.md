@@ -22,9 +22,9 @@ isrcSource: spotify
 draft: false
 ---
 
-B-side to [**playing plinko**](/songs/playing-plinko/), **April 24, 2026** single (Spotify label **Bar/None Records**). **Applied Communications** (Max Wood, D.C.); Luke Francis Walton **mixed**, continuing the post-[*Midlife Crisis*](/albums/applied-communications-has-a-midlife-crisis/) mix relationship.
+B-side to [**playing plinko**](/songs/playing-plinko/), **April 24, 2026** single (Spotify label **Bar/None Records**). **Applied Communications** (Max Wood, D.C.); Luke Francis Walton **mixed**, as on the [*Midlife Crisis*](/albums/applied-communications-has-a-midlife-crisis/) EP.
 
-Also appears on the **greatest applied communications music** compilation family ([boyfie sale](/songs/boyfie-sale/), etc.).
+Also appears on the **greatest applied communications music** compilation ([boyfie sale](/songs/boyfie-sale/), etc.).
 
 No Scoobert lyrics. See [With applied communications](/with/applied-communications/) · [Catalog](/catalog/#production)
 

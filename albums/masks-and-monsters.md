@@ -1,7 +1,7 @@
 ---
 title: "Masks and Monsters"
 
-description: "The 2020 pandemic record: cartoon mythology as survival language, eighteen North Park tracks, and the first Scoobert album where the bit collides with adult reality."
+description: "The 2020 pandemic record: eighteen tracks written, played, mixed, and mastered in North Park, San Diego, during lockdown, with Babidi and Gokudaxij on three of them."
 
 year: 2020
 releaseDate: 2020-08-11
@@ -60,12 +60,12 @@ press:
 draft: false
 ---
 
-*Masks and Monsters* is the pandemic record. Fourth in the early Scoobert run, after [*Dragon Ball $d*](/albums/dragon-ball-d/), and the moment the project stops using cartoons only as escape mythology and starts using them as survival language for real-time collapse.
+*Masks and Monsters* is the pandemic record. Fourth in the early Scoobert run, after [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
-[*Finding $D*](/albums/finding-d-remastered/) is the one-day lab notebook. [*Swami's*](/albums/wami/) is the lore dump. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. **Masks and Monsters** is the pandemic self-portrait. Luke Francis Walton wrote, played, mixed, and mastered the whole thing in North Park, San Diego, while the world was very small. Babidi (Taylor James / J MESA) cowrote and sings on *Quarantine and Chill* and *My Mind Is Slowly Slipping*. Gokudaxij (Eric Radloff) cowrote and sings on *Happy Birthday*. Everything else is Luke. Cover art by Gentle Giant Illustrations.
+[*Finding $D*](/albums/finding-d-remastered/) is the one-day lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. **Masks and Monsters** is the pandemic self-portrait. Luke Francis Walton wrote, played, mixed, and mastered the whole thing in North Park, San Diego, while the world was very small. Babidi (Taylor James / J MESA) cowrote and sings on *Quarantine and Chill* and *My Mind Is Slowly Slipping*. Gokudaxij (Eric Radloff) cowrote and sings on *Happy Birthday*. Everything else is Luke. Cover art by Gentle Giant Illustrations.
 
-[Bandcamp *Masks & Monsters (LP)*](https://scoobertdoobert.bandcamp.com/album/masks-monsters-lp) dropped **August 11, 2020** ($8 or more, 24-bit/88.2kHz). [Spotify](https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw), [Apple Music](https://music.apple.com/us/album/masks-and-monsters/1526427944), and Deezer all list **18 tracks, about fifty minutes**, ℗ 2020 Beformer. The [visual album](https://www.youtube.com/watch?v=8zcGome9-yI) calls it explicitly “my full pandemic record.” Not an album that happened to come out in 2020; the pandemic document.
+[Bandcamp *Masks & Monsters (LP)*](https://scoobertdoobert.bandcamp.com/album/masks-monsters-lp) dropped **August 11, 2020** ($8 or more, 24-bit/88.2kHz). [Spotify](https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw), [Apple Music](https://music.apple.com/us/album/masks-and-monsters/1526427944), and Deezer all list **18 tracks, about fifty minutes**, ℗ 2020 Beformer. The [visual album](https://www.youtube.com/watch?v=8zcGome9-yI) calls it explicitly “my full pandemic record.”
 
-The cartoon shell is still there: Shaggy, *Mystery Machine*, monster language, goofy title logic. The emotional center is much more direct: *It Can Get Worse*, *Creature Comfort*, *When It's Over*, *Pandemic Blues*, *A Good Life*, *My Mind Is Slowly Slipping*, *Corona*. Masks work literally (COVID) and mythologically (Scoobert's older costume-and-avatar world). The songs are still funny, but the joke no longer feels like decoration. It feels like a pressure valve. [Last Day Deaf](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/) caught the naming story; the [Critical Meme Reader](/publications/masks-monsters-and-memes/) later treated the record as memetic production in practice.
+The cartoon shell is still there: Shaggy, *Mystery Machine*, monster language, goofy title logic. Track titles include *It Can Get Worse*, *Creature Comfort*, *When It's Over*, *Pandemic Blues*, *A Good Life*, *My Mind Is Slowly Slipping*, and *Corona*. Masks work literally (COVID) and mythologically (Scoobert's older costume-and-avatar world). [Last Day Deaf](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/) caught the naming story; the [Critical Meme Reader](/publications/masks-monsters-and-memes/) later treated the record as memetic production in practice.
 
-The closer is [Derrida Makes a Différance](/songs/derrida-makes-a-differance/): cosmic nihilism, matter puns, family as grounding. That's the philosophical thread the rest of the catalog keeps pulling on. What comes next is [*Little Hug*](/albums/little-hug/): re-entry after the pandemic record.
+The closer is [Derrida Makes a Différance](/songs/derrida-makes-a-differance/): cosmic nihilism, matter puns, family as grounding. What comes next is [*Little Hug*](/albums/little-hug/): re-entry after the pandemic record.

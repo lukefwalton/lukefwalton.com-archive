@@ -22,7 +22,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Track on **greatest applied communications music**: **April 18, 2025** ([Bandcamp](https://applcomm.bandcamp.com/)). **Applied Communications** (Max Wood) compilation issued after the [**Midlife Crisis**](/albums/applied-communications-has-a-midlife-crisis/) EP: Walton **mixed** the project line documented on [*oxytocin drunk*](/songs/oxytocin-drunk/).
+Track on **greatest applied communications music**: **April 18, 2025** ([Bandcamp](https://applcomm.bandcamp.com/)). **Applied Communications** (Max Wood) compilation issued after the [**Midlife Crisis**](/albums/applied-communications-has-a-midlife-crisis/) EP: Walton **mixed**, the same credit as on [*oxytocin drunk*](/songs/oxytocin-drunk/).
 
 No per-track press or placement found beyond streaming metadata.
 

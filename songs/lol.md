@@ -115,7 +115,7 @@ draft: false
 
 Fifth chapter of [*US*](/albums/us/), social dread spelled out loud. There's no confidence to end any sentence with anything other than *L-O-L*, and a party invite gets the softest possible decline: *maybe maybe, see you someday, LOL*.
 
-Under the punctuation is the thesis the bridge stacks six times: *I don't wanna say something wrong*. Small humiliations pile up (shoes-off house rules you won't enforce on friends, food in teeth nobody who *loves* you will mention) until the song shrugs off answers entirely: *philosophical songs never have answers*. Then the LOL escalates to *LMFAO* and *ROFLMAO*. Anxiety wearing joke armor.
+Under the punctuation is the line the bridge stacks six times: *I don't wanna say something wrong*. Small humiliations pile up (shoes-off house rules you won't enforce on friends, food in teeth nobody who *loves* you will mention) until the song shrugs off answers entirely: *philosophical songs never have answers*. Then the LOL escalates to *LMFAO* and *ROFLMAO*. Anxiety wearing joke armor.
 
 Also on the chapter EP: [*THIS IS FINE*](/songs/this-is-fine/), the meme-mantra sequel with no new verses.
 

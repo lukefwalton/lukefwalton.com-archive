@@ -104,6 +104,6 @@ The hook is hustle gospel, TED-talk logic as a chant: *if you got a why then you
 
 The back half turns satirical. The bridge manufactures meaning (*we'll believe in gods and flags / with some purpose*), then a boss-voice barks hygiene and dignity into exploitation: *won't you give your life to progress / my computer needs your best*, lockdown WFH bleeding through. The final sermon is startup eschatology, *this work will give you freedom / afterlife is all by assured* (the typo *by* preserved from DistroKid), before eight bars of *yeah yeah yeah* and a single *yeah*.
 
-Penultimate before [*Mystery Machine*](/songs/mystery-machine/) and [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/), bridging the cartoon LP to its philosophy closer. Same anti-certainty thread as Derrida, same capitalism roast as [*Coca Cola*](/songs/coca-cola/) and [*Shaggy's Anthem*](/songs/shaggys-anthem/). After [*I Am a Slave to the Yeast*](/songs/i-am-a-slave-to-the-yeast/)'s domestic captivity, this is cultural captivity.
+Penultimate before [*Mystery Machine*](/songs/mystery-machine/) and [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/), the LP's philosophy closer. Same anti-certainty as Derrida, same capitalism roast as [*Coca Cola*](/songs/coca-cola/) and [*Shaggy's Anthem*](/songs/shaggys-anthem/). After [*I Am a Slave to the Yeast*](/songs/i-am-a-slave-to-the-yeast/)'s domestic captivity, this is cultural captivity.
 
 ---

@@ -96,6 +96,6 @@ The song builds a predatory church from scratch. The banner's *Repent! Believe i
 
 Then the outro yanks the mask off, turning the whole sermon into a villain caught red-handed, and the title lands. The parenthetical *(Joshu's dog?)* nods to a collaborator while smuggling in a Zen koan.
 
-Same debut lab as [*What a Velma What a Night*](/songs/what-a-velma-what-a-night/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/), a comic frame thrown over real horror before the [*$WAMI$*](/albums/wami/) lore dump. Leads into [*Damned*](/songs/damned/), and pairs with [*Friend*](/songs/friend/) (FEiN's remake of *My Friend, Scoobert*) as religious and political dread in different registers.
+Same debut LP as [*What a Velma What a Night*](/songs/what-a-velma-what-a-night/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/): comedy thrown over real horror, before [*$WAMI$*](/albums/wami/). Leads into [*Damned*](/songs/damned/), and pairs with [*Friend*](/songs/friend/) (FEiN's remake of *My Friend, Scoobert*) as religious and political dread in different registers.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 
-meaning: "Little Homes track 8 instrumental hinge: Justin Klunk baritone sax between Creatures and Twenty-Three."
+meaning: "Little Homes track 8 instrumental interlude: Justin Klunk baritone sax between Creatures and Twenty-Three."
 
 year: 2016
 release: "Little Homes"
@@ -25,7 +25,7 @@ draft: false
 
 ---
 
-Track eight on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**): **instrumental** interlude (**0:44** on [Discogs](https://www.discogs.com/release/19394809-FEiN-Little-Homes)) with **Justin Klunk** on baritone saxophone. Sits between [*Creatures*](/songs/creatures/) (track seven) and [*Twenty-Three*](/songs/twenty-three/) (track nine), the LP's structural hinge before the second-side run.
+Track eight on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**): **instrumental** interlude (**0:44** on [Discogs](https://www.discogs.com/release/19394809-FEiN-Little-Homes)) with **Justin Klunk** on baritone saxophone. Sits between [*Creatures*](/songs/creatures/) (track seven) and [*Twenty-Three*](/songs/twenty-three/) (track nine).
 
 Same Tiny Giant → LMU → [Frank Rosato](/with/frank-rosato/) Woodcliff chain as the rest of the album. ISRC **TCACO1633184** (SoundExchange). No lyrics on instrumental pages.
 

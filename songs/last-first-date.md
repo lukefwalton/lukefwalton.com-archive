@@ -114,6 +114,6 @@ Non-album standalone single (**June 28, 2024** · Beformer), not on [*I*](/album
 
 It's all first-date physics, a *sheeply* wave, *gotta be confident* on loop, small talk through family and pet peeves until *finally you laugh*. Then the beach: a sand walk, a bioluminescent glow, nervousness shaking off *like leaves in the winter*, later *like sakura in summer*. The detail that dates it perfectly is the *high heart rate Apple Watch alert* right before the kiss.
 
-The title carries the whole idea: *we can never have a first date again*, never another first impression, so *this could be our last first date*, the only one you'll get with this person, treat it like it matters. The cycle repeats because memory does. Same relational lane as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*Dancing Alone*](/songs/dancing-alone/), but origin story rather than distance. See: [Catalog](/catalog/).
+The title carries the whole idea: *we can never have a first date again*, never another first impression, so *this could be our last first date*, the only one you'll get with this person, treat it like it matters. The cycle repeats because memory does. Same relationship subject as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*Dancing Alone*](/songs/dancing-alone/), but origin story rather than distance. See: [Catalog](/catalog/).
 
 ---

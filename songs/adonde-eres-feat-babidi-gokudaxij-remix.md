@@ -23,7 +23,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Remix of [**Adonde Eres (feat. Babidi & Gokudaxij)**](/songs/adonde-eres-feat-babidi-gokudaxij/) from the [*Swami's* / $WAMI$](/albums/wami/) era, pre-[*Finding $D*](/albums/finding-d-remastered/) lore dump, same Babidi/Gokudaxij universe that continues on [*Dragon Ball $d*](/albums/dragon-ball-d/).
+Remix of [**Adonde Eres (feat. Babidi & Gokudaxij)**](/songs/adonde-eres-feat-babidi-gokudaxij/) from the [*Swami's* / $WAMI$](/albums/wami/) era, before [*Finding $D*](/albums/finding-d-remastered/), same Babidi/Gokudaxij universe that continues on [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
 Self-remix / extended pass on Scoobert's own feature track. Original context on the [Adonde Eres](/songs/adonde-eres-feat-babidi-gokudaxij/) page.
 

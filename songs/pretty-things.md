@@ -65,7 +65,7 @@ draft: false
 
 ---
 
-Track thirteen on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), after [*Lonely People*](/songs/lonely-people/). Walton/Woodward co-write. This is the LP's other body song, BMI's cosmetic-surgery thread played as comedy of perpetual self-improvement: the body as an unfinished project whose payoff is always a year away.
+Track thirteen on [*Little Homes*](/albums/little-homes-fein/) (**May 31, 2016**), after [*Lonely People*](/songs/lonely-people/). Walton/Woodward co-write. This is the LP's other body song. BMI's Indie Spotlight lists cosmetic surgery among the album's subjects; here it plays as comedy of perpetual self-improvement: the body as an unfinished project whose payoff is always a year away.
 
 The narrator *stands naked waiting for my sickly body to take shape*, insisting *don't look, I'm still getting ready, oh my happiness just a year away.* Around him the chorus pipes in the envy that drives it, *all my friends are interesting, photogenic pretty things*, *all my friends are happy with their skinny little bodies*, social comparison years before the feed made it constant. Verse two is the regimen itself, the gym as a sculpture studio: *gotta hit the treadmill, gotta earn that body make it pop pop pop pop*, then the clinical wishlist, *peculiar pectoral muscles, dehydrate, accentuate, my soft abdomen.* The song never reaches the year-away happiness. It just loops back to *can't make sense of it all.*
 

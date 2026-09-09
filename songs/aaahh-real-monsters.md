@@ -19,7 +19,7 @@ instrumental: true
 
 Closer on [*Finding $D*](/albums/finding-d-remastered/), same recording as *Next Time on Dragon Ball SD* on [*$WAMI$*](/albums/wami/) and the DBZ trailer on [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
-Luke Francis Walton uses instrumentals as interludes between vocal collage tracks, placement on the parent release matters as much as the riff. No lyrics on instrumental pages.
+Luke Francis Walton uses instrumentals as interludes between vocal collage tracks.
 
 See [Catalog](/catalog/)
 

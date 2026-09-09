@@ -20,7 +20,7 @@ isrcSource: spotify
 draft: false
 ---
 
-**Garvie**: **January 26, 2024** (**BigBoss Records**). **Self-produced by Garvie**; **mixed by Luke Francis Walton.** Latest Garvie release on public streaming: hub treats the catalog as **historical** after 2024 (artist may have stepped back; [garviesounds.com](https://garviesounds.com/) shows no newer drops).
+**Garvie**: **January 26, 2024** (**BigBoss Records**). **Self-produced by Garvie**; **mixed by Luke Francis Walton.** Latest Garvie release on public streaming; [garviesounds.com](https://garviesounds.com/) shows no newer drops.
 
 Closes the six-single mixing run from [Decisions Decisions](/songs/decisions-decisions/) (2022) through [So High](/songs/so-high/) (2023).
 

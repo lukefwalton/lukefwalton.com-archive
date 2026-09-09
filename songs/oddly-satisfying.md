@@ -42,6 +42,6 @@ draft: false
 
 Track one on [*Plague Beats, Vol. 1*](/albums/plague-beats-vol-1/) (**September 21, 2020**), a six-track beat tape at roughly one minute per track. Luke solo, same pandemic season as [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Moving to Canada*](/songs/moving-to-canada/). The title borrows the **oddly satisfying** video genre (ASMR alignment, things that fit perfectly) and whispers a little philosophy over a plague-era beat.
 
-The bridge is Protagoras in a minute, *is man the measure of all things / or is it just a dream*, the same [homō mensura](https://en.wikipedia.org/wiki/Protagoras#%22Man_is_the_measure_of_all_things%22) gag that runs through [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/) and [*Don't Know Much*](/songs/dont-know-much/), here compressed to a beat-tape sigh that dissolves into *ah ooo*. It's the closest thing this EP has to a thesis; everything after it is a joke.
+The bridge is Protagoras in a minute, *is man the measure of all things / or is it just a dream*, the same [homō mensura](https://en.wikipedia.org/wiki/Protagoras#%22Man_is_the_measure_of_all_things%22) gag that runs through [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/) and [*Don't Know Much*](/songs/dont-know-much/), here compressed to a beat-tape sigh that dissolves into *ah ooo*. It's the one serious line on the EP; everything after it is a joke.
 
 ---

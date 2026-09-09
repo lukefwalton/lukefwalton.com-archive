@@ -30,7 +30,7 @@ draft: false
 
 [@jamiethedrake](https://www.instagram.com/p/Cq3I6ouOlHb/) announced the remix **April 10, 2023**: out that **Friday** on [@antifragilemusic](https://www.instagram.com/antifragilemusic/) · art [@mollytuttledesign](https://www.instagram.com/mollytuttledesign/) · [pre-save](https://antifragilemusic.ffm.to/newgirlremix). On tour after release, Jamie **closed every set with a dance party to this remix**.
 
-Drake also **cowrote and features** on [*Meteor Shower*](/songs/meteor-shower/) from [*Moonlight Beach*](/albums/moonlight-beach/), remix and LP co-write share the same collaborator thread on [jamiedrakemusic.com](https://www.jamiedrakemusic.com/).
+Drake also **cowrote and features** on [*Meteor Shower*](/songs/meteor-shower/) from [*Moonlight Beach*](/albums/moonlight-beach/). See [jamiedrakemusic.com](https://www.jamiedrakemusic.com/).
 
 No Scoobert lyrics. See [With Jamie Drake](/with/jamie-drake/) · [Catalog](/catalog/#remixes)
 

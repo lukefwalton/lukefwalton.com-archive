@@ -75,8 +75,8 @@ Standalone single only (**October 29, 2024** · Beformer · listed as Holiday on
 
 The hook is repetition as vow, *I don't ever wanna leave you alone* stacked until it's a mantra. The verses are self-improvement in miniature, broaden the shoulders, cut down on sugar, build a shelter that can *weather any type of storm*. Care for you starts as care for me.
 
-Then the Halloween pivot: yeah, it's for pretending, but *I got no plans to join the skeletons any time soon*. The spooky-season offer is the opposite of death imagery, just *I'm staying right here*, twice, landing on *I wanna give you a good home*. Same devotion lane as [*Dancing Alone*](/songs/dancing-alone/) and [*chasing the sunset*](/songs/chasing-the-sunset/), but here the commitment is literally to stay alive and stay put.
+Then the Halloween pivot: yeah, it's for pretending, but *I got no plans to join the skeletons any time soon*. The spooky-season offer is the opposite of death imagery, just *I'm staying right here*, twice, landing on *I wanna give you a good home*. Same devotion as [*Dancing Alone*](/songs/dancing-alone/) and [*chasing the sunset*](/songs/chasing-the-sunset/), but here the commitment is literally to stay alive and stay put.
 
-See also: [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) (holiday single lane) · [Catalog](/catalog/).
+See also: [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) (holiday single) · [Catalog](/catalog/).
 
 ---

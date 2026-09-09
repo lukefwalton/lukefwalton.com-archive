@@ -67,7 +67,7 @@ Severed. *"Scoobert Doobert occasionally collaborates with Luke Francis Walton o
 
 Two songs. As if they were strangers who'd once shared a room. The machine had done to me (automatically, and with total confidence) exactly what I'd done to myself on purpose with a dog mask: cut the author away from the work and handed you an answer with no one behind it. The same shape as that theater in Japan. The work playing everywhere with the author in none of the rooms.
 
-That's the thing I research now, commercially and philosophically. [The answerability gap](/writing/the-decision-no-one-authored/). Decisions and claims that get severed from any person who'll stand behind them. Authorship that goes missing in the machine. I'd been living inside the gap for years; I just hadn't named it. And that's where the interview stopped being a funny artifact and became the proof: the masked man with no name, in 2021, was talking about Socrates having no fixed identity, about answerability, about the human work a machine can't do.
+That's the thing I research now, commercially and philosophically. [The answerability gap](/writing/the-decision-no-one-authored/). Decisions and claims that get severed from any person who'll stand behind them. Authorship that goes missing in the machine. I'd been living inside the gap for years; I just hadn't named it. And that's where the interview stopped being a funny artifact and became something I couldn't laugh off: the masked man with no name, in 2021, was talking about Socrates having no fixed identity, about answerability, about the human work a machine can't do.
 
 ## Sewing the Seams Shut
 

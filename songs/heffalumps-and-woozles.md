@@ -81,10 +81,10 @@ draft: false
 
 ---
 
-Track seven on [*Big Hug*](/albums/big-hug/), California legal-weed comedy at full Scoobert myth register. **SDRC** is San Diego Recreational Cannabis, the Mission Valley dispensary where the narrator runs into his second- and fourth-grade teacher in line, *what a dankery delight*. That's the whole bit: *that's how we kick it now in California, like it's just a normal store*. The chorus is the quit-tomorrow loop every smoker knows, *I'll cut back tomorrow* collapsing straight into *wake and bake / I guess there's always tomorrow*.
+Track seven on [*Big Hug*](/albums/big-hug/), California legal-weed comedy in full Scoobert register. **SDRC** is San Diego Recreational Cannabis, the Mission Valley dispensary where the narrator runs into his second- and fourth-grade teacher in line, *what a dankery delight*. That's the whole bit: *that's how we kick it now in California, like it's just a normal store*. The chorus is the quit-tomorrow loop every smoker knows, *I'll cut back tomorrow* collapsing straight into *wake and bake / I guess there's always tomorrow*.
 
-The hook lifts its title from the *Heffalumps and Woozles* dream sequence in Winnie-the-Pooh and reuses it as a stoner vision, *my vision never clear / come puff and pass my dear*, with the persona's own pun folded into *this is my brother Doobie*. Verse three goes generational: grandma in the retirement home baking magic brownies, couch-locked Jeopardy puzzles, and *Benny Goodman never sounded this good before*, a preview of [*JAZZ FLUTE*](/songs/jazz-flute/) energy years later. *Awesome but bizarre* is the thesis.
+The hook lifts its title from the *Heffalumps and Woozles* dream sequence in Winnie-the-Pooh and reuses it as a stoner vision, *my vision never clear / come puff and pass my dear*, with the persona's own pun folded into *this is my brother Doobie*. Verse three goes generational: grandma in the retirement home baking magic brownies, couch-locked Jeopardy puzzles, and *Benny Goodman never sounded this good before*, old jazz as stoner bliss four years before [*JAZZ FLUTE*](/songs/jazz-flute/). *Awesome but bizarre* sums it up.
 
-Not a cover, just Luke's lyrics with a borrowed reference for a joke. Same *Big Hug* lane as [*I'm an Idiot*](/songs/im-an-idiot/) and [*I Live in California*](/songs/i-live-in-california/): approachable post-pandemic weirdness, not MMM dread.
+Not a cover, just Luke's lyrics with a borrowed reference for a joke. Same *Big Hug* mode as [*I'm an Idiot*](/songs/im-an-idiot/) and [*I Live in California*](/songs/i-live-in-california/): approachable post-pandemic weirdness, not MMM dread.
 
 ---

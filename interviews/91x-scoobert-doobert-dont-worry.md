@@ -1,8 +1,6 @@
 ---
 title: '91X FM: Local Break'
-description: >-
-  Full circle from Surfdog mailer room (91X on in the background) to Local Break; Encinitas origin story; led to egoFM
-  Munich.
+description: 'Local Break feature: starting out in Encinitas, and the Surfdog mailer room with 91X on in the background.'
 subject: Scoobert Doobert
 outlet: '91X FM: Local Break'
 publisher: 91X FM
@@ -17,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [91X FM: Local Break](https://www.91x.com/music/scoobert-doobert-dont-worry/)
 
-Full circle from Surfdog mailer room (91X on in the background) to Local Break; Encinitas origin story; led to egoFM Munich.
+Local Break feature: starting out in Encinitas, and the Surfdog mailer room with 91X on in the background.

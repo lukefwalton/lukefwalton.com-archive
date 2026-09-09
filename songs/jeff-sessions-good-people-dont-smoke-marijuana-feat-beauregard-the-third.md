@@ -24,7 +24,7 @@ Track eight on [*$WAMI$*](/albums/wami/), between *Fragments of Sappho* and [*Sm
 
 **Beauregard, The Third** is not a real collaborator. It is [Jefferson Beauregard Sessions III](https://en.wikipedia.org/wiki/Jeff_Sessions)’s full legal name, credited as a fake feature on the collage LP the way *$WAMI$* treats politics as punchline.
 
-Classic *$WAMI$* placement: Sessions satire between Sappho fragments and Babidi weed humor, all on the free Bandcamp lore dump Luke cut between [*Finding $D*](/albums/finding-d-remastered/) and [*Dragon Ball $d*](/albums/dragon-ball-d/).
+Classic *$WAMI$* placement: Sessions satire between Sappho fragments and Babidi weed humor, all on the free Bandcamp collage LP Luke cut between [*Finding $D*](/albums/finding-d-remastered/) and [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
 See [Catalog](/catalog/) · [*$WAMI$* album notes](/albums/wami/)
 

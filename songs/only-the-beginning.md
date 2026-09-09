@@ -74,7 +74,7 @@ draft: false
 
 ---
 
-Track ten on [*I*](/albums/i/), Japan and California in one promise song. It opens on a Tokyo morning, the Toyosu Fish Market sushi line and the Rainbow Bridge, *pretend like this where I've always lived*: the [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) longing finally arrived on the LP that was partly recorded on Shinkansen. It closes at home, a San Diego sunset and a green flash that *matches your iris*, [*Moonlight Beach*](/albums/moonlight-beach/) by name without naming it.
+Track ten on [*I*](/albums/i/), Japan and California in one promise song. It opens on a Tokyo morning, the Toyosu Fish Market sushi line and the Rainbow Bridge, *pretend like this where I've always lived*: the Japan that [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) (2023) wished for, on an LP partly recorded on the Shinkansen. It closes at home, a San Diego sunset and a green flash that *matches your iris*, [*Moonlight Beach*](/albums/moonlight-beach/) by name without naming it.
 
 The chorus is future tense without a guarantee: *stick around*, *a little house, a little happy family*. It echoes the plant-parent rehearsal of [*Getting Easier*](/songs/getting-easier/) on [*MÖB*](/albums/mob/), but here it's invitation, not anxiety. On an album about motion, this is the pause that says the life you're building isn't finished, and that's the good news.
 

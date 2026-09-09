@@ -19,7 +19,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Live version of [*My Friend, Scoobert*](/songs/my-friend-scoobert/) on [*Live from the Void*](/albums/live-from-the-void/), eight live recordings (2021 release group; streaming dated 2022). Origin chain includes FEiN [*Friend*](/songs/friend/).
+Live version of [*My Friend, Scoobert*](/songs/my-friend-scoobert/) on [*Live from the Void*](/albums/live-from-the-void/), eight live recordings (2021 release group; streaming dated 2022). FEiN rerecorded the song as [*Friend*](/songs/friend/) (2018).
 
 Luke Francis Walton wrote, performed, and mixed the studio original. No separate lyric annotation on this page.
 

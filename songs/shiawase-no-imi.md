@@ -81,10 +81,10 @@ draft: false
 
 ---
 
-Track four on [*KŌAN*](/albums/koan/), **KŌAN A** (March 2022). Luke solo. Bandcamp notes call this **Scoobert's first song written in Japanese**, and the title means roughly **the meaning of happiness** (幸せ *shiawase*, happiness; 意味 *imi*, meaning). Same Japan/Zen season as [無門関](/songs/mumonkan/) and [*What Makes You You*](/songs/what-makes-you-you/); longer arc in [The Bent Stick](/writing/the-bent-stick/).
+Track four on [*KŌAN*](/albums/koan/), **KŌAN A** (March 2022). Luke solo. Bandcamp notes call this **Scoobert's first song written in Japanese**, and the title means roughly **the meaning of happiness** (幸せ *shiawase*, happiness; 意味 *imi*, meaning). Same Japan/Zen season as [無門関](/songs/mumonkan/) and [*What Makes You You*](/songs/what-makes-you-you/); more in [The Bent Stick](/writing/the-bent-stick/).
 
 The verses move from a morning of ignoring the phone to picking it up and, without knowing why, finding a familiar voice on the other end. It tells you the same thing twice (*今何かを変える時*, now is the time to change something) in wellness-poster Japanese, the [*Don't Worry*](/songs/dont-worry/) register of commands that don't land, except here it's sung sincerely. Verse two names the stuck place between ordinary, black-and-white days and the fear that keeps you in them.
 
-The bilingual hook is the whole offer: *come to another world with me, a place where you can finally be happy. 幸せの意味, 見せるよ, I'll show ya.* The promise ends on *I'll show ya* twice, an offer, never a definition: happiness defined by whoever shows it to you. Middle of the LP hinge between [*Think About It*](/songs/think-about-it/) and [*Keep Calm Atomic Bomb*](/songs/keep-calm-atomic-bomb/) ([*KŌAN* essay](/albums/koan/)), and after [*Boardwalk*](/songs/boardwalk/)'s idle beach, *another world* as movement inward rather than along the sand.
+The bilingual hook is the whole offer: *come to another world with me, a place where you can finally be happy. 幸せの意味, 見せるよ, I'll show ya.* The promise ends on *I'll show ya* twice, an offer, never a definition: happiness defined by whoever shows it to you. Between [*Think About It*](/songs/think-about-it/) and [*Keep Calm Atomic Bomb*](/songs/keep-calm-atomic-bomb/) on *KŌAN A* ([*KŌAN* essay](/albums/koan/)), and after [*Boardwalk*](/songs/boardwalk/)'s idle beach, *another world* is movement inward rather than along the sand.
 
 ---

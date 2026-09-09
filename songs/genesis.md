@@ -87,7 +87,7 @@ draft: false
 
 Track four and closer on [*413*](/albums/413/) (**August 2, 2013**), after [*Tokyo*](/songs/tokyo/), [*Can't Fall*](/songs/cant-fall/), and [*Unwhole*](/songs/unwhole/).
 
-Straight 2013 soulmate pop; the song mostly means what it says. *We were built from the ground up piece by piece*; *half a soul we must find / a similar mind*; *there is no explanation / we found our destination*. That *half a soul* image is older than it lets on: it's [Aristophanes' myth in Plato's *Symposium*](https://www.gutenberg.org/files/1600/1600-h/1600-h.htm), where people were once whole, got split in two, and spend their lives looking for the other half. Where the middle of the EP fractures into refusal and obsession, *Genesis* closes on the simplest version of love this band would record, earnest Thornton pop before FEiN's satirical mask.
+Straight 2013 soulmate pop; the song mostly means what it says. *We were built from the ground up piece by piece*; *half a soul we must find / a similar mind*; *there is no explanation / we found our destination*. That *half a soul* image is older than it lets on: it's [Aristophanes' myth in Plato's *Symposium*](https://www.gutenberg.org/files/1600/1600-h/1600-h.htm), where people were once whole, got split in two, and spend their lives looking for the other half. Where the middle of the EP fractures into refusal and obsession, *Genesis* closes on the simplest version of love here, earnest Thornton pop.
 
 On *413*: [*Tokyo*](/songs/tokyo/) (escape + Kokoro) → [*Can't Fall*](/songs/cant-fall/) (refusal) → [*Unwhole*](/songs/unwhole/) (obsession) → *Genesis* (destined repair).
 

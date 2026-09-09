@@ -19,7 +19,7 @@ officialVideo: "https://www.youtube.com/watch?v=oNmOB8WVc_U"
 press:
   - outlet: "Smells Like New Talent: Worth A Listen (Week 40)"
     url: "https://www.instagram.com/p/CFq7gN8HNmO/"
-    desc: "October 2020 Instagram feature: Encinitas origin bio, multi-instrumentalist arc, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
+    desc: "October 2020 Instagram feature: Encinitas origin bio, multi-instrumentalist background, Scoobert Doobert name story; Listen on Spotify card for Moving to Canada."
   - outlet: "Backseat Mafia: Moving to Canada video premiere"
     url: "https://www.backseatmafia.com/premiere-scoobert-doobert-releases-new-video-for-moving-to-canada/"
   - outlet: "Moving to Canada (official MV)"
@@ -101,6 +101,6 @@ Standalone single (**September 8, 2020**), not on [*Masks and Monsters*](/albums
 
 So Canada becomes a maple-syrup wonderland, the *land of milk and honey* where cold is a feature not a bug and *I could take a winter with you*. The portal is a wardrobe (*oh, Narnia*), the panic is real (*people turning funny / got a little running to do*), and the relocation plays as romance. Verse two is tourist French, *parlez-vous Français*, *je t'aime*, Montreal is *pretty pretty nice*, freedom treated as geography rather than abstraction. The punchline is the faux-Canadian *eh? / eh eh*.
 
-Then one line undercuts the whole whistle-along: *am I happy to be hiding?* Escape or cowardice, the song won't say. Same 2020 political exhaustion as [*When It's Over*](/songs/when-its-over/) and [*Why, How, Yeah, Yeah, Yeah*](/songs/why-how-yeah-yeah-yeah/), but pop-funk instead of lockdown blues, and an exhale cousin to [*2020 Is Over*](/songs/2020-is-over/). What comes next on the timeline is recovery on [*Little Hug*](/albums/little-hug/).
+Then one line undercuts the whole whistle-along: *am I happy to be hiding?* Escape or cowardice, the song won't say. Same 2020 political exhaustion as [*When It's Over*](/songs/when-its-over/) and [*Why, How, Yeah, Yeah, Yeah*](/songs/why-how-yeah-yeah-yeah/), but pop-funk instead of lockdown blues, and an exhale cousin to [*2020 Is Over*](/songs/2020-is-over/). Next on the timeline: [*Little Hug*](/albums/little-hug/).
 
 ---

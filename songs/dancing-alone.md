@@ -87,9 +87,9 @@ draft: false
 
 ---
 
-Standalone single (**July 12, 2024** · Beformer), not on [*I*](/albums/i/) or any LP tracklist. Same summer-2024 relational lane as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*CHEW ON THIS*](/songs/chew-on-this/): love measured in waiting, windows, and phones.
+Standalone single (**July 12, 2024** · Beformer), not on [*I*](/albums/i/) or any LP tracklist. Same summer-2024 subject as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*CHEW ON THIS*](/songs/chew-on-this/): love measured in waiting, windows, and phones.
 
-It's an apartment tableau, traffic flowing past, eyes scanning for your car, a homemade dinner for two that's really for one. The chorus is joy and ache at once, dancing all night long since I met ya but wanting to *pull ya through the phone*, with Kool and the Gang standing in as surrogate dance partner.
+It's an apartment tableau, traffic flowing past, eyes scanning for your car, a homemade dinner for two that's really for one. The chorus is joy and ache together, dancing all night long since I met ya but wanting to *pull ya through the phone*, with Kool and the Gang standing in as surrogate dance partner.
 
 The plea underneath the party is the whole song: *don't leave me dancing alone*, stacked at the outro until loneliness and motion become the same thing.
 

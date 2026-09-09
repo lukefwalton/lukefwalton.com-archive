@@ -1,8 +1,8 @@
 ---
 title: Rock Da Fuq Out
 description: >-
-  Strongest modern hit: *MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health
-  scare, long-term framing.
+  *MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, thinking long
+  term.
 subject: Scoobert Doobert
 outlet: Rock Da Fuq Out
 publisher: Rock Da Fuq Out
@@ -17,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview)
 
-Strongest modern hit: *MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, long-term framing.
+*MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, thinking long term.

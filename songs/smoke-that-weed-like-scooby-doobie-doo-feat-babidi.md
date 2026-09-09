@@ -21,9 +21,9 @@ draft: false
 
 ---
 
-Track nine on [*$WAMI$*](/albums/wami/), after [*Jeff Sessions (Good People Don't Smoke Marijuana)*](/songs/jeff-sessions-good-people-dont-smoke-marijuana-feat-beauregard-the-third/) and before [*Scoobert Snack, Pt. 2*](/songs/scoobert-snack-pt-2/). **Babidi** on featured vocals: same J MESA orbit that runs through [*I Want Yu Yu*](/songs/i-want-yu-yu-feat-babidi/) and later [*Dragon Ball $d*](/albums/dragon-ball-d/).
+Track nine on [*$WAMI$*](/albums/wami/), after [*Jeff Sessions (Good People Don't Smoke Marijuana)*](/songs/jeff-sessions-good-people-dont-smoke-marijuana-feat-beauregard-the-third/) and before [*Scoobert Snack, Pt. 2*](/songs/scoobert-snack-pt-2/). **Babidi** (J MESA) on featured vocals, as on [*I Want Yu Yu*](/songs/i-want-yu-yu-feat-babidi/) and later [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
-Bandcamp’s twenty-track LP is a lore dump, not a clean second album; this cut sits between political satire and snack-era sequels.
+On Bandcamp’s twenty-track LP, this cut sits between political satire and snack-era sequels.
 
 See [Catalog](/catalog/) · [With J MESA](/with/j-mesa/) · [*$WAMI$* album notes](/albums/wami/)
 

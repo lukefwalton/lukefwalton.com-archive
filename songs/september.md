@@ -28,7 +28,7 @@ draft: false
 
 ---
 
-On [*KŌAN*](/albums/koan/), Scoobert’s cover of **Earth, Wind & Fire’s** **“September.”** The album is a four-part alt-pop koan (Zen paradox, Japanese songwriting, spatial sound, post-pandemic happiness); covers like this and [*Wouldn't It Be Nice*](/songs/wouldn-t-it-be-nice/) sit beside originals such as [*Think About It*](/songs/think-about-it/) and [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) without breaking the cycle’s mood.
+On [*KŌAN*](/albums/koan/), Scoobert’s cover of **Earth, Wind & Fire’s** **“September.”** The album is a four-part alt-pop koan (Zen paradox, Japanese songwriting, spatial sound, post-pandemic happiness); covers like this and [*Wouldn't It Be Nice*](/songs/wouldn-t-it-be-nice/) share the tracklist with originals such as [*Think About It*](/songs/think-about-it/) and [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/).
 
 DistroKid cover. No lyrics published here.
 

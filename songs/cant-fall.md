@@ -121,9 +121,9 @@ lyrics: |
 draft: false
 ---
 
-Track two on [*413*](/albums/413/) (**August 2, 2013**), between [*Tokyo*](/songs/tokyo/) and [*Unwhole*](/songs/unwhole/). Straight wounded boy-band heartbreak: Walton and Woodward harmonizing over *I can't fall in love with you*, stacked until it fractures, with the verdict already in (*I've never known a love that didn't shatter when the times got tough*). The satirical brain that later powers [FEiN](/albums/little-homes-fein/) isn't online yet. This is the template, sincerely played.
+Track two on [*413*](/albums/413/) (**August 2, 2013**), between [*Tokyo*](/songs/tokyo/) and [*Unwhole*](/songs/unwhole/). Straight wounded boy-band heartbreak: Walton and Woodward harmonizing over *I can't fall in love with you*, stacked until it fractures, with the verdict already in (*I've never known a love that didn't shatter when the times got tough*). Sincerely played. Walton and Woodward's later project was [FEiN](/albums/little-homes-fein/).
 
-The better story is what happened next. A song built entirely around refusing to fall in love got synced nationally in a [Pantene campaign with Zooey Deschanel](https://www.youtube.com/watch?v=8OjGDtr83kE), a can't-fall-in-love anthem repurposed to sell shampoo. The band's [PR Newswire bio](https://www.prnewswire.com/news-releases/becky-g-shawn-mendes-bea-miller-and-r5-to-perform-at-free-rock-the-red-kettle-concert-at-la-live-in-downtown-los-angeles-on-december-6-benefiting-the-salvation-army-282454791.html) names the placement. It's the first Exist Elsewhere track with a national footprint.
+A song built entirely around refusing to fall in love got synced nationally in a [Pantene campaign with Zooey Deschanel](https://www.youtube.com/watch?v=8OjGDtr83kE), a can't-fall-in-love anthem repurposed to sell shampoo. The band's [PR Newswire bio](https://www.prnewswire.com/news-releases/becky-g-shawn-mendes-bea-miller-and-r5-to-perform-at-free-rock-the-red-kettle-concert-at-la-live-in-downtown-los-angeles-on-december-6-benefiting-the-salvation-army-282454791.html) names the placement, Exist Elsewhere's first national sync.
 
 See: [413 EP](/albums/413/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
 
