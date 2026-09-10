@@ -25,6 +25,95 @@ themes: ["FEiN", "feature", "Mike Funk", "disco"]
 
 isrc: TCACQ1735079
 isrcSource: soundexchange
+
+lyrics: |
+  Back to the night
+  Can't help but sweat on it
+  The sun won't set on me
+  I drop my shades
+  Hey, foxy bitch, I'm it
+  Girl, can you dig the heat?
+
+  40 years ago, maybe
+  But nowadays he looks crazy
+  We'll pin his hips back and oh-oh-oh-oh
+  Now it creeps out the ladies
+  Smack talkin' right out the eighties
+  Oh no, he's coming again
+
+  I got the disco in me!
+  He's stuck in the seventies
+  You know it's all that I need!
+  Nothing else makes him happy
+  I got the disco in me!
+  He's got nothing to live for
+  I do whatever I please!
+  It's a serious problem
+  I got the disco in me!
+  Disco, the disco, I got the disco
+  Disco, the disco, I got the disco
+
+  I'm out of sight
+  Straight down the night, on it
+  Can't keep it on with me
+  Just whippin' I'ma cool it
+  Shagadelic babes on it
+  Come cool off with me
+
+  40 years ago, maybe
+  But nowadays he looks crazy
+  We'll pin his hips back and oh-oh-oh-oh
+  Now it creeps out the ladies
+  Smack talkin' right out the eighties
+  Oh no, he's coming again
+
+  I got the disco in me!
+  He's stuck in the seventies
+  You know it's all that I need!
+  Nothing else makes him happy
+  I got the disco in me!
+  He's got nothing to live for
+  I do whatever I please!
+  It's a serious problem
+  I got the disco in me!
+  Disco, the disco, I got the disco
+  Disco, the disco, I got the disco
+
+  Ooh, yeah
+  Ooh, yeah
+  Ooh, yeah
+  Ooh, yeah
+
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+  Ha, bye-ya-ba
+
+  I got the disco in me!
+  He's stuck in the seventies
+  You know it's all that I need!
+  Nothing else makes him happy
+  I got the disco in me!
+  He's got nothing to live for
+  I do whatever I please!
+  It's a serious problem
+  I got the disco in me!
+  Disco, the disco, I got the disco
+  Disco, the disco, I got the disco in me
+  Disco, the disco, I got the disco
+  Disco, the disco, I got the disco in me
+
 draft: false
 
 ---

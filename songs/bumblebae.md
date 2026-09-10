@@ -1,7 +1,7 @@
 ---
 title: "Bumblebae"
 
-meaning: "Kajax / Sanguine Penguin × Scoobert Doobert: disco-funk collab single (Apr 2022)."
+meaning: "Originally billed as KAJAX × Scoobert Doobert: Kevin Tubbs's former artist name, now Sanguine Penguin. Disco-funk collab (Apr 2022)."
 
 year: 2022
 releaseDate: 2022-04-15
@@ -26,7 +26,7 @@ draft: false
 
 ---
 
-**Kevin Tubbs** records as **Sanguine Penguin**, also **K Tubbles** and **Kajax** ([@ktubbles](https://www.instagram.com/ktubbles/) · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 15, 2022** on Spotify (label **Sanguine Penguin**; SoundExchange credit **Kajax × Scoobert Doobert**). Japan-facing international collab in the same cluster as [*do what i wanna*](/songs/do-what-i-wanna/) and [*wowowow*](/songs/wowowow/). Luke Francis Walton on the Scoobert side.
+**Kevin Tubbs** now records as **Sanguine Penguin** ([Kevin Tubbs](/with/kevin-tubbs/) · [@ktubbles](https://www.instagram.com/ktubbles/)). *Bumblebae* originally dropped as **KAJAX × Scoobert Doobert**: that was Tubbs's **former artist name**, same person, not a second collaborator. SoundExchange still lists **Kajax × Scoobert Doobert**; Spotify and the label credit **Sanguine Penguin**. **April 15, 2022**. Japan-facing collab in the same cluster as [*do what i wanna*](/songs/do-what-i-wanna/) and [*wowowow*](/songs/wowowow/). Luke Francis Walton on the Scoobert side.
 
 **Release week:** [@ktubbles posted a bass promo](https://www.instagram.com/tv/CcWhV8aF33u/) (April 14, 2022 · Portland) ahead of the Spotify drop; [@beformer confirmed official OFF POP](https://www.instagram.com/p/CcYn62gPhBP/) the next day (next to [Great Good Fine Ok](/with/great-good-fine-ok/)). See [Catalog: official playlists](/catalog/#spotify-editorial).
 
