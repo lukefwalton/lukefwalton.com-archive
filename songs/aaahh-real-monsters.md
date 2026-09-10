@@ -17,7 +17,7 @@ instrumental: true
 
 ---
 
-Closer on [*Finding $D*](/albums/finding-d-remastered/), same recording as *Next Time on Dragon Ball SD* on [*$WAMI$*](/albums/wami/) and the DBZ trailer on [*Dragon Ball $d*](/albums/dragon-ball-d/).
+Closer on [*Finding $D*](/albums/finding-d-remastered/), same recording as the Bandcamp *$WAMI$* closer *Next Time on Dragon Ball SD* ([album notes](/albums/wami/)). Spotify *$WAMI$* closes on the Nick Belcher vocal [*Next Time on Dragon Ball Sd*](/songs/next-time-on-dragon-ball-sd-feat-nick-belcher/) instead. Same DBZ-trailer idea as the later [*Dragon Ball $d*](/albums/dragon-ball-d/) hip-hopera.
 
 Luke Francis Walton uses instrumentals as interludes between vocal collage tracks.
 

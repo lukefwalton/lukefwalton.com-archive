@@ -11,7 +11,7 @@ artist: "Luke Walton"
 amazon: "https://www.amazon.com/Just-Friend-Luke-Walton/dp/B000XXWXF4"
 
 tracks:
-  - { title: "Prelude", song: prelude }
+  - { title: "Prelude", instrumental: true, song: prelude }
   - { title: "One Take", song: one-take }
   - { title: "Just A Friend", song: just-a-friend }
   - { title: "Preschool", song: preschool }

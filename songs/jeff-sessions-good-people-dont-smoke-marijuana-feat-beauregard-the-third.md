@@ -20,7 +20,7 @@ isrcSource: soundexchange
 draft: false
 ---
 
-Track eight on [*$WAMI$*](/albums/wami/), between *Fragments of Sappho* and [*Smoke That Weed Like Scooby Doobie Doo*](/songs/smoke-that-weed-like-scooby-doobie-doo-feat-babidi/). The title quotes [**Jeff Sessions**](https://en.wikipedia.org/wiki/Jeff_Sessions)’ infamous **2017** line that “good people don’t smoke marijuana.” The Attorney General who, as he might say, really stuck in Luke’s craw.
+Track eight on the [Bandcamp *$WAMI$ (LP)*](/albums/wami/), between [*Fragments of Sappho*](/songs/fragments-of-sappho/) and [*Smoke That Weed Like Scooby Doobie Doo*](/songs/smoke-that-weed-like-scooby-doobie-doo-feat-babidi/). The title quotes [**Jeff Sessions**](https://en.wikipedia.org/wiki/Jeff_Sessions)’ infamous **2017** line that “good people don’t smoke marijuana.” The Attorney General who, as he might say, really stuck in Luke’s craw.
 
 **Beauregard, The Third** is not a real collaborator. It is [Jefferson Beauregard Sessions III](https://en.wikipedia.org/wiki/Jeff_Sessions)’s full legal name, credited as a fake feature on the collage LP the way *$WAMI$* treats politics as punchline.
 

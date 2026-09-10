@@ -68,6 +68,6 @@ The bridge is the earnest center, breathe in, breathe out, *we can make it if we
 
 The song's named instrument is on the recording: **Nicole McCabe** on flute. The track actually has the jazz flute it imagines digging out of the crates.
 
-Also on the chapter EP: [*JAZZ FLUTE (MOAR FLUTE)*](/songs/jazz-flute-moar-flute/), a flute-forward instrumental of the same song, plus *JAZZ FLUTE (Instrumental)*.
+Also on the chapter EP: [*JAZZ FLUTE (MOAR FLUTE)*](/songs/jazz-flute-moar-flute/), a flute-forward **instrumental** of the same song, plus [*JAZZ FLUTE (Instrumental)*](/songs/jazz-flute-instrumental/). Lyrics stay on this page.
 
 ---

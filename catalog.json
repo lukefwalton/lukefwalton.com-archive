@@ -1069,6 +1069,7 @@
       "tracks": [
         {
           "title": "Prelude",
+          "instrumental": true,
           "song": "prelude"
         },
         {
@@ -2637,7 +2638,9 @@
           "song": "phone-plan"
         },
         {
-          "title": "Vegeta Is Bulma's Bad Boi"
+          "title": "Vegeta Is Bulma's Bad Boi",
+          "instrumental": true,
+          "song": "vegeta-is-bulmas-bad-boi"
         },
         {
           "title": "Friends",
@@ -2653,7 +2656,8 @@
           "song": "i-want-yu-yu-feat-babidi"
         },
         {
-          "title": "Fragments of Sappho"
+          "title": "Fragments of Sappho",
+          "song": "fragments-of-sappho"
         },
         {
           "title": "Jeff Sessions (Good People Don't Smoke Marijuana)",
@@ -2666,10 +2670,12 @@
         },
         {
           "title": "Scoobert Snack, Pt. 2",
+          "instrumental": true,
           "song": "scoobert-snack-pt-2"
         },
         {
-          "title": "Spice Up the Bedroom With Spirit Cuffs"
+          "title": "Spice Up the Bedroom With Spirit Cuffs",
+          "song": "spice-up-the-bedroom-with-spirit-cuffs"
         },
         {
           "title": "Adonde Eres",
@@ -2685,7 +2691,8 @@
           "song": "shaggy-connections"
         },
         {
-          "title": "I Can Show You A Whole New World (on a Magic Carpet Ride)"
+          "title": "I Can Show You A Whole New World (on a Magic Carpet Ride)",
+          "song": "i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride"
         },
         {
           "title": "Mother of Exile",
@@ -30849,6 +30856,7 @@
       ],
       "isrc": "QZHN72357403",
       "isrcSource": "soundexchange",
+      "lyrics": "Faded I'm falling through the couch\nSeeing the stars through the clouds\nWatching the sky turn inside out\nFaded I'm falling through the couch\n\nFeet up\nI'm feeling it\nSeeing sound and down with it\nChemicals balancing\nI'm coming back around again\n\nFeet up\nI'm feeling it\nI should check what time it is\nWhat time is it?\n\nOoo\nThree o' clock chilling\nOoo\nThree o' clock chilling\n\nMusic is floating through the house\nWatching the notes dance up and down\nSo many colors that I think I'm losing count\nFaded I'm falling through the couch\n\nFeet up\nI'm feeling it\nSeeing sound and down with it\nChemicals balancing\nI'm coming back around again\n\nFeet up\nI'm feeling it\nI should check what time it is\nWhat time is it?\n\nOoo\nThree o' clock chilling\nOoo\nThree o' clock chilling\n\nFeet up\nI'm feeling it\nSeeing sound and down with it\nChemicals balancing\nI'm coming back around again\n\nFeet up\nI'm feeling it\nI should check what time it is\nWhat time is it?\n",
       "draft": false
     }
   },
@@ -33655,16 +33663,18 @@
     "source": "src/content/songs/cuckoos-nest.md",
     "metadata": {
       "title": "Cuckoo's Nest",
-      "meaning": "2018 standalone interlude: title nods to One Flew Over the Cuckoo's Nest; pre-$WAMI$ scatter.",
+      "meaning": "2018 instrumental interlude (~1:01): title nods to One Flew Over the Cuckoo's Nest; pre-$WAMI$ scatter.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "credits": "Written, performed, and mixed by Luke Francis Walton.",
       "themes": [
         "2018",
         "interlude",
-        "pre-WAMI"
+        "pre-WAMI",
+        "instrumental"
       ],
       "isrc": "QZDA71859958",
       "isrcSource": "soundexchange",
@@ -34966,9 +34976,10 @@
     "source": "src/content/songs/essence-of-you.md",
     "metadata": {
       "title": "Essence of You",
-      "meaning": "2018 instrumental interlude (~1:12): texture-and-title drop in the pre-$WAMI$ scatter, not on an LP tracklist.",
+      "meaning": "2018 instrumental interlude (~1:12): on the Spotify $WAMI$ album, not on the Bandcamp LP.",
       "year": 2018,
-      "releaseType": "single",
+      "release": "$WAMI$",
+      "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "instrumental": true,
@@ -34977,7 +34988,7 @@
       "themes": [
         "2018",
         "instrumental",
-        "pre-WAMI"
+        "WAMI"
       ],
       "isrc": "USLZJ1826950",
       "isrcSource": "soundexchange",
@@ -35334,6 +35345,36 @@
       ],
       "isrc": "QM24S1838930",
       "isrcSource": "spotify",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "fragments-of-sappho",
+    "title": "Fragments of Sappho",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/fragments-of-sappho/",
+    "canonicalUrl": "https://lukefwalton.com/songs/fragments-of-sappho/",
+    "archive": {
+      "markdown": "songs/fragments-of-sappho.md",
+      "html": "songs/fragments-of-sappho.html"
+    },
+    "source": "src/content/songs/fragments-of-sappho.md",
+    "metadata": {
+      "title": "Fragments of Sappho",
+      "meaning": "Bandcamp-only $WAMI$ interlude (~1:12): Sappho-title collage bed between I Want Yu Yu and the Sessions satire, not on the Spotify album.",
+      "year": 2018,
+      "release": "$WAMI$",
+      "releaseType": "album",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
+      "themes": [
+        "WAMI",
+        "2018",
+        "Sappho",
+        "Bandcamp"
+      ],
       "draft": false
     }
   },
@@ -36468,7 +36509,7 @@
     "source": "src/content/songs/ho-ho-ho-ozempic.md",
     "metadata": {
       "title": "Ho Ho Ho (Ozempic)",
-      "meaning": "Holiday meme single: Ozempic Christmas joke on indiemono comp, outside the Doobert Christmas EP.",
+      "meaning": "Holiday meme single: Ozempic Christmas joke on indiemono compilation, outside the Doobert Christmas EP.",
       "year": 2025,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
@@ -36482,6 +36523,7 @@
       ],
       "isrc": "QMFMF2569384",
       "isrcSource": "soundexchange",
+      "lyrics": "Santa's shipping all your presents Amazon Prime\nGot a drone in your chimney, and he's working overtime\nBezos want a cookie and a bottle of wine\nHe laughing up in Italy with Santa and the missus\nHo, ho, ho, merrily\nAm I the only one that misses\nWhat we lost to time?\n\nRudolph got replaced by AI\nThe snow never falls at the North Pole no more\nAnd Santa Claus looking real skinny\nHe used to be jolly but\nHo ho ho Ozempic\n\nRudolph got replaced by AI\nThe sleigh bells ringing on your iPhone 30\nAnd Mom and Dad looking real angry\nThey used to be happy but\nHo ho ho inflation\n\nMerry Christmas\nMerry Christmas to all\nAnd to all a good night\n\nDancer Dasher Prancer Vixen Comet Cupid Donner Blitzen\nAll forgot that they could fly\nMany moons ago\nPacking tape and plastic molding\nPaper bag and cardboard folding\nPack and ship deliver it to all the boys and girls\n\nThink of all the equity\nThe value in society\nThe smile in the logo from A over to Z\nAmazon the rainforest\nOh think of all we could harvest\nThe acres of good cardboard as far I could see\nI need new batteries\nThe lithium is valuable for a\nHap-hap-happy Christmas\n\nMerry Christmas to all\nAnd to all a good night\n\nRudolph got replaced by AI\nThe snow never falls at the North Pole no more\nAnd Santa Claus looking real skinny\nHe used to be jolly but\nHo ho ho Ozempic\n\nRudolph got replaced by AI\nThe sleigh bells ringing on your iPhone 30\nAnd Mom and Dad looking real angry\nThey used to be happy but\nHo ho ho inflation\n\nSanta's shipping all your presents Amazon Prime\nGot a drone in your chimney, and he's working overtime\nBezos want a cookie and a bottle of wine\nHe laughing up in Italy with Santa and the missus\nHo, ho, ho, merrily\nHo, ho, ho, caroling\nHo, ho, ho, singing along\nTo songs\nAbout Merry Christmas\n",
       "draft": false
     }
   },
@@ -36673,6 +36715,35 @@
       "isrc": "QZK6P2060460",
       "isrcSource": "soundexchange",
       "lyrics": "The agoraphobia\nIs setting in\nDon't wanna go back on the outside\n\nThat Stockholm Syndrome\nAnd now I only love my\nHome\nI only wanna make more sourdough loaves\n\nAnd then all of the fishes in the sea\nThey wanna be free\nBut not me\nSinging\nAll of the people on the beach\nSo careless and free\nBut not me\n\nI am a slave to the yeast\nHomebrewing is taking over me\nLately lately\n\nSay\nLately leavened bread is all I eat\nA slave to the yeast\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride",
+    "title": "I Can Show You A Whole New World (on a Magic Carpet Ride)",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride/",
+    "canonicalUrl": "https://lukefwalton.com/songs/i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride/",
+    "archive": {
+      "markdown": "songs/i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride.md",
+      "html": "songs/i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride.html"
+    },
+    "source": "src/content/songs/i-can-show-you-a-whole-new-world-on-a-magic-carpet-ride.md",
+    "metadata": {
+      "title": "I Can Show You A Whole New World (on a Magic Carpet Ride)",
+      "meaning": "Bandcamp-only $WAMI$ collage cut: Aladdin-title joke between Shaggy Connections and Mother of Exile, not on the Spotify album.",
+      "year": 2018,
+      "release": "$WAMI$",
+      "releaseType": "album",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
+      "themes": [
+        "WAMI",
+        "2018",
+        "Bandcamp"
+      ],
       "draft": false
     }
   },
@@ -37652,12 +37723,13 @@
     "source": "src/content/songs/jazz-flute-moar-flute.md",
     "metadata": {
       "title": "JAZZ FLUTE - MOAR FLUTE",
-      "meaning": "JAZZ FLUTE with the flute up and the rest pulled back: more flute, same private island.",
+      "meaning": "Flute-forward instrumental of JAZZ FLUTE: more flute, beat pulled back, same private island.",
       "year": 2025,
       "release": "US",
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "credits": "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe.",
       "spotify": "https://open.spotify.com/track/78vLnl5usIVFuiM0quVTXG",
       "themes": [
@@ -39685,11 +39757,12 @@
     "source": "src/content/songs/my-scoobert-snack.md",
     "metadata": {
       "title": "My Scoobert Snack",
-      "meaning": "The original Scoobert Snack: 2018 standalone single that named the joke before WAMI dropped the sequel into the collage.",
+      "meaning": "The original Scoobert Snack: instrumental cartoon-homage single, Finding $D track two, named the joke before WAMI dropped the sequel.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "credits": "Written, performed, and mixed by Luke Francis Walton.",
       "spotify": "https://open.spotify.com/track/5dmIKN6Opu0Ma96OexYYPs",
       "officialVideo": "https://www.youtube.com/watch?v=79L5CdTl4yo",
@@ -39697,7 +39770,8 @@
         "WAMI",
         "2018",
         "pre-WAMI",
-        "snack"
+        "snack",
+        "instrumental"
       ],
       "isrc": "TCADN1849862",
       "isrcSource": "soundexchange",
@@ -39893,11 +39967,12 @@
     "source": "src/content/songs/next-time-on-dragon-ball-sd-feat-nick-belcher.md",
     "metadata": {
       "title": "Next Time on Dragon Ball Sd (feat. Nick Belcher)",
-      "meaning": "Vocal variant of the DBZ SD trailer: Nick Belcher feature; related to the Aaahh!!! Real Monsters instrumental.",
+      "meaning": "Spotify $WAMI$ closer: Nick Belcher screaming over the DBZ SD trailer. No lyrics. Bandcamp closer is the Aaahh!!! Real Monsters instrumental.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert · Nick Belcher",
       "artistId": "#scoobert",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Featured vocal: Nick Belcher (screaming).",
       "spotify": "https://open.spotify.com/track/5I0sANWwQy5ug3ksuZLCn5",
       "themes": [
         "Dragon Ball",
@@ -40116,16 +40191,18 @@
     "source": "src/content/songs/ogilvie-maurice-hedgehog.md",
     "metadata": {
       "title": "Ogilvie Maurice Hedgehog",
-      "meaning": "2018 standalone interlude: Sonic-the-Hedgehog pun name as a pre-$WAMI$ one-minute cut.",
+      "meaning": "2018 instrumental interlude (~1:14): Sonic-the-Hedgehog pun name as a pre-$WAMI$ one-minute cut.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "credits": "Written, performed, and mixed by Luke Francis Walton.",
       "themes": [
         "2018",
         "meme",
-        "pre-WAMI"
+        "pre-WAMI",
+        "instrumental"
       ],
       "isrc": "QZDA71857539",
       "isrcSource": "soundexchange",
@@ -40151,6 +40228,9 @@
       "releaseType": "single",
       "artist": "Joshoo × Scoobert Doobert",
       "spotify": "https://open.spotify.com/track/1k00JzeCSZzEtzHf7cvDzF",
+      "coWriters": [
+        "Josh Shpak"
+      ],
       "themes": [
         "Joshoo",
         "collaboration",
@@ -40158,6 +40238,7 @@
       ],
       "isrc": "USDA12302851",
       "isrcSource": "spotify",
+      "lyrics": "It's ok to not be ok\nEverything is ok\nEverything's ok\n(Ok ok ok)\nEverything is ok\n(Ok ok ok)\nEverything's ok\n\nI'm like a boat without a motor\nI just keep floating on\nYeah no one has died\nFrom the feeling inside\nMake you think you're going overboard\n\nCan't even swim\nBut my raft is still holdin'\nI see your knees in the water\nYou're sending a message in a bottle saying\nSaying saying\n\nIt's ok to not be ok\nEverything is ok\nIt's ok to not be ok\nOk\n(Ok ok ok)\nEverything is ok\n(Ok ok ok)\nEverything's ok\n\nI'm slipping\nYeah I'm falling way behind now\nShould've set a timer\nBut I wake up tired\nPut pressure on my future self\nBut I doubt that lazy bitch will ever change\nLike, the future never came\nLike, my daily is the same\nI tried to medicate my brain right\nMeditation\nI never find the time\nBut I hope that\nYeah I hope that\nOh I hope that I will tomorrow\n\nOh yeah yeah yeah\n\nNothing is ok\nEverything is ok\nIt's ok to not be ok\nIt's ok\n(Ok ok ok)\nEverything is ok\n(Ok ok ok)\nEverything's ok\n",
       "draft": false
     }
   },
@@ -41177,6 +41258,7 @@
       "release": "Just A Friend",
       "releaseType": "EP",
       "artist": "Luke Walton",
+      "instrumental": true,
       "credits": "Music by Luke Walton. Instrumental.",
       "themes": [
         "Luke Walton",
@@ -41959,15 +42041,17 @@
     "source": "src/content/songs/sadder-than-i-should-be-right-now.md",
     "metadata": {
       "title": "Sadder Than I Should Be Right Now",
-      "meaning": "2018 standalone single: emotional title in the pre-$WAMI$ scatter run (~2:17).",
+      "meaning": "2018 instrumental standalone (~2:17): emotional title in the pre-$WAMI$ scatter, no vocal annotation.",
       "year": 2018,
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "credits": "Written, performed, and mixed by Luke Francis Walton.",
       "themes": [
         "2018",
-        "pre-WAMI"
+        "pre-WAMI",
+        "instrumental"
       ],
       "isrc": "QZDA71860692",
       "isrcSource": "soundexchange",
@@ -42065,18 +42149,20 @@
     "source": "src/content/songs/scoobert-snack-pt-2.md",
     "metadata": {
       "title": "Scoobert Snack, Pt. 2",
-      "meaning": "WAMI recurring character: sequel to My Scoobert Snack inside the 2018 collage.",
+      "meaning": "WAMI instrumental sequel to the instrumental My Scoobert Snack: snack-era branding inside the 2018 collage, no vocal annotation.",
       "year": 2018,
       "release": "$WAMI$",
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "instrumental": true,
       "spotify": "https://open.spotify.com/track/5oOSajxdRaKp1ehVplp8T3",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
       "themes": [
         "WAMI",
         "2018",
-        "recurring character"
+        "recurring character",
+        "instrumental"
       ],
       "isrc": "USLZJ1826959",
       "isrcSource": "soundexchange",
@@ -42814,6 +42900,35 @@
       ],
       "isrc": "QZDA71857540",
       "isrcSource": "soundexchange",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "spice-up-the-bedroom-with-spirit-cuffs",
+    "title": "Spice Up the Bedroom With Spirit Cuffs",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/spice-up-the-bedroom-with-spirit-cuffs/",
+    "canonicalUrl": "https://lukefwalton.com/songs/spice-up-the-bedroom-with-spirit-cuffs/",
+    "archive": {
+      "markdown": "songs/spice-up-the-bedroom-with-spirit-cuffs.md",
+      "html": "songs/spice-up-the-bedroom-with-spirit-cuffs.html"
+    },
+    "source": "src/content/songs/spice-up-the-bedroom-with-spirit-cuffs.md",
+    "metadata": {
+      "title": "Spice Up the Bedroom With Spirit Cuffs",
+      "meaning": "Bandcamp-only $WAMI$ collage interlude: joke-title bed before Adonde Eres, not on the Spotify album.",
+      "year": 2018,
+      "release": "$WAMI$",
+      "releaseType": "album",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
+      "themes": [
+        "WAMI",
+        "2018",
+        "Bandcamp"
+      ],
       "draft": false
     }
   },
@@ -44011,6 +44126,40 @@
   },
   {
     "collection": "songs",
+    "slug": "vegeta-is-bulmas-bad-boi",
+    "title": "Vegeta Is Bulma's Bad Boi",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/vegeta-is-bulmas-bad-boi/",
+    "canonicalUrl": "https://lukefwalton.com/songs/vegeta-is-bulmas-bad-boi/",
+    "archive": {
+      "markdown": "songs/vegeta-is-bulmas-bad-boi.md",
+      "html": "songs/vegeta-is-bulmas-bad-boi.html"
+    },
+    "source": "src/content/songs/vegeta-is-bulmas-bad-boi.md",
+    "metadata": {
+      "title": "Vegeta Is Bulma's Bad Boi",
+      "meaning": "Bandcamp-only $WAMI$ interlude (~0:18): Louis Cole drums, DBZ domestic joke, not on the Spotify album.",
+      "year": 2018,
+      "release": "$WAMI$",
+      "releaseType": "album",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "instrumental": true,
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Louis Cole on the drum-and-bass moment.",
+      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
+      "themes": [
+        "WAMI",
+        "2018",
+        "Dragon Ball",
+        "Louis Cole",
+        "instrumental",
+        "Bandcamp"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "vegetas-lament-lord-frieza-super-saiyan",
     "title": "Vegeta's Lament / Lord Frieza / Super Saiyan",
     "type": "MusicRecording",
@@ -44773,6 +44922,9 @@
       "artist": "TOMMASO × Scoobert Doobert",
       "spotify": "https://open.spotify.com/track/0dwH3M8DZ6Xv2VKAXgwbBy",
       "apple": "https://music.apple.com/us/album/while-away-single/1617891345",
+      "coWriters": [
+        "Tommaso Veronesi"
+      ],
       "credits": "Produced by Tommaso Veronesi. Mixed by Scoobert Doobert (Luke Francis Walton). Mastered by Riley Knapp. Tommaso Veronesi: lead/background vocals, electric guitar, drums, percussion, synths, programming. Scoobert Doobert: lead/background vocals, bass. Sean Burke: acoustic guitar. Andrew Krull: pedal steel guitar.",
       "themes": [
         "Tommaso Veronesi",
@@ -44810,6 +44962,7 @@
       ],
       "isrc": "QZHN32218075",
       "isrcSource": "soundexchange",
+      "lyrics": "While away the time\nAnd catch an easy wave\nI got\nNo shame in wastin' my days with you around\n\nWhile away the time\nAnd catch an easy wave\nI got\nNo shame in wastin' my days with you around\n\nWhen the tide rolls up\nWhen our time is up\nWhen our moon is setting\nI bet I'll still be\nChilling by your side\n\nWhen our green runs out\nWhen we're coming down\nAnd our car ain't starting\nI know I'll still be\nLaughing like a child\n\nWhile away the time\nAnd catch an easy wave\nI got\nNo shame in wastin' my days with you around\n\nNow we're burnin' daylight\nLet's set off for the coast\nAnd a touch of the sun\nDippin' our toes in the ocean before we turn around\n\nDown on moonlight beach\nWith a snow cone\nCamping out the perfect spot\nGonna make a bonfire\nGetting higher\nGrab a lighter\nPull up\n\nDown in ocean beach\nWith a conga\nGonna get the circle grooving\nWe're killing\nOur time tonight\nWhilin' it away\n\nWhile away the time\nAnd catch an easy wave\nI got\nNo shame in wastin' my days with you around\n\nNow we're burnin' daylight\nLet's set off for the coast\nAnd a touch of the sun\nDippin' our toes in the ocean before we turn around\n",
       "draft": false
     }
   },

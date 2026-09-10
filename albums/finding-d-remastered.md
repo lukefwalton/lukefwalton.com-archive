@@ -52,6 +52,6 @@ draft: false
 
 The cartoon shell: Velma, Scoobert Snack, meddling kids, *Aaahh!!! Real Monsters*. [Stereofox](https://www.stereofox.com/scoobert-doobert-my-scoobert-snack/) picked up “My Scoobert Snack” in July 2017, when the first two singles both leaned on the cartoon homage. *What a Velma What a Night* also got traction on Reddit's r/listentothis as pop/funk. Underneath: DIY bedroom-pop/funk/alt-pop experimentation.
 
-**Instrumentals (no song-meaning pages):** *My Scoobert Snack* (track two), *Theme for Himalayan Salt Lamp* (track nine), and closer *Aaahh!!! Real Monsters* (track ten). Seven lyric tracks on the LP now have annotation pages. *Aaahh!!! Real Monsters* is the **same recording** as [*Next Time on Dragon Ball SD*](/albums/wami/) on [*$WAMI$*](/albums/wami/), cartoon outro on the debut, DBZ trailer on the second LP, both instrumental.
+**Instrumentals:** [*My Scoobert Snack*](/songs/my-scoobert-snack/) (track two), [*Theme for Himalayan Salt Lamp*](/songs/theme-for-himalayan-salt-lamp/) (track nine), and closer [*Aaahh!!! Real Monsters*](/songs/aaahh-real-monsters/) (track ten). Seven lyric tracks on the LP have annotation pages. *Aaahh!!! Real Monsters* is the **same recording** as Bandcamp *$WAMI$* closer [*Next Time on Dragon Ball SD*](/songs/aaahh-real-monsters/): cartoon outro on the debut, DBZ trailer on the second LP, both instrumental. Spotify *$WAMI$* closes on the Nick Belcher scream instead.
 
 What comes next is [*Swami's*](/albums/wami/): the collage LP.

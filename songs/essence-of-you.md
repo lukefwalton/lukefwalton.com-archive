@@ -1,10 +1,11 @@
 ---
 title: "Essence of You"
 
-meaning: "2018 instrumental interlude (~1:12): texture-and-title drop in the pre-$WAMI$ scatter, not on an LP tracklist."
+meaning: "2018 instrumental interlude (~1:12): on the Spotify $WAMI$ album, not on the Bandcamp LP."
 
 year: 2018
-releaseType: "single"
+release: "$WAMI$"
+releaseType: "album"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -14,7 +15,7 @@ spotify: "https://open.spotify.com/track/6x7CpNe0JUdKjLbVY5tClj"
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
 
-themes: ["2018", "instrumental", "pre-WAMI"]
+themes: ["2018", "instrumental", "WAMI"]
 
 isrc: USLZJ1826950
 isrcSource: soundexchange
@@ -22,10 +23,10 @@ draft: false
 
 ---
 
-Standalone **2018** instrumental (**~1:12**, SoundExchange). Not on an LP: it lives in the same lab-notebook scatter as [*Tincture*](/songs/tincture/), [*Lone Pine*](/songs/lone-pine/), and the other ~one-minute drops between [*Finding $D*](/albums/finding-d-remastered/) remaster activity and [*$WAMI$*](/albums/wami/).
+**Spotify *$WAMI$* only** (**~1:12**, SoundExchange): mid-album instrumental on the [18-song streaming LP](https://open.spotify.com/album/0snncczcASNqBLeu3TbH3h), not on the [Bandcamp 20-track sequence](/albums/wami/). Spotify uses this slot where Bandcamp keeps [*Fragments of Sappho*](/songs/fragments-of-sappho/). Same lab-notebook texture as [*Tincture*](/songs/tincture/) and [*Lone Pine*](/songs/lone-pine/).
 
-The title reads romantic; the cut reads interlude, short mood texture before [*$WAMI$*](/albums/wami/) lands. Instrumental; no lyrics on this page.
+The title reads romantic; the cut reads interlude. Instrumental; no lyrics on this page.
 
-See [Catalog](/catalog/#singles) · [*$WAMI$*](/albums/wami/)
+See [Catalog](/catalog/#singles) · [*$WAMI$* album notes](/albums/wami/)
 
 ---
