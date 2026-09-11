@@ -16,6 +16,15 @@ press:
   - outlet: "The Wavys: Collaboration of the Year nominee"
     url: "https://www.instagram.com/p/CgjwOjpsCcT/"
     desc: "July 28, 2022: WHOLE (CHAI × Scoobert Doobert) nominated for Collaboration of the Year; #wavyawards2022."
+  - outlet: "Galaxy Award: Koisenu Futari Special Prize"
+    url: "https://www.houkon.jp/galaxy-award/%E7%AC%AC59%E5%9B%9E%EF%BC%882021%E5%B9%B4%E5%BA%A6%EF%BC%89/"
+    desc: "59th Galaxy Award, Television Division Special Prize for the series. The award is the drama's, not a music prize."
+  - outlet: "Agency for Cultural Affairs: Arts Festival Excellence Award"
+    url: "https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/93808501.html"
+    desc: "77th Arts Festival, television drama Excellence Award for よるドラ「恋せぬふたり」. The award is the drama's."
+  - outlet: "Tokyo News: 40th Kuniko Mukōda Prize"
+    url: "https://tokyonews.co.jp/mukouda/prize40/"
+    desc: "Writer Erika Yoshida won the Mukōda Prize for Koisenu Futari. That award is hers."
   - outlet: "FLOOD"
     url: "https://floodmagazine.com/97933/listen-chai-whole/"
   - outlet: "NME"
@@ -48,6 +57,8 @@ draft: false
 ---
 
 Follows the Sub Pop remix on [*WINK TOGETHER*](https://www.subpop.com/releases/chai/wink_together) ([Pitchfork](https://pitchfork.com/news/chai-announce-new-remix-ep-share-confidence-man-remix-listen/) lists **Miracle (Scoobert Doobert Remix)** on the EP tracklist). [@wavyawards nominated WHOLE for Collaboration of the Year](https://www.instagram.com/p/CgjwOjpsCcT/) at The Wavys 2022 (July 28, 2022). [NME](https://www.nme.com/news/music/chais-dancey-new-single-whole-is-a-plea-for-empathy-3137597) names Walton as producer on WHOLE and the NHK series **_Koi-senu Futari_**. [Qetic](https://qetic.jp/music/chai-210112/421668/) (Jan 12, 2022) documents サウンドプロデュース by California-based Scoobert Doobert on the 恋せぬふたり theme 「まるごと」. [Paste](https://www.pastemagazine.com/music/chai/new-single-whole) and [FLOOD](https://floodmagazine.com/97933/listen-chai-whole/) cover the single in the same release window; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/536883) documents 「まるごと」 as the drama theme with Scoobert Doobert on sound production. [Sub Pop Mega Mart](https://megamart.subpop.com/products/chai_whole) names Scoobert Doobert as producer; [SoundBetter](https://soundbetter.com/profiles/489488-scoobert-doobert) lists producer, arranger, and mixing engineer credits on WHOLE; YouTube's [official audio](https://www.youtube.com/watch?v=ozjOkzdS5u0) and [MV](https://www.youtube.com/watch?v=n-fNkTFGxfA) uploads carry the public release metadata. **Studio BTS:** CHAI drummer [Yuna](https://www.instagram.com/chai.yuna/) posted a drum-recording reel for 「まるごと」 on **January 12, 2022** (the day before release), [#yunadrum #drumrecording](https://www.instagram.com/reel/CYoXemyBbwe/); screenshot on [Photos](/music/#photos). [Anthony Fantano (The Needle Drop) reacted to WHOLE](https://www.youtube.com/watch?v=IfQ2d07vus4) in a fan-captured clip. See [Anthony Fantano](/with/anthony-fantano/). Also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
+
+The series, not the theme song, later received major Japanese television prizes: the [59th Galaxy Award Television Division Special Prize](https://www.houkon.jp/galaxy-award/%E7%AC%AC59%E5%9B%9E%EF%BC%882021%E5%B9%B4%E5%BA%A6%EF%BC%89/) (the jury called it a groundbreaking work in drama history) and an [Excellence Award at the 77th Agency for Cultural Affairs Arts Festival](https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/93808501.html). Writer [Erika Yoshida won the 40th Kuniko Mukōda Prize](https://tokyonews.co.jp/mukouda/prize40/) for the script. Those awards are the drama's and Yoshida's; Walton produced the theme.
 
 **Final live:** CHAI disbanded after their **March 12, 2024** show at **EX THEATER ROPPONGI**. [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/563144) documents the first Blu-ray **『We The CHAI Tour! FINAL ～NEO KAWAII IS FOREVER♡～』** (**July 3, 2024** · SIXL-3): full last-show video (~106 min, 22 songs) plus documentary. **Track 11: まるごと (WHOLE)**, Walton production. Track 3: [ラブじゃん](/songs/chai-thats-love/) (also Walton). Full setlist on [Final Live](/with/chai/#final-live).
 

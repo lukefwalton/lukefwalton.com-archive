@@ -58,6 +58,16 @@
           "desc": "Exist Elsewhere won the 2013 iNDIE iNNOVATION Championship (Jan 31, 2013 · San Francisco): Luke Walton (BM ’13) and Brandon Woodward (BM ’14); finals vs Mister Loveless; opened for Little Feat at the Mezzanine."
         },
         {
+          "outlet": "Sonicbids: iNDIE iNNOVATION Champion",
+          "url": "https://blog.sonicbids.com/music-marketing-and-the-convention-industry",
+          "desc": "Sonicbids names Exist Elsewhere the iNDIE iNNOVATION Champion after the Macworld/iWorld finals."
+        },
+        {
+          "outlet": "Sonicbids: first-place winner of iNDIE iNNOVATION",
+          "url": "https://blog.sonicbids.com/exist-elsewhere-uses-music-to-raise-bullying-awareness",
+          "desc": "Band profile: first-place winner of iNDIE iNNOVATION."
+        },
+        {
           "outlet": "Macworld/iWorld: iNDIE iNNOVATION Championship (video)",
           "url": "https://www.youtube.com/watch?v=-uY8Vlu1FvM&t=1692",
           "desc": "Official session video: Exist Elsewhere presentation and performance at 28:12; crowned 2013 iNDIE iNNOVATION Champions."
@@ -32324,7 +32334,7 @@
       "artist": "bed",
       "role": "production",
       "productionRoles": "Co-writing (Lyricist/Composer), production, and mixing",
-      "placement": "Fuji TV drama HEART ATTACK (地上波 · FOD streaming)",
+      "placement": "Fuji TV × Skybound live-action drama HEART ATTACK (地上波 · FOD streaming)",
       "press": [
         {
           "outlet": "Spincoaster",
@@ -32335,6 +32345,12 @@
           "outlet": "SENSA",
           "url": "https://sensa.jp/news/20250410-bed.html",
           "desc": "オープニング曲 release; Fuji TV × Skybound HEART ATTACK."
+        },
+        {
+          "outlet": "Fuji TV: ContentAsia Awards 2025",
+          "url": "https://www.fujitv.com/whats-new/contentasiaawards2025/",
+          "date": "2025-09-05",
+          "desc": "The series won Silver for Best Drama Series Made in Asia for a Regional or International Market. The award is the drama's, not a music prize."
         },
         {
           "outlet": "bed: official MV",
@@ -33237,6 +33253,21 @@
           "desc": "July 28, 2022: WHOLE (CHAI × Scoobert Doobert) nominated for Collaboration of the Year; #wavyawards2022."
         },
         {
+          "outlet": "Galaxy Award: Koisenu Futari Special Prize",
+          "url": "https://www.houkon.jp/galaxy-award/%E7%AC%AC59%E5%9B%9E%EF%BC%882021%E5%B9%B4%E5%BA%A6%EF%BC%89/",
+          "desc": "59th Galaxy Award, Television Division Special Prize for the series. The award is the drama's, not a music prize."
+        },
+        {
+          "outlet": "Agency for Cultural Affairs: Arts Festival Excellence Award",
+          "url": "https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/93808501.html",
+          "desc": "77th Arts Festival, television drama Excellence Award for よるドラ「恋せぬふたり」. The award is the drama's."
+        },
+        {
+          "outlet": "Tokyo News: 40th Kuniko Mukōda Prize",
+          "url": "https://tokyonews.co.jp/mukouda/prize40/",
+          "desc": "Writer Erika Yoshida won the Mukōda Prize for Koisenu Futari. That award is hers."
+        },
+        {
           "outlet": "FLOOD",
           "url": "https://floodmagazine.com/97933/listen-chai-whole/"
         },
@@ -33340,6 +33371,16 @@
         {
           "outlet": "CHAI: official MV",
           "url": "https://www.youtube.com/watch?v=qRZsRt_Ajrk"
+        },
+        {
+          "outlet": "Japan Academy Prize: Non, Outstanding Performance by an Actress in a Leading Role",
+          "url": "https://www.japan-academy-prize.jp/sp/prizes/46.html",
+          "desc": "46th Japan Academy Prize: Non for さかなのこ. The award is hers, not a music prize."
+        },
+        {
+          "outlet": "Non official site: Japan Academy Prize",
+          "url": "https://nondesu.jp/18026/",
+          "desc": "January 23, 2023: Non announced the 優秀主演女優賞 for The Fish Tale."
         },
         {
           "outlet": "Natalie: CHAI album comments (Non, Murakami, Cuomo)",
@@ -39470,7 +39511,7 @@
     "source": "src/content/songs/mother-ship-scoobert-doobert-remix.md",
     "metadata": {
       "title": "mother ship - Scoobert Doobert Remix",
-      "meaning": "Scoobert Doobert remix for bed, released as a single on Sep 20, 2024; the original 'mother ship' was a 2023 bed single, after APOLOGIZE, Kare Wa, and Michael Mann. Walton later mixed and did additional production on Kare Wa 3.0 (HEART ATTACK OP).",
+      "meaning": "Scoobert Doobert remix for bed, released as a single on Sep 20, 2024; the original 'mother ship' was a 2023 bed single, after APOLOGIZE, Kare Wa, and Michael Mann. Walton later co-wrote, co-produced, and mixed Kare Wa 3.0 (HEART ATTACK OP).",
       "year": 2024,
       "release": "mother ship remix",
       "releaseType": "single",
@@ -44686,6 +44727,11 @@
         {
           "outlet": "San Diego Jewish World: Joyce Forum premiere (Jan 2009)",
           "url": "https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090115-jewish-thursday13.html"
+        },
+        {
+          "outlet": "San Diego Jewish World: Joyce Forum Special Recognition Award",
+          "url": "https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090224-jewish-tuesday47.html",
+          "desc": "Feb 24, 2009: the film received a Joyce Forum Special Recognition Award at the San Diego Jewish Film Festival. The award is the film's."
         },
         {
           "outlet": "KPBS: San Diego Jewish Film Festival (Feb 4, 2009)",

@@ -16,6 +16,9 @@ press:
     url: "https://carlsbad.org/page/132/?route=product%2Fcatalog&sort=p.sort_order&order=ASC&limit=12&page=2"
   - outlet: "San Diego Jewish World: Joyce Forum premiere (Jan 2009)"
     url: "https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090115-jewish-thursday13.html"
+  - outlet: "San Diego Jewish World: Joyce Forum Special Recognition Award"
+    url: "https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090224-jewish-tuesday47.html"
+    desc: "Feb 24, 2009: the film received a Joyce Forum Special Recognition Award at the San Diego Jewish Film Festival. The award is the film's."
   - outlet: "KPBS: San Diego Jewish Film Festival (Feb 4, 2009)"
     url: "https://www.kpbs.org/news/arts-culture/2009/02/04/19th-annual-san-diego-jewish-film-festival"
   - outlet: "San Diego Union-Tribune: red-carpet premiere (Feb 16, 2009)"
@@ -72,7 +75,7 @@ draft: false
 
 **2008–2009 production.** [Carlsbad Chamber business briefs](https://carlsbad.org/page/132/?route=product%2Fcatalog&sort=p.sort_order&order=ASC&limit=12&page=2) (September 2008) reported CHSTV seeking completion funding after filming at Dachau, the U.S. Holocaust Memorial Museum, Auschwitz/Birkenau, and local survivor interviews. [eSchool News](https://www.eschoolnews.com/top-news/2009/04/21/student-film-documents-holocaust-memories/) (April 21, 2009) documents ~$215,000 in production costs, Leichtag and donor support, trips to Germany/Poland/Washington, and Branko Lustig's involvement after a Hollywood screening.
 
-**February 2009 premieres.** [San Diego Jewish World](https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090115-jewish-thursday13.html) announced the **Joyce Forum** world premiere at AMC La Jolla (February 9, 2009). [KPBS](https://www.kpbs.org/news/arts-culture/2009/02/04/19th-annual-san-diego-jewish-film-festival) (Beth Accomando) praised the locally made documentary: *"There's a sense of both touching sincerity and discovery as these teens research their project and are moved by the results."* The [*Union-Tribune*](https://www.sandiegouniontribune.com/2009/02/16/carlsbad-high-school-students-to-show-documentary-at-local-theater/) (February 16) covered the **red-carpet MovieMax premiere** in Carlsbad: 33 minutes, showings at 3 / 7 / 8:30 p.m., ticket proceeds to the Carlsbad Educational Foundation.
+**February 2009 premieres.** [San Diego Jewish World](https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090115-jewish-thursday13.html) announced the **Joyce Forum** world premiere at AMC La Jolla (February 9, 2009). The festival later [gave the film a Joyce Forum Special Recognition Award](https://sandiegojewishworld.com/2009-SDJW-Quarter1/20090224-jewish-tuesday47.html); the premiere pulled the festival's largest audience. [KPBS](https://www.kpbs.org/news/arts-culture/2009/02/04/19th-annual-san-diego-jewish-film-festival) (Beth Accomando) praised the locally made documentary: *"There's a sense of both touching sincerity and discovery as these teens research their project and are moved by the results."* The [*Union-Tribune*](https://www.sandiegouniontribune.com/2009/02/16/carlsbad-high-school-students-to-show-documentary-at-local-theater/) (February 16) covered the **red-carpet MovieMax premiere** in Carlsbad: 33 minutes, showings at 3 / 7 / 8:30 p.m., ticket proceeds to the Carlsbad Educational Foundation.
 
 **Spring 2009.** [*Union-Tribune*](https://www.sandiegouniontribune.com/2009/04/19/from-holocaust-to-hunger/) (April 19): Hollywood screening impressed *Schindler's List* producer Branko Lustig (March 30); students invited to Zagreb. [Leichtag Family Foundation](https://carlsbad.org/Foundations-grants-are-meaningful-gifts/) cites a **$100,000 grant** supporting the 2008 production.
 

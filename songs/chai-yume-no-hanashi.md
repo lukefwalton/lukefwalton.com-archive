@@ -28,6 +28,12 @@ press:
     desc: "August 3, 2022: names Scoobert Doobert on sound produce (also まるごと); 洋楽ともリンクする緻密なサウンドプロダクション."
   - outlet: "CHAI: official MV"
     url: "https://www.youtube.com/watch?v=qRZsRt_Ajrk"
+  - outlet: "Japan Academy Prize: Non, Outstanding Performance by an Actress in a Leading Role"
+    url: "https://www.japan-academy-prize.jp/sp/prizes/46.html"
+    desc: "46th Japan Academy Prize: Non for さかなのこ. The award is hers, not a music prize."
+  - outlet: "Non official site: Japan Academy Prize"
+    url: "https://nondesu.jp/18026/"
+    desc: "January 23, 2023: Non announced the 優秀主演女優賞 for The Fish Tale."
   - outlet: "Natalie: CHAI album comments (Non, Murakami, Cuomo)"
     url: "https://natalie.mu/music/news/542174"
 
@@ -44,6 +50,8 @@ draft: false
 **夢のはなし** and **MY DREAM** are the same release: Japanese and English titles for one CHAI single, not two separate songs.
 
 Released **August 3, 2022** as the theme for [沖田修一](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%94%B0%E4%BF%AE%E4%B8%80) (Shuichi Okita)’s film **さかなのこ** (*Sakana no Ko*; also [*The Fish Tale*](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8B%E3%81%AA%E3%81%AE%E3%81%93) / *Sakananoko*, 2022; Tokyo Theatres), starring [**Non**](https://en.wikipedia.org/wiki/Rena_N%C5%8Dnen) (のん; Rena Nounen) as Meebo, the fish-obsessed lead based on ichthyologist Sakana-kun, used over the ending and trailer. [@beformer promoted the film tie-in](https://www.instagram.com/p/CfYCDUmrY8o/) ahead of the **September 1, 2022** theatrical run; on **August 11, 2022** the same account [announced official Spotify Lorem placement](https://www.instagram.com/p/ChIZ7UBPmDx/) for **MY DREAM**, naming Scoobert Doobert on sound production. [Spincoaster](https://spincoaster.com/news/chai-yumenohanashi) credits Walton as サウンド・プロデュース (sound produce); [Bezzy](https://bezzy.jp/2022/08/5092/) (Aug 3, 2022) names California-based Scoobert Doobert on sound produce alongside the [まるごと](/songs/chai-whole/) credit; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/543666) documents the tie-in and names Walton on sound production, after [WHOLE](/songs/chai-whole/) (まるごと). [Official MV on YouTube](https://www.youtube.com/watch?v=qRZsRt_Ajrk), also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
+
+[Non later received the 46th Japan Academy Prize Outstanding Performance by an Actress in a Leading Role](https://www.japan-academy-prize.jp/sp/prizes/46.html) for *The Fish Tale* ([her announcement](https://nondesu.jp/18026/)). That award is hers, not a music prize.
 
 Non later wrote a [release congratulations comment](https://natalie.mu/music/news/542174) for CHAI’s self-titled album **CHAI** (Sep 22, 2023), alongside Shingo Murakami, Kaho Nakamura, Orono, [**Rivers Cuomo**](https://en.wikipedia.org/wiki/Rivers_Cuomo), and Sui Ishida. Cuomo separately added Walton/Woodward’s FEiN satire [**#Grownupz**](/songs/grownupz/) (**FEiN Times Issue #1**) to his public Spotify playlist [**DJ set**](https://open.spotify.com/playlist/7ecIc0b9WmaP3soJSyZPB0) on **Feb 27, 2016** (track 3; playlist note: *here's the set I played at Melissa's party*): same title string, different song.
 
