@@ -15,7 +15,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/6JrDuPLYVNfHGtn0Ts2ltS"
 
-themes: ["remix", "2023"]
+themes: ["remix", "Music production", "Mixing", "Collaboration", "Free Your Inhibition", "Scoobert Doobert", "2023"]
 
 isrc: QZHN82392426
 isrcSource: spotify

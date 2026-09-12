@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=VRvhJ7kooNM"
 apple: "https://music.apple.com/us/album/coca-cola/1526427944?i=1526428035"
 
-themes: ["capitalism", "branding", "Masks and Monsters", "advertising", "irony"]
+themes: ["Capitalism and work", "personal branding", "Satire and absurdism", "Loneliness", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060458
 isrcSource: soundexchange

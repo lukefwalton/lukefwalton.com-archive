@@ -13,7 +13,7 @@ credits: "Words and music by Luke Walton. Also on Goodbye/Hello (2010)."
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/who-needs-tears"
 
-themes: ["Luke Walton", "Just A Friend", "youth", "2007"]
+themes: ["youth", "Luke Walton", "Just A Friend", "Goodbye/Hello", "2007"]
 
 lyrics: |
   The clouds speak, but we don't hear,

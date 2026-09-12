@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Fe
 
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "feature", "Noreen"]
+themes: ["FEiN", "Collaboration", "feature", "Noreen", "2017"]
 
 isrc: TCADA1736360
 isrcSource: soundexchange

@@ -13,7 +13,7 @@ credits: "Words and music by Luke Walton. Two versions: Just A Friend EP (2007) 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/just-a-friend"
 
-themes: ["Luke Walton", "Just A Friend", "unrequited", "2007"]
+themes: ["Love", "Heartbreak", "unrequited", "Luke Walton", "Just A Friend", "Goodbye/Hello", "2007"]
 
 lyrics: |
  : Just A Friend EP (2006) —

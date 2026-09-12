@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/enter-the-ginyu-force-feat-babidi-gokudaxij/1500711275?i=1500711372"
 
-themes: ["Dragon Ball Z", "Ginyu Force", "hip-hopera", "parody"]
+themes: ["Dragon Ball Z", "hip-hopera", "Satire and absurdism", "Ginyu Force", "Babidi", "Gokudaxij", "Dragon Ball $d", "2020"]
 
 isrc: QZFZ42072641
 isrcSource: soundexchange

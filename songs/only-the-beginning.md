@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/only-the-beginning/1734387671?i=1734387741"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["Japan", "California", "love", "future", "I"]
+themes: ["Love", "future", "Japan", "San Diego", "California", "I", "2024"]
 
 isrc: QZDA82495964
 isrcSource: soundexchange

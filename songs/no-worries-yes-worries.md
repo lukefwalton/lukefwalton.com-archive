@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665?i=1618192108"
 
-themes: ["KŌAN", "anxiety", "immortality", "work", "paradox", "binaural"]
+themes: ["paradox", "immortality", "Anxiety", "Religion and heaven", "Capitalism and work", "Philosophy", "Spatial audio", "KŌAN"]
 
 isrc: QZES92291013
 isrcSource: soundexchange

@@ -13,7 +13,7 @@ cover: true
 
 spotify: "https://open.spotify.com/track/7xNYUYx97k1C8QtOnOx4pO"
 
-themes: ["cover", "2025", "disco"]
+themes: ["Funk", "disco", "cover", "Leo Sayer", "2025"]
 
 isrc: QM4TW2567759
 isrcSource: soundexchange

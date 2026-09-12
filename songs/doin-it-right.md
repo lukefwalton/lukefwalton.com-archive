@@ -19,7 +19,7 @@ press:
     url: "https://www.tunefind.com/song/luke-francis-walton-brandon-michael-woodward/doin-it-right"
     desc: "S1 E1 premiere (2022) · same recording as the 2017 Freeform single."
 
-themes: ["FEiN", "sync", "Freeform", "Persimmon Grove Music", "Tell Me Lies", "2017", "commissioned"]
+themes: ["Scoring for picture", "Tell Me Lies", "FEiN", "2017"]
 
 draft: false
 

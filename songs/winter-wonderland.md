@@ -15,7 +15,7 @@ coverOf: "Felix Bernard & Richard B. Smith"
 
 spotify: "https://open.spotify.com/track/2yC2M8tiVF5H7r14YsLDAZ"
 
-themes: ["cover", "Christmas", "2023"]
+themes: ["cover", "Christmas", "A Very Doobert Christmas, Vol. 1", "2023"]
 
 isrc: QZTB62362701
 isrcSource: soundexchange

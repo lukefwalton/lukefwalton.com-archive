@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "Sofasound & Scoobert Doobert"
 spotify: "https://open.spotify.com/track/5OvfpEpidzuiaPhKe4BSt7"
 
-themes: ["Sofasound", "collaboration", "lo-fi", "2023"]
+themes: ["Hip-hop", "The internet", "Collaboration", "Sofasound", "2023"]
 
 isrc: QZK6G2352577
 isrcSource: soundexchange

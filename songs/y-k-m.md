@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 apple: "https://music.apple.com/us/album/y-k-m/1459487776?i=1459487777"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "disappearance", "isolation", "control", "theatrical pop"]
+themes: ["disappearance", "Isolation", "Loneliness", "Mental health", "Religion and heaven", "control", "Collaboration", "FEiN", "2019"]
 
 isrc: QZ2QB1900004
 isrcSource: soundexchange

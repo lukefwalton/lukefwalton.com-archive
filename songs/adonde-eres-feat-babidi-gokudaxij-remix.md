@@ -16,7 +16,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/2PNGV9GZJozzqqAnP0Ng3G"
 
-themes: ["remix", "WAMI", "Dragon Ball", "2018"]
+themes: ["remix", "Music production", "Mixing", "Collaboration", "WAMI", "Babidi", "Gokudaxij", "2018"]
 
 isrc: USLZJ1826975
 isrcSource: spotify

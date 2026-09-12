@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/2020-is-over/1537859040?i=1537859041"
 youtube: "https://www.youtube.com/watch?v=_dv_V8H46hI"
 officialVideo: "https://www.youtube.com/watch?v=_dv_V8H46hI"
 
-themes: ["pandemic", "2020", "survival", "optimism", "animal"]
+themes: ["The pandemic", "survival", "optimism", "animal", "2020"]
 
 isrc: QZMER2073030
 isrcSource: soundexchange

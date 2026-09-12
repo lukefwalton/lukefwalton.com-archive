@@ -11,7 +11,7 @@ artistId: "#scoobert"
 
 spotify: "https://open.spotify.com/track/6KFO389ham8FH8lDrVaPIA"
 
-themes: ["loss", "friendship", "memory", "alexrainbirdSessions", "2024"]
+themes: ["Death", "Friendship", "Memory and nostalgia", "Japan", "alexrainbirdSessions", "2024"]
 
 isrc: QZW9K2404440
 isrcSource: spotify

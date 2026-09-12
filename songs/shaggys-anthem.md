@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=ZQ-AGDsqdrI"
 apple: "https://music.apple.com/us/album/shaggys-anthem/1526427944?i=1526428032"
 
-themes: ["pandemic", "courage", "cartoon", "anxiety", "Masks and Monsters", "capitalism"]
+themes: ["Anxiety", "Satire and absurdism", "The pandemic", "Capitalism and work", "courage", "cartoon", "Masks and Monsters"]
 
 isrc: QZHN42072122
 isrcSource: soundexchange

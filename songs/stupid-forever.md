@@ -21,7 +21,7 @@ press:
   - outlet: "KCRW: Stupid Forever (360° live session)"
     url: "https://www.youtube.com/watch?v=GrFmJEINXNU"
 
-themes: ["FEiN", "shame", "anxiety", "theatrical pop", "isolation"]
+themes: ["Anxiety", "Isolation", "shame", "Collaboration", "FEiN", "2021"]
 
 isrc: QZ2QB2100001
 isrcSource: soundexchange

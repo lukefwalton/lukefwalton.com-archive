@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=DFPfLXFSA3A"
 apple: "https://music.apple.com/us/album/snuggle-with-shaggy/1526427944?i=1526427963"
 
-themes: ["pandemic", "lockdown", "love", "Masks and Monsters", "cartoon", "domestic"]
+themes: ["The pandemic", "Love", "Satire and absurdism", "cartoon", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060447
 isrcSource: soundexchange

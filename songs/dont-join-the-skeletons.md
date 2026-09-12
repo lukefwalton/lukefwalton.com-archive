@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/dont-join-the-skeletons-single/1776691318?i=1776691319"
 
-themes: ["love", "Halloween", "home", "commitment"]
+themes: ["Love", "Halloween", "Scoobert Doobert", "2024"]
 
 isrc: QZWFV2480248
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/dont-drive-sleepy/1734387671?i=1734387738"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["driving", "love", "island", "safety", "I"]
+themes: ["Love", "driving", "I", "2024"]
 
 isrc: QZHN32444128
 isrcSource: soundexchange

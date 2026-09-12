@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/ez-pz/1734387671?i=1734387675"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["rest", "lazy", "power", "I", "invitation"]
+themes: ["rest", "Capitalism and work", "Loneliness", "Friendship", "I", "2024"]
 
 isrc: QZES72430624
 isrcSource: soundexchange

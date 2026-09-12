@@ -15,6 +15,8 @@ productionRoles: "Mixed"
 spotify: "https://open.spotify.com/track/1MBBDHy14u0FIKI6yFvYVc"
 bandcamp: "https://applcomm.bandcamp.com/"
 
+themes: ["Mixing", "Applied Communications", "2025"]
+
 isrc: QZZ7K2488082
 isrcSource: spotify
 draft: false

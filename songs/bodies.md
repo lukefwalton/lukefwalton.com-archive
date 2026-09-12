@@ -20,7 +20,7 @@ press:
   - outlet: "Discogs: FEiN Bodies"
     url: "https://www.discogs.com/release/20743678-FEiN-3-Bodies"
 
-themes: ["FEiN", "intimacy", "anxiety", "consumption", "isolation", "2021"]
+themes: ["Love", "Anxiety", "Loneliness", "FEiN", "2021"]
 
 isrc: QZ2QB2100003
 isrcSource: soundexchange

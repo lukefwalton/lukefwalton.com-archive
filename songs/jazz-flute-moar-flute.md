@@ -16,7 +16,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole Mc
 
 spotify: "https://open.spotify.com/track/78vLnl5usIVFuiM0quVTXG"
 
-themes: ["US", "rest", "unplugged", "instrumental", "variant"]
+themes: ["instrumental", "Jazz", "rest", "unplugged", "US", "2025"]
 
 isrc: QZNWT2523180
 isrcSource: spotify

@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/6G40DnKiUciGo6KpO4UHGx"
 
+themes: ["instrumental", "party", "US", "2025"]
+
 isrc: QZHNB2591464
 isrcSource: spotify
 draft: false

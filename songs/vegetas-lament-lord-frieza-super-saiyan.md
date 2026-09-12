@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/vegetas-lament-lord-frieza-super-saiyan-feat-nick-belcher/1500711275?i=1500711373"
 
-themes: ["Dragon Ball Z", "Vegeta", "Goku", "Super Saiyan", "opera", "hip-hopera"]
+themes: ["Dragon Ball Z", "Collaboration", "Vegeta", "Goku", "Super Saiyan", "hip-hopera", "opera", "2020"]
 
 isrc: QZFZ42072642
 isrcSource: soundexchange

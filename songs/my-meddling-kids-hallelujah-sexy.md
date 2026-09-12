@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL"
 apple: "https://music.apple.com/us/album/my-meddling-kids-hallelujah-sexy/1506552414?i=1506552558"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Finding $D", "cartoon", "satire", "religion", "cult"]
+themes: ["Satire and absurdism", "Religion and heaven", "cult", "Finding $D", "2017"]
 
 isrc: TCADN1849866
 isrcSource: soundexchange

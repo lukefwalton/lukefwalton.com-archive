@@ -15,7 +15,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/2YfIqisvwYQwwgycsWilek"
 
-themes: ["remix", "Japan", "2022"]
+themes: ["remix", "Music production", "Mixing", "Japan", "Collaboration", "Okudaxij", "Scoobert Doobert", "2022"]
 
 isrc: QZHN32241267
 isrcSource: spotify

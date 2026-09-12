@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/heffalumps-and-woozles/1585121212?i=1585121220"
 
-themes: ["California", "cannabis", "comedy", "Big Hug", "Scooby"]
+themes: ["Weed", "California", "San Diego", "Satire and absurdism", "Jazz", "Big Hug", "2021"]
 
 isrc: QZMEP2188958
 isrcSource: soundexchange

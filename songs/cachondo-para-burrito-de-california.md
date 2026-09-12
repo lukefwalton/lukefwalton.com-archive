@@ -12,7 +12,7 @@ instrumental: true
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
 
-themes: ["2018", "burrito", "instrumental", "pre-WAMI"]
+themes: ["Burritos and Mexican food", "California", "instrumental", "pre-WAMI", "2018"]
 
 isrc: QZDA71859214
 isrcSource: soundexchange

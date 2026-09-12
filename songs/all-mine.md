@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/0vRCMBf7cmfcjlh5MLTQrC"
 apple: "https://music.apple.com/us/album/all-mine/1312089595?i=1312089596"
 
-themes: ["FEiN", "2017", "theatrical pop", "control", "satire"]
+themes: ["control", "theatrical pop", "Collaboration", "FEiN", "2017"]
 
 isrc: QZ2QB1700001
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 apple: "https://music.apple.com/us/album/michael-bubl%C3%A9-my-santa-buddy/1710592001?i=1710592002"
 spotify: "https://open.spotify.com/track/6pzdUv15Llpd4MD4nkmPBH"
 
-themes: ["christmas", "parody", "canada"]
+themes: ["Christmas", "Satire and absurdism", "Friendship", "Canada", "2023"]
 
 isrc: QZTB52376725
 isrcSource: soundexchange

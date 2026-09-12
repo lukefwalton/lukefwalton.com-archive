@@ -28,7 +28,7 @@ spotify: "https://open.spotify.com/track/2FMqS0ulNgiBZfDuD326GD"
 apple: "https://music.apple.com/us/song/tamaya/1867075174"
 officialVideo: "https://www.youtube.com/watch?v=tEEZb8UeLLk"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2026"]
 
 isrc: JP92J2505189
 isrcSource: spotify

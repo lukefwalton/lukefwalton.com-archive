@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/sculptor/1111956961?i=1111956963"
 
-themes: ["FEiN", "Little Homes", "cosmetic surgery", "body", "satire", "2016"]
+themes: ["cosmetic surgery", "body", "Death", "Satire and absurdism", "Collaboration", "San Diego", "FEiN", "Little Homes", "2016"]
 
 press:
   - outlet: "Fresh Beats 365: FEiN interview (*Sculptor*)"

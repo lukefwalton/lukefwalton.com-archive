@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/where-were-going-to-go"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "romance", "2010"]
+themes: ["Love", "Anxiety", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   First day of class a girl walks in,

@@ -45,7 +45,7 @@ officialVideo: "https://www.youtube.com/watch?v=Pz3QqvWzDQI"
 apple: "https://music.apple.com/us/album/cant-imagine-feeling-better/1558296985?i=1558296994"
 youtube: "https://www.youtube.com/watch?v=Aj_MMZs6W2E"
 
-themes: ["joy", "absurdism", "Little Hug", "recovery"]
+themes: ["Satire and absurdism", "Religion and heaven", "Weed", "Little Hug", "2021"]
 
 isrc: QZNWU2063431
 isrcSource: soundexchange

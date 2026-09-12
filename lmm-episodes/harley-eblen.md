@@ -24,7 +24,6 @@ topicsDiscussed:
   - "Music production"
   - "Music theory"
   - "Autotune and pitch correction"
-  - "Formant"
   - "Songwriting"
   - "Collaboration"
   - "Guitar"

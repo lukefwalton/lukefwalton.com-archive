@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=NQphM2Pq-3M"
 apple: "https://music.apple.com/us/album/a-good-life/1526427944?i=1526428027"
 
-themes: ["pandemic", "love", "lockdown", "denial", "Masks and Monsters"]
+themes: ["The pandemic", "Love", "Isolation", "denial", "Masks and Monsters", "2020"]
 
 isrc: QZES52026922
 isrcSource: soundexchange

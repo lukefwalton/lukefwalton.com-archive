@@ -20,7 +20,7 @@ topicsDiscussed:
   - "Drums"
   - "Touring"
   - "Mixing"
-  - "Reverb"
+  - "Reverb and delay"
   - "Genre"
   - "Music production"
   - "Singing and vocals"

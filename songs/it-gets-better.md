@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/it-gets-better/1734387671?i=1734387743"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["love", "hope", "reassurance", "I", "partner"]
+themes: ["Love", "reassurance", "I", "2024"]
 
 isrc: QZES82478724
 isrcSource: soundexchange

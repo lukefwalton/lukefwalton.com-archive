@@ -29,7 +29,7 @@ spotify: "https://open.spotify.com/track/5wngKDzVSyiCoDhiTPmIr8"
 apple: "https://music.apple.com/us/song/dont-like-the-night/1867075173"
 officialVideo: "https://www.youtube.com/watch?v=OKJ4oh_9nH8"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "Scoring for picture", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2026"]
 
 isrc: JP92J2505188
 isrcSource: spotify

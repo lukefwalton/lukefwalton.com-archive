@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/dancing-alone/1748850694?i=1748850695"
 
-themes: ["love", "distance", "waiting", "I"]
+themes: ["Love", "Loneliness", "waiting", "2024"]
 
 isrc: QZMER2460808
 isrcSource: soundexchange

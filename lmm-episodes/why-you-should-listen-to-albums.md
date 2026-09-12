@@ -24,7 +24,7 @@ topicsDiscussed:
   - "The music business"
   - "Collaboration"
   - "Electronic music"
-  - "Reverb"
+  - "Reverb and delay"
   - "EQ"
 
 hostNote: |

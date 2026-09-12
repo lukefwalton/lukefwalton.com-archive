@@ -23,7 +23,7 @@ press:
 spotify: "https://open.spotify.com/track/2g1APWt5YhGmKPcdEdUb3w"
 youtube: "https://www.youtube.com/watch?v=Wca8MJ4qmJI"
 
-themes: ["KOMAGOME", "OKAME", "MANA", "KANA", "production", "Japan", "2026"]
+themes: ["Music production", "Mixing", "Collaboration", "Japan", "KOMAGOME", "MANA", "KANA", "OKAME", "2026"]
 
 isrc: JPN002600008
 isrcSource: spotify

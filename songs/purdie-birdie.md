@@ -12,7 +12,7 @@ instrumental: true
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
 
-themes: ["2018", "drums", "instrumental", "pre-WAMI"]
+themes: ["Drums", "instrumental", "pre-WAMI", "2018"]
 
 isrc: QZDA71862700
 isrcSource: soundexchange

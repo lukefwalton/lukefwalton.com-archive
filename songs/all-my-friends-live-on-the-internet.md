@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/5R5AqwSE7juUd0t6xCI6Ep"
 apple: "https://music.apple.com/us/song/all-my-friends-live-on-the-internet/1618192115"
 youtube: "https://www.youtube.com/watch?v=16Xymn7W9_w"
 
-themes: ["KŌAN", "friendship", "internet", "isolation", "platonic love"]
+themes: ["Friendship", "The internet", "Isolation", "Satire and absurdism", "KŌAN", "2022"]
 
 isrc: QZES92220577
 isrcSource: soundexchange

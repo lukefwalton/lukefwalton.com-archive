@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/feels-so-good/1675559395?i=1675559400"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["Moonlight Beach", "friendship", "California", "joy", "Encinitas"]
+themes: ["Friendship", "The beach", "California", "Burritos and Mexican food", "San Diego", "Moonlight Beach", "2023"]
 
 press:
   - outlet: "Beformer: Feels So Good on Spotify Chilled Indie (Instagram)"

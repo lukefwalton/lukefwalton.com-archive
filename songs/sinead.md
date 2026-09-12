@@ -20,7 +20,7 @@ spotify: "https://open.spotify.com/track/0c5ikspxS0rk4r1Nf47JFI"
 bandcamp: "https://applcomm.bandcamp.com/album/applied-communications-has-a-midlife-crisis"
 officialVideo: "https://www.youtube.com/watch?v=RL2xfJuY_bc"
 
-themes: ["applied communications", "mixing", "2024", "Emperor X"]
+themes: ["Mixing", "Mental health", "Los Angeles", "Emperor X", "applied communications", "2024"]
 
 isrc: QZFYZ2480434
 isrcSource: spotify

@@ -11,6 +11,8 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/33mySldYK3pRm5Mbg4GKhb"
 
+themes: ["instrumental", "Dragon Ball Z", "Dragon Ball $d", "2020"]
+
 isrc: QZFZ42072647
 isrcSource: soundexchange
 draft: false

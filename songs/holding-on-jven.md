@@ -22,7 +22,7 @@ press:
     date: "2016-01-30"
     desc: "Live tracking drums, bass, guitar, keys, vocals at Tiny Giant with J.VEN; gospel choir next day · [screenshot](/evidence/fein-jven-tiny-giant-session-jan-2016.png)"
 
-themes: ["J.VEN", "FEiN", "Tiny Giant", "2016", "session", "R&B"]
+themes: ["Music production", "Soul and R&B", "Death", "J.VEN", "Tiny Giant", "FEiN", "2016"]
 
 draft: false
 ---

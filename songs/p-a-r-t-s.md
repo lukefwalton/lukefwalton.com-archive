@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/track/6rxLTaLscf1nrgdXSUTRAi"
 apple: "https://music.apple.com/us/album/p-a-r-t-s/1216076785?i=1216077047"
 
-themes: ["FEiN", "capitalism", "2017", "octatonic", "sound design"]
+themes: ["Capitalism and work", "Satire and absurdism", "Music theory", "FEiN", "2017"]
 
 isrc: TCACZ1712970
 isrcSource: soundexchange

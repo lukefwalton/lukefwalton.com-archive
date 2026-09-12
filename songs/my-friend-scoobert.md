@@ -18,7 +18,7 @@ officialVideo: "https://www.youtube.com/watch?v=7xfTx5gDQ6Q"
 apple: "https://music.apple.com/us/album/finding-%24d-remastered/1506552414"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Scoobert Doobert", "loneliness", "politics", "Finding $D", "friendship", "2017"]
+themes: ["politics", "Loneliness", "Friendship", "Scoobert Doobert", "Finding $D", "2017"]
 
 isrc: QZK6Q2207676
 isrcSource: soundexchange

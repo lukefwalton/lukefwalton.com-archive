@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/party-at-capsule-corp-nah-nah-nah-feat-babidi-gokudaxij/1500711275?i=1500711378"
 
-themes: ["Dragon Ball Z", "Capsule Corp", "party", "hip-hopera", "scat"]
+themes: ["Dragon Ball Z", "party", "hip-hopera", "scat", "Capsule Corp", "Babidi", "Gokudaxij", "2020"]
 
 isrc: QZFZ42072646
 isrcSource: soundexchange

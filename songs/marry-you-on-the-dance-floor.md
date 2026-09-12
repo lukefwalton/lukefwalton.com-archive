@@ -14,7 +14,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN), wi
 release: "Marry You On the Dance Floor"
 releaseType: "single"
 
-themes: ["FEiN", "Christofi", "collaboration", "satire", "marriage", "2016", "viral", "Brian Robert Jones"]
+themes: ["Satire and absurdism", "Collaboration", "marriage", "FEiN", "Christofi", "Brian Robert Jones", "2016", "viral"]
 
 press:
   - outlet: "Spotify Mexico Viral 50: #2 (May 2016)"

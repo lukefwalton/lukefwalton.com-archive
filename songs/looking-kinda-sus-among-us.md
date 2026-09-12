@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 apple: "https://music.apple.com/us/album/looking-kinda-sus-among-us/1567468209?i=1567468214"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 
-themes: ["Plague Beats", "Among Us", "meme", "2021", "gaming"]
+themes: ["Satire and absurdism", "The pandemic", "Among Us", "Plague Beats", "2021"]
 
 isrc: QZHN72103923
 isrcSource: soundexchange

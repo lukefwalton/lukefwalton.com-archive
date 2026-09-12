@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/this-is-fine/1797939506?i=1797939508"
 
-themes: ["anxiety", "meme", "denial", "US", "humor"]
+themes: ["Anxiety", "Satire and absurdism", "US", "2025"]
 
 isrc: QZHN42537348
 isrcSource: soundexchange

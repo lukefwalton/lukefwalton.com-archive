@@ -13,7 +13,7 @@ press:
   - outlet: "Illustrate Magazine: CHAI / Murakami credits"
     url: "https://illustratemagazine.com/scoobert-doobert-release-a-new-single-who-am-i-really-fooling-anyway/"
 
-themes: ["CHAI", "TAKATSU-KING", "Shingo Murakami", "production", "Japan", "TV"]
+themes: ["Music production", "Collaboration", "Japan", "CHAI", "TAKATSU-KING", "Shingo Murakami", "TV"]
 
 draft: false
 ---

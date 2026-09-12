@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/watch?v=hNOLxekj5Xc"
 officialVideo: "https://www.youtube.com/watch?v=hNOLxekj5Xc"
 
-themes: ["summer", "beach", "collaboration", "California", "2021"]
+themes: ["The beach", "summer", "Collaboration", "San Diego", "California", "2021"]
 
 isrc: QZMEQ2192808
 isrcSource: soundexchange

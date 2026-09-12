@@ -16,7 +16,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/7qxLmxeBxzGPfWJg698JkX"
 
-themes: ["remix", "I", "2024"]
+themes: ["remix", "Music production", "Mixing", "rest", "I", "2024"]
 
 isrc: QZES72430625
 isrcSource: spotify

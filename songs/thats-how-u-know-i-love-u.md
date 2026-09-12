@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/thats-how-u-know-i-love-u/1734387671?i=1734387740"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["love", "home", "domestic", "I", "u"]
+themes: ["Love", "I", "u", "2024"]
 
 isrc: QZDA52463035
 isrcSource: soundexchange

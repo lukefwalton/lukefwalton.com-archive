@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/omw/1734387671?i=1734387739"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 officialVideo: "https://www.youtube.com/watch?v=Utz-0iIg0EE"
 
-themes: ["love", "travel", "homecoming", "I", "u", "California"]
+themes: ["Love", "travel", "homecoming", "I", "u", "2024"]
 
 isrc: QZHN32444129
 isrcSource: soundexchange

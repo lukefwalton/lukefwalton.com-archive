@@ -15,6 +15,8 @@ spotify: "https://open.spotify.com/track/0J7r3kawRiR3lUydqLnYfj"
 youtube: "https://www.youtube.com/watch?v=0PgFfxhzqdE"
 officialVideo: "https://www.youtube.com/watch?v=0PgFfxhzqdE"
 
+themes: ["instrumental", "KŌAN", "2022"]
+
 isrc: QZDA42257784
 isrcSource: soundexchange
 draft: false

@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=JP4KYqgHevQ"
 officialVideo: "https://www.youtube.com/watch?v=JP4KYqgHevQ"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "Japan", "happiness", "change", "Japanese"]
+themes: ["happiness", "Japan", "KŌAN", "2022"]
 
 isrc: QZDA42257783
 isrcSource: soundexchange

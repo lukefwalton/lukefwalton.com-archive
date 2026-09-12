@@ -20,7 +20,7 @@ topicsDiscussed:
   - "Music production"
   - "Analog"
   - "Compression"
-  - "Reverb"
+  - "Reverb and delay"
   - "Effects"
   - "Guitar"
   - "Plugins"

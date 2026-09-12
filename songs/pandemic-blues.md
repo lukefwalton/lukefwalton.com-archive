@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=pkBICgUp4N0"
 apple: "https://music.apple.com/us/album/pandemic-blues/1526427944?i=1526428026"
 
-themes: ["pandemic", "blues", "lockdown", "domestic", "Masks and Monsters", "depression", "Essie Jenkins"]
+themes: ["The pandemic", "Isolation", "Blues", "Mental health", "Masks and Monsters", "Essie Jenkins"]
 
 isrc: QZK6P2060450
 isrcSource: soundexchange

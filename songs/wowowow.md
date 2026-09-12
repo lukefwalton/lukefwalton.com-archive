@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "Sanguine Penguin × Scoobert Doobert"
 spotify: "https://open.spotify.com/track/7aZjpw9CGpjshwIzVC9MYt"
 
-themes: ["Sanguine Penguin", "Japan", "collaboration", "2023"]
+themes: ["Japan", "Collaboration", "Sanguine Penguin", "2023"]
 
 isrc: QZK6Q2330066
 isrcSource: soundexchange

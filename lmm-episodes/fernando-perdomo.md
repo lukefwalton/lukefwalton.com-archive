@@ -30,7 +30,6 @@ topicsDiscussed:
   - "Creativity"
   - "DAWs"
   - "Singing and vocals"
-  - "Session musicianship"
   - "Miami"
 
 hostNote: |

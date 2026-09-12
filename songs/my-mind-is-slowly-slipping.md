@@ -18,7 +18,7 @@ youtube: "https://www.youtube.com/watch?v=Bw-J_GT0doo"
 officialVideo: "https://www.youtube.com/watch?v=Bw-J_GT0doo"
 apple: "https://music.apple.com/us/album/my-mind-is-slowly-slipping-feat-babidi/1526427944?i=1526428031"
 
-themes: ["pandemic", "dissociation", "Masks and Monsters", "Babidi", "guilt", "lockdown"]
+themes: ["The pandemic", "dissociation", "guilt", "Collaboration", "Babidi", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060455
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/getting-easier/1708670332?i=1708670343"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["fatherhood", "California", "love", "MÖB", "readiness"]
+themes: ["fatherhood", "Love", "Anxiety", "California", "MÖB", "2023"]
 
 isrc: QZMEN2323458
 isrcSource: soundexchange

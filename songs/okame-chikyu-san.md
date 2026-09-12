@@ -26,7 +26,7 @@ spotify: "https://open.spotify.com/track/7DzfhO3XeXet9UxV7ufyDi"
 apple: "https://music.apple.com/us/song/mr-earth/1867075176"
 youtube: "https://www.youtube.com/watch?v=f2zpao6YQrs"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2026"]
 
 isrc: JP92J2505191
 isrcSource: spotify

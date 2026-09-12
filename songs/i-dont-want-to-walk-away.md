@@ -18,7 +18,7 @@ press:
   - outlet: "Rees Finley: I Don't Want To Walk Away (SoundCloud credits)"
     url: "https://soundcloud.com/rees-finley/i-dont-want-to-walk-away"
 
-themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2017", "session"]
+themes: ["Music production", "Rees Finley", "FEiN", "Tiny Giant", "2017"]
 
 draft: false
 ---

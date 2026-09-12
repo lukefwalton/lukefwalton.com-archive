@@ -17,7 +17,7 @@ spotifyUrl: "https://open.spotify.com/episode/17vEZw9jKPbRGCJulsl9ED"
 
 topicsDiscussed:
   - "Mixing"
-  - "Reverb"
+  - "Reverb and delay"
   - "Music production"
   - "Effects"
   - "Guitar"

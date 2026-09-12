@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 apple: "https://music.apple.com/us/album/sidecar/1586912267?i=1586912269"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "love", "support", "relationships", "theatrical pop"]
+themes: ["Love", "codependency", "Collaboration", "FEiN", "2021"]
 
 isrc: QZ2QB2100004
 isrcSource: soundexchange

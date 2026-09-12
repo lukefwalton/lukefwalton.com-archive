@@ -26,7 +26,7 @@ spotify: "https://open.spotify.com/track/0pJUZWZDHvql1OijvNKrTm"
 apple: "https://music.apple.com/us/song/soreike-cinderella/1867075177"
 youtube: "https://www.youtube.com/watch?v=Ab4a9jgOfFU"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2026"]
 
 isrc: JP92J2505192
 isrcSource: spotify

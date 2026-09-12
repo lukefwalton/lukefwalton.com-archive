@@ -21,7 +21,7 @@ press:
 
 spotify: "https://open.spotify.com/track/5iMcAgfnYomMOtUanCs1ch"
 
-themes: ["bed", "remix", "Japan", "2024"]
+themes: ["bed", "remix", "Music production", "Mixing", "Japan", "2024"]
 
 isrc: QZTBD2437688
 isrcSource: spotify

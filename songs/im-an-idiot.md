@@ -28,7 +28,7 @@ press:
     url: "https://www.instagram.com/p/CTXwJA_FqMD/"
     desc: "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI heard the song after this placement."
 
-themes: ["self-deprecation", "Big Hug", "social anxiety", "post-pandemic", "spotlight effect"]
+themes: ["self-deprecation", "Anxiety", "The pandemic", "spotlight effect", "Big Hug", "2021"]
 
 isrc: QZK6G2161514
 isrcSource: soundexchange

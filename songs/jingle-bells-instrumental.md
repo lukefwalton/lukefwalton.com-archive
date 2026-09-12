@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/51FUNOXnJoJJMOR9Jy8WjO"
 
+themes: ["instrumental", "cover", "James Lord Pierpont", "Christmas", "2023"]
+
 isrc: QZTB82372698
 isrcSource: spotify
 draft: false

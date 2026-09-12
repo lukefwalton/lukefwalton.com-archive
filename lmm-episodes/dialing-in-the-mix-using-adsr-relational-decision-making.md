@@ -23,7 +23,7 @@ topicsDiscussed:
   - "Compression"
   - "Guitar"
   - "Bass"
-  - "Reverb"
+  - "Reverb and delay"
   - "Singing and vocals"
   - "Effects"
   - "ADSR"

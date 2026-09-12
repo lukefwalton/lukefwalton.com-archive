@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Sanguine Penguin × Scoobert Doobert"
 spotify: "https://open.spotify.com/track/4LMR7ndHX83kU543Ekf4bS"
 
-themes: ["Sanguine Penguin", "Kajax", "Japan", "collaboration", "2022"]
+themes: ["Funk", "Japan", "Collaboration", "Sanguine Penguin", "Kajax", "2022"]
 
 press:
   - outlet: "Kajax (@ktubbles): Bumblebae presave bass promo (Instagram TV)"

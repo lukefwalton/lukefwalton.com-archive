@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/track/3Te0HmHKL9ElwcK71PfbHY"
 apple: "https://music.apple.com/us/album/fear/1210648666?i=1210648903"
 
-themes: ["FEiN", "fear", "immigration", "2017", "theatrical pop"]
+themes: ["fear", "immigration", "Collaboration", "FEiN", "2017"]
 
 isrc: TCACX1779781
 isrcSource: soundexchange

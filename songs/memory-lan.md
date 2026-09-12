@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 youtube: "https://www.youtube.com/watch?v=rMAjzP-pIno"
 officialVideo: "https://www.youtube.com/watch?v=rMAjzP-pIno"
 
-themes: ["nostalgia", "90s", "gaming", "MÖB", "memory"]
+themes: ["Memory and nostalgia", "Friendship", "90s", "gaming", "MÖB", "2023"]
 
 isrc: QZK6F2311050
 isrcSource: soundexchange

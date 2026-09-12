@@ -20,7 +20,7 @@ press:
   - outlet: "Spotify for Artists: New Music Friday (FEiN Facebook, May 3, 2019)"
     url: "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"
 
-themes: ["FEiN", "grief", "misreading", "loss", "theatrical pop", "Spotify editorial"]
+themes: ["Heartbreak", "misreading", "FEiN", "Spotify editorial", "2019"]
 
 isrc: QZ2QB1900001
 isrcSource: soundexchange

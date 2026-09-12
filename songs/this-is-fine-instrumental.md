@@ -12,6 +12,8 @@ artistId: "#scoobert"
 
 instrumental: true
 
+themes: ["instrumental", "LOL", "US", "2025"]
+
 spotify: "https://open.spotify.com/track/05PfSNJiacQJMVygaC28Qg"
 
 isrc: QZHN42537350

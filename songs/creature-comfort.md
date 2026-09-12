@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=o6eORzIqltE"
 officialVideo: "https://www.youtube.com/watch?v=o6eORzIqltE"
 apple: "https://music.apple.com/us/album/creature-comfort/1526427944?i=1526427964"
 
-themes: ["pandemic", "lockdown", "domestic", "Masks and Monsters", "isolation"]
+themes: ["The pandemic", "Isolation", "Satire and absurdism", "Masks and Monsters", "2020"]
 
 isrc: QZDA72091830
 isrcSource: soundexchange

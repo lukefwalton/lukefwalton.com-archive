@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 apple: "https://music.apple.com/us/album/when-its-over/1526427944?i=1526427965"
 
-themes: ["pandemic", "love", "mortality", "Masks and Monsters", "cartoon", "dystopia"]
+themes: ["The pandemic", "Love", "Death", "Satire and absurdism", "dystopia", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060449
 isrcSource: soundexchange

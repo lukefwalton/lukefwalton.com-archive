@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and J MESA (Taylor James / Babidi). Per
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/i-see-the-moment/1585121212?i=1585121526"
 
-themes: ["pandemic", "media", "belief", "Big Hug", "COVID"]
+themes: ["The pandemic", "The internet", "Collaboration", "Big Hug", "J MESA", "2021"]
 
 isrc: QZMEP2188962
 isrcSource: soundexchange

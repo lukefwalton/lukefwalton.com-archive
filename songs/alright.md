@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=CkmdF0jQn2s"
 apple: "https://music.apple.com/us/album/alright-single/1821149401?i=1821149402"
 officialVideo: "https://www.youtube.com/watch?v=CkmdF0jQn2s"
 
-themes: ["beach", "friendship", "California", "joy"]
+themes: ["The beach", "Love", "California", "San Diego", "Burritos and Mexican food", "Weed", "Memory and nostalgia"]
 
 isrc: QZTB62505651
 isrcSource: soundexchange

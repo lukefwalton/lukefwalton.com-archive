@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/08rcCaszHAiHJbsQhBAqsO"
 apple: "https://music.apple.com/us/song/%E7%84%A1%E9%96%80%E9%96%A2/1617657220"
 youtube: "https://www.youtube.com/watch?v=nzB1ePaUNSQ"
 
-themes: ["KŌAN", "zen", "Japanese", "uncertainty", "identity"]
+themes: ["Japan", "Philosophy", "Religion and heaven", "zen", "uncertainty", "KŌAN", "2022"]
 
 isrc: QZES92291015
 isrcSource: soundexchange

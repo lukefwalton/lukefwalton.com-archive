@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Guitar"
   - "Drums"
   - "Bass"
-  - "Reverb"
+  - "Reverb and delay"
   - "The music business"
 
 hostNote: |

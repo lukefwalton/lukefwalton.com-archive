@@ -15,7 +15,7 @@ productionRoles: "Mixed"
 spotify: "https://open.spotify.com/track/6BCAVu4ZEhNW6XhXSAtGdS"
 bandcamp: "https://applcomm.bandcamp.com/album/applied-communications-has-a-midlife-crisis"
 
-themes: ["applied communications", "mixing", "2024"]
+themes: ["Mixing", "applied communications", "2024"]
 
 isrc: QZFYZ2480433
 isrcSource: spotify

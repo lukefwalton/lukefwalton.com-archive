@@ -13,7 +13,7 @@ artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/1mrPiYsLusycwDam1tesCZ"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/wami-lp"
 
-themes: ["WAMI", "2018", "Louis Cole"]
+themes: ["Collaboration", "Louis Cole", "WAMI", "2018"]
 
 isrc: USLZJ1826963
 isrcSource: soundexchange

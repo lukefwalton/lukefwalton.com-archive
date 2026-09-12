@@ -22,7 +22,7 @@ press:
   - outlet: "Fresh Beats 365: It's Alright review"
     url: "https://freshbeats365.com/2017/02/18/listen-fein-its-alright-review/"
 
-themes: ["FEiN", "satire", "politics", "2017", "anthem"]
+themes: ["Satire and absurdism", "politics", "FEiN", "2017"]
 
 isrc: TCACX1715269
 isrcSource: soundexchange

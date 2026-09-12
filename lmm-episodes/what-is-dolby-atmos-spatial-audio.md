@@ -18,7 +18,7 @@ spotifyUrl: "https://open.spotify.com/episode/10kGEYyBLqmenTtcWGbNlm"
 topicsDiscussed:
   - "Spatial audio"
   - "Mixing"
-  - "Reverb"
+  - "Reverb and delay"
   - "Effects"
   - "Plugins"
   - "Compression"

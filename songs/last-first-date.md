@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/last-first-date/1747200307?i=1747200308"
 
-themes: ["love", "first date", "marriage", "California", "memory"]
+themes: ["Love", "The beach", "Memory and nostalgia", "first date", "2024"]
 
 isrc: QZMEN2468453
 isrcSource: soundexchange

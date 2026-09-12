@@ -14,7 +14,7 @@ coverOf: "Bump of Chicken"
 
 spotify: "https://open.spotify.com/track/4CjpE1ifXVKffXslHy3Kbe"
 
-themes: ["cover", "Japan", "2023"]
+themes: ["cover", "Bump of Chicken", "Japan", "2023"]
 
 isrc: QZDA52304379
 isrcSource: soundexchange

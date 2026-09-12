@@ -26,7 +26,7 @@ spotify: "https://open.spotify.com/track/5sumgHaQFOfFBgKil4Z7dY"
 apple: "https://music.apple.com/us/song/terenaide/1867075172"
 youtube: "https://www.youtube.com/watch?v=qPpTz7wEgUw"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2025"]
 
 isrc: QT66K2533640
 isrcSource: spotify

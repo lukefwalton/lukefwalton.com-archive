@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/crawl/1111956961?i=1111957080"
 
-themes: ["FEiN", "Little Homes", "faith", "metaphysics", "2016"]
+themes: ["Philosophy", "Religion and heaven", "Dreams", "Failure", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600015
 isrcSource: soundexchange

@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/chasing-the-sunset/1756822706?i=1756822
 youtube: "https://www.youtube.com/watch?v=rhMSS8iSfNo"
 officialVideo: "https://www.youtube.com/watch?v=rhMSS8iSfNo"
 
-themes: ["love", "distance", "travel", "California", "I"]
+themes: ["Love", "long distance", "California", "2024"]
 
 press:
   - outlet: "91X: Planet Nü Nü (Instagram)"

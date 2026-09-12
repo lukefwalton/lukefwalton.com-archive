@@ -24,7 +24,7 @@ topicsDiscussed:
   - "Mastering"
   - "DAWs"
   - "Guitar"
-  - "Reverb"
+  - "Reverb and delay"
   - "Music production"
 
 hostNote: |

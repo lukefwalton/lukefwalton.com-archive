@@ -26,7 +26,7 @@ press:
     date: "2015-01-11"
     desc: "FEiN Times Issue #1 · FEiN 8.0 · feintimes.com · Jan 11 2015 FEiN Facebook · [screenshot](/evidence/fein-music-connection-top-25-2014.png)"
 
-themes: ["FEiN", "FEiN Times", "satire", "imperialism", "wealth", "2014", "B-side"]
+themes: ["Satire and absurdism", "imperialism", "Capitalism and work", "FEiN", "FEiN Times", "2014", "B-side"]
 
 isrc: TCABY1405857
 isrcSource: soundexchange

@@ -30,7 +30,7 @@ press:
   - outlet: "Don Diablo: Hexagon Radio Episode 045 (Remember Us track 1)"
     url: "https://soundcloud.com/hexagon/don-diablo-hexagon-radio-episode-045"
 
-themes: ["FEiN", "Embody", "Armada Deep", "Armada Music", "Don Diablo", "Hexagon Radio", "deep house", "impermanence", "2016"]
+themes: ["Philosophy", "impermanence", "FEiN", "Embody", "Armada Deep", "Armada Music", "Don Diablo", "Hexagon Radio", "deep house", "2016"]
 
 isrc: NLF711603322
 isrcSource: discogs

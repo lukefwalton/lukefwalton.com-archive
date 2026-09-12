@@ -33,7 +33,7 @@ press:
 youtube: "https://www.youtube.com/watch?v=nk9TCp1GcHI"
 spotify: "https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4"
 
-themes: ["bed", "mixing", "Japan", "Fuji TV", "Heart Attack", "2025"]
+themes: ["Music production", "Mixing", "Collaboration", "Scoring for picture", "Japan", "bed", "Heart Attack", "2025"]
 
 isrc: QZK6N2598153
 isrcSource: spotify

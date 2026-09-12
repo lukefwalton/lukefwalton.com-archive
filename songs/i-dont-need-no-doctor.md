@@ -14,7 +14,7 @@ coverOf: "John Scofield feat. John Mayer"
 
 credits: "Cover via John Scofield feat. John Mayer (That's What I Say, 2005). Original: Ray Charles (Ashford & Simpson). Luke Walton feat. Blue Suburbia."
 
-themes: ["Luke Walton", "Blue Suburbia", "cover", "2009"]
+themes: ["cover", "Blues", "Soul and R&B", "Ray Charles", "Luke Walton", "Blue Suburbia", "2009"]
 
 draft: false
 ---

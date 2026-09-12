@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/m%C3%B6bius-spu%C7%9D-%CA%87%E1%B4%89-%CA%8Do%C9%A5-%CA%87on/1675559395?i=1675559408"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["Möbius", "2018", "music", "Moonlight Beach"]
+themes: ["Capitalism and work", "Creativity", "California", "Möbius", "Moonlight Beach", "2018"]
 
 isrc: QZES62358098
 isrcSource: soundexchange

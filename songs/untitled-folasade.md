@@ -20,7 +20,7 @@ press:
 
 spotify: "https://open.spotify.com/track/2ZBwtBat7EfbxPUMzkoM8i"
 
-themes: ["J MESA", "production", "R&B", "soul", "2026"]
+themes: ["Mixing", "Soul and R&B", "J MESA", "2026"]
 
 isrc: QZTBB2623082
 isrcSource: spotify

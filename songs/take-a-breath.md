@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=mKODjwOHgO4"
 officialVideo: "https://www.youtube.com/watch?v=mKODjwOHgO4"
 apple: "https://music.apple.com/us/album/take-a-breath/1558296985?i=1558296992"
 
-themes: ["Little Hug", "anxiety", "sleep paralysis", "recovery", "Dragon Ball", "Encinitas", "Cardiff-by-the-Sea"]
+themes: ["Anxiety", "Mental health", "sleep paralysis", "Dragon Ball Z", "San Diego", "Cardiff-by-the-Sea", "Little Hug", "2021"]
 
 isrc: QZMEM2082677
 isrcSource: soundexchange

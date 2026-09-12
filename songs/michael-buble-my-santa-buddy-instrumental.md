@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/1PIu2UYYEQg3IMXhIdTy2m"
 
+themes: ["instrumental", "Christmas", "A Very Doobert Christmas, Vol. 1", "2023"]
+
 isrc: QZTB82372697
 isrcSource: spotify
 draft: false

@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/stay-the-same"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "leaving home", "2010"]
+themes: ["Love", "Anxiety", "Memory and nostalgia", "leaving home", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   Your gorgeous face buried in my chest,

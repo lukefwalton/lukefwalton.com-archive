@@ -34,7 +34,7 @@ press:
 spotify: "https://open.spotify.com/track/5jaQfkGzVYWDfSYE8qnD22"
 officialVideo: "https://www.youtube.com/watch?v=EiePL0e9p7o"
 
-themes: ["Tamtam", "production", "FEiN", "2018", "Grandson"]
+themes: ["Music production", "Collaboration", "Tamtam", "FEiN", "Grandson", "2018"]
 
 isrc: GBKPL1819071
 isrcSource: spotify

@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL"
 apple: "https://music.apple.com/us/album/mother-of-exile/1506552414?i=1506552562"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Finding $D", "violence", "exile", "2017"]
+themes: ["violence", "exile", "confession", "Finding $D", "2017"]
 
 isrc: TCADF1797729
 isrcSource: soundexchange

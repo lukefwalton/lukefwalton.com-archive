@@ -40,7 +40,7 @@ press:
 spotify: "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
 officialVideo: "https://www.youtube.com/watch?v=qRZsRt_Ajrk"
 
-themes: ["CHAI", "production", "Japan", "film", "Sakana no Ko", "Sakananoko", "The Fish Tale", "2022"]
+themes: ["Music production", "Scoring for picture", "Japan", "Collaboration", "CHAI", "The Fish Tale", "2022"]
 
 isrc: JPP302200345
 isrcSource: spotify

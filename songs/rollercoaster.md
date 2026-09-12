@@ -23,7 +23,7 @@ press:
   - outlet: "Tamtam: ROLLERCOASTER (official MV)"
     url: "https://www.youtube.com/watch?v=w8jtR3Zgr3k"
 
-themes: ["Tamtam", "production", "FEiN", "Malca", "2023"]
+themes: ["Music production", "Collaboration", "Tamtam", "FEiN", "Malca", "2023"]
 
 isrc: USUYG1499424
 isrcSource: spotify

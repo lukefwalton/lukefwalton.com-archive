@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/aliens/1708670332?i=1708670338"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["heaven", "religion", "absurdism", "MÖB", "humor"]
+themes: ["Aliens", "Religion and heaven", "Satire and absurdism", "MÖB", "2023"]
 
 isrc: QZTB22361895
 isrcSource: soundexchange

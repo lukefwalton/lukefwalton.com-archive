@@ -16,7 +16,7 @@ credits: "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert o
 apple: "https://music.apple.com/us/album/friend-single/1401544089"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "politics", "loneliness", "friendship", "Finding $D", "remake"]
+themes: ["politics", "Loneliness", "Friendship", "Philosophy", "remake", "FEiN", "Finding $D", "2018"]
 
 isrc: QZDA51826005
 isrcSource: soundexchange

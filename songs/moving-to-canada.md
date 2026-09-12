@@ -25,7 +25,7 @@ press:
   - outlet: "Moving to Canada (official MV)"
     url: "https://www.youtube.com/watch?v=oNmOB8WVc_U"
 
-themes: ["pandemic", "politics", "Canada", "escape", "2020"]
+themes: ["politics", "escape", "Satire and absurdism", "Canada", "2020"]
 
 isrc: QZK6P2069176
 isrcSource: soundexchange

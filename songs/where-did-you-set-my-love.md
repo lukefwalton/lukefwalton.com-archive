@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/where-did-you-set-my-love"
 
+themes: ["instrumental", "Death", "Hip-hop", "Los Angeles", "New York", "to sleep (EP)", "2018"]
+
 draft: false
 ---
 

@@ -23,7 +23,7 @@ topicsDiscussed:
   - "Singing and vocals"
   - "Mastering"
   - "EQ"
-  - "Reverb"
+  - "Reverb and delay"
   - "Mono versus stereo mixing"
   - "Uncanny valley in experimental pop"
 

@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 officialVideo: "https://www.youtube.com/watch?v=m_GibplaM-E"
 apple: "https://music.apple.com/us/album/little-hug/1558296985"
 
-themes: ["Little Hug", "class", "bills", "healthcare", "satire", "parents"]
+themes: ["Capitalism and work", "Satire and absurdism", "Anxiety", "Little Hug", "parents", "2021"]
 
 isrc: QZDA82108363
 isrcSource: soundexchange

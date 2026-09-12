@@ -14,7 +14,7 @@ apple: "https://music.apple.com/us/album/while-away-single/1617891345"
 coWriters: ["Tommaso Veronesi"]
 credits: "Produced by Tommaso Veronesi. Mixed by Scoobert Doobert (Luke Francis Walton). Mastered by Riley Knapp. Tommaso Veronesi: lead/background vocals, electric guitar, drums, percussion, synths, programming. Scoobert Doobert: lead/background vocals, bass. Sean Burke: acoustic guitar. Andrew Krull: pedal steel guitar."
 
-themes: ["Tommaso Veronesi", "TOMMASO", "collaboration", "2022"]
+themes: ["The beach", "Weed", "San Diego", "Collaboration", "Tommaso Veronesi", "TOMMASO", "2022"]
 
 press:
   - outlet: "Beformer: Spotify Today's Indie Rock (Instagram)"

@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "control", "relationships", "theatrical pop"]
+themes: ["Love", "control", "Satire and absurdism", "FEiN", "2019"]
 
 isrc: QZ2QB1900003
 isrcSource: soundexchange

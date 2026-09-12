@@ -16,7 +16,7 @@ productionRoles: "Amazing Slow Downer experiment"
 
 spotify: "https://open.spotify.com/track/3EKnu30MTn55dwq1aIAKdO"
 
-themes: ["WAMI", "2018", "Babidi", "artifact"]
+themes: ["remix", "Music production", "Mixing", "Collaboration", "artifact", "WAMI", "Babidi", "2018"]
 
 isrc: USLZJ1826973
 isrcSource: spotify

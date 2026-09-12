@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/underwater/1708670332?i=1708670340"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["anxiety", "depression", "body", "MÖB", "honesty"]
+themes: ["Anxiety", "Mental health", "Guillain-Barré", "MÖB", "2023"]
 
 isrc: QZNWV2383907
 isrcSource: soundexchange

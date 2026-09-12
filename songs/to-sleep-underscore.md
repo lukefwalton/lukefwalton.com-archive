@@ -12,6 +12,8 @@ artistId: "#scoobert"
 
 instrumental: true
 
+themes: ["instrumental", "Death", "to sleep", "2018"]
+
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/-"
 
 draft: false

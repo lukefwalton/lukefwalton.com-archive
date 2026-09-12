@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/1RE9jOoix79EGxH7eltOQw"
 
+themes: ["instrumental", "US", "2025"]
+
 isrc: QZRP52562440
 isrcSource: spotify
 draft: false

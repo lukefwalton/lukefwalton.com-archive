@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/scared-to-reunite/1585121212?i=1585121223"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/big-hug-lp"
 
-themes: ["Big Hug", "post-pandemic", "reunion", "faith", "2021"]
+themes: ["The pandemic", "reunion", "Love", "Anxiety", "Big Hug", "2021"]
 
 isrc: QZMEP2188959
 isrcSource: soundexchange

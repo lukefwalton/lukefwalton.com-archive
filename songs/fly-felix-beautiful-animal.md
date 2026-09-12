@@ -26,7 +26,7 @@ press:
   - outlet: "Fly Felix: Beautiful Animal (official MV)"
     url: "https://www.youtube.com/watch?v=LAn98aOwV-U"
 
-themes: ["Fly Felix", "FEiN", "Drew Tyler", "2018", "co-production"]
+themes: ["Music production", "Collaboration", "Fly Felix", "FEiN", "Drew Tyler", "2018"]
 
 isrc: QM24S1838930
 isrcSource: spotify

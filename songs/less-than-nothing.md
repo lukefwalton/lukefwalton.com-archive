@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "koan", "breath", "illness", "stillness", "pandemic"]
+themes: ["Philosophy", "koan", "breath", "illness", "stillness", "KŌAN", "2022"]
 
 isrc: QZDA82294198
 isrcSource: soundexchange

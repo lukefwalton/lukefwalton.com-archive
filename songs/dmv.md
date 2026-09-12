@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/department-of-motor-vehicles-dmv/1708670332?i=1708670336"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["DMV", "absurdism", "city", "MÖB", "humor"]
+themes: ["Satire and absurdism", "DMV", "MÖB", "2023"]
 
 isrc: QZTB22361894
 isrcSource: soundexchange

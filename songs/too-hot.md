@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/too-hot/1708670332?i=1708670339"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["heat", "California", "climate", "MÖB", "summer"]
+themes: ["heat", "Satire and absurdism", "California", "MÖB", "2023"]
 
 isrc: QZNWU2369261
 isrcSource: soundexchange

@@ -14,7 +14,7 @@ productionRoles: "Edit"
 
 spotify: "https://open.spotify.com/track/0eUoAe30Z3TnMPrl6PPYty"
 
-themes: ["remix", "Thumpasaurus", "2024"]
+themes: ["remix", "Music production", "Mixing", "Thumpasaurus", "2024"]
 
 press:
   - outlet: "Run The Trap"

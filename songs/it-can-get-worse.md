@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=ToXWtBcOkk0"
 apple: "https://music.apple.com/us/album/it-can-get-worse/1526427944?i=1526427962"
 
-themes: ["pandemic", "lockdown", "Masks and Monsters", "cartoon", "nightmare", "isolation"]
+themes: ["The pandemic", "Isolation", "Dreams", "cartoon", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060446
 isrcSource: soundexchange

@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/lonely-people/1111956961?i=1111957074"
 
-themes: ["FEiN", "Little Homes", "loneliness", "capitalism", "2016"]
+themes: ["Loneliness", "Capitalism and work", "Satire and absurdism", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600011
 isrcSource: soundexchange

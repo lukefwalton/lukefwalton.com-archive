@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 apple: "https://music.apple.com/us/album/culling/1474688283?i=1474688284"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "grief", "loss", "depression", "love"]
+themes: ["Heartbreak", "Death", "Isolation", "FEiN", "2019"]
 
 isrc: QZ2QB1900005
 isrcSource: soundexchange

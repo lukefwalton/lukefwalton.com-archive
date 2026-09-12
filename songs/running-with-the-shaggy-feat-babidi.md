@@ -13,7 +13,7 @@ artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/4pkBvvD3bL2kh64vXdwBuf"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/wami-lp"
 
-themes: ["WAMI", "2018", "Babidi"]
+themes: ["Collaboration", "WAMI", "Babidi", "2018"]
 
 isrc: USLZJ1826967
 isrcSource: soundexchange

@@ -14,7 +14,7 @@ coverOf: "Glass Animals"
 
 spotify: "https://open.spotify.com/track/47Yy6QRoeoAbhM08Lhswdj"
 
-themes: ["cover", "2022"]
+themes: ["cover", "Glass Animals", "2022"]
 
 isrc: QZHN32229917
 isrcSource: soundexchange

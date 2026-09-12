@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8"
 apple: "https://music.apple.com/us/album/413-ep/681835750"
 youtube: "https://www.youtube.com/watch?v=8OjGDtr83kE"
 
-themes: ["Exist Elsewhere", "413", "heartbreak", "2013", "sync", "Pantene"]
+themes: ["Heartbreak", "Love", "Religion and heaven", "Exist Elsewhere", "413", "Pantene", "2013"]
 
 isrc: USHM81320566
 isrcSource: spotify

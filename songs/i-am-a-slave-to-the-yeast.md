@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 apple: "https://music.apple.com/us/album/i-am-a-slave-to-the-yeast/1526427944?i=1526428037"
 
-themes: ["pandemic", "lockdown", "sourdough", "Masks and Monsters", "agoraphobia", "domestic"]
+themes: ["The pandemic", "Isolation", "Satire and absurdism", "sourdough", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060460
 isrcSource: soundexchange

@@ -14,7 +14,7 @@ coverOf: "Kevin Rudolf feat. Lil Wayne"
 
 credits: "Cover of Kevin Rudolf feat. Lil Wayne (2008). Luke Walton feat. Blue Suburbia."
 
-themes: ["Luke Walton", "Blue Suburbia", "cover", "2009"]
+themes: ["cover", "Kevin Rudolf", "Blues", "Luke Walton", "Blue Suburbia", "2009"]
 
 draft: false
 ---

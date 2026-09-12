@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
-themes: ["FEiN", "isolation", "self-harm", "denial", "relationships"]
+themes: ["Mental health", "Isolation", "Anxiety", "FEiN", "2021"]
 
 isrc: QZ2QB2100002
 isrcSource: soundexchange

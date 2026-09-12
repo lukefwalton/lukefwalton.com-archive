@@ -33,7 +33,7 @@ press:
 officialVideo: "https://www.youtube.com/watch?v=rv94TTC_WM4"
 spotify: "https://open.spotify.com/track/7GaJKOlqpB3maXlTftFEnR"
 
-themes: ["KOMAGOME","OKAME","MANA","KANA","production","Japan","2025"]
+themes: ["Music production", "Collaboration", "Scoring for picture", "Japan", "KOMAGOME", "OKAME", "MANA", "KANA", "2025"]
 
 isrc: JPN002500250
 isrcSource: spotify

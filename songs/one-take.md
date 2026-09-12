@@ -12,7 +12,7 @@ artist: "Luke Walton"
 coWriters: ["No One Famous"]
 credits: "Words and music by Luke Walton and No One Famous."
 
-themes: ["Luke Walton", "Just A Friend", "heartbreak", "2007"]
+themes: ["Luke Walton", "Just A Friend", "Heartbreak", "2007"]
 
 lyrics: |
   One take, one chance, this is all you get.

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "Japan", "childhood", "memory", "Japanese"]
+themes: ["Japan", "Memory and nostalgia", "childhood", "San Diego", "KŌAN", "2022"]
 
 press:
   - outlet: "KCRW: Morning Becomes Eclectic playlist"

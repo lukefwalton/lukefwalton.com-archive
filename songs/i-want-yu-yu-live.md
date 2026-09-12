@@ -14,7 +14,7 @@ spotify: "https://open.spotify.com/track/2X9Y9GtEMRt3nppHEGC4BA"
 youtube: "https://www.youtube.com/watch?v=wZ9SM_kkgV4"
 officialVideo: "https://www.youtube.com/watch?v=wZ9SM_kkgV4"
 
-themes: ["Live from the Void", "live", "J MESA", "2022"]
+themes: ["Live from the Void", "live", "J MESA", "Babidi", "2022"]
 
 isrc: USLZJ1826948
 isrcSource: soundexchange

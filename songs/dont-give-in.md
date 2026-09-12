@@ -25,7 +25,7 @@ press:
 
 spotify: "https://open.spotify.com/track/10iWmptYkGZM6uhffnyxaw"
 
-themes: ["Kerri Medders", "Lot 17", "FEiN", "production", "Do Not Reply", "2017"]
+themes: ["Music production", "Collaboration", "Scoring for picture", "Kerri Medders", "Lot 17", "FEiN", "Do Not Reply", "2017"]
 
 isrc: TCACS1641528
 isrcSource: spotify

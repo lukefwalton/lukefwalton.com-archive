@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 officialVideo: "https://www.youtube.com/watch?v=40U0kZDpSls"
 youtube: "https://www.youtube.com/watch?v=40U0kZDpSls"
 
-themes: ["Plague Beats", "meme", "2020", "absurdism"]
+themes: ["Satire and absurdism", "Plague Beats", "2020"]
 
 isrc: QZK6H2062927
 isrcSource: soundexchange

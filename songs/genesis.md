@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Els
 spotify: "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8"
 apple: "https://music.apple.com/us/album/413-ep/681835750"
 
-themes: ["Exist Elsewhere", "413", "destiny", "soulmates", "2013"]
+themes: ["Love", "Philosophy", "soulmates", "Collaboration", "Exist Elsewhere", "413", "2013"]
 
 isrc: USHM81320568
 isrcSource: spotify

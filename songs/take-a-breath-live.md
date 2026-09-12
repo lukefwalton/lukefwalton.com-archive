@@ -12,7 +12,7 @@ artistId: "#scoobert"
 
 spotify: "https://open.spotify.com/track/1e2F60yafADcLIeOYkshU3"
 
-themes: ["Live from the Void", "live", "2022"]
+themes: ["live", "Live from the Void", "2022"]
 
 isrc: QZK6Q2207677
 isrcSource: spotify

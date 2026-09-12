@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/all-i-need/1708670332?i=1708670344"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["enough", "America", "housing", "happiness", "Möbius"]
+themes: ["Satire and absurdism", "Capitalism and work", "Friendship", "MÖB", "Möbius", "2023"]
 
 isrc: QZTAX2330010
 isrcSource: soundexchange

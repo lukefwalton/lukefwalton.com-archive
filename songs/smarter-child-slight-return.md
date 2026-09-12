@@ -13,7 +13,7 @@ artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/21sq7vplajBJ6gKrgEY8Nd"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/wami-lp"
 
-themes: ["WAMI", "2018", "internet", "sequel"]
+themes: ["AI", "The internet", "Memory and nostalgia", "sequel", "WAMI", "2018"]
 
 isrc: USLZJ1826971
 isrcSource: soundexchange

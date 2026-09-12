@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/prince-of-all-saiyans-feat-babidi-gokudaxij/1500711275?i=1500711369"
 
-themes: ["Dragon Ball Z", "Vegeta", "hip-hopera", "parody", "Saiyan"]
+themes: ["Dragon Ball Z", "Vegeta", "Saiyan", "hip-hopera", "Satire and absurdism", "Babidi", "Gokudaxij", "2020"]
 
 isrc: QZFZ42072638
 isrcSource: soundexchange

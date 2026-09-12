@@ -12,7 +12,7 @@ artist: "N0SERV1CE feat. Scoobert Doobert"
 role: remix
 remixOf: "Feels So Good"
 
-themes: ["remix", "Moonlight Beach", "electronic", "2023"]
+themes: ["remix", "Electronic music", "Collaboration", "New York", "N0SERV1CE", "Moonlight Beach", "2023"]
 
 press:
   - outlet: "N0SERV1CE: Feels So Good (Edit/Remix/Whatever) out now (Instagram)"

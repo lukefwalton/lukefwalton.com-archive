@@ -15,7 +15,7 @@ coverOf: "The Ventures"
 
 spotify: "https://open.spotify.com/track/1G8wtDWTgS0fBKquvGpMIC"
 
-themes: ["Moonlight Beach", "cover", "Encinitas", "surf"]
+themes: ["The beach", "San Diego", "cover", "The Ventures", "Moonlight Beach", "Encinitas"]
 
 isrc: QZES62358095
 isrcSource: soundexchange

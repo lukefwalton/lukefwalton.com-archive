@@ -19,7 +19,7 @@ press:
 
 officialVideo: "https://www.youtube.com/watch?v=6drUqHAx7YY"
 
-themes: ["CHAI", "production", "Japan", "final live", "2024"]
+themes: ["Music production", "Mixing", "Japan", "Collaboration", "CHAI", "final live", "2024"]
 
 draft: false
 ---

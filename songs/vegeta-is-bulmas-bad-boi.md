@@ -16,7 +16,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Louis Cole on th
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/wami-lp"
 
-themes: ["WAMI", "2018", "Dragon Ball", "Louis Cole", "instrumental", "Bandcamp"]
+themes: ["Dragon Ball Z", "WAMI", "Louis Cole", "instrumental", "Bandcamp", "2018"]
 
 draft: false
 ---

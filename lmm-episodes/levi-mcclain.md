@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Bass"
   - "Guitar"
   - "Effects"
-  - "Delay"
+  - "Reverb and delay"
   - "The internet"
   - "DAWs"
   - "AI"

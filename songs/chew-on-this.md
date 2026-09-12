@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/track/2mrkK3X2xpHfDlT6RCVqn1"
 youtube: "https://www.youtube.com/watch?v=-dKfuwVwreQ"
 officialVideo: "https://www.youtube.com/watch?v=-dKfuwVwreQ"
 
-themes: ["internet", "big data", "anxiety", "disappointment"]
+themes: ["The internet", "Memory and nostalgia", "Failure", "2024"]
 
 isrc: QZNWV2465931
 isrcSource: spotify

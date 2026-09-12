@@ -23,7 +23,7 @@ press:
 spotify: "https://open.spotify.com/track/4hXYu6xBAR2oyFECklppcS"
 bandcamp: "https://applcomm.bandcamp.com/album/applied-communications-has-a-midlife-crisis"
 
-themes: ["applied communications", "mixing", "2024", "Max Wood"]
+themes: ["Mixing", "applied communications", "Max Wood", "Midlife Crisis EP", "2024"]
 
 isrc: QZFYZ2480430
 isrcSource: spotify

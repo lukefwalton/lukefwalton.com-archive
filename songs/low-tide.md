@@ -15,7 +15,7 @@ coverOf: "The Wonder Years"
 
 spotify: "https://open.spotify.com/track/05Rg2uQshmUj0NjFPn9jfx"
 
-themes: ["Moonlight Beach", "cover"]
+themes: ["cover", "The Wonder Years", "Moonlight Beach"]
 
 isrc: QZDA62317297
 isrcSource: soundexchange

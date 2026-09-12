@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/hello-beautiful"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "crush", "2010"]
+themes: ["Love", "crush", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   When I saw you,

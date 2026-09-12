@@ -38,7 +38,7 @@ spotify: "https://open.spotify.com/track/2XfvyWp2nb9SM7lSJhFzOJ"
 apple: "https://music.apple.com/us/song/okashi-na-kimochi/1837424980"
 youtube: "https://www.youtube.com/watch?v=mhdwhflS7z8"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "Nostalpop", "2025"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "Nostalpop", "2025"]
 
 isrc: QT66J2527091
 isrcSource: spotify

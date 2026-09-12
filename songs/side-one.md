@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/side-one"
 
+themes: ["Death", "Hip-hop", "instrumental", "to sleep", "2018"]
+
 draft: false
 ---
 

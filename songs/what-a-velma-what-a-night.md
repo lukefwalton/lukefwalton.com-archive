@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL"
 apple: "https://music.apple.com/us/album/finding-%24d-remastered/1506552414"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["cartoon", "funk", "Velma", "Finding $D", "bedroom pop", "stoner"]
+themes: ["Funk", "Satire and absurdism", "Weed", "Velma", "Finding $D", "2017"]
 
 isrc: TCADN1849859
 isrcSource: soundexchange

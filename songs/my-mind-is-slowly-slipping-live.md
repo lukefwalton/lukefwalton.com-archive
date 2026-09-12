@@ -12,7 +12,7 @@ artistId: "#scoobert"
 
 spotify: "https://open.spotify.com/track/5SrLDCXYGc1WhLYeaMeRv9"
 
-themes: ["Live from the Void", "live", "2022"]
+themes: ["The pandemic", "dissociation", "guilt", "Collaboration", "J MESA", "Live from the Void", "live", "2022"]
 
 isrc: QZK6Q2207675
 isrcSource: spotify

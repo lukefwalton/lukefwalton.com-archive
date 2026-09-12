@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "disinformation", "internet", "social credit", "paranoia"]
+themes: ["disinformation", "The internet", "social credit", "paranoia", "KŌAN", "2022"]
 
 isrc: QZHN32255317
 isrcSource: soundexchange

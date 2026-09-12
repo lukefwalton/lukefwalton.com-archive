@@ -61,7 +61,7 @@ press:
     url: "https://soundcloud.com/feinmusic/grownupz_8bit"
     desc: "FEiN × Cydoniac chiptune version on FEiN SoundCloud."
 
-themes: ["FEiN", "FEiN Times", "Little Homes", "satire", "wealth", "2014", "2016", "viral"]
+themes: ["Satire and absurdism", "Capitalism and work", "Philosophy", "FEiN", "FEiN Times", "Little Homes", "2014", "2016"]
 
 isrc: QZ2QB1600005
 isrcSource: soundexchange

@@ -14,7 +14,7 @@ coverOf: "Donavon Frankenreiter"
 
 credits: "Cover of Donavon Frankenreiter (Move by Yourself, 2006). Luke Walton feat. Blue Suburbia."
 
-themes: ["Luke Walton", "Blue Suburbia", "cover", "2009"]
+themes: ["cover", "Donavon Frankenreiter", "Blues", "Luke Walton", "Blue Suburbia", "2009"]
 
 draft: false
 ---

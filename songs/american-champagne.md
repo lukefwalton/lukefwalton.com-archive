@@ -23,7 +23,7 @@ press:
   - outlet: "American Champagne (Bandcamp track)"
     url: "https://reesfinley.bandcamp.com/track/american-champagne"
 
-themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2019", "session"]
+themes: ["Guitar", "Collaboration", "Rees Finley", "FEiN", "Songs 1-14", "2019"]
 
 draft: false
 ---

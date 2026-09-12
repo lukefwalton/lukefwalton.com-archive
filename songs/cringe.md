@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/cringe/1567468209?i=1567468213"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/watch?v=jvnbVinwW3g"
 
-themes: ["Plague Beats", "meme", "2021", "beat tape"]
+themes: ["The internet", "Satire and absurdism", "meme", "Plague Beats", "2021"]
 
 isrc: QZHN72103922
 isrcSource: soundexchange

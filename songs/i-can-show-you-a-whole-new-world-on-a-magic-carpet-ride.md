@@ -12,7 +12,7 @@ artistId: "#scoobert"
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/wami-lp"
 
-themes: ["WAMI", "2018", "Bandcamp"]
+themes: ["Satire and absurdism", "WAMI", "Bandcamp", "2018"]
 
 draft: false
 ---

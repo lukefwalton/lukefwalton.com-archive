@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/pretty-things/1111956961?i=1111957076"
 
-themes: ["FEiN", "Little Homes", "body", "cosmetic surgery", "2016"]
+themes: ["Satire and absurdism", "body", "cosmetic surgery", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600012
 isrcSource: soundexchange

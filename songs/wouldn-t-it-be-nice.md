@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/track/3d7iBJrADpmv9B5sEy0QUA"
 officialVideo: "https://www.youtube.com/watch?v=cAVzu5PS-F8"
 youtube: "https://www.youtube.com/watch?v=cAVzu5PS-F8"
 
-themes: ["KŌAN", "cover", "2022"]
+themes: ["Memory and nostalgia", "California", "Philosophy", "Spatial audio", "cover", "The Beach Boys", "KŌAN", "2022"]
 
 press:
   - outlet: "Beformer: Spotify Modern Psychedelia (Instagram)"

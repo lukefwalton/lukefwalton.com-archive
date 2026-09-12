@@ -14,7 +14,7 @@ coverOf: "米津玄師 feat. 野田洋次郎"
 
 spotify: "https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD"
 
-themes: ["cover", "Japan", "2022"]
+themes: ["cover", "Japan", "Kenshi Yonezu", "2022"]
 
 press:
   - outlet: "Beformer: Spotify Today's Indie Rock (Instagram)"

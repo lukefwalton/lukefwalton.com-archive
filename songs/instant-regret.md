@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/instant-regret/1567468209?i=1567468212"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/watch?v=lxBIiBFH7EM"
 
-themes: ["Plague Beats", "meme", "2021", "beat tape", "fail"]
+themes: ["Failure", "Satire and absurdism", "Plague Beats", "2021"]
 
 isrc: QZHN72103921
 isrcSource: soundexchange

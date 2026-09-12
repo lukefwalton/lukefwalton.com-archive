@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "Victor Marc & Scoobert Doobert"
 spotify: "https://open.spotify.com/track/4M281XQWMB41eNz9RggDGz"
 
-themes: ["Victor Marc", "collaboration", "2023"]
+themes: ["Collaboration", "Victor Marc", "2023"]
 
 isrc: QZNWU2389661
 isrcSource: soundexchange

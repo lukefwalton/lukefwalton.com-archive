@@ -11,7 +11,7 @@ artistId: "#scoobert"
 
 spotify: "https://open.spotify.com/track/0KEwKPfDrrDEudGXlJeZ4n"
 
-themes: ["GrimesAI", "AI vocals", "MÖBIUS", "2024"]
+themes: ["AI", "Collaboration", "GrimesAI", "MÖBIUS", "2024"]
 
 isrc: QZAKB2346177
 isrcSource: spotify

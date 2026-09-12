@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Plugins"
   - "Microphones"
   - "Compression"
-  - "Reverb"
+  - "Reverb and delay"
   - "The music business"
   - "DAWs"
   - "The home studio"

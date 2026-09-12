@@ -15,7 +15,7 @@ releaseDate: 2016-02-01
 
 bandcamp: "https://ninafrancismusic.bandcamp.com/track/boomerang-with-fein"
 
-themes: ["FEiN", "Nina Francis", "collaboration", "long distance", "travel"]
+themes: ["Love", "long distance", "Collaboration", "FEiN", "Nina Francis", "2016"]
 
 lyrics: |
   I rush, bag in hand,

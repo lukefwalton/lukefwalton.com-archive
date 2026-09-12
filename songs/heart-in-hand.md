@@ -13,7 +13,7 @@ credits: "Words and music by Luke Walton. Two versions: Heart in Hand EP (2008) 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/heart-in-hand"
 
-themes: ["Luke Walton", "Heart in Hand", "unrequited", "2008"]
+themes: ["Love", "Loneliness", "unrequited", "Luke Walton", "Heart in Hand", "Goodbye/Hello", "2008", "2010"]
 
 lyrics: |
  : Heart in Hand EP (2008) —

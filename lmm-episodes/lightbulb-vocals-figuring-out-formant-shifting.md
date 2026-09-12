@@ -16,7 +16,7 @@ appleUrl: "https://podcasts.apple.com/us/podcast/lightbulb-vocals-figuring-out-f
 spotifyUrl: "https://open.spotify.com/episode/1oCSMFFfZOP8QkBG6aaB4g"
 
 topicsDiscussed:
-  - "Formant"
+  - "Autotune and pitch correction"
   - "Singing and vocals"
   - "Music production"
   - "Mixing"

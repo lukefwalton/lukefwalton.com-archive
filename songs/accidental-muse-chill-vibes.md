@@ -13,7 +13,7 @@ productionRoles: "Composer, co-writer, recording engineer, mix engineer, keys, g
 
 spotify: "https://open.spotify.com/track/3W17sWGZX6RL9rzyAU6QYk"
 
-themes: ["Tamtam", "Accidental Muse", "2018"]
+themes: ["Music production", "Mixing", "Collaboration", "Accidental Muse", "Tamtam", "2018"]
 
 isrc: USLZJ1812129
 isrcSource: spotify

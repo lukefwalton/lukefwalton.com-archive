@@ -10,6 +10,8 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/1kHlLlz2Vq4aKXcnsw8Zsu"
 
+themes: ["instrumental", "Dragon Ball Z", "Finding $D", "2018"]
+
 isrc: TCADN1849876
 isrcSource: soundexchange
 draft: false

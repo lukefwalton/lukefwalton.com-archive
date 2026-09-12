@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=XuvQ4e4sZXA"
 apple: "https://music.apple.com/us/album/wash-your-f-g-hands/1526427944?i=1526428028"
 
-themes: ["pandemic", "COVID", "Masks and Monsters", "public health", "meme"]
+themes: ["The pandemic", "Satire and absurdism", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060452
 isrcSource: soundexchange

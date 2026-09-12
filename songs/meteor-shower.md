@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert 
 apple: "https://music.apple.com/us/album/meteor-shower/1675559395?i=1675559405"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["love", "Moonlight Beach", "collaboration", "devotion", "Encinitas"]
+themes: ["Love", "The beach", "Collaboration", "Jamie Drake", "Moonlight Beach", "2023"]
 
 isrc: QZES52386550
 isrcSource: soundexchange

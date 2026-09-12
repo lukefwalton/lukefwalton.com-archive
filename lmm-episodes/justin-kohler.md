@@ -24,7 +24,7 @@ topicsDiscussed:
   - "Microphones"
   - "Drums"
   - "Analog"
-  - "Reverb"
+  - "Reverb and delay"
   - "Effects"
   - "Mixing"
   - "Collaboration"

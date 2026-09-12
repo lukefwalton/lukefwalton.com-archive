@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/5RP6QFcyZE3EraWmJDFJfL"
 youtube: "https://www.youtube.com/watch?v=t7t674aVFEY"
 officialVideo: "https://www.youtube.com/watch?v=t7t674aVFEY"
 
-themes: ["cover", "2024"]
+themes: ["cover", "Soul and R&B", "Commodores", "Scoobert Doobert", "2024"]
 
 isrc: QZTB42475608
 isrcSource: soundexchange

@@ -13,6 +13,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/0bs9InbKkEVDUaZQZMU76t"
 
+themes: ["instrumental", "Spatial audio", "KŌAN", "2022"]
+
 isrc: QZES92291012
 isrcSource: soundexchange
 draft: false

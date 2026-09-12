@@ -15,7 +15,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/7HCOQzoN28xYhtDkJMecBT"
 
-themes: ["remix", "2023"]
+themes: ["remix", "Music production", "Mixing", "Skinny Dippers", "2023"]
 
 isrc: QM4TX2348402
 isrcSource: soundexchange

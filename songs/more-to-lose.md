@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "loneliness", "loss", "mortality", "grief"]
+themes: ["Loneliness", "Isolation", "Death", "KŌAN", "2022"]
 
 isrc: QZDA82294199
 isrcSource: soundexchange

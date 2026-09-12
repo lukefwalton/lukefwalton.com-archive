@@ -11,7 +11,7 @@ artistId: "#scoobert"
 
 spotify: "https://open.spotify.com/track/4Z7axA1NOIsYtizDWTOtsn"
 
-themes: ["Christmas", "meme", "Ozempic", "2025"]
+themes: ["Satire and absurdism", "AI", "Capitalism and work", "Christmas", "2025"]
 
 isrc: QMFMF2569384
 isrcSource: soundexchange

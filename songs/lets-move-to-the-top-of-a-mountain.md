@@ -21,7 +21,7 @@ press:
   - outlet: "Indie Shuffle: Let's Move to the Top of a Mountain"
     url: "https://www.indieshuffle.com/schoobert-doobert-lets-move-to-the-top-of-a-mountain"
 
-themes: ["KŌAN", "escape", "love", "nature", "utopia"]
+themes: ["Love", "escape", "utopia", "nature", "KŌAN", "2022"]
 
 isrc: QZRP52103163
 isrcSource: soundexchange

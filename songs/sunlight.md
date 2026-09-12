@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/sunlight/1708670332?i=1708670335"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["sunlight", "summer", "joy", "MÖB", "California"]
+themes: ["Funk", "summer", "freedom", "California", "MÖB", "2023"]
 
 isrc: QZNWQ2342323
 isrcSource: soundexchange

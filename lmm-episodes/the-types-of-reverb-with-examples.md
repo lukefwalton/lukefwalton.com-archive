@@ -16,8 +16,7 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-types-of-reverb-with-exampl
 spotifyUrl: "https://open.spotify.com/episode/6mFa212ZLACArESG3pGtVU"
 
 topicsDiscussed:
-  - "Reverb"
-  - "Delay"
+  - "Reverb and delay"
   - "Mixing"
   - "Effects"
   - "Analog"

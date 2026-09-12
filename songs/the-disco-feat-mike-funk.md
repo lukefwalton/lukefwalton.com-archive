@@ -21,7 +21,7 @@ press:
   - outlet: "ReverbNation Blog: FEiN interview (Christofi × The Disco)"
     url: "https://web.archive.org/web/20220628192349/https://blog.reverbnation.com/2017/01/27/spotify-playlists-dragon-ball-z-and-collabs-an-interview-with-fein/"
 
-themes: ["FEiN", "feature", "Mike Funk", "disco"]
+themes: ["Satire and absurdism", "Collaboration", "Funk", "FEiN", "Mike Funk", "disco", "2017"]
 
 isrc: TCACQ1735079
 isrcSource: soundexchange

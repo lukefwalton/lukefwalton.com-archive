@@ -26,7 +26,7 @@ press:
   - outlet: "Indie Shuffle: Who Am I Really Fooling Anyway"
     url: "https://www.indieshuffle.com/scoobert-doobert-who-am-i-fooling-anyway"
 
-themes: ["KŌAN", "identity", "imposter syndrome", "self-doubt"]
+themes: ["Imposter syndrome", "Anxiety", "Quitting your job", "Capitalism and work", "identity", "KŌAN", "2022"]
 
 isrc: QZES92219180
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/shrimp-burrito/1675559395?i=1675559404"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["burrito", "Encinitas", "absurdism", "Moonlight Beach", "food"]
+themes: ["Burritos and Mexican food", "Satire and absurdism", "San Diego", "Encinitas", "Moonlight Beach", "2023"]
 
 isrc: QZES62358097
 isrcSource: soundexchange

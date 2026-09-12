@@ -12,7 +12,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN), wi
 release: "Out of My Mind"
 releaseType: "single"
 
-themes: ["FEiN", "Lara Johnston", "collaboration", "breakup", "memory"]
+themes: ["Heartbreak", "Memory and nostalgia", "Collaboration", "FEiN", "Lara Johnston"]
 
 lyrics: |
   Wake up,

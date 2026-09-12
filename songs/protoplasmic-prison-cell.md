@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "I Don't Speak French × Scoobert Doobert"
 spotify: "https://open.spotify.com/track/4k4FyVnSYvzmENv5ixSF3g"
 
-themes: ["I Don't Speak French", "collaboration", "2022"]
+themes: ["Collaboration", "I Don't Speak French", "Indieshake", "2022"]
 
 isrc: QZNWU2290488
 isrcSource: soundexchange

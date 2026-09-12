@@ -18,7 +18,7 @@ officialVideo: "https://www.youtube.com/watch?v=wnped91O4xE"
 apple: "https://music.apple.com/us/album/if-i-could-only/1558296985?i=1558296988"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/little-hug"
 
-themes: ["self-improvement", "Big Hug", "depression", "Little Hug", "post-pandemic", "ads"]
+themes: ["self-improvement", "Loneliness", "Mental health", "Satire and absurdism", "The internet", "Little Hug", "Big Hug", "2021"]
 
 isrc: QZMER2037893
 isrcSource: soundexchange

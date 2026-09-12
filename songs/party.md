@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/party/1801554450?i=1801554451"
 
-themes: ["party", "escape", "body", "US", "pleasure"]
+themes: ["Anxiety", "Loneliness", "party", "US", "2025"]
 
 isrc: QZHNB2591463
 isrcSource: soundexchange

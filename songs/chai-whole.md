@@ -49,7 +49,7 @@ youtube: "https://www.youtube.com/watch?v=ozjOkzdS5u0"
 officialVideo: "https://www.youtube.com/watch?v=n-fNkTFGxfA"
 spotify: "https://open.spotify.com/track/0plx8EFZsZo22v8OmjsnLp"
 
-themes: ["CHAI", "production", "Japan", "NHK", "Koisenu Futari", "2022", "final live", "2024"]
+themes: ["Music production", "Scoring for picture", "Collaboration", "Japan", "CHAI", "NHK", "Koisenu Futari", "2022", "final live", "2024"]
 
 isrc: JPP302101969
 isrcSource: spotify

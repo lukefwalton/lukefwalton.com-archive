@@ -13,7 +13,7 @@ productionRoles: "Mixing Engineer"
 
 spotify: "https://open.spotify.com/track/5DBJVWeWi2cCURj8ypsI2G"
 
-themes: ["J MESA", "production", "2025"]
+themes: ["Mixing", "J MESA", "2025"]
 
 isrc: QT6E72534036
 isrcSource: spotify

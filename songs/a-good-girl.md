@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/a-good-girl"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "dating", "2010"]
+themes: ["Love", "Heartbreak", "Loneliness", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   You faked a smile and said you loved me,

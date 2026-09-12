@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 officialVideo: "https://www.youtube.com/watch?v=78UlKSrgH6s"
 youtube: "https://www.youtube.com/watch?v=78UlKSrgH6s"
 
-themes: ["Plague Beats", "loop", "meme", "2021", "beat tape"]
+themes: ["Satire and absurdism", "loop", "Plague Beats", "2021"]
 
 isrc: QZHN72103920
 isrcSource: soundexchange

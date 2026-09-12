@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 apple: "https://music.apple.com/us/album/little-hug/1558296985"
 
-themes: ["Little Hug", "internet culture", "satire", "sketch"]
+themes: ["Satire and absurdism", "The internet", "sketch", "Little Hug", "2021"]
 
 isrc: QZDA82108364
 isrcSource: soundexchange

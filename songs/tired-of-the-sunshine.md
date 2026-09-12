@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton. Performed by Scoobert Doobert featurin
 apple: "https://music.apple.com/us/album/tired-of-the-sunshine-feat-bubby-lewis/1675559395?i=1675559403"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["sunshine", "isolation", "California", "Moonlight Beach", "contradiction"]
+themes: ["sunshine", "Isolation", "Mental health", "California", "Moonlight Beach", "Collaboration", "Bubby Lewis"]
 
 isrc: QZES62358096
 isrcSource: soundexchange

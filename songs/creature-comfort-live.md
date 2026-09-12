@@ -14,7 +14,7 @@ youtube: "https://www.youtube.com/watch?v=fOM9s5-ZnXA"
 
 spotify: "https://open.spotify.com/track/1SK0XhCyepNcSi5rfMxgsZ"
 
-themes: ["Live from the Void", "live", "2022"]
+themes: ["The pandemic", "Isolation", "Collaboration", "Live from the Void", "live", "2022"]
 
 isrc: QZK6Q2207672
 isrcSource: spotify

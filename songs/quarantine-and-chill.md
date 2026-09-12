@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=sZDnLz44-kE"
 apple: "https://music.apple.com/us/album/quarantine-and-chill-feat-babidi/1526427944?i=1526428030"
 
-themes: ["pandemic", "lockdown", "Masks and Monsters", "Babidi", "distance", "love"]
+themes: ["The pandemic", "Love", "Collaboration", "Masks and Monsters", "Babidi", "2020"]
 
 isrc: QZK6P2060454
 isrcSource: soundexchange

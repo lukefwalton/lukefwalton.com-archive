@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=0v3_C9fKBME"
 officialVideo: "https://www.youtube.com/watch?v=0v3_C9fKBME"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
-themes: ["KŌAN", "war", "atomic bomb", "history", "inherited burden", "Vietnam"]
+themes: ["Philosophy", "atomic bomb", "Vietnam", "inherited burden", "KŌAN", "2022"]
 
 isrc: QZDA42257785
 isrcSource: soundexchange

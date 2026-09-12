@@ -20,7 +20,7 @@ press:
   - outlet: "KCRW: Liminal (360° live session)"
     url: "https://www.youtube.com/watch?v=lQgVgA60rjs"
 
-themes: ["FEiN", "liminal spaces", "isolation", "fear", "relationships"]
+themes: ["liminal spaces", "Isolation", "Heartbreak", "FEiN", "2022"]
 
 isrc: QZ2QB2200001
 isrcSource: soundexchange

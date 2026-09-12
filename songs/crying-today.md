@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/413EZPiXJ1z58kKBmT48rt"
 apple: "https://music.apple.com/us/song/crying-today/1823203089"
 officialVideo: "https://www.youtube.com/watch?v=n8tUv5wAcqg"
 
-themes: ["J MESA", "production", "2025"]
+themes: ["Mixing", "J MESA", "2025"]
 
 isrc: QZTBA2538939
 isrcSource: spotify

@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=A_mbXWe1JFA"
 apple: "https://music.apple.com/us/album/mystery-machine/1526427944?i=1526428041"
 
-themes: ["nostalgia", "friendship", "pandemic", "Masks and Monsters", "cartoon", "music"]
+themes: ["Memory and nostalgia", "Friendship", "The pandemic", "Capitalism and work", "San Diego", "cartoon", "Masks and Monsters", "2020"]
 
 isrc: QZES82028822
 isrcSource: soundexchange

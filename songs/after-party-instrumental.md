@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/2VjD8gpDf5KgzylDW5ve2y"
 
+themes: ["instrumental", "AFTER-PARTY", "US", "Möbius", "2025"]
+
 isrc: QZMEN2505194
 isrcSource: spotify
 draft: false

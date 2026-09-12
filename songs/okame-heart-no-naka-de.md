@@ -26,7 +26,7 @@ spotify: "https://open.spotify.com/track/53Oues8fOfAECbbEbOL8OY"
 apple: "https://music.apple.com/us/song/in-the-heart/1867075175"
 youtube: "https://www.youtube.com/watch?v=-82K5XLD-P0"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "OKAME", "CHAI", "MANA", "KANA", "Japan", "DEBUT", "2026"]
 
 isrc: JP92J2505190
 isrcSource: spotify

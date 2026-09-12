@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/slow-jam-wav-stolen-off-of-napster/1585121212?i=1585121221"
 
-themes: ["Big Hug", "nostalgia", "90s", "Napster", "romance"]
+themes: ["Memory and nostalgia", "Love", "The internet", "Soul and R&B", "90s", "Napster", "Big Hug", "2021"]
 
 isrc: QZHN42161001
 isrcSource: soundexchange

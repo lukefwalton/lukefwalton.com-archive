@@ -11,7 +11,7 @@ artist: "Luke Walton"
 
 credits: "Words and music by Luke Walton."
 
-themes: ["Luke Walton", "Heart in Hand", "isolation", "2008"]
+themes: ["Isolation", "California", "Luke Walton", "Heart in Hand", "2008"]
 
 lyrics: |
   Standin' still in the midst of all the flashin' lights,

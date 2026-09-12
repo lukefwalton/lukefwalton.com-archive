@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/main-character-energy/1786629815?i=1786629816"
 
-themes: ["gaming", "identity", "Japan", "US", "main character"]
+themes: ["main character energy", "gaming", "identity", "US", "2025"]
 
 isrc: QT3EX2463508
 isrcSource: soundexchange

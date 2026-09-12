@@ -29,7 +29,6 @@ topicsDiscussed:
   - "Hip-hop"
   - "Soul and R&B"
   - "Funk"
-  - "Session musicianship"
   - "Train-station jingles"
 
 hostNote: |

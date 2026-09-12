@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/blanket/1111956961?i=1111957078"
 
-themes: ["FEiN", "Little Homes", "hospital", "Marx", "little home", "2016"]
+themes: ["Death", "Philosophy", "Capitalism and work", "Homelessness", "Memory and nostalgia", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600013
 isrcSource: soundexchange

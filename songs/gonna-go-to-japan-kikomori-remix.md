@@ -14,7 +14,7 @@ remixOf: "Gonna Go To Japan"
 
 spotify: "https://open.spotify.com/track/6Umv6VL2OdrRCZV9wF2dWN"
 
-themes: ["remix", "Japan", "Moonlight Beach", "2025"]
+themes: ["remix", "Japan", "Moonlight Beach", "kikomori", "2025"]
 
 isrc: US6R22520348
 isrcSource: soundexchange

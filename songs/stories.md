@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 youtube: "https://www.youtube.com/watch?v=rc_exGnBdCA"
 officialVideo: "https://www.youtube.com/watch?v=rc_exGnBdCA"
 
-themes: ["anxiety", "internet", "catastrophe", "MÖB", "stories"]
+themes: ["Anxiety", "The internet", "AI", "Satire and absurdism", "catastrophizing", "MÖB", "2023"]
 
 isrc: QZK6M2386628
 isrcSource: soundexchange

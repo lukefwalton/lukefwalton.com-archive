@@ -17,7 +17,7 @@ officialVideo: "https://www.youtube.com/watch?v=xupSNIigymg"
 apple: "https://music.apple.com/us/song/derrida-makes-a-diff%C3%A9rance/1526428042"
 youtube: "https://www.youtube.com/watch?v=xupSNIigymg"
 
-themes: ["meaning", "nihilism", "cosmology", "Masks and Monsters", "Derrida", "family"]
+themes: ["Philosophy", "nihilism", "Derrida", "Loneliness", "family", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060463
 isrcSource: soundexchange

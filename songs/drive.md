@@ -18,7 +18,7 @@ press:
 spotify: "https://open.spotify.com/track/1BimcwuLFVa0eW2vVXKEjI"
 officialVideo: "https://www.youtube.com/watch?v=vwc9u4CusOA"
 
-themes: ["Tamtam", "production", "2018", "Saudi Arabia"]
+themes: ["Music production", "Collaboration", "Saudi Arabia", "Tamtam", "2018"]
 
 isrc: GBKPL1808777
 isrcSource: spotify

@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/quiet-your-mind/1816392866?i=1816392867"
 
-themes: ["belief", "consciousness", "devotion", "US"]
+themes: ["Anxiety", "Philosophy", "belief", "consciousness", "US", "2025"]
 
 isrc: QZRP52562439
 isrcSource: soundexchange

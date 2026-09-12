@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album 
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/in-peacetime-goku-smokes-blunts/1500711275?i=1500711368"
 
-themes: ["Dragon Ball Z", "parody", "hip-hopera", "stoner", "peacetime"]
+themes: ["Dragon Ball Z", "Weed", "hip-hopera", "Satire and absurdism", "peacetime", "Dragon Ball $d", "2020"]
 
 isrc: QZFZ42072637
 isrcSource: soundexchange

@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=7AllVYay4Wc"
 officialVideo: "https://www.youtube.com/watch?v=7AllVYay4Wc"
 apple: "https://music.apple.com/us/album/k%C5%8Dan/1618191665"
 
-themes: ["KŌAN", "funk", "depression", "news", "work", "relationships", "post-pandemic"]
+themes: ["Mental health", "Anxiety", "Capitalism and work", "The pandemic", "Funk", "KŌAN", "2022"]
 
 press:
   - outlet: "Beformer: Get the Funk Out of My Head on Spotify Soirée (Instagram)"

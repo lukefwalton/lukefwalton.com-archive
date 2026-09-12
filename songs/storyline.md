@@ -11,7 +11,7 @@ artist: "Luke Walton"
 
 credits: "Words and music by Luke Walton."
 
-themes: ["Luke Walton", "Heart in Hand", "performance", "2008"]
+themes: ["Loneliness", "Love", "performance", "Luke Walton", "Heart in Hand", "2008"]
 
 lyrics: |
   All alone in a crowded place,

@@ -11,7 +11,7 @@ artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
 
-themes: ["2018", "Halloween", "Tolkien", "pre-WAMI"]
+themes: ["Satire and absurdism", "Halloween", "Tolkien", "pre-WAMI", "2018"]
 
 isrc: QZDA71866183
 isrcSource: soundexchange

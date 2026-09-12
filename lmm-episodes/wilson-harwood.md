@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Mixing"
   - "The music business"
   - "Drums"
-  - "Reverb"
+  - "Reverb and delay"
   - "Los Angeles"
   - "San Diego"
   - "Quitting your job"

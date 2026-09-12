@@ -13,7 +13,7 @@ credits: "Spotify lists J MESA and Scoobert Doobert as artists. Deezer writer me
 
 spotify: "https://open.spotify.com/track/7xLPHO0iQmoFnDSLXK0JrX"
 
-themes: ["J MESA", "collaboration", "2024", "Taylor James", "Babidi"]
+themes: ["Collaboration", "J MESA", "Taylor James", "Babidi", "2024"]
 
 isrc: QZZ782456907
 isrcSource: soundexchange

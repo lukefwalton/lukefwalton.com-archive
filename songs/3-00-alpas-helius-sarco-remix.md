@@ -14,7 +14,7 @@ remixOf: "3:00"
 
 spotify: "https://open.spotify.com/track/7cV0nRDAHTXyZnUj9kEhio"
 
-themes: ["remix", "Limón Limón", "2024"]
+themes: ["remix", "Limón Limón", "Monterrey", "2024"]
 
 isrc: QZWFH2440352
 isrcSource: spotify

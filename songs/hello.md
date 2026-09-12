@@ -12,7 +12,7 @@ artist: "Limón Limón & Scoobert Doobert"
 spotify: "https://open.spotify.com/track/54mn33rAljLOALgsxX8EXG"
 bandcamp: "https://limonlimonmusic.bandcamp.com/track/hello"
 
-themes: ["Limón Limón", "collaboration", "2024"]
+themes: ["Friendship", "Collaboration", "Limón Limón", "Monterrey", "2024"]
 
 isrc: QZDA82483899
 isrcSource: soundexchange

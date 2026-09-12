@@ -17,7 +17,7 @@ spotifyUrl: "https://open.spotify.com/episode/1iPe2yjG7uhvvcGfm5U5Hr"
 
 topicsDiscussed:
   - "Mixing"
-  - "Reverb"
+  - "Reverb and delay"
   - "Spatial audio"
   - "Effects"
   - "Drums"

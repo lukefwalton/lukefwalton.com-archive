@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/a-real-monster-vegetas-sacrifice-feat-nick-belcher/1500711275?i=1500711377"
 
-themes: ["Dragon Ball Z", "Vegeta", "Majin Buu", "sacrifice", "hip-hopera"]
+themes: ["Dragon Ball Z", "Death", "sacrifice", "hip-hopera", "Vegeta", "Majin Buu", "Dragon Ball $d", "2020"]
 
 isrc: QZFZ42072645
 isrcSource: soundexchange

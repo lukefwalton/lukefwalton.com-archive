@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=wIYgvw62xUI"
 apple: "https://music.apple.com/us/album/flip-flop-phil/1526427944?i=1526428029"
 
-themes: ["Masks and Monsters", "character study", "open mic", "San Diego", "Jethro Tull"]
+themes: ["Satire and absurdism", "open mic", "Jethro Tull", "San Diego", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060453
 isrcSource: soundexchange

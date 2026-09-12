@@ -15,7 +15,7 @@ coverOf: "Nico Touches the Walls"
 spotify: "https://open.spotify.com/track/7xIOdjLApgbk14Hi8oLGQ4"
 officialVideo: "https://www.youtube.com/watch?v=BCDUhIRTbAo"
 
-themes: ["cover", "anime", "Japan", "Fullmetal Alchemist", "2020"]
+themes: ["cover", "Japan", "Nico Touches the Walls", "Fullmetal Alchemist", "2020"]
 
 isrc: QZK6H2004636
 isrcSource: soundexchange

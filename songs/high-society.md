@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=-vjucF-5-Ss"
 officialVideo: "https://www.youtube.com/watch?v=-vjucF-5-Ss"
 apple: "https://music.apple.com/us/album/k%C5%8Dan/1618191665"
 
-themes: ["KŌAN", "social media", "anxiety", "wellness culture", "nostalgia", "choice"]
+themes: ["Anxiety", "The internet", "Satire and absurdism", "Memory and nostalgia", "Imposter syndrome", "KŌAN", "2022"]
 
 press:
   - outlet: "Beformer: Spotify Indie Brandneu (Instagram)"

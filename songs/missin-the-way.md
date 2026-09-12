@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/missin-the-way"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "heartbreak", "2010"]
+themes: ["Heartbreak", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   I'm missin the way we used to be,

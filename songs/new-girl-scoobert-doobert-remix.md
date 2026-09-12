@@ -14,7 +14,7 @@ productionRoles: "Remix"
 
 spotify: "https://open.spotify.com/track/4jhdvuaA1XCOJdDSoMbpuB"
 
-themes: ["remix", "Jamie Drake", "2023"]
+themes: ["remix", "Music production", "Mixing", "Jamie Drake", "2023"]
 
 press:
   - outlet: "Jamie Drake: New Girl (Scoobert Doobert Remix) announce (Instagram)"

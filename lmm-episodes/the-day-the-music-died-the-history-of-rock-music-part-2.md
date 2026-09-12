@@ -23,7 +23,7 @@ topicsDiscussed:
   - "California"
   - "Songwriting"
   - "Genre"
-  - "Reverb"
+  - "Reverb and delay"
   - "The music business"
   - "Radio and broadcast"
 

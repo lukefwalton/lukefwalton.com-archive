@@ -12,6 +12,8 @@ artistId: "#scoobert"
 
 instrumental: true
 
+themes: ["instrumental", "Death", "Religion and heaven", "to sleep", "2018"]
+
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/thats-known-only-to-the-god"
 
 draft: false

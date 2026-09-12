@@ -10,6 +10,8 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/2YNlTYJq7sDnHLuIwhqlwr"
 
+themes: ["instrumental", "Finding $D", "2018"]
+
 isrc: TCADN1849872
 isrcSource: soundexchange
 draft: false

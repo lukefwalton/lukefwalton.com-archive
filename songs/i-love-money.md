@@ -21,7 +21,7 @@ press:
   - outlet: "Indie Shuffle: I Love Money"
     url: "https://www.indieshuffle.com/scoobert-doobert-i-love-money"
 
-themes: ["capitalism", "Big Hug", "satire", "hustle culture", "class", "meme stocks"]
+themes: ["Capitalism and work", "Satire and absurdism", "Big Hug", "2021"]
 
 isrc: QZK6M2182489
 isrcSource: soundexchange

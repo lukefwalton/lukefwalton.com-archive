@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Friendship"
   - "Singing and vocals"
   - "The pandemic"
-  - "Reverb"
+  - "Reverb and delay"
   - "Effects"
   - "Mixing"
 

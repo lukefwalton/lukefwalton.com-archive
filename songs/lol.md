@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/lol/1797939506?i=1797939507"
 youtube: "https://www.youtube.com/watch?v=102G_fiuUqg"
 officialVideo: "https://www.youtube.com/watch?v=102G_fiuUqg"
 
-themes: ["anxiety", "social", "humor", "US", "communication"]
+themes: ["Anxiety", "Friendship", "Satire and absurdism", "US", "2025"]
 
 isrc: QZHN42537347
 isrcSource: soundexchange

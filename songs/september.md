@@ -15,7 +15,7 @@ coverOf: "Earth, Wind & Fire"
 
 spotify: "https://open.spotify.com/track/7n40YhDRGRow6PgquDAWRm"
 
-themes: ["KŌAN", "cover", "2022"]
+themes: ["cover", "Earth, Wind & Fire", "KŌAN", "2022"]
 
 press:
   - outlet: "Beformer: September on Spotify metropolis (Instagram)"

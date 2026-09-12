@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=wVRJ5E4spXs"
 apple: "https://music.apple.com/us/album/dont-know-much/1558296985?i=1558297086"
 officialVideo: "https://www.youtube.com/watch?v=uCHW0_DCD6c"
 
-themes: ["anxiety", "impostor syndrome", "Little Hug", "recovery", "humility", "philosophy", "Socratic irony"]
+themes: ["Imposter syndrome", "Anxiety", "Philosophy", "Socratic irony", "Little Hug", "2021"]
 
 isrc: QZNWU2063474
 isrcSource: soundexchange

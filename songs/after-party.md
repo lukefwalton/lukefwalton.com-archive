@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: 
 
 apple: "https://music.apple.com/us/album/after-party/1807987972?i=1807987973"
 
-themes: ["night", "party", "US", "after-hours"]
+themes: ["nightlife", "refusal", "The beach", "US", "2025"]
 
 isrc: QZMEN2505192
 isrcSource: soundexchange

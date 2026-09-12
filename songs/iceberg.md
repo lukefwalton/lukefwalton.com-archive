@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "Clyde Rivers × Scoobert Doobert"
 spotify: "https://open.spotify.com/track/3zPQuAUAcknxdUBpRVc8Qs"
 
-themes: ["Clyde Rivers", "collaboration", "2022", "international"]
+themes: ["Clyde Rivers", "Collaboration", "2022"]
 
 isrc: GBKPL2282538
 isrcSource: spotify

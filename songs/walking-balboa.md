@@ -12,6 +12,8 @@ artistId: "#scoobert"
 instrumental: true
 spotify: "https://open.spotify.com/track/47OwkaMNL8gKDWxxMF9s2c"
 
+themes: ["instrumental", "The beach", "San Diego", "Little Hug", "2021"]
+
 isrc: QZDA82108361
 isrcSource: soundexchange
 draft: false

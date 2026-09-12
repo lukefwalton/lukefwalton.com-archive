@@ -13,6 +13,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/7sLZGYOWGpKUEXm6j06mhZ"
 
+themes: ["instrumental", "Memory and nostalgia", "N64", "KŌAN", "2022"]
+
 isrc: QZDA82294197
 isrcSource: soundexchange
 draft: false

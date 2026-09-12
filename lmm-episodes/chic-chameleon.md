@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Singing and vocals"
   - "Drums"
   - "Effects"
-  - "Reverb"
+  - "Reverb and delay"
   - "The music business"
   - "Shoegaze and dream pop"
 

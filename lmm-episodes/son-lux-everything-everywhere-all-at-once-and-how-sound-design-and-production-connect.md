@@ -19,7 +19,7 @@ topicsDiscussed:
   - "Scoring for picture"
   - "Music production"
   - "Drums"
-  - "Reverb"
+  - "Reverb and delay"
   - "Electronic music"
   - "Analog"
   - "Microphones"

@@ -16,7 +16,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 spotify: "https://open.spotify.com/track/5dmIKN6Opu0Ma96OexYYPs"
 officialVideo: "https://www.youtube.com/watch?v=79L5CdTl4yo"
 
-themes: ["WAMI", "2018", "pre-WAMI", "snack", "instrumental"]
+themes: ["instrumental", "snack", "pre-WAMI", "Finding $D", "2018"]
 
 isrc: TCADN1849862
 isrcSource: soundexchange

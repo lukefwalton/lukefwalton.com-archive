@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/gonna-go-to-japan/1675559395?i=1675559406"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
 
-themes: ["Japan", "travel", "anticipation", "Moonlight Beach"]
+themes: ["Japan", "California", "Moonlight Beach", "2023"]
 
 isrc: QZTB62253074
 isrcSource: soundexchange

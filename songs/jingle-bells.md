@@ -15,7 +15,7 @@ coverOf: "James Lord Pierpont"
 
 spotify: "https://open.spotify.com/track/4e2ZhxvureNDCUwzuf5Zl9"
 
-themes: ["cover", "Christmas", "2023"]
+themes: ["cover", "James Lord Pierpont", "Christmas", "2023"]
 
 isrc: QZTB82372696
 isrcSource: soundexchange

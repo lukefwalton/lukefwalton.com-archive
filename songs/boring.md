@@ -13,7 +13,7 @@ productionRoles: "Mixed"
 
 spotify: "https://open.spotify.com/track/3nuUBXPu1aBXuphttkPk1O"
 
-themes: ["Garvie", "mixing", "2024"]
+themes: ["Mixing", "Garvie", "2024"]
 
 isrc: QZWFR2384079
 isrcSource: spotify

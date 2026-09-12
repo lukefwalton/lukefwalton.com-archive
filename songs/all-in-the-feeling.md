@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Malik LovesYall. Performed by Scoob
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/all-in-the-feeling/1585121212?i=1585121528"
 
-themes: ["funk", "feeling", "Big Hug", "confidence", "survival"]
+themes: ["Funk", "Satire and absurdism", "resilience", "Collaboration", "Big Hug", "2021"]
 
 isrc: QZMEP2188963
 isrcSource: soundexchange

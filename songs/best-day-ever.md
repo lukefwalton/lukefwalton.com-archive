@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW"
 apple: "https://music.apple.com/us/song/best-day-ever/1832440500"
 youtube: "https://www.youtube.com/watch?v=wR2Ev0FaEms"
 
-themes: ["friendship", "joy"]
+themes: ["Friendship", "Capitalism and work", "Weed", "2025"]
 
 isrc: QZWFV2556300
 isrcSource: spotify

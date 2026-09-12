@@ -15,7 +15,7 @@ press:
 year: 2015
 releaseType: "single"
 
-themes: ["FEiN", "Lara Johnston", "Tiny Giant", "collaboration", "funk", "2015"]
+themes: ["Funk", "Collaboration", "FEiN", "Lara Johnston", "Tiny Giant", "2015"]
 
 draft: false
 ---

@@ -25,7 +25,7 @@ press:
     url: "https://thenewlofi.com/scoobert-dooberts-new-single-is-a-breezy-indie-pop-hug-that-questions-our-modern-way-of-life/"
     desc: "January 2022 release feature: Fresh Finds, Fresh Finds Pop, and Indie Brandneu editorial adds."
 
-themes: ["work", "freedom", "beach", "KŌAN", "internet"]
+themes: ["Quitting your job", "Capitalism and work", "The beach", "The internet", "Spatial audio", "KŌAN", "2022"]
 
 isrc: QZNWY2174560
 isrcSource: soundexchange

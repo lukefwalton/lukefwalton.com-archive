@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 officialVideo: "https://www.youtube.com/watch?v=houowAymisY"
 apple: "https://music.apple.com/us/album/little-hug/1558296985"
 
-themes: ["Little Hug", "internet", "loneliness", "social media", "parasocial"]
+themes: ["The internet", "Loneliness", "parasocial", "Little Hug", "2021"]
 
 isrc: QZDA82108367
 isrcSource: soundexchange

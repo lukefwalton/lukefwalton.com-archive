@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/0eJ90TZXq8ZtzIug3SuURo"
 bandcamp: "https://applcomm.bandcamp.com/"
 officialVideo: "https://www.youtube.com/watch?v=kRERy68a4DI"
 
-themes: ["applied communications", "mixing", "2025", "Max Wood"]
+themes: ["Mixing", "Applied Communications", "Max Wood", "greatest applied communications music", "2025"]
 
 isrc: QZZ7K2488083
 isrcSource: spotify

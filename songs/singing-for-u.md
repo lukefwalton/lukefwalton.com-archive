@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/singing-for-u/1734387671?i=1734387676"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["love", "music", "devotion", "I", "u"]
+themes: ["Love", "Religion and heaven", "Songwriting", "devotion", "I", "u"]
 
 isrc: QZES72489606
 isrcSource: soundexchange

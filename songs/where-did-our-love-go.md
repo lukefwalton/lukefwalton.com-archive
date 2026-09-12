@@ -15,7 +15,7 @@ coverOf: "The Supremes"
 
 spotify: "https://open.spotify.com/track/4LmGbORIr2OmcwS6IcU3F2"
 
-themes: ["Big Hug", "cover", "2021"]
+themes: ["Heartbreak", "cover", "The Supremes", "Big Hug", "2021"]
 
 isrc: QZMEP2188960
 isrcSource: soundexchange

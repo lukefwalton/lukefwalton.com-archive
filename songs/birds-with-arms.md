@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/birds-with-arms/1532121341?i=1532121346
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/watch?v=Tu1DuubFYeg"
 
-themes: ["Plague Beats", "meme", "2020", "internet", "absurdism"]
+themes: ["Satire and absurdism", "The internet", "Plague Beats", "2020"]
 
 isrc: QZK6H2062926
 isrcSource: soundexchange

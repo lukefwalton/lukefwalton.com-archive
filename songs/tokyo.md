@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8"
 apple: "https://music.apple.com/us/album/413-ep/681835750"
 youtube: "https://www.youtube.com/watch?v=P7wUKeN1Odo"
 
-themes: ["Exist Elsewhere", "413", "Japan", "2013", "Kokoro", "authorship", "escape"]
+themes: ["Japan", "Love", "Philosophy", "Kokoro", "Exist Elsewhere", "413", "2013"]
 
 isrc: USHM81320565
 isrcSource: spotify

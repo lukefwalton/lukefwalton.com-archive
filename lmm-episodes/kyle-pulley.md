@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Bass"
   - "Drums"
   - "Analog"
-  - "Reverb"
+  - "Reverb and delay"
   - "Collaboration"
   - "The pandemic"
   - "Mastering"

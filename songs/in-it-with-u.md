@@ -18,7 +18,7 @@ press:
     url: "https://www.nagamag.com/the-latest/in-it-with-u-scoobert-doobert"
     desc: "Carefree rhythm, charming vocals, love everywhere, reviewed Nov 9, 2024."
 
-themes: ["love", "collaboration", "2024", "India Thieriot"]
+themes: ["Love", "Collaboration", "India Thieriot", "New York", "2024"]
 
 isrc: QZWFE2432919
 isrcSource: soundexchange

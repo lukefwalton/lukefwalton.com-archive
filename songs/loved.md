@@ -29,7 +29,7 @@ press:
   - outlet: "YouTube search: LOVED FEiN (PMV/AMV videos)"
     url: "https://www.youtube.com/results?search_query=LOVED+FEIN"
 
-themes: ["FEiN", "satire", "generational", "parenting", "2017", "viral", "YouTube", "PMV", "Warrior Cats", "Wings of Fire"]
+themes: ["Satire and absurdism", "parenting", "FEiN", "2017", "viral", "PMV", "Warrior Cats", "Wings of Fire"]
 
 isrc: TCACY1730809
 isrcSource: soundexchange

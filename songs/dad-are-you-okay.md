@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/dad-are-you-okay"
 
+themes: ["Death", "Hip-hop", "instrumental", "to sleep", "2018"]
+
 draft: false
 ---
 

@@ -14,7 +14,7 @@ credits: "Words and music by Luke Walton (Luke Francis Walton). The Luke Walton 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/goodbye-2"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "heartbreak", "2010"]
+themes: ["Love", "Heartbreak", "Dreams", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   We're slow dancing on a cloud,

@@ -21,7 +21,7 @@ press:
   - outlet: "Indie Shuffle: Boardwalk"
     url: "https://www.indieshuffle.com/scoobert-doobert-boardwalk"
 
-themes: ["beach", "KŌAN", "One Piece", "class", "idle"]
+themes: ["The beach", "Capitalism and work", "Mental health", "Loneliness", "One Piece", "KŌAN", "2022"]
 
 isrc: QZFYZ2298245
 isrcSource: soundexchange

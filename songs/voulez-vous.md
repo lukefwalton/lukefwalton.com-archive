@@ -13,7 +13,7 @@ coverOf: "ABBA"
 
 spotify: "https://open.spotify.com/track/2RPO2DDT5QZt9UVKwDHoNe"
 
-themes: ["I Don't Speak French", "collaboration", "cover", "2023"]
+themes: ["Collaboration", "cover", "ABBA", "I Don't Speak French", "2023"]
 
 press:
   - outlet: "Indieshake × Beformer: Voulez-Vous editorial carousel (Instagram)"

@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/track/7FBNWiTOtsNfaG4LlIzwuA"
 apple: "https://music.apple.com/us/song/what-makes-you-you/1618192114"
 youtube: "https://www.youtube.com/watch?v=H33I3pAdmNs"
 
-themes: ["KŌAN", "identity", "music", "adulthood", "midwest"]
+themes: ["identity", "Philosophy", "Capitalism and work", "adulthood", "midwest", "KŌAN", "2022"]
 
 isrc: QZES92291016
 isrcSource: soundexchange

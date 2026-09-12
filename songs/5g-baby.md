@@ -15,7 +15,7 @@ credits: "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Perform
 
 apple: "https://music.apple.com/us/album/5g-baby-feat-robel-ketema/1590880152?i=1590880154"
 
-themes: ["internet", "love", "technology", "AIM", "connection"]
+themes: ["Love", "The internet", "Memory and nostalgia", "Collaboration", "AIM", "2021"]
 
 isrc: QZNWU2110595
 isrcSource: soundexchange

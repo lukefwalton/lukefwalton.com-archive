@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/6MUEVrSTVhhCS4OgLK9aZc"
 
+themes: ["instrumental", "LOL", "US", "2025"]
+
 isrc: QZHN42537349
 isrcSource: spotify
 draft: false

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/golden-state-of-mind/1734387671?i=1734387746"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["California", "peace", "nature", "I", "travel"]
+themes: ["California", "San Diego", "Philosophy", "I", "2024"]
 
 isrc: QZES92483682
 isrcSource: soundexchange

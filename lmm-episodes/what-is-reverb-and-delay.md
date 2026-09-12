@@ -16,8 +16,7 @@ appleUrl: "https://podcasts.apple.com/us/podcast/what-is-reverb-and-delay/id1567
 spotifyUrl: "https://open.spotify.com/episode/2FlqfMroKRqYtBkH2FHFYn"
 
 topicsDiscussed:
-  - "Reverb"
-  - "Delay"
+  - "Reverb and delay"
   - "Spatial audio"
   - "Mixing"
   - "Effects"

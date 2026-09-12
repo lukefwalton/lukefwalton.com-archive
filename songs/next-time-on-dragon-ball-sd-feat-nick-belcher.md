@@ -13,7 +13,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Featured vocal: 
 
 spotify: "https://open.spotify.com/track/5I0sANWwQy5ug3ksuZLCn5"
 
-themes: ["Dragon Ball", "Nick Belcher", "2018"]
+themes: ["Dragon Ball Z", "Nick Belcher", "WAMI", "2018"]
 
 isrc: USLZJ1826977
 isrcSource: soundexchange

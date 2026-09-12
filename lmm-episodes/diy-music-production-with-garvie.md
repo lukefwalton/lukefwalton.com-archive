@@ -19,7 +19,7 @@ spotifyUrl: "https://open.spotify.com/episode/4EVtJ0r2tkeBTzlXqTMMT1"
 topicsDiscussed:
   - "Music production"
   - "Mixing"
-  - "Reverb"
+  - "Reverb and delay"
   - "Songwriting"
   - "Guitar"
   - "Radio and broadcast"

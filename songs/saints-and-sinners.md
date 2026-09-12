@@ -18,7 +18,7 @@ press:
   - outlet: "Julia Ryan: Saints And Sinners (SoundCloud)"
     url: "https://soundcloud.com/julia-ryan-music/saints-and-sinners"
 
-themes: ["Julia Ryan", "FEiN", "Tiny Giant", "USC Thornton", "2016", "session", "rock"]
+themes: ["Music production", "Collaboration", "Julia Ryan", "FEiN", "Tiny Giant", "2016"]
 
 draft: false
 ---

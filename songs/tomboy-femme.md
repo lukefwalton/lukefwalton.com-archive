@@ -20,7 +20,7 @@ spotify: "https://open.spotify.com/track/4Lof7jkSK9q3tvHmYjyQAu"
 bandcamp: "https://applcomm.bandcamp.com/album/applied-communications-has-a-midlife-crisis"
 officialVideo: "https://www.youtube.com/watch?v=gSDSpRn-LHE"
 
-themes: ["applied communications", "mixing", "2024"]
+themes: ["Mixing", "applied communications", "Midlife Crisis", "2024"]
 
 isrc: QZFYZ2480431
 isrcSource: spotify

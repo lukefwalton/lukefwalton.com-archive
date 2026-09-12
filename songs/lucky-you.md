@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mi
 apple: "https://music.apple.com/us/album/lucky-you/1433490143?i=1433490149"
 spotify: "https://open.spotify.com/track/6I3mzmCFomvtpWl7Ie1Eds"
 
-themes: ["FEiN", "control", "theatrical pop", "pity", "medication"]
+themes: ["control", "pity", "medication", "FEiN", "2018"]
 
 isrc: QZDA81887924
 isrcSource: spotify

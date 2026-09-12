@@ -11,7 +11,7 @@ artist: "Luke Walton"
 
 credits: "Words and music by Luke Walton."
 
-themes: ["Luke Walton", "Just A Friend", "heartbreak", "2007"]
+themes: ["Heartbreak", "Love", "Luke Walton", "Just A Friend", "2007"]
 
 lyrics: |
   She was a dancer,

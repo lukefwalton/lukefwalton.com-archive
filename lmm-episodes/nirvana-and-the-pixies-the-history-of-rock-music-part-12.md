@@ -22,7 +22,7 @@ topicsDiscussed:
   - "Bass"
   - "Drums"
   - "Songwriting"
-  - "Reverb"
+  - "Reverb and delay"
   - "Genre"
   - "Music theory"
   - "The home studio"

@@ -18,7 +18,7 @@ press:
   - outlet: "Julia Ryan: What You Want (Slow It Down) (SoundCloud)"
     url: "https://soundcloud.com/julia-ryan-music/what-you-want-slow-it-down"
 
-themes: ["Julia Ryan", "FEiN", "Tiny Giant", "USC Thornton", "2016", "session", "soul pop"]
+themes: ["Love", "Soul and R&B", "Music production", "Collaboration", "Julia Ryan", "FEiN", "Tiny Giant", "2016"]
 
 draft: false
 ---

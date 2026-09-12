@@ -14,7 +14,7 @@ coverOf: "ABBA"
 
 spotify: "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl"
 
-themes: ["cover", "Lou Roy", "collaboration", "2022"]
+themes: ["cover", "ABBA", "Love", "Lou Roy", "Collaboration", "2022"]
 
 isrc: QZMEP2221941
 isrcSource: soundexchange

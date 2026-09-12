@@ -17,7 +17,7 @@ officialVideo: "https://www.youtube.com/watch?v=37OAVA5Sda4"
 apple: "https://music.apple.com/us/album/finding-%24d-remastered/1506552414"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Scoobert Doobert", "flu", "religion", "Finding $D", "fever", "Madeline"]
+themes: ["Religion and heaven", "Satire and absurdism", "fever", "Madeline", "Finding $D", "2017"]
 
 isrc: TCADN1849870
 isrcSource: soundexchange

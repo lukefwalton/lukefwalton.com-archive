@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/ally-to-good-nightmare-to-you-goku-or-jesus-feat-nick-belcher/1500711275?i=1500711375"
 
-themes: ["Dragon Ball Z", "Goku", "savior", "parody", "hip-hopera"]
+themes: ["Dragon Ball Z", "Religion and heaven", "Satire and absurdism", "hip-hopera", "Nick Belcher", "Dragon Ball $d", "2020"]
 
 isrc: QZFZ42072643
 isrcSource: soundexchange

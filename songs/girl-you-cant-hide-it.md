@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/girl-you-cant-hide-it/1111956961?i=1111956967"
 
-themes: ["FEiN", "Little Homes", "suburbia", "marriage", "satire", "2016"]
+themes: ["Love", "Heartbreak", "suburbia", "FEiN", "Little Homes", "2016"]
 
 press:
   - outlet: "Fresh Beats 365: *Little Little Homes* EP review"

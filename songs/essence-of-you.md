@@ -15,7 +15,7 @@ spotify: "https://open.spotify.com/track/6x7CpNe0JUdKjLbVY5tClj"
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
 
-themes: ["2018", "instrumental", "WAMI"]
+themes: ["instrumental", "WAMI", "2018"]
 
 isrc: USLZJ1826950
 isrcSource: soundexchange

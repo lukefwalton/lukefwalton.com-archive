@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/roadtrip/1111956961?i=1111957073"
 
-themes: ["FEiN", "Little Homes", "relationship", "memory", "2016"]
+themes: ["Love", "Memory and nostalgia", "Weed", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600010
 isrcSource: soundexchange

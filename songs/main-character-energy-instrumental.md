@@ -14,6 +14,8 @@ instrumental: true
 
 spotify: "https://open.spotify.com/track/6g6Vj4RnZrQLIwqA4kWrbf"
 
+themes: ["instrumental", "MAIN CHARACTER ENERGY", "US", "2025"]
+
 isrc: QT3EX2463509
 isrcSource: spotify
 draft: false

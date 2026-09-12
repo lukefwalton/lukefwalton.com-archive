@@ -28,7 +28,7 @@ press:
   - outlet: "The Damyang Drop with Scoobert Doobert (Spotify guest playlist)"
     url: "https://open.spotify.com/playlist/77UWmPK3oGauWe5xs5d2S6"
 
-themes: ["KŌAN", "koan", "existentialism", "NFT", "quantum", "experimental funk"]
+themes: ["Philosophy", "Religion and heaven", "The internet", "KŌAN", "NFT", "quantum", "2022"]
 
 isrc: QZDA42257782
 isrcSource: soundexchange

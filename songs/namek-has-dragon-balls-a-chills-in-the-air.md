@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Featur
 spotify: "https://open.spotify.com/album/7q5q0RcMxVHR381gS3r1ri"
 apple: "https://music.apple.com/us/album/namek-has-dragon-balls-a-chills-in-the-air-feat/1500711275?i=1500711371"
 
-themes: ["Dragon Ball Z", "Namek", "Bulma", "fan theory", "hip-hopera"]
+themes: ["Dragon Ball Z", "Namek", "Bulma", "fan theory", "hip-hopera", "Babidi", "Gokudaxij", "Dragon Ball $d", "2020"]
 
 isrc: QZFZ42072640
 isrcSource: soundexchange

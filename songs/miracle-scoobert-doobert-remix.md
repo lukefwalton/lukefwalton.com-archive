@@ -23,7 +23,7 @@ press:
 
 spotify: "https://open.spotify.com/track/16OHMBeaRlOu4vKV0G0v6Y"
 
-themes: ["CHAI", "remix", "Sub Pop", "Japan", "WINK", "2022"]
+themes: ["CHAI", "remix", "Music production", "Mixing", "Sub Pop", "Japan", "WINK", "2022"]
 
 isrc: JPP302101974
 isrcSource: soundexchange

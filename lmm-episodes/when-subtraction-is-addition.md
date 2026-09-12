@@ -23,7 +23,7 @@ topicsDiscussed:
   - "Bass"
   - "Drums"
   - "Effects"
-  - "Reverb"
+  - "Reverb and delay"
   - "Piano, synth, and keys"
   - "Plugins"
   - "Genre"

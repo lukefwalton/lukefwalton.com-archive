@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL"
 apple: "https://music.apple.com/us/album/economic-kama-sutra/1506552414?i=1506552560"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Finding $D", "politics", "satire", "2017"]
+themes: ["Satire and absurdism", "Capitalism and work", "Philosophy", "Funk", "Finding $D", "2017"]
 
 isrc: TCADN1849868
 isrcSource: soundexchange

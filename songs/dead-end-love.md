@@ -14,7 +14,7 @@ credits: "Written by Luke Francis Walton. The Luke Walton Band: Logan Shrewsbury
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/dead-end-love"
 
-themes: ["The Luke Walton Band", "Goodbye/Hello", "heartbreak", "2010"]
+themes: ["Heartbreak", "Love", "The Luke Walton Band", "Goodbye/Hello", "2010"]
 
 lyrics: |
   One shot lovers in the back of a room,

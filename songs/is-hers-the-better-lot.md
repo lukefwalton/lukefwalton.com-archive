@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/is-hers-the-better-lot"
 
+themes: ["instrumental", "Death", "Hip-hop", "to sleep", "2018"]
+
 draft: false
 ---
 

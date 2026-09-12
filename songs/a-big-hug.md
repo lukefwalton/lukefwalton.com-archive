@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/a-big-hug/1585121212?i=1585121531"
 
-themes: ["mortality", "Big Hug", "humanity", "ukulele"]
+themes: ["Death", "Philosophy", "Loneliness", "Religion and heaven", "Big Hug", "2021"]
 
 isrc: QZMEP2188965
 isrcSource: soundexchange

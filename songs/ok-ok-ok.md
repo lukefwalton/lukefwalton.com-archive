@@ -11,7 +11,7 @@ spotify: "https://open.spotify.com/track/1k00JzeCSZzEtzHf7cvDzF"
 
 coWriters: ["Josh Shpak"]
 
-themes: ["Joshoo", "collaboration", "2023"]
+themes: ["Mental health", "Collaboration", "Joshoo", "2023"]
 
 isrc: USDA12302851
 isrcSource: spotify

@@ -60,7 +60,7 @@ press:
   - outlet: "IMDb: Luke F. Walton (nm3306688)"
     url: "https://www.imdb.com/name/nm3306688/"
 
-themes: ["film", "composer", "Carlsbad", "2009", "Holocaust documentary", "CHSTV"]
+themes: ["Scoring for picture", "Holocaust documentary", "San Diego", "Carlsbad", "CHSTV", "2009"]
 
 draft: false
 ---

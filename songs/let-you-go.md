@@ -12,7 +12,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). FE
 release: "Let You Go"
 releaseType: "single"
 
-themes: ["FEiN", "Caden Jester", "indie dance", "digital", "memory"]
+themes: ["Death", "The internet", "Memory and nostalgia", "indie dance", "FEiN", "Caden Jester", "2017"]
 
 lyrics: |
   Bury it in the cloud where I can find it

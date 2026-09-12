@@ -17,7 +17,7 @@ spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=WU2a2IK7gVw"
 apple: "https://music.apple.com/us/album/happy-birthday-feat-okudaxij/1526427944?i=1526428033"
 
-themes: ["pandemic", "birthday", "isolation", "Masks and Monsters", "Gokudaxij", "family"]
+themes: ["The pandemic", "Isolation", "Loneliness", "Masks and Monsters", "Gokudaxij", "2020"]
 
 isrc: QZK6P2060457
 isrcSource: soundexchange

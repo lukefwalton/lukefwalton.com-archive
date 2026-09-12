@@ -21,7 +21,7 @@ press:
 
 spotify: "https://open.spotify.com/track/3mb82B1pj4OeQyuBOXy0iw"
 
-themes: ["Chan Fuze", "mixing", "2023", "Chicago"]
+themes: ["Mixing", "Chan Fuze", "2023", "Chicago"]
 
 isrc: QZNMV2319861
 isrcSource: spotify

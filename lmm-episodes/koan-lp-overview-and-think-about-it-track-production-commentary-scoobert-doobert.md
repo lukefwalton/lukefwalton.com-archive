@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Effects"
   - "Mixing"
   - "Hip-hop"
-  - "Reverb"
+  - "Reverb and delay"
   - "Organic vs inorganic contrast on KŌAN"
 
 hostNote: |

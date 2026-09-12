@@ -16,7 +16,7 @@ spotify: "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL"
 apple: "https://music.apple.com/us/album/damned/1506552414?i=1506552559"
 bandcamp: "https://scoobertdoobert.bandcamp.com/album/finding-d-lp"
 
-themes: ["Finding $D", "anxiety", "religion", "2017"]
+themes: ["Anxiety", "Religion and heaven", "Finding $D", "2017"]
 
 isrc: TCADN1849867
 isrcSource: soundexchange

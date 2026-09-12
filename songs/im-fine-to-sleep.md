@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/im-fine"
 
+themes: ["instrumental", "Death", "Hip-hop", "to sleep", "2018"]
+
 draft: false
 ---
 

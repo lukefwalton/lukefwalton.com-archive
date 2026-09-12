@@ -13,7 +13,7 @@ credits: "Words and music by Luke Walton. Debut on Just A Friend EP (2007); The 
 
 bandcamp: "https://lukewaltonband.bandcamp.com/track/preschool"
 
-themes: ["Luke Walton", "Preschool", "coming of age", "2006"]
+themes: ["Love", "Heartbreak", "Luke Walton", "Just A Friend", "Blue Suburbia", "2006"]
 
 lyrics: |
   I sat quiet on the floor,

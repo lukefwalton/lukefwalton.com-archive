@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/track/3hfPi3a4TjFGK6psC7o8OZ"
 
 coWriters: ["Edward Fasone"]
 
-themes: ["FASONE", "collaboration", "2022"]
+themes: ["Heartbreak", "Love", "Mental health", "Collaboration", "FASONE", "2022"]
 
 press:
   - outlet: "Beformer: Spotify Fresh Finds Rock (Instagram)"

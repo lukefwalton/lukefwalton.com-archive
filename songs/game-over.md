@@ -29,7 +29,7 @@ spotify: "https://open.spotify.com/track/0hj9WOzAN134qmqqbJBxRG"
 apple: "https://music.apple.com/us/song/game-over/1867075178"
 youtube: "https://www.youtube.com/watch?v=t6-z1JchGEE"
 
-themes: ["OKAME", "CHAI", "MANA", "KANA", "production", "Japan", "DEBUT", "2026"]
+themes: ["Mixing", "Japan", "OKAME", "CHAI", "MANA", "KANA", "DEBUT", "2026"]
 
 isrc: QT66K2590647
 isrcSource: spotify

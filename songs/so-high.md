@@ -19,7 +19,7 @@ press:
 
 spotify: "https://open.spotify.com/track/181XusIWtPURPz7Wz1icX9"
 
-themes: ["Garvie", "mixing", "2023"]
+themes: ["Mixing", "Garvie", "2023"]
 
 isrc: QZTAY2326592
 isrcSource: spotify

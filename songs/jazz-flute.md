@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole Mc
 
 apple: "https://music.apple.com/us/album/jazz-flute/1811369001?i=1811369002"
 
-themes: ["rest", "US", "unplugged", "together", "slow"]
+themes: ["Love", "Jazz", "rest", "unplugged", "US", "2025"]
 
 isrc: QZNWT2523179
 isrcSource: soundexchange

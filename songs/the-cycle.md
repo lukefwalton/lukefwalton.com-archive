@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/the-cycle/1734387671?i=1734387674"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["cycle", "harm", "coping", "I", "Möbius"]
+themes: ["Mental health", "I", "Möbius", "2024"]
 
 isrc: QZFYZ2461802
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, produced, and mixed by Luke Francis Walton. Master
 apple: "https://music.apple.com/us/album/f-k-it-lets-go-bowling/1708670332?i=1708670341"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
 
-themes: ["freedom", "mania", "escape", "MÖB", "work"]
+themes: ["Quitting your job", "Capitalism and work", "The beach", "Weed", "Anxiety", "MÖB", "2023"]
 
 isrc: QZNWZ2329118
 isrcSource: soundexchange

@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/watercolor-sky/1734387671?i=1734387737"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["nature", "sky", "hope", "I", "outside"]
+themes: ["nature", "outside", "hope", "I", "2024"]
 
 isrc: QZDA62475492
 isrcSource: soundexchange

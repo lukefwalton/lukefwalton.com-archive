@@ -14,7 +14,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/merry-christmas-from-the-beach/1784055571?i=1784055572"
 
-themes: ["Christmas", "beach", "California", "Encinitas", "holiday"]
+themes: ["The beach", "Christmas", "Friendship", "California", "San Diego"]
 
 isrc: QZZ7S2486545
 isrcSource: soundexchange

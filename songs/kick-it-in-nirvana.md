@@ -17,7 +17,7 @@ youtube: "https://www.youtube.com/watch?v=YvGk0CU4Cnk"
 officialVideo: "https://www.youtube.com/watch?v=YvGk0CU4Cnk"
 apple: "https://music.apple.com/us/album/kick-it-in-nirvana/1585121212?i=1585121217"
 
-themes: ["Big Hug", "love", "chill", "Malik LovesYall", "post-pandemic", "stoner pop"]
+themes: ["Love", "Weed", "Collaboration", "Malik LovesYall", "Big Hug", "2021"]
 
 isrc: QZHN82197347
 isrcSource: soundexchange

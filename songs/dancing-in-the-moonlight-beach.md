@@ -15,7 +15,7 @@ coverOf: "King Harvest"
 
 spotify: "https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3"
 
-themes: ["Moonlight Beach", "cover", "Encinitas"]
+themes: ["The beach", "San Diego", "cover", "King Harvest", "Moonlight Beach", "2023"]
 
 press:
   - outlet: "Beformer: Indie Covers & Feel Good (Instagram)"

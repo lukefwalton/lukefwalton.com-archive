@@ -11,6 +11,8 @@ artistId: "#scoobert"
 spotify: "https://open.spotify.com/track/5kEd9SGAR4A1Hd02AZaMu3"
 officialVideo: "https://www.youtube.com/watch?v=A1z3q0iVtw0"
 
+themes: ["instrumental", "Weed", "Satire and absurdism", "Plague Beats Vol. 2", "2021"]
+
 isrc: QZHN72103925
 isrcSource: soundexchange
 draft: false

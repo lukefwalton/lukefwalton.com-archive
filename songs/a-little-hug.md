@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Core vocal and u
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 apple: "https://music.apple.com/us/album/little-hug/1558296985"
 
-themes: ["Little Hug", "love", "recovery", "June Lake", "ukulele", "mortality"]
+themes: ["Love", "Religion and heaven", "Little Hug", "June Lake", "2021"]
 
 isrc: QZDA82108368
 isrcSource: soundexchange

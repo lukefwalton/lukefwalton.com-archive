@@ -24,7 +24,7 @@ press:
     date: "2016-04-09"
     desc: "Apr 2016 Q&A: FEiN pick *Don't You* (not yet out) as best summary of their sound, acoustic/electronic first half, found-object sampling second half."
 
-themes: ["FEiN", "Little Homes", "war", "empathy", "2016"]
+themes: ["war", "Love", "Mental health", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600009
 isrcSource: soundexchange

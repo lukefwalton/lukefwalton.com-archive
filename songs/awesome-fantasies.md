@@ -15,7 +15,7 @@ productionRoles: "Mixed"
 spotify: "https://open.spotify.com/track/0kZIKjciclQKSNruqzMhBL"
 bandcamp: "https://applcomm.bandcamp.com/"
 
-themes: ["applied communications", "mixing", "2025", "Max Wood"]
+themes: ["Mixing", "Applied Communications", "Max Wood", "greatest applied communications music", "2025"]
 
 isrc: QZZ7K2488085
 isrcSource: spotify

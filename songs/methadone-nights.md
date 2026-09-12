@@ -19,7 +19,7 @@ press:
 
 spotify: "https://open.spotify.com/track/5YyBtP5eq50UK3DyzWQjt0"
 
-themes: ["Chan Fuze", "mixing", "2023"]
+themes: ["Mixing", "Chan Fuze", "2023"]
 
 isrc: QZNMU2343213
 isrcSource: spotify

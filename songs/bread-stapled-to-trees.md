@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/bread-stapled-to-trees/1532121341?i=153
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/shorts/wjDxtZEuTSg"
 
-themes: ["Plague Beats", "meme", "bread", "2020", "internet"]
+themes: ["Satire and absurdism", "The internet", "bread", "Plague Beats", "2020"]
 
 isrc: QZK6H2062925
 isrcSource: soundexchange

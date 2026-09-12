@@ -31,7 +31,7 @@ press:
     url: "https://www.91x.com/music/scoobert-doobert-dont-worry/"
     desc: "Encinitas origin story: Swami's, Surfing Madonna, Cardiff Kook, learning to jam alone; Surfdog mailer room to Local Break."
 
-themes: ["anxiety", "wellness culture", "Big Hug", "post-pandemic", "satire"]
+themes: ["Anxiety", "Satire and absurdism", "The pandemic", "Big Hug", "2021"]
 
 isrc: QZFZ72184872
 isrcSource: soundexchange

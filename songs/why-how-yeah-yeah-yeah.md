@@ -15,7 +15,7 @@ credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 apple: "https://music.apple.com/us/album/why-how-yeah-yeah/1526427944?i=1526428038"
 
-themes: ["culture war", "work", "myth", "Masks and Monsters", "irony", "loneliness"]
+themes: ["Capitalism and work", "Religion and heaven", "Philosophy", "Satire and absurdism", "Loneliness", "culture war", "Masks and Monsters", "2020"]
 
 isrc: QZK6P2060461
 isrcSource: soundexchange

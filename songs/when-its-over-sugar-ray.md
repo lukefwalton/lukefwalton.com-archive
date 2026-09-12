@@ -15,7 +15,7 @@ coverOf: "Sugar Ray"
 spotify: "https://open.spotify.com/track/5wxlWI9e59pDjdxShfeuLl"
 officialVideo: "https://www.youtube.com/watch?v=EKnKr5SSupE"
 
-themes: ["cover", "2025"]
+themes: ["cover", "Sugar Ray", "2025"]
 
 isrc: QZHNA2631741
 isrcSource: spotify

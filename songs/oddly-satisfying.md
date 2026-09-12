@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/oddly-satisfying/1532121341?i=153212134
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/watch?v=zm9qqbVUAsc"
 
-themes: ["Plague Beats", "philosophy", "ASMR", "2020", "instrumental"]
+themes: ["Philosophy", "ASMR", "Plague Beats", "2020"]
 
 isrc: QZK6H2062922
 isrcSource: soundexchange

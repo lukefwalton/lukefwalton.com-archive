@@ -15,7 +15,7 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/see-you-again/1734387671?i=1734387742"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
-themes: ["loss", "friendship", "memory", "Japan", "I"]
+themes: ["Death", "Friendship", "Memory and nostalgia", "Japan", "I"]
 
 isrc: QZDA82494901
 isrcSource: soundexchange

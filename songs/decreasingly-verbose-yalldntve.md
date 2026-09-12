@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/decreasingly-verbose-yalldntve/15321213
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 youtube: "https://www.youtube.com/shorts/5etRFq7jbb4"
 
-themes: ["Plague Beats", "meme", "language", "2020", "internet"]
+themes: ["Satire and absurdism", "The internet", "meme", "Plague Beats", "2020"]
 
 isrc: QZK6H2062923
 isrcSource: soundexchange

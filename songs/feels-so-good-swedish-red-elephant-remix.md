@@ -14,7 +14,7 @@ remixOf: "Feels So Good"
 
 spotify: "https://open.spotify.com/track/4ICWb7UFalbnma7FfIScG2"
 
-themes: ["remix", "Moonlight Beach", "2023"]
+themes: ["remix", "Collaboration", "Swedish Red Elephant", "Moonlight Beach", "2023"]
 
 isrc: QZHN72368436
 isrcSource: spotify

@@ -16,7 +16,7 @@ credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Pr
 spotify: "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ"
 apple: "https://music.apple.com/us/album/goodness-gracious/1111956961?i=1111956970"
 
-themes: ["FEiN", "Little Homes", "marriage", "anxiety", "satire", "2016"]
+themes: ["Love", "Anxiety", "Imposter syndrome", "Capitalism and work", "FEiN", "Little Homes", "2016"]
 
 isrc: QZ2QB1600006
 isrcSource: soundexchange

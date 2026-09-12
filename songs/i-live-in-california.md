@@ -22,7 +22,7 @@ press:
     url: "https://www.instagram.com/p/CRZ7ruPB4-d/"
     desc: "July 16, 2021: @slackcitybitch review of I Live in California (alternative/indie); pop hooks, funky guitar, California-sun blunt energy, psychedelic summer song."
 
-themes: ["California", "Big Hug", "class", "satire", "midwest", "wellness"]
+themes: ["California", "Satire and absurdism", "Weed", "The beach", "Capitalism and work", "Big Hug", "2021"]
 
 isrc: QZHNC2182458
 isrcSource: soundexchange

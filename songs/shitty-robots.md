@@ -16,7 +16,7 @@ apple: "https://music.apple.com/us/album/s-y-robots/1567468209?i=1567468215"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
 officialVideo: "https://www.youtube.com/watch?v=Gbo7RD0c3GA"
 
-themes: ["Plague Beats", "robots", "meme", "2021", "satire", "QAnon"]
+themes: ["AI", "Satire and absurdism", "The internet", "robots", "meme", "QAnon", "Plague Beats", "2021"]
 
 isrc: QZHN72103924
 isrcSource: soundexchange

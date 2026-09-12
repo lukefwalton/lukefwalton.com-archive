@@ -14,6 +14,8 @@ instrumental: true
 
 bandcamp: "https://scoobertdoobert.bandcamp.com/track/i-just-need-to-sleep"
 
+themes: ["instrumental", "Death", "Hip-hop", "Los Angeles", "New York", "to sleep", "2018"]
+
 draft: false
 ---
 

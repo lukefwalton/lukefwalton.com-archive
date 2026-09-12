@@ -21,7 +21,7 @@ press:
   - outlet: "Songs 1-14 (Bandcamp)"
     url: "https://reesfinley.bandcamp.com/album/songs-1-14"
 
-themes: ["Rees Finley", "FEiN", "Tiny Giant", "USC Thornton", "2018", "session"]
+themes: ["Music production", "Rees Finley", "FEiN", "Tiny Giant", "2018"]
 
 draft: false
 ---

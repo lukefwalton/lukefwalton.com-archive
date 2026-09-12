@@ -17,7 +17,7 @@ spotifyUrl: "https://open.spotify.com/episode/4JPwtd9rnwdFqg3y3AW1SO"
 
 topicsDiscussed:
   - "Timbre"
-  - "Formant"
+  - "Autotune and pitch correction"
   - "Genre"
   - "Mixing"
   - "Music production"
