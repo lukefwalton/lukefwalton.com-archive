@@ -16,14 +16,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-vibe-is-my-1-musical-goal/i
 spotifyUrl: "https://open.spotify.com/episode/58njq6nXaayABcsPZEhhsV"
 
 topicsDiscussed:
+  - "Vibe"
   - "Genre"
   - "Songwriting"
-  - "Defining 'vibe' in music"
-  - "Technical choices and their emotional impact"
-  - "Role of arrangement in setting a vibe"
-  - "Recording techniques for optimal vibe"
-  - "Creating a captivating listening experience"
-  - "Manipulating sound to enhance emotion"
+  - "Music production"
+  - "Singing and vocals"
+  - "Music theory"
+  - "Bass"
+  - "Guitar"
+  - "Drums"
+  - "Piano, synth, and keys"
+  - "Jazz"
+  - "Hip-hop"
 
 hostNote: |
   There are a million decisions in music, but most people perceive it as just one vibe. That gap, between the thousand individual choices and the single impression they leave, is everything. Getting the impression right matters more than any of the particulars that produced it.

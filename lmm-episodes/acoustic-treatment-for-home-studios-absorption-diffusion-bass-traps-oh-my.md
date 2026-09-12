@@ -16,18 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/acoustic-treatment-for-home-stu
 spotifyUrl: "https://open.spotify.com/episode/2ZXmJzNewgZrPimwf1Fusu"
 
 topicsDiscussed:
-  - "Bass"
   - "The home studio"
-  - "Creativity"
-  - "Delay"
-  - "Flutter Echo"
-  - "Room Acoustics"
-  - "Home Studio Treatment"
-  - "Absorption Materials"
-  - "Frequency Challenges"
-  - "Recording Environment Design"
-  - "Using Diffusers"
-  - "Sound Panel Placement"
+  - "Microphones"
+  - "Mixing"
+  - "Music production"
+  - "Flutter echo"
+  - "Absorption, diffusion, and bass traps"
+  - "First-reflection control (the mirror trick)"
+  - "Rock wool and low-frequency treatment"
 
 hostNote: |
   Flutter echo is what you get when two parallel surfaces keep bouncing sound back and forth, and the bigger the low-frequency buildup, the harder it is to stop. I moved into a new studio space and met mine immediately, so I went deep: consulted an acoustician, read everything I could find, and treated the room myself.

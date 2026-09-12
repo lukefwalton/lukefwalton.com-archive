@@ -20,15 +20,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=pYeEDueDMq0"
 topicsDiscussed:
   - "Los Angeles"
   - "Spatial audio"
-  - "Genre"
   - "Mixing"
-  - "Operating a recording studio"
-  - "Creating a vibey environment"
-  - "Gear trading and upgrades"
-  - "Artistic inspiration"
-  - "Mentorship in music"
-  - "Developing a workflow in the studio"
-  - "Catering to artists' needs"
+  - "Analog"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Genre"
+  - "Music production"
+  - "Microphones"
+  - "DAWs"
+  - "Drums"
 
 hostNote: |
   **Mike Post** runs **MooseCat Recording** in mid-city LA: sessions with **Local Natives**, **Orion Sun**, **Alice Cooper**, and a new **Dolby Atmos** room he built to keep pushing mixes forward. The through-line is access: every house should have a guitar or piano, he stacked **five or six internships** before LA stuck, and he learned by watching engineers he admired make mistakes on his own time.

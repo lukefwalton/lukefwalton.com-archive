@@ -18,16 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/3OHkTCZEQBOibWXXooRAad"
 youtubeUrl: "https://www.youtube.com/watch?v=3cKYejI_0uI"
 
 topicsDiscussed:
+  - "Scoring for picture"
   - "AI"
-  - "Creativity"
-  - "Role of the modern composer"
-  - "Challenges of video game scoring"
-  - "Immersive art experiences"
-  - "Evolution of 21st century music"
-  - "The personal journey of a composer"
-  - "Impact of commercial projects on music"
-  - "Learning through self-teaching"
-  - "Interactive music opportunities"
+  - "Piano, synth, and keys"
+  - "Capitalism and work"
+  - "DAWs"
+  - "Music production"
+  - "The music business"
+  - "Classical and orchestral music"
+  - "Los Angeles"
+  - "Music theory"
 
 hostNote: |
   **Patrick Hart** is a composer who has scored more than ten feature films, including ESPN's 30 for 30 documentaries *The U*, *Broke*, and *The U Part 2*, and HBO's *537 Votes*, alongside commercial work for McDonald's, Microsoft, Best Buy, Google, and Nike. He holds a master's in composition from McGill and started with piano lessons as a kid, the kind of beginning he says he mostly moved through without overthinking it.

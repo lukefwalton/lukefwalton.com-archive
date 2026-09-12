@@ -17,13 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/0e4O2IPIuPpTCrUMfkwlwt"
 
 topicsDiscussed:
   - "Effects"
+  - "Spatial audio"
   - "Delay"
   - "Mixing"
+  - "Guitar"
+  - "Reverb"
   - "Plugins"
-  - "Spatial audio"
-  - "Panning Basics"
-  - "Phase-Based Panning"
-  - "Mono vs Stereo"
+  - "Music production"
+  - "Delay-based, phase-based, and timbre-based panning"
+  - "Headphone vs speaker psychoacoustics"
 
 hostNote: |
   Panning is more than left, right, and center, it's one of the main levers you have for creating tension and resolving it. Moving from angular to less angular isn't just an aesthetic choice; it's a structural one.

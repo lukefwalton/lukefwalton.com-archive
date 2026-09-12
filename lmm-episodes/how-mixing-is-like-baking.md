@@ -18,10 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/12L6SAwSruHVpw1raLZ6x8"
 topicsDiscussed:
   - "Mixing"
   - "AI"
-  - "Creativity"
-  - "experimental pop"
-  - "musical goals for 2024"
-  - "creative confidence"
+  - "Drums"
+  - "Piano, synth, and keys"
+  - "Singing and vocals"
+  - "Mastering"
+  - "EQ"
+  - "Reverb"
+  - "Mono versus stereo mixing"
+  - "Uncanny valley in experimental pop"
 
 hostNote: |
   Mixing is a lot like cooking: knowing when to apply high heat and take something all the way, and knowing when to leave it alone. I use food metaphors throughout to work through the uncanny valley of a mix, that specific discomfort when something is almost right but not quite, and why closing that gap is one of the more interesting problems in the job.

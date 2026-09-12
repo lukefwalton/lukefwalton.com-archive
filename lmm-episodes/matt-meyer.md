@@ -20,18 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/3wqHKJAzhRPUNlDDlMeS6B"
 youtubeUrl: "https://www.youtube.com/watch?v=DvsVkpDK4mk"
 
 topicsDiscussed:
-  - "Creativity"
   - "Drums"
   - "Spatial audio"
-  - "Microtonal music"
+  - "Jazz"
+  - "Los Angeles"
+  - "Analog"
+  - "Plugins"
+  - "Effects"
   - "Touring"
-  - "Drumming evolution, from simplicity to complexity"
-  - "Role of gear in musicianship"
-  - "Importance of good tuning techniques"
-  - "Experiencing music through live shows"
-  - "Navigating the gear ecosystem on a budget"
-  - "Voice acting and its intersection with music"
-  - "The future of music technology and Dolby Atmos"
+  - "Microphones"
+  - "Pro audio showrooms and trying gear"
 
 hostNote: |
   **Matt Meyer** is a drummer, voiceover artist, and member of the **Vintage King** team, and this one is for anyone who loves gear as much as playing it. Matt started drumming young, credits his band instructor for lighting the spark, and traces his path through a pivotal middle school jazz band to a career built on both playing and understanding the tools.

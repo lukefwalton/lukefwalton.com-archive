@@ -17,12 +17,16 @@ spotifyUrl: "https://open.spotify.com/episode/3vsHtmPMm5untnxsDS5XAZ"
 
 topicsDiscussed:
   - "Creativity"
-  - "Influence in music"
-  - "The Beatles' creative process"
-  - "Active listening"
-  - "Musical analysis"
-  - "Artistic growth"
-  - "Overcoming creative limitations"
+  - "Songwriting"
+  - "Collaboration"
+  - "Bass"
+  - "Drums"
+  - "Classical and orchestral music"
+  - "Analog"
+  - "Music theory"
+  - "Mixing"
+  - "Digesting influences"
+  - "Melody-first arranging"
 
 hostNote: |
   The melody should be the person at the steering wheel. That's the Beatles principle I keep coming back to, and it's the frame for this whole episode: how do you actually digest an influence instead of just admiring it from a distance?

@@ -18,18 +18,18 @@ spotifyUrl: "https://open.spotify.com/episode/4bDcvcEq23K6IYorhG9f9w"
 youtubeUrl: "https://www.youtube.com/watch?v=tAjji_NBQA8"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Mastering"
   - "Mixing"
+  - "Mastering"
   - "Music production"
   - "Touring"
-  - "Early musical influences"
-  - "Work-life balance for musicians"
-  - "Cultural impact of Swedish music"
-  - "Building a DIY music community"
-  - "Navigating music career shifts"
-  - "The importance of local music spaces"
-  - "Raising musically-inclined children"
+  - "Microphones"
+  - "Guitar"
+  - "Drums"
+  - "The history of rock"
+  - "The music business"
+  - "Analog"
+  - "Compression"
+  - "Raising kids while running a studio"
 
 hostNote: |
   **Gustav Brunn** grew up in Lund, Sweden, with access to a recording studio in compulsory school by age 10 or 11, the kind of early start that led to touring internationally before he shifted his focus to mixing and mastering. He runs AllinAudio.se now, and has gone on to win Swedish Grammys for that work.

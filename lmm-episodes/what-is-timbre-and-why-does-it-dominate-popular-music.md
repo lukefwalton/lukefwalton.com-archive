@@ -16,14 +16,17 @@ appleUrl: "https://podcasts.apple.com/us/podcast/what-is-timbre-and-why-does-it-
 spotifyUrl: "https://open.spotify.com/episode/4JPwtd9rnwdFqg3y3AW1SO"
 
 topicsDiscussed:
+  - "Timbre"
   - "Formant"
   - "Genre"
-  - "Understanding timbre"
-  - "Vibe in music"
-  - "Sound manipulation"
-  - "Frequency and harmonics"
-  - "Cultural aspects of timbre"
-  - "Digital sound processing"
+  - "Mixing"
+  - "Music production"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Singing and vocals"
+  - "Metal"
+  - "Effects"
+  - "Drums"
 
 hostNote: |
   Timbre is what makes pop music pop music. Not the chord changes, not the tempo, the specific quality of sound that lets your brain identify a Fender Rhodes from a Yamaha grand in a fraction of a second. It's a snowflake, a fingerprint, and it's the most important thing in popular music that people almost never name directly.

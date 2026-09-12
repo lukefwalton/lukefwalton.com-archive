@@ -20,18 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/2XBZboz0BTcQKu3YAW0AVT"
 youtubeUrl: "https://www.youtube.com/watch?v=ZOd5eLO3Res"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
+  - "Bass"
   - "Jazz"
   - "Music production"
+  - "Mixing"
+  - "New York"
+  - "Collaboration"
+  - "Touring"
+  - "Singing and vocals"
   - "The music business"
-  - "Experiences at NPR Tiny Desk"
-  - "Balancing production and performance"
-  - "The importance of practicing"
-  - "Navigating the music industry"
-  - "Flow state and its impact on music creation"
-  - "The journey of postergirl"
-  - "Developing a unique sound"
+  - "Friendship"
+  - "Genre"
+  - "Radio and broadcast"
 
 hostNote: |
   **Rani Adi** was fresh off the NPR Tiny Desk with PinkPantheress when we recorded this. "I have been watching Tiny Desks for years, and I love Tiny Desks so much. I also love the artist that I got to do it with, PinkPantheress." That's not name-dropping: that's someone who built toward something specific and got there.

@@ -18,16 +18,12 @@ spotifyUrl: "https://open.spotify.com/episode/2EM1xgVWaKJ0FPtdz7hPFc"
 topicsDiscussed:
   - "Music theory"
   - "Songwriting"
-  - "Harmony"
-  - "12-Tone Music"
-  - "Chromatic Scale"
-  - "Intervals"
-  - "Major and Minor Chords"
-  - "Pythagorean Ratios"
-  - "Pop Music Structure"
-  - "Chord Progressions"
-  - "Contextual Sound of Chords"
-  - "Music and Emotion"
+  - "Singing and vocals"
+  - "Classical and orchestral music"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Genre"
+  - "Circle of fifths"
 
 hostNote: |
   Last episode we stacked perfect fifths and ended up with **12 notes**. So what do we do with all of them, play the chromatic scale and sound like the circus song? This episode is the answer: **harmony**: how we pick subsets of those notes, stack them into chords, and why Western pop keeps circling the same **I–IV–V** gravity well.

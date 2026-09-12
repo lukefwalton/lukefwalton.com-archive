@@ -20,13 +20,17 @@ spotifyUrl: "https://open.spotify.com/episode/1LfSFpjEUFQDWnMtA1BDdh"
 youtubeUrl: "https://www.youtube.com/watch?v=96O8pGIMeZg"
 
 topicsDiscussed:
+  - "Analog"
   - "Bass"
   - "The internet"
-  - "The significance of 45s in music history"
-  - "Creating community through music and social media"
-  - "DJing with authenticity"
-  - "The challenges of modern recording technology"
-  - "Balancing performance and personal expression"
+  - "Touring"
+  - "Guitar"
+  - "New York"
+  - "Los Angeles"
+  - "The music business"
+  - "Songwriting"
+  - "Singing and vocals"
+  - "45s and crate digging"
 
 hostNote: |
   **Harry Katz** came up as a punk bassist and ended up deep in vinyl: specifically 45s, where "you can kind of learn the story of every song" through the width and depth of knowledge embedded in each release. That's the throughline of this conversation: how serious record collecting reshapes how you hear music, and what it means to become an evangelist for it.

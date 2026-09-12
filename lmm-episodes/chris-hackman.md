@@ -17,16 +17,17 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-soul-of-an-artist-with-huma
 spotifyUrl: "https://open.spotify.com/episode/4uzlerqnWzs5BHEB2DmwTU"
 
 topicsDiscussed:
-  - "Soul and R&B"
+  - "Creativity"
   - "Analog"
   - "Music production"
   - "Singing and vocals"
   - "Songwriting"
-  - "Lo-fi pop exploration"
-  - "Artistic serendipity"
-  - "Vocal production techniques"
-  - "Contrasting musical styles"
-  - "Emotional storytelling in music"
+  - "Collaboration"
+  - "AI"
+  - "Genre"
+  - "Mixing"
+  - "The music business"
+  - "Lo-fi pop"
 
 hostNote: |
   Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home; **Xuan Nguyen** records as veronicavon, rock tracked on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.

@@ -16,17 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-cosmic-microwave-background
 spotifyUrl: "https://open.spotify.com/episode/6LZ94cENJJGtelN78U1U7E"
 
 topicsDiscussed:
+  - "Microphones"
+  - "Guitar"
+  - "Mixing"
   - "Radio and broadcast"
-  - "nature of noise"
-  - "signal vs. noise"
-  - "types of noise"
-  - "anechoic chambers"
-  - "gain staging"
-  - "impact of noise on recording"
-  - "audio engineering tips"
-  - "noise in our environment"
-  - "sound and human perception"
-  - "radio interference"
+  - "The home studio"
+  - "Analog"
+  - "EQ"
+  - "Music production"
+  - "Effects"
+  - "Compression"
 
 hostNote: |
   There's no such thing as silence. Even an empty microphone has some noise on it, and if you put a person in an anechoic chamber, a room engineered to have none at all, they start to hallucinate: hearing their own organs, freaking out. Noise isn't the enemy of signal, it's the baseline everything else has to work against, all the way back to the cosmic microwave background left over from the Big Bang.

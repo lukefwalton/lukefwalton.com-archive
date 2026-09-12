@@ -17,15 +17,16 @@ spotifyUrl: "https://open.spotify.com/episode/2vuzSqYQB8Qf6XW5n14tnB"
 
 topicsDiscussed:
   - "Mixing"
+  - "Piano, synth, and keys"
+  - "Drums"
   - "Music production"
-  - "ADSR Overview"
-  - "Synthesis Basics"
-  - "Attack and Decay"
-  - "Sustain in Music"
-  - "Release Techniques"
-  - "Applying ADSR to Instruments"
-  - "Frequency Manipulation"
-  - "Articulation and Groove"
+  - "Compression"
+  - "Guitar"
+  - "Bass"
+  - "Reverb"
+  - "Singing and vocals"
+  - "Effects"
+  - "ADSR"
 
 hostNote: |
   Every instrument is secretly a synth. Attack, Decay, Sustain, Release, those four parameters don't just describe synthesizers, they describe a drum hit, a piano chord, a guitar strum. Once you hear music through that lens, relational mixing decisions start to make themselves.

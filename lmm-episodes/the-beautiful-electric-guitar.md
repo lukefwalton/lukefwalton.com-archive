@@ -17,10 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/4rxO5Q6YLozvTA0lcH7Pwo"
 
 topicsDiscussed:
   - "Guitar"
+  - "Metal"
   - "The beach"
   - "Genre"
-  - "Personal journey"
-  - "Emotional connection to music"
+  - "Singing and vocals"
+  - "Japan"
+  - "Blues"
+  - "Bass"
 
 hostNote: |
   "I've never felt a guitar feel this good before." That moment, picking up a Telecaster after years on inferior instruments, wasn't just about the hardware. It changed the direction I was heading entirely, from metal toward something with more space and more voice in it.

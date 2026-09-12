@@ -21,15 +21,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=iQRmHFNvVDE"
 
 topicsDiscussed:
   - "Classical and orchestral music"
+  - "Scoring for picture"
+  - "Jazz"
+  - "Japan"
+  - "Touring"
+  - "The music business"
   - "Collaboration"
-  - "The journey of a multi-instrumentalist"
-  - "Broadway vs. modern recordings"
-  - "The evolution of music learning"
-  - "Cultural influences in music"
-  - "Music as a tool for personal growth"
-  - "Overcoming industry barriers"
-  - "The role of technology in music education"
-  - "Live performances and musical storytelling"
+  - "Multi-instrumentalism from flutes through bassoons"
+  - "Broadway vs session and media gigs"
   - "Flute traditions across cultures"
 
 hostNote: |

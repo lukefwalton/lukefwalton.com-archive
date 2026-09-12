@@ -16,16 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/a-step-up-guide-for-spotify-met
 spotifyUrl: "https://open.spotify.com/episode/1jYCYVfUbUwCMJCltQ7H5p"
 
 topicsDiscussed:
-  - "Spotify Metrics"
-  - "Psychology of Popularity"
-  - "Mindset for Musicians"
-  - "Cultural Influence in Music"
-  - "Monthly Listener Numbers"
-  - "Navigating Industry Standards"
-  - "Building Confidence as an Artist"
-  - "Comparative Music Analysis"
-  - "Community in Music"
-  - "Developing Artistic Taste"
+  - "The music business"
+  - "The internet"
+  - "Genre"
+  - "Spotify monthly listeners"
+  - "Psychology of popularity (Oliver Sacks)"
+  - "Developing artistic taste"
+  - "Community and tribe in what you share"
+  - "Booking and industry gatekeeping via metrics"
 
 hostNote: |
   If music were an objective art, popularity ratings would stay constant, but they don't. There's a study in Oliver Sacks' *This Is Your Brain on Music* showing how people's scores shift based on what they think others think, and once that sinks in, monthly listener counts look like a different kind of signal.

@@ -17,15 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/48P0crjRtja7qtGYv6hJJD"
 
 topicsDiscussed:
   - "Collaboration"
-  - "Musical Scenes"
-  - "Influence and Competition"
-  - "Artistic Community"
-  - "Historical Context in Music"
-  - "Personal Musical Journey"
-  - "Impact of Venues"
-  - "Future of Music Scenes"
-  - "New Year Reflections"
-  - "Music and Identity"
+  - "Touring"
+  - "Japan"
+  - "The music business"
+  - "Friendship"
+  - "The history of rock"
+  - "Los Angeles"
+  - "New York"
+  - "California"
+  - "Musical scenes, venues, and catalysts"
 
 hostNote: |
   Musical scenes are under-reported and under-appreciated, and their stories don't get told enough. That's the case I make in this first episode of the new year: a scene isn't just a place, it's a web of competition, collaboration, and adoration that shapes the music people actually make.

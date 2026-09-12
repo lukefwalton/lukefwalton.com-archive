@@ -23,13 +23,14 @@ topicsDiscussed:
   - "Jazz"
   - "Spatial audio"
   - "Analog"
-  - "Interactive sound systems"
-  - "Sonic machinery"
-  - "Electrical engineering meets music"
-  - "Experimental audio composition"
-  - "Teaching and academic journey"
-  - "Auditory perception research"
+  - "Electronic music"
+  - "Piano, synth, and keys"
+  - "Touring"
+  - "Drums"
+  - "Music production"
   - "Sonification of data"
+  - "Mechanical and kinetic sound systems"
+  - "Binaural listening research"
 
 hostNote: |
   **Nolan Lem** is a sound researcher and auditory artist whose work has shown at the Museum of Modern Art Buenos Aires, Pioneer Works, and the Danish National Museum of Music, with residencies at IRCAM, MassMoCA, and the Bemis Center. He trained as a jazz saxophonist first, toured and played gigs out of Miami, then folded in electrical engineering, a combination he describes as balancing intellectual curiosity with something that still connected to a future in music.

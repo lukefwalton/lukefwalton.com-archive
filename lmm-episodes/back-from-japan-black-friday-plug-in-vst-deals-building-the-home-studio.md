@@ -19,12 +19,14 @@ topicsDiscussed:
   - "Japan"
   - "Plugins"
   - "The home studio"
-  - "Lyric writing techniques"
-  - "Home studio tips"
-  - "Acoustic treatment"
-  - "Audio technology advancements"
+  - "Songwriting"
+  - "Reverb"
+  - "Formant"
+  - "AI"
+  - "Microphones"
+  - "Music production"
+  - "Guitar"
   - "Black Friday plugin deals"
-  - "Digital music workflow"
 
 hostNote: |
   Working with bands in the Tokyo underground, I noticed something about how non-native English speakers approach lyric writing, there's a freedom in treating the language as texture rather than grammar. It's liberating in a way that native speakers often have to work to recover.

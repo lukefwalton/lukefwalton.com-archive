@@ -20,15 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/2caF01H5OM4CWzfbvfi5nm"
 youtubeUrl: "https://www.youtube.com/watch?v=aMFqd6uAPc0"
 
 topicsDiscussed:
-  - "Creativity"
   - "Mixing"
   - "The home studio"
-  - "The emotional impact of a mix"
-  - "Balancing technical and creative aspects"
-  - "Building a personal network as a mixer"
-  - "Home studio vs. professional studio work"
-  - "Education and sharing knowledge in music"
-  - "The journey from amateur to professional"
+  - "Plugins"
+  - "Music production"
+  - "Compression"
+  - "Effects"
+  - "Singing and vocals"
+  - "Guitar"
+  - "Drums"
+  - "Bass"
+  - "Reverb"
+  - "The music business"
 
 hostNote: |
   **Eliott Glinn** mixes under his own name, Eliott Glinn Audio, and defines the job in one line: a mix engineer's work should be invisible to the listener. We talk about how he knows a mix is finished (nothing waves its hand asking to be fixed) and why the techniques you learn only count once you apply them from zero on every new session.

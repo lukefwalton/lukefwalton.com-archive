@@ -21,17 +21,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=AE8p0DF-irM"
 
 topicsDiscussed:
   - "Analog"
-  - "Collaboration"
   - "Compression"
-  - "Creativity"
   - "Microphones"
   - "Mixing"
   - "Music production"
-  - "Effects"
-  - "The role of equipment in sound quality"
-  - "Microphone techniques"
-  - "Artistic choices in sound engineering"
-  - "Collaborative processes in production"
+  - "Drums"
+  - "Singing and vocals"
+  - "Funk"
+  - "EQ"
+  - "Mastering"
+  - "Bass"
 
 hostNote: |
   **Noam Wallenberg** has made records with **Vulfpeck** and **The Fearless Flyers**, and he's built a whole approach around creative limitations: tracking with the "wrong mics" on purpose, mixing a live record like it was cut in a studio. We get into how he handles microphone bleed and volume writing on a live mix, and why he leans on that over compression when the setting calls for it.

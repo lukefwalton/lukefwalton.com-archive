@@ -18,15 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/3dg1nUIezaPcxsz9W31poq"
 topicsDiscussed:
   - "Analog"
   - "Mixing"
-  - "Music production"
   - "Plugins"
-  - "Digital emulation"
-  - "Color in music"
-  - "Impact of technology"
-  - "Historical perspectives"
-  - "Musical warmth"
-  - "Trends in audio production"
-  - "Understanding sound waves"
+  - "Reverb"
+  - "Delay"
+  - "Compression"
+  - "EQ"
+  - "Microphones"
+  - "Effects"
+  - "Music production"
 
 hostNote: |
   Every piece of analog gear changes the signal, it's all additive. A preamp, a compressor, a tape machine: each one imparts its own color, and the warmth people associate with classic records is the cumulative effect of running audio through a chain of colorful things. When early digital recording stripped that out, you could hear the absence.

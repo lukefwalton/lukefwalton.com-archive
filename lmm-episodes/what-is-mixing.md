@@ -17,11 +17,17 @@ spotifyUrl: "https://open.spotify.com/episode/6A1lErJuYF2Tca58Y212s1"
 
 topicsDiscussed:
   - "Mixing"
+  - "Music production"
   - "Singing and vocals"
+  - "Compression"
+  - "EQ"
+  - "Effects"
+  - "Reverb"
+  - "Delay"
   - "Spatial audio"
-  - "Role of frequencies"
-  - "Importance of lead vocals"
-  - "Managing low-end frequencies"
+  - "Bass"
+  - "Drums"
+  - "Microphones"
 
 hostNote: |
   Mixing is where individual tracks stop being ideas and start being a record. In this intro episode, I use the **balloon analogy**, every element you add changes what every other element sounds like: to explain why you can't treat anything in isolation.

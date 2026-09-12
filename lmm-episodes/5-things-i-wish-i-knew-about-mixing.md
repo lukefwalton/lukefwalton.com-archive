@@ -18,11 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/38tr9syqvjhjnuHtVEbOgj"
 topicsDiscussed:
   - "Mixing"
   - "Music production"
-  - "Creativity"
-  - "Producer insights"
+  - "Analog"
+  - "Compression"
+  - "Reverb"
+  - "Effects"
+  - "Guitar"
+  - "Plugins"
   - "Saturation techniques"
   - "Reference tracks"
-  - "Creative sound design"
 
 hostNote: |
   "Reference tracks are overrated. You're making your own damn song." I sent so many files to mix engineers scared to have an opinion, and that fear cost me. The mix engineer can only work with what you give them, which means the producer's job doesn't end before the mix; it defines it.

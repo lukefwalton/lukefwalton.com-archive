@@ -16,15 +16,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/when-to-mix-in-mono-dogma-in-mu
 spotifyUrl: "https://open.spotify.com/episode/6NT7TokPjWmzNDlv1LVOfZ"
 
 topicsDiscussed:
-  - "Creativity"
   - "Mixing"
   - "Music production"
-  - "dogma in music"
-  - "historical references"
-  - "production frameworks"
-  - "sacred cows in music"
-  - "listening environments"
-  - "frequency spectrum"
+  - "Analog"
+  - "Spatial audio"
+  - "Compression"
+  - "EQ"
+  - "Bass"
+  - "Drums"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Effects"
+  - "Singing and vocals"
 
 hostNote: |
   Mono mixing is a real diagnostic tool, but treating it as dogma turns a useful check into a constraint. I look at why the "always start mono" rule made sense when the average listener had a clock radio, why headphones have changed the calculus, and when hard-panning conflicting elements is actually the solution mono mixing was trying to prevent.

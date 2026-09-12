@@ -20,12 +20,13 @@ youtubeUrl: "https://www.youtube.com/watch?v=-xX-lYulMus"
 topicsDiscussed:
   - "Songwriting"
   - "The internet"
-  - "Creativity"
   - "Guitar"
+  - "Creativity"
   - "Philosophy"
-  - "The role of TikTok in modern music"
-  - "Balancing inspiration and craft"
-  - "Navigating online presence as an artist"
+  - "Quitting your job"
+  - "Isolation"
+  - "Fingerstyle guitar as a writing tool"
+  - "Seasonality and songwriting"
 
 hostNote: |
   **Grant Davidson** records as **Slow Leaves** out of Winnipeg, and the Winnipeg weather is part of the conversation: winter days that go dark at 4:30 p.m. shape how and when he writes. We talk through the difference between songs that come easy (his best material, generally written in a day or two) and songs that take real craft, and why he trusts that instinct now.

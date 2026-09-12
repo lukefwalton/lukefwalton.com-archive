@@ -20,13 +20,17 @@ spotifyUrl: "https://open.spotify.com/episode/37ewmcGxlBTuSioxPuP77S"
 youtubeUrl: "https://www.youtube.com/watch?v=hQALe6SQ62o"
 
 topicsDiscussed:
-  - "Music production"
   - "Songwriting"
-  - "Moving from Canada to the UK"
-  - "Self-producing music"
-  - "Navigating the London music scene"
-  - "The significance of community for artists"
-  - "Getting on playlists"
+  - "The music business"
+  - "Music production"
+  - "Friendship"
+  - "The internet"
+  - "Los Angeles"
+  - "New York"
+  - "Nashville"
+  - "Touring"
+  - "Collaboration"
+  - "Radio and broadcast"
 
 hostNote: |
   **Serena Sun** moved from Vancouver to London to chase a bigger music scene, and this conversation is about what that leap actually looked like: an unexpectedly easy visa process, then the harder work of rebuilding a career somewhere new.

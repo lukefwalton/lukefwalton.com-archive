@@ -17,16 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/3V6z53SgsEguqDUvNMWBmB"
 appleUrl: "https://podcasts.apple.com/us/podcast/a-building-on-wheels-with-sam-durkes-ezra-furman/id1567355195?i=1000771825503"
 
 topicsDiscussed:
-  - "Drums"
-  - "Microphones"
-  - "Microtonal music"
   - "Touring"
-  - "The pandemic"
+  - "Drums"
+  - "The music business"
+  - "Microphones"
+  - "Radio and broadcast"
   - "Booking agent vs. tour manager vs. crew roles (and when one person wears every hat)"
-  - "Getting paid: guarantees, door deals, and post-pandemic merch cuts"
   - "Van life to tour bus, bunks, sanctuary, and the episode title frame"
-  - "Ezra Furman’s BBC 6 breakout and audience geography surprises"
   - "Drum influences, ghost notes, and programming vs. playing"
+  - "Ezra Furman’s BBC 6 breakout and audience geography surprises"
 
 hostNote: |
   Sam Durkes has spent **~20 years on the road**, drummer for **Ezra Furman**, creative director, and a veteran of **Art More** (Anti-). The episode title comes from his tour-bus line: it doesn’t feel like an RV, it feels like **a building on wheels**: lounge up front, coffin-quiet bunks in back, a sanctuary that isn’t the green room.

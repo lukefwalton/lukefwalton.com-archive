@@ -16,18 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/thinking-polyphonically-fugue-s
 spotifyUrl: "https://open.spotify.com/episode/6ntTSmEqBqceDFGHqckYFx"
 
 topicsDiscussed:
-  - "Classical and orchestral music"
   - "Music theory"
+  - "Classical and orchestral music"
   - "Songwriting"
-  - "Polyphony"
-  - "Voice Leading"
-  - "Bach's Relevance"
-  - "Gregorian Chant"
-  - "Counterpoint in Modern Music"
-  - "Harmony"
-  - "Melody Interaction"
-  - "Music as Conversation"
-  - "Compositional Techniques"
+  - "Bass"
+  - "Singing and vocals"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Genre"
 
 hostNote: |
   Bach is the vitamins-and-pushups of music theory. Transcribing his fugues is how you train a polyphonic mindset: the ability to hear several melodies as independent lines, rather than one sitting on top of a stack of chords.

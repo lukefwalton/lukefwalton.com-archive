@@ -17,17 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/0xQ1RMHNFrBic58SqZVtyi"
 
 topicsDiscussed:
   - "Singing and vocals"
-  - "Creativity"
+  - "Music production"
   - "Genre"
-  - "Vocal comping 101"
-  - "Techniques for recording vocals"
-  - "The importance of syllable selection"
-  - "Balancing authenticity and perfection"
-  - "Emotional expression in vocal performance"
-  - "Understanding resonance chambers"
-  - "Iterative singing techniques"
-  - "Using comping as creative exploration"
-  - "Recording strategies for vocalists"
+  - "Songwriting"
+  - "DAWs"
+  - "Mixing"
+  - "Analog"
+  - "Collaboration"
 
 hostNote: |
   Recording vocals is the hardest part of making a pop record, and vocal comping, assembling the best parts of a bunch of different takes into one performance, is the tool nobody outside a studio thinks about. I walk through what comping actually is: taking the best syllables, phrases, and takes and building one vocal that never happened as a single performance.

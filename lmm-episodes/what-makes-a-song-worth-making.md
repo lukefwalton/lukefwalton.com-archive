@@ -16,16 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/what-makes-a-song-worth-making/
 spotifyUrl: "https://open.spotify.com/episode/2vE4ZXUHdFmSjvUHHHETIs"
 
 topicsDiscussed:
-  - "Creativity"
   - "Songwriting"
-  - "Artistic passion"
-  - "Creating hit songs"
-  - "Musical authenticity"
-  - "Surprising moments in music"
-  - "Trends vs. genuine expression"
-  - "The role of humor in music"
-  - "Emotional connection to songs"
-  - "Overcoming creative obstacles"
+  - "Creativity"
+  - "Imposter syndrome"
+  - "The music business"
+  - "Burritos and Mexican food"
+  - "Radio and broadcast"
+  - "Genre"
+  - "Singing and vocals"
+  - "Collaboration"
+  - "Music production"
 
 hostNote: |
   The songs that crack through, the real ones, come out of nowhere. They're a roundhouse kick to the face. They weren't written by someone chasing a trend. And yet most of us sit down and try to write a hit, then wonder why we burn out halfway through finishing it.

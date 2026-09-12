@@ -17,15 +17,14 @@ spotifyUrl: "https://open.spotify.com/episode/1MLnxxghKYM47LTfu9cBx2"
 
 topicsDiscussed:
   - "Classical and orchestral music"
-  - "Mixing"
-  - "Singing and vocals"
+  - "Songwriting"
+  - "Failure"
   - "Dr. Robert Greenberg's Great Music of the 20th Century course"
   - "The Rite of Spring premiere riots (1913)"
   - "Stravinsky's mentorship under Rimsky-Korsakov"
   - "Contemporary critics vs. Beethoven (being ahead of the curve)"
   - "Petrushka and blurring performer vs. audience"
   - "Absorbing folk and classical influences without losing your voice"
-  - "Stravinsky's opera-singer father and early musical exposure"
 
 hostNote: |
   Stravinsky's music caused an actual riot. Most people who heard it hated it, and that's not the cautionary tale, it's the proof of concept. Being genuinely ahead of the curve has always felt like failure from the inside.

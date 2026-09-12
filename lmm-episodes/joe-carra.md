@@ -17,14 +17,17 @@ spotifyUrl: "https://open.spotify.com/episode/0nINqxSDE2EowBTg7EUOJF"
 appleUrl: "https://podcasts.apple.com/us/podcast/pockets-of-presence-with-joe-carra-hiatus-kaiyote/id1567355195?i=1000782506757&uo=4"
 
 topicsDiscussed:
-  - "AI"
   - "Mastering"
   - "Spatial audio"
-  - "Dolby Atmos"
-  - "Metadata and credits"
-  - "Singles vs albums"
-  - "NAMM and Melbourne community"
-  - "Mentorship in audio education"
+  - "AI"
+  - "Mixing"
+  - "Compression"
+  - "EQ"
+  - "Analog"
+  - "Plugins"
+  - "The music business"
+  - "Metadata and credits on streaming platforms"
+  - "Singles vs albums in a mastering workflow"
 
 hostNote: |
   **Joe Carra** is a Grammy-nominated mastering engineer and chief engineer at **Crystal Mastering** in Melbourne, with 30-plus years on the desk and a roster that includes **Hiatus Kaiyote**, **Middle Kids**, and **Pond**. The episode title is his phrase: **pockets of presence**, half a dB, a dB, hours of listening to find the pocket that actually belongs to the record.

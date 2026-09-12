@@ -17,10 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/3dqAsVX4sAorphPTdpJpCB"
 
 topicsDiscussed:
   - "Bass"
-  - "Music theory"
+  - "Drums"
   - "Songwriting"
-  - "Rhythmic Glue in Music"
-  - "Learning and Growing as a Musician"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Music theory"
+  - "Piano, synth, and keys"
+  - "Classical and orchestral music"
+  - "Bass as rhythmic glue"
+  - "Recording bass last against the vocal"
 
 hostNote: |
   The bass is the glue guy, the instrument that takes what's happening harmonically in the upper register and ties it into the syncopation of the drum groove. But if the bass is only listening to the drummer, the singer gets left unsupported. That tension is where all the interesting decisions live.

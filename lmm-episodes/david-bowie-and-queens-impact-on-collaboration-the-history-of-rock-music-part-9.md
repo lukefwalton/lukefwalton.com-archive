@@ -18,16 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/3ioVnBXKho8OckNRPW4bD6"
 topicsDiscussed:
   - "Collaboration"
   - "The history of rock"
-  - "Creativity"
-  - "David Bowie"
-  - "Queen"
+  - "Genre"
+  - "Guitar"
+  - "The music business"
+  - "Singing and vocals"
+  - "Songwriting"
+  - "Glam rock"
   - "Under Pressure"
-  - "Rock Music History"
-  - "70s Rock Innovation"
-  - "Cultural Impact"
-  - "Creative Process"
-  - "Artistic Inspiration"
-  - "Influence on Future Generations"
+  - "Studio collaboration"
 
 hostNote: |
   David Bowie is larger than life; he's impossible to distill. That's the problem I try to solve in this episode: how do you sum up a career built around refusing to be one thing.

@@ -19,17 +19,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=SejkjIacFzQ"
 
 topicsDiscussed:
   - "Touring"
-  - "Collaboration"
   - "Jazz"
+  - "Piano, synth, and keys"
+  - "New York"
+  - "Collaboration"
+  - "Songwriting"
   - "The music business"
   - "Creativity"
-  - "Songwriting"
-  - "Experiences at Madison Square Garden"
-  - "The differences between trumpet and flugelhorn"
-  - "Creative process behind his music"
-  - "Mentorship in music"
-  - "Impact of live performances"
-  - "Navigating the commercial music industry"
+  - "Trumpet vs flugelhorn"
+  - "Madison Square Garden with Peter Gabriel"
+  - "Landing an Apple commercial"
 
 hostNote: |
   **Joshoo** just got off the road playing trumpet in **Peter Gabriel's** band, his OG lineup of instrumentalists he calls legends in their own right. We talk about his start on trumpet in school, the mentorship of his godfather that pointed him toward jazz, and how a trumpet and a flugelhorn actually differ mechanically, not just in tone.

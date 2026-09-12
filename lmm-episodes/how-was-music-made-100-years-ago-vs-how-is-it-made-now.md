@@ -16,14 +16,17 @@ appleUrl: "https://podcasts.apple.com/us/podcast/how-was-music-made-100-years-ag
 spotifyUrl: "https://open.spotify.com/episode/5amImtzpYQE5yCRLvR7xXa"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
   - "Music production"
+  - "Mixing"
+  - "Mastering"
+  - "Microphones"
+  - "Analog"
+  - "Songwriting"
+  - "Drums"
+  - "Guitar"
+  - "Bass"
+  - "Collaboration"
   - "The music business"
-  - "History of music creation"
-  - "Modern music technology"
-  - "Creative limitations"
-  - "Music industry economics"
 
 hostNote: |
   A hundred years ago, making a record meant a composer, a lyricist, an arranger, a recording engineer who understood rooms and microphones like a scientist, a mixer, and a mastering engineer, all separate people, all specialized. Now it's often one person wearing every hat. Less money in music means more roles per artist.

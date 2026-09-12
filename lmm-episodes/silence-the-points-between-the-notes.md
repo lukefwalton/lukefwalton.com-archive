@@ -17,15 +17,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/silence-the-points-between-the-
 
 topicsDiscussed:
   - "Philosophy"
-  - "John Cage"
-  - "The role of silence in music"
-  - "Breath and music phrasing"
-  - "Anticipation in rhythm"
-  - "Neuroscience of sound"
-  - "Groove dynamics"
-  - "Emotional response in music"
-  - "Transcribing from wind instruments"
-  - "Silence in composition"
+  - "Guitar"
+  - "Drums"
+  - "Memory and nostalgia"
+  - "Classical and orchestral music"
+  - "Jazz"
+  - "Songwriting"
+  - "Funk"
+  - "Music theory"
 
 hostNote: |
   When the music stops, what is left? I start from Debussy and Miles on the spaces between notes, then **John Cage’s 4'33"**: you cannot make a silence no matter what you try. Guitarists who transcribe horn players are really learning where to breathe.

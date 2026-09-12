@@ -20,12 +20,17 @@ spotifyUrl: "https://open.spotify.com/episode/4JXMNNrxnBikSGv5htA12O"
 youtubeUrl: "https://www.youtube.com/watch?v=da-1ihQyzYk"
 
 topicsDiscussed:
-  - "Simplifying professional-grade music tools"
-  - "Audio development and DSP insights"
-  - "Journey from musician to tech innovator"
-  - "Building Musik Hack's streamlined solutions"
-  - "The future of audio technology"
-  - "The intersection of music and coding"
+  - "Plugins"
+  - "Mastering"
+  - "AI"
+  - "Compression"
+  - "Mixing"
+  - "Analog"
+  - "DAWs"
+  - "The music business"
+  - "Music production"
+  - "Effects"
+  - "EQ"
 
 hostNote: |
   Sam Fischmann builds plugins at Musik Hack, and this conversation is about why mastering still feels spooky, even to some mixers, and how good tool design can close that gap without pretending the craft is simple. Sam compares it to giving someone a fewer-knobs way in, rather than making them understand every variable to get a good result.

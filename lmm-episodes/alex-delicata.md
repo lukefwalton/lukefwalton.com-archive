@@ -18,12 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/5c60Hzdo7a3aBv5bn2kt5f"
 youtubeUrl: "https://www.youtube.com/watch?v=EDtJvXO3hUs"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
-  - "Music production"
   - "Songwriting"
-  - "Jazz"
-  - "Navigating creative blocks, tips and techniques"
+  - "Music production"
+  - "Guitar"
+  - "Collaboration"
+  - "Los Angeles"
+  - "Genre"
+  - "Piano, synth, and keys"
+  - "Nashville"
+  - "The music business"
+  - "Cycling, running, and showing up every day"
 
 hostNote: |
   Alex comes at songwriting the way a long-distance runner comes at training: show up, let the good idea come second. He walks through how a session actually starts, not with brilliance, but with a guitar riff, and why the second idea of the day reliably beats the first. His credits (Beyoncé’s "Daddy Lessons," Kygo & OneRepublic’s "Lose Somebody," Rihanna’s "California King Bed") came out of fundamentally different writing rooms, and he unpacks what changes when the genre changes.

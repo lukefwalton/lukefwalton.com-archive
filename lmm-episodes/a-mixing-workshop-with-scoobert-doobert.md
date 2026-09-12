@@ -18,11 +18,15 @@ spotifyUrl: "https://open.spotify.com/episode/17vEZw9jKPbRGCJulsl9ED"
 topicsDiscussed:
   - "Mixing"
   - "Reverb"
+  - "Music production"
+  - "Effects"
+  - "Guitar"
+  - "Drums"
+  - "Compression"
+  - "EQ"
   - "Collaboration"
-  - "Building Instincts"
-  - "Contrast in Mixes"
-  - "Song Intros and Outros"
-  - "Layering in Arrangements"
+  - "Mono reverbs and the illusion of width"
+  - "Song intros and outros"
 
 hostNote: |
   Mixing is a taste sport, every engineer is building an argument, not following a spec. In this solo workshop, I run through how to choose a mixing engineer (hire for taste, not gear list), why contrast does more work than any single plugin, and how a mono reverb gets heard when a stereo reverb disappears.

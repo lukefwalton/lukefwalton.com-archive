@@ -16,16 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-hit-configuration-of-hollan
 spotifyUrl: "https://open.spotify.com/episode/6LRCCHEEdAo1vSgcNiqwMn"
 
 topicsDiscussed:
+  - "Songwriting"
+  - "Soul and R&B"
   - "Collaboration"
   - "Music production"
-  - "Songwriting"
-  - "Holland-Dozier-Holland"
-  - "Motown Music"
-  - "Hit Factory Concept"
-  - "Melody and Emotion"
-  - "Legacy of Motown"
-  - "Innovative Production Techniques"
-  - "Music as a Business"
+  - "The music business"
+  - "Reverb"
+  - "Delay"
+  - "Analog"
+  - "Plugins"
+  - "Singing and vocals"
 
 hostNote: |
   Holland-Dozier-Holland have the most number one hits in all of human history. That's the starting fact, and it frames everything else: this was a system, not an accident.

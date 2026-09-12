@@ -21,13 +21,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=dkxtyk7BJ6o"
 
 topicsDiscussed:
   - "Collaboration"
-  - "Creativity"
   - "Music production"
   - "Songwriting"
   - "The music business"
-  - "Navigating the music industry as an emerging artist"
-  - 'The stories behind the album "Stop Motion"'
-  - "The significance of live performance"
+  - "Touring"
+  - "Singing and vocals"
+  - "Isolation"
+  - "Mixing"
+  - "The home studio"
+  - "Live performance versus studio sessions"
 
 hostNote: |
   The title is Chains of Influence, and it names what this conversation is about: how **David Baron**'s years of production experience and **Ginger Winn**'s newer voice as an artist fed into each other while they made the album *Stop Motion*, released in June 2024. David's credits include The Lumineers, Shawn Mendes, and Matt Maeson; a co-writer's email is what put him and Ginger in the same room in the first place.

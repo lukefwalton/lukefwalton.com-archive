@@ -16,17 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/music-history-and-why-it-matter
 spotifyUrl: "https://open.spotify.com/episode/4CggfokgRu79AK3rRgp8Na"
 
 topicsDiscussed:
+  - "Classical and orchestral music"
+  - "Jazz"
+  - "Blues"
+  - "Japan"
   - "Songwriting"
-  - "The significance of music history"
-  - "Cultural influences in music"
-  - "Melody and rhythm evolution"
-  - "Access to global music"
-  - "Individualism in modern composition"
-  - "Baroque to Romantic transitions"
-  - "The role of technology in music creation"
-  - "Impact of cultural exposure"
-  - "Tension and resolution in music"
-  - "Artistic freedom and expression"
+  - "Genre"
+  - "Bass"
+  - "Collaboration"
+  - "Music theory"
+  - "The internet"
 
 hostNote: |
   Written music has been around for a thousand years, and I'm reading a lot of music history books lately asking the same question: how did we end up making the music we're making? That's the spine of this episode.

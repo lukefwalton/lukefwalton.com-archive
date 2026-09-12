@@ -16,18 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-you-dont-need-expensive-gea
 spotifyUrl: "https://open.spotify.com/episode/0gFhTwodk1ROiAkoQeSDdW"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Mastering"
+  - "The home studio"
+  - "Music production"
+  - "Microphones"
   - "Mixing"
-  - "The Myth of Gear"
-  - "Personal Growth in Music"
-  - "Skill Over Equipment"
-  - "Diminishing Returns in Gear"
-  - "Affordable Alternatives"
-  - "Creative Constraints"
-  - "Recording Techniques"
-  - "Artistic Expression"
-  - "Real-Life Gear Examples"
+  - "Mastering"
+  - "Creativity"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Bass"
+  - "Effects"
 
 hostNote: |
   It's never been about the gear. It's about you, and your skills, and what you can do with what you have. That's not a motivational poster, it's a practical claim about where the value in a recording actually lives.

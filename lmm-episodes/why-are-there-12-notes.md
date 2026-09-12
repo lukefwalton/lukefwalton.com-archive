@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-are-there-12-notes/id156735
 spotifyUrl: "https://open.spotify.com/episode/0PpTYftSkA1T0DrCfjrTQ3"
 
 topicsDiscussed:
+  - "Music theory"
   - "Microtonal music"
-  - "Origins of Musical Notes"
-  - "Pythagorean Theorem"
-  - "Perfect Fifth"
-  - "Mathematics in Music"
-  - "Western Music Tradition"
-  - "Frequency and Pitch"
-  - "Cultural Perspectives on Music"
-  - "Circle of Fifths"
-  - "Equal Temperament"
-  - "Artistry vs. Structure"
+  - "Classical and orchestral music"
+  - "Piano, synth, and keys"
+  - "Genre"
+  - "Perfect fifth"
+  - "Circle of fifths"
+  - "Pythagoras"
 
 hostNote: |
   Why does Western music have 12 notes? I trace it back to **Pythagoras** and his 3:2 ratio, the "perfect fifth": stack that ratio twelve times and you land almost exactly back where you started, which is the whole reason we ended up with 12.

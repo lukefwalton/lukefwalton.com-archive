@@ -16,13 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-music-has-worth/id156735519
 spotifyUrl: "https://open.spotify.com/episode/5IPY806Pd2GztqwY3e7gub"
 
 topicsDiscussed:
-  - "Creativity"
   - "Philosophy"
-  - "Value of Music"
-  - "Creative Authenticity"
-  - "Impact of Audio"
-  - "Music and Identity"
-  - "Upcoming LP Cycle"
+  - "Creativity"
+  - "Memory and nostalgia"
+  - "Guitar"
+  - "Mixing"
+  - "Classical and orchestral music"
+  - "Genre"
+  - "Scoring for picture"
+  - "Music production"
+  - "Songwriting"
 
 hostNote: |
   The value of music is physical. It changes the environment the way a fan in the next room does, you feel it before you think about it. That's where I start: not with art theory but with the brute fact that sound is our best way of manipulating the physical world into something we can share with someone else.

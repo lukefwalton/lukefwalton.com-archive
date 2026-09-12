@@ -22,12 +22,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=aDrPGx6QYiw"
 topicsDiscussed:
   - "Drums"
   - "New York"
+  - "Jazz"
   - "Songwriting"
   - "The music business"
-  - "Importance of live gigs"
-  - "Navigating the music industry"
-  - "Studying under legendary drummers"
-  - "Evolving musical styles"
+  - "Touring"
+  - "Guitar"
+  - "Studying with Bernard Purdie"
+  - "Recording Two Princes"
+  - "The importance of gigging"
 
 hostNote: |
   Aaron Comess moved to New York knowing he needed to be in a city that would eat him alive if he wasn’t serious, and it worked. He studied under **Bernard Purdy** (who corrected more than just his hi-hat technique), played every gig he could find, and ended up in the **Spin Doctors** by being in the right room at the New School.

@@ -18,14 +18,12 @@ appleUrl: "https://podcasts.apple.com/us/podcast/to-be-like-water-take-a-nap/id1
 topicsDiscussed:
   - "Drums"
   - "Philosophy"
+  - "Guitar"
+  - "Bass"
   - "Creativity"
-  - "Dreams"
-  - "Friendship"
+  - "Piano, synth, and keys"
+  - "Music production"
   - "Practice and napping"
-  - "Musicians and athletes"
-  - "Metronomes"
-  - "Wu Wei"
-  - "TOMMASO"
 
 hostNote: |
   If you want to learn a new instrument, start napping. The episode title is the method: **be like water**, then actually sleep. I stack musicians next to professional athletes: not the hotel rooms, the drills. Drumming makes the parallel brutally obvious: four limbs, a metronome that younger players hate, and a body that will not fluidly do what the ear already knows.

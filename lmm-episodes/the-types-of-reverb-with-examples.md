@@ -18,7 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/6mFa212ZLACArESG3pGtVU"
 topicsDiscussed:
   - "Reverb"
   - "Delay"
-  - "Flutter Echo"
+  - "Mixing"
+  - "Effects"
+  - "Analog"
+  - "Plugins"
+  - "Microphones"
+  - "The home studio"
+  - "The beach"
+  - "Compression"
+  - "Guitar"
+  - "Drums"
 
 hostNote: |
   Reverb is all of the tiny delays that happen when a sound source slaps up against a surface. That's it, everything else is engineering history and creative choice built on top of that physical fact.

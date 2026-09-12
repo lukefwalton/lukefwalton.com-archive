@@ -19,17 +19,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=Q0pzjCULIN0"
 
 topicsDiscussed:
   - "Guitar"
-  - "Creativity"
-  - "Songwriting"
   - "The internet"
-  - "Philosophy"
-  - "Navigating the artist-fan relationship"
-  - "The impact of social media on musicians"
-  - "The importance of passion in music"
-  - "Overcoming challenges in music careers"
-  - "The evolution of modern musicians"
-  - "Difference between teaching and performing"
-  - "Incorporating technology in music"
+  - "The pandemic"
+  - "Songwriting"
+  - "Creativity"
+  - "Touring"
+  - "Genre"
+  - "Blues"
+  - "Singing and vocals"
+  - "Teaching guitar in 60-second microdoses"
+  - "The intermediate-guitar plateau"
 
 hostNote: |
   Teaching guitar wasn't the plan for **Lindy Day**. In her own words she never thought it would become her main thing, and now she reaches a wide social media following in what she calls microdoses of music. She still frames teaching the way she'd frame anything else she cares about: "it's really a job in people," not a job in knowing your inversions.

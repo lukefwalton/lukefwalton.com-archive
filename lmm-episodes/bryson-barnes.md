@@ -19,16 +19,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=a1UWhyazZHg"
 
 topicsDiscussed:
   - "Music production"
+  - "Jazz"
+  - "Microphones"
   - "Creativity"
-  - "Overlaps between music and podcasting"
-  - "Audio storytelling techniques"
-  - "Impact of sound on narrative"
-  - "The evolution of podcasting"
-  - "Creative process in audio production"
-  - "Field recording and sound design"
-  - "Personal experiences with music and storytelling"
-  - "Engaging audiences through audio"
-  - "The future of podcasting and audio technology"
+  - "Radio and broadcast"
+  - "Audio storytelling"
+  - "Field recording"
+  - "Sound design"
+  - "Remote recording"
 
 hostNote: |
   **Bryson Barnes** is Head of Audio Production at **NBC News**, where his work has touched 15 Apple #1 podcasts and helped produce Peabody, DuPont, Pulitzer, Emmy, and Ambie-recognized shows. He started as a jazz trumpet player, and that background still shapes how he builds a podcast.

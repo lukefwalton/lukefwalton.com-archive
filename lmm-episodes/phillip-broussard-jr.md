@@ -18,18 +18,18 @@ spotifyUrl: "https://open.spotify.com/episode/3skGOCE0juHL9cFV5bFi0p"
 youtubeUrl: "https://www.youtube.com/watch?v=ZtWt750Ifmc"
 
 topicsDiscussed:
-  - "Analog"
   - "Drums"
-  - "Mixing"
   - "Microphones"
-  - "Live recording techniques"
-  - "Microphone placement"
-  - "Working with big artists"
-  - "Tape vs. digital recording"
-  - "Session preparation strategies"
-  - "Troubleshooting in the studio"
-  - "Choosing the right drum sounds"
-  - "Collaborating with artists and producers"
+  - "Analog"
+  - "Mixing"
+  - "Music production"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Compression"
+  - "DAWs"
+  - "Metal"
+  - "EQ"
+  - "Collaboration"
 
 hostNote: |
   **Phillip Broussard Jr.** has engineered and produced for the Red Hot Chili Peppers, Adele, Eminem, Muse, Slipknot, and Rick Rubin sessions: and the through-line across all of it is live capture: setting up the band so they can actually communicate with each other, running the room so the performance has somewhere to go.

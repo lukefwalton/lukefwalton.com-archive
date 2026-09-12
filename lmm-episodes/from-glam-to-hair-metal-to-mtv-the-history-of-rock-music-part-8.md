@@ -16,17 +16,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/from-glam-to-hair-metal-to-mtv-
 spotifyUrl: "https://open.spotify.com/episode/0jpeAmmdgJsDPCzE7IL1di"
 
 topicsDiscussed:
-  - "Metal"
   - "The history of rock"
-  - "Glam Rock Origins"
-  - "Impact of David Bowie"
-  - "Eddie Van Halen's Techniques"
-  - "MTV and Music Videos"
-  - "Transitional Sounds of the 80s"
-  - "Cultural Impact of Punk and Glam"
-  - "Twisted Sister's Journey"
-  - "Identity in Rock Personas"
-  - "Music's Reflection of Society"
+  - "Metal"
+  - "Guitar"
+  - "New York"
+  - "Los Angeles"
+  - "Genre"
+  - "Blues"
+  - "Drums"
+  - "Effects"
+  - "Glam rock"
+  - "MTV and music videos"
+  - "The music business"
 
 hostNote: |
   By the 70s, rock and roll had gotten so competitive that the only way to top the last band was to get stranger. I trace how that pressure produced **David Bowie** and the androgynous, larger-than-life persona he built, the New York Dolls bridging glam into punk, and Twisted Sister taking the same theatrics somewhere blue-collar and unpolished instead of major-label sheen.

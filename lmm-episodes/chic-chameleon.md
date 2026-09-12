@@ -18,18 +18,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/anything-thats-unique-with-chic
 youtubeUrl: "https://www.youtube.com/watch?v=yeGpRMhCQLk"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Dreams"
   - "Genre"
-  - "Collaboration"
-  - "Creative process and authenticity"
-  - "Experiences at Sled Island Festival"
-  - "Challenges of DIY recording"
-  - "Live performance dynamics"
-  - "Emotional journeys through music"
-  - "Self-releasing music"
-  - "Maintaining artistic identity"
-  - "Insights on shoegaze and dream pop"
+  - "Creativity"
+  - "Jazz"
+  - "The home studio"
+  - "Radio and broadcast"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Drums"
+  - "Effects"
+  - "Reverb"
+  - "The music business"
+  - "Shoegaze and dream pop"
 
 hostNote: |
   **Chic Chameleon** is Patrick Froese’s Edmonton dream-pop / shoegaze project. He has a bachelor’s in jazz and contemporary music, then left the chops-flex (Joshua Redman *Jazz Crimes* in school) for the stuff he actually wants to hear back: chill indie rock with a wall of sound. Shoegaze, in his telling, is literally gazing at your shoes: enveloped, not showing off.

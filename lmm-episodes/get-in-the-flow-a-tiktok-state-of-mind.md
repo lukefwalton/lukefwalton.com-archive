@@ -19,15 +19,12 @@ topicsDiscussed:
   - "The internet"
   - "AI"
   - "Creativity"
-  - "Effects"
-  - "Flow State"
-  - "Personal Anecdotes"
-  - "Musical Process"
-  - "Digital Distraction"
-  - "Mindfulness in Music"
-  - "Artistic Growth"
-  - "Algorithmic Influence"
-  - "Coping Mechanisms"
+  - "Dragon Ball Z"
+  - "Music theory"
+  - "Guitar"
+  - "Flow state and creative trance"
+  - "Social media hijacking attention"
+  - "Live performance as shared flow"
 
 hostNote: |
   TikTok is engineered to hijack your flow state. The same mechanism that makes it impossible to stop scrolling is the one that makes it hard to stay inside a creative session, and that's not a coincidence, it's the design.

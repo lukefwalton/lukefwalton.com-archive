@@ -17,17 +17,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/release-and-you-shall-receive-w
 spotifyUrl: "https://open.spotify.com/episode/33bpFdEtJY0mBOXOvlnSh6"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Drums"
   - "Mastering"
+  - "Mixing"
   - "Music production"
-  - "Journey from drummer to producer"
-  - "Balancing personal and listener expectations"
-  - "Navigating the pressures of music release"
-  - "The evolving role of technology in music creation"
-  - "Instinct and emotional connection to sound"
-  - "Choosing to release music without overthinking"
-  - "Building a unique sound signature"
+  - "Drums"
+  - "Songwriting"
+  - "Collaboration"
+  - "Piano, synth, and keys"
+  - "Soul and R&B"
+  - "The music business"
+  - "Friendship"
+  - "Singing and vocals"
+  - "Compression"
 
 hostNote: |
   **Riley Knapp** records as RKCB and has mastered my music for over a decade, engineer, producer, and musician enough to know the catalog as well as anyone. The through-line of the conversation is what happens after a song is finished: one of his tracks sat under a thousand plays before landing in an Apple commercial, the kind of outcome that only happens if you actually put the thing out.

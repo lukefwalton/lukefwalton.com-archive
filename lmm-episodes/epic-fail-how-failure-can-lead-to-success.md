@@ -18,14 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/21m5bfPsSTaTVzBIx7d2Ee"
 topicsDiscussed:
   - "Failure"
   - "Creativity"
-  - "Self-assessment"
-  - "Overcoming negative self-talk"
-  - "Creative risk-taking"
-  - "Navigating opportunity costs"
-  - "The importance of reflection"
-  - "The creative process"
-  - "Finding your unique sound"
-  - "Balancing ambition and safety"
+  - "Singing and vocals"
+  - "Songwriting"
+  - "Music production"
+  - "Creative risk"
+  - "Scrapping a song"
+  - "Opportunity cost"
+  - "Nonlinear creative path"
 
 hostNote: |
   I made a bad thing. I'm not going to release it. That's where this episode starts, not as a metaphor, but as the actual situation I was in when I sat down to record.

@@ -21,12 +21,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=TaFRn6bt7uo"
 
 topicsDiscussed:
   - "Classical and orchestral music"
+  - "Jazz"
   - "Genre"
-  - "Non-traditional musical careers"
-  - "Influence of Brazilian Jiu Jitsu on music"
-  - "Development of personal style"
-  - "The economics of performing arts"
-  - "Early music education"
+  - "The music business"
+  - "Music theory"
+  - "Bass"
+  - "Brazilian Jiu Jitsu and improvisation"
+  - "Career outside the orchestra chair"
+  - "Playing to the room versus personal style"
 
 hostNote: |
   **Greg Byers** is a cellist and composer affiliated with the New Directions Cello Festival and the Seifert International Jazz Competition. His mother wanted him on violin; his teacher steered him to cello instead, reasoning there would always be fewer cellists competing for work.

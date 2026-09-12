@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/functional-biomechanics-in-musi
 spotifyUrl: "https://open.spotify.com/episode/4eY0c0jGipYn4qkC6LNifF"
 
 topicsDiscussed:
-  - "Memory and nostalgia"
+  - "Functional biomechanics"
+  - "Drums"
+  - "Guitar"
+  - "Touring"
   - "Music theory"
-  - "Biomechanics in Music"
-  - "Injury Prevention"
-  - "Musical Performance Techniques"
-  - "Endurance in Music"
-  - "Muscle Memory and Technique"
-  - "Influence of Drummers"
-  - "Nate Smith's Techniques"
-  - "Artistic Longevity"
-  - "Athletics and Music"
+  - "Creativity"
+  - "Injury prevention"
+  - "Technique and longevity"
+  - "Musical athleticism"
 
 hostNote: |
   Watching Nate Smith play egg shaker while simultaneously playing drums, one tiny, casual motion in his wrist, rewired something in my thinking. I realized I could play egg shaker way faster just by changing how I held my arm. That's biomechanics: the right mechanics let the body stop fighting itself.

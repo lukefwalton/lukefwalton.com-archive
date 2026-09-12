@@ -21,14 +21,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=n6Pm8rC-dX0"
 
 topicsDiscussed:
   - "Microtonal music"
-  - "AI"
   - "Music theory"
-  - "Creativity"
-  - "Microtonal harmony"
-  - "Expanding musical palettes"
-  - "The relationship between notes"
-  - "Cultural perspectives on tuning"
-  - "Practical applications in music"
+  - "Piano, synth, and keys"
+  - "Bass"
+  - "Guitar"
+  - "Effects"
+  - "Delay"
+  - "The internet"
+  - "DAWs"
+  - "AI"
+  - "Fretless instruments as a microtonal entry point"
 
 hostNote: |
   **Levi McClain** teaches microtonal harmony on his YouTube channel, and the premise of this one is right in the title: what happens if you divide an octave into **31** equally spaced notes instead of the usual 12?

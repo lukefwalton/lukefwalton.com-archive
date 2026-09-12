@@ -22,13 +22,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=CCuQ9TcBCMo"
 topicsDiscussed:
   - "Scoring for picture"
   - "Spatial audio"
+  - "Microphones"
+  - "Mixing"
+  - "Effects"
+  - "Analog"
   - "The music business"
-  - "Importance of sound in film"
-  - "Differences between sound design and film scoring"
-  - "The role of ADR in emotional storytelling"
-  - "Creating immersive audio environments"
-  - "Challenges of sound recording on location"
-  - "Navigating the film industry as an independent artist"
+  - "ADR and looping dialogue"
+  - "Sound design vs film scoring"
+  - "Location recording and clean dialogue"
+  - "Foley and immersive environments"
 
 hostNote: |
   Kelley Baker signed his book to me with a line that doubles as his whole philosophy: "Remember, the only people who really care about sound are the audience." He's the sound designer behind *Good Will Hunting*, *My Own Private Idaho*, and *Finding Forrester*, and he calls himself the Angry Filmmaker because he's pissed off in the way only someone who cares this much can be.

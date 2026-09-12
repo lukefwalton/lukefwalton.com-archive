@@ -17,15 +17,14 @@ spotifyUrl: "https://open.spotify.com/episode/4OXUMWMTiAPZIlhGG3bHKv"
 
 topicsDiscussed:
   - "Music theory"
-  - "Creativity"
   - "Songwriting"
-  - "Personal anecdotes in music"
-  - "Industry jargon in music"
-  - "Creative vs. theoretical approaches"
-  - "Crafting pop music with theory"
-  - "Role of tension in music"
-  - "Understanding chords and melodies"
-  - "Jargon as a shortcut in music"
+  - "Jazz"
+  - "Collaboration"
+  - "AI"
+  - "The music business"
+  - "Genre"
+  - "Tension and resolution"
+  - "Theory as shared vocabulary"
 
 hostNote: |
   "By knowing the name of the chord, it's a lot easier to transmit your idea to others." Theory isn't about memorizing rules, it's a shared vocabulary, and without it you're trying to build a house while describing every piece of lumber by feel.

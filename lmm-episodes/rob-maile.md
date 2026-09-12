@@ -22,15 +22,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=f0FMjtTyXC0"
 topicsDiscussed:
   - "Microphones"
   - "Analog"
+  - "Piano, synth, and keys"
+  - "Guitar"
   - "Music production"
+  - "EQ"
+  - "Compression"
+  - "Los Angeles"
+  - "Classical and orchestral music"
   - "Electronic music"
-  - "Genre"
-  - "Music theory"
-  - "Microphone technology at AEA"
-  - "Creating unique sounds with vintage gear"
-  - "Navigating a music career"
-  - "Fusing electronic and acoustic elements"
-  - "The emotional resonance of music"
+  - "Plugins"
+  - "Effects"
 
 hostNote: |
   **Rob Maile** builds microphones at **AEA Microphones** in Los Angeles by day and produces and engineers records with a classically trained ear and a DIY spirit. He forged most of what he knows from people and from connecting, not from a single linear path: and that self-directed formation shapes how he thinks about gear and capturing sound.

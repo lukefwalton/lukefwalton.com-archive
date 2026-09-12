@@ -16,14 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/do-keys-feel-different/id156735
 spotifyUrl: "https://open.spotify.com/episode/57OISCRIA7ofabcdkFxzIt"
 
 topicsDiscussed:
-  - "Piano, synth, and keys"
   - "Music theory"
-  - "Emotional impact of chords"
-  - "Relational vs absolute music"
-  - "Key signatures and feeling"
-  - "Frequency and emotion"
-  - "Cultural associations in music"
-  - "Historical context of keys"
+  - "Microtonal music"
+  - "Guitar"
+  - "Songwriting"
+  - "Genre"
+  - "Key signatures"
+  - "Transposition"
+  - "Absolute vs relational pitch"
+  - "Instrumentation and key choice"
 
 hostNote: |
   A friend texted me a deceptively simple question: does C major feel different from G major, or are all major chords the same? The answer pulls in two directions, and I think both are right.

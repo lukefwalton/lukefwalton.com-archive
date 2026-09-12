@@ -21,14 +21,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=VAZwzeYUov8"
 
 topicsDiscussed:
   - "Drums"
+  - "Touring"
+  - "Satire and absurdism"
   - "Classical and orchestral music"
   - "Genre"
+  - "The pandemic"
+  - "Radio and broadcast"
   - "Music production"
-  - "Satire and absurdism"
-  - "Touring"
   - "Meeting Weird Al: Dr. Demento live show, right place/right time"
   - "Snare archaeology, documenting samples (Word Crimes, Radioactive parody)"
-  - "Tour craft, different setlists nightly, no repeats on back-to-back nights"
   - "Orchestral tours, unplugged pivots, and keeping decades-long shows fresh"
   - "1985 Dare to Be Stupid era: videos, book, early tour infrastructure"
 

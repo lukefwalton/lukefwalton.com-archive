@@ -20,13 +20,15 @@ spotifyUrl: "https://open.spotify.com/episode/6OrYYu0f1hyyRqqC5UDJ9c"
 youtubeUrl: "https://www.youtube.com/watch?v=QjOuftPvKcU"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
-  - "Songwriting"
   - "Touring"
-  - "Recording in multiple studios"
-  - "Collaborative music-making"
-  - "Navigating creative constraints"
+  - "Songwriting"
+  - "Collaboration"
+  - "Music production"
+  - "Guitar"
+  - "Bass"
+  - "Drums"
+  - "The music business"
+  - "Recording a fifth album across multiple studios"
 
 hostNote: |
   **Mo Lowda & the Humble** are on their fifth album: and that number changes the relationship with the material. "I think we have much higher standards... writing music long enough that we have much higher standards." The whole band joins for this one.

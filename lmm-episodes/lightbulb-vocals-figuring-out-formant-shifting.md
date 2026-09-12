@@ -19,15 +19,13 @@ topicsDiscussed:
   - "Formant"
   - "Singing and vocals"
   - "Music production"
-  - "The music business"
-  - "Vocal Manipulation"
-  - "History of Vocal Techniques"
-  - "Voice Placement"
-  - "Singing Techniques"
-  - "Audio Processing"
-  - "Vocal Presence"
-  - "Impact of Technology on Voice"
-  - "Music Industry Trends"
+  - "Mixing"
+  - "Guitar"
+  - "Plugins"
+  - "Effects"
+  - "Talk box, vocoder, and vocal manipulation history"
+  - "Vocal placement and presence"
+  - "Applying formant to vocals and other instruments"
 
 hostNote: |
   Formant is just mouth shape, the shape of the cavity through which sound travels. That's the whole definition. But shifting those resonance points was a lightbulb moment for me as a vocalist, because it means your voice isn't fixed. You've probably already done it in everyday life without noticing.

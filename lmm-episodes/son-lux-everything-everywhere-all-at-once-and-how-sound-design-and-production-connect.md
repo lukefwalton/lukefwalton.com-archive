@@ -16,18 +16,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/son-lux-everything-everywhere-a
 spotifyUrl: "https://open.spotify.com/episode/1y0Egp66VxBCcrhgDT97M5"
 
 topicsDiscussed:
+  - "Scoring for picture"
   - "Music production"
-  - "Creativity"
+  - "Drums"
+  - "Reverb"
+  - "Electronic music"
+  - "Analog"
+  - "Microphones"
+  - "Piano, synth, and keys"
   - "Spatial audio"
-  - "Son Lux's influence"
-  - "Everything Everywhere All At Once"
-  - "Sound design techniques"
-  - "Record production evolution"
-  - "Organic and synthesized sounds"
-  - "Binaural recording"
-  - "Modern musical instruments"
-  - "Innovation in music"
-  - "Impact on pop culture"
+  - "Effects"
+  - "Classical and orchestral music"
+  - "Mixing"
 
 hostNote: |
   **Son Lux** does something most producers don't: they treat the sound design layer and the production layer as the same decision, not consecutive ones. Their Oscar nomination for *Everything Everywhere All At Once* brought mainstream attention, but the approach is what makes the music last.

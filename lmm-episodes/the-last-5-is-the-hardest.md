@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-last-5-is-the-hardest/id156
 spotifyUrl: "https://open.spotify.com/episode/08I20D6Mb20v3NErBVqLbw"
 
 topicsDiscussed:
-  - "Creativity"
   - "Imposter syndrome"
-  - "Creative Process"
-  - "Overcoming Self-Doubt"
-  - "The Gremlin Concept"
-  - "Musician's Journey"
-  - "Finishing a Project"
-  - "Emotional Challenges"
-  - "Goal Setting"
-  - "Artistic Growth"
-  - "Motivation Techniques"
+  - "Creativity"
+  - "Analog"
+  - "Music production"
+  - "Failure"
+  - "Mastering"
+  - "Guitar"
+  - "Songwriting"
+  - "The music business"
 
 hostNote: |
   I realized that the fear means I'm close, it's a good thing, not a bad thing. That inversion is what changed how I finish things. The gremlins don't arrive randomly; they arrive at the five percent mark, which is also the only part of the process where quitting would actually cost you something.

@@ -16,18 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/becoming-a-multi-instrumentalis
 spotifyUrl: "https://open.spotify.com/episode/4rfZSfC0Gn8UUC8ZYlvy26"
 
 topicsDiscussed:
-  - "Bass"
   - "Guitar"
+  - "Bass"
   - "Piano, synth, and keys"
-  - "Creativity"
-  - "Learning Instruments"
-  - "Piano Techniques"
-  - "Musical Goals"
-  - "Recording Process"
-  - "Multi-Instrumentalist Journey"
-  - "Creative Exploration"
-  - "Developing Skills"
-  - "Overcoming Frustration"
+  - "Drums"
+  - "Music theory"
+  - "Music production"
+  - "Finding the one magic thing on each instrument"
+  - "Dynamics and groove (bass as a drum kit)"
+  - "Learning plateaus without treating them as failure"
 
 hostNote: |
   Every instrument has one magic thing that makes the whole thing click, and until you find it, you're not bad at that instrument, you're just growing. That reframe changed how I approach learning entirely.

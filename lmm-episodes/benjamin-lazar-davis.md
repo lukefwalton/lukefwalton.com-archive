@@ -20,18 +20,17 @@ spotifyUrl: "https://open.spotify.com/episode/01licUe1CnHUvECWqKEPmE"
 youtubeUrl: "https://www.youtube.com/watch?v=HCj0nXMk1ms"
 
 topicsDiscussed:
-  - "Creativity"
   - "Music production"
-  - "Collaboration"
   - "Songwriting"
+  - "Collaboration"
+  - "Bass"
+  - "Drums"
+  - "Guitar"
+  - "Los Angeles"
+  - "New York"
+  - "Singing and vocals"
+  - "West African drumming and ensemble music"
   - "Producing Maya Hawke"
-  - "West African music influences"
-  - "Instrumental energy"
-  - "Bicoastal living"
-  - "Creative growth through environment"
-  - "Respect for instruments"
-  - "Cuddle Magic band dynamics"
-  - "Community in music"
 
 hostNote: |
   **Benjamin Lazar Davis** produced Maya Hawke’s records, studied West African music, plays in Cuddle Magic, and has released music with Monica Martin: which is a range of contexts that traces back to one consistent instinct: following what the instrument is actually asking for rather than imposing a fixed idea on it.

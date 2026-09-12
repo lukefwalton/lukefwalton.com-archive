@@ -18,18 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/0fRPstavehbWQdp5pHSKdd"
 youtubeUrl: "https://www.youtube.com/watch?v=K6Kex7osmXs"
 
 topicsDiscussed:
-  - "Collaboration"
   - "Electronic music"
   - "Genre"
-  - "Songwriting"
   - "The music business"
-  - "DIY music culture in Sweden"
-  - "Building a music community"
-  - "Transition from punk to electronic"
-  - "Sync licensing in commercial music"
-  - "Influence of ABBA on Swedish music scene"
-  - "The importance of grassroots labels"
-  - "Maintaining artistic integrity in commercial spaces"
+  - "Songwriting"
+  - "Collaboration"
+  - "Scoring for picture"
+  - "Piano, synth, and keys"
+  - "Guitar"
+  - "The history of rock"
+  - "DIY labels and community in Sweden"
 
 hostNote: |
   Håkan Persson writes, produces, and runs a label out of Sweden, and he traces all of it back to his mother's love of music and to writing his first song at eight years old. He's since built **Swedish Red Elephant** into a 65-million-stream electronic project, placed songs with **I Don't Speak French** in commercials and TV, and founded the label **Indieshake** on a DIY, community-first ethic.

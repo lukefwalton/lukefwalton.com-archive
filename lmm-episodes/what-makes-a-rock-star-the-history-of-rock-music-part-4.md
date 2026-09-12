@@ -17,16 +17,17 @@ spotifyUrl: "https://open.spotify.com/episode/3QOHCmUe6sRa8pWDWQAtyz"
 
 topicsDiscussed:
   - "The history of rock"
-  - "Jimi Hendrix's impact"
-  - "The Who's destructive performances"
-  - "Evolution of supergroups"
-  - "Technological innovations in music"
-  - "Cultural context of rock music"
-  - "Rock music as performance art"
-  - "Transition from rock and roll to classic rock"
-  - "Fandom and artists' roles"
-  - "The evolution of stadium shows"
-  - "Concept albums and musical experimentation"
+  - "Guitar"
+  - "Blues"
+  - "Effects"
+  - "Touring"
+  - "The music business"
+  - "Creativity"
+  - "Songwriting"
+  - "Bass"
+  - "Drums"
+  - "Jazz"
+  - "Classical and orchestral music"
 
 hostNote: |
   I get into what actually makes a rock star: **Jimi Hendrix**'s guitar innovations, the chaos of **The Who**'s stage-smashing performances, and the rise of supergroups like **Cream** and **Led Zeppelin**, who turned technical skill and excess into their own kind of persona.

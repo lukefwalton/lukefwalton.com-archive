@@ -17,16 +17,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/musical-experimentation-and-gen
 spotifyUrl: "https://open.spotify.com/episode/37ARgDnhNGVm9PMVrHGfZG"
 
 topicsDiscussed:
+  - "Bass"
+  - "Drums"
+  - "Touring"
   - "Genre"
-  - "Collaboration"
-  - "Creativity"
+  - "Guitar"
   - "Scoring for picture"
-  - "Musical upbringing and family influence"
-  - "Self-taught musicianship"
-  - "The creative process behind live performances"
-  - "The impact of experimentation on music"
-  - "Music in film scoring"
-  - "Community support among musicians"
+  - "Jazz"
+  - "Collaboration"
+  - "The internet"
+  - "Fretless bass and the Jaco lineage"
 
 hostNote: |
   **Dion Kerr** is a multi-instrumentalist, producer, and bassist from South Florida, fresh off a tour opening for **Unknown Mortal Orchestra** when we talked. He grew up in a musical household, jamming with family before he had any formal training, and later taught himself upright bass by trying to become **Jaco Pastorius**, stripping the frets off a bass to chase that sound.

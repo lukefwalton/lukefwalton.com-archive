@@ -17,11 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/0fIUzyY39nd8EkbDtadSki"
 
 topicsDiscussed:
   - "DAWs"
+  - "Plugins"
   - "Music production"
-  - "Music software mechanics"
-  - "Importance of authentication"
-  - "The role of piracy in music"
-  - "Future of music technology"
+  - "The music business"
+  - "The internet"
+  - "iLok authentication and piracy"
+  - "Cracked Waves plugins as accidental onboarding"
+  - "Ableton versus Pro Tools as a trust model"
 
 hostNote: |
   The iLok is a little USB dongle you have to keep plugged in to use software you already paid for, and it's a good symbol for how scared the music software industry still is of piracy: music was one of the first targets of piracy across the board, and that fear shaped the tools.

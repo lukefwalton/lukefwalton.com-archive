@@ -18,13 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/4ZFvWAbaVPNY1UBvq5Hegu"
 topicsDiscussed:
   - "AI"
   - "Spatial audio"
-  - "Creativity"
   - "Mixing"
+  - "Plugins"
+  - "Mastering"
   - "Music production"
-  - "Dolby Atmos Certification"
-  - "Low-Tech vs High-Tech Tools"
-  - "Creative Control"
-  - "Breath Control in Editing"
+  - "Singing and vocals"
+  - "Low-tech editing vs automation"
+  - "Breaths as musical information"
 
 hostNote: |
   Low-tech should always be in your toolkit, particularly when you're talking about a three-minute song. The more advanced the tool, the more important it is to understand what it's doing, because if you rely on it without understanding it, you're going to miss musical opportunities that were right there.

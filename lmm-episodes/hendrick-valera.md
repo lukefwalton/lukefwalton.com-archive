@@ -22,16 +22,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=fwVDMrlrAVs"
 topicsDiscussed:
   - "Music production"
   - "The music business"
+  - "Jazz"
   - "Collaboration"
-  - "Creativity"
-  - "Cultural experience in music"
-  - "The evolution of the Argentine music scene"
-  - "Understanding different audiences"
-  - "The importance of perseverance in music"
-  - "Building strong musical communities"
-  - "Navigating the music industry as a producer"
-  - "Challenges of being an independent artist"
-  - "Creative risk-taking in music"
+  - "The internet"
+  - "Mixing"
+  - "Genre"
+  - "Classical and orchestral music"
+  - "Making records across Venezuela, Argentina, and Colombia"
+  - "Independent artists and local scenes"
 
 hostNote: |
   Hendrick Valera is a producer and mixer who started in Venezuela, then worked in Argentina, the U.S., and now Colombia, and that path is the spine of this conversation. He talks about the obstacles to studying music in Venezuela, and how he found his way to production after starting out as a saxophonist.

@@ -19,16 +19,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=EfyLDSMh3EE"
 
 topicsDiscussed:
   - "Songwriting"
-  - "Music production"
   - "The music business"
+  - "Music production"
   - "Collaboration"
-  - "The internet"
-  - "Advocacy for songwriter rights"
-  - "Earnings from streaming platforms"
-  - "The reality behind platinum hits"
-  - "Transitioning from artist to songwriter"
-  - "Importance of live performances"
-  - "Navigating music publishing deals"
+  - "Touring"
+  - "Los Angeles"
+  - "New York"
+  - "AI"
+  - "Songwriter advocacy and streaming pay"
+  - "Publishing deals"
+  - "Leaving the artist path for writing"
 
 hostNote: |
   **Justin Gammella** is a platinum-selling songwriter who's written with **FINNEAS**, **Bella Poarch**, and **Bahamas**, and he's also an active advocate for songwriter pay through SONA. We start with the gap between how glamorous the job looks from outside and how hard it actually is to make a living writing songs for other artists.

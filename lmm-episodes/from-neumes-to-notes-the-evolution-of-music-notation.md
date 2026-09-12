@@ -16,17 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/from-neumes-to-notes-the-evolut
 spotifyUrl: "https://open.spotify.com/episode/0YKGipYRxvOH5hePQaaRMc"
 
 topicsDiscussed:
-  - "Jazz"
-  - "History of Music Notation"
+  - "Music theory"
+  - "Music notation"
   - "Neumes"
-  - "Ancient Notation"
-  - "Musical Communication"
-  - "Evolution of Pitches"
-  - "Medieval Music"
-  - "Renaissance Innovations"
-  - "Modern Notation"
-  - "Digital Notation"
-  - "Improvisation in Music"
+  - "The musical staff"
+  - "Standardization of notation"
+  - "Singing and vocals"
+  - "Songwriting"
+  - "Oral tradition"
+  - "Printing press and sheet music"
+  - "Improvisation vs notation"
 
 hostNote: |
   Somewhere in ancient Babylonia, someone carved musical instructions into stone and said: play this one for the god, nice and slow. That's the same problem we're still solving, how do I get a musical idea out of my head and into yours without being in the same room?

@@ -20,15 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/4N1EPFMJTSrQLKwVF5j0JP"
 youtubeUrl: "https://www.youtube.com/watch?v=dfqNBQYfxbk"
 
 topicsDiscussed:
-  - "Los Angeles"
   - "Drums"
   - "Mixing"
-  - "Brazilian music's cultural significance"
+  - "Music production"
+  - "Touring"
+  - "Singing and vocals"
+  - "Songwriting"
+  - "Brazilian rhythm and samba"
   - "Elasticity of rhythm"
-  - "The connection between music and movement"
+  - "Music and movement"
   - "Joy as resistance in Brazilian music"
-  - "Role of percussion in live performance"
-  - "The importance of cultural exploration in music"
 
 hostNote: |
   **Geneva Harrison** is a percussionist and producer who's toured with **Y La Bamba**, scored live stories for WNYC's *Snap Judgment*, and plays with **Nu Deco Ensemble** and **Rachel Goodrich**.

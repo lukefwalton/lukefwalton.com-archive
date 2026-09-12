@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/4dEtfj3hwT0proNRx4wlrT"
 
 topicsDiscussed:
   - "The history of rock"
-  - "Heartbreak"
   - "Radio and broadcast"
-  - "The Beatles Breakup"
-  - "Cultural Impact of The Beatles"
-  - "The White Album"
-  - "Progressive Rock Emergence"
-  - "FM Radio Influence"
-  - "Avant-Garde Experimentation"
-  - "Rock and Roll Evolution"
-  - "The Role of Brian Epstein"
-  - "John Lennon and Yoko Ono"
+  - "Piano, synth, and keys"
+  - "Analog"
+  - "Genre"
+  - "Mental health"
+  - "Death"
+  - "Songwriting"
+  - "Guitar"
+  - "The music business"
 
 hostNote: |
   The Beatles breaking up is a mic drop, the end of rock's second wave, the one that runs from early rock and blues through the psychedelic era. I get into why that ending forced the genre to turn inward: when the band everyone measured themselves against was gone, the next wave had to change on its own terms instead of reacting to one.

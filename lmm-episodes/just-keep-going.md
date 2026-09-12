@@ -17,13 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/4S6UgWxqF0wkAWUt2j1kRd"
 
 topicsDiscussed:
   - "Creativity"
-  - "Endurance in Music"
-  - "Independent Artistry"
-  - "Managing Burnout"
-  - "Creative Motivation"
-  - "Personal Experiences"
-  - "Pacing in Creative Work"
-  - "Self-Improvement Techniques"
+  - "The music business"
+  - "Burnout as misaligned excitement, not just overwork"
+  - "Independent music as an endurance sport"
+  - "Pacing an album like a marathon"
+  - "Autonomy and excitement as fuel"
+  - "Tricking yourself through the uphill"
+  - "Juggling albums, a podcast, and running"
 
 hostNote: |
   Burnout isn't working too hard. It's working without enough excitement, running harder than you have in the tank because the thing has stopped aligning with your spirit. That reframe changes what the fix actually looks like.

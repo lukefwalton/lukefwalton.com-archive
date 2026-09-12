@@ -16,17 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/my-mixing-workflow-how-to-struc
 spotifyUrl: "https://open.spotify.com/episode/6R5GeTJ6El0nlPsV9UNLKt"
 
 topicsDiscussed:
-  - "Creativity"
   - "Mixing"
-  - "Music production"
   - "Spatial audio"
-  - "Creative Structure"
-  - "Organizational Techniques"
-  - "Best Practices"
-  - "Creative Flow"
-  - "Dolby Atmos"
-  - "Color Coding"
-  - "Sound Design"
+  - "Drums"
+  - "Guitar"
+  - "Bass"
+  - "Music production"
+  - "Piano, synth, and keys"
+  - "Compression"
+  - "Effects"
+  - "Session organization, color coding, and routing"
 
 hostNote: |
   Creativity thrives in mess; mixing requires order, the trick is applying the order only where it helps. My workflow starts with cleaning: organizing tracks, naming them, removing cognitive noise before the creative phase starts. Then I go instinctive.

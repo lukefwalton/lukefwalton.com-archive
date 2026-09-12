@@ -21,13 +21,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=5bqiVgPdz6U"
 
 topicsDiscussed:
   - "Music production"
-  - "Creativity"
   - "Effects"
   - "Guitar"
-  - "The journey to become an A&R"
-  - "Creating a podcast about music"
-  - "Building connections in the industry"
-  - "Finding your sonic fingerprint"
+  - "Plugins"
+  - "DAWs"
+  - "The music business"
+  - "Collaboration"
+  - "The internet"
+  - "Guitar pedals as a production workflow"
+  - "A&R at a plugin company"
 
 hostNote: |
   **Abi the Producer** is the A&R at Safari Pedals and a professional magician, which turns out to be good training for a studio: both jobs are about pointing attention toward what actually matters. She reached out to Safari Pedals while finishing audio school and built the role from there.

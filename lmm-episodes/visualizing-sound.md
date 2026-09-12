@@ -16,17 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/visualizing-sound/id1567355195?
 spotifyUrl: "https://open.spotify.com/episode/1iPe2yjG7uhvvcGfm5U5Hr"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Effects"
   - "Mixing"
   - "Reverb"
-  - "Visualizing music"
-  - "3D sound concepts"
-  - "Live concerts experience"
-  - "Applying visual art to music"
-  - "Creative sound design"
-  - "Role of instruments in mix"
-  - "Using harmonics creatively"
+  - "Spatial audio"
+  - "Effects"
+  - "Drums"
+  - "Guitar"
+  - "Piano, synth, and keys"
+  - "Singing and vocals"
+  - "Plugins"
+  - "Music production"
 
 hostNote: |
   Think of music as splashes of color on a canvas where the stereo field is the space you're working in. Visual art has a longer history of this kind of spatial thinking than recorded music does, and borrowing from it opens up the mix in ways that pure technical thinking doesn't.

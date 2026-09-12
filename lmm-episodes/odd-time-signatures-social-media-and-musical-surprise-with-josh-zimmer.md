@@ -19,15 +19,14 @@ spotifyUrl: "https://open.spotify.com/episode/7hQynFt7r05zwkqBEkrZkl"
 topicsDiscussed:
   - "The internet"
   - "Music theory"
-  - "Creativity"
+  - "Bass"
+  - "Songwriting"
+  - "Guitar"
   - "The music business"
-  - "Josh's musical journey, from Pink Floyd to Project Atlantic"
-  - "Impact of social media on music marketing"
-  - "Understanding odd time signatures"
-  - "The element of surprise in music"
-  - "Life as an independent artist"
-  - "Composition techniques and tools"
-  - "The value of personal expression in music"
+  - "Radio and broadcast"
+  - "Memory and nostalgia"
+  - "Odd time signatures and rhythmic surprise"
+  - "Social media as indie discovery"
 
 hostNote: |
   **Josh Zimmer** (Project Atlantic) blew up on Instagram and TikTok by doing something deceptively simple: pointing at **odd bars** hiding in plain sight, a sneaky **3/4 measure** in the *Dragon Tales* theme song, micro-surprises in radio edits, the kind of left turn that makes your ears perk up for half a second.

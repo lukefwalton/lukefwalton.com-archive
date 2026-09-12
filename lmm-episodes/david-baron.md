@@ -21,16 +21,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=dkxtyk7BJ6o"
 
 topicsDiscussed:
   - "Collaboration"
-  - "Creativity"
+  - "Music production"
+  - "Songwriting"
   - "The music business"
   - "Touring"
-  - "Behind the scenes of 'Stop Motion'"
-  - "Navigating the music industry today"
-  - "Experiences on tour with Gypsy Kings"
-  - "The importance of patience in artistic growth"
-  - "The evolution of sound in modern music"
-  - "Influences from notable musicians and producers"
-  - "Journey from demo to final track"
+  - "Japan"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Creativity"
+  - "Analog"
 
 hostNote: |
   **David Baron** produces and writes with Noah Kahan, Lana Del Rey, Lenny Kravitz, The Lumineers, Shawn Mendes, and Matt Maeson, among others. **Ginger Winn** is the singer-songwriter he made **Stop Motion** with, released June 2024. This conversation is about that album and how the two of them actually worked together.

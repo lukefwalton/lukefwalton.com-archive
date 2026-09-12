@@ -15,16 +15,14 @@ listenUrl: "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-S
 
 topicsDiscussed:
   - "AI"
+  - "Autotune and pitch correction"
+  - "Hip-hop"
+  - "Singing and vocals"
+  - "Drums"
+  - "Bass"
+  - "The internet"
+  - "Mastering"
   - "Creativity"
-  - "music and speech"
-  - "inflection and meaning"
-  - "crossing boundaries"
-  - "cultural rhythms"
-  - "language as music"
-  - "emotion in communication"
-  - "creative expression"
-  - "translating speech into music"
-  - "the role of rhythm"
 
 hostNote: |
   Where does speech end and song begin? This solo episode follows that line: through inflection, stress, and pitch that change meaning without changing words, the blurry border between talk and rap, and **Mononeon**'s groove-forward clips that treat conversation like a pocket.

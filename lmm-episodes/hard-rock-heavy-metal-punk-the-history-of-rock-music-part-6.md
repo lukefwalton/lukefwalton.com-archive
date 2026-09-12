@@ -19,14 +19,13 @@ topicsDiscussed:
   - "The history of rock"
   - "Metal"
   - "Guitar"
-  - "History of Hard Rock"
-  - "Influence of The Beatles"
-  - "Punk Rock Origins"
-  - "Cultural Impact of Rock"
-  - "Evolution of Rock Music"
-  - "Led Zeppelin's Legacy"
-  - "Black Sabbath's Innovations"
-  - "Judas Priest's Influence"
+  - "Drums"
+  - "Blues"
+  - "Genre"
+  - "Jazz"
+  - "Black Sabbath and downtuned guitar"
+  - "Punk stripping virtuosity"
+  - "Led Zeppelin and stadium hard rock"
 
 hostNote: |
   Lose The Beatles and rock becomes a ship without a rudder. That's the premise of this chapter, and what fills the void is stranger and more varied than anyone expected.

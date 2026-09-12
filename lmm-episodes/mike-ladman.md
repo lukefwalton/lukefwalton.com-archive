@@ -20,17 +20,15 @@ spotifyUrl: "https://open.spotify.com/episode/4VJamT4TQgdIy8swTkgpQj"
 youtubeUrl: "https://www.youtube.com/watch?v=k6ZX5-8OuKs"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Music supervision in advertising"
-  - "The role of a music supervisor"
-  - "Creative processes for TV commercials"
-  - "Discovering new music"
-  - "Working with brands and campaign briefs"
-  - "Challenges in licensing"
-  - "Building relationships with artists"
-  - "Current trends in music marketing"
-  - "Importance of music in storytelling"
-  - "The creative journey of an artist"
+  - "The music business"
+  - "Scoring for picture"
+  - "Radio and broadcast"
+  - "The internet"
+  - "Collaboration"
+  - "Genre"
+  - "Memory and nostalgia"
+  - "Music supervision for advertising"
+  - "Licensing and campaign briefs"
 
 hostNote: |
   **Mike Ladman** is a music supervisor who's worked the agency side at **Droga5** and **McCann**, picking the songs behind Super Bowl spots and multi-year global campaigns. We start where he did, discovering music behind a record-store counter, a sponge for everything that came through.

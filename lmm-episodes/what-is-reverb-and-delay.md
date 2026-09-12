@@ -16,13 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/what-is-reverb-and-delay/id1567
 spotifyUrl: "https://open.spotify.com/episode/2FlqfMroKRqYtBkH2FHFYn"
 
 topicsDiscussed:
-  - "Delay"
   - "Reverb"
-  - "Effects"
-  - "Music production"
-  - "Philosophy"
+  - "Delay"
   - "Spatial audio"
   - "Mixing"
+  - "Effects"
+  - "Music production"
+  - "Microphones"
+  - "Compression"
+  - "Singing and vocals"
+  - "DAWs"
 
 hostNote: |
   All music exists within time, it's a linear art, and everything you do in production is a manipulation of that. Reverb and delay are the tools that put you somewhere. They're not decoration; they're the answer to the question: where is the listener standing?

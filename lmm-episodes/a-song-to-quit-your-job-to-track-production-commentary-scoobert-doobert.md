@@ -16,18 +16,18 @@ appleUrl: "https://podcasts.apple.com/us/podcast/a-song-to-quit-your-job-to-trac
 spotifyUrl: "https://open.spotify.com/episode/6neNia00GUFkrNWqBWwaZB"
 
 topicsDiscussed:
-  - "Music production"
   - "Quitting your job"
-  - "Bass"
-  - "Jazz"
-  - "Singing and vocals"
-  - "Drums"
+  - "Music production"
   - "Piano, synth, and keys"
-  - "Song production techniques"
-  - "Synth exploration"
-  - "The use of melotron"
-  - "Vocal harmonies"
-  - "Understanding pitch flexibility"
+  - "Singing and vocals"
+  - "Autotune and pitch correction"
+  - "Analog"
+  - "Spatial audio"
+  - "Bass"
+  - "Drums"
+  - "Guitar"
+  - "Songwriting"
+  - "Music theory"
 
 hostNote: |
   "It makes it feel like I can defend it", that's the line that captures what this production commentary is actually about. Not technical perfection, but knowing why you made each choice so you can stand behind it.

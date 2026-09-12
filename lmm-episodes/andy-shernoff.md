@@ -18,17 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/6eWA8yueUZzJf2XyJ4HzJT"
 youtubeUrl: "https://www.youtube.com/watch?v=BGTB1ck3V2Q"
 
 topicsDiscussed:
-  - "New York"
   - "The history of rock"
+  - "New York"
+  - "Genre"
+  - "Songwriting"
   - "Collaboration"
-  - "Andy Shernoff's origins in music"
-  - "The NYC punk scene of the 70s"
-  - "Forming The Dictators"
-  - "Influence of CBGB"
+  - "The music business"
+  - "Touring"
+  - "Bass"
+  - "Guitar"
   - "Writing for music magazines"
-  - "Creating community through music"
-  - "The evolution of punk music today"
-  - "Lessons from a long music career"
 
 hostNote: |
   Andy Shernoff founded The Dictators, one of the first bands to play CBGB, in a New York City he describes as crumbling and bursting with creativity at the same time: cheap rents, an influx of artists, and in his words a whole different style of living.

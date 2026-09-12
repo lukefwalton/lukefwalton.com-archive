@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-permutation-plus-the-person
 spotifyUrl: "https://open.spotify.com/episode/2lD9sjwX6WbYaSShnLMQqw"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
   - "Guitar"
   - "Piano, synth, and keys"
-  - "Influence of saxophone"
-  - "Instrumental perspectives"
-  - "Cultural music exchanges"
-  - "Articulation styles"
-  - "Role of synthesizers"
-  - "Arpeggios and their significance"
-  - "Pop music simplicity vs complexity"
+  - "Bass"
+  - "Electronic music"
+  - "Genre"
+  - "Creativity"
+  - "Singing and vocals"
+  - "Music theory"
+  - "Classical and orchestral music"
 
 hostNote: |
   Musicians are just creative borrowers, the beauty is in the permutation plus the personality. That's the whole argument: what you borrow matters less than what you do with it once it's filtered through how you hear and play.

@@ -16,15 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/psychoacoustics-the-perception-
 spotifyUrl: "https://open.spotify.com/episode/7aA5wLTxlFRZfV6VvWOTnT"
 
 topicsDiscussed:
-  - "Analog"
   - "Mixing"
+  - "Analog"
+  - "EQ"
+  - "Spatial audio"
+  - "Plugins"
+  - "Bass"
   - "Music production"
-  - "Psychoacoustics"
-  - "Sound Perception"
-  - "Recording Techniques"
-  - "Loudness vs Perceived Loudness"
-  - "Harmonic Frequencies"
-  - "Clipping in Audio"
+  - "Compression"
+  - "Mastering"
+  - "Effects"
 
 hostNote: |
   Some mixes can sound quieter than others even at identical volume, not because of the fader, but because of the frequency spectrum they occupy. That's psychoacoustics: the physics of how we hear, not just what the meters say.

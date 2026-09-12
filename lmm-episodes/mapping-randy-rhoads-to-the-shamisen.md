@@ -16,17 +16,14 @@ spotifyUrl: "https://open.spotify.com/episode/1UdBPd0coCsygNKaPvqKW8"
 appleUrl: "https://podcasts.apple.com/us/podcast/mapping-randy-rhoads-to-the-shamisen/id1567355195?i=1000778660420&uo=4"
 
 topicsDiscussed:
-  - "Creativity"
   - "Guitar"
-  - "Randy Rhoads"
-  - "Shamisen lessons"
-  - "Musical growth"
-  - "Diverse instruments"
-  - "Creative expression"
-  - "Learning from other musicians"
-  - "Accessing your essence"
-  - "Composing with new sounds"
-  - "Connection to stringed instruments"
+  - "Japan"
+  - "Bass"
+  - "Jazz"
+  - "Touring"
+  - "Shamisen and koto mapped back to guitar"
+  - "Randy Rhoads taking lessons on the road"
+  - "Primary instrument vs borrowed colors"
 
 hostNote: |
   Guitar is a stringed instrument, like a lyre, a lute, or a **shamisen**. I took a shamisen lesson in Japan after reading **Randy Rhoads** taking guitar lessons on the road: never stop learning, even if you can shred. The bachi attack, the three-string layout, the koto sitting next to it in a geisha-trio picture: all of that can come back onto the guitar.

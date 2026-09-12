@@ -18,16 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/22Ul6EGN3UMthGZeb1YNRX"
 topicsDiscussed:
   - "Microphones"
   - "Drums"
-  - "The history of rock"
-  - "Live Music"
-  - "Studio Recording"
-  - "Sound Engineering"
-  - "Drum Dynamics"
-  - "Venue Acoustics"
-  - "Microphone Types"
-  - "Performance Variability"
-  - "Rock History"
-  - "Audience Engagement"
+  - "Touring"
+  - "Mixing"
+  - "Reverb"
+  - "Genre"
+  - "Music production"
+  - "Singing and vocals"
+  - "Effects"
 
 hostNote: |
   All live drums are rock drums. That's not genre, that's physics. In a large venue, an acoustic kit has no isolation, no gating trick that fully controls the bleed, no ability to splice takes. What hits the mic is what the audience hears, and what hits the mic is loud and physical.

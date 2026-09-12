@@ -19,12 +19,13 @@ topicsDiscussed:
   - "AI"
   - "Creativity"
   - "Music production"
-  - "Vibe coding"
-  - "Automation of tedious tasks"
-  - "Python for musicians"
-  - "New instrument design"
-  - "Enhancing musical workflow"
-  - "Future of music technology"
+  - "Mixing"
+  - "Plugins"
+  - "The music business"
+  - "The internet"
+  - "Guitar"
+  - "Vibe coding and Python for musicians"
+  - "Automating session drudgery not the art"
 
 hostNote: |
   Figuring out how to actually use AI as a musician is vexing, so I dig into where it's worked for me: vibe coding tools like Cursor, and a little actual Python, aimed only at automating the boring parts of the process, not the creative ones.

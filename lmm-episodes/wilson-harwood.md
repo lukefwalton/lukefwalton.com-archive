@@ -21,16 +21,17 @@ youtubeUrl: "https://www.youtube.com/watch?v=_xgg4Bt3eqA"
 
 topicsDiscussed:
   - "The home studio"
-  - "Isolation"
-  - "DIY vs. professional soundproofing"
-  - "Sound treatment basics"
-  - "Choosing the right materials"
-  - "Building a studio from scratch"
-  - "Understanding acoustics in design"
-  - "Budgeting for studio construction"
-  - "Navigating acoustic design challenges"
-  - "Future trends in home studios"
-  - "Best practices for soundproofing"
+  - "Nashville"
+  - "Music production"
+  - "Mixing"
+  - "The music business"
+  - "Drums"
+  - "Reverb"
+  - "Los Angeles"
+  - "San Diego"
+  - "Quitting your job"
+  - "AI"
+  - "Bass"
 
 hostNote: |
   **Wilson Harwood** is a musician first, a producer second, and now a studio designer and acoustician, running **Soundproof Your Studio** out of Nashville. He came up DIY, which makes his case for hiring a professional land harder: soundproofing means a room that's completely airtight, no leaks, a ton of mass, and that's a different job from sound treatment, which is about how a room sounds once you're inside it.

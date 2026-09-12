@@ -16,12 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-you-should-listen-to-albums
 spotifyUrl: "https://open.spotify.com/episode/1pqrVv03Uns1QWkByr2BY0"
 
 topicsDiscussed:
-  - "Tension and Release"
-  - "The Value of Albums"
-  - "Artistic Journey"
-  - "Music as Narrative"
-  - "Cultural Perspectives on Music"
-  - "Modern Listening Habits"
+  - "Songwriting"
+  - "Music theory"
+  - "Music production"
+  - "Classical and orchestral music"
+  - "Creativity"
+  - "The music business"
+  - "Collaboration"
+  - "Electronic music"
+  - "Reverb"
+  - "EQ"
 
 hostNote: |
   Music is not just a two-minute art form. The whole reason it's impactful is that it takes up time, and albums are the format that actually uses that time the way a novelist or a filmmaker would, with tension built and released across a much larger canvas than a single track can offer.

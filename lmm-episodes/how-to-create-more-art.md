@@ -17,13 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/4k7cS5QTGr1EvZ3C0AZaeJ"
 
 topicsDiscussed:
   - "Creativity"
-  - "Breaking down excuses to create"
+  - "Guitar"
+  - "Songwriting"
+  - "The home studio"
+  - "Microphones"
+  - "Music production"
   - "Creating in imperfect conditions"
-  - "Using limited tools effectively"
-  - "Finding inspiration in daily life"
-  - "Harnessing different headspaces"
-  - "Overcoming distractions"
-  - "Making art an everyday practice"
+  - "Limited tools as a feature"
 
 hostNote: |
   Waiting for the perfect space, the right gear, the quiet window with no distractions, that line of thinking is a trap. I've tried hard to stop believing I need ideal conditions to create, because the act of doing is the thing.

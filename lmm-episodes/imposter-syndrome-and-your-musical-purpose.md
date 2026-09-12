@@ -18,15 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/6rr8kU7J8r0mgwuqJHLJDV"
 topicsDiscussed:
   - "Imposter syndrome"
   - "Creativity"
-  - "Musical Purpose"
-  - "Self-Doubt in Music"
-  - "Art vs. Success"
-  - "The Creative Journey"
-  - "Music as Reflection"
-  - "Crafting Originality"
-  - "Overcoming Blocks"
-  - "Finding Your Audience"
-  - "Flow State in Music"
+  - "Philosophy"
+  - "Songwriting"
+  - "The music business"
+  - "The internet"
+  - "Genre"
+  - "Singing and vocals"
+  - "Why make more music"
+  - "Originality versus the cultural wake"
 
 hostNote: |
   **Imposter syndrome** hits hardest in a field with no scoreboard. There's no win or loss in music, so the question becomes: what counts as good, what counts as bad, and who gets to decide? I sit with that directly in this episode, along with the harder question underneath it: does the world actually need more music?

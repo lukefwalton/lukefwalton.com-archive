@@ -19,11 +19,13 @@ youtubeUrl: "https://www.youtube.com/watch?v=1F-lGqAZiQo"
 
 topicsDiscussed:
   - "Guitar"
-  - "Jazz"
-  - "Transformative learning experiences: Developing as a player"
-  - "Musical improvisation: Finding freedom on the fretboard"
-  - "Spirituality of music: The connection to emotion"
-  - "Patterns and structure: The geometry of the fretboard"
+  - "Music theory"
+  - "Piano, synth, and keys"
+  - "Songwriting"
+  - "The internet"
+  - "Creativity"
+  - "The chair system and fretboard geometry"
+  - "Improvising by finding channels on the fretboard"
 
 hostNote: |
   **Jeb Sherrill** built the **chair system**, his own way of mapping the guitar fretboard, after a YouTube video reframed how he saw the instrument, about seven years into a career that started three decades ago. We talk about what that reframe actually was: seeing the fretboard as one shape instead of a set of memorized box patterns.

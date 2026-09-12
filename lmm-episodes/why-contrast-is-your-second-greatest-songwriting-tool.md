@@ -17,15 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/628tAMxTvrTBstFBEIFSAx"
 
 topicsDiscussed:
   - "Songwriting"
-  - "Music production"
   - "Mixing"
-  - "Contrast in music"
-  - "Tension and release"
-  - "Composition"
-  - "Production tips"
-  - "Melody and chords"
-  - "Lyrics interaction"
-  - "Emotional impact of music"
+  - "Music production"
+  - "Music theory"
+  - "Guitar"
+  - "Classical and orchestral music"
+  - "Bass"
+  - "Jazz"
+  - "Singing and vocals"
+  - "Effects"
 
 hostNote: |
   Contrast is what breaks up repetition, tells the listener where to focus, and gives a song forward momentum, in the melody and the mix both. I get into dissonance and the leading tone, the note that wants to resolve, and how a melody that anticipates a chord change before it arrives creates its own kind of pull.

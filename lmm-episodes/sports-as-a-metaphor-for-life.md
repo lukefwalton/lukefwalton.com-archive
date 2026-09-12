@@ -16,16 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/sports-as-a-metaphor-for-life/i
 spotifyUrl: "https://open.spotify.com/episode/62ZUSs9T7aaJI9gobBdn4b"
 
 topicsDiscussed:
-  - "Athlete-Artist Parallels"
-  - "Mamba Mentality"
-  - "Chop Wood, Carry Water"
-  - "Pressure and Growth"
-  - "Meeting Moments"
-  - "Well-Rounded Musicianship"
-  - "Lonnie Walker's Inspiration"
-  - "Impact Beyond Stats"
-  - "Teamwork in Music"
-  - "Pushing Through Adversity"
+  - "Friendship"
+  - "Collaboration"
+  - "Guitar"
+  - "Mixing"
+  - "Singing and vocals"
+  - "Music production"
+  - "Hip-hop"
+  - "Philosophy"
+  - "Drums"
 
 hostNote: |
   "It takes heat to make a star", you can't optimize around the pressure, only through it. NBA players want to be musicians; musicians want to be athletes. The mutual fascination makes sense because both disciplines punish people who can't meet a moment.

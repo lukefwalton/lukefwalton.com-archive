@@ -17,13 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/2Zmv9XYO5apt6tplFRANPV"
 
 topicsDiscussed:
   - "Genre"
-  - "Music classification"
-  - "Artist identity"
-  - "The evolution of rock"
-  - "Dance and music"
-  - "Marketing and branding"
-  - "Audience interaction"
-  - "Emotional impact of music"
+  - "The history of rock"
+  - "The music business"
+  - "The internet"
+  - "Radio and broadcast"
+  - "Hip-hop"
+  - "Classical and orchestral music"
+  - "Dance as the physical side of genre"
 
 hostNote: |
   Genre is mostly a branding tool, and that's not an insult, it's just what it is: a way an artist signals what to expect before the first note plays. I just got back from a Cro-Mags show, and Harley Flanagan crushing a Ramones-style song mid-set is the moment that cracked this open for me: an artist's identity is more fluid than the label on the playlist.

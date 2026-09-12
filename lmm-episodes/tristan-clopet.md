@@ -20,17 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/7AY7j67Z3RhvJmbu2qHIoR"
 youtubeUrl: "https://www.youtube.com/watch?v=E5KXmjABvGQ"
 
 topicsDiscussed:
+  - "Scoring for picture"
   - "Collaboration"
-  - "Creativity"
   - "Touring"
-  - "Collaborative process in film music"
-  - "Working under creative constraints"
-  - "The role of temp scores"
-  - "Music as a narrative tool"
-  - "Finding inspiration in acting performances"
-  - "Emotional impact of film scores"
-  - "Challenges of modern music consumption"
-  - "The evolution of album structure"
+  - "Creativity"
+  - "Music production"
+  - "Mixing"
+  - "The music business"
+  - "Piano, synth, and keys"
+  - "Jazz"
+  - "Genre"
+  - "Songwriting"
+  - "Compression"
 
 hostNote: |
   **Tristan Clopet** scores for film and TV (*Crown Heights*, *The Infiltrator*, *This American Life*) and has toured behind **X Ambassadors**, **Billy Bragg**, **Tove Lo**, **Glen Hansard**, and **The Weeknd**. The episode title, **the found palette**, is about what changes when you're not writing from nothing but responding to a picture, an actor, a scene that's already there.

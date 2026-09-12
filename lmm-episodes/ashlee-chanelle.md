@@ -20,18 +20,15 @@ spotifyUrl: "https://open.spotify.com/episode/2Ws1zinGGFCwaIkMcW74tn"
 youtubeUrl: "https://www.youtube.com/watch?v=As9YR3yCS10"
 
 topicsDiscussed:
-  - "AI"
-  - "Creativity"
+  - "The music business"
   - "Mixing"
   - "Music production"
-  - "Music Licensing Basics"
-  - "Epidemic Sound Overview"
-  - "Navigating Business Relationships"
-  - "Mix Engineering Insights"
-  - "Balancing Creative Work"
-  - "Tools for Content Creators"
-  - "Sound Design Importance"
-  - "Finding Steady Income as a Musician"
+  - "AI"
+  - "Sound design"
+  - "Music licensing and library catalogs"
+  - "Collaboration"
+  - "The internet"
+  - "Finding steady income as a musician"
 
 hostNote: |
   **Ashlee Chanelle** is a Senior Enterprise Account Executive at **Epidemic Sound** and, before that and alongside it, a mix engineer and music producer. Her career never went in a straight line: studios, gigs, a startup sales job that turned out to be a natural fit, and a producer's ear that never left.

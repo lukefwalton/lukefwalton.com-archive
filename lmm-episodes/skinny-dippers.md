@@ -21,12 +21,15 @@ topicsDiscussed:
   - "Collaboration"
   - "New York"
   - "Songwriting"
-  - "Mixing"
+  - "Guitar"
+  - "Piano, synth, and keys"
   - "Music production"
-  - "Brooklyn music scene: Exploring the vibrancy and diversity"
-  - "Multi-instrumentalism: The benefits of versatility"
-  - "Artistic growth: Evolving through challenges"
-  - "The kazoo test: Ensuring song integrity"
+  - "Friendship"
+  - "Singing and vocals"
+  - "The pandemic"
+  - "Reverb"
+  - "Effects"
+  - "Mixing"
 
 hostNote: |
   Skinny Dippers, also known as Ryan, is a friend and collaborator rooted in the Brooklyn music scene, and this is a conversation between two people who make music together, not an introduction. Ryan traces his path from playing keyboard and trumpet as a kid in Maine to guitar and vocals now, through a string of bands before landing in New York.

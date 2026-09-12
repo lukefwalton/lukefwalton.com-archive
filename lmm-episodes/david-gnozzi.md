@@ -20,16 +20,17 @@ spotifyUrl: "https://open.spotify.com/episode/3XT9zcx3FDzbJXrphsxgVL"
 youtubeUrl: "https://www.youtube.com/watch?v=zkRtsorM4tc"
 
 topicsDiscussed:
-  - "AI"
   - "Mixing"
+  - "Analog"
+  - "AI"
   - "Music production"
   - "The music business"
-  - "Balancing artistry and engineering"
-  - "The importance of routine"
-  - "Overcoming music industry challenges"
-  - "Modern tools vs. traditional techniques"
-  - "The role of passion in music"
-  - "Emotional connection to music"
+  - "Plugins"
+  - "Mastering"
+  - "The internet"
+  - "EQ"
+  - "Compression"
+  - "Creativity"
 
 hostNote: |
   **David Gnozzi** is a platinum mix engineer and the host of **MixbusTV**, where hundreds of thousands of subscribers watch him teach mixing. The episode title is his own phrase for the target he's chasing on every song: **the peak of the euphonic**.

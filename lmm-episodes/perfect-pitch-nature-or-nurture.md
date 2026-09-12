@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/perfect-pitch-nature-or-nurture
 spotifyUrl: "https://open.spotify.com/episode/23Gb1mtNyQbH5MWzXWfSgg"
 
 topicsDiscussed:
+  - "Singing and vocals"
   - "Microtonal music"
-  - "Definition of Perfect Pitch"
-  - "Nature vs. Nurture"
-  - "Statistics of Music Students"
-  - "Early Musical Training"
-  - "Genetic Components"
-  - "Cultural Differences in Music Education"
-  - "Training Perfect Pitch in Adults"
-  - "Relative vs. Absolute Pitch"
-  - "Perception of Tuning"
-  - "Implications for Musicians"
+  - "Japan"
+  - "Music theory"
+  - "Classical and orchestral music"
+  - "Memory and nostalgia"
+  - "Philosophy"
+  - "Guitar"
+  - "Collaboration"
 
 hostNote: |
   30% of Japanese music students have perfect pitch. 7% of Polish students do. To count, you had to score 95% or better, this wasn't a soft study. That gap isn't explained by genetics alone, and that's where the interesting question starts.

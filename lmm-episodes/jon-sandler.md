@@ -20,18 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/40Yh3ATHW8q49uka9pJicu"
 youtubeUrl: "https://www.youtube.com/watch?v=nXf0cJXh2ss"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Songwriting"
   - "Touring"
-  - "Creativity"
+  - "Songwriting"
   - "The music business"
+  - "Collaboration"
   - "The pandemic"
-  - "Career evolution post-COVID"
-  - "Navigating the music industry"
+  - "New York"
+  - "Los Angeles"
+  - "Music production"
   - "Fan engagement and merchandising"
-  - "Longevity in music"
-  - "Emotional challenges of being an artist"
-  - "Creating a supportive band culture"
+  - "Longevity as a working artist"
 
 hostNote: |
   The title comes from how Jon Sandler of Great Good Fine Ok talks about his own career: nourishing it while savoring the process, not just chasing outcomes. He's written and toured behind songs with The Chainsmokers and played rooms opening for X Ambassadors and Tove Lo, and over a decade in, he's still building.

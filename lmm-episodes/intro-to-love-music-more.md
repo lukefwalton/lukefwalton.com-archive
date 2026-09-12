@@ -16,13 +16,12 @@ appleUrl: "https://podcasts.apple.com/us/podcast/intro-to-love-music-more/id1567
 spotifyUrl: "https://open.spotify.com/episode/51XW1hWGVAXfLV4Y3WHTZe"
 
 topicsDiscussed:
-  - "Love"
   - "Songwriting"
   - "Music production"
-  - "Understanding Music"
-  - "Musical Ingredients"
-  - "Happy Accidents in Music"
-  - "Inspiring Musicians"
+  - "Creativity"
+  - "Collaboration"
+  - "Techniques, ingredients, and happy accidents"
+  - "Music appreciation for musicians and non-musicians"
 
 hostNote: |
   To appreciate a good chef, you need to know a little bit about cooking. Music isn't too different. That's the idea behind this show: I'm Scoobert Doobert, and this first episode lays out what I'm here to do, break down the techniques, ingredients, and happy accidents that turn notes into something you can't stop listening to.

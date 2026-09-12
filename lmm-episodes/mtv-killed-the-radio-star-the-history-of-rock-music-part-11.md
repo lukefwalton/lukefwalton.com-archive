@@ -16,18 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/mtv-killed-the-radio-star-the-h
 spotifyUrl: "https://open.spotify.com/episode/3LcA0LsJT4RNDdDCckizt8"
 
 topicsDiscussed:
-  - "Radio and broadcast"
   - "The history of rock"
+  - "Radio and broadcast"
+  - "The internet"
   - "Satire and absurdism"
-  - "Music production"
-  - "MTV's launch impact"
-  - "Evolution of music videos"
-  - "Michael Jackson's influence"
-  - "Comparison with AM/FM transitions"
-  - "Cultural shifts in music consumption"
-  - "Fashion and aesthetics of rock"
-  - "Weird Al's parody genius"
-  - "The visual culture of the 80s"
+  - "The music business"
+  - "Analog"
+  - "MTV and the music-video arms race"
+  - "Michael Jackson raising the visual stakes"
+  - "AM-to-FM to TikTok as medium shifts"
 
 hostNote: |
   **MTV** launched in 1981 and turned musicians into astronauts overnight. I get into what changed the moment music had to work as television too, not just radio, the same kind of shift you can trace through AM mono to FM stereo, and now through TikTok.

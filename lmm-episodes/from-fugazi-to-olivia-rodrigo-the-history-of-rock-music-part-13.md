@@ -17,16 +17,16 @@ spotifyUrl: "https://open.spotify.com/episode/1INiQ9YGK5klqj662uvwwv"
 
 topicsDiscussed:
   - "The history of rock"
-  - "Nirvana's Impact"
-  - "DC Hardcore"
-  - "Riot Grrrl Movement"
-  - "Fugazi's Legacy"
-  - "The Emo Core Evolution"
-  - "Blink-182 and Pop Punk"
-  - "Haley Williams and Paramore"
-  - "Modern Rock Innovations"
-  - "The Role of Technology in Music"
-  - "Woodstock '99 vs. Community"
+  - "Genre"
+  - "The internet"
+  - "Songwriting"
+  - "The music business"
+  - "Guitar"
+  - "San Diego"
+  - "Post-hardcore"
+  - "Riot Grrrl"
+  - "Pop punk"
+  - "Emo"
 
 hostNote: |
   Last episode ended with Nirvana knocking Michael Jackson off the charts. Part 13 picks up the pattern that follows: the underground doesn't stay underground, it becomes the mainstream and then splinters into something new. I trace the line from DC hardcore and **Fugazi** through to a specific, concrete example: Olivia Rodrigo's "Good For You" sounded so much like Paramore's "Misery Business" that her team retroactively credited Haley Williams and Josh Farrow as co-writers.

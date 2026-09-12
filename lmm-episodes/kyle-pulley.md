@@ -20,15 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/1LDGB7szEGZ79deGbPf8Me"
 youtubeUrl: "https://www.youtube.com/watch?v=sKv91MtGOGU"
 
 topicsDiscussed:
-  - "Collaboration"
   - "Mixing"
   - "Music production"
-  - "Building a recording studio"
-  - "Overcoming industry challenges"
-  - "Life as a music producer"
-  - "Navigating the Philadelphia music scene"
-  - "Creating community among musicians"
-  - "Advice for aspiring artists"
+  - "Compression"
+  - "Bass"
+  - "Drums"
+  - "Analog"
+  - "Reverb"
+  - "Collaboration"
+  - "The pandemic"
+  - "Mastering"
+  - "Effects"
+  - "Building Headroom after the studio was sold out from under him"
 
 hostNote: |
   **Kyle Pulley** produces, engineers, and plays bass in Philadelphia, co-owns **Headroom Studios**, and plays in the band **Thin Lips**. He's worked with **Alex G**, **Dr. Dog**, and **Mo Lowda & the Humble**. The through-line of the conversation is what it actually takes to build a career and a studio step by step, including the studio he built getting sold out from under him along the way.

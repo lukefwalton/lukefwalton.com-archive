@@ -20,18 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/6JAR6BGYtL3bYNTMFIXS06"
 youtubeUrl: "https://www.youtube.com/watch?v=cFYqblSdYVY"
 
 topicsDiscussed:
+  - "The internet"
+  - "Drums"
   - "Collaboration"
-  - "Creativity"
-  - "Music production"
+  - "The pandemic"
   - "The music business"
-  - "Overcoming creative blocks"
-  - "Innovative music education"
-  - "The role of technology in music learning"
-  - "Cultural exchange through music"
-  - "The impact of Canadian arts support"
-  - "Music's narrative power"
-  - "Navigating the music industry's challenges"
-  - "Finding your artistic voice"
+  - "AI"
+  - "Friendship"
+  - "Touring"
+  - "Jazz"
+  - "Capitalism and work"
 
 hostNote: |
   **Ron Jackson** creates "Musora Covers On The Spot," where a band covers a song they've never heard before, live, on camera. His line about the format: it's not really about the covers, it's about watching a band work.

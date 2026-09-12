@@ -19,14 +19,15 @@ topicsDiscussed:
   - "Music production"
   - "Philosophy"
   - "Songwriting"
-  - "Sound Paintings"
-  - "Contrast in Production"
-  - "The Concept of Kōan"
-  - "Organic vs. Inorganic Sounds"
-  - "Music and Emotion"
-  - "Sequencing an Album"
-  - "Listening Experience"
-  - "Scoobert Doobert's Artistic Journey"
+  - "Piano, synth, and keys"
+  - "Drums"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Effects"
+  - "Mixing"
+  - "Hip-hop"
+  - "Reverb"
+  - "Organic vs inorganic contrast on KŌAN"
 
 hostNote: |
   A kōan is a Zen question designed to be both true and false at the same time, things that are and aren't simultaneously, meant to bring you closer to enlightenment. That's the conceptual spine of this record: happy and sad at the same time, writing songs about two things at once.

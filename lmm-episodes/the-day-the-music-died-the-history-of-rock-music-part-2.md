@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/6q8qmtKsyOOmvcF5ZDHqVq"
 
 topicsDiscussed:
   - "The history of rock"
-  - "Genre"
-  - "Songwriting"
+  - "Death"
+  - "Guitar"
   - "The beach"
-  - "Buddy Holly's impact"
-  - "Recording techniques evolution"
-  - "Crisis in rock music"
-  - "Influence of culture on music"
-  - "Elvis Presley and film"
-  - "Rise of surf rock"
-  - "Diversity in rock music"
-  - "Legacy of early rock musicians"
+  - "California"
+  - "Songwriting"
+  - "Genre"
+  - "Reverb"
+  - "The music business"
+  - "Radio and broadcast"
 
 hostNote: |
   Rock had just had its meteoric rise, and then it hit a crisis: scandals took out the biggest stars right as the sound was still forming. I pick the story back up there, starting with Buddy Holly, who I frame as rock's first real innovator-songwriter, someone who broke from what came before rather than repeating it.

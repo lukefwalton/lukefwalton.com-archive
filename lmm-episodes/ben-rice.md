@@ -20,17 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/690Db0UCZzrUTwSs1qo7XK"
 youtubeUrl: "https://www.youtube.com/watch?v=LAlWuZXmq3U"
 
 topicsDiscussed:
-  - "Creativity"
   - "Music production"
+  - "Mixing"
+  - "New York"
   - "Analog"
-  - "The role of the producer"
-  - "Creating a comforting studio environment"
-  - "Finding the magic in recording"
-  - "Trust in the creative process"
-  - "The emotional journey of creating music"
-  - "Importance of communication in studios"
-  - "Learning from musical mentorships"
-  - "Making decisions in production"
+  - "DAWs"
+  - "Collaboration"
+  - "Plugins"
+  - "AI"
+  - "The music business"
+  - "Speakers as a lens (NS10s and listening)"
 
 hostNote: |
   **Ben Rice** has run **Degraw Sound** in Gowanus, Brooklyn since 2012, making records with **The National**, **Norah Jones**, and **Joan Osborne**, among others, and picking up an Americana Producer of the Year nomination along the way. The episode itself runs at his pace: unhurried, no rush anywhere in it.

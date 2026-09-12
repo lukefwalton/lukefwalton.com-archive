@@ -19,15 +19,13 @@ topicsDiscussed:
   - "Music theory"
   - "Singing and vocals"
   - "Songwriting"
+  - "Bass"
+  - "Guitar"
+  - "Drums"
+  - "Classical and orchestral music"
+  - "Soul and R&B"
   - "Mixing"
-  - "Part-writing basics"
-  - "Importance of melody"
-  - "Understanding polyphony"
-  - "The role of instruments"
-  - "James Jamerson's influence"
-  - "Vocal hooks in music"
-  - "Counterpoint explained"
-  - "Creating interesting parts"
+  - "Counterpoint, polyphony, and parts that sing"
 
 hostNote: |
   There's a difference between a power chord and a big sparkly dream pop chord, and both are just notes until someone decides how each instrument moves. Part-writing is the craft of making every line feel like it has somewhere to go.

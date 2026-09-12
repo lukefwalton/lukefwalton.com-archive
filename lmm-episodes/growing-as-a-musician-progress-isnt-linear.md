@@ -16,12 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/growing-as-a-musician-progress-
 spotifyUrl: "https://open.spotify.com/episode/6J7l3CwxIokEX99UnuU4Xx"
 
 topicsDiscussed:
-  - "Progress in Music"
-  - "Learning Challenges"
-  - "Embracing Discomfort"
-  - "Nonlinear Growth"
-  - "Expectations vs Reality"
-  - "Perseverance in Art"
+  - "Guitar"
+  - "Drums"
+  - "Creativity"
+  - "Failure"
+  - "Music theory"
+  - "Progress isn't linear"
+  - "Embracing discomfort"
+  - "Practice as athletic training"
+  - "Learning drums and limb independence"
 
 hostNote: |
   "The second that you're making music that feels easy is the second that you're making bad music." That line is the whole episode in one sentence, but getting there takes some unpacking.

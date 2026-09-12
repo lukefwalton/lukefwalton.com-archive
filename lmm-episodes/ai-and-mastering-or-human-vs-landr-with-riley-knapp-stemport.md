@@ -19,10 +19,12 @@ spotifyUrl: "https://open.spotify.com/episode/3EBEZJBpTW4UEd0qGrwCp8"
 topicsDiscussed:
   - "AI"
   - "Mastering"
-  - "Creativity"
   - "Music production"
-  - "Technological adaptation in audio"
-  - "The rise of Stemport"
+  - "DAWs"
+  - "Plugins"
+  - "The music business"
+  - "Stemport stem organization"
+  - "Human mastering vs. LANDR"
 
 hostNote: |
   **Riley Knapp** is a mastering engineer and co-founder of **Stemport**, the audio software company he built to fix how engineers organize and label stems. He also runs an EPIC program of his own and has run direct shootouts pitting his mastering against **LANDR**, the AI mastering tool.

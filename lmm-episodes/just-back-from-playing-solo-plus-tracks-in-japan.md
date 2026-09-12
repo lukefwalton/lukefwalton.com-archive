@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/6QoLnSpgY5Q4f7QYGlJw8e"
 
 topicsDiscussed:
   - "Japan"
-  - "Jazz"
   - "Touring"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Effects"
   - "Creativity"
-  - "Solo performance insights"
-  - "Challenges of live shows"
-  - "Strategies for engaging audiences"
-  - "The fun in creative constraints"
-  - "Evolving stage presence"
-  - "The importance of improvisation"
-  - "Adapting to budget limitations"
-  - "The difference between tracks and live musicians"
+  - "Bass"
+  - "Solo performance with backing tracks"
+  - "Designing tracks for improvisation and optionality"
+  - "Stage presence, dance, and audience entertainment"
 
 hostNote: |
   Playing solo with backing tracks removes the safety net of other musicians, and also the ceiling. I just got back from a Japan run and wanted to debrief what actually worked.

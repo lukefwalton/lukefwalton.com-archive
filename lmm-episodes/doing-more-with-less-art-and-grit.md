@@ -17,11 +17,16 @@ spotifyUrl: "https://open.spotify.com/episode/3XuuAlk7gDWq3igTvrMRtC"
 
 topicsDiscussed:
   - "Creativity"
-  - "Pursuing art with minimal equipment"
-  - "The importance of starting"
-  - "Personal growth in music"
-  - "Overcoming the fear of imperfection"
-  - "Finding unique artistic identity"
+  - "The home studio"
+  - "Microphones"
+  - "Drums"
+  - "Music production"
+  - "Plugins"
+  - "DAWs"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Working with limitations"
+  - "Perfectionism"
 
 hostNote: |
   Perfection is paralysis. There's no other way to say it, when the standard is "I need the perfect studio, the right gear, the right moment," the answer will always be not yet, and the art never gets made.

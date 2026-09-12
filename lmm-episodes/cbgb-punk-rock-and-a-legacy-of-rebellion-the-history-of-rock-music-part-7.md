@@ -17,16 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/6ELTcwDJq5z1MrVNgdjhjL"
 
 topicsDiscussed:
   - "The history of rock"
-  - "Punk Rock Origins"
-  - "CBGB Venue History"
-  - "Role of The Velvet Underground"
-  - "Impact of The Ramones"
-  - "Sex Pistols and The Clash"
-  - "DIY Ethos in Music"
-  - "Punk's Influence on Modern Rock"
-  - "Legacy of Rebellion"
-  - "Alternative Media and Zines"
-  - "Evolution of Sound"
+  - "New York"
+  - "Guitar"
+  - "Genre"
+  - "Blues"
+  - "The music business"
+  - "DIY ethos"
+  - "British punk"
+  - "Post-punk"
+  - "Proto-punk"
 
 hostNote: |
   Punk was the second time in rock history that the machine got too smooth and someone built a blowtorch. I trace it from the **Velvet Underground**'s avant-garde groundwork through the **Ramones** and **Patti Smith** at CBGB, to the **Sex Pistols** and **The Clash** detonating the British version: and then **Joy Division** and **Talking Heads** rebuilding something stranger out of the rubble.

@@ -16,16 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/knowing-vs-understanding/id1567
 spotifyUrl: "https://open.spotify.com/episode/4lTdAGcemb2IlsdG90WA5t"
 
 topicsDiscussed:
+  - "Music theory"
+  - "Classical and orchestral music"
+  - "Philosophy"
   - "Jazz"
-  - "Beethoven's Influence"
-  - "Act of Imitation"
-  - "Knowing vs. Understanding"
-  - "Cultivating Taste"
-  - "Internalizing Music"
-  - "Practical Experience"
-  - "Music and Language Learning"
-  - "Critical Imitation Techniques"
-  - "Emotional Composition"
+  - "Songwriting"
+  - "Knowing vs understanding"
+  - "Critical imitation (Beethoven after Mozart)"
+  - "The Beatles as ear-first knowing"
+  - "Learning music like a language"
 
 hostNote: |
   Some people know music, some people understand it, and the best have both. I get into what separates the two: knowing is the practical stuff you get from doing, understanding is the theory underneath it.

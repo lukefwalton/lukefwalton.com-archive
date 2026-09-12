@@ -20,15 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/07SZT4MvJdlPoI7BZJAPJE"
 youtubeUrl: "https://www.youtube.com/watch?v=NsYfx6qDBKY"
 
 topicsDiscussed:
-  - "Creativity"
   - "Touring"
-  - "Collaboration"
+  - "Bass"
+  - "Guitar"
+  - "Jazz"
+  - "New York"
+  - "Friendship"
   - "Genre"
-  - "The reality of life on the road"
-  - "Homebrewing as a creative outlet"
-  - "The balance between music and other passions"
-  - "The physicality of performing"
-  - "Musical influences and identity"
+  - "The music business"
+  - "Collaboration"
+  - "Creativity"
+  - "Memory and nostalgia"
+  - "Drums"
 
 hostNote: |
   **Russ Flynn** tours with X Ambassadors and has worked with Sean Lennon and Rubblebucket, a range of contexts that says something about how he thinks about sustaining a career: "If I get burnt out on music for a while, I can just say, you know what, I..." and then he has something else to turn to. Homebrewing, cooking, mixology. The parallel he draws between cooking and music is specific: both require sustained attention and improvisation within constraints.

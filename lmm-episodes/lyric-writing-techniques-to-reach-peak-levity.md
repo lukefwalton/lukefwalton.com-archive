@@ -18,15 +18,12 @@ spotifyUrl: "https://open.spotify.com/episode/7oRpE8grNpSQzdImyKWc7J"
 topicsDiscussed:
   - "Songwriting"
   - "Creativity"
-  - "Lyric Writing Techniques"
-  - "Internal vs. External Perspectives"
-  - "Finding Your Voice"
-  - "Evocative Language"
-  - "Song Structure"
-  - "Emotional Connection"
-  - "Writing from Different Perspectives"
-  - "Vignettes in Lyrics"
-  - "Sensory Detail in Songs"
+  - "Internal vs external perspective"
+  - "Vignettes and sensory detail"
+  - "Structured free writing (Andrea Stolpe / Pat Pattison)"
+  - "Writing from different points of view"
+  - "Finding levity when a verse isn't landing"
+  - "Evocative language vs staying behind the eyes"
 
 hostNote: |
   The verse isn't landing, and you know it. The question is whether you have a move. Internal vs. external perspective is one of the most practical levers I know, the difference between "I made too much coffee because that's what I was used to" and a lyric that stays behind the eyes versus one that walks you through a scene you can see.

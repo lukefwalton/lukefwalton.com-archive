@@ -16,17 +16,17 @@ appleUrl: "https://podcasts.apple.com/us/podcast/when-subtraction-is-addition/id
 spotifyUrl: "https://open.spotify.com/episode/5OR5VaGqduIwSpS0VDfYNF"
 
 topicsDiscussed:
-  - "Mixing"
   - "Music production"
-  - "Addition through Subtraction"
-  - "Arrangement Strategies"
-  - "Creating Space in Music"
-  - "Low End Dynamics"
-  - "Subdivisions and Energy"
-  - "Emotional Impact in Transitions"
-  - "Role of Instruments"
-  - "Producer Mindset"
-  - "Importance of Contrast"
+  - "Mixing"
+  - "Songwriting"
+  - "Guitar"
+  - "Bass"
+  - "Drums"
+  - "Effects"
+  - "Reverb"
+  - "Piano, synth, and keys"
+  - "Plugins"
+  - "Genre"
 
 hostNote: |
   Sometimes the best songs just don't need a guitar, and if you're the guitarist, you have to find the emotional capacity to be okay with that. That's the hardest part of arrangement: not adding the thing, not filling the space, sitting with the absence and trusting it.

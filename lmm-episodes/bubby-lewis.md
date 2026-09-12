@@ -22,13 +22,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=ZdJ1t8XCZtg"
 topicsDiscussed:
   - "Bass"
   - "Japan"
-  - "Drums"
-  - "Jazz"
-  - "Loneliness"
+  - "Scoring for picture"
   - "Touring"
-  - "Swimming in it, learning from networks vs. school alone"
-  - "Videogame composers as unsung heroes (Final Fantasy, Square era)"
-  - "Session life with Stevie Wonder, Dr. Dre, and West Coast lineage"
+  - "Jazz"
+  - "Los Angeles"
+  - "Hip-hop"
+  - "Soul and R&B"
+  - "Funk"
+  - "Session musicianship"
+  - "Train-station jingles"
 
 hostNote: |
   Bubby Lewis connects **West Coast session gravity** to a life now centered in **Tokyo**: church-kid origins, a Tom Kennedy solo that sold his parents on bass, and years of "swimming in it" around great musicians rather than treating school as the whole path.

@@ -21,17 +21,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=I1xIzNFWdFM"
 
 topicsDiscussed:
   - "Touring"
-  - "Creativity"
   - "Songwriting"
   - "The music business"
   - "The internet"
-  - "Impact of digital streaming"
+  - "The pandemic"
+  - "New York"
+  - "Music production"
   - "Valentine's Day song challenge"
-  - "Life as an indie artist"
-  - "Navigating the music industry"
-  - "Emotional resonance in music"
-  - "The role of social media in promotion"
-  - "Starting a new project amidst challenges"
+  - "Spotify playlists and the indie streaming grind"
+  - "DIY shows and SXSW as an official artist"
 
 hostNote: |
   **JW Francis** is a working indie songwriter who tours DIY shows to build a fanbase in person, and who keeps a standing bit going: write a stranger a personalized Valentine's Day song if they'll give him a name and a reason. That habit sits next to his new single "Orbit" as two versions of the same instinct, turning a small, specific ask into a finished song.

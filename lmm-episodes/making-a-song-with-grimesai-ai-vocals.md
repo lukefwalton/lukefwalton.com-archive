@@ -18,12 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/2GhnHuWVeTOlFhIsefVIuz"
 topicsDiscussed:
   - "AI"
   - "Singing and vocals"
-  - "Collaboration"
+  - "Songwriting"
+  - "Music production"
   - "Philosophy"
   - "Creativity"
-  - "ChatGPT for Lyrics"
-  - "Future of Music Technology"
-  - "Emotional Impact of Music"
+  - "DAWs"
+  - "ChatGPT lyrics, Splice AI, and GrimesAI vocals"
+  - "Testing generative AI by finishing a song"
 
 hostNote: |
   Three AI tools, one song: ChatGPT for lyrics, Splice AI for instrumentation, GrimesAI for vocals. The only way to actually understand the hype (and the weaknesses) of these tools is to build something with them, so that's what I do here, live, on record.

@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/sister-songs-writing-two-songs-
 spotifyUrl: "https://open.spotify.com/episode/4c9HtXUi9UVJhGluaKLkER"
 
 topicsDiscussed:
+  - "Songwriting"
   - "Creativity"
-  - "Sister songs concept"
-  - "Creative process"
-  - "Möbius album"
-  - "Music evolution"
-  - "Artistic vulnerability"
-  - "Writing speed"
-  - "Emotional reflection"
-  - "Self-growth in music"
-  - "Capturing moments"
-  - "Artistic viability"
+  - "Memory and nostalgia"
+  - "Friendship"
+  - "Philosophy"
+  - "Music production"
+  - "The pandemic"
+  - "Sister songs written in the same emotional weather"
 
 hostNote: |
   Sister songs are what I call two tracks written back to back, close enough in time that they come from the same emotional weather. Writing fast like that isn't just about output, it's about catching a version of yourself mid-change before it's gone, since most of who you are is in flux, not fixed.

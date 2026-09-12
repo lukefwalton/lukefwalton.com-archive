@@ -18,15 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/4ymJcBbupBbhe0Hyf6Yn8j"
 youtubeUrl: "https://www.youtube.com/watch?v=RyrMOcl3Abw"
 
 topicsDiscussed:
-  - "Mixing"
   - "Spatial audio"
+  - "Mixing"
+  - "Scoring for picture"
+  - "Microphones"
   - "Music production"
-  - "Immersive audio technology"
-  - "3D audio production"
-  - "Object-based audio explained"
-  - "VR applications in sound design"
-  - "Future of audio technology"
-  - "Real-time audio tracking"
+  - "Plugins"
+  - "The internet"
+  - "Object-based vs channel-based audio"
+  - "Binaural listening on ordinary headphones"
+  - "VR and immersive sound design"
 
 hostNote: |
   **Martin Rieger** started as a film composer and moved into immersive audio after discovering VR, and he now runs VRTonung as one of the early builders of Spatial Audio as a format. He's blunt about where the hype ends: "Dolby wants you to buy a lot of speakers," but you don't need them, this works on the headphones everyone already owns.

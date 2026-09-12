@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/0gaN1tKGroGhqtReusaiIM"
 
 topicsDiscussed:
   - "Creativity"
-  - "Imposter syndrome"
-  - "Philosophy"
   - "Songwriting"
-  - "Artistic Growth"
-  - "Creative Process"
-  - "Personal Experience"
-  - "Inspiration Sources"
-  - "Musicality and Skill"
-  - "Overcoming Self-Doubt"
-  - "Emotional Depth in Music"
-  - "Simplicity in Craft"
+  - "Music production"
+  - "Guitar"
+  - "Drums"
+  - "San Diego"
+  - "The music business"
+  - "Collaboration"
+  - "The personal is universal"
+  - "Working at the source of the sound"
 
 hostNote: |
   "The personal is universal." It's a phrase I keep returning to, and the idea that if I'm fearless enough to tell a specific, personal story, there are universal truths in there for anyone listening.

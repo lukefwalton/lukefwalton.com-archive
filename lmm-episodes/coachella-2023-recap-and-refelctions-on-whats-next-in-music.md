@@ -16,15 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/coachella-2023-recap-and-refelc
 spotifyUrl: "https://open.spotify.com/episode/4Pmxdm6fifX1wyKSrtoDni"
 
 topicsDiscussed:
-  - "Coachella 2023 overview"
-  - "Evolving live music dynamics"
-  - "Fan engagement techniques"
-  - "Performance energy levels"
-  - "Visual aesthetics in music"
-  - "Personal artist growth"
-  - "Trends in stage presence"
-  - "Impact of fashion on performance"
-  - "The role of quirky musicians"
+  - "Coachella"
+  - "Touring"
+  - "Drums"
+  - "Bass"
+  - "Guitar"
+  - "Singing and vocals"
+  - "Genre"
+  - "Festival performance"
+  - "Stage fashion"
+  - "Live arrangement"
 
 hostNote: |
   Iron sharpening iron. Watching artists I knew in college, just talented, normal, teenage people, fully become themselves on a Coachella stage hit differently than any review could. Growth is slow and then it's all at once.

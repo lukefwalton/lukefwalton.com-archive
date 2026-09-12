@@ -18,12 +18,16 @@ spotifyUrl: "https://open.spotify.com/episode/3karvpq6sTyP936H6mhyRM"
 
 topicsDiscussed:
   - "Singing and vocals"
-  - "Musical upbringing and early influences"
-  - "Transitioning from music to voice acting"
-  - "The parallels between performing and voice acting"
-  - "The role of musicality in voice overs"
-  - "Finding voice placement and vocal health"
-  - "Overcoming challenges in the industry"
+  - "Jazz"
+  - "New York"
+  - "Bass"
+  - "Microphones"
+  - "Music production"
+  - "The music business"
+  - "Los Angeles"
+  - "Classical and orchestral music"
+  - "The pandemic"
+  - "Piano, synth, and keys"
 
 hostNote: |
   **Alessandra Levy** is a voice actor, jazz-trained vocalist, and multi-instrumentalist, the kind of person who brings **musicality to the mic** whether it's a Starbucks spot or a jazz gig. This conversation is about the overlap: why so many voice actors are musicians, and how chest voice, placement, and resonance translate between singing and VO.

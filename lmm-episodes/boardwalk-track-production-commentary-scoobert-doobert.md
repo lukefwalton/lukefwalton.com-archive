@@ -19,15 +19,13 @@ topicsDiscussed:
   - "Music production"
   - "The beach"
   - "Guitar"
+  - "Piano, synth, and keys"
   - "Mixing"
+  - "Compression"
   - "Songwriting"
-  - "Production techniques"
-  - "Beach rock influences"
-  - "Synthesis and sound design"
-  - "Contrast in music"
-  - "Attack and dynamics"
+  - "Bass"
+  - "Spatial audio"
   - "Granular synthesis"
-  - "The evolution of melodies"
 
 hostNote: |
   A commentary track on my single "Boardwalk", the **Ventures** surf-rock DNA that runs through it, why a granular synthesizer opens the song the way it does, and how I thought about the birth and death of sounds within a track.

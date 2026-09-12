@@ -20,17 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/39iubujQ7geaSXbYaO6OTv"
 youtubeUrl: "https://www.youtube.com/watch?v=5_v6WEgvmFs"
 
 topicsDiscussed:
-  - "Guitar"
+  - "The home studio"
   - "Mixing"
   - "Analog"
-  - "Creativity"
-  - "The home studio"
-  - "Studio construction strategies"
-  - "Live sound dynamics"
-  - "Acoustic treatment"
-  - "Creative space design"
-  - "Collaborating with artists"
-  - "Recording workflow essentials"
+  - "Guitar"
+  - "Drums"
+  - "Microphones"
+  - "Plugins"
+  - "EQ"
+  - "Music production"
+  - "Bass"
+  - "Collaboration"
+  - "Mastering"
 
 hostNote: |
   Ryan Haft built **Sun Burned Sound Studio** in Miami from scratch: which means he's both a practitioner and a facilities nerd. We start with his war story about losing sessions to gym vibrations from the building next door, which explains why he rebuilt with no parallel walls and two control rooms that can run simultaneously.

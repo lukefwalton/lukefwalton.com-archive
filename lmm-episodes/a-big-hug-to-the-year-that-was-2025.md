@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/a-big-hug-to-the-year-that-was-
 spotifyUrl: "https://open.spotify.com/episode/4KhVTA27bdboz4W0WCzh7C"
 
 topicsDiscussed:
-  - "Creativity"
+  - "The music business"
   - "Mixing"
   - "Music production"
-  - "Year in Review"
-  - "Artist Insights"
-  - "Music Apprenticeship"
-  - "Sound and Art"
-  - "Creative Paths in Music"
-  - "Production Challenges"
-  - "Community in Music"
-  - "Resilience in the Industry"
+  - "Collaboration"
+  - "Songwriting"
+  - "Music theory"
+  - "Touring"
+  - "Mentorship and apprenticeship"
+  - "Year in review"
 
 hostNote: |
   Every year I look back on the guest conversations and ask what they had in common. This is that look back: what a year of talking to other musicians actually taught me.

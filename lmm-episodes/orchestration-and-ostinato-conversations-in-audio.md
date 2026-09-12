@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/1DSax3h5XAe79svtIqXZ0c"
 
 topicsDiscussed:
   - "Scoring for picture"
-  - "Collaboration"
-  - "Creativity"
   - "Music theory"
-  - "Orchestration"
-  - "Voice Leading"
-  - "Polyphony"
-  - "Ostinato"
-  - "Instrumental Strengths"
-  - "Composition Techniques"
-  - "Multi-Instrumentalism"
-  - "Creative Choices"
+  - "Classical and orchestral music"
+  - "Piano, synth, and keys"
+  - "Guitar"
+  - "Bass"
+  - "Drums"
+  - "Jazz"
+  - "Ostinato and voice leading"
+  - "Writing to an instrument's range"
 
 hostNote: |
   Every instrument has a range where it's comfortable and a range where it starts to strain, and the interesting choices happen at the edges of that range. This is the follow-up to the film-scoring episode, so I'm digging into **orchestration**: how you lean into what an instrument does well, voice leading and polyphony among the tools, and what happens when you deliberately break that expectation instead, like pushing a saxophone into a register it was never built for and using the strain itself.

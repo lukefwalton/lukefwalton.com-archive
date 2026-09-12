@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/why-should-i-practice/id1567355
 spotifyUrl: "https://open.spotify.com/episode/2tRVucbpSGakYz5AdPyrX2"
 
 topicsDiscussed:
+  - "Guitar"
+  - "Songwriting"
+  - "Classical and orchestral music"
+  - "Music theory"
+  - "Bass"
+  - "Drums"
+  - "Genre"
   - "Creativity"
-  - "Reframing Practice"
-  - "Goal-Based Practice"
-  - "Improv in Practice"
-  - "Groove and Timing"
-  - "Making Practice Fun"
-  - "Creative Expression"
-  - "Analyzing Your Playing"
-  - "Overcoming Resistance to Practice"
-  - "Balancing Structure and Play"
-  - "Continuous Growth as a Musician"
 
 hostNote: |
   Practice feels icky to most musicians the second you bring it up: it's a chore, something you're supposed to do. I want to rebuild that word from scratch, starting with a real question: where do you actually want to go?

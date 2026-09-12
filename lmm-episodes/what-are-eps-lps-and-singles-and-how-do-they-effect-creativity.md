@@ -17,12 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/0VrwluOidoE9Fv9ivkmDlu"
 
 topicsDiscussed:
   - "Creativity"
+  - "The music business"
+  - "Analog"
+  - "Songwriting"
   - "Music production"
-  - "Creative limitations"
-  - "Live performance vibes"
-  - "Music formats"
-  - "Influence of venue"
-  - "History of EPs and LPs"
+  - "San Diego"
+  - "Microphones"
+  - "The internet"
 
 hostNote: |
   A recent live performance in a record store, playing in a space that shaped the sound in ways I didn't choose, is what got me thinking about formats: EPs, LPs, singles, and how each one's limits actually push creativity rather than block it.

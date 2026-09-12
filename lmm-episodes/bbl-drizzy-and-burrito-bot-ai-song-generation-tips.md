@@ -18,11 +18,15 @@ spotifyUrl: "https://open.spotify.com/episode/7bUgGgLVBDU5zQmdx3rEJA"
 topicsDiscussed:
   - "AI"
   - "Burritos and Mexican food"
-  - "Creativity"
   - "Satire and absurdism"
   - "Songwriting"
-  - "Burrito Bot Project"
-  - "The Impact of Voice Recognition in Music"
+  - "Hip-hop"
+  - "DAWs"
+  - "The music business"
+  - "Genre"
+  - "Singing and vocals"
+  - "The internet"
+  - "Suno and AI song generation"
 
 hostNote: |
   "I don't want a sugar daddy, I want an enchilada mama", that line sparked joy the moment it came out, and it's also a pretty good summary of what makes AI music generation interesting when you stop trying to make it sound serious. Burrito Bot, my side project dedicated entirely to songs about Mexican food, turned into a genuine laboratory for figuring out where these tools break down and where they don't.

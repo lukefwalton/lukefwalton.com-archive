@@ -17,15 +17,17 @@ appleUrl: "https://podcasts.apple.com/us/podcast/virtual-reality-vr-and-the-meta
 spotifyUrl: "https://open.spotify.com/episode/1Xy6vrqyzCtkotgVAtO6a3"
 
 topicsDiscussed:
-  - "Music production"
+  - "Spatial audio"
+  - "The internet"
   - "Collaboration"
-  - "Creativity"
+  - "Music production"
   - "Satire and absurdism"
-  - "Creative process behind *Live from the Void*"
-  - "The future of live music in the metaverse"
-  - "Technical aspects of VR production"
-  - "Unity as a filmmaking tool"
-  - "Absurdism in digital art"
+  - "Scoring for picture"
+  - "Creativity"
+  - "Electronic music"
+  - "Mixing"
+  - "Friendship"
+  - "Virtual reality"
 
 hostNote: |
   **Max Horwich** is the director behind *Live from the Void*, a 3D-rendered concert world where you're watching a live performance inside an environment that doesn't physically exist. He's also been teaching kids to make video games in an after-school program, which turns out to be a useful frame for the conversation: the tools that build games and the tools that build immersive music experiences are increasingly the same tools.

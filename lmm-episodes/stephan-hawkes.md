@@ -20,13 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/2jwE9mBHcLoPsr34GSfDtl"
 youtubeUrl: "https://www.youtube.com/watch?v=Z2UaG_tD_NA"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Guitar"
-  - "Mastering"
   - "Mixing"
+  - "Mastering"
   - "Music production"
-  - "Production process overview"
-  - "Gear journey and evolution"
+  - "Guitar"
+  - "Drums"
+  - "Analog"
+  - "Imposter syndrome"
+  - "Metal"
+  - "EQ"
+  - "Microphones"
+  - "Singing and vocals"
+  - "Collaboration"
 
 hostNote: |
   **Stephan Hawkes** works as a producer, mix engineer, and mastering engineer, which means he moves through the full production chain himself, and his thesis is that knowing every stage is what makes the tiebreaker decisions possible. "At all stages of the production I kind of know how everything [fits together]": so when you're choosing a guitar tone, you already know how it'll behave in the mix.

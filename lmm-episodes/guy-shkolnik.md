@@ -21,17 +21,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=znnc40iLHxU"
 
 topicsDiscussed:
   - "Music theory"
-  - "Bass"
   - "Classical and orchestral music"
-  - "Japan"
+  - "Bass"
+  - "Piano, synth, and keys"
   - "Jazz"
   - "Songwriting"
-  - "Theory in popular music"
-  - "Translating theory to practice"
-  - "The interplay of melody and harmony"
-  - "Negative harmony concepts"
-  - "Voice leading importance"
-  - "Influence of classical on contemporary music inspirations"
+  - "Guitar"
+  - "The internet"
+  - "Blues"
+  - "Passing chords and voice leading"
+  - "Negative harmony"
 
 hostNote: |
   Guy Shkolnik has a PhD focused on Bach and built a following breaking down why songs work, from Beatles chord progressions to Japanese city pop harmony. We start with the basics: passing chords, and why he'd rather talk about tendencies than rules, because harmony behaves more like grammar than law.

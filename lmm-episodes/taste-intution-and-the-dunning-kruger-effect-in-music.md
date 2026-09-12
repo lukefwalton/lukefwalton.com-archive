@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/taste-intution-and-the-dunning-
 spotifyUrl: "https://open.spotify.com/episode/0VlWRS2obdJxM1g6oLcYgf"
 
 topicsDiscussed:
-  - "Effects"
   - "Failure"
-  - "Intuitive Learning"
-  - "Taste in Music"
+  - "Creativity"
+  - "Philosophy"
+  - "Guitar"
+  - "Bass"
+  - "Music theory"
   - "Dunning-Kruger Effect"
-  - "Cultural Perspectives"
-  - "Osmosis in Learning"
-  - "Experiential Education"
-  - "Growth Mindset"
-  - "Understanding Subjectivity"
-  - "Articulation and Flow"
+  - "Taste and intuition"
 
 hostNote: |
   There are things in music that can only be learned, not taught. You can memorize every scale in a book and still not know when to deploy one, how to phrase it, or how to listen to the room. That gap, between knowing the rule and having the feel, is what taste and intuition actually are.

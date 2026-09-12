@@ -17,16 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/7v0VKVxne1MPfxxoufaMyq"
 
 topicsDiscussed:
   - "Music production"
+  - "Music theory"
+  - "Songwriting"
+  - "Drums"
+  - "Funk"
   - "Collaboration"
-  - "musical vocabulary"
-  - "communication in music"
-  - "incantations"
-  - "production craft"
-  - "musical terminology"
-  - "power of words"
-  - "listener engagement"
-  - "musicians' mindset"
-  - "cultural references"
+  - "AI"
+  - "Creativity"
+  - "Genre"
+  - "Bass"
 
 hostNote: |
   "When you tell me your bridge is a middle eight, I'm going to play it completely differently than if you tell me it's a bridge." That's not just a vocabulary distinction, it's a different song. The words you use to describe a piece don't just name it; they anchor a musician into a tradition, a style, a set of expectations to confirm or subvert.

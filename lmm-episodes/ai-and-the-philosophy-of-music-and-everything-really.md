@@ -18,14 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/2LW4IJ1Br7iKrxWk0NllPU"
 topicsDiscussed:
   - "AI"
   - "Philosophy"
-  - "Collaboration"
   - "Creativity"
-  - "Generative Technologies"
-  - "Artistic Process"
-  - "Cultural Commentary"
-  - "Musician's Role"
-  - "Music's Intrinsic Value"
-  - "Collaborative Creation"
+  - "Collaboration"
+  - "Guitar"
+  - "Effects"
+  - "Music production"
+  - "The internet"
+  - "Generative AI as a tool to push, not a replacement"
 
 hostNote: |
   The magic of guitar distortion doesn't come from pushing a clean signal. It comes from pushing the machine past what it was designed to do. I use that as my entry point into AI: the interesting outputs aren't the consensus ones, they're what happens when you use the tool in ways it wasn't meant to be used.

@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/what-is-sample-rate-and-bit-dep
 spotifyUrl: "https://open.spotify.com/episode/6miSPjOFWEPWxlq4qVPTkN"
 
 topicsDiscussed:
-  - "Creativity"
+  - "Sample rate and bit depth"
   - "Analog"
-  - "Sample Rate Basics"
-  - "Bit Depth Explained"
-  - "Differences from Visual Media"
-  - "Personal Anecdotes"
-  - "Recording Fidelity"
-  - "Creative Tools in Music"
-  - "Perception of Sound Quality"
-  - "Recording Techniques"
-  - "Lessons from Live Performance"
+  - "Music production"
+  - "Plugins"
+  - "Compression"
+  - "Microphones"
+  - "Creativity"
+  - "Effects"
 
 hostNote: |
   A recording captures a moment the way a photograph does, except richer: sample rate and bit depth are the two dials that decide how much of that moment actually survives. Sample rate is how often you're sampling the sound to build the illusion of the real thing; bit depth is the amplitude, the wave as it crests and falls.

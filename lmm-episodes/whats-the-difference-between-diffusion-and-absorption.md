@@ -16,17 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/whats-the-difference-between-di
 spotifyUrl: "https://open.spotify.com/episode/4jvASEeh6UnUu3MdxarHko"
 
 topicsDiscussed:
-  - "Delay"
   - "The home studio"
   - "Mixing"
-  - "Acoustic treatment"
-  - "Sound panels"
+  - "Microphones"
+  - "Music production"
+  - "Drums"
+  - "Bass"
+  - "Guitar"
   - "Absorption vs. diffusion"
   - "Flutter echo"
-  - "Room acoustics"
-  - "Home studio design"
-  - "Recording quality"
-  - "Soundproofing"
 
 hostNote: |
   Flutter echo is one of the first things you notice in an untreated room and the last thing people think to fix. It's that metallic slap between two parallel walls, the thing that makes a raw recording sound like it was captured in a bathroom. It doesn't have vibe. It's very difficult to manipulate after the fact.

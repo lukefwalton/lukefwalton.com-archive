@@ -16,16 +16,14 @@ spotifyUrl: "https://open.spotify.com/episode/0CgvZBfkJ8bzsEkViUEfUU"
 appleUrl: "https://podcasts.apple.com/us/podcast/what-makes-a-song-a-hit-song/id1567355195?i=1000779832311&uo=4"
 
 topicsDiscussed:
-  - "Cultural Context"
-  - "Popularity Factors"
-  - "Robbie Williams"
-  - "Aesthetic 'Aha'"
-  - "Psychology of Music"
-  - "Familiarity vs. Novelty"
-  - "Music Exposure"
-  - "Song Evaluation"
-  - "Digital Music Market"
-  - "Social Influence on Music Taste"
+  - "Songwriting"
+  - "The music business"
+  - "Radio and broadcast"
+  - "The internet"
+  - "Genre"
+  - "Memory and nostalgia"
+  - "Hit songs"
+  - "Familiarity and novelty"
 
 hostNote: |
   **Robbie Williams** can fill stadiums in the UK and still be a blank to most Americans. That gap is the episode: what makes a song a hit is not a universal molecule in the audio. It is familiarity plus novelty (the aesthetic **aha**) run through a cultural lens.

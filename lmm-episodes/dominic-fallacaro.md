@@ -21,12 +21,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=ovPrAxZx-D8"
 
 topicsDiscussed:
   - "Collaboration"
-  - "Creativity"
-  - "Max Martin's influence in music"
-  - "Children's music creative process"
-  - "Arranging pop music for Broadway"
-  - "Balancing multiple roles in theater"
-  - "Music directing for live performances"
+  - "Music production"
+  - "Singing and vocals"
+  - "Piano, synth, and keys"
+  - "Jazz"
+  - "Songwriting"
+  - "New York"
+  - "Guitar"
+  - "Broadway arranging"
+  - "Children's music"
+  - "Classical and orchestral music"
 
 hostNote: |
   **Dominic Fallacaro** won a Grammy in 2015 for Best Children's Album, received an Emmy nomination for his 2019 Macy's Thanksgiving Day Parade composition, and is the Musical Director for *& Juliet* on Broadway, the show that turns Max Martin's catalog into a live theater experience. He's also placed work on *In the Heights*, *Tick Tick Boom*, and Sesame Street.

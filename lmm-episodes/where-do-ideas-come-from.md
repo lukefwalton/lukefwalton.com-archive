@@ -19,13 +19,13 @@ topicsDiscussed:
   - "Creativity"
   - "Music production"
   - "Philosophy"
-  - "Creative strategies"
-  - "Chaos vs. order"
-  - "Personal anecdotes"
-  - "Decision fatigue"
-  - "World building"
-  - "Beat making"
-  - "Musical experimentation"
+  - "Mixing"
+  - "Hip-hop"
+  - "Collaboration"
+  - "Mastering"
+  - "Genre"
+  - "Memory and nostalgia"
+  - "Songwriting"
 
 hostNote: |
   Creativity is looking at the book that shouldn't be on your table and going "I should put that in the song." It's associative, not linear, and that's the tension. Platinum mix engineers are often more organized than you'd expect. So do you clean up and risk losing the chaos that feeds you?

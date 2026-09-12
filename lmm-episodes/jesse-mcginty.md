@@ -20,18 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/5G3EzbBOVPohu4iBb5ZVxB"
 youtubeUrl: "https://www.youtube.com/watch?v=vb7Pgtz3n-Y"
 
 topicsDiscussed:
+  - "Music production"
+  - "Collaboration"
+  - "Jazz"
   - "Drums"
-  - "Guitar"
-  - "Japan"
   - "Singing and vocals"
   - "Songwriting"
-  - "Effects"
-  - "Touring"
-  - "That thing, identifying the one fix that makes a song click"
-  - "Two-room studio partnership, sax/low brass vs. trumpet/engineer swap"
-  - "Christmas horn sessions & pop credits (Camila Cabello, Meghan Trainor)"
-  - "Singer-songwriter fear and re-learning uncool three-chord writing"
-  - "Pastor Joel Seagal, best at one thing vs. good at many"
+  - "Microphones"
+  - "Finding 'that thing' that makes a song click"
+  - "Two-room studio partnership, sax/low brass vs trumpet"
+  - "Best at one thing vs good at many"
 
 hostNote: |
   Jesse McGinty is a **session multi-instrumentalist** who thinks like an arranger, the episode title comes from his habit of finding **the one thing** that's off in a track, fixing it, and watching the whole song snap into focus.

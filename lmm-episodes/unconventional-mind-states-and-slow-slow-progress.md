@@ -16,16 +16,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/unconventional-mind-states-and-
 spotifyUrl: "https://open.spotify.com/episode/3uMC8t7ynp6UgrBsDE7xKA"
 
 topicsDiscussed:
-  - "Collaboration"
   - "Creativity"
-  - "Effects"
+  - "Collaboration"
   - "Music production"
-  - "Unconventional Mind States"
-  - "The Deadline Effect"
-  - "Mindset and Change"
-  - "Physical Training for Creatives"
-  - "Joy in Music Making"
-  - "Personal Growth through Challenges"
+  - "Drums"
+  - "Microphones"
+  - "Mixing"
+  - "The deadline effect"
+  - "Unconventional mind states"
+  - "Philosophy"
 
 hostNote: |
   "It's like a fox cornered; you really get to see what you're capable of." That's the deadline effect, not a threat but a diagnostic. The constraints and pressures you resent are often the ones that reveal what's actually there.

@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-fear-of-recording-yourself-
 spotifyUrl: "https://open.spotify.com/episode/0ipb90GmRrhfBfVhtlP7t3"
 
 topicsDiscussed:
-  - "Creativity"
   - "Anxiety"
-  - "Songwriting"
-  - "Fear of Recording"
-  - "Mindset Shift"
-  - "Flow State in Music"
-  - "Creative Process"
-  - "Meditation and Music"
-  - "Balancing Tension"
-  - "Emotional Connection to Music"
-  - "Prolific Creation"
+  - "Creativity"
+  - "Philosophy"
+  - "Drums"
+  - "Guitar"
+  - "Music production"
+  - "Mixing"
+  - "Flow state"
 
 hostNote: |
   Really good players are not trying that hard, but they are locked in. That's the paradox at the center of this, and it's the thing most people miss when the record light goes on. The fear of recording collapses the two states: you either go loose and careless, or you tighten up and start self-sabotaging. Neither works.

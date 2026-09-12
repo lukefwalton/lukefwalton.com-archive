@@ -16,16 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/sometimes-its-best-to-slow-down
 spotifyUrl: "https://open.spotify.com/episode/502xCKVsd28h1cxEXYaXlk"
 
 topicsDiscussed:
-  - "Creativity"
   - "Mixing"
-  - "Music production"
   - "Singing and vocals"
-  - "Importance of detail"
-  - "Managing recording flow"
-  - "Creative decision making"
-  - "Vocal editing insights"
-  - "Balancing speed and accuracy"
-  - "Understanding audio dynamics"
+  - "Autotune and pitch correction"
+  - "Music production"
+  - "Compression"
+  - "Drums"
+  - "Guitar"
+  - "Effects"
+  - "Microphones"
+  - "DAWs"
 
 hostNote: |
   "There's a really fine line between being fast and being sloppy, and I don't always hit it." I lean toward fast, it's a bias that serves me most of the time and buries me in specific moments that are very hard to fix later.

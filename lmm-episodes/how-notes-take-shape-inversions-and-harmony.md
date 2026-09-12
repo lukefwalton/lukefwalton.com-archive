@@ -17,16 +17,14 @@ spotifyUrl: "https://open.spotify.com/episode/04MeqsJ74ul6aDfu4oVk01"
 
 topicsDiscussed:
   - "Music theory"
-  - "Creativity"
-  - "Chords and Harmony"
-  - "Chord Inversions"
-  - "Octave Relationships"
-  - "Geometry in Music"
-  - "Timbre and Texture"
-  - "Creative Arranging"
-  - "Emotion in Music"
-  - "Musical Colors"
-  - "Voice Leading"
+  - "Piano, synth, and keys"
+  - "Guitar"
+  - "Classical and orchestral music"
+  - "Jazz"
+  - "Songwriting"
+  - "Chord inversions and voicing"
+  - "Open versus closed voicings"
+  - "Octaves as geometry"
 
 hostNote: |
   Chords aren't fixed objects, they're arrangements: the same notes, voiced and positioned differently, carry different weight and feeling. I start from that idea and build outward into inversions and harmony.

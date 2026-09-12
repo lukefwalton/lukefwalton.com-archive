@@ -20,14 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/7DjPEFhX0yj9VR9ChSnz4J"
 youtubeUrl: "https://www.youtube.com/watch?v=-LSGdJxBl4Q"
 
 topicsDiscussed:
+  - "Touring"
+  - "Guitar"
+  - "Bass"
   - "Jazz"
   - "The internet"
-  - "Touring"
-  - "Artist collaborations: Wallice, Albert Hammond Jr."
-  - "Managing live shows with tracks"
-  - "Navigating the logistics of a tour"
-  - "Crafting music on social media"
-  - "Development of personal music style"
+  - "Songwriting"
+  - "Music theory"
+  - "Effects"
+  - "Backing tracks on tour"
+  - "Tour logistics"
 
 hostNote: |
   We talk with **Cal Kevany**, guitarist, engineer, and producer who has toured with **Wallice**, **Albert Hammond Jr.**, and **JW Francis**. The episode title question is what changes between the first show and the hundredth: less thrill, more logistics, more fast food.

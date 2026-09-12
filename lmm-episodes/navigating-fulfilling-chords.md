@@ -20,12 +20,12 @@ topicsDiscussed:
   - "Piano, synth, and keys"
   - "Mixing"
   - "Guitar"
+  - "Bass"
   - "Jazz"
-  - "Creativity"
-  - "Pedal tones"
-  - "Harmonic series"
-  - "Radiohead"
-  - "The Beatles"
+  - "Drums"
+  - "Pedal tones and static harmony"
+  - "The harmonic series in low-end voicings"
+  - "White-key simplicity (Beatles, Radiohead)"
 
 hostNote: |
   What makes a chord cool is not a secret seventh-chord recipe. I sit at the mini-piano in **C major** (all the white keys) and treat theory as a map you can ignore once you can hear where a note wants to go. A Cmaj7 hangs because you counted to seven and it does not resolve. That hanging is the feeling, not the vocab word.

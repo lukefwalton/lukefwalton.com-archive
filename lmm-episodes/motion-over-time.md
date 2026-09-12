@@ -16,16 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/motion-over-time/id1567355195?i
 spotifyUrl: "https://open.spotify.com/episode/247pRrDsI5cga6OayMh8U9"
 
 topicsDiscussed:
+  - "Music theory"
+  - "Jazz"
   - "Mixing"
-  - "Musical Gravity"
-  - "Emotional Communication"
-  - "Rhythm and Dynamics"
-  - "High vs. Low Frequencies"
-  - "Composition Techniques"
-  - "Internalized Craft"
-  - "Musical Orbits"
-  - "Tension and Release"
-  - "Journey of Sound"
+  - "Reverb"
+  - "Delay"
+  - "Guitar"
+  - "Songwriting"
+  - "Blues"
+  - "Effects"
+  - "Musical gravity, orbits, and tension/release"
 
 hostNote: |
   Companion to my vocabulary episode: **why do we talk about music like travel?** Highs and lows, being *in* a key, climbing into a chorus, falling into resolution, the words we use for sound are spatial, and I think that reveals how we actually process it.

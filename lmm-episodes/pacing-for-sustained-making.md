@@ -16,17 +16,14 @@ spotifyUrl: "https://open.spotify.com/episode/0jdG4oHTveoJH2ANTsRTbf"
 appleUrl: "https://podcasts.apple.com/us/podcast/pacing-for-sustained-making/id1567355195?i=1000776722545&uo=4"
 
 topicsDiscussed:
-  - "Creativity"
+  - "Songwriting"
   - "The music business"
-  - "The Tide of Music"
-  - "Balancing Inspiration and Output"
-  - "Challenges of Modern Distribution"
-  - "Personal Reflections on Excitement in Music"
-  - "Managing Creative Cycles"
-  - "The Impact of Streaming on Artistry"
-  - "Releasing Music Mid-Process"
-  - "Artistic Inadequacy"
-  - "Embracing the Creative Journey"
+  - "Failure"
+  - "Creativity"
+  - "Genre"
+  - "Album-shaped vs single-shaped ideas"
+  - "Not releasing a record mid-process"
+  - "Pacing a long catalog"
 
 hostNote: |
   Making music in the streaming/AI treadmill is easier in some ways and harder in others, and that is not the point. I have put out **382 commercially released songs**, and the lesson I keep relearning is pacing: music has a **tide**. It comes in with force, retreats so you can fill the cup, then returns. Miss which phase you are in and you burn the record before it exists.

@@ -20,17 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/5ApxP4k7EexEaidFbezpkK"
 youtubeUrl: "https://www.youtube.com/watch?v=wvl8vmh5ipw"
 
 topicsDiscussed:
-  - "Hip-hop"
-  - "Jazz"
   - "Mixing"
-  - "Philosophy"
   - "Analog"
+  - "Compression"
+  - "Jazz"
+  - "Hip-hop"
+  - "Piano, synth, and keys"
+  - "Plugins"
+  - "DAWs"
+  - "The music business"
   - "Genre"
-  - "Chicago studio history & Kanye West (late registration / graduation)"
-  - "When a mix is done vs. when only you would hear the difference"
-  - "Additive vs. subtractive parallel processing (episode title frame)"
-  - "Studio design: Northward rooms, detail vs. speed"
-  - "Session stories: Michael Jackson mix deadline, gospel Grammys"
+  - "Parallel processing"
+  - "Chicago studios"
 
 hostNote: |
   Craig Bauer connects **decades of Chicago session life** to a mixing philosophy he calls the **additive nature**: parallel processing that makes a sound bigger rather than fighting wet/dry balance on the source track.

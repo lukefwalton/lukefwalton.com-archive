@@ -18,18 +18,18 @@ spotifyUrl: "https://open.spotify.com/episode/4cWt8kOJDDYEpk5aSzR7sW"
 youtubeUrl: "https://www.youtube.com/watch?v=loizjZs8PPw"
 
 topicsDiscussed:
-  - "Collaboration"
+  - "The home studio"
   - "Music production"
   - "Spatial audio"
-  - "Journey from bedroom to studio"
-  - "Challenges in recording production"
-  - "Creating a welcoming recording environment"
-  - "The impact of Dolby Atmos on music"
-  - "Software tools for sound correction"
-  - "Integrating new music technology"
-  - "Building community in the local music scene"
-  - "The future of album creation"
-  - "Using unconventional spaces for recording"
+  - "Microphones"
+  - "Drums"
+  - "Analog"
+  - "Reverb"
+  - "Effects"
+  - "Mixing"
+  - "Collaboration"
+  - "Guitar"
+  - "Building a local recording scene in Northern Colorado"
 
 hostNote: |
   **Justin Kohler** owns **Fox and Robyn Recording** in Loveland, Colorado, built out of rooms that were never meant to record in: kitchens, bedrooms, whatever space he had before the studio existed. That's the throughline here: building a real studio for a Northern Colorado music scene that didn't have one yet.

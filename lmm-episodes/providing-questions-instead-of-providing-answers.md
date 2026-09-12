@@ -17,15 +17,13 @@ spotifyUrl: "https://open.spotify.com/episode/59IjTP6QZFh3ZpvSSOkIM5"
 
 topicsDiscussed:
   - "Collaboration"
-  - "Creativity"
   - "Mixing"
-  - "Creative Communication"
-  - "Empowering Collaborators"
-  - "Leadership in Music"
-  - "Asking Questions"
-  - "Overcoming Creative Blocks"
-  - "Improving Work Relationships"
-  - "Finding Solutions in Music"
+  - "Music production"
+  - "Mastering"
+  - "Drums"
+  - "Singing and vocals"
+  - "Guitar"
+  - "Friendship"
 
 hostNote: |
   "Ultimately this is your job, not mine. So what are you going to do to my music that might open up new doors?" That's the question I'd rather ask a mix engineer than hand them a spec sheet. The spec sheet turns them into a tool; the question turns them into an expert.

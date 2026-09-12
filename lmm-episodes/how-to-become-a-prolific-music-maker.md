@@ -17,14 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/5q99g6qMUroZm7DVAeFp3Q"
 
 topicsDiscussed:
   - "Creativity"
-  - "Prolific Music Making"
-  - "Musician vs. Instrumentalist"
-  - "Creative Process"
-  - "Holistic Musician"
-  - "Embracing Flexibility"
-  - "Speed in Music Creation"
-  - "Practical Music Strategies"
-  - "State of Play"
+  - "Music production"
+  - "DAWs"
+  - "Guitar"
+  - "Bass"
+  - "Drums"
+  - "Mixing"
+  - "Analog"
+  - "Singing and vocals"
+  - "Musician versus instrumentalist"
 
 hostNote: |
   "Every single song I'm trying to practice just being a musician, not being an instrumentalist, not being a recording engineer, not being a producer. Just a musician that uses all of these tools." That reframe is the whole argument here.

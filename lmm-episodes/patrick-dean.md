@@ -19,16 +19,15 @@ youtubeUrl: "https://www.youtube.com/watch?v=bLG09vEobU4"
 
 topicsDiscussed:
   - "Guitar"
-  - "Love"
   - "The internet"
-  - "Anxiety"
+  - "San Diego"
+  - "Los Angeles"
+  - "Jazz"
+  - "Music theory"
+  - "The pandemic"
+  - "Piano, synth, and keys"
+  - "Drums"
   - "Collaboration"
-  - "Creativity"
-  - "Finding joy in music"
-  - "The role of mentorship"
-  - "Social media as a music tool"
-  - "The importance of musical literacy"
-  - "Balancing perfection with spontaneity"
 
 hostNote: |
   **Patrick Dean** is a guitarist, educator, songwriter, producer, and, as he puts it himself, a social media wizard. He found real joy in guitar in high school once he had a mentor pushing him, and that mentorship, and the positive reinforcement behind it, is what he still tries to pass on to the people he teaches.

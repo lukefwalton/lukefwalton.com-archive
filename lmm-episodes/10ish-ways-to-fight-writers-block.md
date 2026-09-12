@@ -16,14 +16,13 @@ appleUrl: "https://podcasts.apple.com/us/podcast/10ish-ways-to-fight-writers-blo
 spotifyUrl: "https://open.spotify.com/episode/5TPpxf0ouNUNv9I2TypTBz"
 
 topicsDiscussed:
-  - "Classical and orchestral music"
   - "Creativity"
-  - "Genre"
-  - "Jazz"
   - "Songwriting"
-  - "Reddit listener question on staying in the zone"
+  - "Genre"
+  - "Music production"
+  - "Mixing"
+  - "Guitar"
   - "Garbage in, garbage out (musical inputs vs. outputs)"
-  - "Master-bus setting experiments"
   - "Learning a new instrument to break habits"
   - "Doubling takes for confidence"
   - "Tempo changes early in the process (not late)"

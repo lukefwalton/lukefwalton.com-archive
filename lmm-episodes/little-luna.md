@@ -17,18 +17,17 @@ spotifyUrl: "https://open.spotify.com/episode/2lyhsa1dydJiwF6d5e36xZ"
 appleUrl: "https://podcasts.apple.com/us/podcast/breathing-in-this-timeline-with-little-luna/id1567355195?i=1000777678583&uo=4"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Creativity"
   - "Songwriting"
   - "The music business"
-  - "Creative influences: yoga and meditation"
-  - "Music as a journey: authentic expression"
-  - "Navigating the music industry today"
-  - "Importance of visuals in music"
-  - "Releasing music independently"
-  - "Challenges of being a DIY artist"
-  - "Embracing vulnerability in creative processes"
-  - "Sync placements and their impact on indie artists"
+  - "Creativity"
+  - "Collaboration"
+  - "Touring"
+  - "Music production"
+  - "Singing and vocals"
+  - "Los Angeles"
+  - "Yoga and meditation as a writing practice"
+  - "Breathing in this timeline"
+  - "Sync placements without abandoning her sound"
 
 hostNote: |
   **little luna** is an LA singer-songwriter who has taught **yoga and guided meditation for a decade**. Lyrics show up in meditation; she writes from voice memos with the antenna up. The episode title is her line: **breathing in this timeline**, a song can belong to the person living it, not just the chart.

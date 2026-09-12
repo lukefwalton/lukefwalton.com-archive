@@ -19,10 +19,15 @@ topicsDiscussed:
   - "Funk"
   - "Drums"
   - "Hip-hop"
+  - "Soul and R&B"
+  - "Jazz"
   - "Music production"
+  - "Genre"
+  - "The music business"
   - "James Brown and accenting beat one ('the one')"
   - "Drum breaks easy to sample (sparse instrumentation)"
   - "The Meters and New Orleans second-line feel"
+  - "Parliament-Funkadelic and the P-Funk sampling pipeline"
 
 hostNote: |
   Musicologists call "Cold Sweat" the first true funk song, and once you hear why that accent on beat one was the rupture, you start tracing a line straight through to hip-hop, breakdance, and every loop-based production that came after. James Brown didn't just change the feel; he changed the address of the whole genre.

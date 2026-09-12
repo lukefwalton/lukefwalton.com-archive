@@ -18,13 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/20AmyDddNs0d5oK315Vy3h"
 topicsDiscussed:
   - "Creativity"
   - "Music theory"
-  - "Avoiding Burnout"
-  - "Daily Practices"
-  - "Embracing Inspiration"
-  - "Cleansing Your Environment"
-  - "Crafting Music"
-  - "Emotional Connection"
-  - "Balancing Technical Skills"
+  - "Mixing"
+  - "Music production"
+  - "Songwriting"
+  - "Drums"
+  - "The music business"
+  - "Singing and vocals"
+  - "Classical and orchestral music"
 
 hostNote: |
   The craft is the lightning rod in the storm. That's the distinction I keep coming back to, craft and creativity aren't the same thing, and confusing them is exactly how you burn out.

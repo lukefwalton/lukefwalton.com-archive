@@ -23,10 +23,12 @@ topicsDiscussed:
   - "Collaboration"
   - "Friendship"
   - "Songwriting"
-  - "The home studio"
+  - "Hip-hop"
+  - "DAWs"
+  - "The pandemic"
+  - "Plugins"
+  - "Touring"
   - "Chicago"
-  - "Ringo Starr"
-  - "Meg White"
 
 hostNote: |
   **TOMMASO** (Tommaso Veronesi) is a Chicago songwriter, producer, and drummer. Scoobert collab on **While Away**. Same orbit: he produced **Chan Fuze** singles **This Is Not Cool** and **Methadone Nights** (2023); Walton mixed both. We have mixed together and hung out in the city. The episode title is his session habit: **go-to fills and patterns**. We start where his production ear comes from. He barely had theory; he had drums, and he thought in **energy** (how the song moves forward) long before he had other instruments.

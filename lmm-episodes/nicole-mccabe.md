@@ -20,13 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/548zn2fQHOBwAMJCtso24B"
 youtubeUrl: "https://www.youtube.com/watch?v=QONe7GFChOw"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "Electronic music"
   - "Jazz"
+  - "Electronic music"
+  - "Touring"
+  - "The pandemic"
+  - "The home studio"
+  - "Los Angeles"
+  - "New York"
   - "Genre"
-  - "The evolution of practice routines and performance preparation"
-  - "Navigating a music career, teaching, performing, and composing"
-  - "The role of technology in modern music creation"
+  - "Collaboration"
+  - "Songwriting"
 
 hostNote: |
   Nicole McCabe plays saxophone the way good jazz has always worked, you know it’s her before you know who you’re listening to. She’s bridged jazz and electronic music in **Dolphin Hyperspace**, worked with **Louis Cole** and **Patrice Rushen**, and just dropped a new LP built from the jazz canon without being a replica of it.

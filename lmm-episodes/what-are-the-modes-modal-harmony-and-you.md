@@ -17,17 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/3nKwgBZpYKeRsJfzKAUajK"
 
 topicsDiscussed:
   - "Music theory"
-  - "Funk"
+  - "Songwriting"
+  - "Guitar"
+  - "Genre"
   - "Jazz"
-  - "Understanding Modes"
-  - "Modal Harmony Explained"
-  - "Pop Music and Modes"
-  - "Major vs. Minor Modes"
-  - "Improvisation Techniques"
-  - "Historical Context of Modes"
-  - "Emotional Response to Modes"
-  - "Practical Application in Composition"
-  - "Breaking Down Musical Scales"
+  - "Funk"
+  - "Blues"
+  - "Metal"
+  - "Hip-hop"
+  - "Classical and orchestral music"
 
 hostNote: |
   "You cannot only surprise, then it's not pop. You cannot only deliver what is expected, because then it's crap." That tension is exactly where modes live, they're not exotic scales with fancy Greek names, they're a decision about where you plant your feet inside a set of notes.

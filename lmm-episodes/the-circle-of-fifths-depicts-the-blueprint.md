@@ -16,18 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-circle-of-fifths-depicts-th
 spotifyUrl: "https://open.spotify.com/episode/38YbXfCmLGOnl2oL5sKv8B"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Jazz"
   - "Music theory"
+  - "Guitar"
+  - "Jazz"
+  - "Songwriting"
+  - "Blues"
+  - "Classical and orchestral music"
+  - "Creativity"
   - "Circle of Fifths"
-  - "Composition Techniques"
-  - "Historical Context"
-  - "Creative Application"
-  - "Musical Relationships"
-  - "Improvisation"
-  - "Key Signatures"
-  - "Western Music"
-  - "Tension and Release"
 
 hostNote: |
   "The Circle of Fifths is a tool for surprise." That's the line I keep coming back to, because most people learn it as a map of order, a way to memorize keys, and miss the more interesting half.

@@ -20,16 +20,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=2qJ35eFq8_U"
 topicsDiscussed:
   - "Drums"
   - "Touring"
-  - "Creativity"
   - "Mixing"
   - "Music production"
-  - "Songwriting"
+  - "Jazz"
   - "The internet"
-  - "Early drumming experiences"
-  - "Musical influences and inspirations"
-  - "Viral video strategies"
-  - "Balancing live performance and studio work"
-  - "Understanding rhythm and melody"
+  - "Music theory"
+  - "Songwriting"
+  - "Viral mashups"
+  - "Compression"
 
 hostNote: |
   **Danny Wolf** is a drummer and producer whose credits include Rhye, John K, Great Good Fine Ok, and Gavin Turek, with production placed on Queer Eye, Love Is Blind, and Married at First Sight. His drumming started sideways: he wanted the drum audition, didn't get it, ended up on clarinet, then switched to saxophone, and found his way back to drums through a love of jazz.

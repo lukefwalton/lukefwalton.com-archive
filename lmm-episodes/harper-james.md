@@ -20,17 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/2ddRKegcXVFESYj70bPwhf"
 youtubeUrl: "https://www.youtube.com/watch?v=BKGPd_TUFqc"
 
 topicsDiscussed:
-  - "AI"
   - "Mixing"
+  - "AI"
   - "Music production"
+  - "Jazz"
   - "Collaboration"
-  - "Creativity"
-  - "Imposter syndrome"
-  - "Education in music"
-  - "Creative workflows"
-  - "The importance of networking"
-  - "Overcoming self-doubt in music"
-  - "Learning through experience"
+  - "Guitar"
+  - "Compression"
+  - "The pandemic"
+  - "New York"
+  - "DAWs"
 
 hostNote: |
   Harper James found his people at **Electric Lady Studios**, that combination of technical obsession and genuine nerdiness that makes the engineering world click: and built from there into work with **Marshmello**, **James Bay**, and Frawley.

@@ -20,18 +20,16 @@ spotifyUrl: "https://open.spotify.com/episode/4ya9Vx8uh5lXBn8S0wf39U"
 youtubeUrl: "https://www.youtube.com/watch?v=Xlsq-j_VxSQ"
 
 topicsDiscussed:
-  - "Metal"
-  - "New York"
   - "The history of rock"
+  - "Metal"
+  - "Touring"
+  - "New York"
+  - "Bass"
+  - "Drums"
   - "The internet"
-  - "Born inside the scene, clubs since infancy, no single spark moment"
-  - "Pre-hardcore NYC: Dictators, Stimulators, tree-punk '70s"
-  - "Hardcore as nastier, more abrasive next wave"
-  - "Hard Times lyrics written at 15–16 from lived reality"
-  - "Punk's fashion-show origins vs. internet-era purity tests"
-  - "Street life, runaways, and who was really from the streets"
-  - "Wired for Chaos film and Hardcore Life of My Own book"
-  - "CBGB era bootlegs and underground documentation"
+  - "Homelessness"
+  - "Hardcore as lived NYC street music"
+  - "Punk fashion-show origins versus the street"
 
 hostNote: |
   Harley Flanagan doesn't tell punk history from a safe distance, he **grew up inside it** (clubs since he was a baby, aunt's band opening for the Dictators, CBGB before it was a museum). The conversation is blunt about what hardcore actually was: nastier, more abrasive, full of runaways and street kids: and also full of people performing toughness they didn't live.

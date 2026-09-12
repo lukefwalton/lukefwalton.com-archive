@@ -20,17 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/6XPcXG2kbU6tCfYD0JnUVl"
 youtubeUrl: "https://www.youtube.com/watch?v=OkGYtV0A0sM"
 
 topicsDiscussed:
-  - "Memory and nostalgia"
-  - "Creativity"
   - "Mixing"
-  - "Death"
-  - "Adapting to loss of gear"
-  - "Redefining success in music"
-  - "The importance of flexible workflows"
-  - "Balancing family life and music"
-  - "Finding inspiration outside of music"
-  - "Importance of storytelling in gear"
-  - "Building confidence after setbacks"
+  - "Memory and nostalgia"
+  - "Los Angeles"
+  - "Analog"
+  - "Plugins"
+  - "Microphones"
+  - "Compression"
+  - "Reverb"
+  - "The music business"
+  - "DAWs"
+  - "The home studio"
+  - "Creativity"
 
 hostNote: |
   **Travis Ference** has mixed records for St. Vincent, Aloe Blacc, and Skylar Grey: and we were supposed to record this episode a year earlier. Then the LA wildfires threatened his home. He spent weeks mixing in headphones across hotel rooms, away from the studio and the gear that had his memories in it.

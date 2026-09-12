@@ -16,17 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/tips-for-lyrics-writing-writers
 spotifyUrl: "https://open.spotify.com/episode/6M16a4FUPg1uFIGZfPbFtz"
 
 topicsDiscussed:
-  - "Creativity"
   - "Songwriting"
-  - "Lyric Writing Strategies"
-  - "Overcoming Writer's Block"
-  - "Song Structure"
-  - "Storytelling in Lyrics"
-  - "Using Sensory Imagery"
-  - "Finding Your Voice"
-  - "Writing Techniques"
-  - "Internal vs. External Lyrics"
-  - "Not Giving Up on Songs"
+  - "Creativity"
+  - "Guitar"
+  - "Music theory"
+  - "Music production"
+  - "Bass"
+  - "Failure"
+  - "Mixing"
 
 hostNote: |
   After my conversation with **Slow Leaves**, I wanted to talk specifically about lyrics: how I write them, and what I do when I get stuck. **Randy Newman** once told me my lyrics were lazy, and this episode is me still trying to prove him both right and wrong.

@@ -19,13 +19,12 @@ topicsDiscussed:
   - "AI"
   - "Creativity"
   - "Music production"
-  - "Developing musical taste"
-  - "The role of producers"
-  - "Navigating industry changes"
-  - "Identifying musical trends"
-  - "Tech and artistry"
-  - "Embracing weaknesses"
-  - "Future skills for musicians"
+  - "The music business"
+  - "The internet"
+  - "Genre"
+  - "Songwriting"
+  - "Guitar"
+  - "Taste"
 
 hostNote: |
   The subtlety of having taste is about asking what problem you're actually trying to solve, and that question doesn't go away no matter how good the software gets. I think there are three skills that survive the current disruption, and none of them are about keeping up with tools.

@@ -18,14 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/02D147Sww6gFKlpAStgcVM"
 topicsDiscussed:
   - "AI"
   - "Creativity"
-  - "Collaboration"
   - "Music theory"
-  - "Mind-Body Connection"
-  - "Musical Intuition"
-  - "Creative Process"
-  - "Influence of Nature"
-  - "Physicality in Art"
-  - "Emotional Experience in Music"
+  - "Mixing"
+  - "Collaboration"
+  - "Songwriting"
+  - "Singing and vocals"
+  - "Mind-body connection in performance"
+  - "Intuition versus rules"
 
 hostNote: |
   What is Coltrane without his body, his hands, his mouth, his tongue? That's the question at the center of this one, and it's the case against treating music as something purely computational.

@@ -18,10 +18,14 @@ spotifyUrl: "https://open.spotify.com/episode/4Ne312r0txFE8MLnV64hW2"
 topicsDiscussed:
   - "Compression"
   - "Mixing"
-  - "The Role of Dynamics"
-  - "Gluing Instruments Together"
-  - "Live vs Recorded Sound"
-  - "Creating Wholeness in Music"
+  - "EQ"
+  - "Drums"
+  - "Bass"
+  - "Mastering"
+  - "DAWs"
+  - "Guitar"
+  - "Reverb"
+  - "Music production"
 
 hostNote: |
   Compression and saturation together, no EQ, no reverb, can take raw audio and turn it into a releasable record. That's a claim worth unpacking, and it's where this episode starts.

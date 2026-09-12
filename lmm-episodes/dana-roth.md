@@ -18,14 +18,15 @@ appleUrl: "https://podcasts.apple.com/us/podcast/input-to-put-in-with-dana-roth/
 
 topicsDiscussed:
   - "Bass"
-  - "Collaboration"
   - "The pandemic"
+  - "Collaboration"
   - "Creativity"
-  - "Animation timed to music and DIY music videos"
-  - "Berklee burnout and self-taught animation"
-  - "Debut album Airship"
-  - "Music school vs. learning on your own"
-  - "Rhythm in visuals and illustration"
+  - "Funk"
+  - "Music production"
+  - "Genre"
+  - "The music business"
+  - "Animation timed to music"
+  - "DIY music videos"
 
 hostNote: |
   **Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation, which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.

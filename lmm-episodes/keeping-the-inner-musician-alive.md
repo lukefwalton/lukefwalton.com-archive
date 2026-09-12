@@ -16,13 +16,16 @@ appleUrl: "https://podcasts.apple.com/us/podcast/keeping-the-inner-musician-aliv
 spotifyUrl: "https://open.spotify.com/episode/3NF1wVRg2lt539Q05FnNix"
 
 topicsDiscussed:
-  - "Creativity"
   - "Philosophy"
-  - "The nature of musicianship"
-  - "Philosophical exploration of music"
-  - "The impact of technology on music creation"
-  - "Historical influences in music"
-  - "Breaking down barriers in music participation"
+  - "Creativity"
+  - "Blues"
+  - "Guitar"
+  - "Classical and orchestral music"
+  - "Genre"
+  - "Soul and R&B"
+  - "The music business"
+  - "What counts as being a musician"
+  - "D'Angelo as a model of complexity"
 
 hostNote: |
   "A musician is one who orders sound, and in many ways an artist is one who orders chaos." That definition matters because it doesn't require a degree, an instrument, or a record deal. If you tap your foot, you are structuring sound. You count too.

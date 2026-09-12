@@ -20,10 +20,14 @@ topicsDiscussed:
   - "Bass"
   - "Touring"
   - "Los Angeles"
+  - "Jazz"
+  - "Funk"
   - "The pandemic"
-  - "The role of community in music"
-  - "Adapting to the post-pandemic stage"
-  - "Navigating different music scenes"
+  - "Guitar"
+  - "Soul and R&B"
+  - "Music theory"
+  - "Moving from Miami to the LA scene"
+  - "Sideman work and being a good hang"
 
 hostNote: |
   **Eric England** is a bassist who's recorded and toured with Rihanna, Leslie Odom Jr., Jon Secada, and Nicole Henry, trained at the Frost School of Music at the University of Miami, and is now based in Los Angeles. He moved from Miami to LA with no specific plan, just to expand his opportunities, and rebuilt his network from scratch through word of mouth: "If you can play and you're a good hang, there's opportunity for sure."

@@ -16,16 +16,14 @@ appleUrl: "https://podcasts.apple.com/us/podcast/the-value-of-music-education/id
 spotifyUrl: "https://open.spotify.com/episode/60NJ7MMVYA51McenegMZes"
 
 topicsDiscussed:
-  - "Creativity"
-  - "Value of Music Education"
-  - "Economic vs. Emotional Value"
-  - "Community in Music"
-  - "Music as Lifelong Learning"
-  - "Technical Skills vs. Artistic Expression"
-  - "The Role of Inspiration"
-  - "Learning Through Immersion"
-  - "Navigating Challenges in Music"
-  - "Accountability in Music Education"
+  - "Music education"
+  - "Music theory"
+  - "DAWs"
+  - "Friendship"
+  - "Guitar"
+  - "The music business"
+  - "Capitalism and work"
+  - "Drums"
 
 hostNote: |
   If you're doing it for the money, you should stop, it's ridiculous. That's not cynicism; it's the honest starting point for why a music education is actually worth pursuing.

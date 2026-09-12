@@ -17,15 +17,15 @@ spotifyUrl: "https://open.spotify.com/episode/10kGEYyBLqmenTtcWGbNlm"
 
 topicsDiscussed:
   - "Spatial audio"
-  - "Creativity"
   - "Mixing"
   - "Reverb"
-  - "Dolby Atmos Introduction"
-  - "3D Audio Panning"
-  - "Creative Soundscapes"
-  - "Natural Sound Integration"
-  - "LFE Sends"
-  - "Audio Fidelity"
+  - "Effects"
+  - "Plugins"
+  - "Compression"
+  - "EQ"
+  - "Guitar"
+  - "Drums"
+  - "Music production"
 
 hostNote: |
   Snapping between quasi-real-world environments in an instant is going to feel otherworldly. That's what drew me into Dolby Atmos, not the spec sheet, but what it opens up creatively. The idea that a guitar can start behind you and emerge into the left speaker, that a sound can literally fly over your head like an insect, means you're no longer thinking in two channels.

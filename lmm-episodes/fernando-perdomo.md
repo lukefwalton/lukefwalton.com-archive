@@ -20,18 +20,18 @@ spotifyUrl: "https://open.spotify.com/episode/7Fxb72e1gmcptvSATTihMU"
 youtubeUrl: "https://www.youtube.com/watch?v=bGzObEU7KgU"
 
 topicsDiscussed:
-  - "Creativity"
+  - "Guitar"
   - "Los Angeles"
-  - "Music production"
   - "The music business"
-  - "Session musician experiences"
-  - "The journey from Miami to L.A."
-  - "Navigating the music industry"
-  - "Collaborating with legends"
-  - "The importance of authenticity"
-  - "Creative process and production"
-  - "Inspiration from live performances"
-  - "Maintaining passion for music"
+  - "Music production"
+  - "Touring"
+  - "Scoring for picture"
+  - "Songwriting"
+  - "Creativity"
+  - "DAWs"
+  - "Singing and vocals"
+  - "Session musicianship"
+  - "Miami"
 
 hostNote: |
   Fernando Perdomo has played guitar for Jackson Browne, Beck, and Fiona Apple, and this conversation traces how he got there: his mother's early influence, then the adaptability session work demands, then the record with a major Latin artist that changed how people saw him.

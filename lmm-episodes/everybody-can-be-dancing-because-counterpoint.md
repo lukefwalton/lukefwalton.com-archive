@@ -18,16 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/1Jb8eElyoAtzwSHsbLI4XP"
 topicsDiscussed:
   - "Music theory"
   - "Bass"
-  - "Guitar"
   - "Singing and vocals"
+  - "Drums"
   - "Songwriting"
-  - "Microtonal music"
-  - "Counterpoint in music"
-  - "Integrating melody and rhythm"
-  - "James Jamerson's influence"
-  - "Dancing with instruments"
-  - "Tuning and pitch"
-  - "The importance of groove"
+  - "Funk"
+  - "Guitar"
+  - "Groove"
+  - "Motown bass"
 
 hostNote: |
   The bass guitar can determine if a chord is major or minor regardless of what everybody else is doing up on top. That's not just a harmonic fact, it's a counterpoint philosophy in one sentence.

@@ -18,13 +18,15 @@ spotifyUrl: "https://open.spotify.com/episode/31x0gkaQNNB3sCbEFIXerH"
 youtubeUrl: "https://www.youtube.com/watch?v=fOM9s5-ZnXA"
 
 topicsDiscussed:
+  - "Collaboration"
   - "Music production"
-  - "Unity Engine in filmmaking"
-  - "Creating a virtual performance"
-  - "Challenges of live music video production"
-  - "Incorporating animation into music"
-  - "The role of green screens in recording"
-  - "Evolving concepts in digital art"
+  - "Failure"
+  - "Drums"
+  - "Singing and vocals"
+  - "The internet"
+  - "Unity as a filmmaking tool"
+  - "Green-screen live performance"
+  - "Virtual concert worlds"
 
 hostNote: |
   **Max Horwich** returns to talk about "**Creature Comfort Live from the Void**," a live music video we built together: filmed against green screen while Max flew a virtual camera through a world he built in **Unity**.

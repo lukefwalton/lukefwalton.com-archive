@@ -19,13 +19,11 @@ topicsDiscussed:
   - "Creativity"
   - "Bass"
   - "Singing and vocals"
+  - "Drums"
+  - "Guitar"
   - "Songwriting"
   - "Music production"
-  - "Creative Sequencing"
-  - "Recording Techniques"
-  - "Song Arrangement"
-  - "Influence of Instrument Order"
-  - "Emotional Impact of Music"
+  - "Piano, synth, and keys"
 
 hostNote: |
   The instrument you start with shapes the whole session, not just the arrangement, but the feel. If the drums come first, everything locks to a pocket. If the bass comes first, the pocket is negotiable. If the vocal comes first, you're composing around a human being.

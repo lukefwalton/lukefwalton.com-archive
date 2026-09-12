@@ -21,17 +21,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=HpcNG35EZUo"
 
 topicsDiscussed:
   - "Classical and orchestral music"
-  - "Creativity"
   - "Music production"
+  - "Music theory"
+  - "Autotune and pitch correction"
+  - "Formant"
+  - "Songwriting"
+  - "Collaboration"
+  - "Guitar"
+  - "Jazz"
+  - "String arranging in pop"
   - "Hawaiian musical roots"
-  - "String arranging in pop music"
-  - "The emotional power of strings"
-  - "Balancing tradition and innovation"
-  - "The creative process"
-  - "Navigating the taste gap in music"
-  - "Voice leading in arrangements"
-  - "The role of taste in music making"
-  - "Finding one's musical identity"
 
 hostNote: |
   **Harley Eblen** is a Billboard #1 string arranger raised in Hawaii, the kind of arranger who can take a string quartet and make it carry a pop song's emotional weight. His mother played him a Stevie Ray Vaughan CD when he was two days old and, by his account, he stopped breathing to listen. He heard cello on the radio at nine or ten and knew that was the instrument.

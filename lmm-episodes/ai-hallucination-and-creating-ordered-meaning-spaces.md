@@ -18,8 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/3tz7OtAIImXMPFYWnllWzn"
 topicsDiscussed:
   - "AI"
   - "Creativity"
+  - "Philosophy"
   - "Music production"
-  - "The Future of Technology in Music"
+  - "The internet"
+  - "The music business"
+  - "Neural networks"
+  - "AI hallucination vs. anthropomorphizing"
+  - "Emergence vs. sentience"
 
 hostNote: |
   There's a difference between outputting a permutation, a sophisticated shuffle of patterns, and actual creativity. That distinction is at the heart of what "hallucination" in AI really means, and it's worth understanding clearly rather than through the hype in either direction.

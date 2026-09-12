@@ -20,14 +20,16 @@ youtubeUrl: "https://www.youtube.com/watch?v=JY76mpyE_lk"
 topicsDiscussed:
   - "Mixing"
   - "Music production"
-  - "Collaboration"
   - "DAWs"
+  - "Touring"
+  - "Piano, synth, and keys"
   - "Singing and vocals"
   - "Songwriting"
-  - "Evolving sound: from duo to full band"
-  - "Utilizing technology in live production"
-  - "Balancing tracks with backing vocals"
-  - "The importance of visual art in music presentation"
+  - "Collaboration"
+  - "Autotune and pitch correction"
+  - "Mastering"
+  - "Bass"
+  - "Live production: people vs Ableton tracks"
 
 hostNote: |
   **Luke Moellman** is one half of **Great Good Fine Ok**, which started as a single song he and John made in 2013 ("this is cool, we should keep doing this"), and grew into a project with real audience geography that surprised even them. He's also a producer, synth designer, graphic artist, and the person running Ableton Live while playing a live show.

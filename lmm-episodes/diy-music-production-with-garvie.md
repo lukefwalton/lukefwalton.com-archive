@@ -18,14 +18,17 @@ spotifyUrl: "https://open.spotify.com/episode/4EVtJ0r2tkeBTzlXqTMMT1"
 
 topicsDiscussed:
   - "Music production"
-  - "Creativity"
+  - "Mixing"
+  - "Reverb"
   - "Songwriting"
+  - "Guitar"
+  - "Radio and broadcast"
+  - "Japan"
+  - "Drums"
+  - "Singing and vocals"
   - "The music business"
-  - "DIY production challenges"
-  - "The importance of releasing music"
-  - "Artist-fan connections"
-  - "Creative collaborations"
-  - "Navigating the music industry"
+  - "Creativity"
+  - "Performing in a mask"
 
 hostNote: |
   Garvie is a friend and collaborator, and this conversation runs like one: DIY production, songwriting, and the mask he performs behind. We talk about how his current project found its identity after a lot of false starts, and why getting a song out the door matters more than getting it perfect.

@@ -20,12 +20,14 @@ youtubeUrl: "https://www.youtube.com/watch?v=M8U6t_BdXqA"
 topicsDiscussed:
   - "Mastering"
   - "Compression"
+  - "Analog"
   - "Effects"
+  - "Mixing"
+  - "EQ"
+  - "Drums"
+  - "Plugins"
   - "Music production"
-  - "Live Sound vs. Studio Engineering"
-  - "The Loudness Wars"
-  - "Cohesion in Albums"
-  - "Distortion: Good or Bad?"
+  - "Loudness, clipping, and album cohesion"
 
 hostNote: |
   **Mike Gillilan** runs Giltone Mastering out of Chicago: and his path there went through drums at age ten, years in a record store hearing different versions of the same record for ten hours a day, and enough reps to know what makes something finished versus almost finished. That record-store formation is the key: he was building his ear before he understood what he was building it for.

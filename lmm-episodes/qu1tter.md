@@ -18,18 +18,18 @@ spotifyUrl: "https://open.spotify.com/episode/08ISMG3BxTpfzHnXbd5k40"
 youtubeUrl: "https://www.youtube.com/watch?v=x57ZkF655FE"
 
 topicsDiscussed:
-  - "Collaboration"
-  - "DAWs"
   - "Los Angeles"
+  - "Hip-hop"
+  - "DAWs"
+  - "Mixing"
   - "Music production"
-  - "Creativity"
-  - "Qu1tter's journey from Cleveland to LA"
-  - "Working with Afro beats artists"
-  - "Tools of the trade: Pro Tools vs. Logic"
-  - "Balancing production and engineering roles"
-  - "Navigating creative spaces in music"
-  - "Techniques for crafting sound"
-  - "The importance of loops and samples"
+  - "Guitar"
+  - "Bass"
+  - "Drums"
+  - "Singing and vocals"
+  - "Collaboration"
+  - "The music business"
+  - "Genre"
 
 hostNote: |
   Qu1tter graduated high school in Cleveland in 2022 and moved directly to LA, within two years he was working with **Future** and **Wale**. The story of how he did it is partly skill, partly timing, and partly his willingness to track records in basements before he had a studio.

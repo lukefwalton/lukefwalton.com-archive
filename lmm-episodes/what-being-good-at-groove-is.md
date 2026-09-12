@@ -16,16 +16,16 @@ spotifyUrl: "https://open.spotify.com/episode/0Vi5FYTGiqfvo7EDS1TIHr"
 appleUrl: "https://podcasts.apple.com/us/podcast/what-being-good-at-groove-is/id1567355195?i=1000788418669&uo=4"
 
 topicsDiscussed:
-  - "Groove and milliseconds"
-  - "Bass"
   - "Drums"
+  - "Bass"
   - "Guitar"
-  - "Mixing"
+  - "Funk"
   - "DAWs"
   - "Electronic music"
-  - "Funk"
   - "AI"
-  - "The Police"
+  - "Music production"
+  - "Piano, synth, and keys"
+  - "Jazz"
 
 hostNote: |
   Groove is one of the most elusive parts of music, and it is a **game of milliseconds**. Why some music feels good, why a bassist and drummer **lock**, and why clicking quantize is not the same job. Researchers put a 10 ms floor on what humans can hear. I feel five. Life is not a solo sport. Neither is the take.

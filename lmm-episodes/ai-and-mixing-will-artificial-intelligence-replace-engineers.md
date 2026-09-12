@@ -18,10 +18,13 @@ spotifyUrl: "https://open.spotify.com/episode/22QmXVOpfuL95ef19NJ5FT"
 topicsDiscussed:
   - "AI"
   - "Mixing"
-  - "Creativity"
+  - "Plugins"
   - "Music production"
-  - "Waves Innovations"
-  - "Perspectives from NAMM 2023"
+  - "DAWs"
+  - "The music business"
+  - "Waves AI mixing and monetization"
+  - "Splice sample identification vs. replacement"
+  - "NAMM 2023"
 
 hostNote: |
   "Every mix shouldn't be the same; every vocal chain shouldn't be programmed by Dave Pensado." That's the line I kept returning to after NAMM 2023, where everyone had bold takes about AI replacing mix engineers. The gap between what top engineers said and what ML researchers said was striking, and it comes down to who's looking at the problem from the top down versus the bottom up.

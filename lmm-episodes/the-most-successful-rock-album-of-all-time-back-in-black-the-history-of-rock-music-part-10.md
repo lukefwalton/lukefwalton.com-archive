@@ -18,15 +18,15 @@ spotifyUrl: "https://open.spotify.com/episode/5Ak4xvJxvoCTe6XWyhFIUb"
 topicsDiscussed:
   - "The history of rock"
   - "Guitar"
-  - "Genre"
+  - "Blues"
+  - "Metal"
+  - "Drums"
   - "Music production"
+  - "Effects"
   - "Songwriting"
-  - "Back in Black Album"
-  - "AC/DC's Impact"
-  - "History of Rock Music"
-  - "1980s Rock"
-  - "Cultural Significance of Rock"
-  - "Album Track Highlights"
+  - "Bass"
+  - "Singing and vocals"
+  - "Death"
 
 hostNote: |
   If you know any amount of guitar and try to play the *Back in Black* title track, it's going to sound wrong. That's not because the riff is complicated: it's because the feel is harder to nail than it looks, and feel is the whole record. That's what I'm trying to get at here.
