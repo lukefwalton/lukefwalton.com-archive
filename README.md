@@ -40,7 +40,7 @@ domain while this copy stays a durable, citable fallback.
 - **songs**: 386
 - **albums**: 28
 - **writing**: 5
-- **letters**: 3
+- **letters**: 4
 - **publications**: 1
 - **interviews**: 28
 - **lmm-episodes**: 223

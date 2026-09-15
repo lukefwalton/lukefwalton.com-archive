@@ -3463,6 +3463,26 @@
   },
   {
     "collection": "letters",
+    "slug": "we-run-the-site-you-run-your-business",
+    "title": "We Run the Site. You Run Your Business.",
+    "type": "Article",
+    "liveUrl": "https://lukefwalton.com/letters/we-run-the-site-you-run-your-business/",
+    "canonicalUrl": "https://www.surmado.com/blog/we-run-the-site-you-run-your-business",
+    "archive": {
+      "markdown": "letters/we-run-the-site-you-run-your-business.md",
+      "html": "letters/we-run-the-site-you-run-your-business.html"
+    },
+    "source": "src/content/letters/we-run-the-site-you-run-your-business.md",
+    "metadata": {
+      "title": "We Run the Site. You Run Your Business.",
+      "description": "Founder letter on why Surmado Sites runs the website end-to-end, and what a roofer, a San Diego restaurant, and Ohtani have to do with it.",
+      "date": "2026-09-12",
+      "origin": "https://www.surmado.com/blog/we-run-the-site-you-run-your-business",
+      "draft": false
+    }
+  },
+  {
+    "collection": "letters",
     "slug": "what-makes-scout-different",
     "title": "What Makes Scout Different",
     "type": "Article",
