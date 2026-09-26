@@ -38,11 +38,11 @@ domain while this copy stays a durable, citable fallback.
 ## Contents
 
 - **songs**: 386
-- **albums**: 28
+- **albums**: 29
 - **writing**: 5
 - **letters**: 4
 - **publications**: 1
-- **interviews**: 28
+- **interviews**: 29
 - **lmm-episodes**: 223
 - **lmm-essays**: 4
 

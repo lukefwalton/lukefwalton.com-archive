@@ -43,6 +43,6 @@ This EP is more beat-driven and accessible ([Chorus.fm](https://chorus.fm/featur
 
 **Mixed by Luke Francis Walton (Scoobert Doobert)**; **mastered by Riley Knapp** (Rosie Tucker, Lou Roy). English-language press naming both: [V13](https://v13.net/2024/04/applied-communications-share-oxytocin-drunk-single-from-new-ep/), [Northern Transmissions](https://northerntransmissions.com/listen-to-a-new-single-from-applied-communications/), [It's Psychedelic Baby](https://www.psychedelicbabymag.com/2024/04/oxytocin-drunk-by-applied-communications-applied-communications-has-a-midlife-crisis.html), [SF Shameless](https://www.sfshameless.com/the-artists/2024/3/28/applied-communications-release-new-single-tomboy-femme). Also: [Backseat Mafia](https://www.backseatmafia.com/premiere-max-wood-returns-as-applied-communications-taps-emperor-x-and-literally-has-a-midlife-crisis/) premiere of *Sinéad*.
 
-Luke did not write these lyrics: **mixing credit only** (not produce). Track pages document the mix; later Applied Communications singles on [Bandcamp](https://applcomm.bandcamp.com/) postdate this EP.
+Luke did not write these lyrics: **mixing credit only** (not produce). Track pages document the mix; later Applied Communications singles on [Bandcamp](https://applcomm.bandcamp.com/) postdate this EP. The 2026 LP is [**applied communications bites the big one**](/albums/applied-communications-bites-the-big-one/).
 
 ---

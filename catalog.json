@@ -118,6 +118,11 @@
           "desc": "Live record (Oct 14, 2012): Aaron Dowler on bass; not the 413 EP lineup (Nick Petrou). Dowler's only known Exist Elsewhere recording."
         },
         {
+          "outlet": "DOLO Los Angeles: USC Thornton showcase (Apr 21, 2013)",
+          "url": "https://dolosangeles.com/events/2013/4/21/usc-thronton-school-of-music-will-baldocchi-nick-campbell-leland-cox-rozzi-crane-annie-dingwall-suemy-gonzalez-barry-har",
+          "desc": "Troubadour bill for the Popular Music Program's first graduating class. Luke Walton's bio on the page."
+        },
+        {
           "outlet": "YouTube: Exist Elsewhere, Luna (live, Noah Benardout song)",
           "url": "https://youtu.be/ksPyBrBB74w?si=FZU1qCzmijPXG5ou",
           "desc": "Primary live source: Exist Elsewhere performing Noah Benardout's 'Luna.'"
@@ -185,6 +190,82 @@
           "instrumental": true,
           "cover": true,
           "coverOf": "Felix Bernard & Richard B. Smith"
+        }
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "applied-communications-bites-the-big-one",
+    "title": "applied communications bites the big one",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/applied-communications-bites-the-big-one/",
+    "canonicalUrl": "https://lukefwalton.com/albums/applied-communications-bites-the-big-one/",
+    "archive": {
+      "markdown": "albums/applied-communications-bites-the-big-one.md",
+      "html": "albums/applied-communications-bites-the-big-one.html"
+    },
+    "source": "src/content/albums/applied-communications-bites-the-big-one.md",
+    "metadata": {
+      "title": "applied communications bites the big one",
+      "description": "September 25, 2026 LP by Max Wood (applied communications), nine tracks. Luke Francis Walton mixed; Riley Knapp mastered. Bandcamp Daily Album of the Day the day it came out. The selection is the album's.",
+      "year": 2026,
+      "releaseDate": "2026-09-25",
+      "releaseType": "album",
+      "artist": "applied communications",
+      "bandcamp": "https://applcomm.bandcamp.com/album/applied-communications-bites-the-big-one",
+      "tracks": [
+        {
+          "title": "donna deegan",
+          "duration": "2:18"
+        },
+        {
+          "title": "return of jafar",
+          "duration": "2:24"
+        },
+        {
+          "title": "tarot sans tinseltown",
+          "duration": "2:35"
+        },
+        {
+          "title": "rococo",
+          "duration": "1:24"
+        },
+        {
+          "title": "cowboy bebop & eric's trip",
+          "duration": "2:50",
+          "song": "cowboy-bebop-erics-trip"
+        },
+        {
+          "title": "butcher",
+          "duration": "2:41"
+        },
+        {
+          "title": "gracie mansion comfort zone",
+          "duration": "2:40"
+        },
+        {
+          "title": "i want you to be okay",
+          "duration": "1:36"
+        },
+        {
+          "title": "peonies",
+          "duration": "4:37"
+        }
+      ],
+      "press": [
+        {
+          "outlet": "Bandcamp Daily",
+          "url": "https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review",
+          "date": "2026-09-25",
+          "desc": "Album of the Day, Luke Jackson. The review is of the album and does not name the mix."
+        },
+        {
+          "outlet": "Instagram: @appl.comm",
+          "url": "https://www.instagram.com/appl.comm/",
+          "date": "2026-09-25",
+          "desc": "Wood's release post names Scoobert Doobert mixing engineer and Riley Knapp mastering engineer. Transcript: /press-kit/evidence/#applied-communications-bites-the-big-one."
         }
       ],
       "draft": false
@@ -2841,6 +2922,30 @@
       "publisher": "Advize",
       "tier": "secondary",
       "archiveKind": "publisher-index",
+      "draft": false
+    }
+  },
+  {
+    "collection": "interviews",
+    "slug": "apple-music-in-the-artists-words",
+    "title": "Apple Music: In the Artist's Words",
+    "type": "CreativeWork",
+    "liveUrl": "https://lukefwalton.com/interviews/apple-music-in-the-artists-words/",
+    "canonicalUrl": "https://lukefwalton.com/interviews/apple-music-in-the-artists-words/",
+    "archive": {
+      "markdown": "interviews/apple-music-in-the-artists-words.md",
+      "html": "interviews/apple-music-in-the-artists-words.html"
+    },
+    "source": "src/content/interviews/apple-music-in-the-artists-words.md",
+    "metadata": {
+      "title": "Apple Music: In the Artist's Words",
+      "subtitle": "Scoobert Doobert artist-profile Q&A",
+      "description": "Undated Apple Music artist-profile Q&A with Scoobert Doobert, copied from the US storefront on September 25, 2026: elementary-school Lion King, three favorite albums, Feels So Good, learning Japanese in the hospital, and producing CHAI.",
+      "author": "Scoobert Doobert",
+      "subject": "Scoobert Doobert",
+      "outlet": "Apple Music",
+      "year": 2026,
+      "canonical": "https://lukefwalton.com/interviews/apple-music-in-the-artists-words/",
       "draft": false
     }
   },
@@ -21862,7 +21967,7 @@
         "Singing and vocals",
         "Compression"
       ],
-      "hostNote": "**Riley Knapp** records as RKCB and has mastered my music for over a decade, engineer, producer, and musician enough to know the catalog as well as anyone. The through-line of the conversation is what happens after a song is finished: one of his tracks sat under a thousand plays before landing in an Apple commercial, the kind of outcome that only happens if you actually put the thing out.\n\nWe trace his path from drummer, where listening and holding rhythm for the group becomes its own kind of instinct, into production and mastering, and the mindset shift he credits most: release it, stop sitting on finished work, and get less precious about music that might matter to someone else. He also talks through how cheaper, more accessible technology has changed what a bedroom setup can do, and what he still checks by gut rather than spec when he's mixing.\n",
+      "hostNote": "**Riley Knapp** records as RKCB and has mastered my music for over a decade, engineer, producer, and musician enough to know the catalog as well as anyone. The through-line of the conversation is what happens after a song is finished: one of his tracks sat under a thousand plays before landing in an Apple commercial, the kind of outcome that only happens if you actually put the thing out.\n\nThe Thornton thread runs through him. [USC Today](https://today.usc.edu/rising-stars/) (March 10, 2016) puts Riley in **Mora Mora** with Matias Mora, Leland Cox, Cary Singer, and Nick Campbell, the 2013 popular-music class. Cary Singer later produced [5G BABY](/songs/5g-baby/) (co-written with Robel Ketema; Luke mixed) and mixed FEiN singles Riley mastered ([*Bodies*](/songs/bodies/), [*Culling*](/songs/culling/), [*800,000*](/songs/800-000/), [*Liminal*](/songs/liminal/)). Riley's [SoundBetter profile](https://soundbetter.com/profiles/129798-riley-knapp) calls RKCB his artist project, one half of the duo with writing and production partner Casey Barth, and lists Discogs-verified credits that include Scoobert Doobert, FEiN, and Applied Communications. [Brandon Woodward's SoundBetter profile](https://soundbetter.com/profiles/383947-brandon-woodward) credits FEiN, RKCB, and LostBoyCrow. Woodward was RKCB's touring drummer.\n\nWe trace his path from drummer, where listening and holding rhythm for the group becomes its own kind of instinct, into production and mastering, and the mindset shift he credits most: release it, stop sitting on finished work, and get less precious about music that might matter to someone else. He also talks through how cheaper, more accessible technology has changed what a bedroom setup can do, and what he still checks by gut rather than spec when he's mixing.\n",
       "selectedMoments": [
         {
           "label": "Musical family background",
@@ -31155,7 +31260,7 @@
         "Robel Ketema",
         "Cary Singer"
       ],
-      "credits": "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton.",
+      "credits": "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Produced by Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton.",
       "apple": "https://music.apple.com/us/album/5g-baby-feat-robel-ketema/1590880152?i=1590880154",
       "themes": [
         "Love",
