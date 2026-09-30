@@ -29,7 +29,7 @@ draft: false
 
 **CHAI** Japan single **ラブじゃん（ That's Love）**: Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [Selected Videos](/music/#selected-videos).
 
-[Tower Records Japan](https://tower.jp/item/5579468) lists the Sony EP **『ジャジャーン』** (SICX-184, January 18, 2023). Track metadata credits **編曲** on **ラブじゃん** to **CHAI** and **Scoobert Doobert**. Lyrics are ユウキ (CHAI); composition is マナ and カナ. The same shared arrangement credit is on **まるごと** and **夢のはなし**. SURPRISE and HERO JOURNEY on that EP name other arrangers.
+[Tower Records Japan](https://tower.jp/item/5579468) lists the Sony EP **『ジャジャーン』** (SICX-184, January 18, 2023). Track metadata credits **編曲** on **ラブじゃん** to **CHAI** and **Scoobert Doobert**. Lyrics are ユウキ (CHAI); composition is マナ and カナ. The same shared arrangement credit is on **まるごと** and **夢のはなし**. SURPRISE and HERO JOURNEY on that EP name other arrangers. Hosted transcript: [Sources](/press-kit/evidence/#chai-jajarn-tower-records).
 
 **Not a U.S. release**: Japan-only single; no Spotify U.S. catalog entry found. **Let's Love** is a separate CHAI anime-theme release.
 
