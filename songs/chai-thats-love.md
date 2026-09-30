@@ -6,7 +6,7 @@ meaning: "CHAI Japan single; Luke Francis Walton produced. Released as ラブじ
 artist: "CHAI"
 
 role: production
-productionRoles: "Produced"
+productionRoles: "Produced · arranged with CHAI"
 placement: "Japan single; CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 3 ラブじゃん)"
 
 press:
@@ -16,6 +16,9 @@ press:
     url: "https://www.youtube.com/watch?v=6drUqHAx7YY"
   - outlet: "Sony Music Japan: We The CHAI Tour! FINAL Blu-ray"
     url: "https://www.sonymusic.co.jp/artist/chai/info/563144"
+  - outlet: "Tower Records Japan: ジャジャーン"
+    url: "https://tower.jp/item/5579468"
+    desc: "Sony EP SICX-184 (Jan 18, 2023). 編曲 on ラブじゃん: CHAI and Scoobert Doobert. Same shared arrangement credit on まるごと and 夢のはなし."
 
 officialVideo: "https://www.youtube.com/watch?v=6drUqHAx7YY"
 
@@ -25,6 +28,8 @@ draft: false
 ---
 
 **CHAI** Japan single **ラブじゃん（ That's Love）**: Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [Selected Videos](/music/#selected-videos).
+
+[Tower Records Japan](https://tower.jp/item/5579468) lists the Sony EP **『ジャジャーン』** (SICX-184, January 18, 2023). Track metadata credits **編曲** on **ラブじゃん** to **CHAI** and **Scoobert Doobert**. Lyrics are ユウキ (CHAI); composition is マナ and カナ. The same shared arrangement credit is on **まるごと** and **夢のはなし**. SURPRISE and HERO JOURNEY on that EP name other arrangers.
 
 **Not a U.S. release**: Japan-only single; no Spotify U.S. catalog entry found. **Let's Love** is a separate CHAI anime-theme release.
 

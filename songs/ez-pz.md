@@ -77,4 +77,6 @@ Then the crack: *being lazy can be lonely*. The title only lands in the outro, a
 
 [**Lou Roy**](/with/lou-roy/), background vocals.
 
+**SubmitHub Popular, Alternative / Indie, Slacker Rock, All time, September 29, 2026.** Rank 9 United States, rank 13 All countries. 36 points, including +3 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

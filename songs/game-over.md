@@ -19,7 +19,7 @@ press:
     desc: "Scoobert Doobert, mixing engineer."
   - outlet: "TuneCore Japan / LinkCore"
     url: "https://linkco.re/CQ0yYRQE"
-    desc: "Guitar credit; Dec 2025 Spotify New Music Wednesday / Indie Japan public distributor record."
+    desc: "Mixing Engineer: Scoobert Doobert. Guitar: OKAME. Dec 2025 Spotify New Music Wednesday / Indie Japan public distributor record."
   - outlet: "Rooftop"
     url: "https://rooftop1976.com/news/2026/01/09183000.php"
   - outlet: "Skream!"
@@ -44,6 +44,6 @@ Project context: [DEBUT album notes](/albums/okame-debut/) · [With OKAME](/with
 
 The [Apple Music credits pane](https://music.apple.com/us/song/game-over/1867075178) lists **Scoobert Doobert** as **Mixing Engineer**.
 
-[TuneCore Japan / LinkCore](https://linkco.re/CQ0yYRQE) lists Scoobert Doobert on **guitar** and documents December 2025 Spotify playlist captures including **New Music Wednesday**, **Indie Japan**, **元気Booster**, and **Best New Music: DIGLE SOUND**. See [Catalog: official playlists](/catalog/#spotify-editorial).
+[TuneCore Japan / LinkCore](https://linkco.re/CQ0yYRQE) lists **Scoobert Doobert** as **Mixing Engineer** and **OKAME** on guitar. The same page documents December 2025 Spotify playlist captures including **New Music Wednesday**, **Indie Japan**, **元気Booster**, and **Best New Music: DIGLE SOUND**. See [Catalog: official playlists](/catalog/#spotify-editorial).
 
 ---

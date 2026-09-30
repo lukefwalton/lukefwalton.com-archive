@@ -22,6 +22,9 @@ press:
   - outlet: "Apple Music: Okashi Na Kimochi (mix credits)"
     url: "https://music.apple.com/us/song/okashi-na-kimochi/1837424980"
     desc: "Scoobert Doobert, mixing engineer (Oct 2025 single)."
+  - outlet: "TuneCore Japan: おかしなきもち"
+    url: "https://linkco.re/tEAMNE18?lang=ja"
+    desc: "ミキシングエンジニア: Scoobert Doobert. Producer, guitar, bass, and drums: OKAME."
   - outlet: "Apple Music: DEBUT album version"
     url: "https://music.apple.com/us/song/okashinakimochi/1867075171"
     desc: "Same mix credit on track 1 of DEBUT."
@@ -49,7 +52,7 @@ OKAME is the post-CHAI project of twin frontwomen MANA and KANA, launched in 202
 
 After CHAI’s 2024 breakup, MANA and KANA again took up the mic and instruments and started OKAME in **September 2025**: [Rooftop](https://rooftop1976.com/news/2026/01/09183000.php) frames it as *ex.CHAIのMANA・KANAによる新プロジェクトOKAME*; [MARZEL](https://marzel.jp/topics/20251003/) as *元CHAIの双子フロントマンMANA・KANAによる新音楽プロジェクト“OKAME”* pursuing **ノスタルポップ** (Nostalpop). [A SCENE](https://ascene.co.jp/pages/okame-interview/) has MANA on the OKAME name and the meaning *音楽で革命を*: revolution through music: and on twin identity: born as twins, raised as twins, succeeded as twins.
 
-**おかしなきもち** (“Okashina Kimochi”) was the first single, digital release **October 1, 2025** ([Spotify](https://open.spotify.com/track/2XfvyWp2nb9SM7lSJhFzOJ) · [Apple Music single](https://music.apple.com/us/song/okashi-na-kimochi/1837424980) · [DEBUT album version](https://music.apple.com/us/song/okashinakimochi/1867075171)), with the paid fan club **Futago Club** launching alongside the project ([NiEW](https://niewmedia.com/en/news/2510okame/)). The [Apple Music credits pane](https://music.apple.com/us/song/okashi-na-kimochi/1837424980) lists **Scoobert Doobert** as **Mixing Engineer**, **OKAME** as **Producer**, and **MANA** and **KANA** as **Mastering Engineers**. The same credit appears on the standalone single and on the DEBUT album cut (track 1).
+**おかしなきもち** (“Okashina Kimochi”) was the first single, digital release **October 1, 2025** ([Spotify](https://open.spotify.com/track/2XfvyWp2nb9SM7lSJhFzOJ) · [Apple Music single](https://music.apple.com/us/song/okashi-na-kimochi/1837424980) · [DEBUT album version](https://music.apple.com/us/song/okashinakimochi/1867075171)), with the paid fan club **Futago Club** launching alongside the project ([NiEW](https://niewmedia.com/en/news/2510okame/)). The [Apple Music credits pane](https://music.apple.com/us/song/okashi-na-kimochi/1837424980) lists **Scoobert Doobert** as **Mixing Engineer**, **OKAME** as **Producer**, and **MANA** and **KANA** as **Mastering Engineers**. The same credit appears on the standalone single and on the DEBUT album cut (track 1). [TuneCore Japan](https://linkco.re/tEAMNE18?lang=ja) lists **Scoobert Doobert** as **ミキシングエンジニア**; producer, guitar, bass, and drums are OKAME.
 
 Luke Francis Walton mixed this track and the full [***DEBUT***](/albums/okame-debut/) album (Feb 2026). Also with MANA and KANA: [KOMAGOME: WE CAN'T DOLL](/songs/we-cant-doll/) and [CHAHHAN](/songs/chahhan/).
 

@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "CHAI"
 
 role: production
-productionRoles: "Sound produced"
+productionRoles: "Sound produced · arranged with CHAI"
 placement: "Film さかなのこ (Sakana no Ko / The Fish Tale / Sakananoko)"
 
 press:
@@ -21,6 +21,12 @@ press:
     desc: "August 11, 2022: CHAI MY DREAM (夢のはなし), sound-produced by Scoobert Doobert, on official Spotify Lorem."
   - outlet: "Sony Music Japan"
     url: "https://www.sonymusic.co.jp/artist/chai/info/543666"
+  - outlet: "Skream!: 夢のはなし"
+    url: "https://skream.jp/news/2022/08/chai_yumenohanashi.php"
+    desc: "August 3, 2022: Scoobert Doobert on sound production; theme for さかなのこ. Also names his まるごと credit."
+  - outlet: "Tower Records Japan: ジャジャーン"
+    url: "https://tower.jp/item/5579468"
+    desc: "編曲 on 夢のはなし: CHAI and Scoobert Doobert."
   - outlet: "Spincoaster"
     url: "https://spincoaster.com/news/chai-yumenohanashi"
   - outlet: "Bezzy: 夢のはなし release (さかなのこ theme)"
@@ -49,7 +55,7 @@ draft: false
 
 **夢のはなし** and **MY DREAM** are the same release: Japanese and English titles for one CHAI single, not two separate songs.
 
-Released **August 3, 2022** as the theme for [沖田修一](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%94%B0%E4%BF%AE%E4%B8%80) (Shuichi Okita)’s film **さかなのこ** (*Sakana no Ko*; also [*The Fish Tale*](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8B%E3%81%AA%E3%81%AE%E3%81%93) / *Sakananoko*, 2022; Tokyo Theatres), starring [**Non**](https://en.wikipedia.org/wiki/Rena_N%C5%8Dnen) (のん; Rena Nounen) as Meebo, the fish-obsessed lead based on ichthyologist Sakana-kun, used over the ending and trailer. [@beformer promoted the film tie-in](https://www.instagram.com/p/CfYCDUmrY8o/) ahead of the **September 1, 2022** theatrical run; on **August 11, 2022** the same account [announced official Spotify Lorem placement](https://www.instagram.com/p/ChIZ7UBPmDx/) for **MY DREAM**, naming Scoobert Doobert on sound production. [Spincoaster](https://spincoaster.com/news/chai-yumenohanashi) credits Walton as サウンド・プロデュース (sound produce); [Bezzy](https://bezzy.jp/2022/08/5092/) (Aug 3, 2022) names California-based Scoobert Doobert on sound produce alongside the [まるごと](/songs/chai-whole/) credit; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/543666) documents the tie-in and names Walton on sound production, after [WHOLE](/songs/chai-whole/) (まるごと). [Official MV on YouTube](https://www.youtube.com/watch?v=qRZsRt_Ajrk), also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
+Released **August 3, 2022** as the theme for [沖田修一](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%94%B0%E4%BF%AE%E4%B8%80) (Shuichi Okita)’s film **さかなのこ** (*Sakana no Ko*; also [*The Fish Tale*](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8B%E3%81%AA%E3%81%AE%E3%81%93) / *Sakananoko*, 2022; Tokyo Theatres), starring [**Non**](https://en.wikipedia.org/wiki/Rena_N%C5%8Dnen) (のん; Rena Nounen) as Meebo, the fish-obsessed lead based on ichthyologist Sakana-kun, used over the ending and trailer. [@beformer promoted the film tie-in](https://www.instagram.com/p/CfYCDUmrY8o/) ahead of the **September 1, 2022** theatrical run; on **August 11, 2022** the same account [announced official Spotify Lorem placement](https://www.instagram.com/p/ChIZ7UBPmDx/) for **MY DREAM**, naming Scoobert Doobert on sound production. [Skream!](https://skream.jp/news/2022/08/chai_yumenohanashi.php) (August 3, 2022) names California-based Scoobert Doobert on サウンド・プロデュース and ties the song to **さかなのこ**, and notes the same role on [まるごと](/songs/chai-whole/). [Spincoaster](https://spincoaster.com/news/chai-yumenohanashi) credits Walton as サウンド・プロデュース (sound produce); [Bezzy](https://bezzy.jp/2022/08/5092/) (Aug 3, 2022) names the same credit; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/543666) documents the tie-in and names Walton on sound production. [Tower Records Japan](https://tower.jp/item/5579468) credits **編曲** on the 『ジャジャーン』 cut to **CHAI** and **Scoobert Doobert**. [Official MV on YouTube](https://www.youtube.com/watch?v=qRZsRt_Ajrk), also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
 
 [Non later received the 46th Japan Academy Prize Outstanding Performance by an Actress in a Leading Role](https://www.japan-academy-prize.jp/sp/prizes/46.html) for *The Fish Tale* ([her announcement](https://nondesu.jp/18026/)). That award is hers, not a music prize.
 

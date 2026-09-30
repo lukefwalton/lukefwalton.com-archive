@@ -83,4 +83,6 @@ The chorus sells the state as bargain-bin paradise, where you *swim in the marij
 
 Approachable post-pandemic weirdness rather than dread, the California myth as a softening device. Pairs with [*Heffalumps and Woozles*](/songs/heffalumps-and-woozles/) and [*I'm an Idiot*](/songs/im-an-idiot/) ([*Big Hug* album essay](/albums/big-hug/)).
 
+**SubmitHub Popular, Alternative / Indie, Psychedelic Rock, All time, United States, September 29, 2026.** Rank 45, 37 points including +1 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

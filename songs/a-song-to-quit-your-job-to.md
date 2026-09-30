@@ -109,4 +109,6 @@ Same beach-Monday register as [*JAZZ FLUTE*](/songs/jazz-flute/) (*ain't got shi
 
 **Spotify editorial:** [The New LoFi](https://thenewlofi.com/scoobert-dooberts-new-single-is-a-breezy-indie-pop-hug-that-questions-our-modern-way-of-life/) documents the Jan. 7, 2022 release on Spotify official playlists **Fresh Finds**, **Fresh Finds Pop**, and **Indie Brandneu**; [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CYfMHBHv5i1/) the next day (between Pinegrove and Broken Social Scene). See [Catalog: official playlists](/catalog/#spotify-editorial).
 
+**SubmitHub Popular, All time, September 29, 2026.** [Sources](/press-kit/evidence/#submithub-popular-2026-09-29). Blogwave: rank 27 All countries, rank 15 United States. Blogwave narrowed to Chillwave: rank 12 All countries, rank 11 United States. Alternative / Indie narrowed to Lo-Fi Rock: rank 21 United States, rank 23 All countries. The row is 61 points, including +6 #RGB bonus points, on Beformer, released Jan 07, 2022.
+
 ---

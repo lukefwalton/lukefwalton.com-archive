@@ -33434,7 +33434,7 @@
       "meaning": "CHAI Japan single; Luke Francis Walton produced. Released as ラブじゃん（ That's Love） in Japan: not issued as a U.S. commercial single.",
       "artist": "CHAI",
       "role": "production",
-      "productionRoles": "Produced",
+      "productionRoles": "Produced · arranged with CHAI",
       "placement": "Japan single; CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 3 ラブじゃん)",
       "press": [
         {
@@ -33448,6 +33448,11 @@
         {
           "outlet": "Sony Music Japan: We The CHAI Tour! FINAL Blu-ray",
           "url": "https://www.sonymusic.co.jp/artist/chai/info/563144"
+        },
+        {
+          "outlet": "Tower Records Japan: ジャジャーン",
+          "url": "https://tower.jp/item/5579468",
+          "desc": "Sony EP SICX-184 (Jan 18, 2023). 編曲 on ラブじゃん: CHAI and Scoobert Doobert. Same shared arrangement credit on まるごと and 夢のはなし."
         }
       ],
       "officialVideo": "https://www.youtube.com/watch?v=6drUqHAx7YY",
@@ -33482,7 +33487,7 @@
       "releaseType": "single",
       "artist": "CHAI",
       "role": "production",
-      "productionRoles": "Produced",
+      "productionRoles": "Produced · arranged with CHAI",
       "placement": "NHK drama Koisenu Futari (恋せぬふたり); CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 11 まるごと)",
       "press": [
         {
@@ -33525,6 +33530,16 @@
         {
           "outlet": "Sony Music Japan",
           "url": "https://www.sonymusic.co.jp/artist/chai/info/536883"
+        },
+        {
+          "outlet": "Sub Pop Mega Mart: WHOLE",
+          "url": "https://megamart.subpop.com/products/chai_whole",
+          "desc": "Produced by San Diego-based producer Scoobert Doobert; NHK Koi-senu Futari theme."
+        },
+        {
+          "outlet": "Tower Records Japan: ジャジャーン",
+          "url": "https://tower.jp/item/5579468",
+          "desc": "編曲 on まるごと: CHAI and Scoobert Doobert. Same shared credit on ラブじゃん and 夢のはなし."
         },
         {
           "outlet": "Sony Music Japan: We The CHAI Tour! FINAL Blu-ray",
@@ -33582,7 +33597,7 @@
       "releaseType": "single",
       "artist": "CHAI",
       "role": "production",
-      "productionRoles": "Sound produced",
+      "productionRoles": "Sound produced · arranged with CHAI",
       "placement": "Film さかなのこ (Sakana no Ko / The Fish Tale / Sakananoko)",
       "press": [
         {
@@ -33598,6 +33613,16 @@
         {
           "outlet": "Sony Music Japan",
           "url": "https://www.sonymusic.co.jp/artist/chai/info/543666"
+        },
+        {
+          "outlet": "Skream!: 夢のはなし",
+          "url": "https://skream.jp/news/2022/08/chai_yumenohanashi.php",
+          "desc": "August 3, 2022: Scoobert Doobert on sound production; theme for さかなのこ. Also names his まるごと credit."
+        },
+        {
+          "outlet": "Tower Records Japan: ジャジャーン",
+          "url": "https://tower.jp/item/5579468",
+          "desc": "編曲 on 夢のはなし: CHAI and Scoobert Doobert."
         },
         {
           "outlet": "Spincoaster",
@@ -36052,7 +36077,7 @@
         {
           "outlet": "TuneCore Japan / LinkCore",
           "url": "https://linkco.re/CQ0yYRQE",
-          "desc": "Guitar credit; Dec 2025 Spotify New Music Wednesday / Indie Japan public distributor record."
+          "desc": "Mixing Engineer: Scoobert Doobert. Guitar: OKAME. Dec 2025 Spotify New Music Wednesday / Indie Japan public distributor record."
         },
         {
           "outlet": "Rooftop",
@@ -39686,6 +39711,11 @@
           "url": "https://www.subpop.com/releases/chai/wink_together"
         },
         {
+          "outlet": "CHAI: WINK TOGETHER (Bandcamp)",
+          "url": "https://chaiofficial.bandcamp.com/album/wink-together",
+          "desc": "Track 4 billed as CHAI and Scoobert Doobert – Miracle (Scoobert Doobert Remix)."
+        },
+        {
           "outlet": "Sony Music Japan",
           "url": "https://www.sonymusic.co.jp/artist/chai/info/536453"
         },
@@ -41030,6 +41060,86 @@
   },
   {
     "collection": "songs",
+    "slug": "okame-iiwake-kikasete",
+    "title": "言いわけきかせて",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/okame-iiwake-kikasete/",
+    "canonicalUrl": "https://lukefwalton.com/songs/okame-iiwake-kikasete/",
+    "archive": {
+      "markdown": "songs/okame-iiwake-kikasete.md",
+      "html": "songs/okame-iiwake-kikasete.html"
+    },
+    "source": "src/content/songs/okame-iiwake-kikasete.md",
+    "metadata": {
+      "title": "言いわけきかせて",
+      "meaning": "OKAME single (July 25, 2026); theme for the TikTok short anime きょうもカクレチカクカ・ビン; mixed by Luke Francis Walton.",
+      "year": 2026,
+      "releaseType": "single",
+      "artist": "OKAME",
+      "role": "production",
+      "productionRoles": "Mixing Engineer",
+      "placement": "Theme for TikTok short anime きょうもカクレチカクカ・ビン",
+      "press": [
+        {
+          "outlet": "OKAME: 言いわけきかせて (official MV)",
+          "url": "https://www.youtube.com/watch?v=fiCtZ-SNHzc",
+          "desc": "Description: theme song; episode 1 from July 25, 2026; 10 episodes planned. chao! director, concept, and storyboard."
+        },
+        {
+          "outlet": "The Third Strategy",
+          "url": "https://thirdstrategy.co.jp/",
+          "desc": "The Third Animation homepage names the short anime and the tie-up single 言いわけきかせて."
+        },
+        {
+          "outlet": "JOYSOUND Music News",
+          "url": "https://news.joysound.com/article/683716",
+          "desc": "August 4, 2026: theme song for the TikTok short anime; chao! directed the MV."
+        },
+        {
+          "outlet": "Uta-Net: 言いわけきかせて",
+          "url": "https://www.uta-net.com/song/397322/",
+          "desc": "Lists きょうもカクレチカクカ・ビン with the song. Lyrics MANA, composition OKAME, release July 25, 2026."
+        },
+        {
+          "outlet": "MANAKANA: 言いわけきかせて",
+          "url": "https://manakana.bitfan.id/contents/413965",
+          "desc": "July 25, 2026 single; theme for the TikTok short anime; 10 episodes planned."
+        },
+        {
+          "outlet": "Rooftop: official MV",
+          "url": "https://rooftop1976.com/news/2026/08/04181000.php",
+          "desc": "Everyday lives of slightly sensitive fish; MV directed by chao!."
+        },
+        {
+          "outlet": "OTOTOY",
+          "url": "https://ototoy.jp/_/default/p/4038875",
+          "desc": "KODO RECORDS, catalog KODO-DIGI-002, July 25, 2026, 2:20."
+        },
+        {
+          "outlet": "Apple Music: iiwakekikasete",
+          "url": "https://music.apple.com/us/song/iiwakekikasete/6790735865"
+        }
+      ],
+      "spotify": "https://open.spotify.com/track/64D27yKpPCdVtjl83OzTk6",
+      "apple": "https://music.apple.com/us/song/iiwakekikasete/6790735865",
+      "officialVideo": "https://www.youtube.com/watch?v=fiCtZ-SNHzc",
+      "themes": [
+        "Mixing",
+        "Scoring for picture",
+        "Japan",
+        "OKAME",
+        "CHAI",
+        "MANA",
+        "KANA",
+        "2026"
+      ],
+      "isrc": "JP92J2602802",
+      "isrcSource": "spotify",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "okame-soreike-cinderella",
     "title": "それいけ！シンデレラ",
     "type": "MusicRecording",
@@ -41171,6 +41281,11 @@
           "desc": "Scoobert Doobert, mixing engineer."
         },
         {
+          "outlet": "TuneCore Japan: 照れないで",
+          "url": "https://linkco.re/EESHq5tZ?lang=ja",
+          "desc": "ミキシングエンジニア: Scoobert Doobert."
+        },
+        {
           "outlet": "NiEW: DEBUT",
           "url": "https://niewmedia.com/en/news/093904/"
         },
@@ -41293,6 +41408,11 @@
           "outlet": "Apple Music: Okashi Na Kimochi (mix credits)",
           "url": "https://music.apple.com/us/song/okashi-na-kimochi/1837424980",
           "desc": "Scoobert Doobert, mixing engineer (Oct 2025 single)."
+        },
+        {
+          "outlet": "TuneCore Japan: おかしなきもち",
+          "url": "https://linkco.re/tEAMNE18?lang=ja",
+          "desc": "ミキシングエンジニア: Scoobert Doobert. Producer, guitar, bass, and drums: OKAME."
         },
         {
           "outlet": "Apple Music: DEBUT album version",

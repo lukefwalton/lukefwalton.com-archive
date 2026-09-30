@@ -34,4 +34,6 @@ Sits between the [*I*](/albums/i/) LP cycle and later 2025 singles, a standalone
 
 See [With India Thieriot](/with/india-thieriot/) · [Catalog: collaborations](/catalog/#collaborations)
 
+**SubmitHub Popular, Alternative / Indie, Dream Pop, All time, United States, September 29, 2026.** Rank 34, 67 points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

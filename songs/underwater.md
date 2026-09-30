@@ -87,4 +87,6 @@ The damage is reported from the inside. *I don't wanna talk anymore* because tal
 
 Luke discussed the LP with [Guillain-Barré](https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome) and nearly losing music in the background ([Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview)); the sinking is both psychological and bodily. Between [*TOO HOT*](/songs/too-hot/) and [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/), it's the depth the buoyant songs are floating above.
 
+**SubmitHub Popular, Alternative / Indie, Lo-Fi Rock, All time, September 29, 2026.** Rank 40 on the United States chart and rank 48 on the All countries chart, 50 points including +5 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

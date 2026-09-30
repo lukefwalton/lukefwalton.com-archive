@@ -70,4 +70,6 @@ The song's named instrument is on the recording: **Nicole McCabe** on flute. The
 
 Also on the chapter EP: [*JAZZ FLUTE (MOAR FLUTE)*](/songs/jazz-flute-moar-flute/), a flute-forward **instrumental** of the same song, plus [*JAZZ FLUTE (Instrumental)*](/songs/jazz-flute-instrumental/). Lyrics stay on this page.
 
+**SubmitHub Popular, Alternative / Indie, Slacker Rock, All time, September 29, 2026.** Rank 13 United States, rank 19 All countries. 29 points, including +1 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

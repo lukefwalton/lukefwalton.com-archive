@@ -17,6 +17,9 @@ press:
   - outlet: "Apple Music: Terenaide (mix credits)"
     url: "https://music.apple.com/us/song/terenaide/1867075172"
     desc: "Scoobert Doobert, mixing engineer."
+  - outlet: "TuneCore Japan: 照れないで"
+    url: "https://linkco.re/EESHq5tZ?lang=ja"
+    desc: "ミキシングエンジニア: Scoobert Doobert."
   - outlet: "NiEW: DEBUT"
     url: "https://niewmedia.com/en/news/093904/"
   - outlet: "Natalie: DEBUT"
@@ -35,7 +38,7 @@ draft: false
 
 **照れないで** (*Terenaide*): OKAME’s **November 2025** single in the three-month run (**おかしなきもち** → **照れないで** → **GAME OVER**) ahead of ***DEBUT*** (Feb 4, 2026). Track 2 on the album ([Spotify](https://open.spotify.com/track/5sumgHaQFOfFBgKil4Z7dY) · [Apple Music](https://music.apple.com/us/song/terenaide/1867075172)).
 
-The [Apple Music credits pane](https://music.apple.com/us/song/terenaide/1867075172) lists **Scoobert Doobert** as **Mixing Engineer** on the DEBUT album version.
+The [Apple Music credits pane](https://music.apple.com/us/song/terenaide/1867075172) lists **Scoobert Doobert** as **Mixing Engineer** on the DEBUT album version. [TuneCore Japan](https://linkco.re/EESHq5tZ?lang=ja) lists the same role on the November 2025 single (**ミキシングエンジニア**).
 
 [NiEW](https://niewmedia.com/en/news/093904/) and [Natalie](https://natalie.mu/music/news/655580) document the DEBUT release and monthly single strategy.
 

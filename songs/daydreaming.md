@@ -99,4 +99,6 @@ The classroom window is the old escape fantasy updated for California: drive dow
 
 Also released as a standalone single ahead of the LP. See: [Catalog](/catalog/).
 
+**SubmitHub Popular, All time, September 29, 2026.** [Sources](/press-kit/evidence/#submithub-popular-2026-09-29). Alternative / Indie, Slacker Rock: rank 6 United States, rank 10 All countries (38 points, including +2 #RGB bonus points, released Jan 19, 2024). Blogwave, United States: rank 65. Blogwave narrowed to Chillwave, United States: rank 35.
+
 ---

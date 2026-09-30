@@ -82,4 +82,6 @@ The second verse is where it gets funny and bleak at once. The narrator consider
 
 On *Big Hug* it leads into [*Scared to Reunite*](/songs/scared-to-reunite/) and the title track, the LP's scared-to-be-a-person stretch ([*Big Hug* essay](/albums/big-hug/)).
 
+**SubmitHub Popular, Blogwave, All time, United States, September 29, 2026.** Rank 94 with no sub-genre selected, and rank 49 with Chillwave selected. 33 points, released Nov 10, 2020. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

@@ -32,4 +32,6 @@ On [*KŌAN*](/albums/koan/), Scoobert’s cover of **Earth, Wind & Fire’s** **
 
 DistroKid cover. No lyrics published here.
 
+**SubmitHub Popular, Covers, All time, September 29, 2026.** [Sources](/press-kit/evidence/#submithub-popular-2026-09-29). Rank 80 on the United States chart, 30 points including +2 #RGB bonus points, between Lindberg’s “Survivor” and Rnb DAYSAVV’s “No Games.” The loaded All countries chart, 100 rows, does not list it.
+
 ---

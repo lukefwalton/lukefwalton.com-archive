@@ -95,4 +95,6 @@ The plea underneath the party is the whole song: *don't leave me dancing alone*,
 
 See also: [*I*](/albums/i/) · [Catalog](/catalog/).
 
+**SubmitHub Popular, Blogwave, All time, United States, September 29, 2026.** Rank 50, 42 points including +1 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

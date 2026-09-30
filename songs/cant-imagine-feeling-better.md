@@ -104,4 +104,6 @@ The joy is built entirely from cartoon resilience and nonsense. Verse one trips 
 
 On *Little Hug* it sits between [*I'm Addicted to Baths*](/songs/im-addicted-to-baths/) and [*I Am a Lobster, I Am a Barnacle*](/songs/i-am-a-lobster-i-am-a-barnacle/); on *Big Hug* it returns alongside reworked *If I Could Only* and [*Debby*](/songs/debby/) (Extended). Opposite energy from [*A Good Life*](/songs/a-good-life/) on MMM: bottled grin versus earnest mantra.
 
+**SubmitHub Popular, Alternative / Indie, Lo-Fi Rock, All time, September 29, 2026.** Rank 10 on both the United States chart and the All countries chart, 71 points including +3 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

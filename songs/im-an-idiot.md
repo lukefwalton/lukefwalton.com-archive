@@ -139,4 +139,6 @@ The outro widens it to everyone: *no one cares 'cause we're all idiots*. Same po
 
 **CHAI:** CHAI heard the song after its Spotify New Music Friday placement and commissioned [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/). WHOLE and MY DREAM followed. Public bio pages (Music Metrics Vault, Love Music More, Soundcharts) give the same sequence. See [Catalog: CHAI, in order of credits](/catalog/#chai-spine) · [With CHAI](/with/chai/#chai-spine).
 
+**SubmitHub Popular, Alternative / Indie, Dream Pop, All time, United States, September 29, 2026.** Rank 43, 65 points including +4 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
+
 ---

@@ -119,4 +119,6 @@ Under the punctuation is the line the bridge stacks six times: *I don't wanna sa
 
 Also on the chapter EP: [*THIS IS FINE*](/songs/this-is-fine/), the meme-mantra sequel with no new verses.
 
+**SubmitHub Popular, All time, September 29, 2026.** [Sources](/press-kit/evidence/#submithub-popular-2026-09-29). Alternative / Indie, Slacker Rock: rank 10 United States, rank 14 All countries. Alternative / Indie, Slowcore: rank 13 United States, rank 22 All countries. 32 points, released Mar 14, 2025.
+
 ---

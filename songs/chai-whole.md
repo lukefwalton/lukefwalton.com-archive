@@ -9,7 +9,7 @@ releaseType: "single"
 artist: "CHAI"
 
 role: production
-productionRoles: "Produced"
+productionRoles: "Produced · arranged with CHAI"
 placement: "NHK drama Koisenu Futari (恋せぬふたり); CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 11 まるごと)"
 
 press:
@@ -36,6 +36,12 @@ press:
     desc: "January 12, 2022: names Scoobert Doobert on サウンドプロデュース for NHK drama 恋せぬふたり theme."
   - outlet: "Sony Music Japan"
     url: "https://www.sonymusic.co.jp/artist/chai/info/536883"
+  - outlet: "Sub Pop Mega Mart: WHOLE"
+    url: "https://megamart.subpop.com/products/chai_whole"
+    desc: "Produced by San Diego-based producer Scoobert Doobert; NHK Koi-senu Futari theme."
+  - outlet: "Tower Records Japan: ジャジャーン"
+    url: "https://tower.jp/item/5579468"
+    desc: "編曲 on まるごと: CHAI and Scoobert Doobert. Same shared credit on ラブじゃん and 夢のはなし."
   - outlet: "Sony Music Japan: We The CHAI Tour! FINAL Blu-ray"
     url: "https://www.sonymusic.co.jp/artist/chai/info/563144"
   - outlet: "CHAI: official MV"
@@ -56,7 +62,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Follows the Sub Pop remix on [*WINK TOGETHER*](https://www.subpop.com/releases/chai/wink_together) ([Pitchfork](https://pitchfork.com/news/chai-announce-new-remix-ep-share-confidence-man-remix-listen/) lists **Miracle (Scoobert Doobert Remix)** on the EP tracklist). [@wavyawards nominated WHOLE for Collaboration of the Year](https://www.instagram.com/p/CgjwOjpsCcT/) at The Wavys 2022 (July 28, 2022). [NME](https://www.nme.com/news/music/chais-dancey-new-single-whole-is-a-plea-for-empathy-3137597) names Walton as producer on WHOLE and the NHK series **_Koi-senu Futari_**. [Qetic](https://qetic.jp/music/chai-210112/421668/) (Jan 12, 2022) documents サウンドプロデュース by California-based Scoobert Doobert on the 恋せぬふたり theme 「まるごと」. [Paste](https://www.pastemagazine.com/music/chai/new-single-whole) and [FLOOD](https://floodmagazine.com/97933/listen-chai-whole/) cover the single in the same release window; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/536883) documents 「まるごと」 as the drama theme with Scoobert Doobert on sound production. [Sub Pop Mega Mart](https://megamart.subpop.com/products/chai_whole) names Scoobert Doobert as producer; [SoundBetter](https://soundbetter.com/profiles/489488-scoobert-doobert) lists producer, arranger, and mixing engineer credits on WHOLE; YouTube's [official audio](https://www.youtube.com/watch?v=ozjOkzdS5u0) and [MV](https://www.youtube.com/watch?v=n-fNkTFGxfA) uploads carry the public release metadata. **Studio BTS:** CHAI drummer [Yuna](https://www.instagram.com/chai.yuna/) posted a drum-recording reel for 「まるごと」 on **January 12, 2022** (the day before release), [#yunadrum #drumrecording](https://www.instagram.com/reel/CYoXemyBbwe/); screenshot on [Photos](/music/#photos). [Anthony Fantano (The Needle Drop) reacted to WHOLE](https://www.youtube.com/watch?v=IfQ2d07vus4) in a fan-captured clip. See [Anthony Fantano](/with/anthony-fantano/). Also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
+Follows the Sub Pop remix on [*WINK TOGETHER*](https://www.subpop.com/releases/chai/wink_together) ([Pitchfork](https://pitchfork.com/news/chai-announce-new-remix-ep-share-confidence-man-remix-listen/) lists **Miracle (Scoobert Doobert Remix)** on the EP tracklist). [@wavyawards nominated WHOLE for Collaboration of the Year](https://www.instagram.com/p/CgjwOjpsCcT/) at The Wavys 2022 (July 28, 2022). [NME](https://www.nme.com/news/music/chais-dancey-new-single-whole-is-a-plea-for-empathy-3137597) names Walton as producer on WHOLE and the NHK series **_Koi-senu Futari_**. [Qetic](https://qetic.jp/music/chai-210112/421668/) (Jan 12, 2022) documents サウンドプロデュース by California-based Scoobert Doobert on the 恋せぬふたり theme 「まるごと」. [Paste](https://www.pastemagazine.com/music/chai/new-single-whole) and [FLOOD](https://floodmagazine.com/97933/listen-chai-whole/) cover the single in the same release window; [Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/536883) documents 「まるごと」 as the drama theme with Scoobert Doobert on sound production. [Sub Pop Mega Mart](https://megamart.subpop.com/products/chai_whole) names Scoobert Doobert as producer. [Tower Records Japan](https://tower.jp/item/5579468) credits **編曲** on the 『ジャジャーン』 cut to **CHAI** and **Scoobert Doobert** (lyrics ユウキ; composition マナ and カナ). [SoundBetter](https://soundbetter.com/profiles/489488-scoobert-doobert) lists producer, arranger, and mixing engineer credits on WHOLE; YouTube's [official audio](https://www.youtube.com/watch?v=ozjOkzdS5u0) and [MV](https://www.youtube.com/watch?v=n-fNkTFGxfA) uploads carry the public release metadata. **Studio BTS:** CHAI drummer [Yuna](https://www.instagram.com/chai.yuna/) posted a drum-recording reel for 「まるごと」 on **January 12, 2022** (the day before release), [#yunadrum #drumrecording](https://www.instagram.com/reel/CYoXemyBbwe/); screenshot on [Photos](/music/#photos). [Anthony Fantano (The Needle Drop) reacted to WHOLE](https://www.youtube.com/watch?v=IfQ2d07vus4) in a fan-captured clip. See [Anthony Fantano](/with/anthony-fantano/). Also on [Selected Videos](/music/#selected-videos) and [Videos](/with/chai/#videos).
 
 The series, not the theme song, later received major Japanese television prizes: the [59th Galaxy Award Television Division Special Prize](https://www.houkon.jp/galaxy-award/%E7%AC%AC59%E5%9B%9E%EF%BC%882021%E5%B9%B4%E5%BA%A6%EF%BC%89/) (the jury called it a groundbreaking work in drama history) and an [Excellence Award at the 77th Agency for Cultural Affairs Arts Festival](https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/93808501.html). Writer [Erika Yoshida won the 40th Kuniko Mukōda Prize](https://tokyonews.co.jp/mukouda/prize40/) for the script. Those awards are the drama's and Yoshida's; Walton produced the theme.
 
