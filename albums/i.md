@@ -171,6 +171,6 @@ The world in 2024 is what it is. But it's a lot easier to change the world with 
 
 [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-time-with-u-pop-music-review) on *time with u* called it catchy, harmonic, and joyful: bedroom/lo-fi pop, indie pop, dream pop.
 
-On [Love Music More](https://lovemusicmore.substack.com/p/first-blog), Scoobert says *I* is the second released part of the planned four-album [MÖBIUS](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) series after *MÖB*, with [*US*](/albums/us/) (third turn, now in progress as chapter EPs) and *MÖBIUS* (completing turn) still to come. He calls the whole intended cycle a “super-album” or “meta-album,” partly as a reaction against single supremacy in streaming culture.
+On [Love Music More](https://lovemusicmore.substack.com/p/first-blog), Scoobert says *I* is the second released part of the planned four-album [MÖBIUS](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) series after *MÖB*, with [*US*](/albums/us/) (third turn: chapter EPs out, full LP scheduled for January 2027) and *MÖBIUS* (completing turn) still to come. He calls the whole intended cycle a “super-album” or “meta-album,” partly as a reaction against single supremacy in streaming culture.
 
 What comes next is [*US*](/albums/us/), in progress.

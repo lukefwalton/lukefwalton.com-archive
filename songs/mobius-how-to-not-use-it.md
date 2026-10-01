@@ -38,6 +38,6 @@ Track ten, the [*Moonlight Beach*](/albums/moonlight-beach/) closer. The title i
 
 [Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview) later connected this tag to [*MÖB*](/albums/mob/), the first released turn of the four-part cycle. The beach record ends on a spoken question, quit or loop. Luke chose loop.
 
-[*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished; [*US*](/albums/us/) is in progress; the fourth LP, *MÖBIUS*, remains planned. See the [*MÖBIUS* cycle page](/albums/mobius-cycle/).
+[*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished; [*US*](/albums/us/) is in progress, full LP scheduled for January 2027; the fourth LP, *MÖBIUS*, remains planned. See the [*MÖBIUS* cycle page](/albums/mobius-cycle/).
 
 ---

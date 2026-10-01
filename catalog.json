@@ -2081,7 +2081,7 @@
     "source": "src/content/albums/mobius-cycle.md",
     "metadata": {
       "title": "MÖBIUS",
-      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, partial US, and a planned fourth LP.",
+      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a planned fourth LP.",
       "year": 2023,
       "catalogStatus": "in-progress",
       "artist": "Scoobert Doobert",
@@ -2567,12 +2567,57 @@
     "source": "src/content/albums/us.md",
     "metadata": {
       "title": "US",
-      "description": "Third turn of the MÖBIUS cycle, in progress: chapter EPs on streaming now, full LP still being built.",
+      "description": "Third turn of the MÖBIUS cycle. Full LP scheduled for January 2027. Current sequence is eleven songs; more may be added. Chapter EPs are already on streaming.",
       "year": 2025,
       "catalogStatus": "in-progress",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "tracks": [],
+      "tracks": [
+        {
+          "title": "MAIN CHARACTER ENERGY",
+          "song": "main-character-energy"
+        },
+        {
+          "title": "PARTY",
+          "song": "party"
+        },
+        {
+          "title": "AFTER-PARTY",
+          "song": "after-party"
+        },
+        {
+          "title": "AFTER-AFTER-PARTY",
+          "song": "after-after-party"
+        },
+        {
+          "title": "THIS IS FINE",
+          "song": "this-is-fine"
+        },
+        {
+          "title": "JAZZ FLUTE",
+          "song": "jazz-flute"
+        },
+        {
+          "title": "QUIET YOUR MIND!!!",
+          "song": "quiet-your-mind"
+        },
+        {
+          "title": "wannagetaway",
+          "song": "wannagetaway"
+        },
+        {
+          "title": "LOL",
+          "song": "lol"
+        },
+        {
+          "title": "CHEW ON THIS",
+          "song": "chew-on-this"
+        },
+        {
+          "title": "chasing the sunset",
+          "song": "chasing-the-sunset"
+        }
+      ],
       "chapters": [
         {
           "title": "QUIET YOUR MIND!!!",
@@ -33725,7 +33770,7 @@
     "source": "src/content/songs/chew-on-this.md",
     "metadata": {
       "title": "CHEW ON THIS",
-      "meaning": "Single-only big-data gnaw: sunset hope clouded over, robot output fed to the monster you helped build: chew on this, don't choke.",
+      "meaning": "Big-data gnaw: sunset hope clouded over, robot output fed to the monster you helped build: chew on this, don't choke. July 2024 single, also sequenced on US.",
       "year": 2024,
       "release": "CHEW ON THIS",
       "releaseType": "single",
@@ -45268,6 +45313,65 @@
       ],
       "isrc": "QZDA82108361",
       "isrcSource": "soundexchange",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "wannagetaway",
+    "title": "wannagetaway",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/wannagetaway/",
+    "canonicalUrl": "https://lukefwalton.com/songs/wannagetaway/",
+    "archive": {
+      "markdown": "songs/wannagetaway.md",
+      "html": "songs/wannagetaway.html"
+    },
+    "source": "src/content/songs/wannagetaway.md",
+    "metadata": {
+      "title": "wannagetaway",
+      "meaning": "Beformer single out November 13, 2026, also sequenced on the US LP (January 2027). Lyrics are not on this page yet.",
+      "year": 2026,
+      "release": "wannagetaway",
+      "releaseType": "single",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Scoobert Doobert single on Beformer. DistroKid release date November 13, 2026. UPC 700573621298.",
+      "themes": [
+        "US",
+        "2026"
+      ],
+      "isrc": "QTA2T2698897",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "wannagetaway-instrumental",
+    "title": "wannagetaway (Instrumental)",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/wannagetaway-instrumental/",
+    "canonicalUrl": "https://lukefwalton.com/songs/wannagetaway-instrumental/",
+    "archive": {
+      "markdown": "songs/wannagetaway-instrumental.md",
+      "html": "songs/wannagetaway-instrumental.html"
+    },
+    "source": "src/content/songs/wannagetaway-instrumental.md",
+    "metadata": {
+      "title": "wannagetaway (Instrumental)",
+      "meaning": "Instrumental of the Beformer wannagetaway single (November 13, 2026).",
+      "year": 2026,
+      "release": "wannagetaway",
+      "releaseType": "single",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "instrumental": true,
+      "themes": [
+        "instrumental",
+        "US",
+        "2026"
+      ],
+      "isrc": "QTA2T2698898",
       "draft": false
     }
   },

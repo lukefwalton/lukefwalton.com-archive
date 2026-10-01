@@ -1,7 +1,7 @@
 ---
 title: "MÖBIUS"
 
-description: "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, partial US, and a planned fourth LP."
+description: "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a planned fourth LP."
 
 year: 2023
 catalogStatus: in-progress
@@ -14,7 +14,7 @@ tracks: []
 draft: false
 ---
 
-This page covers the planned four-part cycle as a whole. The intended shape is **MÖB → I → US → MÖBIUS**, released in turns. [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. [*US*](/albums/us/) is **in progress** (chapter EPs on streaming; full LP unfinished). The **fourth turn** (the LP also titled *MÖBIUS*) is **planned** and has no release page yet.
+This page covers the planned four-part cycle as a whole. The intended shape is **MÖB → I → US → MÖBIUS**, released in turns. [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. [*US*](/albums/us/) is **in progress**: chapter EPs are on streaming, and the full LP is scheduled for **January 2027**. The **fourth turn** (the LP also titled *MÖBIUS*) is **planned** and has no release page yet.
 
 ## Named on Moonlight Beach
 
@@ -31,7 +31,7 @@ The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**).
 
 | Turn | Hub | Status |
 |------|-----|--------|
-| **US** | [*US*](/albums/us/) | Chapter EPs on streaming; full LP unfinished |
+| **US** | [*US*](/albums/us/) | Chapter EPs on streaming; full LP scheduled for January 2027 |
 
 ## Planned
 

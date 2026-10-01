@@ -1,7 +1,7 @@
 ---
 title: "US"
 
-description: "Third turn of the MÖBIUS cycle, in progress: chapter EPs on streaming now, full LP still being built."
+description: "Third turn of the MÖBIUS cycle. Full LP scheduled for January 2027. Current sequence is eleven songs; more may be added. Chapter EPs are already on streaming."
 
 year: 2025
 catalogStatus: in-progress
@@ -9,7 +9,18 @@ catalogStatus: in-progress
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-tracks: []
+tracks:
+  - { title: "MAIN CHARACTER ENERGY", song: main-character-energy }
+  - { title: "PARTY", song: party }
+  - { title: "AFTER-PARTY", song: after-party }
+  - { title: "AFTER-AFTER-PARTY", song: after-after-party }
+  - { title: "THIS IS FINE", song: this-is-fine }
+  - { title: "JAZZ FLUTE", song: jazz-flute }
+  - { title: "QUIET YOUR MIND!!!", song: quiet-your-mind }
+  - { title: "wannagetaway", song: wannagetaway }
+  - { title: "LOL", song: lol }
+  - { title: "CHEW ON THIS", song: chew-on-this }
+  - { title: "chasing the sunset", song: chasing-the-sunset }
 
 chapters:
   - title: "QUIET YOUR MIND!!!"
@@ -57,9 +68,9 @@ chapters:
 draft: false
 ---
 
-*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* cycle page](/albums/mobius-cycle/). [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. *US* is **in progress**: chapter EPs are rolling out on streaming now; the full album is not finished yet. The fourth LP, titled *MÖBIUS*, is **planned**: no release page until it exists.
+*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* cycle page](/albums/mobius-cycle/). [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. The *US* LP is scheduled for **January 2027**. The current sequence is eleven songs, linked below where a song page exists. More may be added before release. The fourth LP, titled *MÖBIUS*, is **planned**: no release page until it exists.
 
-Like [*KŌAN*](/albums/koan/) before it (A / B / C chapters, then the LP), *US* is arriving in pieces first. Six chapter EPs are on streaming (seventeen tracks total). Chapter tracklists appear below as they are confirmed; song-meaning notes link where they exist.
+Like [*KŌAN*](/albums/koan/) before it (A / B / C chapters, then the LP), *US* is arriving in pieces first. Six chapter EPs are already on streaming (seventeen tracks, including instrumentals). [*wannagetaway*](/songs/wannagetaway/) is its own Beformer single on **November 13, 2026**, and it is also in this sequence. [*CHEW ON THIS*](/songs/chew-on-this/) and [*chasing the sunset*](/songs/chasing-the-sunset/) were 2024 singles first.
 
 *US* is the “we” turn after *I*’s “u.”
 

@@ -97,7 +97,7 @@ draft: false
 
 ---
 
-Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024) but not on the LP tracklist. Same subject as the album (*wherever you go I go*), except here the geography is literal and the stakes are airports.
+Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. Same subject as *I* (*wherever you go I go*), except here the geography is literal and the stakes are airports.
 
 Verse one is the American map as love language, Hawaii or Boston College, Atlanta or Savannah, Chicago, Denver. Half geography quiz, half willingness test, and the answer isn't a city: it's *with love*. The chorus turns that into motion, flooring it west, following the colors, *we'll follow the sun* stacked until it's a mantra.
 

@@ -75,7 +75,7 @@ draft: false
 
 ---
 
-Sixth and final released chapter of [*US*](/albums/us/) (Jan 3, 2025), for now the last EP on streaming before the full LP exists.
+Sixth and final released chapter of [*US*](/albums/us/) (Jan 3, 2025). It opens the LP sequence. The full album is scheduled for **January 2027**.
 
 It opens on Bashō's *old pond* haiku, 古池や, frog and the sound of water, then hard-cuts to game brain: *speed run it, become rich and gun it*. Stillness, then main-character syndrome at full volume. The chorus grinds *life XP* and needs more DLC; verse two names the glitch when the loot screen turns up nothing: *digging through inventory and it's surprisingly empty*.
 
