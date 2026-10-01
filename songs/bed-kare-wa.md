@@ -19,6 +19,10 @@ press:
   - outlet: "SENSA"
     url: "https://sensa.jp/news/20250410-bed.html"
     desc: "オープニング曲 release; Fuji TV × Skybound HEART ATTACK."
+  - outlet: "Spotify Japan: New Music Wednesday archive"
+    url: "https://github.com/mackorone/spotify-playlist-archive/blob/dabd1915e68e25531b9068e5ea8cb232e17986eb/playlists/pretty/37i9dQZF1DWYBDycFJuxRt.md"
+    date: "2025-04-09"
+    desc: "Kare Wa 3.0 by bed at #68 on Spotify's New Music Wednesday. The April 9, 2025 archive lists 245,362 likes."
   - outlet: "Fuji TV: ContentAsia Awards 2025"
     url: "https://www.fujitv.com/whats-new/contentasiaawards2025/"
     date: "2025-09-05"
@@ -42,7 +46,7 @@ draft: false
 
 **bed**’s third iteration of “Kare Wa”, after the **2022** original and live **2.0** (documented on [*Archives : May 27th, 2023*](https://friendship.mu/en/release/archives-may-27th-2023/)), recorded as a new version for the Fuji TV × Skybound drama [**HEART ATTACK**](https://spincoaster.com/news/bed-kare-wa-3-0). [Spincoaster](https://spincoaster.com/news/bed-kare-wa-3-0) and [SENSA](https://sensa.jp/news/20250410-bed.html) report that director **Takeshi Maruyama** first imagined opening the show with the existing live-recorded **Kare Wa 2.0**; **bed** then proposed a newly recorded **3.0** as the definitive TV version.
 
-**bed** are a **2022**-formed Tokyo underground rave-rock/post-punk unit (UNE, SINJI, JONEU, SHUN-1) with a 2052 world-building concept and an anti-industry, live-first approach. The [Spotify credits pane](https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4) lists **Luke Francis Walton** as **Lyricist/Composer** (co-writer) and **Scoobert Doobert** as **Studio Producer**; Luke also **mixed** the track (bed sleepwell / FRIENDSHIP. release). The credit is documented on the [press kit](/press-kit/evidence/#bed-kare-wa). He posted a [production demo](https://www.instagram.com/scoobertdoobert.pizza/p/DIUQ1XfSvgv/) (**April 11, 2025**) syncing the bed mix to the actual *HEART ATTACK* opening sequence, the broadcast version he co-wrote, produced, and mixed as theme song.
+**bed** are a **2022**-formed Tokyo underground rave-rock/post-punk unit (UNE, SINJI, JONEU, SHUN-1) with a 2052 world-building concept and an anti-industry, live-first approach. The [Spotify credits pane](https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4) lists **Luke Francis Walton** as **Lyricist/Composer** (co-writer) and **Scoobert Doobert** as **Studio Producer**; Luke also **mixed** the track (bed sleepwell / FRIENDSHIP. release). The credit is documented on the [press kit](/press-kit/evidence/#bed-kare-wa). He posted a [production demo](https://www.instagram.com/scoobertdoobert.pizza/p/DIUQ1XfSvgv/) (**April 11, 2025**) syncing the bed mix to the actual *HEART ATTACK* opening sequence, the broadcast version he co-wrote, produced, and mixed as theme song. On release day, **April 9, 2025**, Spotify Japan’s **New Music Wednesday** had it at **#68**. The [playlist archive](https://github.com/mackorone/spotify-playlist-archive/blob/dabd1915e68e25531b9068e5ea8cb232e17986eb/playlists/pretty/37i9dQZF1DWYBDycFJuxRt.md) for that morning names the playlist, shows it as Spotify’s, and lists 245,362 likes. [FRIENDSHIP](https://friendship.mu/en/release/kare-wa-3-0/) is the release page.
 
 In September 2025, [Fuji TV](https://www.fujitv.com/whats-new/contentasiaawards2025/) announced that *HEART ATTACK* won Silver at the ContentAsia Awards for Best Drama Series Made in Asia for a Regional or International Market: the series's first international award, and Fuji TV's first win in that category. The award is the drama's, not a music prize. Hosted transcript: [Sources](/press-kit/evidence/#heart-attack-contentasia-silver). Earlier, with bed: [mother ship (Scoobert Doobert Remix)](/songs/mother-ship-scoobert-doobert-remix/) on the **April 2023** single.
 

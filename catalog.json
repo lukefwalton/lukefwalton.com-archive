@@ -32699,6 +32699,12 @@
           "desc": "オープニング曲 release; Fuji TV × Skybound HEART ATTACK."
         },
         {
+          "outlet": "Spotify Japan: New Music Wednesday archive",
+          "url": "https://github.com/mackorone/spotify-playlist-archive/blob/dabd1915e68e25531b9068e5ea8cb232e17986eb/playlists/pretty/37i9dQZF1DWYBDycFJuxRt.md",
+          "date": "2025-04-09",
+          "desc": "Kare Wa 3.0 by bed at #68 on Spotify's New Music Wednesday. The April 9, 2025 archive lists 245,362 likes."
+        },
+        {
           "outlet": "Fuji TV: ContentAsia Awards 2025",
           "url": "https://www.fujitv.com/whats-new/contentasiaawards2025/",
           "date": "2025-09-05",
@@ -33591,6 +33597,11 @@
           "url": "https://www.sonymusic.co.jp/artist/chai/info/563144"
         },
         {
+          "outlet": "Spincoaster: ジャジャーン era",
+          "url": "https://spincoaster.com/news/chai-appear-on-ntv-sukkiri",
+          "desc": "Coverage from the ラブじゃん / ジャジャーン period."
+        },
+        {
           "outlet": "Tower Records Japan: ジャジャーン",
           "url": "https://tower.jp/item/5579468",
           "desc": "Sony EP SICX-184 (Jan 18, 2023). 編曲 on ラブじゃん: CHAI and Scoobert Doobert. Same shared arrangement credit on まるごと and 夢のはなし."
@@ -33664,9 +33675,20 @@
           "url": "https://www.pastemagazine.com/music/chai/new-single-whole"
         },
         {
+          "outlet": "Spincoaster: まるごと",
+          "url": "https://spincoaster.com/news/chai-release-new-single-marugoto",
+          "date": "2022-01-12",
+          "desc": "Release piece on まるごと / WHOLE and the NHK 恋せぬふたり theme."
+        },
+        {
           "outlet": "Qetic: まるごと release (恋せぬふたり theme)",
           "url": "https://qetic.jp/music/chai-210112/421668/",
           "desc": "January 12, 2022: names Scoobert Doobert on サウンドプロデュース for NHK drama 恋せぬふたり theme."
+        },
+        {
+          "outlet": "SPICE: New Music Wednesday companion (Jan 12, 2022)",
+          "url": "https://spice.eplus.jp/articles/297572",
+          "desc": "January 13, 2022 companion coverage of that week’s Spotify New Music Wednesday. まるごと is in the selection, and the piece also says it was the cover of Edge!. Not a Spotify for Artists email."
         },
         {
           "outlet": "Sony Music Japan",
@@ -33766,8 +33788,14 @@
           "desc": "編曲 on 夢のはなし: CHAI and Scoobert Doobert."
         },
         {
-          "outlet": "Spincoaster",
-          "url": "https://spincoaster.com/news/chai-yumenohanashi"
+          "outlet": "Spincoaster: 夢のはなし",
+          "url": "https://spincoaster.com/news/chai-yumenohanashi",
+          "desc": "Coverage of 夢のはなし, including the さかなのこ film theme."
+        },
+        {
+          "outlet": "Spincoaster: 夢のはなし MV",
+          "url": "https://spincoaster.com/news/chai-yume-no-hanashi-mv",
+          "desc": "Music-video coverage of 夢のはなし."
         },
         {
           "outlet": "Bezzy: 夢のはなし release (さかなのこ theme)",
@@ -39854,6 +39882,12 @@
       "remixOf": "Miracle",
       "productionRoles": "Remix",
       "press": [
+        {
+          "outlet": "Spincoaster: WINK TOGETHER",
+          "url": "https://spincoaster.com/news/chai-share-ping-pong-feat-ymck-busy-p-remix-mv-from-wink-together",
+          "date": "2022-02-02",
+          "desc": "Names Miracle (Scoobert Doobert Remix) and describes Scoobert Doobert as the California-based artist who also sound-produced まるごと."
+        },
         {
           "outlet": "Sub Pop",
           "url": "https://www.subpop.com/releases/chai/wink_together"
