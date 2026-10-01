@@ -38,6 +38,8 @@ CHAI’s ***WINK TOGETHER*** remix EP (**Sub Pop SP1502**, **February 2, 2022**)
 
 CHAI heard Scoobert’s [**“I'm an Idiot”**](/songs/im-an-idiot/) from [*Big Hug*](/albums/big-hug/) after its Spotify New Music Friday add. Walton then worked across CHAI’s Japan catalog: bass, guitar, percussion, backing vocals, recording, mixing, and production, including [**WHOLE**](/songs/chai-whole/) (NHK *Koisenu Futari*), [**夢のはなし (MY DREAM)**](/songs/chai-yume-no-hanashi/), [**ラブじゃん（ That's Love）**](/songs/chai-thats-love/), and [**Chill Takatsu**](/songs/chai-chill-takatsu/) (CHAI × TAKATSU-KING). Illustrate Magazine’s 2022 feature on [“Who Am I Really Fooling Anyway”](/songs/who-am-i-really-fooling-anyway/) names the CHAI and Murakami production credits.
 
+**Spotify for Artists:** an email on **February 2, 2022** (10:24 a.m.) added the remix to **This Is CHAI** (3,981 followers), and another on **February 4, 2022** (11:21 a.m.) shows the same playlist at 3,990 followers. Two days after *WINK TOGETHER*.
+
 No original lyrics on this page: CHAI wrote “Miracle.” This entry is placement, credit, and streaming context for the remix.
 
 See also: [Music](/music/) · [Press](/press/) · [Catalog: CHAI, in order of credits](/catalog/#chai-spine) · [Catalog](/catalog/#remixes)

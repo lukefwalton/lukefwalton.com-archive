@@ -28,7 +28,7 @@ draft: false
 
 **[I Don't Speak French](/with/i-dont-speak-french/)** (IDSF) × **Scoobert Doobert**: **ABBA** cover **“Voulez-Vous”** · **August 4, 2023** (**Indieshake**). Pair with [*Protoplasmic Prison Cell*](/songs/protoplasmic-prison-cell/) (2022). Persson's rotating-roster project: psychedelic/punk/indie pop, Samsung and MTV sync history per the [with hub](/with/i-dont-speak-french/).
 
-[@indieshake](https://www.instagram.com/p/CvvKkvoNWFd/) × [@beformer](https://www.instagram.com/beformer/) five-slide carousel (**Aug 9, 2023**) celebrates official **Spotify New Music Friday**, **Indie Covers**, and **Apple Music New Music Daily**, artist/label collab; [@the_orchard_](https://www.instagram.com/the_orchard_/) tagged in caption.
+[@indieshake](https://www.instagram.com/p/CvvKkvoNWFd/) × [@beformer](https://www.instagram.com/beformer/) five-slide carousel (**Aug 9, 2023**) celebrates official **Spotify New Music Friday**, **Indie Covers**, and **Apple Music New Music Daily**, artist/label collab; [@the_orchard_](https://www.instagram.com/the_orchard_/) tagged in caption. Spotify for Artists emails name three of those adds directly: **New Music Friday Denmark** on **August 4, 2023**, 5:49 p.m. (107,344 followers); **Indie Covers** on **August 9**, 12:34 p.m. (283,747 followers); **Lotus** on **August 11**, 2:47 p.m. (21,417 followers).
 
 See [Catalog: collaborations](/catalog/#collaborations) · [Catalog: official playlists](/catalog/#spotify-editorial)
 

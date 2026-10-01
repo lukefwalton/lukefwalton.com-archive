@@ -93,7 +93,7 @@ It's an apartment tableau, traffic flowing past, eyes scanning for your car, a h
 
 The plea underneath the party is the whole song: *don't leave me dancing alone*, stacked at the outro until loneliness and motion become the same thing.
 
-See also: [*I*](/albums/i/) · [Catalog](/catalog/).
+A Spotify for Artists email on **July 13, 2024** (9:54 a.m.) added it to **Indie Brandneu** (167,616 followers). See also: [*I*](/albums/i/) · [Catalog](/catalog/).
 
 **SubmitHub Popular, Blogwave, All time, United States, September 29, 2026.** Rank 50, 42 points including +1 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
 

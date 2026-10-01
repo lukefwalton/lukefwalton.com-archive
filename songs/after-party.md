@@ -115,6 +115,6 @@ Third chapter of [*US*](/albums/us/), the after-hours turn. The club says capaci
 
 The verses admit the cost (running, falling, bruises nobody can account for), but the chorus isn't moralizing. It sings the rule everyone already knows, *nothing good ever happens after 2 am*, while breaking it on purpose. The after-party isn't a location, it's a refusal to let the night end on someone else's schedule. **Nicole McCabe** is on alto saxophone, the right instrument for a song about staying out past when the room has closed.
 
-Also on the chapter EP: [*AFTER-AFTER-PARTY*](/songs/after-after-party/), the hook-and-chorus sequel with no new verses.
+Also on the chapter EP: [*AFTER-AFTER-PARTY*](/songs/after-after-party/), the hook-and-chorus sequel with no new verses. A Spotify for Artists email on **May 3, 2025** (11:44 a.m.) added it to **Indie Brandneu** (177,904 followers).
 
 ---

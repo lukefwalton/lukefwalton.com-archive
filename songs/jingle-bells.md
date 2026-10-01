@@ -25,6 +25,6 @@ draft: false
 
 On **A Very Doobert Christmas, Vol. 1**: cover of **James Lord Pierpont’s** **“Jingle Bells.”** See also [*Winter Wonderland*](/songs/winter-wonderland/) and the instrumental pass [*Jingle Bells (Instrumental)*](/songs/jingle-bells-instrumental/).
 
-Standard holiday lyrics, not published here.
+Standard holiday lyrics, not published here. A Spotify for Artists email on **December 9, 2023** (10:45 a.m.) added it to **Indie Christmas** (172,946 followers).
 
 ---

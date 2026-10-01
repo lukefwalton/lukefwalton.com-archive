@@ -95,6 +95,6 @@ draft: false
 
 Track nine on [*MÖB*](/albums/mob/), the duality song. A 3 a.m. wake-up arrives tired and suddenly euphoric, and the chorus names the swing before the title does: *up and down*, stacked until it's the melody. The up-verse is an invitation to burn bright (dance with me, *too boring to be stable*, act like fools for eternity), and the bargain is explicit: *never gonna feel bad / always gonna feel good / let's lie to ourselves*. The punchline waits in parentheses: *the night will never end (Gemini) until it ends*.
 
-Wanting to outrun the sun (*maybe I could move to Alaska*) only loops back to 3 a.m. and euphoric again. On an album shadowed by Guillain-Barré and body instability, *Gemini* isn't just astrology; it's highs that demand a dance partner and lows that know the morning is coming. Sits between [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/) and [*All I Need*](/songs/all-i-need/).
+Wanting to outrun the sun (*maybe I could move to Alaska*) only loops back to 3 a.m. and euphoric again. On an album shadowed by Guillain-Barré and body instability, *Gemini* isn't just astrology; it's highs that demand a dance partner and lows that know the morning is coming. Sits between [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/) and [*All I Need*](/songs/all-i-need/). A Spotify for Artists email on **September 23, 2023** (12:06 p.m.) added it to **Bedroom Pop** (1,095,078 followers).
 
 ---

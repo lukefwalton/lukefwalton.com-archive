@@ -99,6 +99,6 @@ Standalone holiday single (**December 13, 2024** · Beformer), not on [*US*](/al
 
 The hook is the whole argument: *merry Christmas from the beach*, *it's alright to do it differently*. White caps for snow, a coastal pine for the Charlie Brown tree, sand angels and palm-tree lights, *a little bit chilly / at least to me*. SoCal winter as its own tradition.
 
-The invitation is homie geography like [*Feels So Good*](/songs/feels-so-good/): a December coastline walk, a bonfire, Kyle's campsite up in Carlsbad with the good beer and the good green. Not trying to win Christmas, just to mean it from where you actually live. See: [Catalog](/catalog/).
+The invitation is homie geography like [*Feels So Good*](/songs/feels-so-good/): a December coastline walk, a bonfire, Kyle's campsite up in Carlsbad with the good beer and the good green. Not trying to win Christmas, just to mean it from where you actually live. A Spotify for Artists email on **December 14, 2024** (7:13 p.m.) added it to **Indie Christmas** (253,769 followers). See: [Catalog](/catalog/).
 
 ---

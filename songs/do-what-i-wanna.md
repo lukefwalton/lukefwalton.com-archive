@@ -19,6 +19,8 @@ draft: false
 
 **Kevin Tubbs** (**Sanguine Penguin** · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **March 30, 2022**. Third in the Sanguine Penguin single cluster ([*Bumblebae*](/songs/bumblebae/), [*wowowow*](/songs/wowowow/)). Luke Francis Walton on the Scoobert side.
 
+A Spotify for Artists email on **October 7, 2022** (1:21 p.m.) added it to **omw** (151,612 followers).
+
 No press beyond streaming metadata.
 
 See [Catalog: collaborations](/catalog/#collaborations)

@@ -89,6 +89,6 @@ It opens in the same sunset language as [*chasing the sunset*](/songs/chasing-th
 
 Verse two asks when the internet started to suck. We used to paddle out and surf like an adventure; now you need to escape *the monster we made*. The title hook is both taunt and warning: *chew on this, don't choke*.
 
-See also: [*Stories*](/songs/stories/) · [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) · [Catalog](/catalog/).
+A Spotify for Artists email on **July 27, 2024** (10:12 a.m.) added it to **Indie Brandneu** (168,046 followers). See also: [*Stories*](/songs/stories/) · [*All My Friends Live on the Internet*](/songs/all-my-friends-live-on-the-internet/) · [Catalog](/catalog/).
 
 ---

@@ -61,7 +61,7 @@ draft: false
 
 Track thirteen, the [*I*](/albums/i/) closer. Coronado, Catalina, Sierra: a coast-to-mountain slice of the state, mapped in drift mode rather than hustle. The line that gives it more than postcard is *talking by the fire about fate*, the LP's only verse where the *u* and the *I* sit still long enough to argue cosmology. Everything else is the album exhaling.
 
-The second turn of the Möbius cycle ends on ease, before [*US*](/albums/us/) begins its chapter EPs in progress.
+The second turn of the Möbius cycle ends on ease, before [*US*](/albums/us/) begins its chapter EPs in progress. A Spotify for Artists email on **April 20, 2024** (10:38 a.m.) added it to **All New Indie** (1,270,398 followers).
 
 [**Lou Roy**](/with/lou-roy/), background vocals.
 

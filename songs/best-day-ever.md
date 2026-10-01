@@ -16,6 +16,12 @@ spotify: "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW"
 apple: "https://music.apple.com/us/song/best-day-ever/1832440500"
 youtube: "https://www.youtube.com/watch?v=wR2Ev0FaEms"
 
+press:
+  - outlet: "ALT77"
+    url: "https://alt77.com/violet-ultraray-and-scoobert-doobert-reviewed/"
+  - outlet: "Mix It All Up"
+    url: "https://mixitallup.com/2025/10/01/discover-scoobert-doobert-best-day-ever-new-single-review/"
+
 themes: ["Friendship", "Capitalism and work", "Weed", "2025"]
 
 isrc: QZWFV2556300
@@ -94,4 +100,6 @@ Standalone single (**September 2025** · Beformer / indiemono), released between
 
 Not every Scoobert song is a koan. This one is two dudes deciding the cubicle brother needs a summer, right now, in daylight. The perfect day isn't optimized. It's unexpected, kinda weird, kinda chaotic, maybe psychotic-looking to strangers until you win them over.
 
-"Better late than never" runs through the whole thing like a permission slip: you don't need the perfect plan or the perfect weather forecast, just the willingness to go outside and see what happens. The hook is literally just *we're gonna have the best day ever* repeated until you believe it.
+"Better late than never" runs through the whole thing like a permission slip: you don't need the perfect plan or the perfect weather forecast, just the willingness to go outside and see what happens. The hook is literally just *we're gonna have the best day ever* repeated until you believe it. A Spotify for Artists email on **September 14, 2025** (12:59 a.m.) added it to **DOPAMINE** (1,665,044 followers).
+
+[ALT77](https://alt77.com/violet-ultraray-and-scoobert-doobert-reviewed/) (September 25, 2025) reviewed it next to Violet UltraRay, calling it a summery ode about doing something good for a friend. [Mix It All Up](https://mixitallup.com/2025/10/01/discover-scoobert-doobert-best-day-ever-new-single-review/) (October 1, 2025) heard jangly indie-rock and pop, and read the lyric as making time for people you care about.

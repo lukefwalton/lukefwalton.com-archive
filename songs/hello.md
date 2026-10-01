@@ -106,6 +106,6 @@ Second single from [**Monterrey**](https://limonlimonmusic.bandcamp.com/album/mo
 
 Monterrey is the city in Nuevo León that gives the album its name, and the whole record has that dual-residency energy: Limón Limón rooted in LA but looking south. *Hello* sits toward the end of the record as the bittersweet moment before the close.
 
-Luke Francis Walton's role is **collaboration / feature**, not production for Limón Limón: he's a voice in the room, not the engineer. See [With Limón Limón](/with/limon-limon/) · [Catalog: collaborations](/catalog/#collaborations).
+Luke Francis Walton's role is **collaboration / feature**, not production for Limón Limón: he's a voice in the room, not the engineer. A Spotify for Artists email on **March 16, 2024** (10:29 a.m.) added it to **Indie Brandneu** (163,395 followers). See [With Limón Limón](/with/limon-limon/) · [Catalog: collaborations](/catalog/#collaborations).
 
 ---

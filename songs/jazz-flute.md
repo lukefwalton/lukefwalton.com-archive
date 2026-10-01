@@ -66,7 +66,7 @@ Second chapter of [*US*](/albums/us/), the unplugged fantasy after [*QUIET YOUR 
 
 The bridge is the earnest center, breathe in, breathe out, *we can make it if we stick together*, then the permission to slow it down. Not a travel montage and not the party refusal of [*AFTER-PARTY*](/songs/after-party/), just doing nothing together on purpose.
 
-The song's named instrument is on the recording: **Nicole McCabe** on flute. The track actually has the jazz flute it imagines digging out of the crates.
+The song's named instrument is on the recording: **Nicole McCabe** on flute. The track actually has the jazz flute it imagines digging out of the crates. A Spotify for Artists email on **May 24, 2025** (10:36 a.m.) added it to **Indie Brandneu** (178,191 followers).
 
 Also on the chapter EP: [*JAZZ FLUTE (MOAR FLUTE)*](/songs/jazz-flute-moar-flute/), a flute-forward **instrumental** of the same song, plus [*JAZZ FLUTE (Instrumental)*](/songs/jazz-flute-instrumental/). Lyrics stay on this page.
 

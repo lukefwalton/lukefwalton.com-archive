@@ -39,6 +39,6 @@ DistroKid cover. No lyrics published here.
 
 **[360° music video + spatial audio](https://www.youtube.com/watch?v=cAVzu5PS-F8)** with [Max Horwich](/with/max-horwich/), also on [Selected Videos](/music/#selected-videos).
 
-**Spotify editorial:** [@beformer confirmed Modern Psychedelia](https://www.instagram.com/p/CdYkhnKlR73/) (May 10, 2022) and [Indie Covers](https://www.instagram.com/p/Cd8d2nzrQ-_/) (May 24, 2022). See [Catalog: official playlists](/catalog/#spotify-editorial).
+**Spotify editorial:** [@beformer confirmed Modern Psychedelia](https://www.instagram.com/p/CdYkhnKlR73/) (May 10, 2022) and [Indie Covers](https://www.instagram.com/p/Cd8d2nzrQ-_/) (May 24, 2022). The Spotify for Artists email for Indie Covers arrived May 22, 2022, 10:17 a.m. (267,704 followers). See [Catalog: official playlists](/catalog/#spotify-editorial).
 
 ---

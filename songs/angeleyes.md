@@ -40,7 +40,7 @@ press:
 
 ---
 
-Standalone cover of **ABBA**’s **“Angeleyes”** (1979, Andersson/Ulvaeus) with [**Lou Roy**](/with/lou-roy/) on the feature vocal: **August 12, 2022** per streaming metadata. [@beformer announced official Spotify All New Indie placement](https://www.instagram.com/p/ChK7dGXP2L8/) the same day, then [Ultimate Indie](https://www.instagram.com/p/Chk5SZiv_JH/) **August 22, 2022**, and [Dinner with Friends](https://www.instagram.com/p/Ch20Lxav5Yk/) **August 29, 2022**. Roy also sings background vocals on six tracks of [*I*](/albums/i/) (see [with hub](/with/lou-roy/) and [album notes](/albums/i/)).
+Standalone cover of **ABBA**’s **“Angeleyes”** (1979, Andersson/Ulvaeus) with [**Lou Roy**](/with/lou-roy/) on the feature vocal: **August 12, 2022** per streaming metadata. [@beformer announced official Spotify All New Indie placement](https://www.instagram.com/p/ChK7dGXP2L8/) the same day, then [Ultimate Indie](https://www.instagram.com/p/Chk5SZiv_JH/) **August 22, 2022**, and [Dinner with Friends](https://www.instagram.com/p/Ch20Lxav5Yk/) **August 29, 2022**. A Spotify for Artists email on **May 5, 2023** (1:16 p.m.) added it to **Café Croissant** (208,842 followers). Roy also sings background vocals on six tracks of [*I*](/albums/i/) (see [with hub](/with/lou-roy/) and [album notes](/albums/i/)).
 
 Scoobert’s version keeps the original’s river-walk betrayal setup, *look into his angeleyes, you'll think you're in paradise*, but routes it through bedroom-pop production rather than disco glitter. The lowercase title matches other casual Scoobert single slugs from the period.
 

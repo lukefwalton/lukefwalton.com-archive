@@ -6,9 +6,9 @@
   "generatedAt": "2026-10-01",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "f81e17b7a86d1743d38ace6ada2399ff30b9302a"
+    "commit": "4d20b233ee69a224c8ed4dd23ac854af737cee49"
   },
-  "total": 684,
+  "total": 687,
   "counts": {
     "songs": 389,
     "albums": 29,
@@ -16,7 +16,7 @@
     "letters": 4,
     "publications": 1,
     "interviews": 29,
-    "lmm-episodes": 223,
+    "lmm-episodes": 226,
     "lmm-essays": 4
   },
   "catalog": "catalog.json",

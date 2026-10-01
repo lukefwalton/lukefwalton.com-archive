@@ -77,6 +77,6 @@ Fourth chapter of [*US*](/albums/us/) (April 4, 2025), the party *before* the af
 
 The pleasures keep failing on contact: the bottomless glass still bores you, the pill *don't hit that hard anymore*. So the chorus outsources the rest, *can you tell me if I'm happy? Better yet, can you control me?* Then the crack: soul heavy, eyes drooping, *oh no, why I'm thinking like this ain't for a reason?*
 
-Same nah-nah hook as [*LOL*](/songs/lol/), but here the crowd is the mirror. The chapter EP is otherwise instrumental only, with no sequel strip.
+Same nah-nah hook as [*LOL*](/songs/lol/), but here the crowd is the mirror. The chapter EP is otherwise instrumental only, with no sequel strip. A Spotify for Artists email on **April 5, 2025** (9:45 a.m.) added it to **Indie Brandneu** (176,821 followers).
 
 ---

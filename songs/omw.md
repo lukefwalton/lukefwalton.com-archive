@@ -76,6 +76,6 @@ Track eight on [*I*](/albums/i/), the **lead single** ahead of the LP. [EARMILK]
 
 The hook is domestic and specific: *do you want me to stop by Trader Joe's? / a frozen dinner for two*. Not a grand romantic gesture, a grocery run on the drive home. The whole song is the text-speak title, the stretch between departure and arrival, and the bridge echoes [*time with u*](/songs/time-with-u/): you could travel all the world, but *nothing like being on my way* back.
 
-On a record written across the Grand Tetons, Sierra Nevada, Mount Whitney, Shinkansen, and PCH, this is the **home vector**. Motion isn't wanderlust, it's the fast lane toward u. Pairs with [*don't drive sleepy*](/songs/dont-drive-sleepy/) and [*that's how u know i love u*](/songs/thats-how-u-know-i-love-u/).
+On a record written across the Grand Tetons, Sierra Nevada, Mount Whitney, Shinkansen, and PCH, this is the **home vector**. Motion isn't wanderlust, it's the fast lane toward u. Pairs with [*don't drive sleepy*](/songs/dont-drive-sleepy/) and [*that's how u know i love u*](/songs/thats-how-u-know-i-love-u/). A Spotify for Artists email on **June 16, 2024** (3:59 a.m.) added it to **Indie Brandneu** (166,820 followers).
 
 ---

@@ -103,6 +103,8 @@ Track eight on [*MÖB*](/albums/mob/), the manic permission-slip song. It opens 
 
 The hook is dumb on purpose: not the beach, not the movie, **bowling**, four times over. The most mundane rebellion wins, and the coda admits what's actually driving it: *I wanna quit my fucking job so badly*. [*All I Need*](/songs/all-i-need/) closes the album with enough; this track is what enough sounds like when you're still vibrating.
 
+Spotify for Artists emails in the release week: **All New Indie** on **September 9, 2023**, 10:08 a.m. (1,285,508 followers); **Bedroom Pop** on **September 10**, 9:49 a.m. (1,093,623 followers); **Fresh Finds** on **September 14**, 10:33 a.m. (1,162,266 followers).
+
 **SubmitHub Popular, Alternative / Indie, Slacker Rock, All time, September 29, 2026.** Rank 7 United States, rank 11 All countries. 37 points, including +4 #RGB bonus points. [Sources](/press-kit/evidence/#submithub-popular-2026-09-29).
 
 ---

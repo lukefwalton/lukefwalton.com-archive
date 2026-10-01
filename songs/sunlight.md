@@ -78,4 +78,6 @@ Track three on [*MÖB*](/albums/mob/), the turn toward warmth after [*Stories*](
 
 The line that carries it is *nobody needs me*. That's the freedom move: permission to exist without being on call, not martyrdom. On an LP shadowed by illness and dread, *Sunlight* is the choice to step into the light anyway. It pairs with [*Tired of the Sunshine*](/songs/tired-of-the-sunshine/) on [*Moonlight Beach*](/albums/moonlight-beach/) as the push-pull on California brightness. Here the vote is for the sun.
 
+Spotify for Artists emails on **July 30, 2023** added it to **Soirée** (1:51 a.m., 267,639 followers) and **come thru** (9:21 a.m., 49,831 followers). **Soirée** added it again on **February 17, 2024** (9:31 a.m., 307,256 followers).
+
 ---

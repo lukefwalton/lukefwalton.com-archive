@@ -114,6 +114,8 @@ Track eight on [*Moonlight Beach*](/albums/moonlight-beach/): the Japan song on 
 
 It's a whole trip taken entirely in the imagination: pre-flight jitters that lose to butterflies, a maximalist tourist itinerary of Shinkansen and 7-Eleven ramen, capybara onsen, a Miyazaki mountain hike, beer in the Sapporo snow. The chorus stacks *gonna go to Japan* until belief almost feels like booking. Then the brake: after the Japanese builds (*日本に行きたい*, I want to go to Japan), the last line lands, *けど今できない*, **but I can't right now**. The whole song is future tense, and that's the honest crack in it.
 
+A Spotify for Artists email on **August 25, 2023** (4:30 p.m.) added it to **Feel Good** (277,942 followers).
+
 [*I*](/albums/i/) was recorded partly on the Tōkaidō, San'yō, and Tōhoku Shinkansen. On *Moonlight Beach* Japan is still the horizon. See also [*MÖB*](/albums/mob/) and the Möbius tag on the closer.
 
 **Before the Shinkansen sessions:** Luke's first night in Japan, landing on his birthday, ended in a four-hour Kanda jam (20+ songs with local musicians). [Instagram TV archive](https://www.instagram.com/tv/CDZttU3lGrU/).

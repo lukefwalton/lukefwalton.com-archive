@@ -118,6 +118,11 @@
           "desc": "Live record (Oct 14, 2012): Aaron Dowler on bass; not the 413 EP lineup (Nick Petrou). Dowler's only known Exist Elsewhere recording."
         },
         {
+          "outlet": "Guild Guitars: acoustic Great Beyond and Digital Life",
+          "url": "https://web.archive.org/web/20210127205328/https://guildguitars.com/exist-elsewhere-records-acoustic-version-of-the-great-beyond-and-digital-life/",
+          "desc": "Guild Artist Showroom, Burbank: acoustic versions of The Great Beyond and Digital Life from Live on Isle of Wight Radio. Noah Benardout, Aaron Dowler, Luke Walton, Brandon Woodward. A Nov 2 show at Tommy's Place on the USC campus. The live Guild URL now 404s; this is the Jan 27, 2021 capture."
+        },
+        {
           "outlet": "DOLO Los Angeles: USC Thornton showcase (Apr 21, 2013)",
           "url": "https://dolosangeles.com/events/2013/4/21/usc-thronton-school-of-music-will-baldocchi-nick-campbell-leland-cox-rozzi-crane-annie-dingwall-suemy-gonzalez-barry-har",
           "desc": "Troubadour bill for the Popular Music Program's first graduating class. Luke Walton's bio on the page."
@@ -10111,6 +10116,33 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "fishbowls-of-influence",
+    "title": "Fishbowls of Influence",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/fishbowls-of-influence/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/fishbowls-of-influence/",
+    "archive": {
+      "markdown": "lmm-episodes/fishbowls-of-influence.md",
+      "html": "lmm-episodes/fishbowls-of-influence.html"
+    },
+    "source": "src/content/lmm-episodes/fishbowls-of-influence.md",
+    "metadata": {
+      "title": "Fishbowls of Influence",
+      "description": "Do good chords exist? What about bad chords? If they did, how would anyone know? This episode takes the case of the Tsimane', an Indigenous people in the Bolivian Amazon, and what their listening does to a Western idea of which chords are naturally pleasant.",
+      "status": "stub",
+      "date": "2026-09-15",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Fishbowls-of-Influence-e3oqha5",
+      "topicsDiscussed": [
+        "Music theory",
+        "Philosophy"
+      ],
+      "hostNote": "I ask whether good chords and bad chords exist, and how anyone would know. The case is the Tsimane', an Indigenous people in the Bolivian Amazon, and what their listening does to a Western idea of which chords are naturally pleasant.\n"
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "from-fugazi-to-olivia-rodrigo-the-history-of-rock-music-part-13",
     "title": "From Fugazi to Olivia Rodrigo - The History of Rock Music (Part 13)",
     "type": "PodcastEpisode",
@@ -18714,6 +18746,33 @@
       ],
       "transcriptPublished": false,
       "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "monkey-studies",
+    "title": "Monkey Studies",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/monkey-studies/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/monkey-studies/",
+    "archive": {
+      "markdown": "lmm-episodes/monkey-studies.md",
+      "html": "lmm-episodes/monkey-studies.html"
+    },
+    "source": "src/content/lmm-episodes/monkey-studies.md",
+    "metadata": {
+      "title": "Monkey Studies",
+      "description": "Last week was babies. This one points the same question at monkeys: do they have rhythm, and are they good coworkers?",
+      "status": "stub",
+      "date": "2026-09-29",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Monkey-Studies-e3p15h3",
+      "topicsDiscussed": [
+        "Music theory",
+        "Philosophy"
+      ],
+      "hostNote": "Last episode was babies. This one points the same question at monkeys: do they have rhythm, and are they good coworkers?\n"
     }
   },
   {
@@ -27858,6 +27917,33 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "what-babies-listen-to",
+    "title": "What Babies Listen To",
+    "type": "PodcastEpisode",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/what-babies-listen-to/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/what-babies-listen-to/",
+    "archive": {
+      "markdown": "lmm-episodes/what-babies-listen-to.md",
+      "html": "lmm-episodes/what-babies-listen-to.html"
+    },
+    "source": "src/content/lmm-episodes/what-babies-listen-to.md",
+    "metadata": {
+      "title": "What Babies Listen To",
+      "description": "A 2026 study looked at babies in the first two days of life and asked whether they can already predict music. What does that prediction say about music itself?",
+      "status": "stub",
+      "date": "2026-09-22",
+      "kind": "solo",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/What-Babies-Listen-To-e3p15fl",
+      "topicsDiscussed": [
+        "Music theory",
+        "Philosophy"
+      ],
+      "hostNote": "A study this year looked at babies aged 0 to 2 days and asked whether they can already predict music. I use that to ask what the prediction says about music itself.\n"
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "what-being-good-at-groove-is",
     "title": "What Being Good at Groove Is",
     "type": "PodcastEpisode",
@@ -32708,6 +32794,16 @@
       "spotify": "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW",
       "apple": "https://music.apple.com/us/song/best-day-ever/1832440500",
       "youtube": "https://www.youtube.com/watch?v=wR2Ev0FaEms",
+      "press": [
+        {
+          "outlet": "ALT77",
+          "url": "https://alt77.com/violet-ultraray-and-scoobert-doobert-reviewed/"
+        },
+        {
+          "outlet": "Mix It All Up",
+          "url": "https://mixitallup.com/2025/10/01/discover-scoobert-doobert-best-day-ever-new-single-review/"
+        }
+      ],
       "themes": [
         "Friendship",
         "Capitalism and work",
@@ -37814,7 +37910,6 @@
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=CCZppS-DMiE",
-      "officialVideo": "https://www.youtube.com/watch?v=sz0jHvnLYG4",
       "apple": "https://music.apple.com/us/album/im-an-idiot/1585121212?i=1585121218",
       "press": [
         {
@@ -37831,6 +37926,14 @@
           "outlet": "Beformer: Spotify New Music Friday (Instagram)",
           "url": "https://www.instagram.com/p/CTXwJA_FqMD/",
           "desc": "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI heard the song after this placement."
+        },
+        {
+          "outlet": "PAN WINYL",
+          "url": "https://panwinyl.pl/scoobert-doobert-im-an-idiot-nowosc-san-diego-usa/"
+        },
+        {
+          "outlet": "YouTube: production and songwriting commentary",
+          "url": "https://www.youtube.com/watch?v=sz0jHvnLYG4"
         }
       ],
       "themes": [
@@ -44518,6 +44621,20 @@
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/time-with-u/1734387671?i=1734387673",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
+      "press": [
+        {
+          "outlet": "Genius: Spotify New Music Friday 01/05/24",
+          "url": "https://genius.com/Spotify-new-music-friday-01-05-24-annotated"
+        },
+        {
+          "outlet": "Purple Melon: Indie Kids",
+          "url": "https://purplemelonmu.com/2024/01/11/indie-kids-underthepropaganda-sofi-gev-subway-rat-scoobert-doobert-aoife-odonovan-dinah-loose-buttons/"
+        },
+        {
+          "outlet": "ADNKDN",
+          "url": "https://adnkdn.eedama.me/time-with-u-scoobert-doobert"
+        }
+      ],
       "themes": [
         "Love",
         "I",

@@ -77,7 +77,7 @@ lyrics: |
 draft: false
 ---
 
-A Scoobert Christmas deep cut (2023): [**"Michael Bublé, My Santa Buddy"**](/songs/michael-buble-my-santa-buddy/) (original song, not a Bublé cover), also on [*A Very Doobert Christmas, Vol. 1*](/albums/a-very-doobert-christmas-vol-1/). Not part of the [*US*](/albums/us/) chapter cycle; it's seasonal standalone absurdism.
+A Scoobert Christmas deep cut (2023): [**"Michael Bublé, My Santa Buddy"**](/songs/michael-buble-my-santa-buddy/) (original song, not a Bublé cover), also on [*A Very Doobert Christmas, Vol. 1*](/albums/a-very-doobert-christmas-vol-1/). Not part of the [*US*](/albums/us/) chapter cycle; it's seasonal standalone absurdism. A Spotify for Artists email on **November 11, 2023** (9:22 a.m.) added it to **La magie de Noël** (70,825 followers).
 
 The joke is affection without irony poisoning it: Michael Bublé as a Canadian hibernating creature who must emerge each winter to sing for the children kept inside, hockey bro, Vegas carnival energy, platonic Santa Buddy. The middle verse runs the holiday songbook (Fanny Bright, silent night, Frosty), asks whether Frosty's corncob pipe had CBD in it, then panics that Michael might be *done*, leaving only one theology: **loop the playlist**.
 

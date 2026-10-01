@@ -83,7 +83,7 @@ The regret comes without drama (*shoulda savored*, *never in another world*) and
 
 Released ahead of the LP as a single. [Apple Music](https://music.apple.com/gb/song/see-you-again/1734387742) credits **Luke Walton** as songwriter and **Scoobert Doobert** as producer, with **Riley Knapp** mastering.
 
-On an album full of *u* and motion, this is the track that stops for **who isn't here anymore**. See also: [Catalog](/catalog/).
+On an album full of *u* and motion, this is the track that stops for **who isn't here anymore**. A Spotify for Artists email on **March 23, 2024** (12:35 p.m.) added it to **Today's Indie Rock** (833,968 followers). See also: [Catalog](/catalog/).
 
 [**Lou Roy**](/with/lou-roy/), background vocals.
 

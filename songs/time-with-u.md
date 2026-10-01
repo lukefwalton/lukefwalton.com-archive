@@ -15,6 +15,14 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 apple: "https://music.apple.com/us/album/time-with-u/1734387671?i=1734387673"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
 
+press:
+  - outlet: "Genius: Spotify New Music Friday 01/05/24"
+    url: "https://genius.com/Spotify-new-music-friday-01-05-24-annotated"
+  - outlet: "Purple Melon: Indie Kids"
+    url: "https://purplemelonmu.com/2024/01/11/indie-kids-underthepropaganda-sofi-gev-subway-rat-scoobert-doobert-aoife-odonovan-dinah-loose-buttons/"
+  - outlet: "ADNKDN"
+    url: "https://adnkdn.eedama.me/time-with-u-scoobert-doobert"
+
 themes: ["Love", "I", "u", "2024"]
 
 isrc: QZWFK2378378
@@ -66,6 +74,8 @@ draft: false
 ---
 
 Track two on [*I*](/albums/i/), out ahead of the LP as a single. [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-time-with-u-pop-music-review) heard catchy, harmonic bedroom/lo-fi pop.
+
+**Spotify worldwide New Music Friday, January 5, 2024.** [Genius](https://genius.com/Spotify-new-music-friday-01-05-24-annotated) transcribes that week's playlist and lists **Scoobert Doobert – time with u** between Henrik and guardin. [Purple Melon](https://purplemelonmu.com/2024/01/11/indie-kids-underthepropaganda-sofi-gev-subway-rat-scoobert-doobert-aoife-odonovan-dinah-loose-buttons/) (January 11, 2024) names the same add and **All New Indie**. The same two worldwide New Music Friday adds are this song and [*I'm an Idiot*](/songs/im-an-idiot/) (September 3, 2021). [ADNKDN](https://adnkdn.eedama.me/time-with-u-scoobert-doobert) (March 3, 2024) filed it as a 2024 best-song candidate and noted the CHAI remix. Spotify for Artists emailed the New Music Friday add the next morning, **January 6, 2024** at 9:06 a.m. (4,194,861 followers), and added the song to **Bedroom Pop** on **January 13, 2024** at 4:33 p.m. (1,104,107 followers).
 
 The opener names the bit: *I think my phone is dead but I might leave it that way*. The chorus completes the thought, and it isn't "I miss you" or "I want you," it's *nothing on the internet that's shiny and new*. On a travel record full of Shinkansen and PCH, this is the song that picks the sofa, stacking *nothing in particular* until nothing sounds like a destination.
 

@@ -14,7 +14,6 @@ credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Rile
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=CCZppS-DMiE"
-officialVideo: "https://www.youtube.com/watch?v=sz0jHvnLYG4"
 apple: "https://music.apple.com/us/album/im-an-idiot/1585121212?i=1585121218"
 
 press:
@@ -27,6 +26,10 @@ press:
   - outlet: "Beformer: Spotify New Music Friday (Instagram)"
     url: "https://www.instagram.com/p/CTXwJA_FqMD/"
     desc: "September 3, 2021: @beformer announces I'm an Idiot on the official Spotify New Music Friday playlist; CHAI heard the song after this placement."
+  - outlet: "PAN WINYL"
+    url: "https://panwinyl.pl/scoobert-doobert-im-an-idiot-nowosc-san-diego-usa/"
+  - outlet: "YouTube: production and songwriting commentary"
+    url: "https://www.youtube.com/watch?v=sz0jHvnLYG4"
 
 themes: ["self-deprecation", "Anxiety", "The pandemic", "spotlight effect", "Big Hug", "2021"]
 
@@ -131,7 +134,7 @@ draft: false
 
 ---
 
-Track six on [*Big Hug*](/albums/big-hug/), a single pitched ahead of the album in **September 2021** and added to [**Spotify New Music Friday**](https://www.instagram.com/p/CTXwJA_FqMD/) around release ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). Luke solo. [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
+Track six on [*Big Hug*](/albums/big-hug/), a single pitched ahead of the album in **September 2021** and added to **Spotify's worldwide New Music Friday** ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). The other worldwide New Music Friday add is [*time with u*](/songs/time-with-u/) (January 5, 2024). Luke solo. [PAN WINYL](https://panwinyl.pl/scoobert-doobert-im-an-idiot-nowosc-san-diego-usa/) (September 12, 2021, Tomasz Olszewski) names the same **New Music Friday** add and **Fresh Finds**. Spotify for Artists emails: **Fresh Finds** on September 9, 2021 (849.3k followers), then **Fresh Finds: Pop** that night at 11:00 p.m. and again on September 10 at 2:18 p.m. (134.4k followers). The New Music Friday email arrived **September 4, 2021** at 12:20 p.m. (3.8 million followers), the morning after Beformer's announcement. [Production and songwriting commentary](https://www.youtube.com/watch?v=sz0jHvnLYG4) is on the Scoobert Doobert YouTube channel. The audio upload is [here](https://www.youtube.com/watch?v=CCZppS-DMiE). [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
 
 The verses run a familiar tape. Faking the laugh and correcting mid-bit (*ooo yeah, I mean no, I'm sorry dude, I didn't follow*), envying the narcissists who *shoot they shot and never think they miss*, then lying awake while the brain keeps *skipping* over stupid things you've said. The bridge is a clean statement of the [spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect): nobody is really looking your way, you're only that important in your own head. The flip is generous, *if anything you might be a little entertained by this idiot*, the performance of idiocy turned into the actual product.
 
