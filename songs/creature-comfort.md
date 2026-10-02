@@ -125,6 +125,6 @@ Track three on [*Masks and Monsters*](/albums/masks-and-monsters/), also a stand
 
 The verses run on shrunk ambitions (scream, nap, ask Alexa for pizza), with travel and bar culture filed under lost pleasures and social life deferred to *when the future ends*. The pre-chorus names the moral math of early COVID plainly: *I'm not a killa, so I'll stay in my home*. Responsibility as simply staying put. The best line balances small mercies against endless dishes, *creature comfort come and comfort me, then wash another pan*, and a break drops the March 2020 panic into a single word: *(toilet paper)*. The outro loops *time to celebrate, no time to celebrate*, holidays on the calendar with no party to throw.
 
-Same locked-in room and grin-under-pressure as [*A Good Life*](/songs/a-good-life/). Pairs with [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) and [*Pandemic Blues*](/songs/pandemic-blues/); the exhale comes later on [*2020 Is Over*](/songs/2020-is-over/).
+Same locked-in room and grin-under-pressure as [*A Good Life*](/songs/a-good-life/). Pairs with [*Snuggle With Shaggy*](/songs/snuggle-with-shaggy/) and [*Pandemic Blues*](/songs/pandemic-blues/); the exhale comes later on [*2020 Is Over*](/songs/2020-is-over/). A 2022 [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/comments/uzgof5/iil_chill_bedroom_pop_like_slum_sociable_still/) post asks for chill bedroom pop like Slum Sociable and Still Woozy. The thread did not reopen here, so the reply is not transcribed.
 
 ---

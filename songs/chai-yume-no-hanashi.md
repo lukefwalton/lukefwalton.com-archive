@@ -65,7 +65,7 @@ Released **August 3, 2022** as the theme for [沖田修一](https://ja.wikipedia
 
 Non later wrote a [release congratulations comment](https://natalie.mu/music/news/542174) for CHAI’s self-titled album **CHAI** (Sep 22, 2023), alongside Shingo Murakami, Kaho Nakamura, Orono, [**Rivers Cuomo**](https://en.wikipedia.org/wiki/Rivers_Cuomo), and Sui Ishida. Cuomo separately added Walton/Woodward’s FEiN satire [**#Grownupz**](/songs/grownupz/) (**FEiN Times Issue #1**) to his public Spotify playlist [**DJ set**](https://open.spotify.com/playlist/7ecIc0b9WmaP3soJSyZPB0) on **Feb 27, 2016** (track 3; playlist note: *here's the set I played at Melissa's party*): same title string, different song.
 
-Walton's other CHAI credits: the Sub Pop [Miracle remix](/songs/miracle-scoobert-doobert-remix/), the NHK theme [WHOLE](/songs/chai-whole/) (まるごと), [ラブじゃん（ That's Love）](/songs/chai-thats-love/), and [Chill Takatsu](/songs/chai-chill-takatsu/). See [With CHAI](/with/chai/) for the full list.
+Walton's other CHAI credits: the Sub Pop [Miracle remix](/songs/miracle-scoobert-doobert-remix/), the NHK theme [WHOLE](/songs/chai-whole/) (まるごと), [ラブじゃん（ That's Love）](/songs/chai-thats-love/), and [**だれかおるやろ feat. CHAI**](/songs/chai-dareka-oru-yaro/). See [With CHAI](/with/chai/) for the full list.
 
 No Scoobert lyrics. See [Press](/press/) · [Catalog](/catalog/#production)
 

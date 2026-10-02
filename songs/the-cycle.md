@@ -72,6 +72,6 @@ Track three on [*I*](/albums/i/). The title echoes the **Möbius** cycle (MÖB, 
 
 On an LP mostly about *u*, travel, and tenderness, this is the crack where the singer admits how harm propagates and how easy it is to numb past it. It sits after [*daydreaming*](/songs/daydreaming/) and before [*ez pz*](/songs/ez-pz/); neither solves the loop, they alternate with it.
 
-[**Lou Roy**](/with/lou-roy/), background vocals.
+[**Lou Roy**](/with/lou-roy/), background vocals. [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-the-cycle-pop-music-review) (February 13, 2024) is a short Greek blurb; the English on the page is marked as an automatic translation, and it calls the melody relaxed and the vocals a tonic.
 
 ---

@@ -24,7 +24,7 @@ draft: false
 
 **[Brian Robert Jones](/with/brian-robert-jones/)**: bass (SoundCloud: *Brian Jones*) · **Eric Radloff**: hype man · **Brandon Woodward**: drums/percussion/keys · **Luke Walton**: guitar/keys · **Lara Johnston**: vocals · **produced and recorded by FEiN at Tiny Giant** · **Frank Rosato**: mixing/mastering ([Woodcliff Studios](/with/frank-rosato/)).
 
-Walton toured as guitarist/vocalist with Lara Johnston (Doobie Brothers, Gregg Allman) before this studio collab (see [Lara Johnston](/with/lara-johnston/); she now performs as **Lara Lucille**: [Facebook](https://www.facebook.com/LaraLucilleSings)). Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** alongside [Out of My Mind](/songs/out-of-my-mind/), [Boomerang (with FEiN)](/songs/boomerang/), and [Remember Us](/songs/remember-us/) (Embody / Armada).
+Walton toured as guitarist/vocalist with Lara Johnston (Doobie Brothers, Gregg Allman) before this studio collab (see [Lara Johnston](/with/lara-johnston/); she now performs as **Lara Lucille**: [Facebook](https://www.facebook.com/LaraLucilleSings)). Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** alongside [Boomerang (with FEiN)](/songs/boomerang/) and [Remember Us](/songs/remember-us/) (Embody / Armada).
 
 See [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [Lara Johnston](/with/lara-johnston/)
 

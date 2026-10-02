@@ -1,7 +1,7 @@
 ---
 title: "Rise"
 
-meaning: "Tamtam: Rise (2018); produced by Luke Walton and Brandon Woodward (FEiN). Luke Walton remembers playing on the record; streaming metadata does not surface that credit."
+meaning: "Tamtam: Rise (2018). Luke Walton and Brandon Woodward produced it. Luke also played guitar and synths and recorded it. Guitar, synths, and recording are his account; they are not on the streaming credit line."
 
 year: 2018
 releaseType: "single"
@@ -22,6 +22,10 @@ press:
     url: "https://fekrarabia.com/music"
   - outlet: "Tamtam: Rise (YouTube MV credits)"
     url: "https://www.youtube.com/watch?v=EiePL0e9p7o"
+  - outlet: "Instagram: @hueditor BTS, Rise video shoot"
+    url: "https://www.instagram.com/hueditor/"
+    date: "2019-01-24"
+    desc: "DP behind-the-scenes, posted Jan 24, 2019, shoot spring 2018 in Acton. Names Meshal as the director they shot for and @maan__b as video producer. Luke Walton is tagged. The song’s producers remain FEiN."
   - outlet: "The New Arab"
     url: "https://www.newarab.com/features/tamtam-saudi-pop-star-nurturing-saudi-arabias-music-scene"
   - outlet: "What's On: Tamtam names FEiN (Walton + Woodward)"
@@ -43,9 +47,13 @@ draft: false
 
 **Tamtam** (Reem Altamimi), co-written with **Jordan Benjamin (Grandson)**; **produced by Brandon Woodward and Luke Walton** ([FEiN](/music/fein/)). Video directed by **Meshal Al Jaser**.
 
-[Genius](https://genius.com/Tamtam-rise-lyrics), [FEKR’s *Meet Tamtam* feature](https://fekrarabia.com/music), and the [official MV description](https://www.youtube.com/watch?v=EiePL0e9p7o) all name **Luke Walton and Brandon Woodward** as producers (Genius and FEKR also frame them as **FEiN**); lyrics **Tamtam & Grandson**; mixed **Frank Rosato**; mastered **Riley Knapp**; video **Meshal Al Jaser**. **Production is public record.** Luke Walton **remembers playing on the record**; unlike [**ROLLERCOASTER**](/songs/rollercoaster/) (2023), *Rise* does not surface instrumentation in Apple/Spotify credits metadata. That role is remembered, not documented.
+[Genius](https://genius.com/Tamtam-rise-lyrics), [FEKR’s *Meet Tamtam* feature](https://fekrarabia.com/music), and the [official MV description](https://www.youtube.com/watch?v=EiePL0e9p7o) all name **Luke Walton and Brandon Woodward** as producers (Genius and FEKR also frame them as **FEiN**); lyrics **Tamtam & Grandson**; mixed **Frank Rosato**; mastered **Riley Knapp**; video **Meshal Al Jaser**. He also played **guitar** and **synths** and **recorded** the track. That is his account. Unlike [**ROLLERCOASTER**](/songs/rollercoaster/) (2023), *Rise* does not put guitar, synths, or recording on the Apple/Spotify credit line.
 
-**Kuwait Rising** (**April 27, 2018**): **Luke Francis Walton performed live** with Tamtam, named in the [Lyn Winter *Rise* press release](https://lynwinter.com/media/pages/news/tamtam-releases-music-video-rise/75dd3e98d8-1607628493/rise-press-release-final-8-15.pdf) (Aug 2018). Separate from the studio played-on memory above.
+**Kuwait Rising** (**April 27, 2018**): **Luke Francis Walton performed live** with Tamtam, named in the [Lyn Winter *Rise* press release](https://lynwinter.com/media/pages/news/tamtam-releases-music-video-rise/75dd3e98d8-1607628493/rise-press-release-final-8-15.pdf) (Aug 2018). That is the live date, separate from the studio guitar, synths, and recording.
+
+The shoot’s public behind-the-scenes is a post by the director of photography, [@hueditor](https://www.instagram.com/hueditor/) (Acton, California), **January 24, 2019**. The caption calls it BTS from the **Rise** video, spring 2018, DP for Meshal Al Jaser, and says the video was produced by @maan__b. That producer line is the video. The record’s producers stay FEiN. Luke Walton is tagged on the post. The tag is not a credit.
+
+**Neuehouse Hollywood** (**April 30, 2019**): [@tamtamsound](https://www.instagram.com/tamtamsound/) posted a story from the **Rise** premiere. The caption says Luke Walton was on guitar, and calls him “the greatest guitar player of all time, my friend and fellow musician I will go with on tour one day soon.” That praise is the post. The photo shows him with a guitar beside the singer.
 
 See also: [Drive](/songs/drive/) (executive producer) · [ROLLERCOASTER](/songs/rollercoaster/) (2023, producer · Apple Music credits). [Credited Work](/catalog/#credited-work) · [FEiN Collaboration](/music/fein/#collaboration) · [With Tamtam](/with/tamtam/)
 

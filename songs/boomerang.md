@@ -62,6 +62,6 @@ Walton **co-wrote** Boomerang; did **not** write [*Between Dreams*](/albums/betw
 
 Long distance as physics. The verses run on departure arithmetic, the parenthetical countdowns (*six hours til I see you*, then *nine* once the flight slips) stretching the absence before it even begins. Home gets measured in visit length: *this trip will only last a week or two*.
 
-The title turns that motion into an identity the narrator can't shake. *Spun back and forth just like a boomerang*, the want is plain and repeated (*I wanna stay*) but overruled by the return arc built into the trip. Opposite of [*Roadtrip*](/songs/roadtrip/) (*doesn't really matter anyway*): here the narrator wants the little home to stick. Pairs with [*Out of My Mind*](/songs/out-of-my-mind/) (can't leave the ex in memory).
+The title turns that motion into an identity the narrator can't shake. *Spun back and forth just like a boomerang*, the want is plain and repeated (*I wanna stay*) but overruled by the return arc built into the trip. Opposite of [*Roadtrip*](/songs/roadtrip/) (*doesn't really matter anyway*): here the narrator wants the little home to stick.
 
 ---

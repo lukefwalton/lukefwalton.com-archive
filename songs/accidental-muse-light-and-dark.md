@@ -20,7 +20,7 @@ isrcSource: spotify
 draft: false
 ---
 
-**Light and Dark** (2018): **Accidental Muse** and **Tamtam** single from the five-track 2018 run alongside [Home](/songs/accidental-muse-home/), [The Way We Move](/songs/accidental-muse-the-way-we-move/), [Chill Vibes](/songs/accidental-muse-chill-vibes/), and [Weakness](/songs/accidental-muse-weakness/). **Luke Francis Walton**: composer, co-writer, recording engineer, mix engineer; keys and guitar.
+**Light and Dark** (2018): **Accidental Muse** and **Tamtam** single from the 2018 run, with [Summertime Feeling](/songs/accidental-muse-summertime-feeling/), [Home](/songs/accidental-muse-home/), [The Way We Move](/songs/accidental-muse-the-way-we-move/), [Chill Vibes](/songs/accidental-muse-chill-vibes/), and [Weakness](/songs/accidental-muse-weakness/). **Tamtam sang** on every Accidental Muse song. Luke Walton's account. **Luke Francis Walton**: composer, co-writer, recording engineer, mix engineer; keys and guitar.
 
 No Scoobert lyrics. See [With Tamtam](/with/tamtam/) · [Catalog](/catalog/#production)
 

@@ -32,6 +32,6 @@ Scoobert Doobert remix of **bed’s** **“mother ship.”** The remix dropped a
 
 [Crack](https://crackmagazine.net/article/profiles/bed-tokyo-band-interview/) and [GATA](https://gatamagazine.com/articles/music/bed-tokyos-post-punk-renegades) describe the live scene: techno kicks under big riffs, bedroom parties at Shibuya clubasia, warehouse-scale raves. Walton later co-wrote, co-produced, and mixed [**Kare Wa 3.0**](/songs/bed-kare-wa/) (**2025** Fuji TV × Skybound live-action *HEART ATTACK* OP).
 
-No original lyrics, bed wrote “mother ship.” See [With bed](/with/bed/) · [Catalog](/catalog/#remixes)
+No original lyrics, bed wrote “mother ship.” A [J-WAVE / radiko](https://radiko.jp/mobile/events/13449619) page was reported to list the remix at 02:43 on June 9, 2026. That page did not open here, so the cue is not confirmed. See [With bed](/with/bed/) · [Catalog](/catalog/#remixes)
 
 ---

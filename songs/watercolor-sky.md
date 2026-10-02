@@ -78,7 +78,7 @@ Track six on [*I*](/albums/i/), released ahead of the LP as a single. It opens a
 
 What keeps it from toxic positivity is that the beauty stays honest. The garden breeze is *the only hope I'm finding*, the sun is beating down, and the mosquitos get a verse of dark comedy: *surely you could swallow me whole in time*. Outside anyway. The *I* album's **look up** song.
 
-A Spotify for Artists email on **March 2, 2024** (9:52 a.m.) added it to **Indie Brandneu** (162,866 followers). Also on [Catalog](/catalog/) as a 2024 single.
+A Spotify for Artists email on **March 2, 2024** (9:52 a.m.) added it to **Indie Brandneu** (162,866 followers). [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-watercolor-sky-pop-music-review) reviewed it on March 11, 2024. The page is a template: the English blurb is marked as an automatic translation, and the quoted line says "her voice." Also on [Catalog](/catalog/) as a 2024 single.
 
 [**Lou Roy**](/with/lou-roy/), background vocals.
 

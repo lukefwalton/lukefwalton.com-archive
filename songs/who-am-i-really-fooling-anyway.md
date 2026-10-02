@@ -120,6 +120,6 @@ The anxiety gets specific in the recurring-dream verse: you graduate, get the jo
 
 Same KŌAN C identity question as [*What Makes You You*](/songs/what-makes-you-you/) and [無門関](/songs/mumonkan/): if you're faking it, who's the you underneath? [The Bent Stick](/writing/the-bent-stick/) takes the other side, on standing behind what you can't prove.
 
-**Spotify editorial:** [@beformer confirmed Indie Pop](https://www.instagram.com/p/Cd1Q6u-v1hF/) (May 21, 2022) and [Bedroom Pop](https://www.instagram.com/p/Ce1qzrVPiys/) (June 15, 2022). A Spotify for Artists email the same afternoon as the Indie Pop post (1:20 p.m.) lists 1,695,153 followers. See [Catalog: official playlists](/catalog/#spotify-editorial).
+**Spotify editorial:** [@beformer confirmed Indie Pop](https://www.instagram.com/p/Cd1Q6u-v1hF/) (May 21, 2022) and [Bedroom Pop](https://www.instagram.com/p/Ce1qzrVPiys/) (June 15, 2022). A Spotify for Artists email the same afternoon as the Indie Pop post (1:20 p.m.) lists 1,695,153 followers. See [Catalog: official playlists](/catalog/#spotify-editorial). [91X Loudspeaker](https://www.91x.com/91x/loudspeaker-playlist-7-10-22/) played it in the 7 p.m. block on July 10, 2022, posted July 13.
 
 ---

@@ -97,4 +97,6 @@ The fantasy is built from things the narrator has never had. *Will you protect m
 
 The koan never resolves. You just sing yourself uphill. Pairs with [*Boardwalk*](/songs/boardwalk/) as KŌAN A's movement against wandering: one wants altitude, the other can't leave the sand.
 
+[Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-lets-move-to-the-top-of-a-mountain-spotify) (February 5, 2022) heard indie pop and calm vocals, and printed his note that the song is about wanting to live in the Sierra Nevadas, where the air is thinner and the cell service is scant, and watching a sunrise on a rooftop with someone you love.
+
 ---

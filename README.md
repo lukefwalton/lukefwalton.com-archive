@@ -42,7 +42,7 @@ domain while this copy stays a durable, citable fallback.
 - **writing**: 5
 - **letters**: 4
 - **publications**: 1
-- **interviews**: 29
+- **interviews**: 30
 - **lmm-episodes**: 226
 - **lmm-essays**: 4
 

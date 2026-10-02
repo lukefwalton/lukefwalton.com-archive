@@ -98,4 +98,8 @@ The hook is a contradiction the song keeps on purpose: *all my friends live on t
 
 Then infrastructure as comedy: Wi-Fi down, DSP throttling, slap the router, neighbor's password is *Secret123*. Lucky me. A platonic love song for people who only exist as voice and memes and late-night co-op, and it treats that as worth celebrating. Pairs with [*5G BABY*](/songs/5g-baby/) (always-on pocket love) and [*4:20 pm*](/songs/4-20-pm/) (shared lonely rock). KŌAN C cluster with [*Who Am I Really Fooling Anyway*](/songs/who-am-i-really-fooling-anyway/), [無門関](/songs/mumonkan/), [*What Makes You You*](/songs/what-makes-you-you/).
 
+**USEN, channel D-03.** [Koji Takahashi / 高橋孝治](https://note.com/usen_apres_midi/n/nfe9be1d050cc), in the usen for Cafe Apres-midi crew notes for August 29–October 9, 2022 (published August 29), puts *All My Friends Live On The Internet* in the late-dinner stretch of his Early Autumn Selection, after Drugdealer's "Madison" and Steve Lacy's "Bad Habit." He picks it again in the [2022 Best Selection](https://note.com/usen_apres_midi/n/n8e94c5c8b949) (published December 26, 2022, on air December 26–January 15). That is a named selector on a Japanese in-store music channel, not a claim about how many cafes played it.
+
+**Phoenix FM.** Nick Field's [Curveballs](https://phoenixfm.com/2022/12/30/curveballs-28th-december-2022-highlights-year/) highlights of the year, broadcast December 28, 2022, include the song. The post also lists Phoenix FM live sessions by other artists. This song is not one of those sessions.
+
 ---

@@ -108,7 +108,7 @@ The verses are 2017 collapse poetry: Nietzsche, fallen Rome, and Flint-era poiso
 
 The actual song lives in the chorus: *hanging on, I barely am... will you be my friend?* The bridge loops *if we could love, then we could be friends* until it slides into *then we'd be my friend*: friendship with the self, by way of the character. Same move as [*What a Velma What a Night*](/songs/what-a-velma-what-a-night/), only darker.
 
-A live version later appeared on *Live from the Void* (2020). FEiN rerecorded the song as [*Friend*](/songs/friend/) (**2018** single): shorter, theatrical pop, no Scoobert in the title, *steel your mind* and *though I know I am* in the chorus.
+A live version later appeared on *Live from the Void* (2020). FEiN rerecorded the song as [*Friend*](/songs/friend/) (**2018** single): shorter, theatrical pop, no Scoobert in the title, *steel your mind* and *though I know I am* in the chorus. [r/Scoobydoo](https://www.reddit.com/r/Scoobydoo/comments/glo8mp/scoobert_doobert_my_friend_scoobert_doo_music/) shared the video in 2020.
 
 Pairs with [*My Meddling Kids (Hallelujah Sexy)*](/songs/my-meddling-kids-hallelujah-sexy/) on the same LP and leads toward [*Damned*](/songs/damned/) and [*Mother of Exile*](/songs/mother-of-exile/) before [*$WAMI$*](/albums/wami/).
 
