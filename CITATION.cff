@@ -19,8 +19,8 @@ identifiers:
     value: "https://github.com/lukefwalton/lukefwalton.com-archive"
 repository-code: "https://github.com/lukefwalton/lukefwalton.com-archive"
 url: "https://github.com/lukefwalton/lukefwalton.com-archive"
-version: 3.0.0
-date-released: "2026-09-15"
+version: 4.0.0
+date-released: "2026-10-02"
 keywords:
   - web archive
   - digital preservation
@@ -40,7 +40,7 @@ preferred-citation:
     - family-names: Walton
       given-names: Luke F.
   title: "lukefwalton.com: Durable Website Archive and Source Corpus"
-  version: 3.0.0
-  date-released: "2026-09-15"
+  version: 4.0.0
+  date-released: "2026-10-02"
   doi: 10.5281/zenodo.20683155
   url: "https://github.com/lukefwalton/lukefwalton.com-archive"
