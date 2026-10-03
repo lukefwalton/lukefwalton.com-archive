@@ -39,7 +39,7 @@ domain while this copy stays a durable, citable fallback.
 
 - **songs**: 389
 - **albums**: 29
-- **writing**: 5
+- **writing**: 6
 - **letters**: 4
 - **publications**: 1
 - **interviews**: 30
