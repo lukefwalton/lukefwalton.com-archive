@@ -39,6 +39,8 @@ The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**).
 |------|--------|
 | **MÖBIUS** (fourth turn) | Planned LP, no release yet |
 
+The stated goal for the fourth turn: loop in the whole Scoobert history, the broader network, and the other works, and blend what is fact and what is fiction. Nothing from it is released, so nothing from it is described here.
+
 When the fourth LP ships, it will get its own release page.
 
 See also: [Catalog: Möbius cycle](/catalog/#moebius-cycle) · [Music](/music/)
