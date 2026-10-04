@@ -1,7 +1,9 @@
 # lukefwalton.com — durable archive
 
 > Dependency-free MIRROR of lukefwalton.com (the personal site of Luke F. Walton,
-> founder of Surmado, AI-ethics researcher, and the musician Scoobert Doobert).
+> founder of Surmado, AI-ethics researcher, and musician; credited on songwriting
+> and production as Luke Francis Walton). Scoobert Doobert is Luke F. Walton's
+> primary music project. FEiN is his duo with Brandon Woodward.
 > This mirror exists for durability and citation. It is NOT the canonical source.
 
 ## Canonical direction

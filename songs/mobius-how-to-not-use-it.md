@@ -32,12 +32,12 @@ draft: false
 
 ---
 
-Track ten, the [*Moonlight Beach*](/albums/moonlight-beach/) closer. The title is **"How to NOT use it"** flipped upside-down (*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*), and the spoken coda names the planned cycle **MÖB → I → US → MÖBIUS**.
+Track ten, the [*Moonlight Beach*](/albums/moonlight-beach/) closer. The title is **"How to NOT use it"** flipped upside-down (*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*), and the spoken coda ends on the one word that named the planned cycle, **MÖB → I → US → MÖBIUS**.
 
 **2018**, Ventura pier: credit cards maxed, Pacific obscured by mist, *I probably should quit music*, twice. *But what am I without it?* One word lands: **Möbius**. Not an explanation, a name.
 
 [Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview) later connected this tag to [*MÖB*](/albums/mob/), the first released turn of the four-part cycle. The beach record ends on a spoken question, quit or loop. Luke chose loop.
 
-[*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished; [*US*](/albums/us/) is in progress, full LP scheduled for January 2027; the fourth LP, *MÖBIUS*, is scheduled for 2028. See the [*MÖBIUS* cycle page](/albums/mobius-cycle/).
+[*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished; [*US*](/albums/us/) is in progress, full LP scheduled for January 2027; the fourth LP, [*MÖBIUS*](/albums/mobius/), is planned with no date announced. See the [*MÖBIUS* cycle page](/albums/mobius-cycle/).
 
 ---

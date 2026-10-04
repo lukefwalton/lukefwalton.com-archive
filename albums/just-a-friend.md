@@ -7,6 +7,7 @@ year: 2007
 releaseType: EP
 
 artist: "Luke Walton"
+artistId: "#person"
 
 amazon: "https://www.amazon.com/Just-Friend-Luke-Walton/dp/B000XXWXF4"
 
@@ -30,7 +31,7 @@ draft: false
 
 **Luke Walton**, guitar, piano, voice, songwriting. Six tracks with [archived lyrics](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html): [**Prelude**](/songs/prelude/) (instrumental) · [**One Take**](/songs/one-take/) · [**Just A Friend**](/songs/just-a-friend/) · [**Preschool**](/songs/preschool/) · [**Who Needs Tears**](/songs/who-needs-tears/) · [**Dirty Blonde**](/songs/dirty-blonde/).
 
-Chronology: parallel band line at La Costa Canyon (solo EPs ran at the same time): Rock I IV V club (2006) · <a href="/with/casey-mcsocial/">Casey McSocial</a> (first band) · **Mannequin** (Walton founded) · <a href="/with/blue-suburbia/">Blue Suburbia</a> ([*The Other Side*](/albums/the-other-side/), 2009). Solo releases: [*Heart in Hand*](/albums/heart-in-hand/) (2008) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010, The Luke Walton Band).
+Chronology: parallel band line at La Costa Canyon (solo EPs ran at the same time): Rock I IV V club (2006) · <a href="/with/casey-mcsocial/">Casey McSocial</a> (first band) · **Mannequin** (Walton co-founded) · <a href="/with/blue-suburbia/">Blue Suburbia</a> ([*The Other Side*](/albums/the-other-side/), 2009). Solo releases: [*Heart in Hand*](/albums/heart-in-hand/) (2008) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010, The Luke Walton Band).
 
 See [Catalog](/catalog/#luke-walton-band) · [Wikidata: The Luke Walton Band (Q15044350)](https://www.wikidata.org/wiki/Q15044350)
 

@@ -1,8 +1,9 @@
 ---
-title: "MÖBIUS"
+title: "The MÖBIUS cycle"
 
-description: "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a fourth LP scheduled for 2028."
+description: "The four-part cycle in progress, released in turns: MÖB, I, US (LP scheduled for January 2027), and a fourth LP titled MÖBIUS, planned with no date announced. Named on Moonlight Beach in 2023."
 
+kind: cycle
 year: 2023
 catalogStatus: in-progress
 
@@ -14,11 +15,11 @@ tracks: []
 draft: false
 ---
 
-This page covers the planned four-part cycle as a whole. The intended shape is **MÖB → I → US → MÖBIUS**, released in turns. [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. [*US*](/albums/us/) is **in progress**: chapter EPs are on streaming, and the full LP is scheduled for **January 2027**. The **fourth turn** (the LP also titled *MÖBIUS*) is **scheduled for 2028** and has no release page yet.
+This page covers the planned four-part cycle as a whole. It is the umbrella, not an album: the intended shape is **MÖB → I → US → MÖBIUS**, released in turns. [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. [*US*](/albums/us/) is **in progress**: chapter EPs are on streaming, and the full LP is scheduled for **January 2027**. The **fourth turn**, the LP titled [*MÖBIUS*](/albums/mobius/), is **planned**, with no date announced.
 
 ## Named on Moonlight Beach
 
-The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**). Track ten, the closer, is [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/): **"How to NOT use it"** upside-down. The 2018 Ventura-pier spoken coda ends with one word: **Möbius**.
+The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**), the precursor record rather than a turn. Track ten, the closer, is [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/): **"How to NOT use it"** upside-down. The 2018 Ventura-pier spoken coda ends with one word: **Möbius**.
 
 ## Released turns
 
@@ -35,12 +36,10 @@ The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**).
 
 ## Planned
 
-| Turn | Status |
-|------|--------|
-| **MÖBIUS** (fourth turn) | Scheduled for 2028. No release page yet |
+| Turn | Hub | Status |
+|------|-----|--------|
+| **MÖBIUS** (fourth turn) | [*MÖBIUS*](/albums/mobius/) | Planned. No date, tracklist or credits announced |
 
-The stated goal for the fourth turn: loop in the whole Scoobert history, the broader network, and the other works, and blend what is fact and what is fiction. Nothing from it is released, so nothing from it is described here.
-
-When the fourth LP ships, it will get its own release page.
+The stated goal for the fourth turn: loop in the whole Scoobert history, the broader network, and the other works, and blend what is fact and what is fiction. Two figures from the fiction network are already attached to it: Burt Cashman, a major character on the record and a credited performer on it, and cawleen, a character on it and a credited artist. Both are introduced on the [*MÖBIUS*](/albums/mobius/) page. Nothing from it is released, so nothing from it is described here.
 
 See also: [Catalog: Möbius cycle](/catalog/#moebius-cycle) · [Music](/music/)

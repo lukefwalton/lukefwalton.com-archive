@@ -17,7 +17,7 @@ The chapter text is not re-hosted here (CC BY-NC-SA 4.0). Read it at the links b
 
 Horwich's interview lands during the [*Masks and Monsters*](/albums/masks-and-monsters/) era, the 2020 pandemic LP where Shaggy, the Mystery Machine, and monster language stop being decoration and start carrying adult weight. See also the later KŌAN-era satire [*a song to quit your job to*](/songs/a-song-to-quit-your-job-to/) and [*No Worries, Yes Worries*](/songs/no-worries-yes-worries/).
 
-On this site, Scoobert Doobert is the bedroom-pop / chill-pop alias of Luke Francis Walton. The chapter is *about* the alias, not by him.
+Scoobert Doobert is Luke F. Walton's primary music project (bedroom pop / chill pop). The chapter is *about* the project, not written by Luke.
 
 **Scoobert-specific reception:** One direct scholarly reception item has been located: Neda Genova's 2023 [*Computational Culture*](http://computationalculture.net/review-of-critical-meme-reader-global-mutations-of-the-viral-image/) review. It names Horwich's interview with Scoobert Doobert among the volume's "experimental and differently conversational" contributions; its notes cite Horwich/Scoobert at pp. 79 and 88. Excerpts on this page.
 

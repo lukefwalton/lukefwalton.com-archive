@@ -7,6 +7,7 @@ year: 2008
 releaseType: EP
 
 artist: "Luke Walton"
+artistId: "#person"
 
 tracks:
   - { title: "Heart in Hand", song: heart-in-hand }
@@ -28,7 +29,7 @@ draft: false
 
 Several cuts later reappeared on the 2010 Luke Walton Band LP [*Goodbye/Hello*](/albums/goodbye-hello/) (some with rewritten lyrics) and circulated on YouTube from the **December 2008** solo push.
 
-Chronology: [*Just A Friend*](/albums/just-a-friend/) (2007) → *Heart in Hand* (2008). Parallel band line at La Costa Canyon (solo EPs ran at the same time): Rock I IV V club (2006) · [Casey McSocial](/with/casey-mcsocial/) (first band) · **Mannequin** (Walton founded) · [Blue Suburbia](/with/blue-suburbia/) → [*The Other Side*](/albums/the-other-side/) (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
+Chronology: [*Just A Friend*](/albums/just-a-friend/) (2007) → *Heart in Hand* (2008). Parallel band line at La Costa Canyon (solo EPs ran at the same time): Rock I IV V club (2006) · [Casey McSocial](/with/casey-mcsocial/) (first band) · **Mannequin** (Walton co-founded) · [Blue Suburbia](/with/blue-suburbia/) → [*The Other Side*](/albums/the-other-side/) (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
 
 See [Catalog](/catalog/#luke-walton-band)
 

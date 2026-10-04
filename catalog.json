@@ -165,6 +165,7 @@
       "year": 2023,
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
       "tracks": [
         {
           "title": "Michael Bublé, My Santa Buddy",
@@ -962,6 +963,7 @@
       "year": 2008,
       "releaseType": "EP",
       "artist": "Luke Walton",
+      "artistId": "#person",
       "tracks": [
         {
           "title": "Heart in Hand",
@@ -1174,6 +1176,7 @@
       "year": 2007,
       "releaseType": "EP",
       "artist": "Luke Walton",
+      "artistId": "#person",
       "amazon": "https://www.amazon.com/Just-Friend-Luke-Walton/dp/B000XXWXF4",
       "tracks": [
         {
@@ -2087,8 +2090,38 @@
   },
   {
     "collection": "albums",
-    "slug": "mobius-cycle",
+    "slug": "mobius",
     "title": "MÖBIUS",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/mobius/",
+    "canonicalUrl": "https://lukefwalton.com/albums/mobius/",
+    "archive": {
+      "markdown": "albums/mobius.md",
+      "html": "albums/mobius.html"
+    },
+    "source": "src/content/albums/mobius.md",
+    "metadata": {
+      "title": "MÖBIUS",
+      "description": "The planned fourth and final turn of the MÖBIUS cycle (MÖB → I → US → MÖBIUS). Burt Cashman and cawleen are characters on it and credited on it. No date, tracklist or credits announced.",
+      "catalogStatus": "planned",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "characters": [
+        "burtcashman.com",
+        "cawleen.com"
+      ],
+      "contributors": [
+        "burtcashman.com",
+        "cawleen.com"
+      ],
+      "tracks": [],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "mobius-cycle",
+    "title": "The MÖBIUS cycle",
     "type": "MusicAlbum",
     "liveUrl": "https://lukefwalton.com/albums/mobius-cycle/",
     "canonicalUrl": "https://lukefwalton.com/albums/mobius-cycle/",
@@ -2098,8 +2131,9 @@
     },
     "source": "src/content/albums/mobius-cycle.md",
     "metadata": {
-      "title": "MÖBIUS",
-      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a fourth LP scheduled for 2028.",
+      "title": "The MÖBIUS cycle",
+      "description": "The four-part cycle in progress, released in turns: MÖB, I, US (LP scheduled for January 2027), and a fourth LP titled MÖBIUS, planned with no date announced. Named on Moonlight Beach in 2023.",
+      "kind": "cycle",
       "year": 2023,
       "catalogStatus": "in-progress",
       "artist": "Scoobert Doobert",
@@ -2441,6 +2475,7 @@
       "year": 2009,
       "releaseType": "EP",
       "artist": "Luke Walton feat. Blue Suburbia",
+      "artistId": "#person",
       "tracks": [
         {
           "title": "Preschool",

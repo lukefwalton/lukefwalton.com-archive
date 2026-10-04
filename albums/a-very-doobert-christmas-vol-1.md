@@ -7,6 +7,7 @@ year: 2023
 releaseType: EP
 
 artist: "Scoobert Doobert"
+artistId: "#scoobert"
 
 tracks:
   - { title: "Michael Bublé, My Santa Buddy", song: michael-buble-my-santa-buddy }
