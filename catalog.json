@@ -1758,14 +1758,14 @@
     "source": "src/content/albums/live-from-the-void.md",
     "metadata": {
       "title": "Live from the Void",
-      "description": "Eight live recordings (2021), pandemic-era Scoobert cuts performed and released as a standalone live set; not a visual album like earlier LPs.",
+      "description": "A live concert filmed during the pandemic and placed inside virtual worlds built in Unity, directed by Max Horwich, with J MESA, Malik LovesYall, and Bravo Buggs; released as eight live recordings (2021).",
       "year": 2021,
       "releaseDate": "2021-01-01",
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "youtube": "https://www.youtube.com/watch?v=qWF1jZqKMrY",
-      "youtubeLabel": "Full virtual concert (directed by Max Horwich)",
+      "youtubeLabel": "Visual album (full virtual concert)",
       "tracks": [
         {
           "title": "Creature Comfort - Live",
@@ -2099,7 +2099,7 @@
     "source": "src/content/albums/mobius-cycle.md",
     "metadata": {
       "title": "MÖBIUS",
-      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a planned fourth LP.",
+      "description": "The four-part super-album in progress, released in turns: named on Moonlight Beach in 2023, then MÖB, I, US (LP scheduled for January 2027), and a fourth LP scheduled for 2028.",
       "year": 2023,
       "catalogStatus": "in-progress",
       "artist": "Scoobert Doobert",
@@ -39672,7 +39672,7 @@
     "source": "src/content/songs/loved.md",
     "metadata": {
       "title": "LOVED",
-      "meaning": "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: FEiN's most-streamed song (~9M on Spotify).",
+      "meaning": "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: FEiN's most-streamed song (more than 9 million on Spotify).",
       "year": 2017,
       "release": "LOVED",
       "releaseType": "single",

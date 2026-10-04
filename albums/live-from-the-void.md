@@ -1,7 +1,7 @@
 ---
 title: "Live from the Void"
 
-description: "Eight live recordings (2021), pandemic-era Scoobert cuts performed and released as a standalone live set; not a visual album like earlier LPs."
+description: "A live concert filmed during the pandemic and placed inside virtual worlds built in Unity, directed by Max Horwich, with J MESA, Malik LovesYall, and Bravo Buggs; released as eight live recordings (2021)."
 
 year: 2021
 releaseDate: 2021-01-01
@@ -11,7 +11,7 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 youtube: "https://www.youtube.com/watch?v=qWF1jZqKMrY"
-youtubeLabel: "Full virtual concert (directed by Max Horwich)"
+youtubeLabel: "Visual album (full virtual concert)"
 
 tracks:
   - { title: "Creature Comfort - Live", song: creature-comfort-live }
@@ -26,11 +26,9 @@ tracks:
 draft: false
 ---
 
-**Live from the Void** is a release group of **eight live recordings**: mostly songs from the [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Little Hug*](/albums/little-hug/) era, plus standalone singles like [*2020 Is Over*](/songs/2020-is-over/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/). Listed on [MusicBrainz](https://musicbrainz.org/) as a Scoobert Doobert live set; streaming platforms date individual tracks **2022**.
+**Live from the Void** is a live concert filmed during the pandemic and placed inside virtual worlds built in Unity. Luke made it with [Max Horwich](/with/max-horwich/), who directed it and built the Unity side; the two shared the creative work. [J MESA](/with/j-mesa/) (Babidi) and **Malik LovesYall** perform on two songs, and **Bravo Buggs** plays drums on every song. The **[full virtual concert](https://www.youtube.com/watch?v=qWF1jZqKMrY)** and the **[Creature Comfort Unity music video](https://www.youtube.com/watch?v=fOM9s5-ZnXA)** from the same project are both on [Selected Videos](/music/#selected-videos). The two Love Music More *Live from the Void* episodes with Horwich ([pt. 1](/love-music-more/episodes/virtual-reality-vr-and-the-metaverse-with-max-horwich-live-from-the-void-pt-1/), [pt. 2](/love-music-more/episodes/making-music-videos-on-unity-engine-with-max-horwich-live-from-the-void-pt-2/)) document the VR and Unity build.
 
-Unlike the long-form **visual albums** on earlier records, this is a straight live bundle, a snapshot of North Park pandemic material performed for release. Luke Francis Walton wrote, played, and mixed the studio originals; these are performance versions, not new compositions. **Bravo Buggs** played drums on the live set.
-
-**[Creature Comfort: Unity MV](https://www.youtube.com/watch?v=fOM9s5-ZnXA)** with [Max Horwich](/with/max-horwich/) · **[Full Virtual Concert](https://www.youtube.com/watch?v=qWF1jZqKMrY)** (directed by Horwich), both on [Selected Videos](/music/#selected-videos). The Love Music More *Live from the Void* solo episodes document the Unity/VR build.
+The audio release is a group of **eight live recordings**: mostly songs from the [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Little Hug*](/albums/little-hug/) era, plus standalone singles like [*2020 Is Over*](/songs/2020-is-over/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/). Listed on [MusicBrainz](https://musicbrainz.org/) as a Scoobert Doobert live set; streaming platforms date individual tracks **2022**. Luke Francis Walton wrote, played, and mixed the studio originals; these are performance versions, not new compositions.
 
 Notable metadata: [*I Want Yu Yu - Live*](/songs/i-want-yu-yu-live/) and [*My Mind Is Slowly Slipping - Live*](/songs/my-mind-is-slowly-slipping-live/) list **J MESA** (Taylor James / Babidi) and **Malik LovesYall** on the features (studio *My Mind* was **feat. Babidi** on [*Masks and Monsters*](/albums/masks-and-monsters/)): see [With J MESA](/with/j-mesa/).
 

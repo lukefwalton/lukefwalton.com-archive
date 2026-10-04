@@ -1,7 +1,7 @@
 ---
 title: "LOVED"
 
-meaning: "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: FEiN's most-streamed song (~9M on Spotify)."
+meaning: "FEiN generational satire: boomer parent vs millennial kid, participation trophies, follow your passion, you are loved / were you too: FEiN's most-streamed song (more than 9 million on Spotify)."
 
 year: 2017
 release: "LOVED"
@@ -106,7 +106,7 @@ draft: false
 
 ---
 
-**FEiN** single (**March 10, 2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** at Tiny Giant Recording. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); post-LP 2017 cluster with [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). Their most-streamed track: [~9M Spotify streams](https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC), ahead of [*#Grownupz*](/songs/grownupz/) (viral-50 moment, ~500k+ across services per [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein)) and every other FEiN release on the profile. The [SoundCloud upload](https://soundcloud.com/feinmusic/loved) still carries a long comment thread (**204 comments**, ~460k plays, ~7.7k likes), generational satire that people actually argued about in the replies. Often styled **LOVED** all caps.
+**FEiN** single (**March 10, 2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** at Tiny Giant Recording. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); post-LP 2017 cluster with [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). Their most-streamed track: [more than 9 million Spotify streams](https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC), ahead of [*#Grownupz*](/songs/grownupz/) (viral-50 moment, ~500k+ across services per [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein)) and every other FEiN release on the profile. The [SoundCloud upload](https://soundcloud.com/feinmusic/loved) still carries a long comment thread (**204 comments**, ~460k plays, ~7.7k likes), generational satire that people actually argued about in the replies. Often styled **LOVED** all caps.
 
 The [YouTube audio](https://www.youtube.com/watch?v=ADkxKe2iDhM) is FEiN's recording, supplied to YouTube by TuneCore. The comments header shows **507 comments**, next to about **1.6 million views**. The fan videos are other people's animations set to it.
 
@@ -116,6 +116,6 @@ Two voices, one argument: a boomer parent's contempt against a millennial kid's 
 
 The hook is the trap. *You are loved / were you too*, affirmation curdling into accusation. By the second chorus *loved* stacks into *la-la-la-la-la-loved*, nursery-rhyme sarcasm wearing the word out until it means nothing, like a trophy.
 
-Same DNA as [*#Grownupz*](/songs/grownupz/) (rich kid, never grow up), [*American Man*](/songs/american-man/) (national male script), and [*Goodness Gracious*](/songs/goodness-gracious/) (household performance). The difference is reach: ~9M Spotify streams, then the **fan-animation PMV** videos on YouTube. It pairs with later Walton/Woodward singles [*Stupid Forever*](/songs/stupid-forever/) and [*Friend*](/songs/friend/).
+Same DNA as [*#Grownupz*](/songs/grownupz/) (rich kid, never grow up), [*American Man*](/songs/american-man/) (national male script), and [*Goodness Gracious*](/songs/goodness-gracious/) (household performance). The difference is reach: more than 9 million Spotify streams, then the **fan-animation PMV** videos on YouTube. It pairs with later Walton/Woodward singles [*Stupid Forever*](/songs/stupid-forever/) and [*Friend*](/songs/friend/).
 
 ---

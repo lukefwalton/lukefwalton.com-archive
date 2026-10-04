@@ -68,7 +68,7 @@ chapters:
 draft: false
 ---
 
-*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* cycle page](/albums/mobius-cycle/). [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. The *US* LP is scheduled for **January 2027**. The current sequence is eleven songs, linked below where a song page exists. More may be added before release. The fourth LP, titled *MÖBIUS*, is **planned**: no release page until it exists.
+*US* is the third turn of the planned **MÖB → I → US → MÖBIUS** cycle: see the [*MÖBIUS* cycle page](/albums/mobius-cycle/). [*MÖB*](/albums/mob/) and [*I*](/albums/i/) are finished LPs. The *US* LP is scheduled for **January 2027**. The current sequence is eleven songs, linked below where a song page exists. More may be added before release. The fourth LP, titled *MÖBIUS*, is scheduled for **2028**. It has no release page yet.
 
 Like [*KŌAN*](/albums/koan/) before it (A / B / C chapters, then the LP), *US* is arriving in pieces first. Six chapter EPs are already on streaming (seventeen tracks, including instrumentals). [*wannagetaway*](/songs/wannagetaway/) is its own Beformer single on **November 13, 2026**, and it is also in this sequence. [*CHEW ON THIS*](/songs/chew-on-this/) and [*chasing the sunset*](/songs/chasing-the-sunset/) were 2024 singles first.
 
