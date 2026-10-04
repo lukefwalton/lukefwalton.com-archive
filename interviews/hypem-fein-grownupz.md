@@ -1,6 +1,8 @@
 ---
 title: 'Hype Machine: #Grownupz'
-description: '#13 non-remix · #20 popular · #2 Twitter · 30k+ plays (Dec 2015 Facebook + charts).'
+description: >-
+  In December 2015 the charts had it at #13 among non-remixes, #20 on the popular chart, and #2 on Twitter, with more
+  than 30,000 plays. The figures are from a FEiN Facebook post and the Hype Machine chart.
 subject: FEiN
 outlet: 'Hype Machine: #Grownupz'
 publisher: Hype Machine
@@ -15,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Hype Machine: #Grownupz](https://hypem.com/track/25xjc/FEiN+-+Grownupz)
 
-#13 non-remix · #20 popular · #2 Twitter · 30k+ plays (Dec 2015 Facebook + charts).
+In December 2015 the charts had it at #13 among non-remixes, #20 on the popular chart, and #2 on Twitter, with more than 30,000 plays. The figures are from a FEiN Facebook post and the Hype Machine chart.

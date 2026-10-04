@@ -1,8 +1,9 @@
 ---
 title: 'Fresh Beats 365: Little Little Homes EP review'
 description: >-
-  Tom Roden (Mar 10, 2016): *FEiN's new EP is a big success*. Melancholy indie-electropop teaser; Foster The
-  People/Torches comparison; Sculptor image-obsessed social commentary · #Grownupz bubblegum · Outro vocal dissolve.
+  Tom Roden, March 10, 2016, calls the EP a big success: a melancholy indie-electropop teaser he compares to Foster the
+  People’s Torches. He writes about “Sculptor” as image-obsessed social commentary, “#Grownupz” as bubblegum, and the
+  outro’s vocal dissolve.
 subject: FEiN
 outlet: 'Fresh Beats 365: Little Little Homes EP review'
 publisher: Fresh Beats 365
@@ -17,4 +18,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Fresh Beats 365: Little Little Homes EP review](https://freshbeats365.com/2016/03/10/fein-little-little-homes-ep-review/)
 
-Tom Roden (Mar 10, 2016): *FEiN's new EP is a big success*. Melancholy indie-electropop teaser; Foster The People/Torches comparison; Sculptor image-obsessed social commentary · #Grownupz bubblegum · Outro vocal dissolve.
+Tom Roden, March 10, 2016, calls the EP a big success: a melancholy indie-electropop teaser he compares to Foster the People’s Torches. He writes about “Sculptor” as image-obsessed social commentary, “#Grownupz” as bubblegum, and the outro’s vocal dissolve.

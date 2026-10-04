@@ -1,6 +1,8 @@
 ---
 title: 'BMI Indie Spotlight: FEiN'
-description: 'BMI profile: pronunciation, SoCal duo, USC/Tiny Giant, *Little Homes*, #Grownupz on Spotify U.S. Viral 50.'
+description: >-
+  BMI’s profile covers the pronunciation, the Southern California duo, USC and Tiny Giant, *Little Homes*, and
+  “#Grownupz” on Spotify’s U.S. Viral 50.
 subject: FEiN
 outlet: 'BMI Indie Spotlight: FEiN'
 publisher: BMI
@@ -15,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [BMI Indie Spotlight: FEiN](https://www.bmi.com/news/entry/indie_spotlight_fein)
 
-BMI profile: pronunciation, SoCal duo, USC/Tiny Giant, *Little Homes*, #Grownupz on Spotify U.S. Viral 50.
+BMI’s profile covers the pronunciation, the Southern California duo, USC and Tiny Giant, *Little Homes*, and “#Grownupz” on Spotify’s U.S. Viral 50.

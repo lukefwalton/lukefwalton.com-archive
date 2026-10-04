@@ -1,6 +1,8 @@
 ---
 title: 'Last Day Deaf: 9+1 Q&A'
-description: Starting music, production after bandmates left San Diego, sound/aesthetic, studio vs live, Japan, future plans.
+description: >-
+  They talk about starting in music, producing after his bandmates left San Diego, the sound, studio versus live, Japan,
+  and what comes next.
 subject: Scoobert Doobert
 outlet: 'Last Day Deaf: 9+1 Q&A'
 publisher: Last Day Deaf
@@ -15,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Last Day Deaf: 9+1 Q&A](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/)
 
-Starting music, production after bandmates left San Diego, sound/aesthetic, studio vs live, Japan, future plans.
+They talk about starting in music, producing after his bandmates left San Diego, the sound, studio versus live, Japan, and what comes next.

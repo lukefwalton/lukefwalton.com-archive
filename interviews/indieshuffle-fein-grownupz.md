@@ -1,6 +1,6 @@
 ---
 title: 'Indie Shuffle: #Grownupz'
-description: 'Jason Grishkoff: USC duo, Issue #1 kickoff track (Aug 2014).'
+description: 'Jason Grishkoff on the USC duo, and on “#Grownupz” as the track that opened Issue #1 in August 2014.'
 subject: FEiN
 outlet: 'Indie Shuffle: #Grownupz'
 publisher: Indie Shuffle
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Indie Shuffle: #Grownupz](https://www.indieshuffle.com/fein-grownupz/)
 
-Jason Grishkoff: USC duo, Issue #1 kickoff track (Aug 2014).
+Jason Grishkoff on the USC duo, and on “#Grownupz” as the track that opened Issue #1 in August 2014.

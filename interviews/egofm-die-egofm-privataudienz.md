@@ -1,8 +1,8 @@
 ---
 title: 'egoFM: egoFM Privataudienz'
 description: >-
-  Hosted and curated guest hour on Munich radio (~25 minutes online cut); tracklist includes Slow Jam.wav (Stolen Off of
-  Napster).
+  He hosted and curated a guest hour on Munich radio. The online cut is ~25 minutes, and the tracklist includes Slow
+  Jam.wav (Stolen Off of Napster).
 subject: Scoobert Doobert
 outlet: 'egoFM: egoFM Privataudienz'
 publisher: egoFM
@@ -17,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [egoFM: egoFM Privataudienz](https://www.egofm.de/radiowelt/die-egofm-privataudienz)
 
-Hosted and curated guest hour on Munich radio (~25 minutes online cut); tracklist includes Slow Jam.wav (Stolen Off of Napster).
+He hosted and curated a guest hour on Munich radio. The online cut is ~25 minutes, and the tracklist includes Slow Jam.wav (Stolen Off of Napster).

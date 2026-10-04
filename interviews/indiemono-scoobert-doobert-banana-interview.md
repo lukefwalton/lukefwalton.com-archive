@@ -1,6 +1,6 @@
 ---
 title: 'indiemono: Banana Interview'
-description: 'Persona/context Q&A: Scooby-Doo name, *KŌAN*, cartoons, CHAI production, Japan, cross-cultural songwriting.'
+description: A Q&A on the Scooby-Doo name, *KŌAN*, cartoons, producing for CHAI, Japan, and writing across cultures.
 subject: Scoobert Doobert
 outlet: 'indiemono: Banana Interview'
 publisher: indiemono
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [indiemono: Banana Interview](https://indiemono.com/scoobert-doobert-banana-interview/)
 
-Persona/context Q&A: Scooby-Doo name, *KŌAN*, cartoons, CHAI production, Japan, cross-cultural songwriting.
+A Q&A on the Scooby-Doo name, *KŌAN*, cartoons, producing for CHAI, Japan, and writing across cultures.

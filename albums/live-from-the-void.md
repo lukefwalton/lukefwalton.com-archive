@@ -26,6 +26,11 @@ tracks:
 draft: false
 ---
 
+<figure>
+  <img src="/photos/scoobert-live-from-the-void-still.jpg" alt="Still from Live from the Void: Scoobert Doobert at a microphone in a dog mask and yellow hoodie, with guitars on the wall and fire in the composite" width="552" height="1024" style="width:100%;max-width:552px" />
+  <figcaption>Still from the virtual concert. Scoobert Doobert at the microphone, dog mask, yellow hoodie. The fire and the guitars on the wall are the composite.</figcaption>
+</figure>
+
 **Live from the Void** is a live concert filmed during the pandemic and placed inside virtual worlds built in Unity. Luke made it with [Max Horwich](/with/max-horwich/), who directed it and built the Unity side; the two shared the creative work. [J MESA](/with/j-mesa/) (Babidi) and **Malik LovesYall** perform on two songs, and **Bravo Buggs** plays drums on every song. The **[full virtual concert](https://www.youtube.com/watch?v=qWF1jZqKMrY)** and the **[Creature Comfort Unity music video](https://www.youtube.com/watch?v=fOM9s5-ZnXA)** from the same project are both on [Selected Videos](/music/#selected-videos). The two Love Music More *Live from the Void* episodes with Horwich ([pt. 1](/love-music-more/episodes/virtual-reality-vr-and-the-metaverse-with-max-horwich-live-from-the-void-pt-1/), [pt. 2](/love-music-more/episodes/making-music-videos-on-unity-engine-with-max-horwich-live-from-the-void-pt-2/)) document the VR and Unity build.
 
 The audio release is a group of **eight live recordings**: mostly songs from the [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Little Hug*](/albums/little-hug/) era, plus standalone singles like [*2020 Is Over*](/songs/2020-is-over/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/). Listed on [MusicBrainz](https://musicbrainz.org/) as a Scoobert Doobert live set; streaming platforms date individual tracks **2022**. Luke Francis Walton wrote, played, and mixed the studio originals; these are performance versions, not new compositions.

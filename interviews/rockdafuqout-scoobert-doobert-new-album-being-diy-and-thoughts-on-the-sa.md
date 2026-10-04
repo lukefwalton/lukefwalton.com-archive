@@ -1,8 +1,8 @@
 ---
 title: Rock Da Fuq Out
 description: >-
-  *MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, thinking long
-  term.
+  They talk about *MÖB*, where the name came from, his first instrument, the San Diego scene, the DIY workflow,
+  mastering, CHAI, a health scare, and thinking long term.
 subject: Scoobert Doobert
 outlet: Rock Da Fuq Out
 publisher: Rock Da Fuq Out
@@ -17,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Rock Da Fuq Out](https://www.rockdafuqout.com/post/scoobert-doobert-new-album-being-diy-and-thoughts-on-the-san-diego-scene-interview)
 
-*MÖB*, name origin, first instrument, San Diego scene, DIY workflow, mastering, CHAI, health scare, thinking long term.
+They talk about *MÖB*, where the name came from, his first instrument, the San Diego scene, the DIY workflow, mastering, CHAI, a health scare, and thinking long term.

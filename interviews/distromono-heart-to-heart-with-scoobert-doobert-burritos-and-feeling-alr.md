@@ -1,6 +1,6 @@
 ---
 title: 'Distromono: Heart-to-heart'
-description: Burrito voice notes and *Alright* in conversation.
+description: A conversation about burrito voice notes and *Alright*.
 subject: Scoobert Doobert
 outlet: 'Distromono: Heart-to-heart'
 publisher: Distromono
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [Distromono: Heart-to-heart](https://distromono.com/artists/heart-to-heart-with-scoobert-doobert-burritos-and-feeling-alright/)
 
-Burrito voice notes and *Alright* in conversation.
+A conversation about burrito voice notes and *Alright*.

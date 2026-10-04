@@ -107,6 +107,11 @@ Same beach-Monday register as [*JAZZ FLUTE*](/songs/jazz-flute/) (*ain't got shi
 
 **[360° music video + spatial audio](https://www.youtube.com/watch?v=YIHcBx5EkEI)** with [Max Horwich](/with/max-horwich/), also on [Selected Videos](/music/#selected-videos).
 
+<figure>
+  <img src="/photos/scoobert-quit-your-job-video-still.jpg" alt="Screenshot from the a song to quit your job to music video: Scoobert Doobert in a dog mask on a virtual beach" width="473" height="1024" style="width:100%;max-width:473px" />
+  <figcaption>Screenshot from the music video. Dog mask, on the virtual beach.</figcaption>
+</figure>
+
 **Spotify editorial:** [The New LoFi](https://thenewlofi.com/scoobert-dooberts-new-single-is-a-breezy-indie-pop-hug-that-questions-our-modern-way-of-life/) documents the Jan. 7, 2022 release on Spotify official playlists **Fresh Finds**, **Fresh Finds Pop**, and **Indie Brandneu**; [@beformer confirmed Indie Brandneu](https://www.instagram.com/p/CYfMHBHv5i1/) the next day (between Pinegrove and Broken Social Scene). [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-a-song-to-quit-your-job-to-spotify) (January 15, 2022) heard lo-fi charm and indie-pop romanticism, and tied the single to reevaluating what you're doing with your life. See [Catalog: official playlists](/catalog/#spotify-editorial).
 
 **SubmitHub Popular, All time, September 29, 2026.** [Sources](/press-kit/evidence/#submithub-popular-2026-09-29). Blogwave: rank 27 All countries, rank 15 United States. Blogwave narrowed to Chillwave: rank 12 All countries, rank 11 United States. Alternative / Indie narrowed to Lo-Fi Rock: rank 21 United States, rank 23 All countries. The row is 61 points, including +6 #RGB bonus points, on Beformer, released Jan 07, 2022.

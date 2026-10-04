@@ -1,6 +1,6 @@
 ---
 title: VENTS Magazine
-description: '*Don''t Worry* / *Big Hug*, Encinitas, live-not-yet.'
+description: They talk about *Don't Worry*, *Big Hug*, Encinitas, and not playing live yet.
 subject: Scoobert Doobert
 outlet: VENTS Magazine
 publisher: VENTS Magazine
@@ -15,4 +15,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [VENTS Magazine](https://ventsmagazine.com/2021/04/16/interview-indie-pops-scoobert-doobert/)
 
-*Don't Worry* / *Big Hug*, Encinitas, live-not-yet.
+They talk about *Don't Worry*, *Big Hug*, Encinitas, and not playing live yet.

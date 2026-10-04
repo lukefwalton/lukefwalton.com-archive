@@ -1,8 +1,8 @@
 ---
 title: 'egoFM: Bier, Burritos und Marihuana'
 description: >-
-  Written California-week feature: Encinitas home, *I Live in California*, beer/burritos/weed community, North Park Co.,
-  San Diego scene; quotes plus audio.
+  A written feature on his week in California: the Encinitas house, *I Live in California*, the beer, burrito, and weed
+  community, North Park Co., and the San Diego scene, with quotes and audio.
 subject: Scoobert Doobert
 outlet: 'egoFM: Bier, Burritos und Marihuana'
 publisher: egoFM
@@ -17,4 +17,4 @@ Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://luke
 
 **Canonical:** [egoFM: Bier, Burritos und Marihuana](https://www.egofm.de/blog/bier-burritos-und-marihuana)
 
-Written California-week feature: Encinitas home, *I Live in California*, beer/burritos/weed community, North Park Co., San Diego scene; quotes plus audio.
+A written feature on his week in California: the Encinitas house, *I Live in California*, the beer, burrito, and weed community, North Park Co., and the San Diego scene, with quotes and audio.
