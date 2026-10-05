@@ -8,7 +8,7 @@ year: 2016
 artist: "Christofi & FEiN"
 artistId: "#fein"
 
-coWriters: ["Brandon Michael Woodward"]
+coWriters: ["Brandon Michael Woodward", "Christofi"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN), with Christofi. Brian Robert Jones, bass. Collab single; not on Little Homes."
 
 release: "Marry You On the Dance Floor"

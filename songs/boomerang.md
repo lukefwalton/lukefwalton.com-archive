@@ -6,7 +6,7 @@ meaning: "FEiN & Nina Francis: airport delay countdown, week-or-two visits: spun
 artist: "FEiN & Nina Francis"
 artistId: "#fein"
 
-coWriters: ["Brandon Michael Woodward"]
+coWriters: ["Brandon Michael Woodward", "Nina Francis"]
 credits: "Written by Nina Francis and FEiN (Luke Francis Walton, Brandon Michael Woodward). Arranged, recorded, produced by FEiN at Tiny Giant Recording."
 
 release: "Boomerang (with FEiN)"

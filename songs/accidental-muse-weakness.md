@@ -7,6 +7,7 @@ year: 2018
 releaseType: "single"
 
 artist: "Accidental Muse, Tamtam"
+artistId: "#accidentalmuse"
 
 role: production
 productionRoles: "Composer, co-writer, recording engineer, mix engineer, keys, guitar"

@@ -7,6 +7,7 @@ year: 2018
 releaseType: "single"
 
 artist: "Accidental Muse, Tamtam"
+artistId: "#accidentalmuse"
 
 role: production
 productionRoles: "Composer, co-writer, recording engineer, mix engineer, keys, guitar"
@@ -20,9 +21,9 @@ isrcSource: spotify
 draft: false
 ---
 
-**Home** (2018): **Accidental Muse** and **Tamtam** single. [Spotify](https://open.spotify.com/artist/3lStzksqTCJPUecKlImuLS) lists the project as **ax and tamtam**. **Tamtam sang** on every Accidental Muse song, including [Summertime Feeling](/songs/accidental-muse-summertime-feeling/). Luke Walton's account. **Luke Francis Walton**: composer, co-writer, recording engineer, mix engineer; keys and guitar.
+**Home** (2018): **Accidental Muse** and **Tamtam** single. [Spotify](https://open.spotify.com/artist/3lStzksqTCJPUecKlImuLS) lists the project as **ax and tamtam**; **ax is Luke Walton**, his billing on this project (its composer and lyricist credit reads Ax Musian). **Tamtam sang** on every Accidental Muse song, including [Summertime Feeling](/songs/accidental-muse-summertime-feeling/). Luke Walton's account. **Luke Francis Walton**: composer, co-writer, recording engineer, mix engineer; keys and guitar.
 
-Same 2018 Tamtam calendar year as [Drive](/songs/drive/), [Rise](/songs/rise/), and the rest of the [Accidental Muse run](/with/tamtam/#accidental-muse). Distro metadata on Luke's own [*Friends*](/songs/friends/) (*$WAMI$* era) also used the Accidental Muse name, a separate use of the name from this ax + Tamtam side project.
+Same 2018 Tamtam calendar year as [Drive](/songs/drive/), [Rise](/songs/rise/), and the rest of the [Accidental Muse run](/with/tamtam/#accidental-muse). Distro metadata on Luke's own [*Friends*](/songs/friends/) (*$WAMI$* era) also used the Accidental Muse name, a separate use of the name from this side project of Luke (as ax) and Tamtam.
 
 No Scoobert lyrics. See [With Tamtam](/with/tamtam/) · [Catalog](/catalog/#production)
 

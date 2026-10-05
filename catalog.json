@@ -32058,6 +32058,7 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
       "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar",
       "spotify": "https://open.spotify.com/track/3W17sWGZX6RL9rzyAU6QYk",
@@ -32092,6 +32093,7 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
       "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar",
       "spotify": "https://open.spotify.com/track/1WrgDELxr3oFrO6YtlxyZn",
@@ -32126,6 +32128,7 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
       "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar",
       "spotify": "https://open.spotify.com/track/4WB67fJDOXiKQdO2kiUaEl",
@@ -32160,8 +32163,9 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
-      "productionRoles": "Accidental Muse; Tamtam, vocals",
+      "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar; Tamtam, vocals",
       "spotify": "https://open.spotify.com/track/41VVdcamjLGSWPvfmI1l4H",
       "press": [
         {
@@ -32197,6 +32201,7 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
       "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar",
       "spotify": "https://open.spotify.com/track/4EEKqiJm9vxoC0qIzWisPJ",
@@ -32231,6 +32236,7 @@
       "year": 2018,
       "releaseType": "single",
       "artist": "Accidental Muse, Tamtam",
+      "artistId": "#accidentalmuse",
       "role": "production",
       "productionRoles": "Composer, co-writer, recording engineer, mix engineer, keys, guitar",
       "spotify": "https://open.spotify.com/track/0XBoFzc5KXlJNG6hLs8DC4",
@@ -33364,7 +33370,8 @@
       "artist": "FEiN & Nina Francis",
       "artistId": "#fein",
       "coWriters": [
-        "Brandon Michael Woodward"
+        "Brandon Michael Woodward",
+        "Nina Francis"
       ],
       "credits": "Written by Nina Francis and FEiN (Luke Francis Walton, Brandon Michael Woodward). Arranged, recorded, produced by FEiN at Tiny Giant Recording.",
       "release": "Boomerang (with FEiN)",
@@ -33623,7 +33630,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Mixed and mastered by Frank Rosato.",
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato.",
       "spotify": "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8",
       "apple": "https://music.apple.com/us/album/413-ep/681835750",
       "youtube": "https://www.youtube.com/watch?v=8OjGDtr83kE",
@@ -36465,7 +36472,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward.",
+      "credits": "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward. Credited Walton/Woodward (BMI) like every FEiN song: the duo splits writing credit 50/50 regardless of who wrote what.",
       "apple": "https://music.apple.com/us/album/friend-single/1401544089",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
@@ -36675,7 +36682,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Mixed and mastered by Frank Rosato.",
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato.",
       "spotify": "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8",
       "apple": "https://music.apple.com/us/album/413-ep/681835750",
       "themes": [
@@ -39933,7 +39940,8 @@
       "artist": "Christofi & FEiN",
       "artistId": "#fein",
       "coWriters": [
-        "Brandon Michael Woodward"
+        "Brandon Michael Woodward",
+        "Christofi"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN), with Christofi. Brian Robert Jones, bass. Collab single; not on Little Homes.",
       "release": "Marry You On the Dance Floor",
@@ -42158,7 +42166,8 @@
       "artist": "FEiN & Lara Johnston",
       "artistId": "#fein",
       "coWriters": [
-        "Brandon Michael Woodward"
+        "Brandon Michael Woodward",
+        "Lara Johnston"
       ],
       "credits": "SoundCloud, June 28, 2015: produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato at Woodcliff Studios. Written by Luke Francis Walton and Brandon Michael Woodward, with Lara Johnston.",
       "press": [
@@ -43074,6 +43083,9 @@
       "artistId": "#fein",
       "coWriters": [
         "Brandon Michael Woodward"
+      ],
+      "coComposers": [
+        "Karolis Labanauskas"
       ],
       "credits": "Apple Music credits pane (Extended Mix, Jun 16, 2016): L.F. Walton composer; Brandon Michael Woodward songwriter/lyrics; K. Labanauskas composer; Embody performer. Re-Edit (Apr 23, 2021): [Apple Music](https://music.apple.com/us/song/remember-us-feat-fein-re-edit/1561218086) lists Luke Francis Walton + Brandon Michael Woodward vocals; L.F. Walton + Woodward + Labanauskas composition; K. Labanauskas producer. Discogs ARDP149 · ISRC NLF711603322.",
       "officialVideo": "https://www.youtube.com/watch?v=SEBylzLx55M",
@@ -45343,7 +45355,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Mixed and mastered by Frank Rosato.",
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato.",
       "spotify": "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8",
       "apple": "https://music.apple.com/us/album/413-ep/681835750",
       "youtube": "https://www.youtube.com/watch?v=P7wUKeN1Odo",
@@ -45614,7 +45626,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Mixed and mastered by Frank Rosato.",
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato.",
       "spotify": "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8",
       "apple": "https://music.apple.com/us/album/413-ep/681835750",
       "themes": [

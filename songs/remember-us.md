@@ -11,6 +11,7 @@ artist: "Embody feat. FEiN"
 artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
+coComposers: ["Karolis Labanauskas"]
 credits: "Apple Music credits pane (Extended Mix, Jun 16, 2016): L.F. Walton composer; Brandon Michael Woodward songwriter/lyrics; K. Labanauskas composer; Embody performer. Re-Edit (Apr 23, 2021): [Apple Music](https://music.apple.com/us/song/remember-us-feat-fein-re-edit/1561218086) lists Luke Francis Walton + Brandon Michael Woodward vocals; L.F. Walton + Woodward + Labanauskas composition; K. Labanauskas producer. Discogs ARDP149 · ISRC NLF711603322."
 
 officialVideo: "https://www.youtube.com/watch?v=SEBylzLx55M"

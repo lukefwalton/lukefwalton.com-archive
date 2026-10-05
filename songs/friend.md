@@ -11,7 +11,7 @@ artist: "FEiN"
 artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
-credits: "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward."
+credits: "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward. Credited Walton/Woodward (BMI) like every FEiN song: the duo splits writing credit 50/50 regardless of who wrote what."
 
 apple: "https://music.apple.com/us/album/friend-single/1401544089"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"

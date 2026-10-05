@@ -6,7 +6,7 @@ meaning: "FEiN and Lara Johnston, June 28, 2015: the first FEiN Times release. W
 artist: "FEiN & Lara Johnston"
 artistId: "#fein"
 
-coWriters: ["Brandon Michael Woodward"]
+coWriters: ["Brandon Michael Woodward", "Lara Johnston"]
 credits: "SoundCloud, June 28, 2015: produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato at Woodcliff Studios. Written by Luke Francis Walton and Brandon Michael Woodward, with Lara Johnston."
 
 press:

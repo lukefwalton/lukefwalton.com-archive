@@ -11,7 +11,7 @@ artist: "Exist Elsewhere"
 artistId: "#existelsewhere"
 
 coWriters: ["Brandon Michael Woodward"]
-credits: "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Mixed and mastered by Frank Rosato."
+credits: "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato."
 
 spotify: "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8"
 apple: "https://music.apple.com/us/album/413-ep/681835750"

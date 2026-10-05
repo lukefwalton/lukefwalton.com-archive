@@ -96,7 +96,7 @@ lyrics: |
 draft: false
 ---
 
-Standalone single (**September 2025** · Beformer / indiemono), released between the [*I*](/albums/i/) closing run and the [*US*](/albums/us/) chapter EPs.
+Standalone single (**September 2025** · Beformer × indiemono), released between the [*I*](/albums/i/) closing run and the [*US*](/albums/us/) chapter EPs.
 
 Not every Scoobert song is a koan. This one is two dudes deciding the cubicle brother needs a summer, right now, in daylight. The perfect day isn't optimized. It's unexpected, kinda weird, kinda chaotic, maybe psychotic-looking to strangers until you win them over.
 
