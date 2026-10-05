@@ -29,6 +29,8 @@ draft: false
 
 **Tracks:** [**Preschool**](/songs/preschool/) (Walton original) · [**Move By Yourself**](/songs/move-by-yourself/) (~5:52, **Donavon Frankenreiter** cover) · [**Let It Rock**](/songs/let-it-rock/) (~3:32, **Kevin Rudolf** feat. **Lil Wayne** cover) · [**I Don't Need No Doctor**](/songs/i-dont-need-no-doctor/) (~4:46, **John Scofield** feat. **John Mayer** arrangement of the **Ray Charles** standard)
 
+On **August 20, 2009** they recorded at **Soundboard Studio West** in Rancho Bernardo. At the console, left to right: Jordan Sorokin, Zach Freeman, Luke Walton. Another frame is the three of them giving notes to the mix engineer. The engineer is not in the frame and is not named.
+
 A **Preschool** single was also listed separately (**2009**, 3:40). **Preschool** later appeared on the Jun 2010 [Charitable Chords](https://charitablechords.bandcamp.com/album/know-your-rights-in-collaboration-with-knit-the-world) comp as **Luke Walton (Blue Suburbia)** and again on [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
 
 Chronology: [*Just A Friend*](/albums/just-a-friend/) (2007) → [*Heart in Hand*](/albums/heart-in-hand/) (2008) → *The Other Side* (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
