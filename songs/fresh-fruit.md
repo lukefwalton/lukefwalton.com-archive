@@ -6,7 +6,8 @@ meaning: "FEiN x Lara Johnston end-of-summer funk collab (2015): put on your dan
 artist: "FEiN & Lara Johnston"
 artistId: "#fein"
 
-credits: "SoundCloud description: Brian Jones, bass (Brian Robert Jones); Eric Radloff, hype man; Brandon Woodward, drums/percussion/keys; Luke Walton, guitar/keys; Lara Johnston, vocals; produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato (Woodcliff Studios)."
+coWriters: ["Brandon Michael Woodward", "Lara Johnston"]
+credits: "Written by Luke Francis Walton, Brandon Michael Woodward and Lara Johnston, a third each. SoundCloud description: Brian Jones, bass (Brian Robert Jones); Eric Radloff, hype man; Brandon Woodward, drums/percussion/keys; Luke Walton, guitar/keys; Lara Johnston, vocals; produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato (Woodcliff Studios)."
 
 press:
   - outlet: "FEiN: Fresh Fruit (FEiN x Lara Johnston) (SoundCloud credits)"
@@ -14,6 +15,95 @@ press:
 
 year: 2015
 releaseType: "single"
+
+lyrics: |
+  Baby you've off the market for so long
+  And I knew someday that girl would do you wrong
+  She could never love you
+  Like I do
+  What you deserve
+  Come over
+  Come closer
+  I'll quench that thirst
+  If you're ready for the real thing
+  Then come on
+
+  I got your fresh fruit honey
+  When ever you need it
+  Fresh fruit baby
+  Got your cherries and peaches
+  Reach your hand into my basket
+  Fresh fruit
+  Fresh fruit
+  I got your
+  Fresh fruit
+  Fresh fruit (Ah ah) Your fresh fruit
+  Fresh fruit
+  (Ah ah) Your fresh fruit
+  Fresh fruit
+  Ooo yeah
+
+  Step into my garden
+  Don't be coy
+  Don't you know my love's always in season
+  For you boy
+
+  You give me the sun and the water
+  To make me grow
+  You're taking me higher
+  And now I know
+
+  That I'm ready for the real thing
+  So come on
+
+  I got your fresh fruit honey
+  When ever you need it
+  Fresh fruit baby
+  Got your cherries and peaches
+  Reach your hand into my basket
+  Fresh fruit
+  Fresh fruit
+  I got your
+  Fresh fruit
+  Fresh fruit (Ah ah) Your fresh fruit
+  Fresh fruit
+  (Ah ah) Your fresh fruit
+  Fresh fruit
+  Ooo yeah yeah
+
+  You want some orange
+  You want some lime
+  Oh don't you know that we could
+  Do it all night
+
+  You some cherries
+  Some boysenberries
+  I got a little bit a I got a little bit a
+  I got a little bit a this
+  I got a little bit a I got a little bit a
+  I got a little bit a that
+  I got a little bit a I got a little bit a
+  I got a little bit a this
+
+  Passion in your passion fruit
+  Oh sweet darling all for you
+
+  (I I I got your fresh fruit)
+  Fresh fruit honey
+  (You need a little piece of this) When ever you need it
+  Fresh fruit baby
+  Got your cherries and peaches
+  (I've gotta make it good for you yeah
+  Reach your hand into my basket
+  Fresh fruit
+  Fresh fruit (Damn!)
+  Fresh fruit
+  Fresh fruit (Ah ah)
+  Cause it's delicious and nutritious
+  It it it it it's
+  The best damn fruit you ever tasted I know it is
+  I know it is
+  I got your fresh fruit Damn!
 
 themes: ["Funk", "Collaboration", "FEiN", "Lara Johnston", "Tiny Giant", "2015"]
 

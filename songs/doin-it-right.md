@@ -19,6 +19,42 @@ press:
     url: "https://www.tunefind.com/song/luke-francis-walton-brandon-michael-woodward/doin-it-right"
     desc: "S1 E1 premiere (2022) · same recording as the 2017 Freeform single."
 
+lyrics: |
+  Come and enjoy the atmosphere
+  All of the ones you loved are here
+  Love to lead you to the light
+
+  Come and relax you've earned the right
+  Time to unwind and let it go
+  Let me lead you to the light
+
+  Tell me we're doing this right
+  The right impression is all we need
+  Another bottle of white
+  This is your life in the dream machine
+  Tell me we're doing this right
+  This life is good if you choose to dream
+
+  This is the time for finer things
+  Buy everything you think you'll need
+  Platinum, gold, and diamond rings
+
+  Ugh
+
+  Tell me we're doing this right
+  The right impression is all we need
+  Another bottle of white
+  This is your life in the dream machine
+  Tell me we're doing this right
+  This life is good if you choose to dream
+
+  Tell me we're doing this right
+  The right impression is all we need
+  Another bottle of white
+  This is your life in the dream machine
+  Tell me we're doing this right
+  This life is good if you choose to dream
+
 themes: ["Scoring for picture", "Tell Me Lies", "FEiN", "2017"]
 
 draft: false

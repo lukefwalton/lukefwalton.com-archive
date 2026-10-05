@@ -7,7 +7,7 @@ artist: "FEiN & Lara Johnston"
 artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward", "Lara Johnston"]
-credits: "SoundCloud, June 28, 2015: produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato at Woodcliff Studios. Written by Luke Francis Walton and Brandon Michael Woodward, with Lara Johnston."
+credits: "Written by Luke Francis Walton, Brandon Michael Woodward and Lara Johnston, a third each. SoundCloud, June 28, 2015: produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato at Woodcliff Studios."
 
 press:
   - outlet: "FEiN: Out Of My Mind (FEiN X Lara Johnston) (SoundCloud)"
