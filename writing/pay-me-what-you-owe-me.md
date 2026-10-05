@@ -34,8 +34,9 @@ summary: >
   When an action reaches someone, an account of that act is owed. Routing the
   action through a machine can hide the author, offer a record as payment, or
   leave no one to ask. None of that ends the owing. The owing ends only when
-  the person reached releases it. This preprint states that separation. It
-  develops the June 2026 working paper The Invariant of Answerability.
+  the person reached releases it. This preprint states that separation. Its
+  June 2026 working-paper version carried the earlier title The Invariant of
+  Answerability; that is old language for the same paper.
 coreClaim: >
   Whenever an action reaches a party, an account is owed, and no routing of
   that action defeats the owing.
