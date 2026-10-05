@@ -17,7 +17,7 @@ year: 2015
 releaseType: "single"
 
 lyrics: |
-  Baby you've off the market for so long
+  Baby you're off the market for so long
   And I knew someday that girl would do you wrong
   She could never love you
   Like I do
@@ -76,7 +76,7 @@ lyrics: |
   Oh don't you know that we could
   Do it all night
 
-  You some cherries
+  You want some cherries
   Some boysenberries
   I got a little bit a I got a little bit a
   I got a little bit a this
