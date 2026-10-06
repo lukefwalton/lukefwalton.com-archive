@@ -5,11 +5,23 @@ description: "A 2022 four-part alt-pop koan: three EP chapters and an LP-only fo
 
 year: 2022
 releaseDate: 2022-09-09
+artworkBy: "Grizzard Graphics"
+image: "/photos/covers/koan.jpg"
+imageAlt: "Cover for KŌAN. The title in green among floating platforms on a pale sky."
+covers:
+  - image: "/photos/covers/koan-a.jpg"
+    imageAlt: "Cover for KŌAN A. Floating platforms, a ferris wheel, and a forest disk in a pale sky, titled KŌAN A."
+    caption: "KŌAN A"
+    imageCredit: "Artwork by Grizzard Graphics."
+  - image: "/photos/covers/koan-c.jpg"
+    imageAlt: "Cover for KŌAN C. A glass cube and a disk with a swirl, titled KŌAN C, on a pale sky."
+    caption: "KŌAN C"
+    imageCredit: "Artwork by Grizzard Graphics."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-bandcamp: "https://scoobertdoobert.bandcamp.com/album/koan-lp"
+bandcamp: "https://scoobertdoobert.bandcamp.com/album/k-an-lp"
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 apple: "https://music.apple.com/us/album/kōan/1618191665"
 
@@ -96,11 +108,21 @@ press:
 draft: false
 ---
 
-*KŌAN* is a 2022 four-part alt-pop koan: three EP chapters and an LP-only fourth movement, using Zen paradox, Japanese-language songwriting, spatial headphone production, internet friendship, atomic anxiety, and post-pandemic happiness as pieces of a single unresolved question. It follows [*Big Hug*](/albums/big-hug/) and rolled out as EP chapters before the full LP.
+*KŌAN* is a 2022 four-part alt-pop koan: three EP chapters and an LP-only fourth movement, using Zen paradox, Japanese-language songwriting, spatial headphone production, internet friendship, atomic anxiety, and post-pandemic happiness as pieces of a single unresolved question. It follows [*Big Hug*](/albums/big-hug/) and rolled out as EP chapters before the full LP. The LP cover sets the singles in one city. [Grizzard Graphics](/with/grizzard-graphics/) drew a building for each single that went out on its own, and those covers are on the song pages.
 
 The Scoobert records in order: [*Finding $D*](/albums/finding-d-remastered/) (lab notebook), [*Swami's*](/albums/wami/) (collage LP), [*Dragon Ball $d*](/albums/dragon-ball-d/) (narrative hip-hopera), [*Masks and Monsters*](/albums/masks-and-monsters/) (pandemic record), [*Little Hug*](/albums/little-hug/) (small recovery object), [*Big Hug*](/albums/big-hug/) (post-pandemic LP), then **KŌAN**.
 
-**KŌAN A**: March 18, 2022, six songs. **KŌAN B**: May 29, 2022, six songs. **KŌAN C**: June 30, 2022, seven songs. **[KŌAN (LP)](https://scoobertdoobert.bandcamp.com/album/koan-lp)**: September 9, 2022: twenty-five tracks, about one hour three minutes, $10 on Bandcamp (24-bit/48kHz), on [Spotify](https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v) and [Apple Music](https://music.apple.com/us/album/kōan/1618191665). Four parts of one whole: the three EP chapters plus a fourth movement only on the LP (*September*, *1101*, *Get the Funk Out of My Head*, *4:20 pm*, *Miss Disinformation*, [*to everyone who had a good pandemic*](/songs/to-everyone-who-had-a-good-pandemic/)). [Max Horwich](https://www.instagram.com/p/CiAqjI6ONNh/) promoted a **free release show** that same night at **Wonderville** in Brooklyn, Scoobert’s **first New York performance**, with Swimware, Trickster, and DJ sets by Saltzshaker b2b N0serv1ce; [Songkick](https://www.songkick.com/concerts/40585348-scoobert-doobert-at-wonderville) lists the date.
+**KŌAN A**: March 18, 2022, six songs. **KŌAN B**: May 29, 2022, six songs. **KŌAN C**: June 30, 2022, seven songs. **[KŌAN (LP)](https://scoobertdoobert.bandcamp.com/album/k-an-lp)**: September 9, 2022: twenty-five tracks, about one hour three minutes, $10 on Bandcamp (24-bit/48kHz), on [Spotify](https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v) and [Apple Music](https://music.apple.com/us/album/kōan/1618191665). On **October 5, 2026**, Spotify showed the same play figure on each chapter and on the LP, so those are one count. The numbers move. *Miss Disinformation* had no play count shown (1:11).
+
+KŌAN A: *Think About It* 8,290 (2:48). *Let's Move to the Top of a Mountain* 652,696 (2:41). *Boardwalk* 69,573 (2:31). *SHIAWASE NO IMI* 5,198 (2:40). *Information* 4,932 (1:26). *Keep Calm Atomic Bomb* 3,247 (3:09).
+
+KŌAN B: *Wouldn't It Be Nice* 239,279 (2:44). *a song to quit your job to* 63,293 (2:46). *Jolly Roger Bay (64)* 3,411 (1:44). *Less than Nothing* 4,248 (2:09). *More to Lose* 4,162 (1:50). *High Society* 56,542 (3:27).
+
+KŌAN C: *Intro* 3,499 (0:31). *No Worries, Yes Worries* 41,630 (2:52). *Who Am I Really Fooling Anyway* 232,929 (3:09). *KODOMO MITAI* 4,843 (3:23). *無門関* 3,125 (1:27). *What Makes You You* 2,377 (2:24). *All My Friends Live on the Internet* 56,914 (3:14).
+
+LP-only: *September* 300,600 (4:04). *1101* 1,428 (2:28). *Get the Funk Out of My Head* 132,863 (2:56). *4:20 pm* 48,384 (3:16). *to everyone who had a good pandemic* 1,922 (2:32).
+
+Four parts of one whole: the three EP chapters plus a fourth movement only on the LP (*September*, *1101*, *Get the Funk Out of My Head*, *4:20 pm*, *Miss Disinformation*, [*to everyone who had a good pandemic*](/songs/to-everyone-who-had-a-good-pandemic/)). [Max Horwich](https://www.instagram.com/p/CiAqjI6ONNh/) promoted a **free release show** that same night at **Wonderville** in Brooklyn, Scoobert’s **first New York performance**, with Swimware, Trickster, and DJ sets by Saltzshaker b2b N0serv1ce; [Songkick](https://www.songkick.com/concerts/40585348-scoobert-doobert-at-wonderville) lists the date.
 
 The whole thing is doing the koan move: each part appears separately graspable, but the meaning is withheld until the listener sees that the parts do not resolve into a normal thesis. Four doors, one room. Or maybe four rooms, no door. That is the point.
 

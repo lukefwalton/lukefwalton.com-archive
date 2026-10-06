@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-**Kevin Tubbs** (**Sanguine Penguin** · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 9, 2023**. Later entry in the Japan collab run with [*Bumblebae*](/songs/bumblebae/) and [*do what i wanna*](/songs/do-what-i-wanna/). Luke Francis Walton on the Scoobert side.
+**Kevin Tubbs** (**Sanguine Penguin** · [Kevin Tubbs](/with/kevin-tubbs/)) × **Scoobert Doobert**: **April 9, 2023**. Later entry in the Japan collab run with [*Bumblebae*](/songs/bumblebae/) and [*do what i wanna*](/songs/do-what-i-wanna/). Luke Francis Walton on the Scoobert side. On **October 5, 2026**, Spotify showed **12,211** plays, **2:46**, credited to Sanguine Penguin and Scoobert Doobert ([screenshot](/evidence/sanguine-penguin-wowowow-spotify-2026-10-05.png)).
 
 A Spotify for Artists email on **June 9, 2023** (12:19 p.m.) added it to **Indie Brandneu** (147,274 followers).
 

@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
+image: "/photos/covers/y-k-m.jpg"
+imageAlt: "Cover for Y K M. The letters on a blue gradient."
 
 apple: "https://music.apple.com/us/album/y-k-m/1459487776?i=1459487777"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
@@ -72,10 +74,9 @@ lyrics: |
   Are you lonely?
 
 draft: false
-
 ---
 
-**FEiN** single (**June 13, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2019 single cluster with [*Infant*](/songs/infant/) (May), [*800,000*](/songs/800-000/) (May), [*Culling*](/songs/culling/) (June), and [*Behave*](/songs/behave/). Title **Y K M** reads as **you know me**: last line of the repeating chorus.
+**FEiN** single (**June 13, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **275,962** plays, **3:11**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2019 single cluster with [*Infant*](/songs/infant/) (May), [*800,000*](/songs/800-000/) (May), [*Culling*](/songs/culling/) (June), and [*Behave*](/songs/behave/). Title **Y K M** reads as **you know me**: last line of the repeating chorus.
 
 Luke has said this one is **really tough for him to listen to**, that it **came from a dark place**. Listen when you're ready.
 

@@ -5,6 +5,8 @@ description: "The 2017 debut LP: every song written, recorded, mixed, and master
 
 year: 2017
 releaseDate: 2017-05-27
+image: "/photos/covers/finding-d-remastered.jpg"
+imageAlt: "Cover for Finding $D. An ink drawing of a snarling dog with crossed-out eyes and a blue collar, dated March 23, 2017."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -45,6 +47,8 @@ draft: false
 ---
 
 *Finding $D* is Scoobert Doobert’s first LP (say it “Finding SD,” as in San Diego). Ten songs, about thirty-three minutes. **Every song on the LP was written, recorded, mixed, and mastered within a single day**: Luke Francis Walton solo on all of it.
+
+On **October 5, 2026**, Spotify showed these plays on the remaster. The numbers move. *What a Velma What a Night* 13,586 (3:09). *My Scoobert Snack* 7,752 (3:00). *My Friend, Scoobert* 5,170 (3:12). *My Meddling Kids (Hallelujah Sexy)* 8,480 (3:26). *Damned* 6,125 (3:43). *Economic Kama Sutra* 4,593 (3:15). *Gud Gud Medicine* 10,658 (3:03). *Mother of Exile* 3,462 (3:15). *Theme for Himalayan Salt Lamp* 3,987 (3:55). *Aaahh!!! Real Monsters* 1,074 (3:09). The 2017 *My Friend, Scoobert* single is a different listing: **28,829** plays, **3:25**.
 
 [Bandcamp *Finding $D (LP)*](https://scoobertdoobert.bandcamp.com/album/finding-d-lp) dropped **May 27, 2017** ($7 or more, 16-bit/44.1kHz). Tags there say bedroom pop, lo-fi, alt-rock, San Diego. Most streaming platforms now carry it as [*Finding $d (Remastered)*](https://music.apple.com/us/album/finding-%24d-remastered/1506552414), listed **March 9, 2018**, ℗ 2020 Machina Sacramentum. Spotify still has both the original and remastered entries. **May 2017** is the original release date; **March 2018** is the remaster date.
 

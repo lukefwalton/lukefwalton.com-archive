@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert Doobert featuring Jamie Drake. Mixed by Luke Francis Walton."
+credits: "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert Doobert featuring Jamie Drake. Mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/meteor-shower.jpg"
+imageAlt: "Cover for Meteor Shower. A dark sky of colored stars and white meteors."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/meteor-shower/1675559395?i=1675559405"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
@@ -65,7 +68,6 @@ lyrics: |
   Yeah, it's possible
 
 draft: false
-
 ---
 
 Track seven on [*Moonlight Beach*](/albums/moonlight-beach/), **cowritten with [Jamie Drake](/with/jamie-drake/)** (feat. on the LP). A Spotify for Artists email on **May 6, 2023** (1:21 p.m.) added it to **Chill Vibes** (2,428,400 followers). Another email on **September 30, 2023** (9:40 a.m.) added it again (2,461,650 followers). Drake's debut *Everything's Fine* landed NPR, PopMatters, and Flood praise. See also Walton's [**New Girl** remix](/songs/new-girl-scoobert-doobert-remix/) for Drake.

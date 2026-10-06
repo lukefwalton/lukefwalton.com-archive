@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/only-the-beginning.jpg"
+imageAlt: "Cover for only the beginning. A line drawing of shrimp nigiri."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/only-the-beginning/1734387671?i=1734387741"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -71,7 +74,6 @@ lyrics: |
   Ooo, it's only the beginning
 
 draft: false
-
 ---
 
 Track ten on [*I*](/albums/i/), Japan and California in one promise song. It opens on a Tokyo morning, the Toyosu Fish Market sushi line and the Rainbow Bridge, *pretend like this where I've always lived*: the Japan that [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) (2023) wished for, on an LP partly recorded on the Shinkansen. It closes at home, a San Diego sunset and a green flash that *matches your iris*, [*Moonlight Beach*](/albums/moonlight-beach/) by name without naming it.

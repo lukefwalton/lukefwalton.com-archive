@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Featuring Malik LovesYall. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Featuring Malik LovesYall. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/kick-it-in-nirvana.jpg"
+imageAlt: "Cover for Kick It in Nirvana. A waterfall among tropical leaves and a night sky."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=YvGk0CU4Cnk"
@@ -112,7 +115,6 @@ lyrics: |
   I wanna
 
 draft: false
-
 ---
 
 Track five on [*Big Hug*](/albums/big-hug/), featuring **Malik LovesYall** (the same collaborator who co-wrote [*All in the Feeling*](/songs/all-in-the-feeling/)). Luke wrote, performed, and mixed; October 2021, also released as a standalone single. It's the chill counterweight to the LP's anxiety satire: less [*Don't Worry*](/songs/dont-worry/) breakdown, more domestic-bliss fantasy. The hook stacks the pun, *kick it in pajamas* and *getting wavy with that good grass* on the way to *kick it in nirvana*, bliss state and band-name joke at once. Same SoCal weed subject as [*I Live in California*](/songs/i-live-in-california/), but romantic instead of rent satire.

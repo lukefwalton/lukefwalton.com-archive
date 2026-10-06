@@ -10,7 +10,10 @@ releaseType: "EP"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/take-a-breath.jpg"
+imageAlt: "Cover for Take a Breath. A surfboard above a bank of clouds."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 youtube: "https://www.youtube.com/watch?v=mKODjwOHgO4"
@@ -92,7 +95,6 @@ lyrics: |
   Take another breath
 
 draft: false
-
 ---
 
 Track six on [*Little Hug*](/albums/little-hug/) (**April 2021**), also a **2020** standalone single ahead of the EP ([Where the Music Meets](https://www.wherethemusicmeets.com/2020/11/06/scoobert-doobert-take-a-breath/)). **[Vinyl Moon Vol. 066: *The Comfort of a Dream*](https://vinylmoon.co/products/vol-066-the-comfort-of-a-dream)** (VM Club, Feb 2021), **A2** on the gatefold LP ([Discogs](https://www.discogs.com/master/2054416-Various-Vinyl-Moon-Volume-066-The-Comfort-Of-A-Dream)). Luke solo.

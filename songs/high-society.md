@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/high-society.jpg"
+imageAlt: "Cover for High Society. A smoking disc labeled with the characters for high society."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 youtube: "https://www.youtube.com/watch?v=-vjucF-5-Ss"
@@ -147,7 +150,6 @@ lyrics: |
   Do do do do do do do do do
 
 draft: false
-
 ---
 
 Track twelve on [*KŌAN*](/albums/koan/), **KŌAN B** era on the full LP (between [*More to Lose*](/songs/more-to-lose/) and instrumental *Intro*). Luke solo, same Riley Knapp master chain as the rest of the record. Satirical wellness pop with a party-invite panic underneath.

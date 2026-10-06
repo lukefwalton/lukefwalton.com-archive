@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
+image: "/photos/covers/behave.jpg"
+imageAlt: "Cover for Behave. The title on a blue-to-peach gradient."
 
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
@@ -46,10 +48,9 @@ lyrics: |
   Then do whatever, do whatever when I leave the room
 
 draft: false
-
 ---
 
-**FEiN** single (**2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by [Frank Rosato](/with/frank-rosato/) (same engineer as [*Little Homes*](/albums/little-homes-fein/)). Not on the 2016 LP; later-era FEiN, same duo.
+**FEiN** single (**2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **222,702** plays, **2:50**. The count moves. Mixed and mastered by [Frank Rosato](/with/frank-rosato/) (same engineer as [*Little Homes*](/albums/little-homes-fein/)). Not on the 2016 LP; later-era FEiN, same duo.
 
 Instructions you can't follow, deafness to the script admitted upfront (*tell me where to go / I'll never hear*), jealousy run as a curated information diet (*tell me when she hurts*). The refrain is the line abusers and self-abandoners both use: *please understand, this is better for me*. Said twice, no irony tagged, which makes it scarier.
 

@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/dancing-alone.jpg"
+imageAlt: "Cover for Dancing Alone. A silhouette dancing beside a record shelf, a can reading dancing alone."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/dancing-alone/1748850694?i=1748850695"
 
@@ -84,10 +87,9 @@ lyrics: |
   Don't leave me dancing alone
 
 draft: false
-
 ---
 
-Standalone single (**July 12, 2024** · Beformer), not on [*I*](/albums/i/) or any LP tracklist. Same summer-2024 subject as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*CHEW ON THIS*](/songs/chew-on-this/): love measured in waiting, windows, and phones.
+Standalone single (**July 12, 2024** · Beformer), not on [*I*](/albums/i/) or any LP tracklist. On **October 5, 2026**, Spotify showed **106,574** plays, **2:38**. The count moves. Same summer-2024 subject as [*chasing the sunset*](/songs/chasing-the-sunset/) and [*CHEW ON THIS*](/songs/chew-on-this/): love measured in waiting, windows, and phones.
 
 It's an apartment tableau, traffic flowing past, eyes scanning for your car, a homemade dinner for two that's really for one. The chorus is joy and ache together, dancing all night long since I met ya but wanting to *pull ya through the phone*, with Kool and the Gang standing in as surrogate dance partner.
 

@@ -10,7 +10,10 @@ releaseType: "EP"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/cant-imagine-feeling-better.jpg"
+imageAlt: "Cover for Can't Imagine Feeling Better. A figure in red flying over a green house."
+imageCredit: "Artwork by Grizzard Graphics."
 
 placement: "Coors Light TV (Canada): music supervisor Mike Ladman (Droga5)"
 
@@ -89,10 +92,9 @@ lyrics: |
   Better better better
 
 draft: false
-
 ---
 
-Track eight on [*Little Hug*](/albums/little-hug/) (**April 2021**), also on [*Big Hug*](/albums/big-hug/) (October 2021), as a standalone single, and on *Live from the Void*. Luke solo. The title is the EP in one line: not fine, but right now, impossibly, yes.
+Track eight on [*Little Hug*](/albums/little-hug/) (**April 2021**), also on [*Big Hug*](/albums/big-hug/) (October 2021), as a standalone single, and on *Live from the Void*. Luke solo. This is the first pop of the Scoobert catalog. [*I'm an Idiot*](/songs/im-an-idiot/) is the later New Music Friday and CHAI moment. On **October 5, 2026**, Spotify showed **1,115,638** plays on this single, **2:38** ([screenshot](/evidence/scoobert-cant-imagine-feeling-better-spotify-2026-10-05.png)). The *Little Hug* and *Big Hug* pages showed the same figure. One count, not three. The number moves. The same day, *I'm an Idiot* showed **186,555**.
 
 The joy is built entirely from cartoon resilience and nonsense. Verse one trips over a banana and gets up grinning, helped along by weed *named Obama OG*; verse two saddles up for a pilgrimage with the Dalai Lama (*we ride through the seven seas / getting karma knowing dharma born new*). Not Buddhism homework, just spiritual fan-fiction. Between them the hook stacks until it overflows into *better better better*, the grin pushed past the point of credibility, which is the joke and also the point after a pandemic record.
 

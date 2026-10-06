@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
+image: "/photos/covers/infant.jpg"
+imageAlt: "Cover for Infant. The title on a pale gradient."
 
 apple: "https://music.apple.com/us/album/infant/1459487931?i=1459487932"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
@@ -74,10 +76,9 @@ lyrics: |
   I read it wrong
 
 draft: false
-
 ---
 
-**FEiN** single (**May 2, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** (same Woodcliff chain as [*Behave*](/songs/behave/)). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2019 single cluster with [*800,000*](/songs/800-000/) (May 16), [*Culling*](/songs/culling/) (June 20), and *Behave*.
+**FEiN** single (**May 2, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **230,473** plays, **3:17**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** (same Woodcliff chain as [*Behave*](/songs/behave/)). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2019 single cluster with [*800,000*](/songs/800-000/) (May 16), [*Culling*](/songs/culling/) (June 20), and *Behave*.
 
 Trust under false sleep: the title as helpless noise (*a teething infant bleating*), intimacy blocked by what won't be spoken, the narrator *resting where you indicated safety could be counted on*. The promise was theirs to keep. The chorus turns it to sudden loss, an Alphaville echo as elegy: *forever young, forever young / though I read all about you / I read it wrong*. Studied them like text, still failed the comprehension test.
 

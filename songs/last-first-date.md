@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/last-first-date.jpg"
+imageAlt: "Cover for Last First Date. Inflated pink letters for the title on green."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/last-first-date/1747200307?i=1747200308"
 
@@ -107,10 +110,9 @@ lyrics: |
   oh
 
 draft: false
-
 ---
 
-Non-album standalone single (**June 28, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. Luke's note: **written about the day he met his wife.**
+Non-album standalone single (**June 28, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. Luke's note: **written about the day he met his wife.** On **October 5, 2026**, Spotify showed **16,060** plays, **3:07**. The count moves.
 
 It's all first-date physics, a *sheeply* wave, *gotta be confident* on loop, small talk through family and pet peeves until *finally you laugh*. Then the beach: a sand walk, a bioluminescent glow, nervousness shaking off *like leaves in the winter*, later *like sakura in summer*. The detail that dates it perfectly is the *high heart rate Apple Watch alert* right before the kiss.
 

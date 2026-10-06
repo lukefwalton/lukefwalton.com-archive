@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=VRvhJ7kooNM"
@@ -126,5 +126,7 @@ Track thirteen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke so
 The refrain is the whole argument, repeated until it sticks: *whether it's your lover or your customer / sell em on a dream / lie to all you love / it's the only way that they can stay happy*. Romance and commerce run the same script, lying reframed as kindness. The chorus turns a soda name into a verb for staying on-message, Coke as a stand-in for every personal feed rather than a jingle for the drink. The bridge stacks borrowed slogans (*treat yourself / just do it*), Nike meeting self-care.
 
 Same capitalism register as [*Shaggy's Anthem*](/songs/shaggys-anthem/), but influencer-native. A chopped snippet of this song also closes [*While My Beerus Gently Sleeps*](/albums/dragon-ball-d/) on [*Dragon Ball $d*](/albums/dragon-ball-d/), teasing the next record before cutting it short. Leads into [*Corona*](/songs/corona/).
+
+**Okudaxij** (Eric Radloff) covered it on [**Friends Covering Friends Vol. II**](https://ztapes.bandcamp.com/album/friends-covering-friends-vol-ii) (**Z Tapes**, **September 12, 2021**, Bandcamp only): track 15, **2:58**, [Okudaxij — Coca Cola (Scoobert Doobert)](https://ztapes.bandcamp.com/track/coca-cola-scoobert-doobert). The same compilation has Scoobert’s cover of Okudaxij’s [*A La Carte*](/songs/a-la-carte/).
 
 ---

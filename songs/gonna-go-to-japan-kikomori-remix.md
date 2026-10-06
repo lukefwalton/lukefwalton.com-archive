@@ -21,7 +21,7 @@ isrcSource: soundexchange
 draft: false
 ---
 
-**kikomori** remix of Scoobert’s [**Gonna Go To Japan**](/songs/gonna-go-to-japan/), third-party remix of a Scoobert original, not a Walton remix of someone else. **2025** · **Beformer**.
+**kikomori** remix of Scoobert’s [**Gonna Go To Japan**](/songs/gonna-go-to-japan/), third-party remix of a Scoobert original, not a Walton remix of someone else. **2025** · **Beformer**. On **October 5, 2026**, Spotify showed **724,056** plays, **3:22**. That is a different listing from the original, which showed **467,907** the same day. The counts move.
 
 Original song and lyrics: [Gonna Go To Japan](/songs/gonna-go-to-japan/).
 

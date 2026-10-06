@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/boardwalk.jpg"
+imageAlt: "Cover for Boardwalk. Two connected towers, one carrying a small wheel."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 youtube: "https://www.youtube.com/watch?v=-EYpF1Xsw2A"
@@ -87,7 +90,6 @@ lyrics: |
   I'm on the boardwalk
 
 draft: false
-
 ---
 
 Track three on [*KŌAN*](/albums/koan/), **KŌAN A** (March 2022), also a standalone single. Luke solo. The setup is broke-but-free: a negative balance, *of course, that's pretty obvious*, and *strutting around like Luffy by the ocean.* One Piece as posture, not plot recap. The chorus is idle joy, *feel my hair getting bleached by the sun*, with *do do do* as the actual activity.

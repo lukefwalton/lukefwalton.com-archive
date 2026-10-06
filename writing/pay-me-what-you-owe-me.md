@@ -68,9 +68,9 @@ This preprint develops the working paper [*The Invariant of Answerability*](http
 
 ## Companion papers
 
-[**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936618) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
-[**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936679) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Technical implementation
 

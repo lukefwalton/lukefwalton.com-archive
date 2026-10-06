@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 apple: "https://music.apple.com/us/album/when-its-over/1526427944?i=1526427965"

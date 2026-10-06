@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-**Scoobert Doobert** remix of **Skinny Dippers’** **“Highs & Lows”**: **March 31, 2023** (Secret Sushi Records). Luke Francis Walton as remixer, not writer of the underlying song. Skinny Dippers also appear on a [Love Music More episode](/love-music-more/episodes/skinny-dippers/). [Purple Melon](https://purplemelonmu.com/2023/04/07/indie-kids-tycho-jones-ilan-bell-moreofthem-skinny-dippers-x-scoobert-doobert-crystal-cities-social-station-and-sky-olson/) (April 7, 2023) says the two found each other on similar playlists and became social-media friends.
+**Scoobert Doobert** remix of **Skinny Dippers’** **“Highs & Lows”**: **March 31, 2023** (Secret Sushi Records). On **October 5, 2026**, Spotify showed **111,329** plays, **3:28**. The count moves. Luke Francis Walton as remixer, not writer of the underlying song. Skinny Dippers also appear on a [Love Music More episode](/love-music-more/episodes/skinny-dippers/). [Purple Melon](https://purplemelonmu.com/2023/04/07/indie-kids-tycho-jones-ilan-bell-moreofthem-skinny-dippers-x-scoobert-doobert-crystal-cities-social-station-and-sky-olson/) (April 7, 2023) says the two found each other on similar playlists and became social-media friends.
 
 No Scoobert lyrics. See [Catalog](/catalog/#remixes) · [With collaborations](/catalog/#collaborations)
 

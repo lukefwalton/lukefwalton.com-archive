@@ -8,6 +8,9 @@ release: "Earth Day (Scoobert Doobert Remix)"
 releaseType: "single"
 
 artist: "Free Your Inhibition"
+image: "/photos/covers/earth-day-scoobert-doobert-remix.jpg"
+imageAlt: "Cover for the Earth Day remix. A globe with the words Earth Day broken across it."
+imageCredit: "Artwork by Grizzard Graphics."
 
 role: remix
 remixOf: "Earth Day"
@@ -22,7 +25,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Scoobert Doobert remix of **“Earth Day”**: credited on streaming to **Free Your Inhibition**, **Malik LovesYall**, and **J MESA** on the original side. Malik LovesYall also appears on [*Big Hug*](/albums/big-hug/) (*Kick It in Nirvana*, *All in the Feeling*); J MESA later collabbed on [*Prisoner*](/songs/prisoner/).
+Scoobert Doobert remix of **“Earth Day”**: credited on streaming to **Free Your Inhibition**, **Malik LovesYall**, and **J MESA** on the original side. On **October 5, 2026**, Spotify listed the single at **2:20**, credited to Free Your Inhibition, Malik LovesYall, J MESA, and Scoobert Doobert. That page did not show a play count ([screenshot](/evidence/scoobert-earth-day-remix-spotify-2026-10-05.png)). Malik LovesYall also appears on [*Big Hug*](/albums/big-hug/) (*Kick It in Nirvana*, *All in the Feeling*); J MESA later collabbed on [*Prisoner*](/songs/prisoner/).
 
 Remix credit, no Scoobert original lyrics.
 

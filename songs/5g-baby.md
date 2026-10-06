@@ -11,7 +11,10 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 coWriters: ["Robel Ketema", "Cary Singer"]
-credits: "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Produced by Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton."
+credits: "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Produced by Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/5g-baby.jpg"
+imageAlt: "Cover for 5G BABY. Scoobert Doobert in a tiger mask beside Robel Ketema, the title in pink."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/5g-baby-feat-robel-ketema/1590880152?i=1590880154"
 
@@ -100,7 +103,7 @@ draft: false
 
 ---
 
-Standalone single (**November 19, 2021** · Beformer), not on [*Big Hug*](/albums/big-hug/) or [*KŌAN*](/albums/koan/). Co-written with **Robel Ketema** and **Cary Singer**. **Cary Singer produced it.** Robel Ketema is the featured voice. Luke mixed it.
+Standalone single (**November 19, 2021** · Beformer), not on [*Big Hug*](/albums/big-hug/) or [*KŌAN*](/albums/koan/). On **October 5, 2026**, Spotify showed **1,562** plays, **1:47**. The count moves. Co-written with **Robel Ketema** and **Cary Singer**. **Cary Singer produced it.** Robel Ketema is the featured voice. Luke mixed it.
 
 Cary Singer is the same USC Thornton classmate named in [Mora Mora](https://today.usc.edu/rising-stars/) on USC Today (March 10, 2016): Matias Mora, Leland Cox, Cary Singer, Riley Knapp, and Nick Campbell, the 2013 popular-music class. Riley Knapp later mastered a long run of Scoobert records, and records as [RKCB](/love-music-more/episodes/release-and-you-shall-receive-with-riley-knapp-rkcb/) with Casey Barth. His [SoundBetter profile](https://soundbetter.com/profiles/129798-riley-knapp) lists that duo and Discogs-verified credits for Scoobert Doobert, FEiN, and Applied Communications. [Brandon Woodward's SoundBetter profile](https://soundbetter.com/profiles/383947-brandon-woodward) credits FEiN, RKCB, and LostBoyCrow. Woodward was RKCB's touring drummer. Singer also mixed several FEiN singles Riley mastered ([*Bodies*](/songs/bodies/), [*Culling*](/songs/culling/), [*800,000*](/songs/800-000/), [*Liminal*](/songs/liminal/)).
 

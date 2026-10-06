@@ -6,6 +6,9 @@ description: "The Luke Walton Band’s 2010 self-released LP (~35:05), eleven tr
 year: 2010
 releaseDate: 2010-09-01
 
+image: "/photos/covers/goodbye-hello.jpg"
+imageAlt: "Cover for Goodbye/Hello. A portrait of Luke Walton, with The Luke Walton Band and the title across the lower half."
+
 artist: "The Luke Walton Band"
 artistId: "#lukewaltonband"
 

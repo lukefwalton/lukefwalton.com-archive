@@ -11,7 +11,7 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 coWriters: ["Eric Radloff"]
-credits: "Written by Luke Francis Walton and Eric Radloff (Gokudaxij; streaming credits: Okudaxij). Performed by Scoobert Doobert with Gokudaxij. Mixed and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written by Luke Francis Walton and Eric Radloff (Gokudaxij; streaming credits: Okudaxij). Performed by Scoobert Doobert with Gokudaxij. Mixed and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=WU2a2IK7gVw"

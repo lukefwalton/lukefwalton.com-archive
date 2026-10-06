@@ -10,7 +10,10 @@ releaseType: "EP"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/if-i-could-only.jpg"
+imageAlt: "Cover for If I Could Only. A window looking onto a starry sky."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 youtube: "https://www.youtube.com/watch?v=wnped91O4xE"
@@ -71,7 +74,6 @@ lyrics: |
   If I could only
 
 draft: false
-
 ---
 
 Track two on [*Little Hug*](/albums/little-hug/) (**April 2021**), after the instrumental *Walking Balboa*. It returns as track nine on [*Big Hug*](/albums/big-hug/) ([Apple LP cut](https://music.apple.com/us/album/if-i-could-only/1585121212?i=1585121221)), reworked with the same lyrics alongside [*Can't Imagine Feeling Better*](/songs/cant-imagine-feeling-better/) and [*Debby*](/songs/debby/) (Extended). Luke solo. The problem is plainer than the satire of [*Don't Worry*](/songs/dont-worry/) or [*I Love Money*](/songs/i-love-money/): how to become a person when improvement keeps not sticking.

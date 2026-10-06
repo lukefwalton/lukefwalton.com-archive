@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/time-with-u.jpg"
+imageAlt: "Cover for time with u. A line drawing of a couch."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/time-with-u/1734387671?i=1734387673"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -73,7 +76,6 @@ lyrics: |
   With you
 
 draft: false
-
 ---
 
 Track two on [*I*](/albums/i/), out ahead of the LP as a single. [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-time-with-u-pop-music-review) heard catchy, harmonic bedroom/lo-fi pop.

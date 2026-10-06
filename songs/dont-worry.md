@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/dont-worry.jpg"
+imageAlt: "Cover for Don't Worry. A figure meditating on the water under a marbled moon."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=mdo5I9lQXi4"
@@ -96,7 +99,6 @@ lyrics: |
   生きたい よね?
 
 draft: false
-
 ---
 
 Track two on [*Big Hug*](/albums/big-hug/) (**October 2021**), out earlier as a standalone single (**March 26, 2021**, [91X Local Break](https://www.91x.com/)). Luke solo. Wellness-app satire as a pop hook, where the title command fails on contact: *don't worry, I'm gonna worry about it now. I'll worry that I'm not living in the now.* "Living in the now" becomes one more thing to fail at.

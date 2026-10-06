@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/it-gets-better.jpg"
+imageAlt: "Cover for it gets better. A line drawing of a planter box."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/it-gets-better/1734387671?i=1734387743"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -65,7 +68,6 @@ lyrics: |
   Ooo ooo ooo
 
 draft: false
-
 ---
 
 Track twelve on [*I*](/albums/i/), penultimate before [*golden state of mind*](/songs/golden-state-of-mind/) and also released as a single.

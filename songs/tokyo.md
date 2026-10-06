@@ -9,6 +9,8 @@ releaseType: "EP"
 
 artist: "Exist Elsewhere"
 artistId: "#existelsewhere"
+image: "/photos/exist-elsewhere-tokyo-cover.jpg"
+imageAlt: "Cover for Tokyo. The word Tokyo in mirrored pairs over a red line drawing of boxes, with Exist Elsewhere and the line that it is the debut single from the forthcoming EP 413."
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato."

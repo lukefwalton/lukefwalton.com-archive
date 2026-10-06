@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/gonna-go-to-japan.jpg"
+imageAlt: "Cover for Gonna Go to Japan. An island shaped like Japan on blue water."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/gonna-go-to-japan/1675559395?i=1675559406"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
@@ -107,7 +110,6 @@ press:
   - outlet: "Radio Nova: catalogue des titres"
     url: "https://www.nova.fr/"
     desc: "Catalog record: GONNA GO TO JAPAN · Scoobert Doobert · title ID #38775 · 03:05. Broadcast date unconfirmed from the accessible search result."
-
 ---
 
 Track eight on [*Moonlight Beach*](/albums/moonlight-beach/): the Japan song on a California place-record. [*KŌAN*](/albums/koan/) came first (Japanese lyrics, Zen paradox, spatial sound); this one keeps the longing alive while Encinitas is still home base.

@@ -8,6 +8,8 @@ release: "easy to love (Scoobert Doobert Remix)"
 releaseType: "single"
 
 artist: "Okudaxij"
+image: "/photos/covers/easy-to-love-scoobert-doobert-remix.jpg"
+imageAlt: "Cover for easy to love. A grainy night sky over a dark horizon, blue at the top and pink near the ground."
 
 role: remix
 remixOf: "easy to love"
@@ -22,7 +24,7 @@ isrcSource: spotify
 draft: false
 ---
 
-Scoobert Doobert remix of **Okudaxij’s** **“easy to love.”** Standalone remix single. Scoobert's other Japan remix and production credits: [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/) and the later CHAI work. Not listed on MusicBrainz.
+Scoobert Doobert remix of **Okudaxij**’s **“easy to love.”** Okudaxij is **Eric Radloff**. [Spotify](https://open.spotify.com/album/3ghMkf2NsactU8ZIzbjsjH) lists the 2022 single at **2:47**, credited to Okudaxij and Scoobert Doobert, © 2022 Beformer, ℗ 2022 Beformer. On **October 5, 2026** that page showed **4,686** plays ([screenshot](/evidence/okudaxij-easy-to-love-scoobert-remix-spotify-2026-10-05.png)). Standalone remix single. Scoobert's other Japan remix and production credits: [*Miracle (Scoobert Doobert Remix)*](/songs/miracle-scoobert-doobert-remix/) and the later CHAI work.
 
 Credit and streaming page only.
 

@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/chasing-the-sunset.jpg"
+imageAlt: "Cover for Chasing the Sunset. A figure leaping between rocks at sunset."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/chasing-the-sunset/1756822706?i=1756822707"
 youtube: "https://www.youtube.com/watch?v=rhMSS8iSfNo"
@@ -94,10 +97,9 @@ lyrics: |
   We can follow the sun
 
 draft: false
-
 ---
 
-Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. Same subject as *I* (*wherever you go I go*), except here the geography is literal and the stakes are airports.
+Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. On **October 5, 2026**, Spotify showed **51,281** plays, **3:02**. The count moves. Same subject as *I* (*wherever you go I go*), except here the geography is literal and the stakes are airports.
 
 Verse one is the American map as love language, Hawaii or Boston College, Atlanta or Savannah, Chicago, Denver. Half geography quiz, half willingness test, and the answer isn't a city: it's *with love*. The chorus turns that into motion, flooring it west, following the colors, *we'll follow the sun* stacked until it's a mantra.
 

@@ -6,6 +6,8 @@ description: "A 2024 coastal-travel pop LP and the second released turn of the p
 year: 2024
 releaseDate: 2024-06-14
 artworkBy: "Grizzard Graphics"
+image: "/photos/covers/i.jpg"
+imageAlt: "Cover for I. A beige letter I centered on diagonal rainbow stripes, inside a blue frame."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -61,7 +63,29 @@ draft: false
 
 [Bandcamp *I*](https://scoobertdoobert.bandcamp.com/album/i) dropped **June 14, 2024** ($9.99 or more, 24-bit/44.1kHz). Thirteen streaming tracks, about thirty-seven minutes, on [Spotify](https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49) and [Apple Music](https://music.apple.com/us/album/i/1734387671). UPC **198084158653** (digital LP). Illustration and design by Grizzard Graphics; mastering by Riley Knapp. All songs written by Luke Francis Walton (**BMI #00579587572**).
 
+On **October 5, 2026**, Spotify showed these plays. The numbers move. Each single showed the same figure, so it is one count. *daydreaming* 68,498 (3:23). *time with u* 205,152 (2:37). *the cycle* 57,489 (2:27). *ez pz* 27,680 (2:43). *singing for u* 19,322 (2:37). *watercolor sky* 35,022 (3:32). *don't drive sleepy* 5,630 (1:24). *omw* 56,668 (2:21). *that's how u know i love u* 24,163 (2:50). *only the beginning* 20,733 (3:55). *see you again?* 53,240 (3:17). *it gets better* 27,159 (2:39). *golden state of mind* 43,331 (3:49). The *ez pz* single also lists a remix at 1:29 with no play count shown.
+
 This is also the first Scoobert record with a vinyl release. Bandcamp lists a full multicolor 12-inch vinyl limited run with extensive liner notes, and [New Cosmos Records](https://newcosmosrecords.bigcartel.com/product/scoobert-doobert-i-vinyl) lists two variants: /300 “daydreaming” multicolor splatter copies and /25 “golden state of mind” NCR handmade beach-pattern copies using sand and beer labels Scoobert chose to represent the album’s inspiration (the handmade run may sell out on the store page). [**Liner credits (primary)**](#liner-credits) below transcribe the vinyl insert.
+
+<figure>
+  <img src="/photos/scoobert-i-vinyl-daydreaming.jpg" alt="The I sleeve, rainbow stripes and a blue frame, beside the daydreaming multicolor splatter vinyl. The label reads SCOOBERT." width="1024" height="682" style="width:100%;max-width:640px" />
+  <figcaption>The /300 “daydreaming” multicolor splatter, with the sleeve.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/scoobert-i-vinyl-daydreaming-label.jpg" alt="Close view of the daydreaming splatter vinyl. The center label reads SCOOBERT." width="768" height="1024" style="width:100%;max-width:480px" />
+  <figcaption>SCOOBERT label on the splatter.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/scoobert-i-vinyl-golden-state.jpg" alt="A translucent teal vinyl on the I sleeve. The label reads SCOOBERT. Beer-label stickers on the disc include Unaltered State West Coast Pilsner, Wayfinder, and Ms. Hoppy. Sand is on the table." width="1024" height="889" style="width:100%;max-width:640px" />
+  <figcaption>One of the /25 “golden state of mind” handmade copies: sand and beer labels on a clear disc.</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/scoobert-i-vinyl-golden-state-labels.jpg" alt="Close view of the handmade teal vinyl. Stickers read Unaltered State West Coast Pilsner, Wayfinder, and Ms. Hoppy. The center label reads SCOOBERT." width="768" height="1024" style="width:100%;max-width:480px" />
+  <figcaption>The beer labels on that handmade copy: Unaltered State West Coast Pilsner, Wayfinder, and Ms. Hoppy.</figcaption>
+</figure>
 
 Scoobert intended the album as a soundtrack for travel, coastal trains, cars, robot cars, and programmed grooves on California trains, Shinkansen rides in Japan, and airplanes, so movement is baked into the music rather than only described by it. He wrote the record over about eight months, beginning in the Grand Tetons, then moving through the Sierra Nevada and Mount Whitney, with lyrics captured as voice notes on long hikes. Recorded at Micasa Studios (San Diego), his home studio; the name is *mi casa* in Spanish and a nod to Mikasa from *Attack on Titan*: and on the Tōkaidō, San'yō, and Tōhoku Shinkansen, the Pacific Surfliner, a Boeing 787 over the Pacific, and the full location list in [**liner credits**](#liner-credits).
 

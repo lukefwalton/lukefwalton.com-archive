@@ -9,6 +9,8 @@ releaseType: "single"
 
 artist: "FEiN"
 artistId: "#fein"
+image: "/photos/covers/delicate.jpg"
+imageAlt: "Cover for Delicate. A close photograph of a pale, textured wall."
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
@@ -95,7 +97,7 @@ draft: false
 
 ---
 
-**FEiN** single (**2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by [Frank Rosato](/with/frank-rosato/), same Woodcliff engineer chain as [*Behave*](/songs/behave/), [*Bodies*](/songs/bodies/) (Oct 2021) uses Cary Singer / Riley Knapp per Discogs. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); later-era FEiN, same duo.
+**FEiN** single (**2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **134,036** plays, **3:28**. The count moves. Mixed and mastered by [Frank Rosato](/with/frank-rosato/), same Woodcliff engineer chain as [*Behave*](/songs/behave/), [*Bodies*](/songs/bodies/) (Oct 2021) uses Cary Singer / Riley Knapp per Discogs. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); later-era FEiN, same duo.
 
 Avoidance as a habit. The hook keeps asking *does it work, or is it eating ya* because the answer never arrives, and the *oh my god* refrains are social panic, speaking without confessing, keeping the wrong thing visible but unnamed.
 

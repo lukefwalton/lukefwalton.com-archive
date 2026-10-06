@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/fuck-it-lets-go-bowling.jpg"
+imageAlt: "Cover for fuck it let's go bowling. A white bowling pin."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/f-k-it-lets-go-bowling/1708670332?i=1708670341"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -96,7 +99,6 @@ lyrics: |
   My fucking job so badly
 
 draft: false
-
 ---
 
 Track eight on [*MÖB*](/albums/mob/), the manic permission-slip song. It opens in Saturday insomnia (leg bouncing, floor shaking, *never calm down*) and names the politics underneath: *freedom wanting liberty*, *no assembly line*, *taking back my time*. Then the coping vocabulary collapses to one word. Go to the beach, smoke weed, the boss keeps calling, go to the movies, eat another gummy, and *when it gets too heavy* just say *fuck it*.

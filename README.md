@@ -37,8 +37,8 @@ domain while this copy stays a durable, citable fallback.
 
 ## Contents
 
-- **songs**: 390
-- **albums**: 30
+- **songs**: 394
+- **albums**: 36
 - **writing**: 6
 - **letters**: 4
 - **publications**: 1

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/track/4Dk9O64xn5DdoXGhblis3y"
 officialVideo: "https://www.youtube.com/watch?v=xupSNIigymg"

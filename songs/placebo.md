@@ -8,6 +8,9 @@ releaseType: "single"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/placebo.jpg"
+imageAlt: "Cover for PLACEBO. Neon-blue script over an SD monogram."
+imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "米津玄師 feat. 野田洋次郎"
@@ -27,7 +30,7 @@ draft: false
 
 ---
 
-Cover of **米津玄師 (Kenshi Yonezu)** feat. **野田洋次郎 (Yojiro Noda of RADWIMPS)**: **“PLACEBO + 野田洋次郎”** from *STRAY SHEEP*. Standalone single, released in 2022, the same year as [*KŌAN*](/albums/koan/) originals such as [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/) and [*KODOMO MITAI*](/songs/kodomo-mitai/).
+Cover of **米津玄師 (Kenshi Yonezu)** feat. **野田洋次郎 (Yojiro Noda of RADWIMPS)**: **“PLACEBO + 野田洋次郎”** from *STRAY SHEEP*. On **October 5, 2026**, Spotify showed **17,058** plays, **2:47**. The count moves. Cover art by Grizzard Graphics. Standalone single, released in 2022, the same year as [*KŌAN*](/albums/koan/) originals such as [*SHIAWASE NO IMI*](/songs/shiawase-no-imi/) and [*KODOMO MITAI*](/songs/kodomo-mitai/).
 
 Original lyrics by Kenshi Yonezu. No lyrics published here.
 

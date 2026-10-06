@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/ez-pz.jpg"
+imageAlt: "Cover for ez pz. A line drawing of a necktie."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/ez-pz/1734387671?i=1734387675"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -68,7 +71,6 @@ lyrics: |
   Gonna take it easy, easy
 
 draft: false
-
 ---
 
 Track four on [*I*](/albums/i/), the lazy song that isn't actually lazy about feelings. Call in sick, stay under covers, zero shame about it. The chorus reframes sloth as sovereignty: *you can fire me, but honestly / you can't control my weather*. Rest as something nobody else gets to schedule.

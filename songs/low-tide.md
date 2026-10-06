@@ -9,6 +9,9 @@ releaseType: "album"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/low-tide.jpg"
+imageAlt: "Cover for Low Tide. Layered surf and wet sand, the title upside down at the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "The Wonder Years"
@@ -20,7 +23,6 @@ themes: ["cover", "The Wonder Years", "Moonlight Beach"]
 isrc: QZDA62317297
 isrcSource: soundexchange
 draft: false
-
 ---
 
 Track nine on [*Moonlight Beach*](/albums/moonlight-beach/), cover of **The Wonder Years’** **“Low Tide.”** Sits between the original [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and the flipped-title closer [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/). Part of the LP’s three-cover run (*Walk Don't Run*, *Dancing in the Moonlight (Beach)*, *Low Tide*) that makes *Moonlight Beach* feel like a public hang.

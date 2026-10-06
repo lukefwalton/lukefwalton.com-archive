@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/a-song-to-quit-your-job-to.jpg"
+imageAlt: "Cover for a song to quit your job to. A tiered tower with a recruiting sign."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 officialVideo: "https://www.youtube.com/watch?v=YIHcBx5EkEI"
@@ -96,7 +99,6 @@ lyrics: |
   Nah nah
 
 draft: false
-
 ---
 
 Track eight on [*KŌAN*](/albums/koan/), on **KŌAN B** (May 2022) and the full LP. Also a standalone single. The title does the job: this is the song you play when you're done.

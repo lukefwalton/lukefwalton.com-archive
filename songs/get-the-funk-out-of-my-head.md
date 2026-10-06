@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Drums: Clyde Stubblefield sample pack (cleared)."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Drums: Clyde Stubblefield sample pack (cleared). Artwork by Grizzard Graphics."
+image: "/photos/covers/get-the-funk-out-of-my-head.jpg"
+imageAlt: "Cover for Get the Funk Out of My Head. A mirrored disco ball on a stem above a tiled platform."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 youtube: "https://www.youtube.com/watch?v=7AllVYay4Wc"
@@ -109,7 +112,6 @@ lyrics: |
   Down down down down down down down
 
 draft: false
-
 ---
 
 Track twenty-two on [*KŌAN*](/albums/koan/), **LP-only** (fourth movement with *September*, *1101*, [*4:20 pm*](/songs/4-20-pm/), [*Miss Disinformation*](/songs/miss-disinformation/), [*to everyone who had a good pandemic*](/songs/to-everyone-who-had-a-good-pandemic/)). Not on the KŌAN A/B/C chapters. Luke solo. [@beformer announced official Spotify Soirée placement](https://www.instagram.com/p/ChNXXzZJ8Qh/) **August 13, 2022**, ahead of the full LP (**September 9, 2022**). The Spotify for Artists email is the day before, **August 12, 2022** at 1:23 p.m. (173,694 followers). The drums come from a **cleared Clyde Stubblefield sample pack**, James Brown's *Funky Drummer* lineage made literal, while the lyric uses *funk* to mean the bad thought stuck on loop.

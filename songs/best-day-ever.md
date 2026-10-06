@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/best-day-ever.jpg"
+imageAlt: "Cover for best. day. ever. A blue profile in striped sunglasses, on a leaf-patterned field."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW"
 apple: "https://music.apple.com/us/song/best-day-ever/1832440500"
@@ -96,7 +99,7 @@ lyrics: |
 draft: false
 ---
 
-Standalone single (**September 2025** · Beformer × indiemono), released between the [*I*](/albums/i/) closing run and the [*US*](/albums/us/) chapter EPs.
+Standalone single (**September 2025** · Beformer × indiemono), released between the [*I*](/albums/i/) closing run and the [*US*](/albums/us/) chapter EPs. On **October 5, 2026**, Spotify showed **1,338,455** plays, **2:38**. The count moves.
 
 Not every Scoobert song is a koan. This one is two dudes deciding the cubicle brother needs a summer, right now, in daylight. The perfect day isn't optimized. It's unexpected, kinda weird, kinda chaotic, maybe psychotic-looking to strangers until you win them over.
 

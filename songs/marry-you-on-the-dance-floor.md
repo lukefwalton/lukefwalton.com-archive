@@ -7,6 +7,11 @@ year: 2016
 
 artist: "Christofi & FEiN"
 artistId: "#fein"
+image: "/photos/covers/marry-you-on-the-dance-floor.jpg"
+imageAlt: "Cover for Marry You On the Dance Floor. Two red gem hearts on a pink field, with Christofi & FEiN and the title along the bottom."
+
+spotify: "https://open.spotify.com/track/5UXCI9vT95ovKrsjQBgdtB"
+apple: "https://music.apple.com/us/album/marry-you-on-the-dance-floor/1082187036?i=1082187040"
 
 coWriters: ["Brandon Michael Woodward", "Christofi"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN), with Christofi. Brian Robert Jones, bass. Collab single; not on Little Homes."
@@ -79,7 +84,7 @@ lyrics: |
 draft: false
 ---
 
-**Christofi & FEiN** collaboration (Walton/Woodward co-write with **Christofi**). [SoundCloud](https://soundcloud.com/christofi/christofi-fein-marry-you-on-the-dance-floor). **[Brian Robert Jones](/with/brian-robert-jones/)**, bass: same Tiny Giant session player as [*Little Homes*](/albums/little-homes-fein/) and [Fresh Fruit](/songs/fresh-fruit/). Public [Facebook session video (audio)](https://fb.watch/HHqNjxvaOl/) documents Brian tracking the bass part. Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** slot alongside [*Boomerang*](/songs/boomerang/).
+**Christofi & FEiN** collaboration (Walton/Woodward co-write with **Christofi**). Released **February 9, 2016** ([Apple Music](https://music.apple.com/us/album/marry-you-on-the-dance-floor/1082187036?i=1082187040) · [Spotify](https://open.spotify.com/album/5YrlJBROviX741AbKMbWYx)), 4:16, © and ℗ 2016 Christofi & FEiN. On **October 5, 2026**, Spotify showed **1,079,462** plays ([screenshot](/evidence/fein-marry-you-spotify-2026-10-05.png)). [SoundCloud](https://soundcloud.com/christofi/christofi-fein-marry-you-on-the-dance-floor) showed **130,151** plays the same day. A lyrics video uploaded **March 3, 2016** by Aviencloud, not an official FEiN video, had **95,545** views: [Christofi & FEiN – Marry You On The Dance Floor (Lyrics)](https://youtu.be/IL1ift1_qho). **[Brian Robert Jones](/with/brian-robert-jones/)**, bass: same Tiny Giant session player as [*Little Homes*](/albums/little-homes-fein/) and [Fresh Fruit](/songs/fresh-fruit/). Public [Facebook session video (audio)](https://fb.watch/HHqNjxvaOl/) documents Brian tracking the bass part. Not on [*Little Homes*](/albums/little-homes-fein/); a FEiN **collab** slot alongside [*Boomerang*](/songs/boomerang/).
 
 **Mexico Viral 50:** A **May 21, 2016** FEiN Facebook post ([screenshot](/evidence/fein-marry-you-mexico-viral-50.png)): *We passed Justin Timberlake and are now #2 on the Spotify Mexico Viral Charts! Christofi woooo!!* Screenshot shows **Christofi, FEiN: Marry You on the Dance Floor** at **#2** on Spotify's **Mexico Viral 50**, ahead of Justin Timberlake's *CAN'T STOP THE FEELING!* (#4) and Drake's *One Dance* (#10). Aligns with [ReverbNation Blog](https://web.archive.org/web/20220628192349/https://blog.reverbnation.com/2017/01/27/spotify-playlists-dragon-ball-z-and-collabs-an-interview-with-fein/) (**Jan 2017**) citing FEiN near the top of Spotify Viral 50 **US, Canada, and Mexico**: here the Mexico slot is this Christofi collab, not [*#Grownupz*](/songs/grownupz/).
 

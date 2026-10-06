@@ -9,6 +9,8 @@ releaseType: "album"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/my-meddling-kids-hallelujah-sexy.jpg"
+imageAlt: "Cover for My Meddling Kids (Hallelujah Sexy). A red bar reading SCOOBERT over a low-poly figure on a cream and black field."
 
 credits: "Written, performed, mixed, and mastered by Luke Francis Walton."
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/getting-easier.jpg"
+imageAlt: "Cover for Getting Easier. A pine with one side burning, on a blue field."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/getting-easier/1708670332?i=1708670343"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -69,7 +72,6 @@ lyrics: |
   But it's getting easier to me
 
 draft: false
-
 ---
 
 Track ten on [*MÖB*](/albums/mob/), penultimate before [*All I Need*](/songs/all-i-need/). Luke's note: **trying to conceive of being a father**. He does not have kids yet, so the song is rehearsal, not report.

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/shrimp-burrito/1675559395?i=1675559404"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"

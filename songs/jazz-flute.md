@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe."
+credits: "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe. Artwork by Grizzard Graphics."
+image: "/photos/covers/jazz-flute.jpg"
+imageAlt: "Cover for JAZZ FLUTE. A ceramic lamp with a cloth shade and no bulb, on a blue field in a gold frame. Scoobert Doobert across the top, Jazz Flute across the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/jazz-flute/1811369001?i=1811369002"
 
@@ -62,7 +65,7 @@ draft: false
 
 ---
 
-Second chapter of [*US*](/albums/us/), the unplugged fantasy after [*QUIET YOUR MIND!!!*](/songs/quiet-your-mind/)'s belief lullaby: *ain't got shit to do*, our own private island, me and you. Two matching erasures are the trick of it. No internet (*I never heard of it*), no politics (*I never heard of him*). Ignorance as intimacy.
+Second chapter of [*US*](/albums/us/), the unplugged fantasy after [*QUIET YOUR MIND!!!*](/songs/quiet-your-mind/)'s belief lullaby: *ain't got shit to do*, our own private island, me and you. On **October 5, 2026**, Spotify showed **23,050** plays, **2:27**. *MOAR FLUTE* and the instrumental had no play count shown. The count moves. Two matching erasures are the trick of it. No internet (*I never heard of it*), no politics (*I never heard of him*). Ignorance as intimacy.
 
 The bridge is the earnest center, breathe in, breathe out, *we can make it if we stick together*, then the permission to slow it down. Not a travel montage and not the party refusal of [*AFTER-PARTY*](/songs/after-party/), just doing nothing together on purpose.
 

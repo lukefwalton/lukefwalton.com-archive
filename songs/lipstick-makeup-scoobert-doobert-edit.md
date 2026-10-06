@@ -7,6 +7,9 @@ year: 2024
 releaseType: "single"
 
 artist: "Thumpasaurus"
+image: "/photos/covers/lipstick-makeup-scoobert-doobert-edit.jpg"
+imageAlt: "Cover for the Lipstick Makeup edit. A yellow hard hat and a tube of lipstick."
+imageCredit: "Artwork by Grizzard Graphics."
 
 role: remix
 remixOf: "Lipstick Makeup"
@@ -32,7 +35,7 @@ draft: false
 
 ---
 
-**Scoobert Doobert Edit** of **Thumpasaurus’** **“Lipstick Makeup”**: **September 27, 2024** (Beformer; ~2:00 edit). Luke Francis Walton reshapes the LA indie pop-funk band’s 2023 single: Thumpasaurus framed the original as saying “fuck it” and letting your freak out at the dance party ([CelebMix](https://celebmix.com/thumpasaurus-unveils-new-single-music-video-lipstick-makeup/)); the edit tightens that energy for streaming.
+**Scoobert Doobert Edit** of **Thumpasaurus’** **“Lipstick Makeup”**: **September 27, 2024** (Beformer; ~2:00 edit). On **October 5, 2026**, Spotify showed **22,561** plays, **2:46**. The count moves. Luke Francis Walton reshapes the LA indie pop-funk band’s 2023 single: Thumpasaurus framed the original as saying “fuck it” and letting your freak out at the dance party ([CelebMix](https://celebmix.com/thumpasaurus-unveils-new-single-music-video-lipstick-makeup/)); the edit tightens that energy for streaming.
 
 Remix/edit credit, not a Scoobert original. Thumpasaurus are an LA pop-funk band who, like Luke, went to USC. Original appeared on Thumpasaurus’ *Hard* era (**March 2023**).
 

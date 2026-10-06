@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/singing-for-u.jpg"
+imageAlt: "Cover for singing for u. A line drawing of a microphone."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/singing-for-u/1734387671?i=1734387676"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -67,7 +70,6 @@ lyrics: |
   For you for you
 
 draft: false
-
 ---
 
 Track five on [*I*](/albums/i/), out ahead of the LP as a single. On a record where *I* is a moving coordinate around someone else, this is the vow: a working musician's *all of my life been waiting on you*, where even the dream of muses gets replaced. The job description rewrites itself, from singing **about** u to singing **for** u.

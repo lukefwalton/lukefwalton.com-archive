@@ -5,6 +5,8 @@ meaning: "FEiN and Lara Johnston, June 28, 2015: the first FEiN Times release. W
 
 artist: "FEiN & Lara Johnston"
 artistId: "#fein"
+image: "/photos/fein-times-lara-johnston-out-of-my-mind.jpg"
+imageAlt: "Cover for Out of My Mind. The collage reads FEiN Times × Lara Johnston, Out of my mind, with cut-out eyes, lips, a nose, and a black X."
 
 coWriters: ["Brandon Michael Woodward", "Lara Johnston"]
 credits: "Written by Luke Francis Walton, Brandon Michael Woodward and Lara Johnston, a third each. SoundCloud, June 28, 2015: produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato at Woodcliff Studios."
@@ -84,8 +86,6 @@ lyrics: |
 
 draft: false
 ---
-
-![Cover for Out of My Mind. The collage reads FEiN Times × Lara Johnston, Out of my mind, with cut-out eyes, lips, a nose, and a black X.](/photos/fein-times-lara-johnston-out-of-my-mind.jpg)
 
 <audio controls preload="none" src="/audio/out-of-my-mind.mp3">
   <a href="/audio/out-of-my-mind.mp3">Play Out of My Mind</a>

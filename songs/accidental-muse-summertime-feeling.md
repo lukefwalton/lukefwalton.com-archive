@@ -21,6 +21,8 @@ press:
 
 themes: ["Collaboration", "Accidental Muse", "Tamtam", "2018"]
 
+isrc: QZ5FN1895964
+isrcSource: spotify
 draft: false
 ---
 

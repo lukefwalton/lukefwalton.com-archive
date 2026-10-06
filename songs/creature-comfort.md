@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
+image: "/photos/covers/creature-comfort.jpg"
+imageAlt: "Cover for Creature Comfort. A green and brown swirl behind a silhouette."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 youtube: "https://www.youtube.com/watch?v=o6eORzIqltE"
@@ -118,7 +121,6 @@ lyrics: |
   Doo doo doo
 
 draft: false
-
 ---
 
 Track three on [*Masks and Monsters*](/albums/masks-and-monsters/), also a standalone single (April 2020). Luke solo, North Park lockdown record. Not a cover: the title plays on *creature comfort* as domestic coping, not travel nostalgia.

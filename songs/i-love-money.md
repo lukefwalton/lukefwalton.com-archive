@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/i-love-money.jpg"
+imageAlt: "Cover for I Love Money. A portrait with a dog's nose and hundred-dollar marks."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=-j3oPQLH-YY"
@@ -102,7 +105,6 @@ lyrics: |
   Who loves that money
 
 draft: false
-
 ---
 
 Track four on [*Big Hug*](/albums/big-hug/), and a title that's bait for a switch: *I hate money, it's trying to control me, but when I'm turning 30, I know I'll be worshiping a dollar bill.* Luke solo, October 2021, same satire as [*Don't Worry*](/songs/dont-worry/) and [*I Live in California*](/songs/i-live-in-california/). The chorus runs American pathology through a Tolkien joke, *money, my precious ring of power, I'm billing by the hour*: Gollum energy on hourly work, with *born and bred American who loves that money* as the honest line under the hate.

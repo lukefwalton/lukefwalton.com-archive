@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
+image: "/photos/covers/lucky-you.jpg"
+imageAlt: "Cover for Lucky You. The title on a dark gradient."
 
 apple: "https://music.apple.com/us/album/lucky-you/1433490143?i=1433490149"
 spotify: "https://open.spotify.com/track/6I3mzmCFomvtpWl7Ie1Eds"
@@ -79,7 +81,7 @@ lyrics: |
 draft: false
 ---
 
-**FEiN** single (**August 24, 2018**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** (same Woodcliff chain as [*Behave*](/songs/behave/) and [*Infant*](/songs/infant/)). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2018 single cluster after [*Friend*](/songs/friend/) (June 2018).
+**FEiN** single (**August 24, 2018**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **135,318** plays, **2:53**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** (same Woodcliff chain as [*Behave*](/songs/behave/) and [*Infant*](/songs/infant/)). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); 2018 single cluster after [*Friend*](/songs/friend/) (June 2018).
 
 A deal you already asked for, with the need admitted upfront (*didn't you beg for a minute of relief*) and a grotesque price tag attached: *so what if it came with a mother in a cage*. *Little Homes* theatrical cruelty applied to intimacy, where acceptance means swallowing the whole package. The chorus is sarcasm as care, pity dressed up as a VIP pass: *you get invited to the party / cause you're looking so sorry*. The title repeats like a host congratulating a guest who had no choice.
 

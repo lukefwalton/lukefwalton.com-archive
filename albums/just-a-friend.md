@@ -6,6 +6,9 @@ description: "Early archive: solo EP from Luke Walton’s teenage songwriter per
 year: 2007
 releaseType: EP
 
+image: "/photos/just-a-friend-ep-cover-2007.jpg"
+imageAlt: "Cover for Just a Friend. Luke Walton playing guitar in a sunlit room, the title at the lower right."
+
 artist: "Luke Walton"
 artistId: "#person"
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/underwater.jpg"
+imageAlt: "Cover for Underwater. A danger sign about unstable cliffs."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/underwater/1708670332?i=1708670340"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -78,7 +81,6 @@ lyrics: |
   Underwater
 
 draft: false
-
 ---
 
 Track seven on [*MÖB*](/albums/mob/), the emotional low point before the record turns to mania, bowling, and [*All I Need*](/songs/all-i-need/). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) called it heavy and unusually chart-capable.

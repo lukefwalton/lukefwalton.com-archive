@@ -9,6 +9,8 @@ releaseType: "EP"
 
 artist: "Exist Elsewhere"
 artistId: "#existelsewhere"
+image: "/photos/exist-elsewhere-cant-fall-cover.jpg"
+imageAlt: "Cover for Can't Fall. The title in tall letters, a green figure holding a megaphone in place of the apostrophe, gray blocks around the edges, Exist Elsewhere in the corners."
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (Exist Elsewhere). Engineered by Luke Francis Walton, Brandon Michael Woodward and Frank Rosato; mixed and mastered by Frank Rosato."

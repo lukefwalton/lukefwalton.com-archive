@@ -5,6 +5,8 @@ description: "The 2018 second LP after Finding SD: a free Bandcamp collage LP, b
 
 year: 2018
 releaseDate: 2018-05-09
+image: "/photos/covers/wami.jpg"
+imageAlt: "Cover for $WAMI$. A cartoon figure with a guitar among horns, drums, and a keyboard, the title in dollar signs above."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -51,6 +53,8 @@ draft: false
 ---
 
 *$WAMI$* (say it “Swami’s,” like the beer and the beach) is the second Scoobert Doobert LP after [*Finding $D*](/albums/finding-d-remastered/), before [*Dragon Ball $d*](/albums/dragon-ball-d/). It landed on [Bandcamp as *$WAMI$ (LP)*](https://scoobertdoobert.bandcamp.com/album/wami-lp) on May 9, 2018: a free digital album, twenty tracks, about thirty-three minutes. Luke Francis Walton wrote, played, tracked, mixed, mastered, and cut the [visual album](https://www.youtube.com/watch?v=7Iv0SgQRdV4) himself. Babidi and Gokudaxij show up on featured vocals; Louis Cole sits in on the drum-and-bass moments ([*Vegeta Is Bulma's Bad Boi*](/songs/vegeta-is-bulmas-bad-boi/), [*Shaggy Connections*](/songs/shaggy-connections/)). The kit is real; the loops are borrowed from Nate Smith, Efa Etoroma Jr, and Bernard Purdie and then deliberately messed with.
+
+On **October 5, 2026**, the 18-track Spotify album showed these plays. The numbers move. A blank cell stayed blank. *Prometheus & Groove* 2,257 (1:13). *Phone Plan* 2,183 (2:23). *Friends* 9,755 (2:18). *Romantic Capitalism* 1,287 (0:37). *I Want Yu Yu* feat. Babidi 3,537 (2:57). *Essence of You* 1,492 (1:12). *Jeff Sessions* 2,342 (1:26). *Smoke That Weed* 9,939 (1:19). *Scoobert Snack Pt. 2* 1,116 (2:01). *Adonde Eres* 4,037 (3:04). *Shaggy Connections* 1,432 (3:58). *Mother of Exile* 1,265 (2:19), a different listing from the *Finding $D* cut. *Running with the Shaggy* feat. Babidi 115,321 (2:06). *Smarter Child (Slight Return)* had no count (3:32). *Rest in Peace Smarter Child* had no count (1:10). The *Running with the Shaggy* remix 3,971 (1:09). The *Adonde Eres* remix 217,760 (1:06). *Next Time on Dragon Ball Sd* feat. Nick Belcher had no count (1:35).
 
 The title has an Encinitas root. A [Purple Melon](https://purplemelonmu.com/2017/08/08/chatterbox-scoobert-doobert/) interview has Scoobert tying a single back to Swami’s Beach: one of the main Encinitas breaks, named after Paramahansa Yogananda, with a song born after wandering the Self-Realization Gardens and feeling creeped out by religion. [91X](https://www.91x.com/music/scoobert-doobert-dont-worry/) covers the Encinitas side: Swami’s, the Surfing Madonna, the Cardiff Kook, bandmates gone for college, learning drums and bass and production by jamming with himself. That local surf-spiritual weirdness is the seed; weed humor, cartoon escape, and internet brain are what grew.
 

@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/michael-buble-my-santa-buddy.jpg"
+imageAlt: "Cover for Michael Bublé, My Santa Buddy. A knitted sweater with Santa, snowflakes, and the title."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/michael-bubl%C3%A9-my-santa-buddy/1710592001?i=1710592002"
 spotify: "https://open.spotify.com/track/6pzdUv15Llpd4MD4nkmPBH"

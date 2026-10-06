@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/department-of-motor-vehicles-dmv/1708670332?i=1708670336"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"

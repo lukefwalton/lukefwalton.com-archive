@@ -6,6 +6,8 @@ description: "December 2018 Bandcamp-only lofi hip-hop EP: improvised meditation
 year: 2018
 releaseDate: 2018-12-01
 releaseType: "EP"
+image: "/photos/covers/to-sleep.jpg"
+imageAlt: "Cover for to sleep. A concrete overpass at night, streetlights, and a red moon."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"

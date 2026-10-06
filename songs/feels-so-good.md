@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/feels-so-good.jpg"
+imageAlt: "Cover for Feels So Good. Two people at a beach fire, one with a ukulele."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/feels-so-good/1675559395?i=1675559400"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
@@ -114,7 +117,6 @@ lyrics: |
   It feels so good
 
 draft: false
-
 ---
 
 Track two on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single **January 13, 2023** ahead of the LP (May 19, 2023). Luke's note on Apple: written thinking about best friends on [Moonlight State Beach](https://www.parks.ca.gov/?page_id=659), beer in hand. A platonic love song for the homies.

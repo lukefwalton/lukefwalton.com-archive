@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/alright.jpg"
+imageAlt: "Cover for Alright. The title filled with a beach scene, Scoobert Doobert along the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 youtube: "https://www.youtube.com/watch?v=CkmdF0jQn2s"
 
@@ -78,7 +81,7 @@ draft: false
 
 ---
 
-Standalone single (**July 11, 2025** · Beformer × indiemono), not on [*US*](/albums/us/) or any in-progress LP. A post-*I* beach day, like the 2025 single [*best. day. ever.*](/songs/best-day-ever/).
+Standalone single (**July 11, 2025** · Beformer × indiemono), not on [*US*](/albums/us/) or any in-progress LP. On **October 5, 2026**, Spotify showed **907,635** plays, **3:22**. The count moves. A post-*I* beach day, like the 2025 single [*best. day. ever.*](/songs/best-day-ever/).
 
 It started as a voice note on a cliff above Moonlight Beach: California burrito, waves, and a silly call-and-response, *you feeling alright?* / *yeah*. The song keeps asking until the answer sticks. The logistics are the romance: you bring the weed, I'll bring the music, is this a holiday or a workday? (*I think that it's Tuesday*.) Sunroof down, UV on purpose.
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/sunlight.jpg"
+imageAlt: "Cover for Sunlight. A red, white, and blue popsicle."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/sunlight/1708670332?i=1708670335"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -71,7 +74,6 @@ lyrics: |
   Oo yeah
 
 draft: false
-
 ---
 
 Track three on [*MÖB*](/albums/mob/), the turn toward warmth after [*Stories*](/songs/stories/)' head-loop. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) singled it out for bouncy funk energy, which fits its job: the album trying an answer to its own anxiety. The verses are a summer inventory (popsicle picnic, mango with Tajín, margarita number two) and the chorus is a prescription repeated until it sticks: *imma be in the sunlight*, throw a beer back, *savor it*.

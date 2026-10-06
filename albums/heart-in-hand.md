@@ -6,6 +6,9 @@ description: "Early archive: 2008 self-released solo EP from Luke Walton’s tee
 year: 2008
 releaseType: EP
 
+image: "/photos/luke-walton-heart-in-hand-album-cover-2008.jpg"
+imageAlt: "Cover for Heart in Hand. A black-and-white portrait of Luke Walton, the title in red at the lower left."
+
 artist: "Luke Walton"
 artistId: "#person"
 

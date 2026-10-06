@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
+image: "/photos/covers/a-good-life.jpg"
+imageAlt: "Cover for A Good Life. A green and brown swirl behind a silhouette."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=NQphM2Pq-3M"
@@ -111,7 +114,6 @@ lyrics: |
   My dear
 
 draft: false
-
 ---
 
 Track six on [*Masks and Monsters*](/albums/masks-and-monsters/), also released as a standalone single ahead of the LP (May 4, 2020). North Park lockdown record. Babidi and Gokudaxij appear elsewhere on the album, but this one is Luke alone.

@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed by Cary Singer. Mastered by Riley Knapp."
+image: "/photos/covers/culling.jpg"
+imageAlt: "Cover for Culling. The title on a purple gradient."
 
 apple: "https://music.apple.com/us/album/culling/1474688283?i=1474688284"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
@@ -78,10 +80,9 @@ lyrics: |
   I'm not getting over
 
 draft: false
-
 ---
 
-**FEiN** single (**June 20, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed by Cary Singer, mastered by Riley Knapp, the same engineering chain as [*800,000*](/songs/800-000/). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); later-era FEiN, same duo.
+**FEiN** single (**June 20, 2019**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **1,732,906** plays, **3:51**. The count moves. Mixed by Cary Singer, mastered by Riley Knapp, the same engineering chain as [*800,000*](/songs/800-000/). Not on [*Little Homes*](/albums/little-homes-fein/) (2016); later-era FEiN, same duo.
 
 Grief that won't drain. The opening sits underwater (*settled in the sediment*), then the chorus runs through bargains that never land: money, a letter, learning to love the wound. None of it moves the fact underneath, *I'm not getting over you*.
 

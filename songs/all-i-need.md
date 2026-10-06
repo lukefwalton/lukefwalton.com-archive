@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/all-i-need.jpg"
+imageAlt: "Cover for All I Need. A for-sale sign reading se vende casa."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/all-i-need/1708670332?i=1708670344"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -84,7 +87,6 @@ lyrics: |
   I got all that I need
 
 draft: false
-
 ---
 
 Track eleven, the [*MÖB*](/albums/mob/) closer. After illness, mania, bowling, and Gemini duality, the record lands on **enough**.

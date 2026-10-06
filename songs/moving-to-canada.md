@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/moving-to-canada.jpg"
+imageAlt: "Cover for Moving to Canada. A portrait in a hockey helmet."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/moving-to-canada/1526561413?i=1526561415"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
@@ -94,10 +97,9 @@ lyrics: |
   Eh eh
 
 draft: false
-
 ---
 
-Standalone single (**September 8, 2020**), not on [*Masks and Monsters*](/albums/masks-and-monsters/) (August 2020) but the same season: a post-LP exit fantasy from when America felt unlivable. Luke solo. [Official music video](https://www.youtube.com/watch?v=oNmOB8WVc_U); [Backseat Mafia](https://www.backseatmafia.com/premiere-scoobert-doobert-releases-new-video-for-moving-to-canada/) premiered it. [91X's Loudspeaker Top 5 for September 2020](https://www.91x.com/loudspeaker/91x-loudspeaker-top-5-september-2020/) ranked it **#4**. The station page is dated September 3, 2020, and Tim Pyles produced the monthly list. Per Luke's note, it started with a MAGA man telling him *if you don't like it here, then move*. The reply: *hell, guy, come to think of it I just might.* A song to whistle on the way.
+Standalone single (**September 8, 2020**), not on [*Masks and Monsters*](/albums/masks-and-monsters/) (August 2020) but the same season: a post-LP exit fantasy from when America felt unlivable. On **October 5, 2026**, Spotify showed **6,277** plays, **3:04**. The count moves. Luke solo. [Official music video](https://www.youtube.com/watch?v=oNmOB8WVc_U); [Backseat Mafia](https://www.backseatmafia.com/premiere-scoobert-doobert-releases-new-video-for-moving-to-canada/) premiered it. [91X's Loudspeaker Top 5 for September 2020](https://www.91x.com/loudspeaker/91x-loudspeaker-top-5-september-2020/) ranked it **#4**. The station page is dated September 3, 2020, and Tim Pyles produced the monthly list. Per Luke's note, it started with a MAGA man telling him *if you don't like it here, then move*. The reply: *hell, guy, come to think of it I just might.* A song to whistle on the way.
 
 So Canada becomes a maple-syrup wonderland, the *land of milk and honey* where cold is a feature not a bug and *I could take a winter with you*. The portal is a wardrobe (*oh, Narnia*), the panic is real (*people turning funny / got a little running to do*), and the relocation plays as romance. Verse two is tourist French, *parlez-vous Français*, *je t'aime*, Montreal is *pretty pretty nice*, freedom treated as geography rather than abstraction. The punchline is the faux-Canadian *eh? / eh eh*.
 

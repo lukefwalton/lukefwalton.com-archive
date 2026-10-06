@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
+image: "/photos/covers/shaggys-anthem.jpg"
+imageAlt: "Cover for Shaggy's Anthem. A green and brown swirl behind a silhouette."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=ZQ-AGDsqdrI"
@@ -106,7 +109,6 @@ lyrics: |
   Ah
 
 draft: false
-
 ---
 
 Track eleven on [*Masks and Monsters*](/albums/masks-and-monsters/), teased ahead of the LP by [Neon Music](https://neonmusic.co.uk/face-your-fears-with-scoobert-dooberts-shaggys-anthem) as courage while your knees are shaking. Luke solo; North Park lockdown record.

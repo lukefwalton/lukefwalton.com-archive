@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics."
+image: "/photos/covers/mystery-machine.jpg"
+imageAlt: "Cover for Mystery Machine. A green and brown swirl behind a silhouette."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw"
 officialVideo: "https://www.youtube.com/watch?v=A_mbXWe1JFA"
@@ -122,7 +125,6 @@ lyrics: |
   Nostalgic
 
 draft: false
-
 ---
 
 Track seventeen on [*Masks and Monsters*](/albums/masks-and-monsters/). **Luke solo**, North Park lockdown, **August 2020**. Penultimate before [*Derrida Makes a Différance*](/songs/derrida-makes-a-differance/) closes the LP; [Last Day Deaf](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/) tied the naming story to this title. The Mystery Machine works here as van, as band vehicle, and as time machine pointed backward.

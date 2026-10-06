@@ -9,6 +9,9 @@ releaseType: "album"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/dancing-in-the-moonlight-beach.jpg"
+imageAlt: "Cover for Dancing in the Moonlight (Beach). A large moon, shooting stars, and a pale continent."
+imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "King Harvest"
@@ -28,7 +31,6 @@ press:
 isrc: QZFZ72303986
 isrcSource: soundexchange
 draft: false
-
 ---
 
 Track three on [*Moonlight Beach*](/albums/moonlight-beach/), Scoobert’s cover of **King Harvest’s** **“Dancing in the Moonlight,”** retitled **“(Beach)”** to tie the song to [Moonlight State Beach](https://www.parks.ca.gov/?page_id=659) in Encinitas. The album essay treats covers as part of the record’s social, hang-out surface: less solipsistic bedroom pop, more “come outside.”

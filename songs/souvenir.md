@@ -8,6 +8,9 @@ releaseType: "single"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/souvenir.jpg"
+imageAlt: "Cover for Souvenir. Neon-green script over an SD monogram."
+imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "Bump of Chicken"
@@ -22,7 +25,7 @@ draft: false
 
 ---
 
-Standalone cover of **Bump of Chicken’s** **“Souvenir.”** One of Scoobert's Japanese covers, with [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/): J-rock and J-pop repertoire released as standalone singles.
+Standalone cover of **Bump of Chicken’s** **“Souvenir.”** On **October 5, 2026**, Spotify showed **1,282** plays, **4:11**. The count moves. Cover art by Grizzard Graphics. One of Scoobert's Japanese covers, with [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/): J-rock and J-pop repertoire released as standalone singles.
 
 Original lyrics by Bump of Chicken. No lyrics published here.
 

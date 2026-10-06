@@ -5,6 +5,8 @@ meaning: "FEiN x Lara Johnston end-of-summer funk collab (2015): put on your dan
 
 artist: "FEiN & Lara Johnston"
 artistId: "#fein"
+image: "/photos/covers/fresh-fruit.jpg"
+imageAlt: "Cover for Fresh Fruit. A collage reading FEiN Times × Lara Johnston, with cut-out eyes, lips, a nose, an eyebrow, and a black X."
 
 coWriters: ["Brandon Michael Woodward", "Lara Johnston"]
 credits: "Written by Luke Francis Walton, Brandon Michael Woodward and Lara Johnston, a third each. SoundCloud description: Brian Jones, bass (Brian Robert Jones); Eric Radloff, hype man; Brandon Woodward, drums/percussion/keys; Luke Walton, guitar/keys; Lara Johnston, vocals; produced and recorded by FEiN at Tiny Giant; mixed and mastered by Frank Rosato (Woodcliff Studios)."

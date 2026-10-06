@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/see-you-again.jpg"
+imageAlt: "Cover for see you again? A line drawing of a sign with Japanese writing."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/see-you-again/1734387671?i=1734387742"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -74,7 +77,6 @@ lyrics: |
   I probably will
 
 draft: false
-
 ---
 
 Track eleven on [*I*](/albums/i/). Luke's note: **for many friends he has lost on the journey of life**. Not one breakup song, not a plot twist, but a song for people who drifted, died, moved away, or became unreachable while you were still becoming.

@@ -5,7 +5,9 @@ description: "A 2023 pop/alt-pop LP and the first released turn of the planned f
 
 year: 2023
 releaseDate: 2023-10-20
-artworkBy: "Gentle Giant Illustrations"
+artworkBy: "Grizzard Graphics"
+image: "/photos/covers/mob.jpg"
+imageAlt: "Cover for MÖB. Dimensional letters MÖB filled with a color gradient, on a dark field inside an orange frame."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -44,7 +46,9 @@ draft: false
 
 [*Finding $D*](/albums/finding-d-remastered/) is the lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. [*Masks and Monsters*](/albums/masks-and-monsters/) is the pandemic record. [*Little Hug*](/albums/little-hug/) is the small recovery object. [*Big Hug*](/albums/big-hug/) is the post-pandemic LP. [*KŌAN*](/albums/koan/) is the four-part koan with Japanese-language songs and spatial audio. [*Moonlight Beach*](/albums/moonlight-beach/) is the place-record, radio record, and live-body record. **MÖB** is the first Möbius turn: body, memory, anxiety, survival, and loop-form.
 
-[Bandcamp *MÖB (LP)*](https://scoobertdoobert.bandcamp.com/album/m-b-lp) dropped **October 20, 2023** ($10 or more, 24-bit/88.2kHz). Eleven tracks, about twenty-eight minutes, on [Spotify](https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB) and [Apple Music](https://music.apple.com/us/album/m%C3%B6b/1708670332) (listed as *Möb*). Album art by Gentle Giant Illustrations; mastering by Riley Knapp. Written, performed, produced, mixed, and the rest by Scoobert Doobert.
+[Bandcamp *MÖB (LP)*](https://scoobertdoobert.bandcamp.com/album/m-b-lp) dropped **October 20, 2023** ($10 or more, 24-bit/88.2kHz). Eleven tracks, about twenty-eight minutes, on [Spotify](https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB) and [Apple Music](https://music.apple.com/us/album/m%C3%B6b/1708670332) (listed as *Möb*). Album art by [Grizzard Graphics](/with/grizzard-graphics/); mastering by Riley Knapp. Written, performed, produced, mixed, and the rest by Scoobert Doobert.
+
+On **October 5, 2026**, Spotify showed these plays. The numbers move. Where a single shows the same figure, it is one count. *Stories* 474,349 (2:46). *MEMORY LAN* 110,392 (3:32). *Sunlight* 73,031 (2:27). *Department of Motor Vehicles (DMV)* 18,166 (2:46). *Aliens* 2,722 (0:37). *TOO HOT* 39,164 (2:30). *Underwater* 301,434 (2:32). *fuck it let's go bowling* 101,274 (2:45). *Gemini* 85,484 (2:26). *Getting Easier* 63,189 (3:06). *All I Need* 15,775 (3:11).
 
 Rock Da Fuq Out describes it as Scoobert’s second LP of 2023 and says it moves away from conventional single-album cycles into interlinked multi-album narrative. The same feature names *I*, *US*, and *MÖBIUS* as the planned follow-ons, with *MÖB* as the beginning of a larger self-discovery and acceptance story.
 

@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/all-my-friends-live-on-the-internet.jpg"
+imageAlt: "Cover for All My Friends Live on the Internet. A swirl lollipop on a round platform."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/track/5R5AqwSE7juUd0t6xCI6Ep"
 apple: "https://music.apple.com/us/song/all-my-friends-live-on-the-internet/1618192115"
@@ -89,7 +92,6 @@ lyrics: |
   Yeah
 
 draft: false
-
 ---
 
 Track twenty on [*KŌAN*](/albums/koan/), **KŌAN C** closer energy, also a standalone single with [video](https://www.youtube.com/watch?v=16Xymn7W9_w).

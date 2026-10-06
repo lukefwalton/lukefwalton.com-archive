@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/golden-state-of-mind.jpg"
+imageAlt: "Cover for golden state of mind. A line drawing of a quail."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/golden-state-of-mind/1734387671?i=1734387746"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -56,7 +59,6 @@ lyrics: |
   Washing all my worries far away
 
 draft: false
-
 ---
 
 Track thirteen, the [*I*](/albums/i/) closer. Coronado, Catalina, Sierra: a coast-to-mountain slice of the state, mapped in drift mode rather than hustle. The line that gives it more than postcard is *talking by the fire about fate*, the LP's only verse where the *u* and the *I* sit still long enough to argue cosmology. Everything else is the album exhaling.

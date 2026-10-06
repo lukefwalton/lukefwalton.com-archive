@@ -21,7 +21,7 @@ draft: false
 
 ---
 
-**Prisoner** (2024) is a standalone single credited on [Spotify](https://open.spotify.com/track/7xLPHO0iQmoFnDSLXK0JrX) to **J MESA** and **Scoobert Doobert**. [Deezer](https://www.deezer.com/) writer/composer metadata lists **Luke Francis Walton** and **Taylor James Washington**: [**Taylor James**](/with/j-mesa/) is **J MESA**; the same person earlier appeared as **Babidi** on [*Dragon Ball $d*](/albums/dragon-ball-d/), [*$WAMI$*](/albums/wami/), [*Masks and Monsters*](/albums/masks-and-monsters/), and the *Big Hug* collabs [*I See the Moment*](/songs/i-see-the-moment/) and [*Hold Up*](/songs/hold-up/).
+**Prisoner** (2024) is a standalone single credited on [Spotify](https://open.spotify.com/track/7xLPHO0iQmoFnDSLXK0JrX) to **J MESA** and **Scoobert Doobert**. On **October 5, 2026**, Spotify showed **18,327** plays, **2:25**. The count moves. [Deezer](https://www.deezer.com/) writer/composer metadata lists **Luke Francis Walton** and **Taylor James Washington**: [**Taylor James**](/with/j-mesa/) is **J MESA**; the same person earlier appeared as **Babidi** on [*Dragon Ball $d*](/albums/dragon-ball-d/), [*$WAMI$*](/albums/wami/), [*Masks and Monsters*](/albums/masks-and-monsters/), and the *Big Hug* collabs [*I See the Moment*](/songs/i-see-the-moment/) and [*Hold Up*](/songs/hold-up/).
 
 A **collaborator** credit. On record: the joint artist line and the writer metadata. No source names Scoobert as mixer on this release.
 

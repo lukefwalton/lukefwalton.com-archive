@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/lol.jpg"
+imageAlt: "Cover for LOL. A pair of worn high-top sneakers on a blue field in a green frame. Scoobert Doobert across the top, LOL across the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/lol/1797939506?i=1797939507"
 youtube: "https://www.youtube.com/watch?v=102G_fiuUqg"
@@ -60,7 +63,7 @@ lyrics: |
   But those around that say they love me
   Would never say something so rude
 
-  Uncomfortably scilent
+  Uncomfortably silent
   Tell me what's new
   Keep it light and mildly excitting
   See you later
@@ -113,7 +116,7 @@ draft: false
 
 ---
 
-Fifth chapter of [*US*](/albums/us/), social dread spelled out loud. There's no confidence to end any sentence with anything other than *L-O-L*, and a party invite gets the softest possible decline: *maybe maybe, see you someday, LOL*.
+Fifth chapter of [*US*](/albums/us/), social dread spelled out loud. On **October 5, 2026**, Spotify showed **43,837** plays on *LOL* (3:17), **1,277** on *THIS IS FINE* (1:41), and **1,067** on the *LOL* instrumental (3:17). The *THIS IS FINE* instrumental had no play count shown (1:41). The counts move. There's no confidence to end any sentence with anything other than *L-O-L*, and a party invite gets the softest possible decline: *maybe maybe, see you someday, LOL*.
 
 Under the punctuation is the line the bridge stacks six times: *I don't wanna say something wrong*. Small humiliations pile up (shoes-off house rules you won't enforce on friends, food in teeth nobody who *loves* you will mention) until the song shrugs off answers entirely: *philosophical songs never have answers*. Then the LOL escalates to *LMFAO* and *ROFLMAO*. Anxiety wearing joke armor.
 

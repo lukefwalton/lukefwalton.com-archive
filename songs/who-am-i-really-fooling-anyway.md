@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/who-am-i-really-fooling-anyway.jpg"
+imageAlt: "Cover for Who Am I Really Fooling Anyway. A cube billboard on a pole."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/track/7dQ9xKHNC1mqx5TYqMSUmH"
 apple: "https://music.apple.com/us/song/who-am-i-really-fooling-anyway/1618192109"
@@ -109,7 +112,6 @@ lyrics: |
   Yeah, who am I really fooling anyway?
 
 draft: false
-
 ---
 
 Track fifteen on [*KŌAN*](/albums/koan/), **KŌAN C** (June 30, 2022), after [*No Worries, Yes Worries*](/songs/no-worries-yes-worries/). Luke solo; [YouTube](https://www.youtube.com/watch?v=nh-pjqaxgjI) video.

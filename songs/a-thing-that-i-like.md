@@ -96,7 +96,7 @@ draft: false
 
 ---
 
-**FASONE** × **Scoobert Doobert**: **April 22, 2022** (Spotify genre tag: progressive house; label **FASONE**). International collab; Luke Francis Walton on the Scoobert side. Co-written with **Edward Fasone**. The hook is the cigarette as coping, then the relationship as hazmat: *this ain't a love life / this is a goodbye*.
+**FASONE** × **Scoobert Doobert**: **April 22, 2022** (Spotify genre tag: progressive house; label **FASONE**). On **October 5, 2026**, Spotify showed **13,020** plays, **2:37**. The count moves. International collab; Luke Francis Walton on the Scoobert side. Co-written with **Edward Fasone**. The hook is the cigarette as coping, then the relationship as hazmat: *this ain't a love life / this is a goodbye*.
 
 **Spotify editorial:** [@beformer confirmed Fresh Finds Rock](https://www.instagram.com/p/CdMWBOAvXML/) (May 5, 2022). See [Catalog: official playlists](/catalog/#spotify-editorial).
 

@@ -5,7 +5,9 @@ description: "The 2020 pandemic record: eighteen tracks written, played, mixed, 
 
 year: 2020
 releaseDate: 2020-08-11
-artworkBy: "Gentle Giant Illustrations"
+artworkBy: "Grizzard Graphics"
+image: "/photos/covers/masks-and-monsters.jpg"
+imageAlt: "Cover for Masks and Monsters. A split-tone face in a face mask against a green swirl, the title at the lower left."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -62,7 +64,9 @@ draft: false
 
 *Masks and Monsters* is the pandemic record. Fourth in the early Scoobert run, after [*Dragon Ball $d*](/albums/dragon-ball-d/).
 
-[*Finding $D*](/albums/finding-d-remastered/) is the one-day lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. **Masks and Monsters** is the pandemic self-portrait. Luke Francis Walton wrote, played, mixed, and mastered the whole thing in North Park, San Diego, while the world was very small. Babidi (Taylor James / J MESA) cowrote and sings on *Quarantine and Chill* and *My Mind Is Slowly Slipping*. Gokudaxij (Eric Radloff) cowrote and sings on *Happy Birthday*. Everything else is Luke. Cover art by Gentle Giant Illustrations.
+On **October 5, 2026**, Spotify showed these plays. The numbers move. A blank cell stayed blank. Where a single showed the same figure, it is one count. *It Can Get Worse* had no count (1:59). *Snuggle With Shaggy* 1,284 (2:00). *Creature Comfort* 3,105 (3:53; the single is 3:58). *When It's Over* 1,674 (2:40). *Pandemic Blues* had no count (1:13). *A Good Life* 2,759 (3:23; the single is 3:24). *Wash Your Fucking Hands* had no count (0:59). *Flip Flop Phil* had no count (2:10). *Quarantine and Chill* had no count (1:59). *My Mind Is Slowly Slipping* 11,693 (4:07). *Shaggy's Anthem* 5,845 (4:07). *Happy Birthday* 3,274 (4:12). *Coca Cola* had no count (3:46). *Corona* 1,272 (2:43). *I Am a Slave to the Yeast* had no count (1:00). *Why, How, Yeah, Yeah* had no count (2:46). *Mystery Machine* 4,583 (3:59). *Derrida Makes a Différance* had no count (3:33).
+
+[*Finding $D*](/albums/finding-d-remastered/) is the one-day lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. **Masks and Monsters** is the pandemic self-portrait. Luke Francis Walton wrote, played, mixed, and mastered the whole thing in North Park, San Diego, while the world was very small. Babidi (Taylor James / J MESA) cowrote and sings on *Quarantine and Chill* and *My Mind Is Slowly Slipping*. Gokudaxij (Eric Radloff) cowrote and sings on *Happy Birthday*. Everything else is Luke. Cover art by [Grizzard Graphics](/with/grizzard-graphics/).
 
 [Bandcamp *Masks & Monsters (LP)*](https://scoobertdoobert.bandcamp.com/album/masks-monsters-lp) dropped **August 11, 2020** ($8 or more, 24-bit/88.2kHz). [Spotify](https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw), [Apple Music](https://music.apple.com/us/album/masks-and-monsters/1526427944), and Deezer all list **18 tracks, about fifty minutes**. The [visual album](https://www.youtube.com/watch?v=8zcGome9-yI) calls it explicitly “my full pandemic record.”
 

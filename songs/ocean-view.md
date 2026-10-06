@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/ocean-view.jpg"
+imageAlt: "Cover for Ocean View. A blue cliff house at night, with a meteor over the beach."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/ocean-view/1675559395?i=1675559402"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
@@ -72,7 +75,6 @@ lyrics: |
   Ooo ooo ooo
 
 draft: false
-
 ---
 
 Track four on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single ahead of the LP. [EARMILK](https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/) heard laidback summer guitar, bass grooves, and calm ocean-facing pop.

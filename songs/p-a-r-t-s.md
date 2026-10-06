@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato."
+image: "/photos/covers/p-a-r-t-s.jpg"
+imageAlt: "Cover for P.A.R.T.S. The same face drawn in white on black."
 
 spotify: "https://open.spotify.com/track/6rxLTaLscf1nrgdXSUTRAi"
 apple: "https://music.apple.com/us/album/p-a-r-t-s/1216076785?i=1216077047"
@@ -86,10 +88,9 @@ lyrics: |
   Maybe I missed the point believing in it all
 
 draft: false
-
 ---
 
-**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), and [*All Mine*](/songs/all-mine/). [Fresh Beats 365](https://freshbeats365.com/2017/03/28/listen-fein-parts/) called it the duo's weirdest yet: melody through the centre, occasional funk guitar, otherwise *a landslide of everything you've come to expect* modulated through *sonic fuckery*.
+**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **200,293** plays, **4:00**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), and [*All Mine*](/songs/all-mine/). [Fresh Beats 365](https://freshbeats365.com/2017/03/28/listen-fein-parts/) called it the duo's weirdest yet: melody through the centre, occasional funk guitar, otherwise *a landslide of everything you've come to expect* modulated through *sonic fuckery*.
 
 Development as religion, want as campaign. The skyline rises into *the ever-looming void* to make *more room to store your new vehicle*, and the refrain lands like policy: *compromise is for the under-achieving poor*. Even the candidate's pitch undercuts itself, *maybe I missed the point believing in it all*.
 

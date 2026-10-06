@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Drawn by Luke Francis Walton."
+image: "/photos/covers/merry-christmas-from-the-beach.jpg"
+imageAlt: "Cover for merry christmas (from the beach). A drawing of Santa in board shorts, holding a surfboard."
+imageCredit: "Drawn by Luke Francis Walton."
 
 apple: "https://music.apple.com/us/album/merry-christmas-from-the-beach/1784055571?i=1784055572"
 
@@ -92,10 +95,9 @@ lyrics: |
   Merry Christmas
 
 draft: false
-
 ---
 
-Standalone holiday single (**December 13, 2024** · Beformer), not on [*US*](/albums/us/), [*Moonlight Beach*](/albums/moonlight-beach/), or *A Very Doobert Christmas, Vol. 1* (that's the [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) era). Same kind of seasonal single as [*don't join the skeletons!*](/songs/dont-join-the-skeletons/): holiday song, California register.
+Standalone holiday single (**December 13, 2024** · Beformer). On **October 5, 2026**, Spotify showed **66,277** plays, **3:36**. The count moves. Not on [*US*](/albums/us/), [*Moonlight Beach*](/albums/moonlight-beach/), or *A Very Doobert Christmas, Vol. 1* (that's the [*Michael Bublé, My Santa Buddy*](/songs/michael-buble-my-santa-buddy/) era). Same kind of seasonal single as [*don't join the skeletons!*](/songs/dont-join-the-skeletons/): holiday song, California register.
 
 The hook is the whole argument: *merry Christmas from the beach*, *it's alright to do it differently*. White caps for snow, a coastal pine for the Charlie Brown tree, sand angels and palm-tree lights, *a little bit chilly / at least to me*. SoCal winter as its own tradition.
 

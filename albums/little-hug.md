@@ -6,6 +6,9 @@ description: "A 2021 visual EP, often misfiled as an album: the small recovery o
 year: 2021
 releaseDate: 2021-04-30
 releaseType: EP
+artworkBy: "Grizzard Graphics"
+image: "/photos/covers/little-hug.jpg"
+imageAlt: "Cover for Little Hug. Hands holding a peach with a baby coming out of it, the title in pink along the top."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -50,6 +53,8 @@ draft: false
 ---
 
 *Little Hug* is an EP. [Bandcamp titles it *Little Hug (EP)*](https://scoobertdoobert.bandcamp.com/album/little-hug), released **April 30, 2021**, twelve tracks, about **22:40** by the listed runtimes. Bandcamp's product type still says "digital album." [Spotify](https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB) and [Apple Music](https://music.apple.com/us/album/little-hug/1558296985) bucket it as an album because it has twelve tracks. Culturally it's an EP; platform-wise it gets album-sorted. That's the metadata trap.
+
+On **October 5, 2026**, Spotify showed these plays. The numbers move. A blank cell stayed blank. Where a single showed the same figure, it is one count. *Walking Balboa* had no count (0:18). *If I Could Only* 14,053 (3:03). *My Home Was Invaded by Crickets* 2,475 (0:39). *Premadonna* 10,256 (3:20). *No Fap* 1,769 (0:30). *Take a Breath* 18,348 (3:34). *I'm Addicted to Baths* had no count (0:25). *Can't Imagine Feeling Better* 1,115,638 (2:38). *I Am a Lobster, I Am a Barnacle* 2,171 (1:21). *Don't Know Much* 9,899 (3:02). *Debby* 4,273 (1:21). *A Little Hug* 2,807 (2:29).
 
 Fifth in the Scoobert run, after [*Masks and Monsters*](/albums/masks-and-monsters/). [*Finding $D*](/albums/finding-d-remastered/) is the lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. **Masks and Monsters** is the pandemic record. **Little Hug** is the small recovery object. [Glasse Factory](https://glassefactory.com/scoobert-dooberts-new-track-think-about-it-is-experimental-funk-at-its-finest/) quotes Scoobert on **coming back into the world**. Balboa, baths, breath, home, body, wanting connection, not quite okay but reaching for warmth anyway. Titles still funny, but less worldbuilding-heavy than *$WAMI$* or *Dragon Ball $d*. The joke register is more intimate.
 

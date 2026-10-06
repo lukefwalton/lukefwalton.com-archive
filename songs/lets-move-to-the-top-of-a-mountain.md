@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/lets-move-to-the-top-of-a-mountain.jpg"
+imageAlt: "Cover for Let's Move to the Top of a Mountain. A round platform with a small mountain on top."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
 youtube: "https://www.youtube.com/watch?v=262Lyzs67yQ"
@@ -88,7 +91,6 @@ lyrics: |
   Do do do
 
 draft: false
-
 ---
 
 Track two on [*KŌAN*](/albums/koan/), **KŌAN A** (March 18, 2022), after [*Think About It*](/songs/think-about-it/). Luke solo. Where track one spirals on NFTs and Schrödinger, this answers with a mountain utopia: a scat hook (*do do do*) and domestic fantasy as pop celebration. The grammar wobbles between *on top of a mountain* and *to the top of a mountain*, as if the plan isn't quite real yet.

@@ -10,7 +10,10 @@ releaseType: "EP"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/dont-know-much.jpg"
+imageAlt: "Cover for Don't Know Much. A portrait in a bear mask."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB"
 youtube: "https://www.youtube.com/watch?v=wVRJ5E4spXs"
@@ -135,7 +138,6 @@ lyrics: |
   Yeah
 
 draft: false
-
 ---
 
 Track ten on [*Little Hug*](/albums/little-hug/) (**April 2021**), also a standalone single (**February 2, 2021**) ahead of the EP. Luke solo. Not a cover of the Linda Ronstadt / Aaron Neville ballad; same title phrase, different confession, with incompetence as identity rather than romance. [Official music video](https://www.youtube.com/watch?v=uCHW0_DCD6c).

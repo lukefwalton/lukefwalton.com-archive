@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/daydreaming.jpg"
+imageAlt: "Cover for daydreaming. A keychain and a tag reading San Diego."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/daydreaming/1734387671?i=1734387672"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -90,7 +93,6 @@ lyrics: |
   Day dreaming
 
 draft: false
-
 ---
 
 Track one on [*I*](/albums/i/), the LP's front door, released ahead of the album as a single. *I* is the second Möbius LP, after [*MÖB*](/albums/mob/).

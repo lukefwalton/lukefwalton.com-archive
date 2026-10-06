@@ -5,7 +5,9 @@ description: "A 2023 Encinitas beach-pop LP: Moonlight State Beach, surf/funk, c
 
 year: 2023
 releaseDate: 2023-05-19
-artworkBy: "Gentle Giant Illustrations"
+artworkBy: "Grizzard Graphics"
+image: "/photos/covers/moonlight-beach.jpg"
+imageAlt: "Cover for Moonlight Beach. A cliff house, a beach fire, and a full moon, with the title at the lower left."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -66,7 +68,9 @@ draft: false
 
 [*Finding $D*](/albums/finding-d-remastered/) is the lab notebook. [*Swami's*](/albums/wami/) is the collage LP. [*Dragon Ball $d*](/albums/dragon-ball-d/) is the narrative hip-hopera. [*Masks and Monsters*](/albums/masks-and-monsters/) is the pandemic record. [*Little Hug*](/albums/little-hug/) is the small recovery object. [*Big Hug*](/albums/big-hug/) is the post-pandemic LP. [*KŌAN*](/albums/koan/) is the four-part koan with Japanese-language songs and spatial audio. **Moonlight Beach** is the place-record, radio record, and live-body record.
 
-[Bandcamp *Moonlight Beach*](https://scoobertdoobert.bandcamp.com/album/moonlight-beach) dropped **May 19, 2023** ($8 or more, 24-bit/88.2kHz). Ten tracks, about twenty-eight minutes, on [Spotify](https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA) and [Apple Music](https://music.apple.com/us/album/moonlight-beach/1675559395). Album art by Gentle Giant Illustrations; mastering by Riley Knapp. The cover was posted to [r/AlbumArtPorn](https://www.reddit.com/r/AlbumArtPorn/comments/14q12jg/scoobert_doobert_moonlight_beach/) in 2023.
+[Bandcamp *Moonlight Beach*](https://scoobertdoobert.bandcamp.com/album/moonlight-beach) dropped **May 19, 2023** ($8 or more, 24-bit/88.2kHz). Ten tracks, about twenty-eight minutes, on [Spotify](https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA) and [Apple Music](https://music.apple.com/us/album/moonlight-beach/1675559395). Album art by [Grizzard Graphics](/with/grizzard-graphics/); mastering by Riley Knapp. The cover was posted to [r/AlbumArtPorn](https://www.reddit.com/r/AlbumArtPorn/comments/14q12jg/scoobert_doobert_moonlight_beach/) in 2023.
+
+On **October 5, 2026**, Spotify showed these plays. The numbers move. Where a single shows the same figure, it is one count. *Walk Don't Run* 13,522 (2:30). *Feels So Good* 600,092 (3:15). *Dancing in the Moonlight (Beach)* 907,203 (3:03). *Ocean View* 102,579 (3:42). *Tired of the Sunshine* 129,752 (3:28). *Shrimp Burrito* 65,302 (1:30). *Meteor Shower* 256,238 (3:51). *Gonna Go to Japan* 467,907 (3:06). *Low Tide* 13,096 (3:31). The closer had no play count shown (0:15).
 
 [Moonlight State Beach](https://www.parks.ca.gov/?page_id=659) is an actual Encinitas beach: California State Parks lists it as operated by the City of Encinitas, with a snack shack, rentals, playground, and Junior Lifeguard programs. On Apple Music, Luke notes that *Feels So Good* was written thinking about best friends on Moonlight Beach, beer in hand: a platonic love song for the homies.
 

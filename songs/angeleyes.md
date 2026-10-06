@@ -8,6 +8,8 @@ releaseType: "single"
 
 artist: "Scoobert Doobert feat. Lou Roy"
 artistId: "#scoobert"
+image: "/photos/covers/angeleyes.jpg"
+imageAlt: "Cover for angeleyes. A polaroid of a dog on a wood table."
 
 cover: true
 coverOf: "ABBA"
@@ -37,7 +39,6 @@ press:
   - outlet: "SecondHandSongs: ABBA cover lineage"
     url: "https://secondhandsongs.com/performance/Scoobert%20Doobert/angeleyes"
     desc: "Cover of ABBA \"Angeleyes\" (Andersson/Ulvaeus; Anderson on public metadata)."
-
 ---
 
 Standalone cover of **ABBA**’s **“Angeleyes”** (1979, Andersson/Ulvaeus) with [**Lou Roy**](/with/lou-roy/) on the feature vocal: **August 12, 2022** per streaming metadata. [@beformer announced official Spotify All New Indie placement](https://www.instagram.com/p/ChK7dGXP2L8/) the same day, then [Ultimate Indie](https://www.instagram.com/p/Chk5SZiv_JH/) **August 22, 2022**, and [Dinner with Friends](https://www.instagram.com/p/Ch20Lxav5Yk/) **August 29, 2022**. A Spotify for Artists email on **May 5, 2023** (1:16 p.m.) added it to **Café Croissant** (208,842 followers). Roy also sings background vocals on six tracks of [*I*](/albums/i/) (see [with hub](/with/lou-roy/) and [album notes](/albums/i/)).
@@ -46,7 +47,9 @@ Scoobert’s version keeps the original’s river-walk betrayal setup, *look int
 
 Distro: **Beformer**. No lyrics published here (cover).
 
-**Circulation (public and personal records):** Shazam lists **20,384 Shazams** on **angeleyes (feat. Lou Roy)** (release **August 12, 2022**, label **Beformer**; songwriters **Benny Andersson, Björn Ulvaeus, Stig Anderson** on public metadata). [BIRP!](https://www.birp.fm/playlist/2022/september-2022/) listed the track in its **September 2022** Indie Playlist. [SecondHandSongs](https://secondhandsongs.com/performance/Scoobert%20Doobert/angeleyes) places the recording in the ABBA **Angeleyes** cover lineage. Personal records, including friend videos and account-visible playlist history, indicate that much of the Shazam activity came from **H&M in-store rotation**, not an official H&M sync or campaign, and not publicly confirmed by H&M.
+**H&M:** The song played in **H&M stores globally**. That in-store rotation is what drove most of the Shazams.
+
+**Circulation:** Shazam lists **20,384 Shazams** on **angeleyes (feat. Lou Roy)** (release **August 12, 2022**, label **Beformer**; songwriters **Benny Andersson, Björn Ulvaeus, Stig Anderson** on public metadata). [BIRP!](https://www.birp.fm/playlist/2022/september-2022/) listed the track in its **September 2022** Indie Playlist. [SecondHandSongs](https://secondhandsongs.com/performance/Scoobert%20Doobert/angeleyes) places the recording in the ABBA **Angeleyes** cover lineage. On **October 5, 2026**, Spotify showed **1,668,101** plays, **3:54**. The count moves.
 
 See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/#radio-playlists) · [With Lou Roy](/with/lou-roy/) · [Catalog: collaborations](/catalog/#collaborations)
 

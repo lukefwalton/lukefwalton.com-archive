@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato."
+image: "/photos/covers/fear.jpg"
+imageAlt: "Cover for Fear. A drawn face on the trunk of a bare tree."
 
 spotify: "https://open.spotify.com/track/3Te0HmHKL9ElwcK71PfbHY"
 apple: "https://music.apple.com/us/album/fear/1210648666?i=1210648903"
@@ -85,10 +87,9 @@ lyrics: |
   Fear is all I understand
 
 draft: false
-
 ---
 
-**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/).
+**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **48,096** plays, **3:09**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/).
 
 The hook is a paradox: *I'm not afraid of you / I'm terrified of your friends*. Not the person, the network. Fear is the only fluency anyone has left here (*fear is all I understand*, stacked to a mantra), and the stretched *cle-ea-ea-ea* never resolves into a word.
 

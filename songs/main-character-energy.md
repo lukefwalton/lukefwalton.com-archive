@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+image: "/photos/covers/main-character-energy.jpg"
+imageAlt: "Cover for MAIN CHARACTER ENERGY. A riveted wooden chest on a brown field in a purple frame. Scoobert Doobert across the top, Main Character Energy across the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/main-character-energy/1786629815?i=1786629816"
 
@@ -75,7 +78,7 @@ draft: false
 
 ---
 
-Sixth and final released chapter of [*US*](/albums/us/) (Jan 3, 2025). It opens the LP sequence. The full album is scheduled for **January 2027**.
+Sixth and final released chapter of [*US*](/albums/us/) (Jan 3, 2025). It opens the LP sequence. The full album is scheduled for **January 2027**. On **October 5, 2026**, Spotify showed **30,458** plays on the song and **1,028** on the instrumental, both **2:30**. The counts move.
 
 It opens on Bashō's *old pond* haiku, 古池や, frog and the sound of water, then hard-cuts to game brain: *speed run it, become rich and gun it*. Stillness, then main-character syndrome at full volume. The chorus grinds *life XP* and needs more DLC; verse two names the glitch when the loot screen turns up nothing: *digging through inventory and it's surprisingly empty*.
 

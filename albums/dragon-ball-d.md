@@ -6,6 +6,8 @@ description: "The third Scoobert record: a 2020 DBZ hip-hopera with Babidi, Goku
 year: 2020
 releaseDate: 2020-02-22
 artworkBy: "Grizzard Graphics"
+image: "/photos/covers/dragon-ball-d.jpg"
+imageAlt: "Cover for Dragon Ball $d. A figure with spiked hair and glasses alone in an empty theater, arms stretched across the seats."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -37,6 +39,8 @@ draft: false
 ---
 
 *Dragon Ball $d* (say it “Dragon Ball SD,” same $d joke as [*Finding $D*](/albums/finding-d-remastered/)) is the third Scoobert Doobert album, after [*Swami's*](/albums/wami/) and before [*Masks and Monsters*](/albums/masks-and-monsters/). [*Finding $D*](/albums/finding-d-remastered/) is the lab notebook. *$WAMI$* is the collage LP. **Dragon Ball $d** is the first record built around one story. Bandcamp calls it straight: [“dragon ball z fueled a hip-hopera.”](https://scoobertdoobert.bandcamp.com/album/dragon-ball-d-lp) With Gokudaxij, Babidi (J MESA), and Nick Belcher.
+
+On **October 5, 2026**, Spotify showed these plays. The numbers move. A blank cell stayed blank. *In Peacetime Goku Smokes Blunts* 1,558 (1:58). *Prince of All Saiyans* 1,395 (1:45). *Oozaru* had no count (1:30). *Namek* had no count (2:05). *Enter, the Ginyu Force* 1,079 (1:17). *Vegeta's Lament* 1,000 (2:40). *Ally to Good* had no count (1:25). *My Dad Sucks* had no count (1:30). *A Real Monster / Vegeta's Sacrifice* 1,132 (3:28). *Party at Capsule Corp* had no count (2:07). *While My Beerus Gently Sleeps* 1,060 (2:37).
 
 **FEiN bridge:** While Luke Walton was still half of [**FEiN**](/music/fein/), [ReverbNation Blog](https://web.archive.org/web/20220628192349/https://blog.reverbnation.com/2017/01/27/spotify-playlists-dragon-ball-z-and-collabs-an-interview-with-fein/) (**Jan 27, 2017**) ran *Spotify Playlists, Dragon Ball Z, and Collabs: An Interview with FEiN*. Asked why [*#Grownupz*](/songs/grownupz/) hit 1M+ Spotify plays, Luke answered: *Hashtags and the letter z. #DragonBallZ*, a punchline about the title’s **#** and **z**, and the headline named Dragon Ball Z in the public FEiN record, three years before this LP. Same interview: Christofi × [*The Disco*](/songs/the-disco-feat-mike-funk/), the duo’s *fourth writer* collab ethos, and *Get ready to be SPOOKED* (biweekly singles). More: [Catalog: Dragon Ball $d](/catalog/#dragon-ball-spine) · [Topic](/topics/dragon-ball-z/).
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/i-live-in-california.jpg"
+imageAlt: "Cover for I Live in California. A person lying on the sand, seen from above."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=vGywF3QeCuc"
@@ -74,7 +77,6 @@ lyrics: |
   We all live with our momma
 
 draft: false
-
 ---
 
 The [*Big Hug*](/albums/big-hug/) opener runs on one joke: performing California while the math doesn't work. Luke solo, October 2021. An Ohio kid takes a selfie at the beach in winter and tells his family he surfs every day, though he never even caught a wave, then loops back home anyway. *From Cali back to Cleveland, I am never leaving.* The *no* reads as a defiant stay, not an escape fantasy.

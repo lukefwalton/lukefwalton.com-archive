@@ -5,6 +5,8 @@ description: "September 2020 meme beat tape: oddly satisfying, decreasingly verb
 
 year: 2020
 releaseDate: 2020-09-21
+image: "/photos/covers/plague-beats-vol-1.jpg"
+imageAlt: "Cover for Plague Beats, Vol. 1. A teal swirl around the SD monogram, with the title and a large 1."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -22,7 +24,7 @@ tracks:
 draft: false
 ---
 
-**Plague Beats, Vol. 1**, six-track beat tape, **September 21, 2020**, ~one minute per track. Luke Francis Walton solo; same pandemic season as [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Moving to Canada*](/songs/moving-to-canada/). Meme titles as songs, minimal runtime, maximum title-as-content, the first plague-era beat tape before [*Plague Beats, Vol. 2*](/albums/plague-beats-vol-2/) (May 2021).
+**Plague Beats, Vol. 1**, six-track beat tape, **September 21, 2020**, ~one minute per track. Luke Francis Walton solo; same pandemic season as [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Moving to Canada*](/songs/moving-to-canada/). Meme titles as songs, minimal runtime, maximum title-as-content, the first plague-era beat tape before [*Plague Beats, Vol. 2*](/albums/plague-beats-vol-2/) (May 2021). On **October 5, 2026**, Spotify showed **1,024** plays on *Cats Are Assholes* (1:00). The other five tracks had no play count shown. The count moves.
 
 Five lyric tracks have annotation pages. **Track three:** *Cats Are Assholes (Drums and Bass Only)*: **instrumental** (no song-meaning page); same hook as track six without vocals. **Closer:** [*Cats Are Assholes*](/songs/cats-are-assholes/), full vocal pass, four times, QED.
 

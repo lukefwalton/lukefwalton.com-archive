@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato."
+image: "/photos/covers/its-alright.jpg"
+imageAlt: "Cover for It's Alright. A round face drawn in black on white."
 
 spotify: "https://open.spotify.com/album/3gIeas5bwtUn6ab8j1fjaO"
 apple: "https://music.apple.com/us/album/its-alright/1202428287?i=1202428536"
@@ -62,10 +64,9 @@ lyrics: |
   Everyone's thinking it
 
 draft: false
-
 ---
 
-**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). [Glamglare](https://www.glamglare.com/music/song-pick-fein-its-alright/) called it affirmative despite moodier undertones, a song that *begins on a quieter more restrained note, picking up instruments and sounds along the way and ending with a grande finale*. [Fresh Beats 365](https://freshbeats365.com/2017/02/18/listen-fein-its-alright-review/) (**Feb 18, 2017**, Tom Roden): *For the second month in a row, FEiN has demonstrated that it is a musical force to be reckoned with* (following the [**Jan 30, 2017** *The Disco* review](https://freshbeats365.com/2017/01/30/fein-mike-funk-the-disco-listen/)), while the outfit had been more tongue-in-cheek about sadder tones, *It's Alright* brings them to the fore after [*The Disco*](/songs/the-disco-feat-mike-funk/)'s upbeat funk; *arguably the outfit's most melancholy song, yet one of the most rousing alternative tracks of 2017 to date*. Roden read betrayal and insistently sour tonality beneath the usual charming deliveries and hypnotic vocalwork: *an attempt to ease the world's sadness while feigning mastery of your own*.
+**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **338,628** plays, **3:36**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Post-*Little Homes* 2017 cluster with [*LOVED*](/songs/loved/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). [Glamglare](https://www.glamglare.com/music/song-pick-fein-its-alright/) called it affirmative despite moodier undertones, a song that *begins on a quieter more restrained note, picking up instruments and sounds along the way and ending with a grande finale*. [Fresh Beats 365](https://freshbeats365.com/2017/02/18/listen-fein-its-alright-review/) (**Feb 18, 2017**, Tom Roden): *For the second month in a row, FEiN has demonstrated that it is a musical force to be reckoned with* (following the [**Jan 30, 2017** *The Disco* review](https://freshbeats365.com/2017/01/30/fein-mike-funk-the-disco-listen/)), while the outfit had been more tongue-in-cheek about sadder tones, *It's Alright* brings them to the fore after [*The Disco*](/songs/the-disco-feat-mike-funk/)'s upbeat funk; *arguably the outfit's most melancholy song, yet one of the most rousing alternative tracks of 2017 to date*. Roden read betrayal and insistently sour tonality beneath the usual charming deliveries and hypnotic vocalwork: *an attempt to ease the world's sadness while feigning mastery of your own*.
 
 A demagogue's recruitment pitch that opens on victimhood (*you look like you could use some saving my son*) before the conversion: *give me ten minutes and I'll turn that fear into fire*. The chorus isn't comfort, it's license. You're allowed your grievance because *everyone's thinking it*.
 

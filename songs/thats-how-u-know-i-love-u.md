@@ -11,6 +11,9 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/thats-how-u-know-i-love-u.jpg"
+imageAlt: "Cover for that's how u know i love u. A candy heart reading I do."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/thats-how-u-know-i-love-u/1734387671?i=1734387740"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -68,7 +71,6 @@ lyrics: |
   I do
 
 draft: false
-
 ---
 
 Track nine on [*I*](/albums/i/). The title's logic lands in one line: *I'll never ever leave you lonely / or without Gatorade*, devotion as practical supply, hangover specific. Everything else is the inventory it earns: Supermoon rooftop, Tokyo pancakes, rainy-day Chopin, Ghibli with the headache, puzzle on the table. Love shown as **how**, not announced.

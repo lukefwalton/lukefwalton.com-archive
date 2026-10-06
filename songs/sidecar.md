@@ -9,6 +9,8 @@ releaseType: "single"
 
 artist: "FEiN"
 artistId: "#fein"
+image: "/photos/covers/sidecar.jpg"
+imageAlt: "Cover for Sidecar. A close photograph of a pale, textured wall."
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato."
@@ -83,7 +85,7 @@ draft: false
 
 ---
 
-**FEiN** single (**December 10, 2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Late-era FEiN; not on [*Little Homes*](/albums/little-homes-fein/).
+**FEiN** single (**December 10, 2021**), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **130,044** plays, **3:51**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Late-era FEiN; not on [*Little Homes*](/albums/little-homes-fein/).
 
 The sidecar is the unequal vehicle the song won't admit is unequal. You're attached. You can cheer, you can sing along, you can't steer. The chorus tries to keep that arrangement clean (*this is my stop / but I don't wanna get off without you*), but each pass tightens the consent: *don't wanna* becomes *never getting off*, and the boundary becomes the bind. *No surprise I'm in the furthest seat*, closeness measured in distance from a driver who is already arriving.
 

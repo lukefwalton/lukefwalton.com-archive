@@ -10,7 +10,10 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Featuring Celeste Krishna. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Featuring Celeste Krishna. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/wavy.jpg"
+imageAlt: "Cover for Wavy. Pink script on a field of purple contour lines."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/wavy-feat-celeste-krishna/1585983445?i=1585983447"
 spotify: "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td"
@@ -73,10 +76,9 @@ lyrics: |
   Gotta learn what you forgot
 
 draft: false
-
 ---
 
-Standalone single (**October 22, 2021**), **feat. [Celeste Krishna](https://celestekrishna.com/)** (Alabama-bred, Brooklyn-based singer-songwriter). Luke Francis Walton wrote, performed, and mixed; Riley Knapp mastered. It landed two weeks after [*Big Hug*](/albums/big-hug/) (**October 8, 2021**), the same post-pandemic re-entry summer as the LP but in standalone beach-pop with a guest voice.
+Standalone single (**October 22, 2021**), **feat. [Celeste Krishna](https://celestekrishna.com/)** (Alabama-bred, Brooklyn-based singer-songwriter). On **October 5, 2026**, Spotify showed **20,712** plays, **2:14**. The count moves. Luke Francis Walton wrote, performed, and mixed; Riley Knapp mastered. It landed two weeks after [*Big Hug*](/albums/big-hug/) (**October 8, 2021**), the same post-pandemic re-entry summer as the LP but in standalone beach-pop with a guest voice.
 
 The first verse is a local-paradise checklist, an IPA, a heated jacuzzi, friends home for the weekend, a San Diego *local summer* breaking through June gloom. The chorus reuses the *wavy* vocabulary of [*Kick It in Nirvana*](/songs/kick-it-in-nirvana/) (*getting wavy with that good grass*) on *Big Hug*, here sober and sunlit. The cartoon-beach verse stacks absurd images, *swinging in a coconut* to the beat of a *dophin jump* (the typo is preserved from DistroKid).
 

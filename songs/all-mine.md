@@ -107,7 +107,7 @@ draft: false
 
 ---
 
-**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Closes the post-*Little Homes* 2017 single run with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), and [*P.A.R.T.S.*](/songs/p-a-r-t-s/).
+**FEiN** single (**2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **122,117** plays, **3:31**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)**. Closes the post-*Little Homes* 2017 single run with [*LOVED*](/songs/loved/), [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), and [*P.A.R.T.S.*](/songs/p-a-r-t-s/).
 
 A villain's monologue, extraction dressed as flirtation. *Your focus is my weapon*, and the chorus turns reassurance into threat: *you'll be fine / till the day you drop*. The title is a deed.
 

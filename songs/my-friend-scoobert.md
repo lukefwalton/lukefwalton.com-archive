@@ -102,7 +102,7 @@ draft: false
 
 ---
 
-Track three on [*Finding $D*](/albums/finding-d-remastered/), Luke solo, and the debut LP's first **political loneliness** song. The title names the ask. Scoobert is the invented friend, the persona the project would wear for years, and here he's the friend you make up when the world won't hold you.
+Track three on [*Finding $D*](/albums/finding-d-remastered/), Luke solo, and the debut LP's first **political loneliness** song. On **October 5, 2026**, the album cut showed **5,170** plays, **3:12**. The 2017 single is a different listing and showed **28,829** plays, **3:25**. The counts move. The title names the ask. Scoobert is the invented friend, the persona the project would wear for years, and here he's the friend you make up when the world won't hold you.
 
 The verses are 2017 collapse poetry: Nietzsche, fallen Rome, and Flint-era poison (*our water's full of lead*) stacked next to a glancing *Arjuna, don't kill again*, which borrows the Bhagavad Gita's pacifism-versus-duty knot. Culture-war noise and the *right to my body* land in the same breath. The pre-chorus boils all of it down to a *shitty little brain* that's *overdrawn*, which squares with the [Last Day Deaf](https://lastdaydeaf.com/91-qa-with-scoobert-doobert/)-era talk of raw chaos next to precise moments.
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/memory-lan.jpg"
+imageAlt: "Cover for MEMORY LAN. A purple arcade joystick."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/memory-lan/1708670332?i=1708670334"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -95,7 +98,6 @@ lyrics: |
   Yeah, having that time with you
 
 draft: false
-
 ---
 
 Track two on [*MÖB*](/albums/mob/). A Spotify for Artists email on **July 1, 2023** (2:20 p.m.) added it to **Summer Indie** (425,990 followers). The same playlist added it again on **November 25, 2023** (8:11 a.m., 470,407 followers). The title pun says it: **memory** plus **LAN**, nostalgia as a local network where everyone brought a TV for the sleepover. The detail work dates you exactly, blowing into a cartridge, fresh ASCII art to copy-paste on AIM, *stop screen-watching me, dude*. Fall asleep first and you wake up tattooed, *looking like Anthony Davis before he had a stylist*.

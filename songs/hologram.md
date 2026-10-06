@@ -8,6 +8,9 @@ releaseType: "single"
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
+image: "/photos/covers/hologram.jpg"
+imageAlt: "Cover for Hologram. A spotted dog beside the Japanese katakana for hologram."
+imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "Nico Touches the Walls"
@@ -20,10 +23,9 @@ themes: ["cover", "Japan", "Nico Touches the Walls", "Fullmetal Alchemist", "202
 isrc: QZK6H2004636
 isrcSource: soundexchange
 draft: false
-
 ---
 
-Standalone cover of **Nico Touches the Walls’** **“ホログラム”** (*Hologram*): opening theme for ***Fullmetal Alchemist: Brotherhood***. Released on Scoobert’s second DistroKid account (see [Catalog](/catalog/#covers)); predates the Beformer-era LPs. Later Japan and anime work: [*KŌAN*](/albums/koan/), CHAI production, and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/).
+Standalone cover of **Nico Touches the Walls’** **“ホログラム”** (*Hologram*): opening theme for ***Fullmetal Alchemist: Brotherhood***. On **October 5, 2026**, Spotify showed **3,477** plays, **3:46**. The count moves. Released on Scoobert’s second DistroKid account (see [Catalog](/catalog/#covers)); predates the Beformer-era LPs. Later Japan and anime work: [*KŌAN*](/albums/koan/), CHAI production, and [*Gonna Go to Japan*](/songs/gonna-go-to-japan/).
 
 **[Official cover music video](https://www.youtube.com/watch?v=BCDUhIRTbAo)**, also on [Selected Videos](/music/#selected-videos).
 

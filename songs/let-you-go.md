@@ -43,7 +43,7 @@ lyrics: |
 draft: false
 ---
 
-**Caden Jester feat. FEiN**: a Walton/Woodward topline on **Caden Jester**'s *Let You Go* (**indie dance**). FEiN **featured vocal**. The track plays in [The Fosters](https://what-song.com/song/636184/let-you-go-feat-fein) S5 E9 ("Prom," Freeform, 5 September 2017). A DJ topline slot alongside [*Remember Us*](/songs/remember-us/) (Embody / Armada).
+**Caden Jester feat. FEiN**: a Walton/Woodward topline on **Caden Jester**'s *Let You Go* (**indie dance**). On **October 5, 2026**, Spotify showed **348,872** plays, **3:47**. The count moves. FEiN **featured vocal**. The track plays in [The Fosters](https://what-song.com/song/636184/let-you-go-feat-fein) S5 E9 ("Prom," Freeform, 5 September 2017). A DJ topline slot alongside [*Remember Us*](/songs/remember-us/) (Embody / Armada).
 
 Grief outsourced to the cloud. The opening defers death by storage (*bury it in the cloud where I can find it / whenever I like*), and the hook makes the bargain explicit: *digital means never ever / I'll never have to let you go*. Permanence as a feature spec, mourning solved by backup.
 

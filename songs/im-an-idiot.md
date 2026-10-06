@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/im-an-idiot.jpg"
+imageAlt: "Cover for I'm an Idiot. A mouse reading a book labeled life."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 youtube: "https://www.youtube.com/watch?v=CCZppS-DMiE"
@@ -131,10 +134,9 @@ lyrics: |
   No one cares 'cause we're all idiots
 
 draft: false
-
 ---
 
-Track six on [*Big Hug*](/albums/big-hug/), a single pitched ahead of the album in **September 2021** and added to **Spotify's worldwide New Music Friday** ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). The other worldwide New Music Friday add is [*time with u*](/songs/time-with-u/) (January 5, 2024). Luke solo. [PAN WINYL](https://panwinyl.pl/scoobert-doobert-im-an-idiot-nowosc-san-diego-usa/) (September 12, 2021, Tomasz Olszewski) names the same **New Music Friday** add and **Fresh Finds**. Spotify for Artists emails: **Fresh Finds** on September 9, 2021 (849.3k followers), then **Fresh Finds: Pop** that night at 11:00 p.m. and again on September 10 at 2:18 p.m. (134.4k followers). The New Music Friday email arrived **September 4, 2021** at 12:20 p.m. (3.8 million followers), the morning after Beformer's announcement. [Production and songwriting commentary](https://www.youtube.com/watch?v=sz0jHvnLYG4) is on the Scoobert Doobert YouTube channel. The audio upload is [here](https://www.youtube.com/watch?v=CCZppS-DMiE). [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
+Track six on [*Big Hug*](/albums/big-hug/), a single pitched ahead of the album in **September 2021** and added to **Spotify's worldwide New Music Friday** ([@beformer announcement](https://www.instagram.com/p/CTXwJA_FqMD/), Sep 3, 2021). That placement is how CHAI heard Scoobert. It is not the first pop. [*Can't Imagine Feeling Better*](/songs/cant-imagine-feeling-better/) is. On **October 5, 2026**, Spotify showed **186,555** plays on this single, **3:07** ([screenshot](/evidence/scoobert-im-an-idiot-spotify-2026-10-05.png)). The *Big Hug* page showed the same figure. The same day, *Can't Imagine Feeling Better* showed **1,115,638**. The counts move. The other worldwide New Music Friday add is [*time with u*](/songs/time-with-u/) (January 5, 2024). Luke solo. [PAN WINYL](https://panwinyl.pl/scoobert-doobert-im-an-idiot-nowosc-san-diego-usa/) (September 12, 2021, Tomasz Olszewski) names the same **New Music Friday** add and **Fresh Finds**. Spotify for Artists emails: **Fresh Finds** on September 9, 2021 (849.3k followers), then **Fresh Finds: Pop** that night at 11:00 p.m. and again on September 10 at 2:18 p.m. (134.4k followers). The New Music Friday email arrived **September 4, 2021** at 12:20 p.m. (3.8 million followers), the morning after Beformer's announcement. [Production and songwriting commentary](https://www.youtube.com/watch?v=sz0jHvnLYG4) is on the Scoobert Doobert YouTube channel. The audio upload is [here](https://www.youtube.com/watch?v=CCZppS-DMiE). [UNXIGNED](https://www.unxigned.com/reviews/track-reviews/scoobert-doobert-im-an-idiot/) read it as self-deprecation as freedom, not just confession, and that's the trick: the hook is a joke you can sing in public, with the *hmm* refrain doing the embarrassed punctuation.
 
 The verses run a familiar tape. Faking the laugh and correcting mid-bit (*ooo yeah, I mean no, I'm sorry dude, I didn't follow*), envying the narcissists who *shoot they shot and never think they miss*, then lying awake while the brain keeps *skipping* over stupid things you've said. The bridge is a clean statement of the [spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect): nobody is really looking your way, you're only that important in your own head. The flip is generous, *if anything you might be a little entertained by this idiot*, the performance of idiocy turned into the actual product.
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp."
+credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+image: "/photos/covers/slow-jam-wav-stolen-off-of-napster.jpg"
+imageAlt: "Cover for Slow Jam.wav. A person riding a bike under a starry sky."
+imageCredit: "Artwork by Grizzard Graphics."
 
 spotify: "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn"
 apple: "https://music.apple.com/us/album/slow-jam-wav-stolen-off-of-napster/1585121212?i=1585121221"
@@ -69,7 +72,6 @@ lyrics: |
   With a dream of romance
 
 draft: false
-
 ---
 
 Track eight on [*Big Hug*](/albums/big-hug/), Luke solo, October 2021. The [album essay](/albums/big-hug/) files the Napster jokes alongside Heffalumps and California mythology as the same cartoon shell doing post-pandemic softening. This is the millennial-childhood track: pre-broadband loneliness drawn in a single scene, *AOL not loading cuz Papa on the phone*, so you fire up the Walkman and *pass the night alone*. Romance imagined in mono. The chorus loops the fantasy, a *little kid with a dream of a slow dance, caught up in a 90s romance*, R&B as a time machine to a decade you barely lived.

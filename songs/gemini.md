@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/gemini.jpg"
+imageAlt: "Cover for Gemini. An alarm clock reading 3:00."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/gemini/1708670332?i=1708670342"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -90,7 +93,6 @@ lyrics: |
   (Gemini) Gemini
 
 draft: false
-
 ---
 
 Track nine on [*MÖB*](/albums/mob/), the duality song. A 3 a.m. wake-up arrives tired and suddenly euphoric, and the chorus names the swing before the title does: *up and down*, stacked until it's the melody. The up-verse is an invitation to burn bright (dance with me, *too boring to be stable*, act like fools for eternity), and the bargain is explicit: *never gonna feel bad / always gonna feel good / let's lie to ourselves*. The punchline waits in parentheses: *the night will never end (Gemini) until it ends*.

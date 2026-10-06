@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations."
+credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+image: "/photos/covers/too-hot.jpg"
+imageAlt: "Cover for TOO HOT. A smoothie with a banana and a straw."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/too-hot/1708670332?i=1708670339"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -88,7 +91,6 @@ lyrics: |
   Hot
 
 draft: false
-
 ---
 
 Track six on [*MÖB*](/albums/mob/), body-weather comedy after [*Sunlight*](/songs/sunlight/) chose the sun and before [*Underwater*](/songs/underwater/) goes heavy. The hook is the whole weather report: *too hot outside*, stacked until it's ambient fact.

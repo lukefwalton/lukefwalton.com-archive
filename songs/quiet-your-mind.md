@@ -11,6 +11,8 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 credits: "Written, performed, and mixed by Luke Francis Walton."
+image: "/photos/covers/quiet-your-mind.jpg"
+imageAlt: "Cover for QUIET YOUR MIND!!! A glazed donut, the title underneath."
 
 apple: "https://music.apple.com/us/album/quiet-your-mind/1816392866?i=1816392867"
 
@@ -50,10 +52,9 @@ lyrics: |
   You, the magic is in you
 
 draft: false
-
 ---
 
-First chapter of [*US*](/albums/us/), the “we” turn after *I*’s relational “u.” It's addressed outward, an offer rather than a lecture: something nice, something pretty, something beautiful, if only belief were that easy to hand someone.
+First chapter of [*US*](/albums/us/), the “we” turn after *I*’s relational “u.” On **October 5, 2026**, Spotify showed **12,925** plays, **2:43**. The instrumental had no play count shown. The count moves. It's addressed outward, an offer rather than a lecture: something nice, something pretty, something beautiful, if only belief were that easy to hand someone.
 
 The middle asks plainly whether consciousness is just an accident, *a sprinkle on a donut that's been sitting out all day*. Nothing gets argued. There's only old-fashioned faith that there's music to it, a pattern the speaker's own fingers can't quite play yet.
 

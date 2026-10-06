@@ -26,7 +26,7 @@ isrcSource: spotify
 draft: false
 ---
 
-**Scoobert Doobert** remix of [**Jamie Drake’s**](/with/jamie-drake/) **“New Girl”**: **April 14, 2023** (Antifragile Music). Luke Francis Walton remix credit only.
+**Scoobert Doobert** remix of [**Jamie Drake’s**](/with/jamie-drake/) **“New Girl”**: **April 14, 2023** (Antifragile Music). Luke Francis Walton remix credit only. On **October 5, 2026**, Spotify showed **16,055** plays, **3:23**, credited to Jamie Drake and Scoobert Doobert ([screenshot](/evidence/scoobert-new-girl-remix-spotify-2026-10-05.png)).
 
 [@jamiethedrake](https://www.instagram.com/p/Cq3I6ouOlHb/) announced the remix **April 10, 2023**: out that **Friday** on [@antifragilemusic](https://www.instagram.com/antifragilemusic/) · art [@mollytuttledesign](https://www.instagram.com/mollytuttledesign/) · [pre-save](https://antifragilemusic.ffm.to/newgirlremix). On tour after release, Jamie **closed every set with a dance party to this remix**.
 

@@ -10,7 +10,10 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: Nicole McCabe."
+credits: "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: Nicole McCabe. Artwork by Grizzard Graphics."
+image: "/photos/covers/after-party.jpg"
+imageAlt: "Cover for AFTER-PARTY. A pint glass with a little foam left, on a blue field in a gold frame. Scoobert Doobert across the top, After-Party across the bottom."
+imageCredit: "Artwork by Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/after-party/1807987972?i=1807987973"
 
@@ -111,7 +114,7 @@ draft: false
 
 ---
 
-Third chapter of [*US*](/albums/us/), the after-hours turn. The club says capacity, the night says *we got a place that we go*. Ocean Avenue, Electric Avenue: coastal geography as party logic, shortcuts for when the official room is full.
+Third chapter of [*US*](/albums/us/), the after-hours turn. On **October 5, 2026**, Spotify showed **20,478** plays on *AFTER-PARTY* (2:38). *AFTER-AFTER-PARTY* and both instrumentals had no play count shown. The count moves. The club says capacity, the night says *we got a place that we go*. Ocean Avenue, Electric Avenue: coastal geography as party logic, shortcuts for when the official room is full.
 
 The verses admit the cost (running, falling, bruises nobody can account for), but the chorus isn't moralizing. It sings the rule everyone already knows, *nothing good ever happens after 2 am*, while breaking it on purpose. The after-party isn't a location, it's a refusal to let the night end on someone else's schedule. **Nicole McCabe** is on alto saxophone, the right instrument for a song about staying out past when the room has closed.
 

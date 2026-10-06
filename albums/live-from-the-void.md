@@ -6,6 +6,8 @@ description: "A live concert filmed during the pandemic and placed inside virtua
 year: 2021
 releaseDate: 2021-01-01
 releaseType: "album"
+image: "/photos/covers/live-from-the-void.jpg"
+imageAlt: "Cover for Live from the Void. The title in pale type on white, and a peeled banana at the lower right."
 
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
@@ -35,7 +37,7 @@ draft: false
 
 The audio release is a group of **eight live recordings**: mostly songs from the [*Masks and Monsters*](/albums/masks-and-monsters/) and [*Little Hug*](/albums/little-hug/) era, plus standalone singles like [*2020 Is Over*](/songs/2020-is-over/) and [*My Friend, Scoobert*](/songs/my-friend-scoobert/). Listed on [MusicBrainz](https://musicbrainz.org/) as a Scoobert Doobert live set; streaming platforms date individual tracks **2022**. Luke Francis Walton wrote, played, and mixed the studio originals; these are performance versions, not new compositions.
 
-Notable metadata: [*I Want Yu Yu - Live*](/songs/i-want-yu-yu-live/) and [*My Mind Is Slowly Slipping - Live*](/songs/my-mind-is-slowly-slipping-live/) list **J MESA** (Taylor James / Babidi) and **Malik LovesYall** on the features (studio *My Mind* was **feat. Babidi** on [*Masks and Monsters*](/albums/masks-and-monsters/)): see [With J MESA](/with/j-mesa/).
+Notable metadata: [*I Want Yu Yu - Live*](/songs/i-want-yu-yu-live/) and [*My Mind Is Slowly Slipping - Live*](/songs/my-mind-is-slowly-slipping-live/) list **J MESA** (Taylor James / Babidi) and **Malik LovesYall** on the features (studio *My Mind* was **feat. Babidi** on [*Masks and Monsters*](/albums/masks-and-monsters/)): see [With J MESA](/with/j-mesa/). On **October 5, 2026**, Spotify showed **1,637** plays on *Take a Breath - Live* (3:42). The other seven tracks had no play count shown. The count moves.
 
 See also: [Catalog: live](/catalog/#live)
 

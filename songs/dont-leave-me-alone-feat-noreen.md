@@ -12,9 +12,13 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Featuring Noreen."
+image: "/photos/covers/dont-leave-me-alone-feat-noreen.jpg"
+imageAlt: "Cover for Don't Leave Me Alone. Two small faces, an x, and the name Noreen."
 
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
 
+isrc: TCADA1736360
+isrcSource: soundexchange
 lyrics: |
   My bedroom is vacuum sealed
   I talk to my self
@@ -70,13 +74,10 @@ lyrics: |
 
 themes: ["FEiN", "Collaboration", "feature", "Noreen", "2017"]
 
-isrc: TCADA1736360
-isrcSource: soundexchange
 draft: false
-
 ---
 
-**FEiN** single featuring **Noreen**, co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Indexed in SoundExchange as ISRC **TCADA1736360**, in the same **TCAC\*** FEiN registration cluster as [*It's Alright*](/songs/its-alright/), [*LOVED*](/songs/loved/), and [*P.A.R.T.S.*](/songs/p-a-r-t-s/).
+**FEiN** single featuring **Noreen**, co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **33,184** plays, **3:54**. The count moves. Indexed in SoundExchange as ISRC **TCADA1736360**, in the same **TCAC\*** FEiN registration cluster as [*It's Alright*](/songs/its-alright/), [*LOVED*](/songs/loved/), and [*P.A.R.T.S.*](/songs/p-a-r-t-s/).
 
 See [FEiN on Spotify](https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW) · [Catalog](/catalog/) · [FEiN](/music/fein/)
 

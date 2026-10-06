@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward. Credited Walton/Woodward (BMI) like every FEiN song: the duo splits writing credit 50/50 regardless of who wrote what."
+image: "/photos/covers/friend.jpg"
+imageAlt: "Cover for Friend. The title on an orange gradient."
 
 apple: "https://music.apple.com/us/album/friend-single/1401544089"
 spotify: "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW"
@@ -54,10 +56,9 @@ lyrics: |
   If we could love, then we all could be friends
 
 draft: false
-
 ---
 
-**FEiN** single (**June 27, 2018**), the same song as [*My Friend, Scoobert*](/songs/my-friend-scoobert/) on [*Finding $D*](/albums/finding-d-remastered/) (**2017**), retitled and rerecorded in FEiN's theatrical pop register. Luke Francis Walton's lyrics first; **Brandon Michael Woodward** on the duo recording. No Scoobert in the title, the cartoon friend becomes plain *Friend*.
+**FEiN** single (**June 27, 2018**), the same song as [*My Friend, Scoobert*](/songs/my-friend-scoobert/) on [*Finding $D*](/albums/finding-d-remastered/) (**2017**), retitled and rerecorded in FEiN's theatrical pop register. On **October 5, 2026**, Spotify showed **82,985** plays, **2:22**. The count moves. Luke Francis Walton's lyrics first; **Brandon Michael Woodward** on the duo recording. No Scoobert in the title, the cartoon friend becomes plain *Friend*.
 
 Same political skeleton as the debut: the *motherfuckin senator*, the *tyrant loving elephant*, *Arjuna, don't kill again*, *negotiate the right to my body*. FEiN trims the *pressing silence* middle and the *will you be my friend* tag so the chorus folds straight into *if we could love, then we could be friends*.
 

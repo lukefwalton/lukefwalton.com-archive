@@ -17,6 +17,8 @@
       "year": 2013,
       "releaseDate": "2013-08-02",
       "releaseType": "EP",
+      "image": "/photos/covers/413.jpg",
+      "imageAlt": "Cover for 413. Three white panels of a broken cube with orange numerals 4, 1, and 3, and Exist Elsewhere lettered along the edges.",
       "artist": "Exist Elsewhere",
       "artistId": "#existelsewhere",
       "spotify": "https://open.spotify.com/album/47ORPqoD0omGkbQR2koyW8",
@@ -122,7 +124,7 @@
         {
           "outlet": "Bandcamp: Live on Isle of Wight Radio",
           "url": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
-          "desc": "Live record (Oct 14, 2012): Aaron Dowler on bass. He was the bassist before Nick Petrou and is not on the 413 EP."
+          "desc": "Live record: The Great Beyond, Digital Life, Wavelengths. Aaron Dowler on bass, before Nick Petrou. Bandcamp release November 1, 2012. The masters are free on /albums/live-on-isle-of-wight-radio/."
         },
         {
           "outlet": "Guild Guitars: acoustic Great Beyond and Digital Life",
@@ -170,6 +172,8 @@
       "description": "2023 holiday EP: Luke original \"Michael Bublé, My Santa Buddy,\" plus covers of \"Jingle Bells\" and \"Winter Wonderland\"; instrumental versions of each.",
       "year": 2023,
       "releaseType": "EP",
+      "image": "/photos/covers/a-very-doobert-christmas-vol-1.jpg",
+      "imageAlt": "Cover for A Very Doobert Christmas. A knit sweater pattern with trees, dogs, snowflakes, and the title.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "tracks": [
@@ -442,6 +446,9 @@
       "description": "A 2021 post-pandemic alt-pop LP, sixth in the Scoobert run: Don't Worry at #1 on egoFM's ego 42 chart, Album der Woche on egoFM, and a San Diego Music Awards nomination.",
       "year": 2021,
       "releaseDate": "2021-10-08",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/big-hug.jpg",
+      "imageAlt": "Cover for Big Hug. The Earth and a moon inside rainbow rings, on a star field.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/big-hug-lp",
@@ -606,6 +613,8 @@
       "year": 2020,
       "releaseDate": "2020-02-22",
       "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/dragon-ball-d.jpg",
+      "imageAlt": "Cover for Dragon Ball $d. A figure with spiked hair and glasses alone in an empty theater, arms stretched across the seats.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/dragon-ball-d-lp",
@@ -679,6 +688,86 @@
   },
   {
     "collection": "albums",
+    "slug": "fein-times-issue-1",
+    "title": "FEiN Times (Issue #1)",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/fein-times-issue-1/",
+    "canonicalUrl": "https://lukefwalton.com/albums/fein-times-issue-1/",
+    "archive": {
+      "markdown": "albums/fein-times-issue-1.md",
+      "html": "albums/fein-times-issue-1.html"
+    },
+    "source": "src/content/albums/fein-times-issue-1.md",
+    "metadata": {
+      "title": "FEiN Times (Issue #1)",
+      "description": "August 2014 FEiN EP. Two songs: #Grownupz and Monay Grabba. Still on Spotify. House-shaped FEiN Times newspaper cover.",
+      "year": 2014,
+      "releaseType": "EP",
+      "artist": "FEiN",
+      "artistId": "#fein",
+      "image": "/photos/covers/fein-times-issue-1.jpg",
+      "imageAlt": "Cover for FEiN Times, Issue #1. A house-shaped newspaper masthead, FEiN TIMES, August 2014, musicians' newspaper.",
+      "spotify": "https://open.spotify.com/album/49iMqu8K9R9TucQAzh8Gkq",
+      "apple": "https://music.apple.com/us/album/fein-times-issue-1-single/907610072",
+      "tracks": [
+        {
+          "title": "#Grownupz",
+          "song": "grownupz",
+          "duration": "3:44"
+        },
+        {
+          "title": "Monay Grabba",
+          "song": "monay-grabba",
+          "duration": "3:18"
+        }
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "fein-times-issue-2",
+    "title": "FEiN Times (Issue #2)",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/fein-times-issue-2/",
+    "canonicalUrl": "https://lukefwalton.com/albums/fein-times-issue-2/",
+    "archive": {
+      "markdown": "albums/fein-times-issue-2.md",
+      "html": "albums/fein-times-issue-2.html"
+    },
+    "source": "src/content/albums/fein-times-issue-2.md",
+    "metadata": {
+      "title": "FEiN Times (Issue #2)",
+      "description": "2015 FEiN release, three songs: Girl You Can't Hide It, Creatures, and Lonely People. Spotify files it as a single. Crumpled FEiN Times newspaper cover.",
+      "year": 2015,
+      "releaseType": "EP",
+      "artist": "FEiN",
+      "artistId": "#fein",
+      "image": "/photos/covers/fein-times-issue-2.jpg",
+      "imageAlt": "Cover for FEiN Times, Issue #2. A crumpled newspaper, FEiN TIMES masthead, musicians' newspaper, issue #2.",
+      "spotify": "https://open.spotify.com/album/1QRpK2GejShLkjZs9JJzei",
+      "tracks": [
+        {
+          "title": "Girl You Can't Hide It",
+          "song": "girl-you-cant-hide-it",
+          "duration": "3:26"
+        },
+        {
+          "title": "Creatures",
+          "song": "creatures",
+          "duration": "4:18"
+        },
+        {
+          "title": "Lonely People",
+          "song": "lonely-people",
+          "duration": "3:44"
+        }
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
     "slug": "finding-d-remastered",
     "title": "Finding $D",
     "type": "MusicAlbum",
@@ -694,6 +783,8 @@
       "description": "The 2017 debut LP: every song written, recorded, mixed, and mastered in a single flu-haunted day; Velma, a Scoobert Snack, and meddling kids as bedroom-pop and funk experimentation.",
       "year": 2017,
       "releaseDate": "2017-05-27",
+      "image": "/photos/covers/finding-d-remastered.jpg",
+      "imageAlt": "Cover for Finding $D. An ink drawing of a snarling dog with crossed-out eyes and a blue collar, dated March 23, 2017.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/finding-d-lp",
@@ -788,6 +879,8 @@
       "description": "The Luke Walton Band’s 2010 self-released LP (~35:05), eleven tracks per archived lukewaltonband.com; after solo EPs and Luke Walton feat. Blue Suburbia’s The Other Side (2009).",
       "year": 2010,
       "releaseDate": "2010-09-01",
+      "image": "/photos/covers/goodbye-hello.jpg",
+      "imageAlt": "Cover for Goodbye/Hello. A portrait of Luke Walton, with The Luke Walton Band and the title across the lower half.",
       "artist": "The Luke Walton Band",
       "artistId": "#lukewaltonband",
       "bandcamp": "https://lukewaltonband.bandcamp.com/album/goodbye-hello",
@@ -968,6 +1061,8 @@
       "description": "Early archive: 2008 self-released solo EP from Luke Walton’s teenage songwriter period (~13:00, four tracks).",
       "year": 2008,
       "releaseType": "EP",
+      "image": "/photos/luke-walton-heart-in-hand-album-cover-2008.jpg",
+      "imageAlt": "Cover for Heart in Hand. A black-and-white portrait of Luke Walton, the title in red at the lower left.",
       "artist": "Luke Walton",
       "artistId": "#person",
       "tracks": [
@@ -1070,6 +1165,8 @@
       "year": 2024,
       "releaseDate": "2024-06-14",
       "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/i.jpg",
+      "imageAlt": "Cover for I. A beige letter I centered on diagonal rainbow stripes, inside a blue frame.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/i",
@@ -1181,6 +1278,8 @@
       "description": "Early archive: solo EP from Luke Walton’s teenage songwriter period, recorded in 2006 and released in 2007 (~17:40, six tracks).",
       "year": 2007,
       "releaseType": "EP",
+      "image": "/photos/just-a-friend-ep-cover-2007.jpg",
+      "imageAlt": "Cover for Just a Friend. Luke Walton playing guitar in a sunlit room, the title at the lower right.",
       "artist": "Luke Walton",
       "artistId": "#person",
       "amazon": "https://www.amazon.com/Just-Friend-Luke-Walton/dp/B000XXWXF4",
@@ -1238,9 +1337,26 @@
       "description": "A 2022 four-part alt-pop koan: three EP chapters and an LP-only fourth movement, with Zen paradox, Japanese songwriting, spatial sound, and post-pandemic happiness as pieces of one unresolved question.",
       "year": 2022,
       "releaseDate": "2022-09-09",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/koan.jpg",
+      "imageAlt": "Cover for KŌAN. The title in green among floating platforms on a pale sky.",
+      "covers": [
+        {
+          "image": "/photos/covers/koan-a.jpg",
+          "imageAlt": "Cover for KŌAN A. Floating platforms, a ferris wheel, and a forest disk in a pale sky, titled KŌAN A.",
+          "caption": "KŌAN A",
+          "imageCredit": "Artwork by Grizzard Graphics."
+        },
+        {
+          "image": "/photos/covers/koan-c.jpg",
+          "imageAlt": "Cover for KŌAN C. A glass cube and a disk with a swirl, titled KŌAN C, on a pale sky.",
+          "caption": "KŌAN C",
+          "imageCredit": "Artwork by Grizzard Graphics."
+        }
+      ],
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/koan-lp",
+      "bandcamp": "https://scoobertdoobert.bandcamp.com/album/k-an-lp",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "apple": "https://music.apple.com/us/album/kōan/1618191665",
       "tracks": [
@@ -1463,6 +1579,8 @@
       "artist": "FEiN",
       "artistId": "#fein",
       "artworkBy": "Sarah Oh",
+      "image": "/photos/covers/little-homes-fein.jpg",
+      "imageAlt": "Cover for Little Homes. A folded print of the FEiN Little Homes jacket, window drawings and the title, on a gray field.",
       "spotify": "https://open.spotify.com/album/2xWtW9VwcaoHkS7FnIJfaQ",
       "apple": "https://music.apple.com/us/album/little-homes/1111956961",
       "discogs": "https://www.discogs.com/release/19394809-FEiN-Little-Homes",
@@ -1667,6 +1785,9 @@
       "year": 2021,
       "releaseDate": "2021-04-30",
       "releaseType": "EP",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/little-hug.jpg",
+      "imageAlt": "Cover for Little Hug. Hands holding a peach with a baby coming out of it, the title in pink along the top.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/little-hug",
@@ -1755,6 +1876,61 @@
   },
   {
     "collection": "albums",
+    "slug": "little-little-homes",
+    "title": "Little Little Homes",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/little-little-homes/",
+    "canonicalUrl": "https://lukefwalton.com/albums/little-little-homes/",
+    "archive": {
+      "markdown": "albums/little-little-homes.md",
+      "html": "albums/little-little-homes.html"
+    },
+    "source": "src/content/albums/little-little-homes.md",
+    "metadata": {
+      "title": "Little Little Homes",
+      "description": "March 2016 FEiN EP, still on Spotify. Four songs: Sculptor, Girl You Can't Hide It (Album Version), Outro, and #Grownupz (Album Version). Teaser for the Little Homes LP.",
+      "year": 2016,
+      "releaseType": "EP",
+      "artist": "FEiN",
+      "artistId": "#fein",
+      "image": "/photos/covers/little-little-homes.jpg",
+      "imageAlt": "Cover for Little Little Homes. Line drawings of figures and lightning bolts, with FEiN in heavy type.",
+      "spotify": "https://open.spotify.com/album/4vaKC2xgFmbjXYniF9Cl2v",
+      "tracks": [
+        {
+          "title": "Sculptor",
+          "song": "sculptor",
+          "duration": "3:55"
+        },
+        {
+          "title": "Girl You Can't Hide It (Album Version)",
+          "song": "girl-you-cant-hide-it",
+          "duration": "3:23"
+        },
+        {
+          "title": "Outro",
+          "song": "outro",
+          "duration": "1:27"
+        },
+        {
+          "title": "#Grownupz (Album Version)",
+          "song": "grownupz",
+          "duration": "3:42"
+        }
+      ],
+      "press": [
+        {
+          "outlet": "Fresh Beats 365: Little Little Homes EP review",
+          "url": "https://freshbeats365.com/2016/03/10/fein-little-little-homes-ep-review/",
+          "date": "2016-03-10",
+          "desc": "Tom Roden. Out by this review."
+        }
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
     "slug": "live-from-the-void",
     "title": "Live from the Void",
     "type": "MusicAlbum",
@@ -1771,6 +1947,8 @@
       "year": 2021,
       "releaseDate": "2021-01-01",
       "releaseType": "album",
+      "image": "/photos/covers/live-from-the-void.jpg",
+      "imageAlt": "Cover for Live from the Void. The title in pale type on white, and a peeled banana at the lower right.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "youtube": "https://www.youtube.com/watch?v=qWF1jZqKMrY",
@@ -1807,6 +1985,61 @@
         {
           "title": "Mystery Machine - Live",
           "song": "mystery-machine-live"
+        }
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "live-on-isle-of-wight-radio",
+    "title": "Live on Isle of Wight Radio",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/live-on-isle-of-wight-radio/",
+    "canonicalUrl": "https://lukefwalton.com/albums/live-on-isle-of-wight-radio/",
+    "archive": {
+      "markdown": "albums/live-on-isle-of-wight-radio.md",
+      "html": "albums/live-on-isle-of-wight-radio.html"
+    },
+    "source": "src/content/albums/live-on-isle-of-wight-radio.md",
+    "metadata": {
+      "title": "Live on Isle of Wight Radio",
+      "description": "Exist Elsewhere live for Isle of Wight Radio: The Great Beyond, Digital Life, and Wavelengths. Aaron Dowler on bass. The masters are free on this page.",
+      "year": 2012,
+      "releaseType": "EP",
+      "image": "/photos/covers/live-on-isle-of-wight-radio.jpg",
+      "imageAlt": "Cover for Live on Isle of Wight Radio. Four black-and-white photos of the band in the studio, under the name and title.",
+      "artist": "Exist Elsewhere",
+      "artistId": "#existelsewhere",
+      "bandcamp": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
+      "tracks": [
+        {
+          "title": "The Great Beyond",
+          "song": "the-great-beyond",
+          "duration": "4:34"
+        },
+        {
+          "title": "Digital Life",
+          "song": "digital-life",
+          "duration": "3:50"
+        },
+        {
+          "title": "Wavelengths",
+          "song": "wavelengths",
+          "duration": "4:32"
+        }
+      ],
+      "press": [
+        {
+          "outlet": "Bandcamp: Live on Isle of Wight Radio",
+          "url": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
+          "date": "2012-11-01",
+          "desc": "Released November 1, 2012. Tracklist: The Great Beyond (4:34), Digital Life (3:50), Wavelengths (4:32)."
+        },
+        {
+          "outlet": "Guild Guitars: acoustic Great Beyond and Digital Life",
+          "url": "https://web.archive.org/web/20210127205328/https://guildguitars.com/exist-elsewhere-records-acoustic-version-of-the-great-beyond-and-digital-life/",
+          "desc": "Guild Artist Showroom, Burbank: acoustic versions of The Great Beyond and Digital Life from this session. Noah Benardout, Aaron Dowler, Luke Walton, Brandon Woodward. The live Guild URL now 404s; this is the Jan 27, 2021 capture."
         }
       ],
       "draft": false
@@ -1887,7 +2120,9 @@
       "description": "The 2020 pandemic record: eighteen tracks written, played, mixed, and mastered in North Park, San Diego, during lockdown, with Babidi and Gokudaxij on three of them.",
       "year": 2020,
       "releaseDate": "2020-08-11",
-      "artworkBy": "Gentle Giant Illustrations",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/masks-and-monsters.jpg",
+      "imageAlt": "Cover for Masks and Monsters. A split-tone face in a face mask against a green swirl, the title at the lower left.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/masks-monsters-lp",
@@ -2025,7 +2260,9 @@
       "description": "A 2023 pop/alt-pop LP and the first released turn of the planned four-part MÖBIUS cycle: internet anxiety, 90s memory, California heat, illness-shadowed survival, and the turn from beach-world into loop-world.",
       "year": 2023,
       "releaseDate": "2023-10-20",
-      "artworkBy": "Gentle Giant Illustrations",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/mob.jpg",
+      "imageAlt": "Cover for MÖB. Dimensional letters MÖB filled with a color gradient, on a dark field inside an orange frame.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/m-b-lp",
@@ -2165,7 +2402,9 @@
       "description": "A 2023 Encinitas beach-pop LP: Moonlight State Beach, surf/funk, covers, guests Bubby Lewis and Jamie Drake, Gonna Go to Japan, and Scoobert playing live.",
       "year": 2023,
       "releaseDate": "2023-05-19",
-      "artworkBy": "Gentle Giant Illustrations",
+      "artworkBy": "Grizzard Graphics",
+      "image": "/photos/covers/moonlight-beach.jpg",
+      "imageAlt": "Cover for Moonlight Beach. A cliff house, a beach fire, and a full moon, with the title at the lower left.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/moonlight-beach",
@@ -2381,6 +2620,8 @@
       "description": "September 2020 meme beat tape: oddly satisfying, decreasingly verbose, bread stapled to trees, birds with arms, cats are assholes twice, D&B pass instrumental.",
       "year": 2020,
       "releaseDate": "2020-09-21",
+      "image": "/photos/covers/plague-beats-vol-1.jpg",
+      "imageAlt": "Cover for Plague Beats, Vol. 1. A teal swirl around the SD monogram, with the title and a large 1.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "apple": "https://music.apple.com/us/album/plague-beats-vol-1-ep/1532121341",
@@ -2430,6 +2671,8 @@
       "description": "May 2021 meme beat tape: loops, cringe, Among Us, shitty robots, six ~one-minute tracks, closer Woah Dude instrumental.",
       "year": 2021,
       "releaseDate": "2021-05-14",
+      "image": "/photos/covers/plague-beats-vol-2.jpg",
+      "imageAlt": "Cover for Plague Beats, Vol. 2. A magenta swirl around the SD monogram, with the title and a large 2.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "apple": "https://music.apple.com/us/album/plague-beats-vol-2-ep/1567468209",
@@ -2460,6 +2703,29 @@
           "song": "woah-dude"
         }
       ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "refried-being",
+    "title": "Refried Being",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/refried-being/",
+    "canonicalUrl": "https://lukefwalton.com/albums/refried-being/",
+    "archive": {
+      "markdown": "albums/refried-being.md",
+      "html": "albums/refried-being.html"
+    },
+    "source": "src/content/albums/refried-being.md",
+    "metadata": {
+      "title": "Refried Being",
+      "description": "Burrito Bot album, April 26, 2024: seven tracks, about nine minutes, on Beformer.",
+      "year": 2024,
+      "releaseType": "album",
+      "artist": "Burrito Bot",
+      "artistId": "#burritobot",
+      "tracks": [],
       "draft": false
     }
   },
@@ -2534,6 +2800,8 @@
       "year": 2018,
       "releaseDate": "2018-12-01",
       "releaseType": "EP",
+      "image": "/photos/covers/to-sleep.jpg",
+      "imageAlt": "Cover for to sleep. A concrete overpass at night, streetlights, and a red moon.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/to-sleep-ep",
@@ -2818,6 +3086,8 @@
       "description": "The 2018 second LP after Finding SD: a free Bandcamp collage LP, bathrobe nostalgia wave, Encinitas beach weirdness, and a visual album with even more interludes.",
       "year": 2018,
       "releaseDate": "2018-05-09",
+      "image": "/photos/covers/wami.jpg",
+      "imageAlt": "Cover for $WAMI$. A cartoon figure with a guitar among horns, drums, and a keyboard, the title in dollar signs above.",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "bandcamp": "https://scoobertdoobert.bandcamp.com/album/wami-lp",
@@ -2929,6 +3199,29 @@
           "desc": "Artist note: second record, nostalgic wave, all recorded in a bathrobe."
         }
       ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "albums",
+    "slug": "wrap-music",
+    "title": "Wrap Music",
+    "type": "MusicAlbum",
+    "liveUrl": "https://lukefwalton.com/albums/wrap-music/",
+    "canonicalUrl": "https://lukefwalton.com/albums/wrap-music/",
+    "archive": {
+      "markdown": "albums/wrap-music.md",
+      "html": "albums/wrap-music.html"
+    },
+    "source": "src/content/albums/wrap-music.md",
+    "metadata": {
+      "title": "Wrap Music",
+      "description": "Burrito Bot album, June 14, 2024: a 15-track AI burrito concept LP on Beformer. The cover was generated with Runway.",
+      "year": 2024,
+      "releaseType": "album",
+      "artist": "Burrito Bot",
+      "artistId": "#burritobot",
+      "tracks": [],
       "draft": false
     }
   },
@@ -31499,7 +31792,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/2020-is-over.jpg",
+      "imageAlt": "Cover for 2020 Is Over. A person in a party hat in a suburb, a mushroom cloud behind them.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/2020-is-over/1537859040?i=1537859041",
       "youtube": "https://www.youtube.com/watch?v=_dv_V8H46hI",
       "officialVideo": "https://www.youtube.com/watch?v=_dv_V8H46hI",
@@ -31635,6 +31931,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/4-20-pm.jpg",
+      "imageAlt": "Cover for 4:20 pm. A round platform on a stem, with a sign reading 4:20 pm.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "youtube": "https://www.youtube.com/watch?v=UsUW7xnHsEA",
       "officialVideo": "https://www.youtube.com/watch?v=UsUW7xnHsEA",
@@ -31678,7 +31977,10 @@
         "Robel Ketema",
         "Cary Singer"
       ],
-      "credits": "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Produced by Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton.",
+      "credits": "Written by Luke Francis Walton, Robel Ketema, and Cary Singer. Produced by Cary Singer. Performed by Scoobert Doobert featuring Robel Ketema. Mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/5g-baby.jpg",
+      "imageAlt": "Cover for 5G BABY. Scoobert Doobert in a tiger mask beside Robel Ketema, the title in pink.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/5g-baby-feat-robel-ketema/1590880152?i=1590880154",
       "themes": [
         "Love",
@@ -31718,6 +32020,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed by Cary Singer. Mastered by Riley Knapp.",
+      "image": "/photos/covers/800-000.jpg",
+      "imageAlt": "Cover for 800,000. The number on a warm gradient.",
       "apple": "https://music.apple.com/us/album/800-000/1459488071?i=1459488072",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
@@ -31825,7 +32129,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/a-good-life.jpg",
+      "imageAlt": "Cover for A Good Life. A green and brown swirl behind a silhouette.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=NQphM2Pq-3M",
       "apple": "https://music.apple.com/us/album/a-good-life/1526427944?i=1526428027",
@@ -31840,6 +32147,38 @@
       "isrc": "QZES52026922",
       "isrcSource": "soundexchange",
       "lyrics": "I know it's not how you\nPictured\nUs alone\nCome ignore the chaos won't ya\nMy love\nMy only one\n\nDon't walk around and you'll be just fine\nDon't look around\nLook around\nYeah\nKeep on singing like\n\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\n\nSo happy to be with you\nNot much\nFor us to do\nSleep in and stop your shaking\nNo noise\nTo wake up to\n\nDon't walk around and you'll be just fine\nDon't look around\nLook around\nYeah\nKeep on singing like\n\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\nUh\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\n\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah yeah\nMy dear\n\nI'll keep on grinning\nBottle it up\nI'll keep on grinning\nBottle it up\nI'll keep on grinning\nBottle it up\nI'll keep on grinning\nBottle it up\n\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\nUh\nAh yeah\nIt's a good life\nIt's a good life\nAh yeah\nIt's a good life\nMy dear\n\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nAh yeah yeah yeah yeah\nMy dear\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "a-la-carte",
+    "title": "A La Carte",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/a-la-carte/",
+    "canonicalUrl": "https://lukefwalton.com/songs/a-la-carte/",
+    "archive": {
+      "markdown": "songs/a-la-carte.md",
+      "html": "songs/a-la-carte.html"
+    },
+    "source": "src/content/songs/a-la-carte.md",
+    "metadata": {
+      "title": "A La Carte",
+      "meaning": "Scoobert Doobert cover of Okudaxij’s A La Carte, track 4 on Friends Covering Friends Vol. II (Z Tapes, September 12, 2021). Bandcamp only.",
+      "year": 2021,
+      "release": "Friends Covering Friends Vol. II",
+      "releaseType": "album",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "cover": true,
+      "coverOf": "Okudaxij",
+      "bandcamp": "https://ztapes.bandcamp.com/track/a-la-carte-okudaxij",
+      "themes": [
+        "cover",
+        "Collaboration",
+        "Okudaxij",
+        "2021"
+      ],
       "draft": false
     }
   },
@@ -31939,6 +32278,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/a-song-to-quit-your-job-to.jpg",
+      "imageAlt": "Cover for a song to quit your job to. A tiered tower with a recruiting sign.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "officialVideo": "https://www.youtube.com/watch?v=YIHcBx5EkEI",
       "apple": "https://music.apple.com/us/album/a-song-to-quit-your-job-to/1618191665?i=1618192098",
@@ -32186,6 +32528,8 @@
         "Tamtam",
         "2018"
       ],
+      "isrc": "QZ5FN1895964",
+      "isrcSource": "spotify",
       "draft": false
     }
   },
@@ -32420,7 +32764,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: Nicole McCabe.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: Nicole McCabe. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/after-party.jpg",
+      "imageAlt": "Cover for AFTER-PARTY. A pint glass with a little foam left, on a blue field in a gold frame. Scoobert Doobert across the top, After-Party across the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/after-party/1807987972?i=1807987973",
       "themes": [
         "nightlife",
@@ -32489,7 +32836,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/aliens/1708670332?i=1708670338",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -32567,7 +32914,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/all-i-need.jpg",
+      "imageAlt": "Cover for All I Need. A for-sale sign reading se vende casa.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/all-i-need/1708670332?i=1708670344",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -32684,6 +33034,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/all-my-friends-live-on-the-internet.jpg",
+      "imageAlt": "Cover for All My Friends Live on the Internet. A swirl lollipop on a round platform.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/5R5AqwSE7juUd0t6xCI6Ep",
       "apple": "https://music.apple.com/us/song/all-my-friends-live-on-the-internet/1618192115",
       "youtube": "https://www.youtube.com/watch?v=16Xymn7W9_w",
@@ -32759,7 +33112,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/alright.jpg",
+      "imageAlt": "Cover for Alright. The title filled with a beach scene, Scoobert Doobert along the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "youtube": "https://www.youtube.com/watch?v=CkmdF0jQn2s",
       "apple": "https://music.apple.com/us/album/alright-single/1821149401?i=1821149402",
       "officialVideo": "https://www.youtube.com/watch?v=CkmdF0jQn2s",
@@ -32886,6 +33242,8 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert feat. Lou Roy",
       "artistId": "#scoobert",
+      "image": "/photos/covers/angeleyes.jpg",
+      "imageAlt": "Cover for angeleyes. A polaroid of a dog on a wood table.",
       "cover": true,
       "coverOf": "ABBA",
       "spotify": "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl",
@@ -33092,6 +33450,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/behave.jpg",
+      "imageAlt": "Cover for Behave. The title on a blue-to-peach gradient.",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
         "Love",
@@ -33127,6 +33487,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/best-day-ever.jpg",
+      "imageAlt": "Cover for best. day. ever. A blue profile in striped sunglasses, on a leaf-patterned field.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/56sExwBBmnDoRErXqghqrW",
       "apple": "https://music.apple.com/us/song/best-day-ever/1832440500",
       "youtube": "https://www.youtube.com/watch?v=wR2Ev0FaEms",
@@ -33288,6 +33651,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/boardwalk.jpg",
+      "imageAlt": "Cover for Boardwalk. Two connected towers, one carrying a small wheel.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "youtube": "https://www.youtube.com/watch?v=-EYpF1Xsw2A",
       "officialVideo": "https://www.youtube.com/watch?v=-EYpF1Xsw2A",
@@ -33333,6 +33699,8 @@
       "releaseType": "single",
       "artist": "FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/bodies.jpg",
+      "imageAlt": "Cover for Bodies. A close photograph of a pale, textured wall.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -33633,6 +34001,8 @@
       "releaseType": "EP",
       "artist": "Exist Elsewhere",
       "artistId": "#existelsewhere",
+      "image": "/photos/exist-elsewhere-cant-fall-cover.jpg",
+      "imageAlt": "Cover for Can't Fall. The title in tall letters, a green figure holding a megaphone in place of the apostrophe, gray blocks around the edges, Exist Elsewhere in the corners.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -33675,7 +34045,10 @@
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/cant-imagine-feeling-better.jpg",
+      "imageAlt": "Cover for Can't Imagine Feeling Better. A figure in red flying over a green house.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "placement": "Coors Light TV (Canada): music supervisor Mike Ladman (Droga5)",
       "press": [
         {
@@ -34211,7 +34584,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/chasing-the-sunset.jpg",
+      "imageAlt": "Cover for Chasing the Sunset. A figure leaping between rocks at sunset.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/chasing-the-sunset/1756822706?i=1756822707",
       "youtube": "https://www.youtube.com/watch?v=rhMSS8iSfNo",
       "officialVideo": "https://www.youtube.com/watch?v=rhMSS8iSfNo",
@@ -34254,7 +34630,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/chew-on-this.jpg",
+      "imageAlt": "Cover for CHEW ON THIS. A slice of pizza with the title written in the cheese.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/chew-on-this-single/1752338633?i=1752338634",
       "spotify": "https://open.spotify.com/track/2mrkK3X2xpHfDlT6RCVqn1",
       "youtube": "https://www.youtube.com/watch?v=-dKfuwVwreQ",
@@ -34291,7 +34670,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=VRvhJ7kooNM",
       "apple": "https://music.apple.com/us/album/coca-cola/1526427944?i=1526428035",
@@ -34329,7 +34708,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "apple": "https://music.apple.com/us/album/corona/1526427944?i=1526428036",
       "themes": [
@@ -34437,7 +34816,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/creature-comfort.jpg",
+      "imageAlt": "Cover for Creature Comfort. A green and brown swirl behind a silhouette.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "youtube": "https://www.youtube.com/watch?v=o6eORzIqltE",
       "officialVideo": "https://www.youtube.com/watch?v=o6eORzIqltE",
@@ -34690,6 +35072,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed by Cary Singer. Mastered by Riley Knapp.",
+      "image": "/photos/covers/culling.jpg",
+      "imageAlt": "Cover for Culling. The title on a purple gradient.",
       "apple": "https://music.apple.com/us/album/culling/1474688283?i=1474688284",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
@@ -34793,7 +35177,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/dancing-alone.jpg",
+      "imageAlt": "Cover for Dancing Alone. A silhouette dancing beside a record shelf, a can reading dancing alone.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/dancing-alone/1748850694?i=1748850695",
       "themes": [
         "Love",
@@ -34827,6 +35214,9 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/dancing-in-the-moonlight-beach.jpg",
+      "imageAlt": "Cover for Dancing in the Moonlight (Beach). A large moon, shooting stars, and a pale continent.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "King Harvest",
       "spotify": "https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3",
@@ -34876,6 +35266,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/daydreaming.jpg",
+      "imageAlt": "Cover for daydreaming. A keychain and a tag reading San Diego.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/daydreaming/1734387671?i=1734387672",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -35155,6 +35548,8 @@
       "releaseType": "single",
       "artist": "FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/delicate.jpg",
+      "imageAlt": "Cover for Delicate. A close photograph of a pale, textured wall.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -35193,7 +35588,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/4Dk9O64xn5DdoXGhblis3y",
       "officialVideo": "https://www.youtube.com/watch?v=xupSNIigymg",
       "apple": "https://music.apple.com/us/song/derrida-makes-a-diff%C3%A9rance/1526428042",
@@ -35210,6 +35605,36 @@
       "isrc": "QZK6P2060463",
       "isrcSource": "soundexchange",
       "lyrics": "Intelligence\nIs a mistake\nGenetic combinations\nInfinite in all this space\n\nDon't look too long\nFor the aliens\nWe might as well accept\nWe do not have a single friend\nOut there\n\nWe kill and we create\nWe sit and masturbate\nOh\nSweet Gaia, cry a tear\nI'll turn it into beer\nOh\nDominion we pursue\nDominion never knew we were born\n\nIt didn't matter much\nWe do not matter much\nIf at all\nDon't matter much\nYou do not matter much\nLet freedom ring\n\nThe purpose of life\nOh\nThe purpose of life\nOh\nThe purpose\n\nWhat a bummer\nWhat a fate\nIt's lonely here in outer space\nIf nothing really matters\nThen why do I gotta live?\n\nBut living in the meaningless\nA freedom can come out of it\nAnd I can see my tiny little place inside the One\n\nYeah Big Bang might've separated\nAll that matters into places\nBut our energy is unmistakably\nThe same as in the sun\n\nWe are the sun\nAnd that's enough for me\nTo be the sun\nTo be a son\nI find my meaning\nIn my family\n\nYeah yeah\nYeah yeah\nYeah yeah\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "digital-life",
+    "title": "Digital Life",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/digital-life/",
+    "canonicalUrl": "https://lukefwalton.com/songs/digital-life/",
+    "archive": {
+      "markdown": "songs/digital-life.md",
+      "html": "songs/digital-life.html"
+    },
+    "source": "src/content/songs/digital-life.md",
+    "metadata": {
+      "title": "Digital Life",
+      "meaning": "Exist Elsewhere, track 2 on Live on Isle of Wight Radio. Aaron Dowler on bass. The master is free on this page.",
+      "year": 2012,
+      "release": "Live on Isle of Wight Radio",
+      "releaseType": "EP",
+      "artist": "Exist Elsewhere",
+      "artistId": "#existelsewhere",
+      "bandcamp": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
+      "audio": "/audio/digital-life.mp3",
+      "credits": "Exist Elsewhere. Aaron Dowler, bass. Master dated October 18, 2012. Free on this page.",
+      "themes": [
+        "Exist Elsewhere",
+        "2012"
+      ],
       "draft": false
     }
   },
@@ -35264,7 +35689,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/department-of-motor-vehicles-dmv/1708670332?i=1708670336",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -35293,7 +35718,7 @@
     "source": "src/content/songs/do-what-i-wanna.md",
     "metadata": {
       "title": "do what i wanna",
-      "meaning": "Sanguine Penguin × Scoobert Doobert: Japan collab single (Mar 2022).",
+      "meaning": "Originally released as Kajax × Scoobert Doobert, then re-released as Sanguine Penguin. Kevin Tubbs. Japan collab single (Mar 2022).",
       "year": 2022,
       "releaseType": "single",
       "artist": "Sanguine Penguin × Scoobert Doobert",
@@ -35302,6 +35727,7 @@
         "Collaboration",
         "Japan",
         "Sanguine Penguin",
+        "Kajax",
         "2022"
       ],
       "isrc": "QZMEN2214880",
@@ -35493,7 +35919,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Drawn by Luke Francis Walton.",
+      "image": "/photos/covers/dont-join-the-skeletons.jpg",
+      "imageAlt": "Cover for don't join the skeletons! A hand-drawn skeleton holding a yellow flower.",
+      "imageCredit": "Drawn by Luke Francis Walton.",
       "apple": "https://music.apple.com/us/album/dont-join-the-skeletons-single/1776691318?i=1776691319",
       "themes": [
         "Love",
@@ -35527,7 +35956,10 @@
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/dont-know-much.jpg",
+      "imageAlt": "Cover for Don't Know Much. A portrait in a bear mask.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB",
       "youtube": "https://www.youtube.com/watch?v=wVRJ5E4spXs",
       "apple": "https://music.apple.com/us/album/dont-know-much/1558296985?i=1558297086",
@@ -35570,7 +36002,11 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Featuring Noreen.",
+      "image": "/photos/covers/dont-leave-me-alone-feat-noreen.jpg",
+      "imageAlt": "Cover for Don't Leave Me Alone. Two small faces, an x, and the name Noreen.",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
+      "isrc": "TCADA1736360",
+      "isrcSource": "soundexchange",
       "lyrics": "My bedroom is vacuum sealed\nI talk to my self\nDon't think I'm alone\nI'm not alone\n\nBeen dark for a couple days\nBut don't count me out\nI'll come alone\nDon't leave me alone\n\nI tell you I'll see you soon\nKnowing I won't\nPlease pay no mind\nWe'll both be fine\n\n(Ooo ooo) Ooo do I know you?\n(Ooo ooo) Ooo do I need to?\n(Ah ah) Ah ah do I know you?\n(Ah ah) Ah do I need you?\n\nThe doorknob is rusted shut\nThe hinges won't move\nI'll claw my way through\nI'll break it in two\n\nThe hallway of bolted doors\nSpits in my face\nEveryone's home\nI should've known\n\n(Ooo ooo) Ooo do I know you?\n(Ooo ooo) Ooo do I need to?\n(Ah ah) Ah ah do I know you?\n(Ah ah) Ah do I need you?\n\nI\nI\nI\nI\n\nOoo do I know you?\n(Ooo ooo) Ooo do I need to?\n(Ah ah) Ah ah do I know you?\n(Ah ah) Ah do I need you?\nOh do I need to?\n(Ooo ooo) Ooo do I need to?\n(Ah ah)\nAh ah do I know you?\n(Ah ah)\nOh do I need you?\nOoo\n",
       "themes": [
         "FEiN",
@@ -35579,8 +36015,6 @@
         "Noreen",
         "2017"
       ],
-      "isrc": "TCADA1736360",
-      "isrcSource": "soundexchange",
       "draft": false
     }
   },
@@ -35604,7 +36038,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/dont-worry.jpg",
+      "imageAlt": "Cover for Don't Worry. A figure meditating on the water under a marbled moon.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=mdo5I9lQXi4",
       "officialVideo": "https://www.youtube.com/watch?v=mdo5I9lQXi4",
@@ -35787,6 +36224,9 @@
       "release": "Earth Day (Scoobert Doobert Remix)",
       "releaseType": "single",
       "artist": "Free Your Inhibition",
+      "image": "/photos/covers/earth-day-scoobert-doobert-remix.jpg",
+      "imageAlt": "Cover for the Earth Day remix. A globe with the words Earth Day broken across it.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "role": "remix",
       "remixOf": "Earth Day",
       "productionRoles": "Remix",
@@ -35824,6 +36264,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/easy-like-sunday-morning.jpg",
+      "imageAlt": "Cover for Easy Like Sunday Morning. Bubble letters for the title on a blue field.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Commodores",
       "spotify": "https://open.spotify.com/track/5RP6QFcyZE3EraWmJDFJfL",
@@ -35860,6 +36303,8 @@
       "release": "easy to love (Scoobert Doobert Remix)",
       "releaseType": "single",
       "artist": "Okudaxij",
+      "image": "/photos/covers/easy-to-love-scoobert-doobert-remix.jpg",
+      "imageAlt": "Cover for easy to love. A grainy night sky over a dark horizon, blue at the top and pink near the ground.",
       "role": "remix",
       "remixOf": "easy to love",
       "productionRoles": "Remix",
@@ -36080,6 +36525,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/ez-pz.jpg",
+      "imageAlt": "Cover for ez pz. A line drawing of a necktie.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/ez-pz/1734387671?i=1734387675",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -36157,6 +36605,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/fear.jpg",
+      "imageAlt": "Cover for Fear. A drawn face on the trunk of a bare tree.",
       "spotify": "https://open.spotify.com/track/3Te0HmHKL9ElwcK71PfbHY",
       "apple": "https://music.apple.com/us/album/fear/1210648666?i=1210648903",
       "themes": [
@@ -36192,7 +36642,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/feels-so-good.jpg",
+      "imageAlt": "Cover for Feels So Good. Two people at a beach fire, one with a ukulele.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/feels-so-good/1675559395?i=1675559400",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -36321,7 +36774,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=wIYgvw62xUI",
       "apple": "https://music.apple.com/us/album/flip-flop-phil/1526427944?i=1526428029",
@@ -36437,6 +36890,8 @@
       "meaning": "FEiN x Lara Johnston end-of-summer funk collab (2015): put on your dancing fruits. Produced and recorded at Tiny Giant; Luke Walton guitar/keys.",
       "artist": "FEiN & Lara Johnston",
       "artistId": "#fein",
+      "image": "/photos/covers/fresh-fruit.jpg",
+      "imageAlt": "Cover for Fresh Fruit. A collage reading FEiN Times × Lara Johnston, with cut-out eyes, lips, a nose, an eyebrow, and a black X.",
       "coWriters": [
         "Brandon Michael Woodward",
         "Lara Johnston"
@@ -36486,6 +36941,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Lyrics by Luke Francis Walton (first released as My Friend, Scoobert on Finding $D, 2017). FEiN recording with Brandon Michael Woodward. Credited Walton/Woodward (BMI) like every FEiN song: the duo splits writing credit 50/50 regardless of who wrote what.",
+      "image": "/photos/covers/friend.jpg",
+      "imageAlt": "Cover for Friend. The title on an orange gradient.",
       "apple": "https://music.apple.com/us/album/friend-single/1401544089",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
@@ -36558,7 +37015,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/fuck-it-lets-go-bowling.jpg",
+      "imageAlt": "Cover for fuck it let's go bowling. A white bowling pin.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/f-k-it-lets-go-bowling/1708670332?i=1708670341",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -36656,7 +37116,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/gemini.jpg",
+      "imageAlt": "Cover for Gemini. An alarm clock reading 3:00.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/gemini/1708670332?i=1708670342",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -36733,7 +37196,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Drums: Clyde Stubblefield sample pack (cleared).",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Drums: Clyde Stubblefield sample pack (cleared). Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/get-the-funk-out-of-my-head.jpg",
+      "imageAlt": "Cover for Get the Funk Out of My Head. A mirrored disco ball on a stem above a tiled platform.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "youtube": "https://www.youtube.com/watch?v=7AllVYay4Wc",
       "officialVideo": "https://www.youtube.com/watch?v=7AllVYay4Wc",
@@ -36780,7 +37246,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/getting-easier.jpg",
+      "imageAlt": "Cover for Getting Easier. A pine with one side burning, on a blue field.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/getting-easier/1708670332?i=1708670343",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -36871,6 +37340,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/golden-state-of-mind.jpg",
+      "imageAlt": "Cover for golden state of mind. A line drawing of a quail.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/golden-state-of-mind/1734387671?i=1734387746",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -36906,7 +37378,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/gonna-go-to-japan.jpg",
+      "imageAlt": "Cover for Gonna Go to Japan. An island shaped like Japan on blue water.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/gonna-go-to-japan/1675559395?i=1675559406",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -37262,7 +37737,7 @@
       "coWriters": [
         "Eric Radloff"
       ],
-      "credits": "Written by Luke Francis Walton and Eric Radloff (Gokudaxij; streaming credits: Okudaxij). Performed by Scoobert Doobert with Gokudaxij. Mixed and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written by Luke Francis Walton and Eric Radloff (Gokudaxij; streaming credits: Okudaxij). Performed by Scoobert Doobert with Gokudaxij. Mixed and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=WU2a2IK7gVw",
       "apple": "https://music.apple.com/us/album/happy-birthday-feat-okudaxij/1526427944?i=1526428033",
@@ -37377,6 +37852,8 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/heat-waves-slowed-and-sadder.jpg",
+      "imageAlt": "Cover for heat waves slowed and sadder. Neon script over an SD monogram.",
       "cover": true,
       "coverOf": "Glass Animals",
       "spotify": "https://open.spotify.com/track/47Yy6QRoeoAbhM08Lhswdj",
@@ -37516,6 +37993,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/high-society.jpg",
+      "imageAlt": "Cover for High Society. A smoking disc labeled with the characters for high society.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "youtube": "https://www.youtube.com/watch?v=-vjucF-5-Ss",
       "officialVideo": "https://www.youtube.com/watch?v=-vjucF-5-Ss",
@@ -37714,6 +38194,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/hologram.jpg",
+      "imageAlt": "Cover for Hologram. A spotted dog beside the Japanese katakana for hologram.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Nico Touches the Walls",
       "spotify": "https://open.spotify.com/track/7xIOdjLApgbk14Hi8oLGQ4",
@@ -37786,7 +38269,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "apple": "https://music.apple.com/us/album/i-am-a-slave-to-the-yeast/1526427944?i=1526428037",
       "themes": [
@@ -37959,7 +38442,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/i-live-in-california.jpg",
+      "imageAlt": "Cover for I Live in California. A person lying on the sand, seen from above.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=vGywF3QeCuc",
       "officialVideo": "https://www.youtube.com/watch?v=vGywF3QeCuc",
@@ -38006,7 +38492,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/i-love-money.jpg",
+      "imageAlt": "Cover for I Love Money. A portrait with a dog's nose and hundred-dollar marks.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=-j3oPQLH-YY",
       "officialVideo": "https://www.youtube.com/watch?v=VkWi_2cmFbI",
@@ -38219,7 +38708,10 @@
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/if-i-could-only.jpg",
+      "imageAlt": "Cover for If I Could Only. A window looking onto a starry sky.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB",
       "youtube": "https://www.youtube.com/watch?v=wnped91O4xE",
       "officialVideo": "https://www.youtube.com/watch?v=wnped91O4xE",
@@ -38296,7 +38788,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/im-an-idiot.jpg",
+      "imageAlt": "Cover for I'm an Idiot. A mouse reading a book labeled life.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=CCZppS-DMiE",
       "apple": "https://music.apple.com/us/album/im-an-idiot/1585121212?i=1585121218",
@@ -38390,6 +38885,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert × India Thieriot",
       "artistId": "#scoobert",
+      "image": "/photos/covers/in-it-with-u.jpg",
+      "imageAlt": "Cover for in it with u. A hand holding a phone open to a boarding pass.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/48TX72nMLfulqYHq4Qdg72",
       "apple": "https://music.apple.com/us/album/in-it-with-u/1768671694?i=1768671695",
       "youtube": "https://www.youtube.com/watch?v=uK5V04OC1qY",
@@ -38474,6 +38972,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/infant.jpg",
+      "imageAlt": "Cover for Infant. The title on a pale gradient.",
       "apple": "https://music.apple.com/us/album/infant/1459487931?i=1459487932",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "press": [
@@ -38683,7 +39183,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=ToXWtBcOkk0",
       "apple": "https://music.apple.com/us/album/it-can-get-worse/1526427944?i=1526427962",
@@ -38722,6 +39222,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/it-gets-better.jpg",
+      "imageAlt": "Cover for it gets better. A line drawing of a planter box.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/it-gets-better/1734387671?i=1734387743",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -38760,6 +39263,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/its-alright.jpg",
+      "imageAlt": "Cover for It's Alright. A round face drawn in black on white.",
       "spotify": "https://open.spotify.com/album/3gIeas5bwtUn6ab8j1fjaO",
       "apple": "https://music.apple.com/us/album/its-alright/1202428287?i=1202428536",
       "press": [
@@ -38804,7 +39309,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/jazz-flute.jpg",
+      "imageAlt": "Cover for JAZZ FLUTE. A ceramic lamp with a cloth shade and no bulb, on a blue field in a gold frame. Scoobert Doobert across the top, Jazz Flute across the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/jazz-flute/1811369001?i=1811369002",
       "themes": [
         "Love",
@@ -39118,7 +39626,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Featuring Malik LovesYall. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Featuring Malik LovesYall. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/kick-it-in-nirvana.jpg",
+      "imageAlt": "Cover for Kick It in Nirvana. A waterfall among tropical leaves and a night sky.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "youtube": "https://www.youtube.com/watch?v=YvGk0CU4Cnk",
       "officialVideo": "https://www.youtube.com/watch?v=YvGk0CU4Cnk",
@@ -39206,7 +39717,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/last-first-date.jpg",
+      "imageAlt": "Cover for Last First Date. Inflated pink letters for the title on green.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/last-first-date/1747200307?i=1747200308",
       "themes": [
         "Love",
@@ -39349,6 +39863,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/lets-move-to-the-top-of-a-mountain.jpg",
+      "imageAlt": "Cover for Let's Move to the Top of a Mountain. A round platform with a small mountain on top.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v",
       "youtube": "https://www.youtube.com/watch?v=262Lyzs67yQ",
       "officialVideo": "https://www.youtube.com/watch?v=262Lyzs67yQ",
@@ -39393,6 +39910,8 @@
       "releaseType": "single",
       "artist": "FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/liminal.jpg",
+      "imageAlt": "Cover for Liminal. A close photograph of a pale, textured wall.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -39436,6 +39955,9 @@
       "year": 2024,
       "releaseType": "single",
       "artist": "Thumpasaurus",
+      "image": "/photos/covers/lipstick-makeup-scoobert-doobert-edit.jpg",
+      "imageAlt": "Cover for the Lipstick Makeup edit. A yellow hard hat and a tube of lipstick.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "role": "remix",
       "remixOf": "Lipstick Makeup",
       "productionRoles": "Edit",
@@ -39555,7 +40077,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/lol.jpg",
+      "imageAlt": "Cover for LOL. A pair of worn high-top sneakers on a blue field in a green frame. Scoobert Doobert across the top, LOL across the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/lol/1797939506?i=1797939507",
       "youtube": "https://www.youtube.com/watch?v=102G_fiuUqg",
       "officialVideo": "https://www.youtube.com/watch?v=102G_fiuUqg",
@@ -39568,7 +40093,7 @@
       ],
       "isrc": "QZHN42537347",
       "isrcSource": "soundexchange",
-      "lyrics": "No I don't have the confidence\nTo end any sentence\nWith anything other than\nL (L) O (O) L\nNo, L (L) O (O) L\n\nI don't really wanna go to you party\nSo I'm gonna say maybe maybe\nSee you someday\nLOL\n\nSay what, say what, say what\nYou gotta say\nSay what, say what, say what\nYou gotta say\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nPut my foot in my mouth\nAt least I don't wear shoes in the house\nBut my friends do cuz I don't confront them\nGot food in my teeth\nBut those around that say they love me\nWould never say something so rude\n\nUncomfortably scilent\nTell me what's new\nKeep it light and mildly excitting\nSee you later\n\nSay what, say what, say what\nYou gotta say\nSay what, say what, say what\nYou gotta say\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nWhat is right\nWhat is wrong\nWhat's good my dude?\nPhilosophical songs\nNever have answers\nLOL\nLOL\nWhat the hell\nMmm lol\nOoo\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna (Nah nah)\nI don't wanna say something wrong\n\nLMFAO\nROFLMAO\nI don't wanna say something wrong\n",
+      "lyrics": "No I don't have the confidence\nTo end any sentence\nWith anything other than\nL (L) O (O) L\nNo, L (L) O (O) L\n\nI don't really wanna go to you party\nSo I'm gonna say maybe maybe\nSee you someday\nLOL\n\nSay what, say what, say what\nYou gotta say\nSay what, say what, say what\nYou gotta say\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nPut my foot in my mouth\nAt least I don't wear shoes in the house\nBut my friends do cuz I don't confront them\nGot food in my teeth\nBut those around that say they love me\nWould never say something so rude\n\nUncomfortably silent\nTell me what's new\nKeep it light and mildly excitting\nSee you later\n\nSay what, say what, say what\nYou gotta say\nSay what, say what, say what\nYou gotta say\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna say something wrong\n\nWhat is right\nWhat is wrong\nWhat's good my dude?\nPhilosophical songs\nNever have answers\nLOL\nLOL\nWhat the hell\nMmm lol\nOoo\n\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna\nI don't wanna\nI'm not gonna (Nah nah)\nI don't wanna say something wrong\n\nLMFAO\nROFLMAO\nI don't wanna say something wrong\n",
       "draft": false
     }
   },
@@ -39737,6 +40262,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/loved.jpg",
+      "imageAlt": "Cover for LOVED. Two round faces, one large and one small, on black.",
       "spotify": "https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC",
       "apple": "https://music.apple.com/us/album/loved/1212050915?i=1212051101",
       "youtube": "https://www.youtube.com/watch?v=ADkxKe2iDhM",
@@ -39814,6 +40341,9 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/low-tide.jpg",
+      "imageAlt": "Cover for Low Tide. Layered surf and wet sand, the title upside down at the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "The Wonder Years",
       "spotify": "https://open.spotify.com/track/05Rg2uQshmUj0NjFPn9jfx",
@@ -39851,6 +40381,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/lucky-you.jpg",
+      "imageAlt": "Cover for Lucky You. The title on a dark gradient.",
       "apple": "https://music.apple.com/us/album/lucky-you/1433490143?i=1433490149",
       "spotify": "https://open.spotify.com/track/6I3mzmCFomvtpWl7Ie1Eds",
       "themes": [
@@ -39886,7 +40418,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/main-character-energy.jpg",
+      "imageAlt": "Cover for MAIN CHARACTER ENERGY. A riveted wooden chest on a brown field in a purple frame. Scoobert Doobert across the top, Main Character Energy across the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/main-character-energy/1786629815?i=1786629816",
       "themes": [
         "main character energy",
@@ -39952,6 +40487,10 @@
       "year": 2016,
       "artist": "Christofi & FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/marry-you-on-the-dance-floor.jpg",
+      "imageAlt": "Cover for Marry You On the Dance Floor. Two red gem hearts on a pink field, with Christofi & FEiN and the title along the bottom.",
+      "spotify": "https://open.spotify.com/track/5UXCI9vT95ovKrsjQBgdtB",
+      "apple": "https://music.apple.com/us/album/marry-you-on-the-dance-floor/1082187036?i=1082187040",
       "coWriters": [
         "Brandon Michael Woodward",
         "Christofi"
@@ -40005,7 +40544,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/memory-lan.jpg",
+      "imageAlt": "Cover for MEMORY LAN. A purple arcade joystick.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/memory-lan/1708670332?i=1708670334",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "youtube": "https://www.youtube.com/watch?v=rMAjzP-pIno",
@@ -40044,7 +40586,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Drawn by Luke Francis Walton.",
+      "image": "/photos/covers/merry-christmas-from-the-beach.jpg",
+      "imageAlt": "Cover for merry christmas (from the beach). A drawing of Santa in board shorts, holding a surfboard.",
+      "imageCredit": "Drawn by Luke Francis Walton.",
       "apple": "https://music.apple.com/us/album/merry-christmas-from-the-beach/1784055571?i=1784055572",
       "themes": [
         "The beach",
@@ -40079,7 +40624,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert Doobert featuring Jamie Drake. Mixed by Luke Francis Walton.",
+      "credits": "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert Doobert featuring Jamie Drake. Mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/meteor-shower.jpg",
+      "imageAlt": "Cover for Meteor Shower. A dark sky of colored stars and white meteors.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/meteor-shower/1675559395?i=1675559405",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -40188,7 +40736,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/michael-buble-my-santa-buddy.jpg",
+      "imageAlt": "Cover for Michael Bublé, My Santa Buddy. A knitted sweater with Santa, snowflakes, and the title.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/michael-bubl%C3%A9-my-santa-buddy/1710592001?i=1710592002",
       "spotify": "https://open.spotify.com/track/6pzdUv15Llpd4MD4nkmPBH",
       "themes": [
@@ -40389,7 +40940,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/m%C3%B6bius-spu%C7%9D-%CA%87%E1%B4%89-%CA%8Do%C9%A5-%CA%87on/1675559395?i=1675559408",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -40633,7 +41184,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/moving-to-canada.jpg",
+      "imageAlt": "Cover for Moving to Canada. A portrait in a hockey helmet.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/moving-to-canada/1526561413?i=1526561415",
       "spotify": "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td",
       "officialVideo": "https://www.youtube.com/watch?v=oNmOB8WVc_U",
@@ -40897,6 +41451,8 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/my-meddling-kids-hallelujah-sexy.jpg",
+      "imageAlt": "Cover for My Meddling Kids (Hallelujah Sexy). A red bar reading SCOOBERT over a low-poly figure on a cream and black field.",
       "credits": "Written, performed, mixed, and mastered by Luke Francis Walton.",
       "spotify": "https://open.spotify.com/album/1RD1nblfKnDDT42FXZ0eZL",
       "apple": "https://music.apple.com/us/album/my-meddling-kids-hallelujah-sexy/1506552414?i=1506552558",
@@ -40937,7 +41493,7 @@
       "coWriters": [
         "J MESA"
       ],
-      "credits": "Written by Luke Francis Walton and J MESA (Taylor James / Babidi). Performed by Scoobert Doobert with Babidi. Mixed and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written by Luke Francis Walton and J MESA (Taylor James / Babidi). Performed by Scoobert Doobert with Babidi. Mixed and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "youtube": "https://www.youtube.com/watch?v=Bw-J_GT0doo",
       "officialVideo": "https://www.youtube.com/watch?v=Bw-J_GT0doo",
@@ -41048,7 +41604,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/mystery-machine.jpg",
+      "imageAlt": "Cover for Mystery Machine. A green and brown swirl behind a silhouette.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=A_mbXWe1JFA",
       "apple": "https://music.apple.com/us/album/mystery-machine/1526427944?i=1526428041",
@@ -41352,12 +41911,17 @@
     "source": "src/content/songs/now4now.md",
     "metadata": {
       "title": "now4now",
-      "meaning": "GrimesAI vocal collab: post-I standalone tied to the LMM elf.tech episode.",
+      "meaning": "GrimesAI vocal collab, free on this page: post-I standalone tied to the LMM elf.tech episode.",
       "year": 2024,
       "releaseType": "single",
       "artist": "Scoobert Doobert · GrimesAI",
       "artistId": "#scoobert",
       "spotify": "https://open.spotify.com/track/0KEwKPfDrrDEudGXlJeZ4n",
+      "audio": "/audio/now4now.mp3",
+      "image": "/photos/now4now.jpg",
+      "imageAlt": "Cover for now4now. Drawn faces with raised hands on a blue field, the title in pink at the upper right.",
+      "imageCredit": "Luke generated the album art with OpenAI’s DALL·E.",
+      "credits": "Mastered by Riley Knapp. Luke generated the album art with OpenAI’s DALL·E.",
       "themes": [
         "AI",
         "Collaboration",
@@ -41390,7 +41954,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/ocean-view.jpg",
+      "imageAlt": "Cover for Ocean View. A blue cliff house at night, with a meteor over the beach.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/ocean-view/1675559395?i=1675559402",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -42106,6 +42673,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/only-the-beginning.jpg",
+      "imageAlt": "Cover for only the beginning. A line drawing of shrimp nigiri.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/only-the-beginning/1734387671?i=1734387741",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -42178,6 +42748,8 @@
       "meaning": "FEiN and Lara Johnston, June 28, 2015: the first FEiN Times release. Wake up without you, cold sheets and too much coffee, and a chorus that never gets the person out of mind.",
       "artist": "FEiN & Lara Johnston",
       "artistId": "#fein",
+      "image": "/photos/fein-times-lara-johnston-out-of-my-mind.jpg",
+      "imageAlt": "Cover for Out of My Mind. The collage reads FEiN Times × Lara Johnston, Out of my mind, with cut-out eyes, lips, a nose, and a black X.",
       "coWriters": [
         "Brandon Michael Woodward",
         "Lara Johnston"
@@ -42356,6 +42928,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/p-a-r-t-s.jpg",
+      "imageAlt": "Cover for P.A.R.T.S. The same face drawn in white on black.",
       "spotify": "https://open.spotify.com/track/6rxLTaLscf1nrgdXSUTRAi",
       "apple": "https://music.apple.com/us/album/p-a-r-t-s/1216076785?i=1216077047",
       "themes": [
@@ -42391,7 +42965,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=pkBICgUp4N0",
       "apple": "https://music.apple.com/us/album/pandemic-blues/1526427944?i=1526428026",
@@ -42429,7 +43003,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/party.jpg",
+      "imageAlt": "Cover for PARTY. A blister pack of blue and white capsules on a brown field in a blue frame. Scoobert Doobert across the top, Party across the bottom.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/party/1801554450?i=1801554451",
       "themes": [
         "Anxiety",
@@ -42569,6 +43146,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/placebo.jpg",
+      "imageAlt": "Cover for PLACEBO. Neon-blue script over an SD monogram.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "米津玄師 feat. 野田洋次郎",
       "spotify": "https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD",
@@ -42890,6 +43470,8 @@
       "year": 2022,
       "releaseType": "single",
       "artist": "I Don't Speak French × Scoobert Doobert",
+      "image": "/photos/covers/protoplasmic-prison-cell.jpg",
+      "imageAlt": "Cover for Protoplasmic Prison Cell. A cutaway cell with flowers and a sun, the title across the top, I Don't Speak French and Scoobert Doobert underneath.",
       "spotify": "https://open.spotify.com/track/4k4FyVnSYvzmENv5ixSF3g",
       "themes": [
         "Collaboration",
@@ -42957,7 +43539,7 @@
       "coWriters": [
         "J MESA"
       ],
-      "credits": "Written by Luke Francis Walton and J MESA (Taylor James / Babidi). Performed by Scoobert Doobert with Babidi. Mixed and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written by Luke Francis Walton and J MESA (Taylor James / Babidi). Performed by Scoobert Doobert with Babidi. Mixed and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=sZDnLz44-kE",
       "apple": "https://music.apple.com/us/album/quarantine-and-chill-feat-babidi/1526427944?i=1526428030",
@@ -42996,6 +43578,8 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "image": "/photos/covers/quiet-your-mind.jpg",
+      "imageAlt": "Cover for QUIET YOUR MIND!!! A glazed donut, the title underneath.",
       "apple": "https://music.apple.com/us/album/quiet-your-mind/1816392866?i=1816392867",
       "themes": [
         "Anxiety",
@@ -43674,6 +44258,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/see-you-again.jpg",
+      "imageAlt": "Cover for see you again? A line drawing of a sign with Japanese writing.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/see-you-again/1734387671?i=1734387742",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -43816,7 +44403,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/shaggys-anthem.jpg",
+      "imageAlt": "Cover for Shaggy's Anthem. A green and brown swirl behind a silhouette.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=ZQ-AGDsqdrI",
       "apple": "https://music.apple.com/us/album/shaggys-anthem/1526427944?i=1526428032",
@@ -43932,7 +44522,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/shrimp-burrito/1675559395?i=1675559404",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -44001,6 +44591,8 @@
       "releaseType": "single",
       "artist": "FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/sidecar.jpg",
+      "imageAlt": "Cover for Sidecar. A close photograph of a pale, textured wall.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -44084,6 +44676,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/singing-for-u.jpg",
+      "imageAlt": "Cover for singing for u. A line drawing of a microphone.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/singing-for-u/1734387671?i=1734387676",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -44120,7 +44715,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/slow-jam-wav-stolen-off-of-napster.jpg",
+      "imageAlt": "Cover for Slow Jam.wav. A person riding a bike under a starry sky.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/3dW4LbP8381fYkKBdBxiFn",
       "apple": "https://music.apple.com/us/album/slow-jam-wav-stolen-off-of-napster/1585121212?i=1585121221",
       "themes": [
@@ -44229,7 +44827,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=DFPfLXFSA3A",
       "apple": "https://music.apple.com/us/album/snuggle-with-shaggy/1526427944?i=1526427963",
@@ -44307,6 +44905,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/souvenir.jpg",
+      "imageAlt": "Cover for Souvenir. Neon-green script over an SD monogram.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Bump of Chicken",
       "spotify": "https://open.spotify.com/track/4CjpE1ifXVKffXslHy3Kbe",
@@ -44436,7 +45037,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/stories.jpg",
+      "imageAlt": "Cover for Stories. A yellow diary labeled my little internet diary.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/stories/1708670332?i=1708670333",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "youtube": "https://www.youtube.com/watch?v=rc_exGnBdCA",
@@ -44508,6 +45112,8 @@
       "releaseType": "single",
       "artist": "FEiN",
       "artistId": "#fein",
+      "image": "/photos/covers/stupid-forever.jpg",
+      "imageAlt": "Cover for Stupid Forever. A close photograph of a pale, textured wall.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -44588,7 +45194,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/sunlight.jpg",
+      "imageAlt": "Cover for Sunlight. A red, white, and blue popsicle.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/sunlight/1708670332?i=1708670335",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -44625,7 +45234,10 @@
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/take-a-breath.jpg",
+      "imageAlt": "Cover for Take a Breath. A surfboard above a bank of clouds.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/08qm91rIDQEj86DoQWiNyB",
       "youtube": "https://www.youtube.com/watch?v=mKODjwOHgO4",
       "officialVideo": "https://www.youtube.com/watch?v=mKODjwOHgO4",
@@ -44698,6 +45310,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/thats-how-u-know-i-love-u.jpg",
+      "imageAlt": "Cover for that's how u know i love u. A candy heart reading I do.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/thats-how-u-know-i-love-u/1734387671?i=1734387740",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -44765,6 +45380,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/the-cycle.jpg",
+      "imageAlt": "Cover for the cycle. A can labeled shake it off.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/the-cycle/1734387671?i=1734387674",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -44803,6 +45421,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Featuring Mike Funk.",
+      "image": "/photos/covers/the-disco-feat-mike-funk.jpg",
+      "imageAlt": "Cover for The Disco. Three figures with guitars against orange arches.",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "press": [
         {
@@ -44826,6 +45446,36 @@
       "isrc": "TCACQ1735079",
       "isrcSource": "soundexchange",
       "lyrics": "Back to the night\nCan't help but sweat on it\nThe sun won't set on me\nI drop my shades\nHey, foxy bitch, I'm it\nGirl, can you dig the heat?\n\n40 years ago, maybe\nBut nowadays he looks crazy\nWe'll pin his hips back and oh-oh-oh-oh\nNow it creeps out the ladies\nSmack talkin' right out the eighties\nOh no, he's coming again\n\nI got the disco in me!\nHe's stuck in the seventies\nYou know it's all that I need!\nNothing else makes him happy\nI got the disco in me!\nHe's got nothing to live for\nI do whatever I please!\nIt's a serious problem\nI got the disco in me!\nDisco, the disco, I got the disco\nDisco, the disco, I got the disco\n\nI'm out of sight\nStraight down the night, on it\nCan't keep it on with me\nJust whippin' I'ma cool it\nShagadelic babes on it\nCome cool off with me\n\n40 years ago, maybe\nBut nowadays he looks crazy\nWe'll pin his hips back and oh-oh-oh-oh\nNow it creeps out the ladies\nSmack talkin' right out the eighties\nOh no, he's coming again\n\nI got the disco in me!\nHe's stuck in the seventies\nYou know it's all that I need!\nNothing else makes him happy\nI got the disco in me!\nHe's got nothing to live for\nI do whatever I please!\nIt's a serious problem\nI got the disco in me!\nDisco, the disco, I got the disco\nDisco, the disco, I got the disco\n\nOoh, yeah\nOoh, yeah\nOoh, yeah\nOoh, yeah\n\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nBye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\nHa, bye-ya-ba\n\nI got the disco in me!\nHe's stuck in the seventies\nYou know it's all that I need!\nNothing else makes him happy\nI got the disco in me!\nHe's got nothing to live for\nI do whatever I please!\nIt's a serious problem\nI got the disco in me!\nDisco, the disco, I got the disco\nDisco, the disco, I got the disco in me\nDisco, the disco, I got the disco\nDisco, the disco, I got the disco in me\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "the-great-beyond",
+    "title": "The Great Beyond",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/the-great-beyond/",
+    "canonicalUrl": "https://lukefwalton.com/songs/the-great-beyond/",
+    "archive": {
+      "markdown": "songs/the-great-beyond.md",
+      "html": "songs/the-great-beyond.html"
+    },
+    "source": "src/content/songs/the-great-beyond.md",
+    "metadata": {
+      "title": "The Great Beyond",
+      "meaning": "Exist Elsewhere, track 1 on Live on Isle of Wight Radio. Aaron Dowler on bass. The master is free on this page.",
+      "year": 2012,
+      "release": "Live on Isle of Wight Radio",
+      "releaseType": "EP",
+      "artist": "Exist Elsewhere",
+      "artistId": "#existelsewhere",
+      "bandcamp": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
+      "audio": "/audio/the-great-beyond.mp3",
+      "credits": "Exist Elsewhere. Aaron Dowler, bass. Master dated October 18, 2012. Free on this page.",
+      "themes": [
+        "Exist Elsewhere",
+        "2012"
+      ],
       "draft": false
     }
   },
@@ -45051,6 +45701,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/time-with-u.jpg",
+      "imageAlt": "Cover for time with u. A line drawing of a couch.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/time-with-u/1734387671?i=1734387673",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "press": [
@@ -45365,6 +46018,8 @@
       "releaseType": "EP",
       "artist": "Exist Elsewhere",
       "artistId": "#existelsewhere",
+      "image": "/photos/exist-elsewhere-tokyo-cover.jpg",
+      "imageAlt": "Cover for Tokyo. The word Tokyo in mirrored pairs over a red line drawing of boxes, with Exist Elsewhere and the line that it is the debut single from the forthcoming EP 413.",
       "coWriters": [
         "Brandon Michael Woodward"
       ],
@@ -45481,7 +46136,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/too-hot.jpg",
+      "imageAlt": "Cover for TOO HOT. A smoothie with a banana and a straw.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/too-hot/1708670332?i=1708670339",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -45557,7 +46215,10 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics.",
+      "image": "/photos/covers/underwater.jpg",
+      "imageAlt": "Cover for Underwater. A danger sign about unstable cliffs.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/underwater/1708670332?i=1708670340",
       "spotify": "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB",
       "themes": [
@@ -45884,18 +46545,24 @@
     "source": "src/content/songs/wannagetaway.md",
     "metadata": {
       "title": "wannagetaway",
-      "meaning": "Beformer single out November 13, 2026, also sequenced on the US LP (January 2027). Lyrics are not on this page yet.",
+      "meaning": "Makeup over no sleep, cameras on the door and the dash, a Friday car crash with the receipts, then gone: falling in the sea, somewhere far away.",
       "year": 2026,
       "release": "wannagetaway",
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Scoobert Doobert single on Beformer. DistroKid release date November 13, 2026. UPC 700573621298.",
+      "image": "/photos/covers/wannagetaway.jpg",
+      "imageAlt": "Cover for wannagetaway. A blue rolling suitcase with the handle up, on a green field inside a brown frame, SCOOBERT DOOBERT across the top and WANNAGETAWAY across the bottom.",
       "themes": [
+        "Anxiety",
+        "escape",
+        "surveillance",
         "US",
         "2026"
       ],
       "isrc": "QTA2T2698897",
+      "lyrics": "When I wake\nPutting on my makeup\nGotta make up for my lack of sleep\nI'm heavy\nUnsteady\n\nWhen I lock up\nCamera on doorknob\nCamera on my dash\nFor safety\nSurround me\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone gone gone gone gone\n\nI'm gonna get\nSomewhere far away\n\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nYeah why don't we go\nWhy don't we go\nWhy don't we go\n\nThe body's loud\nThe mind is quiet\nProbably cuz I won't let you inside it\nGive you like a portion\nTry to find it\nWalk a little weird\nThen I can't hide it\n\nBandaid\nNeck brace\nCar crash\nFriday\nYou're late\nSorry\n\nAt least I made it in today\nI feel great\nMy injuries\nThey got receipts\n\nI'm watching you\nYou're watching me\nI'm watching you\nYou're watching me me me\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone gone gone gone gone\n\nI'm gonna get\nSomewhere far away\n\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nYeah I think I'm gonna go\n\nWanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone gone\n",
       "draft": false
     }
   },
@@ -45949,7 +46616,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "officialVideo": "https://www.youtube.com/watch?v=XuvQ4e4sZXA",
       "apple": "https://music.apple.com/us/album/wash-your-f-g-hands/1526427944?i=1526428028",
@@ -45986,6 +46653,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/watercolor-sky.jpg",
+      "imageAlt": "Cover for watercolor sky. A cloud outline on a blue field.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/watercolor-sky/1734387671?i=1734387737",
       "spotify": "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49",
       "themes": [
@@ -45998,6 +46668,36 @@
       "isrc": "QZDA62475492",
       "isrcSource": "soundexchange",
       "lyrics": "Ooo oh my\nOoo oh my\n\nIt's hard to look up when you're crossing a river\nTakes all you got\nTo jump from rock to rock\nWater in my sock\nUncomfortable and silent\nTake time to stop\nAnd look on up\nRemember where you're going\nAnd where you came from\n\nUnder a pink and purple sky\nI never worry\nThis is why\nI gotta spend more time outside\nUnder a watercolor\nPink and purple sky\nOh my watercolor sky\nOh my oh my\n\nIt's love\nA little breeze\nBlowing through the garden\nThe only hope I'm finding\nAs the sun's beating down\nMosquitos biting, take my blood\nFill your belly, is that enough?\nSurely you could swallow me whole in time\nHmm\n\nUnder a pink and purple sky\nI never worry\nThis is why\nI gotta spend more time outside\nUnder a watercolor\nPink and purple sky\nOh my what a watercolor sky\nOh my oh my\n\nOh my oh my oh my\nOh my oh my ooo\nOh my (ahh) oh my\nOh my ooo\nOh my oh my\nOh my oh my\nOh my oh my oh my\nOoo\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "wavelengths",
+    "title": "Wavelengths",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/wavelengths/",
+    "canonicalUrl": "https://lukefwalton.com/songs/wavelengths/",
+    "archive": {
+      "markdown": "songs/wavelengths.md",
+      "html": "songs/wavelengths.html"
+    },
+    "source": "src/content/songs/wavelengths.md",
+    "metadata": {
+      "title": "Wavelengths",
+      "meaning": "Exist Elsewhere, track 3 on Live on Isle of Wight Radio. Aaron Dowler on bass. The master is free on this page.",
+      "year": 2012,
+      "release": "Live on Isle of Wight Radio",
+      "releaseType": "EP",
+      "artist": "Exist Elsewhere",
+      "artistId": "#existelsewhere",
+      "bandcamp": "https://existelsewhere.bandcamp.com/album/live-on-isle-of-wight-radio",
+      "audio": "/audio/wavelengths.mp3",
+      "credits": "Exist Elsewhere. Aaron Dowler, bass. Master dated October 18, 2012. The source file is named Wavelenghts. Free on this page.",
+      "themes": [
+        "Exist Elsewhere",
+        "2012"
+      ],
       "draft": false
     }
   },
@@ -46021,7 +46721,10 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Featuring Celeste Krishna. Mastered by Riley Knapp.",
+      "credits": "Written, performed, and mixed by Luke Francis Walton. Featuring Celeste Krishna. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/wavy.jpg",
+      "imageAlt": "Cover for Wavy. Pink script on a field of purple contour lines.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "apple": "https://music.apple.com/us/album/wavy-feat-celeste-krishna/1585983445?i=1585983447",
       "spotify": "https://open.spotify.com/artist/3q7oAEFJK9uSHY4F8EJ5Td",
       "youtube": "https://www.youtube.com/watch?v=hNOLxekj5Xc",
@@ -46375,7 +47078,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "apple": "https://music.apple.com/us/album/when-its-over/1526427944?i=1526427965",
       "themes": [
@@ -46412,6 +47115,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/when-its-over-sugar-ray.jpg",
+      "imageAlt": "Cover for when it's over. A traffic cone in the grass under a blue swirl sky, with Scoobert Doobert in script.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Sugar Ray",
       "spotify": "https://open.spotify.com/track/5wxlWI9e59pDjdxShfeuLl",
@@ -46650,6 +47356,9 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "image": "/photos/covers/who-am-i-really-fooling-anyway.jpg",
+      "imageAlt": "Cover for Who Am I Really Fooling Anyway. A cube billboard on a pole.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/7dQ9xKHNC1mqx5TYqMSUmH",
       "apple": "https://music.apple.com/us/song/who-am-i-really-fooling-anyway/1618192109",
       "youtube": "https://www.youtube.com/watch?v=nh-pjqaxgjI",
@@ -46736,7 +47445,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Gentle Giant Illustrations.",
+      "credits": "Written, performed, mixed, and mastered by Luke Francis Walton. Album art by Grizzard Graphics.",
       "spotify": "https://open.spotify.com/album/13zzM1QEnrvJ7kRwUGNIFw",
       "apple": "https://music.apple.com/us/album/why-how-yeah-yeah/1526427944?i=1526428038",
       "themes": [
@@ -46775,6 +47484,9 @@
       "releaseType": "EP",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/winter-wonderland.jpg",
+      "imageAlt": "Cover for Winter Wonderland. A knitted sweater with trees, dogs, and the title.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Felix Bernard & Richard B. Smith",
       "spotify": "https://open.spotify.com/track/2yC2M8tiVF5H7r14YsLDAZ",
@@ -46963,6 +47675,8 @@
         "Brandon Michael Woodward"
       ],
       "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Mixed and mastered by Frank Rosato.",
+      "image": "/photos/covers/y-k-m.jpg",
+      "imageAlt": "Cover for Y K M. The letters on a blue gradient.",
       "apple": "https://music.apple.com/us/album/y-k-m/1459487776?i=1459487777",
       "spotify": "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
       "themes": [
@@ -47001,6 +47715,9 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
+      "image": "/photos/covers/you-make-me-feel-like-dancing.jpg",
+      "imageAlt": "Cover for You Make Me Feel Like Dancing. Scoobert Doobert and the title in pale type on a dark red field.",
+      "imageCredit": "Artwork by Grizzard Graphics.",
       "coverOf": "Leo Sayer",
       "cover": true,
       "spotify": "https://open.spotify.com/track/7xNYUYx97k1C8QtOnOx4pO",
@@ -47195,6 +47912,7 @@
       "sameAs": [
         "https://philpapers.org/rec/WALTCO-87",
         "https://doi.org/10.5281/zenodo.20676327",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936679",
         "https://lukefwalton.com/writing/the-captured-oracle/",
         "https://zenodo.org/records/20676327"
       ],
@@ -47254,6 +47972,7 @@
       "sameAs": [
         "https://doi.org/10.5281/zenodo.20614374",
         "https://philpapers.org/rec/WALTDN",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936618",
         "https://philpapers.org/archive/WALTDN.pdf",
         "https://lukefwalton.com/writing/the-decision-no-one-authored/",
         "https://zenodo.org/records/20614374"

@@ -12,6 +12,8 @@ artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
 credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Produced and recorded at Tiny Giant Recording. Mixed and mastered by Frank Rosato."
+image: "/photos/covers/loved.jpg"
+imageAlt: "Cover for LOVED. Two round faces, one large and one small, on black."
 
 spotify: "https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC"
 apple: "https://music.apple.com/us/album/loved/1212050915?i=1212051101"
@@ -103,10 +105,9 @@ lyrics: |
   La-la-la-la-la-loved
 
 draft: false
-
 ---
 
-**FEiN** single (**March 10, 2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** at Tiny Giant Recording. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); post-LP 2017 cluster with [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). Their most-streamed track: [more than 9 million Spotify streams](https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC), ahead of [*#Grownupz*](/songs/grownupz/) (viral-50 moment, ~500k+ across services per [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein)) and every other FEiN release on the profile. The [SoundCloud upload](https://soundcloud.com/feinmusic/loved) still carries a long comment thread (**204 comments**, ~460k plays, ~7.7k likes), generational satire that people actually argued about in the replies. Often styled **LOVED** all caps.
+**FEiN** single (**March 10, 2017**, ℗ Tiny Giant), co-written by **Luke Francis Walton** and **Brandon Michael Woodward**. On **October 5, 2026**, Spotify showed **9,108,726** plays, **3:15**. The count moves. Mixed and mastered by **[Frank Rosato](/with/frank-rosato/)** at Tiny Giant Recording. Not on [*Little Homes*](/albums/little-homes-fein/) (2016); post-LP 2017 cluster with [*It's Alright*](/songs/its-alright/), [*Fear*](/songs/fear/), [*P.A.R.T.S.*](/songs/p-a-r-t-s/), and [*All Mine*](/songs/all-mine/). Their most-streamed track: [more than 9 million Spotify streams](https://open.spotify.com/track/07ivDiCg2mWDiwV4nG8zyC), ahead of [*#Grownupz*](/songs/grownupz/) (viral-50 moment, ~500k+ across services per [BMI](https://www.bmi.com/news/entry/indie_spotlight_fein)) and every other FEiN release on the profile. The [SoundCloud upload](https://soundcloud.com/feinmusic/loved) still carries a long comment thread (**204 comments**, ~460k plays, ~7.7k likes), generational satire that people actually argued about in the replies. Often styled **LOVED** all caps.
 
 The [YouTube audio](https://www.youtube.com/watch?v=ADkxKe2iDhM) is FEiN's recording, supplied to YouTube by TuneCore. The comments header shows **507 comments**, next to about **1.6 million views**. The fan videos are other people's animations set to it.
 
