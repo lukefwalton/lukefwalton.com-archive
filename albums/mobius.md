@@ -1,7 +1,7 @@
 ---
 title: "MÖBIUS"
 
-description: "The planned fourth and final turn of the MÖBIUS cycle (MÖB → I → US → MÖBIUS). Burt Cashman and cawleen are characters on it and credited on it. No date, tracklist or credits announced."
+description: "The planned fourth and final turn of the MÖBIUS cycle (MÖB → I → US → MÖBIUS), meant to fold the Scoobert catalog back through itself. Burt Cashman and cawleen are characters on it and credited on it. No date, tracklist or credits announced."
 
 catalogStatus: planned
 
@@ -17,6 +17,12 @@ draft: false
 ---
 
 *MÖBIUS* is the planned fourth turn of [the MÖBIUS cycle](/albums/mobius-cycle/), the LP that closes the loop **MÖB → I → US → MÖBIUS**. It is not out. There is no release date, no tracklist and no credit sheet yet, and this page will not guess at any of them. The year people sometimes hear attached to it is an expectation, not a schedule.
+
+## What it is reaching for
+
+The line Luke F. Walton put on it in October 2026: **"MÖB / I / US generated the material. MÖBIUS gets to eat it."** The record is meant to fold the existing Scoobert Doobert catalog back through itself: not re-recording the earlier songs but sampling them, vocals, stems, riffs, room noise, mistakes, as raw material beside new songs. It is meant to move from bedroom-pop lo-fi toward larger art-pop production without losing the tape-ish intimacy. The fiction network is part of its vocabulary, which is why Burt Cashman and cawleen are already on it. And the visual album may live on the web first, as an interactive site, with any video version a recorded path through it.
+
+All of that is intent, stated here so it is on the record early. How much of it survives contact with the actual record is open, and this page will say so when it changes.
 
 ## What is decided
 

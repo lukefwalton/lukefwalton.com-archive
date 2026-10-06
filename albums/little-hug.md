@@ -66,4 +66,4 @@ Ten lyric tracks on the EP have annotation pages; *Walking Balboa* and *My Home 
 
 Luke Francis Walton wrote and produced it. Title track [*A Little Hug*](/songs/a-little-hug/), core vocal and ukulele **recorded in the water at June Lake** (Sierra Nevada). The [visual EP](https://www.youtube.com/watch?v=wo6DdbU_c_I) runs the same twelve chapters in the same order: also on [Selected Videos](/music/#selected-videos). [Where the Music Meets](https://www.wherethemusicmeets.com/2020/11/06/scoobert-doobert-take-a-breath/) picked up *Take a Breath* in late 2020 before the full release landed.
 
-Coverage treats [*Big Hug*](/albums/big-hug/) as the follow-up; it absorbs and reworks *Can't Imagine Feeling Better*, *If I Could Only*, and [*Debby*](/songs/debby/) (Extended on the LP: same song, guitar solo).
+Coverage treats [*Big Hug*](/albums/big-hug/) as the follow-up; it absorbs and reworks *Can't Imagine Feeling Better*, *If I Could Only*, and [*Debby*](/songs/debby/) (Extended on the LP: same song, with a guitar solo added).

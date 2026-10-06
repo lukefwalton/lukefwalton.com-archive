@@ -40,6 +40,6 @@ The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**),
 |------|-----|--------|
 | **MÖBIUS** (fourth turn) | [*MÖBIUS*](/albums/mobius/) | Planned. No date, tracklist or credits announced |
 
-The stated goal for the fourth turn: loop in the whole Scoobert history, the broader network, and the other works, and blend what is fact and what is fiction. Two figures from the fiction network are already attached to it: Burt Cashman, a major character on the record and a credited performer on it, and cawleen, a character on it and a credited artist. Both are introduced on the [*MÖBIUS*](/albums/mobius/) page. Nothing from it is released, so nothing from it is described here.
+The stated goal for the fourth turn: loop in the whole Scoobert history, the broader network, and the other works, and blend what is fact and what is fiction. Luke's shorter line for it: **"MÖB / I / US generated the material. MÖBIUS gets to eat it."** The earlier records become sample material for the one that closes the loop. Two figures from the fiction network are already attached to it: Burt Cashman, a major character on the record and a credited performer on it, and cawleen, a character on it and a credited artist. Both are introduced on the [*MÖBIUS*](/albums/mobius/) page. Nothing from it is released, so nothing from it is described here.
 
 See also: [Catalog: Möbius cycle](/catalog/#moebius-cycle) · [Music](/music/)

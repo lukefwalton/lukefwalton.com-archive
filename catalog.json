@@ -1735,9 +1735,9 @@
         },
         {
           "outlet": "Music Connection: Top 25 New Music Critiques (2014 year-end)",
-          "url": "https://lukefwalton.com/songs/monay-grabba/",
-          "date": "2015-01-11",
-          "desc": "FEiN Times Issue #1 · FEiN 8.0 · feintimes.com · [screenshot](/evidence/fein-music-connection-top-25-2014.png)"
+          "url": "https://www.musicconnection.com/top-25-music-critiques/",
+          "date": "2014-12-03",
+          "desc": "Number 25 · FEiN 8.0 · FEiN Times Issue #1 · [screenshot](/evidence/fein-music-connection-top-25-2014.png)"
         },
         {
           "outlet": "FEiN Facebook: Tiny Giant back door install (Feb 2015)",
@@ -2345,7 +2345,7 @@
     "source": "src/content/albums/mobius.md",
     "metadata": {
       "title": "MÖBIUS",
-      "description": "The planned fourth and final turn of the MÖBIUS cycle (MÖB → I → US → MÖBIUS). Burt Cashman and cawleen are characters on it and credited on it. No date, tracklist or credits announced.",
+      "description": "The planned fourth and final turn of the MÖBIUS cycle (MÖB → I → US → MÖBIUS), meant to fold the Scoobert catalog back through itself. Burt Cashman and cawleen are characters on it and credited on it. No date, tracklist or credits announced.",
       "catalogStatus": "planned",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
@@ -33752,6 +33752,7 @@
       "releaseType": "single",
       "releaseDate": "2016-02-01",
       "bandcamp": "https://ninafrancismusic.bandcamp.com/track/boomerang-with-fein",
+      "spotify": "https://open.spotify.com/track/5aC59mrL6kRl8yWM4iTw5P",
       "themes": [
         "Love",
         "long distance",
@@ -34335,6 +34336,7 @@
         }
       ],
       "officialVideo": "https://www.youtube.com/watch?v=6drUqHAx7YY",
+      "spotify": "https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY",
       "themes": [
         "Music production",
         "Mixing",
@@ -34745,6 +34747,7 @@
       "role": "production",
       "productionRoles": "Mixed",
       "bandcamp": "https://applcomm.bandcamp.com/track/cowboy-bebop-erics-trip",
+      "spotify": "https://open.spotify.com/track/69cu45heHVxZixRVJt8m2W",
       "officialVideo": "https://www.youtube.com/watch?v=xtpQd77U3gM",
       "themes": [
         "Mixing",
@@ -37597,9 +37600,9 @@
         },
         {
           "outlet": "Music Connection: Top 25 New Music Critiques (2014)",
-          "url": "https://lukefwalton.com/songs/monay-grabba/",
-          "date": "2015-01-11",
-          "desc": "FEiN Times Issue #1 · FEiN 8.0 · feintimes.com · year-end Special Issue."
+          "url": "https://www.musicconnection.com/top-25-music-critiques/",
+          "date": "2014-12-03",
+          "desc": "Number 25 · FEiN 8.0 · FEiN Times Issue #1 · FEiN@FEiNtimes.com · feintimes.com."
         },
         {
           "outlet": "BMI: Indie Spotlight",
@@ -38912,6 +38915,40 @@
   },
   {
     "collection": "songs",
+    "slug": "in-n-out-theme-song",
+    "title": "In-N-Out Theme Song (Jingle Remix)",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/in-n-out-theme-song/",
+    "canonicalUrl": "https://lukefwalton.com/songs/in-n-out-theme-song/",
+    "archive": {
+      "markdown": "songs/in-n-out-theme-song.md",
+      "html": "songs/in-n-out-theme-song.html"
+    },
+    "source": "src/content/songs/in-n-out-theme-song.md",
+    "metadata": {
+      "title": "In-N-Out Theme Song (Jingle Remix)",
+      "meaning": "A 0:53 YouTube remix of the In-N-Out song, October 20, 2020. He says he made it after Mossy Nissan and Toyota of Escondido, by request.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "In-N-Out theme",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only.",
+      "youtube": "https://www.youtube.com/watch?v=Bb_6jpwARSs",
+      "officialVideo": "https://www.youtube.com/watch?v=Bb_6jpwARSs",
+      "themes": [
+        "San Diego",
+        "Satire and absurdism",
+        "remix",
+        "2020"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "in-peacetime-goku-smokes-blunts",
     "title": "In Peacetime Goku Smokes Blunts",
     "type": "MusicRecording",
@@ -39650,6 +39687,40 @@
   },
   {
     "collection": "songs",
+    "slug": "king-stahlman-bail-bonds",
+    "title": "King Stahlman Bail Bonds Jingle Remix",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/king-stahlman-bail-bonds/",
+    "canonicalUrl": "https://lukefwalton.com/songs/king-stahlman-bail-bonds/",
+    "archive": {
+      "markdown": "songs/king-stahlman-bail-bonds.md",
+      "html": "songs/king-stahlman-bail-bonds.html"
+    },
+    "source": "src/content/songs/king-stahlman-bail-bonds.md",
+    "metadata": {
+      "title": "King Stahlman Bail Bonds Jingle Remix",
+      "meaning": "A 1:03 remix of the King Stahlman Bail Bonds jingle, October 28, 2020. The description says Rest In Peace, King.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "King Stahlman Bail Bonds jingle",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only.",
+      "youtube": "https://www.youtube.com/watch?v=Ggo6G-T3BGk",
+      "officialVideo": "https://www.youtube.com/watch?v=Ggo6G-T3BGk",
+      "themes": [
+        "San Diego",
+        "Satire and absurdism",
+        "remix",
+        "2020"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "kodomo-mitai",
     "title": "KODOMO MITAI",
     "type": "MusicRecording",
@@ -39839,6 +39910,39 @@
         "2017"
       ],
       "lyrics": "Bury it in the cloud where I can find it\nWhenever I like\nWhen you're dust in the ground then I'll go find it\nWhenever I like\n\nImages forever ever\nYou and me together gether\nDigital means never ever\nI'll\nnever have to let you go\n\nAll things go but the words\nwe wrote on our walls\nI'll read them at night\nKeep you close as the earth grows over our love\nI'll send you goodnight\n\nImages forever ever\nYou and me together gether\nDigital m\neans never ever\nI'll never\nI'll never\nI'll never have to let you go\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "lets-go-padres-remix",
+    "title": "Let's Go Padres (Remix)",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/lets-go-padres-remix/",
+    "canonicalUrl": "https://lukefwalton.com/songs/lets-go-padres-remix/",
+    "archive": {
+      "markdown": "songs/lets-go-padres-remix.md",
+      "html": "songs/lets-go-padres-remix.html"
+    },
+    "source": "src/content/songs/lets-go-padres-remix.md",
+    "metadata": {
+      "title": "Let's Go Padres (Remix)",
+      "meaning": "Two 2021 uploads of a Let's Go Padres remix. YouTube, May 10, is 1:48 and names 91X and Reddit user janky85. SoundCloud is 1:37 and names Reddit user GodFrusciante.",
+      "year": 2021,
+      "releaseType": "single",
+      "role": "remix",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. A YouTube upload and a separate SoundCloud upload.",
+      "youtube": "https://www.youtube.com/watch?v=hGoH1PClHJE",
+      "officialVideo": "https://www.youtube.com/watch?v=hGoH1PClHJE",
+      "themes": [
+        "San Diego",
+        "The internet",
+        "remix",
+        "2021"
+      ],
       "draft": false
     }
   },
@@ -40992,9 +41096,9 @@
         },
         {
           "outlet": "Music Connection: Top 25 New Music Critiques (2014 year-end)",
-          "url": "https://lukefwalton.com/songs/monay-grabba/",
-          "date": "2015-01-11",
-          "desc": "FEiN Times Issue #1 · FEiN 8.0 · feintimes.com · Jan 11 2015 FEiN Facebook · [screenshot](/evidence/fein-music-connection-top-25-2014.png)"
+          "url": "https://www.musicconnection.com/top-25-music-critiques/",
+          "date": "2014-12-03",
+          "desc": "Number 25 · FEiN 8.0 · FEiN Times Issue #1 · FEiN@FEiNtimes.com · feintimes.com. Jan 11, 2015 Facebook clipping · [screenshot](/evidence/fein-music-connection-top-25-2014.png)"
         }
       ],
       "themes": [
@@ -41045,6 +41149,40 @@
       "isrc": "QZDA82294199",
       "isrcSource": "soundexchange",
       "lyrics": "I don't wanna be alone\nIt's all I've ever known\nI don't wanna die alone\nIt's all we've ever known\n\nI don't wanna be alone\nIn time, that's all I'll know\nThe more you live\nThe more you lose\nNot much else to do\n\nI don't wanna be alone\nNo\nIt's all I've ever known\nI don't wanna die alone\nNo\nIt's all we've ever known\n\nI don't wanna be alone\nIn time, that's all I'll know\nThe more you live\nThe more you lose\nNot much else to do\n\nI don't wanna be alone\nNo\nI don't wanna be alone\nNo\nI don't wanna be alone\nNo\nI don't wanna be alone\nNo\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "mossy-nissan-song",
+    "title": "Mossy Nissan Song",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/mossy-nissan-song/",
+    "canonicalUrl": "https://lukefwalton.com/songs/mossy-nissan-song/",
+    "archive": {
+      "markdown": "songs/mossy-nissan-song.md",
+      "html": "songs/mossy-nissan-song.html"
+    },
+    "source": "src/content/songs/mossy-nissan-song.md",
+    "metadata": {
+      "title": "Mossy Nissan Song",
+      "meaning": "A 0:55 vaporwave cover of the Mossy Nissan song, October 8, 2020. His note says Hilary from 91X commissioned it.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "Mossy Nissan song",
+      "productionRoles": "Cover",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only. His description says Hilary from 91X commissioned the cover.",
+      "youtube": "https://www.youtube.com/watch?v=uLVi4Oa2jdQ",
+      "officialVideo": "https://www.youtube.com/watch?v=uLVi4Oa2jdQ",
+      "themes": [
+        "San Diego",
+        "Satire and absurdism",
+        "remix",
+        "2020"
+      ],
       "draft": false
     }
   },
@@ -44104,6 +44242,39 @@
   },
   {
     "collection": "songs",
+    "slug": "san-diego-super-chargers-theme",
+    "title": "San Diego Super Chargers Theme",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/san-diego-super-chargers-theme/",
+    "canonicalUrl": "https://lukefwalton.com/songs/san-diego-super-chargers-theme/",
+    "archive": {
+      "markdown": "songs/san-diego-super-chargers-theme.md",
+      "html": "songs/san-diego-super-chargers-theme.html"
+    },
+    "source": "src/content/songs/san-diego-super-chargers-theme.md",
+    "metadata": {
+      "title": "San Diego Super Chargers Theme",
+      "meaning": "A 2:25 remix of the San Diego Chargers song, November 3, 2020. A 15-minute Beats and Brews episode uses the remix and is not a second play count.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "San Diego Chargers song",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only.",
+      "youtube": "https://www.youtube.com/watch?v=xHBc0n8nvFQ",
+      "officialVideo": "https://www.youtube.com/watch?v=xHBc0n8nvFQ",
+      "themes": [
+        "San Diego",
+        "remix",
+        "2020"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "scared-to-reunite",
     "title": "Scared to Reunite",
     "type": "MusicRecording",
@@ -44223,6 +44394,12 @@
           "url": "https://freshbeats365.com/2016/03/10/fein-little-little-homes-ep-review/",
           "date": "2016-03-10",
           "desc": "Tom Roden: opening track; boldest indie-electro/alternative hybrid; image-obsessed social commentary; pulverising middle eight."
+        },
+        {
+          "outlet": "The Listen Local Show",
+          "url": "https://soundcloud.com/listenlocalradio/the-listen-local-show-3-10-16",
+          "date": "2016-03-10",
+          "desc": "Listen Local Radio, San Diego, with Cathryn Beeks. Opened with Sculptor. The week's bill lists FEiN first."
         },
         {
           "outlet": "FEiN Facebook: Rico's Taco Shop / *Sculptor* promo (Jan 2016)",
@@ -44919,6 +45096,39 @@
       ],
       "isrc": "QZDA52304379",
       "isrcSource": "soundexchange",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "space-jam-2-theme-song",
+    "title": "Space Jam 2 Theme Song",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/space-jam-2-theme-song/",
+    "canonicalUrl": "https://lukefwalton.com/songs/space-jam-2-theme-song/",
+    "archive": {
+      "markdown": "songs/space-jam-2-theme-song.md",
+      "html": "songs/space-jam-2-theme-song.html"
+    },
+    "source": "src/content/songs/space-jam-2-theme-song.md",
+    "metadata": {
+      "title": "Space Jam 2 Theme Song",
+      "meaning": "A 1:29 reimagining of the Quad City DJ's Space Jam song, October 13, 2020. The title calls the video a trailer. The description says he released the song.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "Space Jam (Quad City DJ's)",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only.",
+      "youtube": "https://www.youtube.com/watch?v=tQBRy_6bnjo",
+      "officialVideo": "https://www.youtube.com/watch?v=tQBRy_6bnjo",
+      "themes": [
+        "Satire and absurdism",
+        "remix",
+        "2020"
+      ],
       "draft": false
     }
   },
@@ -46152,6 +46362,68 @@
       "isrc": "QZNWU2369261",
       "isrcSource": "soundexchange",
       "lyrics": "It's too hot outside\nOh, it's too hot outside\nOh, it's too hot outside, ah\nOo, it's too hot outside\nOh, it's too hot outside, uh\nSaid, it's too hot outside\nOh, it's too hot outside\n\nBreak into a hotel pool\nWith a swim-up bar\nBut they caught me in 4K\nPut an ice bucket near my fan\nBut they melting\nIn the heat of the midday\nAm I okay?\nCan I afford to see a movie?\nNo\n\nDriving down to the coast\nArm out my window\nSipping on a bana-na0na smoothie\nWanna find a brain freeze, overheat\nMolten-leather car seat\nGot a broken AC\nOh, lucky me, me, me\n\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot\n\nToo hot hot\nToo hot\nToo hot hot\nToo hot\n(It's too hot)\nToo hot hot\nToo hot\n\nDriving down to the coast\nArm out my window\nSipping on a bana-na0na smoothie\nWanna find a brain freeze, overheat\nMolten-leather car seat\nGot a broken AC\nOh, lucky me, me, me\n\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot outside\nOo, it's too hot\n\nToo hot hot\nToo hot\n(Oo it's too hot)\nToo hot hot\nToo hot (rah)\nToo hot hot\nToo hot\n(It's too hot)\nToo hot hot\nToo hot\n(Oo it's too)\nHot\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "toyota-of-escondido",
+    "title": "Toyota of Escondido_different drop",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/toyota-of-escondido/",
+    "canonicalUrl": "https://lukefwalton.com/songs/toyota-of-escondido/",
+    "archive": {
+      "markdown": "songs/toyota-of-escondido.md",
+      "html": "songs/toyota-of-escondido.html"
+    },
+    "source": "src/content/songs/toyota-of-escondido.md",
+    "metadata": {
+      "title": "Toyota of Escondido_different drop",
+      "meaning": "A 1:04 SoundCloud upload from December 2021. His note calls it a hilarious alternate and a shitpost, under a title for a Toyota dealer in Escondido.",
+      "year": 2021,
+      "releaseType": "single",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton uploaded it to the Scoobert Doobert SoundCloud.",
+      "themes": [
+        "San Diego",
+        "Satire and absurdism",
+        "2021"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "toyota-of-escondido-song-cover",
+    "title": "Toyota of (Escondido) Song Cover",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/toyota-of-escondido-song-cover/",
+    "canonicalUrl": "https://lukefwalton.com/songs/toyota-of-escondido-song-cover/",
+    "archive": {
+      "markdown": "songs/toyota-of-escondido-song-cover.md",
+      "html": "songs/toyota-of-escondido-song-cover.html"
+    },
+    "source": "src/content/songs/toyota-of-escondido-song-cover.md",
+    "metadata": {
+      "title": "Toyota of (Escondido) Song Cover",
+      "meaning": "A 1:10 vaporwave cover of the Toyota of Escondido song, October 9, 2020. His note says Hilary from 91X commissioned it. A later SoundCloud upload is a different drop.",
+      "year": 2020,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "Toyota of Escondido song",
+      "productionRoles": "Cover",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only. His description says Hilary from 91X commissioned the cover.",
+      "youtube": "https://www.youtube.com/watch?v=sGsGgqmbZm8",
+      "officialVideo": "https://www.youtube.com/watch?v=sGsGgqmbZm8",
+      "themes": [
+        "San Diego",
+        "Satire and absurdism",
+        "remix",
+        "2020"
+      ],
       "draft": false
     }
   },
@@ -47693,6 +47965,40 @@
       "isrc": "QZ2QB1900004",
       "isrcSource": "soundexchange",
       "lyrics": "You'll never see me again\nI promise\nI'll disappear in a flash\nAs if I'll ever be done\nYou'll never see me again\nI want this\nMy love, my love\nYou know me\n\nMaybe something's wrong\nMaybe it's recognition\nNobody look to long for nature\nSocial alien\nEverything as it should not be\nMaybe I took to long\nOut of orbit\n\nYou'll never see me again\nI promise\nI'll disappear in a flash\nAs if I'll ever be done\nYou'll never see me again\nI want this\nMy love, my love\nYou know me\n\nI could speak like you\nBuild me a better body\nWelcome me with abusive kindness\nIs this what you feel\nKnowing your place with certainty\nMaybe I'm far from view\nLocked in orbit\n\nYou'll never see me again\nI promise\nI'll disappear in a flash\nAs if I'll ever be done\nYou'll never see me again\nI want this\nMy love, my love\nYou know me\n\nCome to me\nAre you lonely, my beloved child?\nCome with me to the binding\nI will keep you\nCome to me\nAre you lonely?\n",
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
+    "slug": "yoru-ni-kakeru-remix",
+    "title": "夜に駆けるレミックス",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/yoru-ni-kakeru-remix/",
+    "canonicalUrl": "https://lukefwalton.com/songs/yoru-ni-kakeru-remix/",
+    "archive": {
+      "markdown": "songs/yoru-ni-kakeru-remix.md",
+      "html": "songs/yoru-ni-kakeru-remix.html"
+    },
+    "source": "src/content/songs/yoru-ni-kakeru-remix.md",
+    "metadata": {
+      "title": "夜に駆けるレミックス",
+      "meaning": "An unofficial remix of Yoasobi's Yoru ni Kakeru, published October 6, 2026. He says he loves the song, so he remixed it.",
+      "year": 2026,
+      "releaseType": "single",
+      "role": "remix",
+      "remixOf": "Yoru ni Kakeru (Yoasobi)",
+      "productionRoles": "Remix",
+      "artist": "Scoobert Doobert",
+      "artistId": "#scoobert",
+      "credits": "Luke Francis Walton. YouTube only. Unofficial remix of Yoasobi.",
+      "youtube": "https://www.youtube.com/watch?v=YmaH9JqW97U",
+      "officialVideo": "https://www.youtube.com/watch?v=YmaH9JqW97U",
+      "themes": [
+        "Japan",
+        "remix",
+        "Yoasobi",
+        "2026"
+      ],
       "draft": false
     }
   },

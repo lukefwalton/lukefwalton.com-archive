@@ -12,6 +12,7 @@ role: production
 productionRoles: "Mixed"
 
 bandcamp: "https://applcomm.bandcamp.com/track/cowboy-bebop-erics-trip"
+spotify: "https://open.spotify.com/track/69cu45heHVxZixRVJt8m2W"
 officialVideo: "https://www.youtube.com/watch?v=xtpQd77U3gM"
 
 themes: ["Mixing", "Applied Communications", "Max Wood", "2026"]
