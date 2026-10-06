@@ -31,23 +31,19 @@ lyrics: |
   All of this,
   Does it really matter?
   All of this,
-  D
-  oesn't really matter.
+  Doesn't really matter.
   Anyway.
 
   Do you recall when you and I just moved in,
-  Honestly
-  ,
-  w
-  e sank our teeth into each other's throats.
+  Honestly,
+  we sank our teeth into each other's throats.
   But
   then your family asked when we'd get married,
   Honey almost,
   Dropped down; genuflecting knee.
   All
   of this,
-  Does it rea
-  lly matter?
+  Does it really matter?
   All of this,
   It doesn't really matter.
   Anyway.

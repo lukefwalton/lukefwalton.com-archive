@@ -35,6 +35,8 @@ hostNote: |
   
   A lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools. I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.
 
+  The essay is [I Made 1000 AI Music Songs So You Don't Have to](https://lovemusicmore.substack.com/p/i-made-1000-ai-music-songs-so-you), the same day as this episode. The records are [Refried Being](https://lukefwalton.com/albums/refried-being/) and [Wrap Music](https://lukefwalton.com/albums/wrap-music/).
+
 selectedMoments:
   - label: "Introduction to AI Music Project"
     startSec: 91

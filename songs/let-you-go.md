@@ -7,7 +7,7 @@ artist: "Caden Jester feat. FEiN"
 artistId: "#fein"
 
 coWriters: ["Brandon Michael Woodward"]
-credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). FEiN featured vocal on Caden Jester single. The Fosters S5 E9 (Prom, Freeform, 2017)."
+credits: "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Luke Walton: guitar, including the solo. FEiN featured vocal on Caden Jester's single. SoundCloud publisher metadata: ℗ 2017 Tiny Giant Recordings, ISRC TCADB1700371, release date 2017-05-02; the writer/composer field there lists Caden Jester only. The Fosters S5 E9 (Prom, Freeform, 2017)."
 
 release: "Let You Go"
 releaseType: "single"
@@ -34,8 +34,7 @@ lyrics: |
 
   Images forever ever
   You and me together gether
-  Digital m
-  eans never ever
+  Digital means never ever
   I'll never
   I'll never
   I'll never have to let you go
@@ -43,7 +42,9 @@ lyrics: |
 draft: false
 ---
 
-**Caden Jester feat. FEiN**: a Walton/Woodward topline on **Caden Jester**'s *Let You Go* (**indie dance**). On **October 5, 2026**, Spotify showed **348,872** plays, **3:47**. The count moves. FEiN **featured vocal**. The track plays in [The Fosters](https://what-song.com/song/636184/let-you-go-feat-fein) S5 E9 ("Prom," Freeform, 5 September 2017). A DJ topline slot alongside [*Remember Us*](/songs/remember-us/) (Embody / Armada).
+**Caden Jester feat. FEiN**: a Walton/Woodward topline on **Caden Jester**'s *Let You Go* (**indie dance**). On **October 5, 2026**, Spotify showed **348,872** plays, **3:47**. The count moves. FEiN **featured vocal**. Luke Walton played guitar, including the solo. The track plays in [The Fosters](https://what-song.com/song/636184/let-you-go-feat-fein) S5 E9 ("Prom," Freeform, 5 September 2017). A DJ topline slot alongside [*Remember Us*](/songs/remember-us/) (Embody / Armada).
+
+[SoundCloud](https://soundcloud.com/cadenjester/let-you-go) timestamps the upload **2017-05-05T16:30:50Z**. Publisher metadata there gives release date **2017-05-02**, **℗ 2017 Tiny Giant Recordings**, and ISRC **TCADB1700371**. The writer/composer field on that metadata names **Caden Jester** only. The description links [How I Made "Let You Go"](https://www.instagram.com/p/BX_lovyHzZY/). Luke Walton's account of that video: Caden claims the guitar solo, and the solo is Luke's. The same description links a [fanlink](https://cadenjester.fanlink.to/let-you-go) and the [Genius](https://genius.com/Caden-jester-let-you-go-lyrics) lyric page. On **October 6, 2026**, SoundCloud showed **54,817** plays. The count moves.
 
 Grief outsourced to the cloud. The opening defers death by storage (*bury it in the cloud where I can find it / whenever I like*), and the hook makes the bargain explicit: *digital means never ever / I'll never have to let you go*. Permanence as a feature spec, mourning solved by backup.
 

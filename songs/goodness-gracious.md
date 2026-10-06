@@ -23,8 +23,7 @@ isrcSource: soundexchange
 lyrics: |
   I will work every day
   So I can keep our Popsicle stick house
-  F
-  rom falling into funny pieces on the couch.
+  From falling into funny pieces on the couch.
   I will provide a sense of bullshit confidence,
   So then can you pretend I'm someone you believe in.
   In your friend's hall
@@ -36,10 +35,8 @@ lyrics: |
   But why did you decide I'm someone you believe in.
 
   Goodness gracious
-  Hearts not be
-  ating
-  Goodness gra
-  cious
+  Hearts not beating
+  Goodness gracious
   Lungs not breathing
   Goodness gracious
   Is this how I die?
@@ -52,14 +49,13 @@ lyrics: |
   So then will you decide I'm not one to believe in.
 
   Goodness gracious
-  Hearts nat beaating
+  Hearts not beating
   Goodness gracious
   Lungs not breathing
   Goodness gracious
   Is this how I die?
 
-  I, i
-  f I only knew
+  I, if I only knew
   How my grave ending would hurt you
   I, woulda been strong, stronger
   like a

@@ -22,8 +22,7 @@ isrc: QZ2QB1600011
 isrcSource: soundexchange
 lyrics: |
   (Fingerpicked, Luke Singing:)
-  We
-  're all
+  We're all
   just happy lying to ourselves,
   But at least we're not alone.
   Yeah we're all just happy frolicking through hell,
@@ -37,8 +36,7 @@ lyrics: |
   Buy you all your wildest dreams.
 
   (Finger Strummed, Luke Singing:)
-  We
-  're all
+  We're all
   just happy lying to ourselves,
   But at least we're not alone.
   Yeah
@@ -54,8 +52,7 @@ lyrics: |
   thing that I don't need.
 
   (Finger Strummed, Luke Singing:)
-  We
-  're all
+  We're all
   just happy lying to ourselves,
   But at least we're not alone.
   Yeah we're all just happy frolicking through hell,
@@ -72,24 +69,14 @@ lyrics: |
 
   Lonely people staying lonely,
   Lonely people will pay.
-  L
-  augh at
-  it
-  all
-  L
-  augh at
-  it
-  all
+  Laugh at it all
+  Laugh at it all
 
-  We
-  're all
-  just happy lying to ourse
-  lves,
+  We're all
+  just happy lying to ourselves,
   But at least we're not alone.
   Yeah we're all just happy frolicking through hell,
-  But a
-  t least we're not some sad sad f
-  ucker there alone.
+  But at least we're not some sad sad fucker there alone.
   Alone.
   Alone.
   Alone.

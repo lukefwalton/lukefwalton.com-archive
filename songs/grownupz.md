@@ -81,30 +81,15 @@ lyrics: |
   I mean some pills,
   And play some games.
   I count to ten,
-  Ca
-  n you count higher than me yeah?
+  Can you count higher than me yeah?
 
   That bass,
-  Drop
-  -
-  drop
-  -
-  in'
-  It keeps me jump
-  -
-  jump
-  -
-  jumpin,
+  Drop-drop-in'
+  It keeps me jump-jump-jumpin,
   And uh,
   That kick,
-  Drum
-  -
-  drum
-  -
-  in'
-  It makes me
-  go
-  :
+  Drum-drum-in'
+  It makes me go:
 
   Daddy I don't wanna,
   Grow up anyway.
@@ -119,18 +104,12 @@ lyrics: |
   Who would ever wanna,
   Grow up anyway.
   I don't,
-  No
-  we don't,
-  Oh
-  .
+  No we don't,
+  Oh.
   Hmm.
 
   Someone told me that,
-  A
-  -
-  happiness a
-  -
-  come
+  A-happiness a-come
   from deep inside.
   Well
   I bet
@@ -141,8 +120,7 @@ lyrics: |
   a
   shitty
   life.
-  C
-  uz
+  Cuz
   you know that don't,
   That just don't resonate with me,
   Yeah.
@@ -158,8 +136,7 @@ lyrics: |
   Yeah?
 
   Monday Tuesday
-  Wednesday Thursday Fri
-  day
+  Wednesday Thursday Friday
   Saturday
   aaaand
   Sunday
@@ -178,16 +155,12 @@ lyrics: |
   Grow up anyway.
   I don't,
   No we don't,
-  Oh
-  .
-
+  Oh.
   You,
   Oh what would you do
   If you were me?
-  Raised
-  ,
-  I
-  n the pit of,
+  Raised,
+  In the pit of,
   Temptation and greed.
 
 draft: false

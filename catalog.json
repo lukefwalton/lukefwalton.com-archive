@@ -55,6 +55,23 @@
           "desc": "Official “Tokyo” music video (Kinect-shot)."
         },
         {
+          "outlet": "No Film School: Kinect motion-capture video",
+          "url": "https://nofilmschool.com/2013/08/creating-motion-capture-video-dslr-kinect-projector",
+          "date": "2013-08",
+          "desc": "Interview with Andrew Gant on the Tokyo video: Kinect, DSLR, projector, RGBDToolkit. He credits Sarah Oh with the lightman art."
+        },
+        {
+          "outlet": "Vimeo: Exist Elsewhere - Tokyo",
+          "url": "https://vimeo.com/70992199",
+          "desc": "Band upload. Credits Sarah Oh for lightman concept and art, and Marisa Papadopoulos as set photographer. The description points at the behind-the-scenes featurette."
+        },
+        {
+          "outlet": "SoundCloud: Tokyo (Vexare Remix)",
+          "url": "https://soundcloud.com/vexare/exist-elsewhere-tokyo-vexare-1",
+          "date": "2013-08-19",
+          "desc": "Vexare's upload, timestamp 2013-08-19T19:33:07Z, 4:52. Description: Big ups to Exist Elsewhere for having me do this remix."
+        },
+        {
           "outlet": "USC Thornton: Macworld/iWorld Indie Innovation Conference",
           "url": "https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/",
           "desc": "Exist Elsewhere won the 2013 iNDIE iNNOVATION Championship (Jan 31, 2013 · San Francisco): Luke Walton (BM ’13) and Brandon Woodward (BM ’14); finals vs Mister Loveless; opened for Little Feat at the Mezzanine."
@@ -389,19 +406,25 @@
           "title": "The Rose"
         },
         {
+          "title": "Dangerous"
+        },
+        {
+          "title": "Heart Shapes"
+        },
+        {
+          "title": "Make Up Your Mind"
+        },
+        {
           "title": "Curiosity"
         },
         {
           "title": "Los Angeles"
         },
         {
-          "title": "Make Up Your Mind"
-        },
-        {
           "title": "We're Gonna Be Alright"
         },
         {
-          "title": "He Was Talking to Me (bonus track)"
+          "title": "He Was Talking to Me (Bonus Track)"
         }
       ],
       "press": [
@@ -423,7 +446,13 @@
         {
           "outlet": "Bandcamp: Between Dreams",
           "url": "https://ninafrancismusic.bandcamp.com/album/between-dreams",
-          "desc": "Written by Nina Francis; produced Luke Walton & Brandon Woodward at Tiny Giant; mixed/mastered Frank Rosato."
+          "desc": "Eleven tracks. Written by Nina Francis; produced Luke Walton & Brandon Woodward at Tiny Giant; mixed/mastered Frank Rosato. Photo by Dylan Rosgone; design by Nina Francis. Track 11 recorded by Chris Sampson."
+        },
+        {
+          "outlet": "ListenSD: interview with Nina Francis",
+          "url": "https://listensd.com/listen-sd-exclusive-interview-with-nina-francis/",
+          "date": "2017-10-07",
+          "desc": "Release-day interview. Francis says that since her 2014 release she had written over a hundred tunes, and Between Dreams is the 11 she kept coming back to."
         }
       ],
       "draft": false
@@ -2725,7 +2754,30 @@
       "releaseType": "album",
       "artist": "Burrito Bot",
       "artistId": "#burritobot",
-      "tracks": [],
+      "spotify": "https://open.spotify.com/album/5YhkIcucODXqa9qCT7JCAp",
+      "tracks": [
+        {
+          "title": "Burrito Dream"
+        },
+        {
+          "title": "Burrito in the Day (Jacuzzi in the Night)"
+        },
+        {
+          "title": "Hangry"
+        },
+        {
+          "title": "Chipotle Secret (Double Meat Surprise)"
+        },
+        {
+          "title": "Burrito Time"
+        },
+        {
+          "title": "Hangry (Reprise)"
+        },
+        {
+          "title": "Burrito Baby"
+        }
+      ],
       "draft": false
     }
   },
@@ -3221,7 +3273,54 @@
       "releaseType": "album",
       "artist": "Burrito Bot",
       "artistId": "#burritobot",
-      "tracks": [],
+      "spotify": "https://open.spotify.com/album/49QQ8dgQL5VS476ThckL66",
+      "tracks": [
+        {
+          "title": "Enchilada Mama"
+        },
+        {
+          "title": "BEAN BETTER"
+        },
+        {
+          "title": "US US US"
+        },
+        {
+          "title": "King Carnitas"
+        },
+        {
+          "title": "Fiesta (in My Mouth)"
+        },
+        {
+          "title": "Taquito (Ito Ito)"
+        },
+        {
+          "title": "Guac 'n' Roll"
+        },
+        {
+          "title": "Horchata (Ta Ta)"
+        },
+        {
+          "title": "Tomatillo (Es Mi Perferida)"
+        },
+        {
+          "title": "Tacos and Tequila (Flavor Town)"
+        },
+        {
+          "title": "Did I Make the Jazz?"
+        },
+        {
+          "title": "Guacamole Recipe (Receipe)"
+        },
+        {
+          "title": "When in Doubt (Call It Jazz)"
+        },
+        {
+          "title": "A Battle (for Enchiladas)"
+        },
+        {
+          "title": "A Mole Moon"
+        }
+      ],
       "draft": false
     }
   },
@@ -6877,7 +6976,7 @@
         "The internet",
         "Suno and AI song generation"
       ],
-      "hostNote": "\"I don't want a sugar daddy, I want an enchilada mama\", that line sparked joy the moment it came out, and it's also a pretty good summary of what makes AI music generation interesting when you stop trying to make it sound serious. Burrito Bot, my side project dedicated entirely to songs about Mexican food, turned into a genuine laboratory for figuring out where these tools break down and where they don't.\n\nThe thing that really unlocked it was writing my own lyrics rather than letting the AI do it. AI lyric generation is still the weakest link, but plugging that gap with human taste is what makes the whole thing work. BBL Drizzy is the more high-profile example: a voice transform done with AI, anonymously, that went viral. The tools are already in use; the question is how.\n\nA lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools. I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.\n",
+      "hostNote": "\"I don't want a sugar daddy, I want an enchilada mama\", that line sparked joy the moment it came out, and it's also a pretty good summary of what makes AI music generation interesting when you stop trying to make it sound serious. Burrito Bot, my side project dedicated entirely to songs about Mexican food, turned into a genuine laboratory for figuring out where these tools break down and where they don't.\n\nThe thing that really unlocked it was writing my own lyrics rather than letting the AI do it. AI lyric generation is still the weakest link, but plugging that gap with human taste is what makes the whole thing work. BBL Drizzy is the more high-profile example: a voice transform done with AI, anonymously, that went viral. The tools are already in use; the question is how.\n\nA lot of the artistic magic is in the crapiness of it. I'm not looking for perfect from these tools. I'm looking for the thing that only happens because the machine doesn't quite know what it's doing.\n\nThe essay is [I Made 1000 AI Music Songs So You Don't Have to](https://lovemusicmore.substack.com/p/i-made-1000-ai-music-songs-so-you), the same day as this episode. The records are [Refried Being](https://lukefwalton.com/albums/refried-being/) and [Wrap Music](https://lukefwalton.com/albums/wrap-music/).\n",
       "selectedMoments": [
         {
           "label": "Introduction to AI Music Project",
@@ -32890,7 +32989,7 @@
       ],
       "isrc": "QZ2QB1600014",
       "isrcSource": "soundexchange",
-      "lyrics": "Scrib\n-\na\n-\nlin on her pages,\nAs she ages,\nWhisky\nback; she drinkin!\nCute\nlittle family passes,\nGreenest grasses,\nOn their lawn; still drinking!\nStum\n-\nba\n-\nlin\ntoward the water,\nNo one caught her,\nConcrete lake; she sinking.\nReaching out blindly hopin\n'\n,\nSlowly choking,\nOn her back; so human.\nThere's no one left to call.\nDoes no one care at all?\nShe makes me feel so small,\nCuz no one\nt\nhere saw nothing wrong.\n\nBroken and lifeless eyes look,\nSo surprised,\nher\nLoneliness;\nunanswered.\nCute little family walks by,\nCover\ntheir eyes,\nAnd their ears and noses.\nAll of her books\nwere printed,\nLovely sentences,\nAre all; that's left here.\nSomebody\ncalled\nfor maintenance,\nCome and clean this,\nMess up now; in\n-\nhuman.\n\nThere's no\none left to call.\nDoes no one care at all?\nShe makes me feel so small,\nCuz no one here saw nothing wrong.\n\nLittle family in their home,\nThey tell their children,\nOf what the world holds.\nNow,\nif\nyou leave\nour little home,\nCan't take it with you,\nYou\nsure\nyou wanna go?\n'Cause i\nf you leave\nour little home,\nThen we can't save you,\nYou\ncho\nse\nto be alone.\n\nThere's no one left\nto\ncall.\nDoes no one\ncare\n,\nat all?\nShe makes me feel so\nsmall\n,\nCuz no\none\n!\nhere saw nothing wrong.\n\nIs it worth being alone\nIt's a path you've never known.\nOn\na path we've never known.\nA rock amist the stones\n\nThen you might end up,\nLike that lady on the street.\nNo one will save you\nThen can't save you,\nThen we can't save you,\nThe\nworld you knew is gone.\nThere is no rescue\nNo one will save you\nThen mom can't save you\nThere won't be rescue\nThere won't be band\n-\naids\nYour warm bed is gone.\nAbandoned on your own\nIf\nyou leave your little home,\nYou have to build it,\nBack up on\nyour own.\n",
+      "lyrics": "Scrib-a-lin on her pages,\nAs she ages,\nWhisky\nback; she drinkin!\nCute\nlittle family passes,\nGreenest grasses,\nOn their lawn; still drinking!\nStum-ba-lin\ntoward the water,\nNo one caught her,\nConcrete lake; she sinking.\nReaching out blindly hopin',\nSlowly choking,\nOn her back; so human.\nThere's no one left to call.\nDoes no one care at all?\nShe makes me feel so small,\nCuz no one there saw nothing wrong.\n\nBroken and lifeless eyes look,\nSo surprised,\nher\nLoneliness;\nunanswered.\nCute little family walks by,\nCover\ntheir eyes,\nAnd their ears and noses.\nAll of her books\nwere printed,\nLovely sentences,\nAre all; that's left here.\nSomebody\ncalled\nfor maintenance,\nCome and clean this,\nMess up now; in-human.\n\nThere's no\none left to call.\nDoes no one care at all?\nShe makes me feel so small,\nCuz no one here saw nothing wrong.\n\nLittle family in their home,\nThey tell their children,\nOf what the world holds.\nNow,\nif\nyou leave\nour little home,\nCan't take it with you,\nYou\nsure\nyou wanna go?\n'Cause if you leave\nour little home,\nThen we can't save you,\nYou chose\nto be alone.\n\nThere's no one left\nto\ncall.\nDoes no one\ncare\n,\nat all?\nShe makes me feel so\nsmall\n,\nCuz no one here saw nothing wrong!\n\nIs it worth being alone\nIt's a path you've never known.\nOn\na path we've never known.\nA rock amidst the stones\n\nThen you might end up,\nLike that lady on the street.\nNo one will save you\nThen can't save you,\nThen we can't save you,\nThe\nworld you knew is gone.\nThere is no rescue\nNo one will save you\nThen mom can't save you\nThere won't be rescue\nThere won't be band-aids\nYour warm bed is gone.\nAbandoned on your own\nIf\nyou leave your little home,\nYou have to build it,\nBack up on\nyour own.\n",
       "draft": false
     }
   },
@@ -33626,7 +33725,7 @@
       ],
       "isrc": "QZ2QB1600013",
       "isrcSource": "soundexchange",
-      "lyrics": "\"\nBlanket\n\"\nWake up in a moving chair,\nYou catch the smell of this sterile air,\nAnd\ngot a couple questions now,\nSo\nS\nend that thought from your brain to your tongue through your mouth.\n\"\nI see you've woken up,\nI'm afraid there isn't much that we can,\nDo\nfor you outside of,\nWrite a prescription from my pen to a nurse for your drugs.\n\"\nRacing down past\nyour\nneighbor's driveways,\nScraped\nyour\nknee.\nFingers polished and free of rust,\nWait for the signal to shake the dust off,\nBut you're\na cable without a\nplug.\nYou\nStruggle now to\naccept\nthat a brain's not enough.\nUnpacking all her things to,\nH\nelp her feel at home.\nSobered senses,\nMeltin\n'\n.\nAll that's solid.\nEnds up fallin away.\nAll that's holy,\nIs profaned.\nFace to face,\nWith all you ever made.\nChased\nout of a parking lot,\nYou're running with all you've got,\nBut when the door closes you're still confused,\nBy unaccounted for\nthings that you used to use.\nThe doctor's making rounds,\nHe sees you lost to delirium\na\nnd\nthe cold is creeping in\nSo\nPulls\nyour\nblanket back up so it covers your skin\n.\nCradled your child,\nAs she lay\ndreaming\nin your arms.\nSobered senses,\nMeltin'.\nAll that's solid.\nEnds up fallin away.\nAll that's holy,\nIs profaned.\nFace to face,\nWith all you ever made.\n",
+      "lyrics": "\"\nBlanket\n\"\nWake up in a moving chair,\nYou catch the smell of this sterile air,\nAnd\ngot a couple questions now,\nSo\nSend that thought from your brain to your tongue through your mouth.\n\"\nI see you've woken up,\nI'm afraid there isn't much that we can,\nDo\nfor you outside of,\nWrite a prescription from my pen to a nurse for your drugs.\n\"\nRacing down past\nyour\nneighbor's driveways,\nScraped\nyour\nknee.\nFingers polished and free of rust,\nWait for the signal to shake the dust off,\nBut you're\na cable without a\nplug.\nYou\nStruggle now to\naccept\nthat a brain's not enough.\nUnpacking all her things to,\nHelp her feel at home.\nSobered senses,\nMeltin'.\nAll that's solid.\nEnds up fallin away.\nAll that's holy,\nIs profaned.\nFace to face,\nWith all you ever made.\nChased\nout of a parking lot,\nYou're running with all you've got,\nBut when the door closes you're still confused,\nBy unaccounted for\nthings that you used to use.\nThe doctor's making rounds,\nHe sees you lost to delirium\nand\nthe cold is creeping in\nSo\nPulls\nyour\nblanket back up so it covers your skin\n.\nCradled your child,\nAs she lay\ndreaming\nin your arms.\nSobered senses,\nMeltin'.\nAll that's solid.\nEnds up fallin away.\nAll that's holy,\nIs profaned.\nFace to face,\nWith all you ever made.\n",
       "draft": false
     }
   },
@@ -34910,7 +35009,7 @@
       ],
       "isrc": "QZ2QB1600007",
       "isrcSource": "soundexchange",
-      "lyrics": "[R.E.S.P.E.CUL8R (little bird)\nby Annie & Mae]\n\nKeep on talking,\nNo one cares.\nFat tongue floppin\n,\nSewn up ears\n.\nBlue\nvein\ns\na\n-\npoppin\n,\nSum of your years\n.\nKnock me out,\nSwing the hammer,\nKnock me out,\nPull the trigger\n,\nKnock me out,\nLeave no\ntrace here,\nOf me now.\nI said, knock me out.\n\nComplicate it,\nKeep it up,\nB\nury me in words,\nIf you think that I deserve\nit\n.\nImitate the sounds you've heard,\nAnd\nsing, you little bird.\nI think that you deserve\nit\n.\n\nThere's a\ncaved\n-\nin roof,\nwater everywhere,\nDrenches\nmy face,\ncreatures\nall in my hair.\nMy brainstem\nburning like a car\nfire.\nChained up bodies in the back of the room,\nWon't ya d\no as I say but don't ya\ndo as I do.\nSave me pweez.\n\nKnock me out,\nSwing the hammer,\nKnock me out,\nPull the trigger,\nKnock me out,\nLeave no trace here,\nOf me now.\nI said, knock me out.\n\nComplicate it,\nKeep it up,\nBury me in words,\nIf you think that I deserve\nit\n.\nImitate the sounds you've heard,\nAnd sing, you\nr\nlittle bird\nsongs,\nI think that you deserve it.\n\nClose\nout\nClose,\nI\nd\non't want you to elaborate\n,\nYou're killing me\n,\nYou're killing me, ah\n.\n",
+      "lyrics": "[R.E.S.P.E.CUL8R (little bird)\nby Annie & Mae]\n\nKeep on talking,\nNo one cares.\nFat tongue floppin,\nSewn up ears.\nBlue veins a-poppin,\nSum of your years\n.\nKnock me out,\nSwing the hammer,\nKnock me out,\nPull the trigger\n,\nKnock me out,\nLeave no\ntrace here,\nOf me now.\nI said, knock me out.\n\nComplicate it,\nKeep it up,\nBury me in words,\nIf you think that I deserve it.\nImitate the sounds you've heard,\nAnd\nsing, you little bird.\nI think that you deserve it.\n\nThere's a\ncaved-in roof,\nwater everywhere,\nDrenches\nmy face,\ncreatures\nall in my hair.\nMy brainstem\nburning like a car\nfire.\nChained up bodies in the back of the room,\nWon't ya do as I say but don't ya\ndo as I do.\nSave me pweez.\n\nKnock me out,\nSwing the hammer,\nKnock me out,\nPull the trigger,\nKnock me out,\nLeave no trace here,\nOf me now.\nI said, knock me out.\n\nComplicate it,\nKeep it up,\nBury me in words,\nIf you think that I deserve it.\nImitate the sounds you've heard,\nAnd sing, your\nlittle bird\nsongs,\nI think that you deserve it.\n\nClose out\nClose,\nI don't want you to elaborate\n,\nYou're killing me\n,\nYou're killing me, ah\n.\n",
       "draft": false
     }
   },
@@ -37318,7 +37417,7 @@
       ],
       "isrc": "QZ2QB1600003",
       "isrcSource": "soundexchange",
-      "lyrics": "Hand\n-\npainted smiles,\nA carefree scene.\nDon't it ever change, love?\nDon't it ever change?\nThe kids say you're\ndifferent\n,\nActing\nstrange.\nOh, d\non't you ever change, love.\nD\non't you ever\nchange.\n\nI trust what I see,\nAnd it seems clear to me.\nGirl you can't\nhide\nit,\nNo you can't\nhide\nit.\nMaybe a weaker man,\nWould wake up and pretend,\nBut I can't hide it,\nNo.\n\nWhite paper fences,\nCrumpled and stained.\nDo we salvage what remains, Love?\nD\no\nyou care for what remains?\nThe kids,\nComplicate it.\nYou\ncan't just leave.\nDo\nwe salvage what remains, love?\nGive them what they need.\nI trust what I see,\nAnd it seems clear to me.\nGirl you can't hide it,\nNo you can't hide it.\nMaybe a weaker man,\nWould w\nake up and pretend,\nBut I can't hide it,\nNo.\n",
+      "lyrics": "Hand-painted smiles, a carefree scene\nDon't it ever change, love?\nDon't it ever change?\nThe kids say you're different, acting strange\nOh, don't you ever change, love?\nDon't you ever change?\n\nI trust what I see\nAnd it seems clear to me\nGirl, you can't hide it, no, girl, you can't hide it\nMaybe a weaker man\nWould wake up and pretend\nBut I can't hide it, no\n\nWhite, paper fences\nCrumpled and stained\nDo we salvage what remains, love?\nDo you care for what remains?\nThe kids complicate it, you can't just leave\nDo we salvage what remains, love?\nGive 'em what they need\n\nI trust what I see\nAnd it seems clear to me\nGirl, you can't hide it, no, girl, you can't hide it\nMaybe a weaker man\nWould wake up and pretend\nBut I can't hide it, no\n\nI trust what I see\nAnd it seems clear to me\nGirl, you can't hide it, no, no, you can't hide it\nMaybe a weaker man\nWould wake up and pretend\nBut I can't hide it, no\n",
       "draft": false
     }
   },
@@ -37521,7 +37620,7 @@
       ],
       "isrc": "QZ2QB1600006",
       "isrcSource": "soundexchange",
-      "lyrics": "I will work every day\nSo I can keep our Popsicle stick house\nF\nrom falling into funny pieces on the couch.\nI will provide a sense of bullshit confidence,\nSo then can you pretend I'm someone you believe in.\nIn your friend's hall\nyou'll be\nAdmiring macaroni art.\nThey had commissioned on sabbatical in France.\nYou'll poke and prod at me,\nTill I believe we're ready to make life.\nBut why did you decide I'm someone you believe in.\n\nGoodness gracious\nHearts not be\nating\nGoodness gra\ncious\nLungs not breathing\nGoodness gracious\nIs this how I die?\n\nYou might find me one day,\nSlaving away and freaking the hell out.\nIt happens time to time,\nI don't know why or how.\nI can't provide a sense of bullshit confidence,\nSo then will you decide I'm not one to believe in.\n\nGoodness gracious\nHearts nat beaating\nGoodness gracious\nLungs not breathing\nGoodness gracious\nIs this how I die?\n\nI, i\nf I only knew\nHow my grave ending would hurt you\nI, woulda been strong, stronger\nlike a\nReinforced Lincoln Log home out in the snooooooow\n\nGoodness gracious\n",
+      "lyrics": "I will work every day\nSo I can keep our Popsicle stick house\nFrom falling into funny pieces on the couch.\nI will provide a sense of bullshit confidence,\nSo then can you pretend I'm someone you believe in.\nIn your friend's hall\nyou'll be\nAdmiring macaroni art.\nThey had commissioned on sabbatical in France.\nYou'll poke and prod at me,\nTill I believe we're ready to make life.\nBut why did you decide I'm someone you believe in.\n\nGoodness gracious\nHearts not beating\nGoodness gracious\nLungs not breathing\nGoodness gracious\nIs this how I die?\n\nYou might find me one day,\nSlaving away and freaking the hell out.\nIt happens time to time,\nI don't know why or how.\nI can't provide a sense of bullshit confidence,\nSo then will you decide I'm not one to believe in.\n\nGoodness gracious\nHearts not beating\nGoodness gracious\nLungs not breathing\nGoodness gracious\nIs this how I die?\n\nI, if I only knew\nHow my grave ending would hurt you\nI, woulda been strong, stronger\nlike a\nReinforced Lincoln Log home out in the snooooooow\n\nGoodness gracious\n",
       "draft": false
     }
   },
@@ -37674,7 +37773,7 @@
       ],
       "isrc": "QZ2QB1600005",
       "isrcSource": "soundexchange",
-      "lyrics": "Someone told me that,\nDesire is the root of suffering.\nBut I've got mad stacks,\nSo desire ain't a thing.\nI'll take your girl,\nAnd I'll sweep her off her feet yeah.\n(Sweep her off,\nSweep her off.)\nMy father worked so that,\nI didn't\nhave to do a single thing.\nSo lets have some fun\nI mean some pills,\nAnd play some games.\nI count to ten,\nCa\nn you count higher than me yeah?\n\nThat bass,\nDrop\n-\ndrop\n-\nin'\nIt keeps me jump\n-\njump\n-\njumpin,\nAnd uh,\nThat kick,\nDrum\n-\ndrum\n-\nin'\nIt makes me\ngo\n:\n\nDaddy I don't wanna,\nGrow up anyway.\nGrown ups are all sad.\ndoesn't matter where I,\nCome from anyway.\nI'll grow up and get sad.\nInstead,\nI'll\nclap my hands,\nOn everybeat.\nWho would ever wanna,\nGrow up anyway.\nI don't,\nNo\nwe don't,\nOh\n.\nHmm.\n\nSomeone told me that,\nA\n-\nhappiness a\n-\ncome\nfrom deep inside.\nWell\nI bet\nhe's\npoor,\nI bet\nhe live\na\nshitty\nlife.\nC\nuz\nyou know that don't,\nThat just don't resonate with me,\nYeah.\nMy\nmother\ntaught\nme that,\nWith help you can accomplish anything.\nMy\nnanny taught me,\nAll the names of all the days\nI can say em fast, can you go as fast as me\nYeah?\n\nMonday Tuesday\nWednesday Thursday Fri\nday\nSaturday\naaaand\nSunday\nMonday Tuesday Thursday Wednesday Friday Saturday Sunday Dayday\n\nDaddy I don't wanna,\nGrow up anyway.\nGrown ups are all sad.\ndoesn't matter where I,\nCome from anyway.\nI'll grow up and get sad.\nInstead,\nI'll clap my hands,\nOn everybeat.\nWho would ever wanna,\nGrow up anyway.\nI don't,\nNo we don't,\nOh\n.\n\nYou,\nOh what would you do\nIf you were me?\nRaised\n,\nI\nn the pit of,\nTemptation and greed.\n",
+      "lyrics": "Someone told me that,\nDesire is the root of suffering.\nBut I've got mad stacks,\nSo desire ain't a thing.\nI'll take your girl,\nAnd I'll sweep her off her feet yeah.\n(Sweep her off,\nSweep her off.)\nMy father worked so that,\nI didn't\nhave to do a single thing.\nSo lets have some fun\nI mean some pills,\nAnd play some games.\nI count to ten,\nCan you count higher than me yeah?\n\nThat bass,\nDrop-drop-in'\nIt keeps me jump-jump-jumpin,\nAnd uh,\nThat kick,\nDrum-drum-in'\nIt makes me go:\n\nDaddy I don't wanna,\nGrow up anyway.\nGrown ups are all sad.\ndoesn't matter where I,\nCome from anyway.\nI'll grow up and get sad.\nInstead,\nI'll\nclap my hands,\nOn everybeat.\nWho would ever wanna,\nGrow up anyway.\nI don't,\nNo we don't,\nOh.\nHmm.\n\nSomeone told me that,\nA-happiness a-come\nfrom deep inside.\nWell\nI bet\nhe's\npoor,\nI bet\nhe live\na\nshitty\nlife.\nCuz\nyou know that don't,\nThat just don't resonate with me,\nYeah.\nMy\nmother\ntaught\nme that,\nWith help you can accomplish anything.\nMy\nnanny taught me,\nAll the names of all the days\nI can say em fast, can you go as fast as me\nYeah?\n\nMonday Tuesday\nWednesday Thursday Friday\nSaturday\naaaand\nSunday\nMonday Tuesday Thursday Wednesday Friday Saturday Sunday Dayday\n\nDaddy I don't wanna,\nGrow up anyway.\nGrown ups are all sad.\ndoesn't matter where I,\nCome from anyway.\nI'll grow up and get sad.\nInstead,\nI'll clap my hands,\nOn everybeat.\nWho would ever wanna,\nGrow up anyway.\nI don't,\nNo we don't,\nOh.\nYou,\nOh what would you do\nIf you were me?\nRaised,\nIn the pit of,\nTemptation and greed.\n",
       "draft": false
     }
   },
@@ -39897,7 +39996,7 @@
       "coWriters": [
         "Brandon Michael Woodward"
       ],
-      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). FEiN featured vocal on Caden Jester single. The Fosters S5 E9 (Prom, Freeform, 2017).",
+      "credits": "Written by Luke Francis Walton and Brandon Michael Woodward (FEiN). Luke Walton: guitar, including the solo. FEiN featured vocal on Caden Jester's single. SoundCloud publisher metadata: ℗ 2017 Tiny Giant Recordings, ISRC TCADB1700371, release date 2017-05-02; the writer/composer field there lists Caden Jester only. The Fosters S5 E9 (Prom, Freeform, 2017).",
       "release": "Let You Go",
       "releaseType": "single",
       "themes": [
@@ -39909,7 +40008,7 @@
         "Caden Jester",
         "2017"
       ],
-      "lyrics": "Bury it in the cloud where I can find it\nWhenever I like\nWhen you're dust in the ground then I'll go find it\nWhenever I like\n\nImages forever ever\nYou and me together gether\nDigital means never ever\nI'll\nnever have to let you go\n\nAll things go but the words\nwe wrote on our walls\nI'll read them at night\nKeep you close as the earth grows over our love\nI'll send you goodnight\n\nImages forever ever\nYou and me together gether\nDigital m\neans never ever\nI'll never\nI'll never\nI'll never have to let you go\n",
+      "lyrics": "Bury it in the cloud where I can find it\nWhenever I like\nWhen you're dust in the ground then I'll go find it\nWhenever I like\n\nImages forever ever\nYou and me together gether\nDigital means never ever\nI'll\nnever have to let you go\n\nAll things go but the words\nwe wrote on our walls\nI'll read them at night\nKeep you close as the earth grows over our love\nI'll send you goodnight\n\nImages forever ever\nYou and me together gether\nDigital means never ever\nI'll never\nI'll never\nI'll never have to let you go\n",
       "draft": false
     }
   },
@@ -40302,7 +40401,7 @@
       ],
       "isrc": "QZ2QB1600011",
       "isrcSource": "soundexchange",
-      "lyrics": "(Fingerpicked, Luke Singing:)\nWe\n're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Fingerpicked, Brandon Singing:)\nWelcome to your new family,\nI will show you to your room.\nYou'll know it well,\nI am here to help.\nBuy you all your wildest dreams.\n\n(Finger Strummed, Luke Singing:)\nWe\n're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah\nwe're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Fingerpicked, Luke Singing:)\nThere she is my lovely bride to be,\nPulled her up from poverty,\nBy her hair and teeth.\nIf that isn't love\nThen love's a\nthing that I don't need.\n\n(Finger Strummed, Luke Singing:)\nWe\n're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Pick enters, quarter note pulse, Both Sing:)\nLove me with\nyour wallet baby,\nLove me with\nyour checkbook,\nNothing is wrong,\nNothing is wrong.\nOh.\n\nLonely people staying lonely,\nLonely people will pay.\nL\naugh at\nit\nall\nL\naugh at\nit\nall\n\nWe\n're all\njust happy lying to ourse\nlves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut a\nt least we're not some sad sad f\nucker there alone.\nAlone.\nAlone.\nAlone.\nAlone.\n",
+      "lyrics": "(Fingerpicked, Luke Singing:)\nWe're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Fingerpicked, Brandon Singing:)\nWelcome to your new family,\nI will show you to your room.\nYou'll know it well,\nI am here to help.\nBuy you all your wildest dreams.\n\n(Finger Strummed, Luke Singing:)\nWe're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah\nwe're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Fingerpicked, Luke Singing:)\nThere she is my lovely bride to be,\nPulled her up from poverty,\nBy her hair and teeth.\nIf that isn't love\nThen love's a\nthing that I don't need.\n\n(Finger Strummed, Luke Singing:)\nWe're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut at least we're not some sad sad sucker there alone.\n\n(Pick enters, quarter note pulse, Both Sing:)\nLove me with\nyour wallet baby,\nLove me with\nyour checkbook,\nNothing is wrong,\nNothing is wrong.\nOh.\n\nLonely people staying lonely,\nLonely people will pay.\nLaugh at it all\nLaugh at it all\n\nWe're all\njust happy lying to ourselves,\nBut at least we're not alone.\nYeah we're all just happy frolicking through hell,\nBut at least we're not some sad sad fucker there alone.\nAlone.\nAlone.\nAlone.\nAlone.\n",
       "draft": false
     }
   },
@@ -43715,7 +43814,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton. Background vocals, guitar, and producer billed as Scoobert Doobert. Sitar, Mahesh Pathmakumara. Luke Francis Walton mixed it. Mastered by Riley Knapp.",
       "image": "/photos/covers/quiet-your-mind.jpg",
       "imageAlt": "Cover for QUIET YOUR MIND!!! A glazed donut, the title underneath.",
       "apple": "https://music.apple.com/us/album/quiet-your-mind/1816392866?i=1816392867",
@@ -44014,7 +44113,7 @@
       ],
       "isrc": "QZ2QB1600010",
       "isrcSource": "soundexchange",
-      "lyrics": "Remember when I took you on a\nroad\ntrip\n,\nTook you out to see the honest side of me.\nWe got high and sat around the fire,\nTelling jokes and picking names out for our future kids.\nAll of this,\nDoes it really matter?\nAll of this,\nD\noesn't really matter.\nAnyway.\n\nDo you recall when you and I just moved in,\nHonestly\n,\nw\ne sank our teeth into each other's throats.\nBut\nthen your family asked when we'd get married,\nHoney almost,\nDropped down; genuflecting knee.\nAll\nof this,\nDoes it rea\nlly matter?\nAll of this,\nIt doesn't really matter.\nAnyway.\n\nSomeday your memories will fade,\nAnd I'll be too far away\nto remind you\nlike I used to.\nSomeday I won't deserve a glance,\nWhen I pass you on the corner.\nlike I hope to\nto remind you.\n\nAbout\nthat time\nWhen we went on a\nroad\ntrip\n,\nBack when you could see the honest side of me.\nMaybe\nI'll get high\nand build a\npyre\n,\nGather up the ashes;\nProve that we were ever here\n.\n\nAll\nof this,\nDoes it\nreally matter?\nAll of this,\nDoesn't\nreally matter.\nAnyway.\n",
+      "lyrics": "Remember when I took you on a\nroad\ntrip\n,\nTook you out to see the honest side of me.\nWe got high and sat around the fire,\nTelling jokes and picking names out for our future kids.\nAll of this,\nDoes it really matter?\nAll of this,\nDoesn't really matter.\nAnyway.\n\nDo you recall when you and I just moved in,\nHonestly,\nwe sank our teeth into each other's throats.\nBut\nthen your family asked when we'd get married,\nHoney almost,\nDropped down; genuflecting knee.\nAll\nof this,\nDoes it really matter?\nAll of this,\nIt doesn't really matter.\nAnyway.\n\nSomeday your memories will fade,\nAnd I'll be too far away\nto remind you\nlike I used to.\nSomeday I won't deserve a glance,\nWhen I pass you on the corner.\nlike I hope to\nto remind you.\n\nAbout\nthat time\nWhen we went on a\nroad\ntrip\n,\nBack when you could see the honest side of me.\nMaybe\nI'll get high\nand build a\npyre\n,\nGather up the ashes;\nProve that we were ever here\n.\n\nAll\nof this,\nDoes it\nreally matter?\nAll of this,\nDoesn't\nreally matter.\nAnyway.\n",
       "draft": false
     }
   },
@@ -44410,7 +44509,7 @@
       ],
       "isrc": "QZ2QB1600002",
       "isrcSource": "soundexchange",
-      "lyrics": "Living my dreams in the age of the surgeon\nCover my eyes, navigate with my hands\nKeep it clean, not a trace of emotion\nI'll be beautiful, wait til the bruises are gone\nLook at us\nnow,\nPeel off my skin,\nS\ntitch it back up\nWhere I wish it had\nbeen.\nStaple me baby,\nYeah staple me good.\nMake me so pretty,\nLike you promised you would.\nOh what a time to find yourself living in,\nHell, we are living in,\nAny price to be young again.\nOh all my life I've had a fear of dying,\nAging and dying.\nAny pr\nice to be young again.\n\nLiving my dreams in the age of the\nsculptor\n,\nGonna require a little more of my blood.\nHoney I'm not afraid of your needles.\nI'll be beautiful no matter what it costs.\nLook at us\nnow,\nMake me look thin\nStitch me back up\nHow you\nwish I had been.\nStaple me baby,\nYeah staple me good.\nI'll love mah body,\nWhen you say I that I should.\nOh what a time to find yourself living in,\nHell, we are living in,\nAny price to be young again.\nOh all my life I've had a fear of dying,\nAging and dy\ning.\nAny price to be young again.\n",
+      "lyrics": "Living my dreams in the age of the surgeon\nCover my eyes, navigate with my hands\nKeep it clean, not a trace of emotion\nI'll be beautiful, wait til the bruises are gone\nLook at us\nnow,\nPeel off my skin,\nStitch it back up\nWhere I wish it had\nbeen.\nStaple me baby,\nYeah staple me good.\nMake me so pretty,\nLike you promised you would.\nOh what a time to find yourself living in,\nHell, we are living in,\nAny price to be young again.\nOh all my life I've had a fear of dying,\nAging and dying.\nAny price to be young again.\n\nLiving my dreams in the age of the\nsculptor\n,\nGonna require a little more of my blood.\nHoney I'm not afraid of your needles.\nI'll be beautiful no matter what it costs.\nLook at us\nnow,\nMake me look thin\nStitch me back up\nHow you\nwish I had been.\nStaple me baby,\nYeah staple me good.\nI'll love mah body,\nWhen you say that I should.\nOh what a time to find yourself living in,\nHell, we are living in,\nAny price to be young again.\nOh all my life I've had a fear of dying,\nAging and dying.\nAny price to be young again.\n",
       "draft": false
     }
   },
@@ -46254,6 +46353,36 @@
   },
   {
     "collection": "songs",
+    "slug": "tokyo-vexare-remix",
+    "title": "Tokyo (Vexare Remix)",
+    "type": "MusicRecording",
+    "liveUrl": "https://lukefwalton.com/songs/tokyo-vexare-remix/",
+    "canonicalUrl": "https://lukefwalton.com/songs/tokyo-vexare-remix/",
+    "archive": {
+      "markdown": "songs/tokyo-vexare-remix.md",
+      "html": "songs/tokyo-vexare-remix.html"
+    },
+    "source": "src/content/songs/tokyo-vexare-remix.md",
+    "metadata": {
+      "title": "Tokyo (Vexare Remix)",
+      "meaning": "Vexare's remix of Exist Elsewhere's Tokyo. His SoundCloud upload is timestamped August 19, 2013, and the description thanks the band for having him make it.",
+      "year": 2013,
+      "release": "Tokyo (Vexare Remix)",
+      "releaseType": "single",
+      "artist": "Vexare",
+      "role": "remix",
+      "remixOf": "Tokyo",
+      "themes": [
+        "remix",
+        "Exist Elsewhere",
+        "413",
+        "2013"
+      ],
+      "draft": false
+    }
+  },
+  {
+    "collection": "songs",
     "slug": "tom-bombadils-song-halloween-special-pt-2",
     "title": "Tom Bombadil's Song (Halloween Special, Pt. 2)",
     "type": "MusicRecording",
@@ -47392,6 +47521,7 @@
       "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Sugar Ray",
+      "credits": "DistroKid credit pane: Music and lyrics, Mark McGrath, Stan Frazier, Rodney Sheppard, Craig Bullock, and David Kahne. Singing and vocals, producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and ukulele billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/5wxlWI9e59pDjdxShfeuLl",
       "officialVideo": "https://www.youtube.com/watch?v=EKnKr5SSupE",
       "themes": [
@@ -47761,6 +47891,7 @@
       "imageCredit": "Artwork by Grizzard Graphics.",
       "cover": true,
       "coverOf": "Felix Bernard & Richard B. Smith",
+      "credits": "DistroKid credit pane: Music, Felix Bernard. Lyrics, Richard B. Smith. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "spotify": "https://open.spotify.com/track/2yC2M8tiVF5H7r14YsLDAZ",
       "themes": [
         "cover",

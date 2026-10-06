@@ -29,8 +29,7 @@ lyrics: |
   And
   got a couple questions now,
   So
-  S
-  end that thought from your brain to your tongue through your mouth.
+  Send that thought from your brain to your tongue through your mouth.
   "
   I see you've woken up,
   I'm afraid there isn't much that we can,
@@ -54,12 +53,9 @@ lyrics: |
   accept
   that a brain's not enough.
   Unpacking all her things to,
-  H
-  elp her feel at home.
+  Help her feel at home.
   Sobered senses,
-  Meltin
-  '
-  .
+  Meltin'.
   All that's solid.
   Ends up fallin away.
   All that's holy,
@@ -74,8 +70,7 @@ lyrics: |
   things that you used to use.
   The doctor's making rounds,
   He sees you lost to delirium
-  a
-  nd
+  and
   the cold is creeping in
   So
   Pulls

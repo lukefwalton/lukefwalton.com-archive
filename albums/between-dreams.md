@@ -16,11 +16,13 @@ tracks:
   - { title: "More" }
   - { title: "All My Life" }
   - { title: "The Rose" }
+  - { title: "Dangerous" }
+  - { title: "Heart Shapes" }
+  - { title: "Make Up Your Mind" }
   - { title: "Curiosity" }
   - { title: "Los Angeles" }
-  - { title: "Make Up Your Mind" }
   - { title: "We're Gonna Be Alright" }
-  - { title: "He Was Talking to Me (bonus track)" }
+  - { title: "He Was Talking to Me (Bonus Track)" }
 
 press:
   - outlet: "Nina Francis: official site"
@@ -34,12 +36,16 @@ press:
     desc: "Bishop's School 2010; USC Thornton with Randy Newman and Lamont Dozier."
   - outlet: "Bandcamp: Between Dreams"
     url: "https://ninafrancismusic.bandcamp.com/album/between-dreams"
-    desc: "Written by Nina Francis; produced Luke Walton & Brandon Woodward at Tiny Giant; mixed/mastered Frank Rosato."
+    desc: "Eleven tracks. Written by Nina Francis; produced Luke Walton & Brandon Woodward at Tiny Giant; mixed/mastered Frank Rosato. Photo by Dylan Rosgone; design by Nina Francis. Track 11 recorded by Chris Sampson."
+  - outlet: "ListenSD: interview with Nina Francis"
+    url: "https://listensd.com/listen-sd-exclusive-interview-with-nina-francis/"
+    date: "2017-10-07"
+    desc: "Release-day interview. Francis says that since her 2014 release she had written over a hundred tunes, and Between Dreams is the 11 she kept coming back to."
 
 draft: false
 ---
 
-***Between Dreams***, debut album by **Nina Francis** (**October 7, 2017**). **Written by Nina Francis**; **produced by Luke Walton and Brandon Woodward** at **Tiny Giant Recording**; **mixed and mastered by [Frank Rosato](/with/frank-rosato/)** (bonus **He Was Talking to Me** recorded by Chris Sampson), [Bandcamp](https://ninafrancismusic.bandcamp.com/album/between-dreams). Eleven originals: jazzy, guitar-led singer-songwriter material in a Norah Jones vein.
+***Between Dreams***, debut album by **Nina Francis** (**October 7, 2017**). **Written by Nina Francis**; **produced by Luke Walton and Brandon Woodward** at **Tiny Giant Recording**; **mixed and mastered by [Frank Rosato](/with/frank-rosato/)** (bonus **He Was Talking to Me** recorded by Chris Sampson), [Bandcamp](https://ninafrancismusic.bandcamp.com/album/between-dreams). The same credits name the photograph by **Dylan Rosgone** and the design by **Nina Francis**. Eleven originals, in Bandcamp order: Cold Water, More, All My Life, The Rose, Dangerous, Heart Shapes, Make Up Your Mind, Curiosity, Los Angeles, We're Gonna Be Alright, and He Was Talking to Me (Bonus Track). Jazzy, guitar-led singer-songwriter material in a Norah Jones vein. In a [ListenSD interview](https://listensd.com/listen-sd-exclusive-interview-with-nina-francis/) published the release day, Francis says that since her 2014 release she had written over a hundred tunes, and this album is the 11 she kept coming back to.
 
 Francis is a recognized San Diego artist: [official site](https://ninafrancismusic.com/) leads with **2020 San Diego Music Awards Best Singer-Songwriter**; *Times of San Diego* also lists the win. USC Thornton Popular Music (2014) after Bishop's School; [San Diego Reader](https://www.sandiegoreader.com/bands/nina-francis/) on studying with **Randy Newman** and **Lamont Dozier**. The [April 2014 USC Thornton Pop Showcase](https://www.neontommy.com/news/2014/04/usc-thorntons-pop-showcase-highlights-seniors-troubadour.html) at the Troubadour put **FEiN**, **Nina Francis**, and **Nick Belcher** on the same senior bill, the USC connection behind later [*Boomerang*](/songs/boomerang/) and this album. Post-USC: Music Box, Belly Up, Java Joe's residency.
 

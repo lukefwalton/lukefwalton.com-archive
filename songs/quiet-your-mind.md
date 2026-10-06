@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton. Background vocals, guitar, and producer billed as Scoobert Doobert. Sitar, Mahesh Pathmakumara. Luke Francis Walton mixed it. Mastered by Riley Knapp."
 image: "/photos/covers/quiet-your-mind.jpg"
 imageAlt: "Cover for QUIET YOUR MIND!!! A glazed donut, the title underneath."
 
@@ -54,7 +54,7 @@ lyrics: |
 draft: false
 ---
 
-First chapter of [*US*](/albums/us/), the “we” turn after *I*’s relational “u.” On **October 5, 2026**, Spotify showed **12,925** plays, **2:43**. The instrumental had no play count shown. The count moves. It's addressed outward, an offer rather than a lecture: something nice, something pretty, something beautiful, if only belief were that easy to hand someone.
+First chapter of [*US*](/albums/us/), the “we” turn after *I*’s relational “u.” On **October 5, 2026**, Spotify showed **12,925** plays, **2:43**. The instrumental had no play count shown. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, and bills **background vocals**, **guitar**, and **producer** as **Scoobert Doobert**. **Sitar** is **Mahesh Pathmakumara**. Luke mixed it. **Riley Knapp** mastered it. It's addressed outward, an offer rather than a lecture: something nice, something pretty, something beautiful, if only belief were that easy to hand someone.
 
 The middle asks plainly whether consciousness is just an accident, *a sprinkle on a donut that's been sitting out all day*. Nothing gets argued. There's only old-fashioned faith that there's music to it, a pattern the speaker's own fingers can't quite play yet.
 

@@ -15,6 +15,7 @@ imageCredit: "Artwork by Grizzard Graphics."
 
 cover: true
 coverOf: "Felix Bernard & Richard B. Smith"
+credits: "DistroKid credit pane: Music, Felix Bernard. Lyrics, Richard B. Smith. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 
 spotify: "https://open.spotify.com/track/2yC2M8tiVF5H7r14YsLDAZ"
 
@@ -26,7 +27,7 @@ draft: false
 
 ---
 
-On **A Very Doobert Christmas, Vol. 1**: cover of the **Felix Bernard & Richard B. Smith** standard **“Winter Wonderland.”** Cover art by Grizzard Graphics. A Spotify for Artists email on **November 20, 2023** (6:46 p.m.) added it to **Indie Christmas** (162,731 followers). Paired with [*Jingle Bells*](/songs/jingle-bells/) and originals like [*Merry Christmas from the Beach*](/songs/merry-christmas-from-the-beach/) and [*Ho Ho Ho Ozempic*](/songs/ho-ho-ho-ozempic/). Instrumental versions exist on the same release ([*Winter Wonderland (Instrumental)*](/songs/winter-wonderland-instrumental/)).
+On **A Very Doobert Christmas, Vol. 1**: cover of the **Felix Bernard & Richard B. Smith** standard **“Winter Wonderland.”** The DistroKid credit pane splits that the same way: **music** Felix Bernard, **lyrics** Richard B. Smith. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Cover art by Grizzard Graphics. A Spotify for Artists email on **November 20, 2023** (6:46 p.m.) added it to **Indie Christmas** (162,731 followers). Paired with [*Jingle Bells*](/songs/jingle-bells/) and originals like [*Merry Christmas from the Beach*](/songs/merry-christmas-from-the-beach/) and [*Ho Ho Ho Ozempic*](/songs/ho-ho-ho-ozempic/). Instrumental versions exist on the same release ([*Winter Wonderland (Instrumental)*](/songs/winter-wonderland-instrumental/)).
 
 Public-domain / standard lyrics, not published here.
 

@@ -21,11 +21,7 @@ themes: ["Homelessness", "Death", "Loneliness", "Isolation", "Collaboration", "F
 isrc: QZ2QB1600014
 isrcSource: soundexchange
 lyrics: |
-  Scrib
-  -
-  a
-  -
-  lin on her pages,
+  Scrib-a-lin on her pages,
   As she ages,
   Whisky
   back; she drinkin!
@@ -33,25 +29,17 @@ lyrics: |
   little family passes,
   Greenest grasses,
   On their lawn; still drinking!
-  Stum
-  -
-  ba
-  -
-  lin
+  Stum-ba-lin
   toward the water,
   No one caught her,
   Concrete lake; she sinking.
-  Reaching out blindly hopin
-  '
-  ,
+  Reaching out blindly hopin',
   Slowly choking,
   On her back; so human.
   There's no one left to call.
   Does no one care at all?
   She makes me feel so small,
-  Cuz no one
-  t
-  here saw nothing wrong.
+  Cuz no one there saw nothing wrong.
 
   Broken and lifeless eyes look,
   So surprised,
@@ -70,9 +58,7 @@ lyrics: |
   called
   for maintenance,
   Come and clean this,
-  Mess up now; in
-  -
-  human.
+  Mess up now; in-human.
 
   There's no
   one left to call.
@@ -91,13 +77,10 @@ lyrics: |
   You
   sure
   you wanna go?
-  'Cause i
-  f you leave
+  'Cause if you leave
   our little home,
   Then we can't save you,
-  You
-  cho
-  se
+  You chose
   to be alone.
 
   There's no one left
@@ -110,16 +93,13 @@ lyrics: |
   She makes me feel so
   small
   ,
-  Cuz no
-  one
-  !
-  here saw nothing wrong.
+  Cuz no one here saw nothing wrong!
 
   Is it worth being alone
   It's a path you've never known.
   On
   a path we've never known.
-  A rock amist the stones
+  A rock amidst the stones
 
   Then you might end up,
   Like that lady on the street.
@@ -132,9 +112,7 @@ lyrics: |
   No one will save you
   Then mom can't save you
   There won't be rescue
-  There won't be band
-  -
-  aids
+  There won't be band-aids
   Your warm bed is gone.
   Abandoned on your own
   If

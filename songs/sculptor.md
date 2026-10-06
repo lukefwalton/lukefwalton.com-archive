@@ -46,8 +46,7 @@ lyrics: |
   Look at us
   now,
   Peel off my skin,
-  S
-  titch it back up
+  Stitch it back up
   Where I wish it had
   been.
   Staple me baby,
@@ -59,8 +58,7 @@ lyrics: |
   Any price to be young again.
   Oh all my life I've had a fear of dying,
   Aging and dying.
-  Any pr
-  ice to be young again.
+  Any price to be young again.
 
   Living my dreams in the age of the
   sculptor
@@ -77,13 +75,12 @@ lyrics: |
   Staple me baby,
   Yeah staple me good.
   I'll love mah body,
-  When you say I that I should.
+  When you say that I should.
   Oh what a time to find yourself living in,
   Hell, we are living in,
   Any price to be young again.
   Oh all my life I've had a fear of dying,
-  Aging and dy
-  ing.
+  Aging and dying.
   Any price to be young again.
 
 draft: false

@@ -26,17 +26,9 @@ lyrics: |
 
   Keep on talking,
   No one cares.
-  Fat tongue floppin
-  ,
-  Sewn up ears
-  .
-  Blue
-  vein
-  s
-  a
-  -
-  poppin
-  ,
+  Fat tongue floppin,
+  Sewn up ears.
+  Blue veins a-poppin,
   Sum of your years
   .
   Knock me out,
@@ -52,22 +44,15 @@ lyrics: |
 
   Complicate it,
   Keep it up,
-  B
-  ury me in words,
-  If you think that I deserve
-  it
-  .
+  Bury me in words,
+  If you think that I deserve it.
   Imitate the sounds you've heard,
   And
   sing, you little bird.
-  I think that you deserve
-  it
-  .
+  I think that you deserve it.
 
   There's a
-  caved
-  -
-  in roof,
+  caved-in roof,
   water everywhere,
   Drenches
   my face,
@@ -77,8 +62,7 @@ lyrics: |
   burning like a car
   fire.
   Chained up bodies in the back of the room,
-  Won't ya d
-  o as I say but don't ya
+  Won't ya do as I say but don't ya
   do as I do.
   Save me pweez.
 
@@ -94,22 +78,16 @@ lyrics: |
   Complicate it,
   Keep it up,
   Bury me in words,
-  If you think that I deserve
-  it
-  .
+  If you think that I deserve it.
   Imitate the sounds you've heard,
-  And sing, you
-  r
+  And sing, your
   little bird
   songs,
   I think that you deserve it.
 
-  Close
-  out
+  Close out
   Close,
-  I
-  d
-  on't want you to elaborate
+  I don't want you to elaborate
   ,
   You're killing me
   ,
