@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/chew-on-this.jpg"
 imageAlt: "Cover for CHEW ON THIS. A slice of pizza with the title written in the cheese."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -86,7 +86,7 @@ lyrics: |
 draft: false
 ---
 
-Standalone single (**July 26, 2024** · Beformer), also on the [indiemono *GOLDEN BAY* compilation](https://music.apple.com/us/album/chew-on-this/1759489046?i=1759489048). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. This page covers the **single**. On **October 5, 2026**, Spotify showed **97,092** plays, **2:35**. The count moves.
+Standalone single (**July 26, 2024** · Beformer), also on the [indiemono *GOLDEN BAY* compilation](https://music.apple.com/us/album/chew-on-this/1759489046?i=1759489048). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. This page covers the **single**. On **October 5, 2026**, Spotify showed **97,092** plays, **2:35**. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it.
 
 It opens in the same sunset language as [*chasing the sunset*](/songs/chasing-the-sunset/), then the mood curdles: *what if it gets cloudy*, *ain't no money for dreamers*. Hope as something you chase until the weather wins. The chorus sharpens internet dread into body horror, **big data** feeding on the output of your soul: *don't take another bite / swallow me whole*.
 

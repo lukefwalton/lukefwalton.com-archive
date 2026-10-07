@@ -11,6 +11,7 @@ artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
 instrumental: true
+credits: "DistroKid credit pane, A Very Doobert Christmas, Vol. 1: Music and lyrics billed as Public Domain. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. The song is James Lord Pierpont's."
 
 spotify: "https://open.spotify.com/track/51FUNOXnJoJJMOR9Jy8WjO"
 

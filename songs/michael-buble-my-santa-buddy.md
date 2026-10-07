@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane, A Very Doobert Christmas, Vol. 1: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/michael-buble-my-santa-buddy.jpg"
 imageAlt: "Cover for Michael Bublé, My Santa Buddy. A knitted sweater with Santa, snowflakes, and the title."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -80,7 +80,7 @@ lyrics: |
 draft: false
 ---
 
-A Scoobert Christmas deep cut (2023): [**"Michael Bublé, My Santa Buddy"**](/songs/michael-buble-my-santa-buddy/) (original song, not a Bublé cover), also on [*A Very Doobert Christmas, Vol. 1*](/albums/a-very-doobert-christmas-vol-1/). Not part of the [*US*](/albums/us/) chapter cycle; it's seasonal standalone absurdism. A Spotify for Artists email on **November 11, 2023** (9:22 a.m.) added it to **La magie de Noël** (70,825 followers).
+A Scoobert Christmas deep cut (2023): [**"Michael Bublé, My Santa Buddy"**](/songs/michael-buble-my-santa-buddy/) (original song, not a Bublé cover), also on [*A Very Doobert Christmas, Vol. 1*](/albums/a-very-doobert-christmas-vol-1/). The DistroKid credit pane on that EP lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Cover art by Grizzard Graphics. Not part of the [*US*](/albums/us/) chapter cycle; it's seasonal standalone absurdism. A Spotify for Artists email on **November 11, 2023** (9:22 a.m.) added it to **La magie de Noël** (70,825 followers).
 
 The joke is affection without irony poisoning it: Michael Bublé as a Canadian hibernating creature who must emerge each winter to sing for the children kept inside, hockey bro, Vegas carnival energy, platonic Santa Buddy. The middle verse runs the holiday songbook (Fanny Bright, silent night, Frosty), asks whether Frosty's corncob pipe had CBD in it, then panics that Michael might be *done*, leaving only one theology: **loop the playlist**.
 

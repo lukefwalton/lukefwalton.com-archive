@@ -80,7 +80,7 @@ draft: false
 
 ---
 
-Track five on [*Moonlight Beach*](/albums/moonlight-beach/). Spotify for Artists emails added it to **sunshine indie** on **May 21, 2023** (9:17 a.m., 84,846 followers) and **Summer Indie** on **May 27, 2023** (12:27 p.m., 349,808 followers). Luke wrote it; **[Bubby Lewis](https://www.bubbylewis.com/)** played on the track (feat. on the LP), a collaborator on a record that's otherwise sunshine-and-bonfire California pop.
+Track five on [*Moonlight Beach*](/albums/moonlight-beach/). Spotify for Artists emails added it to **sunshine indie** on **May 21, 2023** (9:17 a.m., 84,846 followers) and **Summer Indie** on **May 27, 2023** (12:27 p.m., 349,808 followers). Luke wrote it; **[Bubby Lewis](/with/bubby-lewis/)** played on the track (feat. on the LP), a collaborator on a record that's otherwise sunshine-and-bonfire California pop.
 
 The chorus names the album's shadow side as a clean paradox: *I don't wanna be alone / but I wanna be alone*. It's the honest counter-melody to [*Feels So Good*](/songs/feels-so-good/) and its commercial-perfect joy. The blame stays external (*Mercury in retrograde*) and the coping is theater: self-help books, trivia videos, *what's the capital of Bolivia?*
 

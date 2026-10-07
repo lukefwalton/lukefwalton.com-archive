@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Alto saxophone: Nicole McCabe. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Singing and vocals, producer, mixing engineer, recording engineer, drums, bass, guitar, and synthesizer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Alto saxophone, Nicole McCabe, and artwork by Grizzard Graphics are earlier credits and are not on this pane. The pane also still has an older writer line with no BMI number."
 image: "/photos/covers/after-party.jpg"
 imageAlt: "Cover for AFTER-PARTY. A pint glass with a little foam left, on a blue field in a gold frame. Scoobert Doobert across the top, After-Party across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -114,7 +114,7 @@ draft: false
 
 ---
 
-Third chapter of [*US*](/albums/us/), the after-hours turn. On **October 5, 2026**, Spotify showed **20,478** plays on *AFTER-PARTY* (2:38). *AFTER-AFTER-PARTY* and both instrumentals had no play count shown. The count moves. The club says capacity, the night says *we got a place that we go*. Ocean Avenue, Electric Avenue: coastal geography as party logic, shortcuts for when the official room is full.
+Third chapter of [*US*](/albums/us/), the after-hours turn. On **October 5, 2026**, Spotify showed **20,478** plays on *AFTER-PARTY* (2:38). *AFTER-AFTER-PARTY* and both instrumentals had no play count shown. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Singing, producer, mixing, recording, drums, bass, guitar, and synthesizer are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. An older writer line with no BMI number is still on that pane. **Nicole McCabe** is on alto saxophone, from the earlier credit, not this pane. Cover art by Grizzard Graphics. The club says capacity, the night says *we got a place that we go*. Ocean Avenue, Electric Avenue: coastal geography as party logic, shortcuts for when the official room is full.
 
 The verses admit the cost (running, falling, bruises nobody can account for), but the chorus isn't moralizing. It sings the rule everyone already knows, *nothing good ever happens after 2 am*, while breaking it on purpose. The after-party isn't a location, it's a refusal to let the night end on someone else's schedule. **Nicole McCabe** is on alto saxophone, the right instrument for a song about staying out past when the room has closed.
 

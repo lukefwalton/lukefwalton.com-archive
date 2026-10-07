@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/chasing-the-sunset.jpg"
 imageAlt: "Cover for Chasing the Sunset. A figure leaping between rocks at sunset."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -99,7 +99,7 @@ lyrics: |
 draft: false
 ---
 
-Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. On **October 5, 2026**, Spotify showed **51,281** plays, **3:02**. The count moves. Same subject as *I* (*wherever you go I go*), except here the geography is literal and the stakes are airports.
+Standalone single (**August 9, 2024** · Beformer), released after [*I*](/albums/i/) (Jun 14, 2024). Sequenced on [*US*](/albums/us/), the LP scheduled for **January 2027**. On **October 5, 2026**, Spotify showed **51,281** plays, **3:02**. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Bass** is **Bubby Lewis**. **Riley Knapp** mastered it. Same subject as *I* (*wherever you go I go*), except here the geography is literal and the stakes are airports.
 
 Verse one is the American map as love language, Hawaii or Boston College, Atlanta or Savannah, Chicago, Denver. Half geography quiz, half willingness test, and the answer isn't a city: it's *with love*. The chorus turns that into motion, flooring it west, following the colors, *we'll follow the sun* stacked until it's a mantra.
 

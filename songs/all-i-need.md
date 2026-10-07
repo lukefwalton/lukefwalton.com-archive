@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Cover art by Grizzard Graphics is the existing credit; this pane does not list graphic design."
 image: "/photos/covers/all-i-need.jpg"
 imageAlt: "Cover for All I Need. A for-sale sign reading se vende casa."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -89,7 +89,7 @@ lyrics: |
 draft: false
 ---
 
-Track eleven, the [*MÖB*](/albums/mob/) closer. After illness, mania, bowling, and Gemini duality, the record lands on **enough**.
+Track eleven, the [*MÖB*](/albums/mob/) closer. After illness, mania, bowling, and Gemini duality, the record lands on **enough**. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it.
 
 Two wake-ups, same bed, different inventory. One is the American housing loop in miniature (tiny apartment, Zillow doomscroll, the nearest place you can *ill* afford is in another country); the other is the counter-life of a best friend, a garden, and breaking into the rich people's private beach. Between them sits the satire hook, **Mr. American**, always wanting fast cars and diamond rings and *always forgetting to be happy*. The chorus refuses to resolve it. *I got all that I need* reads as gratitude and irony at once, the Möbius move of the wanting loop and the enough loop in one mouth.
 
