@@ -175,6 +175,16 @@
       },
       "about": {
         "@id": "https://lukefwalton.com/#person"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://lukefwalton.com/api/archive/search?q={search_term_string}",
+          "httpMethod": "GET",
+          "contentType": "application/json"
+        },
+        "query-input": "required name=search_term_string"
       }
     }
   ]
