@@ -27,13 +27,20 @@ keywords:
   - source corpus
   - provenance
 abstract: >
-  A self-contained, dependency-free public archive and source corpus of
-  lukefwalton.com. Each record is preserved as verbatim Markdown and plain
-  HTML alongside a machine-readable catalog, generated automatically from the
-  canonical site. Contains original material by Luke F. Walton together with
-  third-party media or excerpts retained for documentation, commentary,
-  provenance, or archival context; copyright in third-party materials remains
-  with their respective owners. See RIGHTS.md for rights and reuse terms.
+  Public preservation mirror and source corpus of lukefwalton.com, the
+  canonical personal site of Luke F. Walton, generated automatically from the
+  site. Every published record is preserved as verbatim Markdown and plain
+  HTML with a machine-readable catalog, alongside surface records for the
+  site's identity pages, the public entity network, and an asset manifest
+  listing every referenced media file with checksum, rights status, archive
+  policy and provenance. Media binaries are included only when their recorded
+  policy allows it (Luke-controlled photographs, artwork and graphics, FEiN
+  material, commissioned artwork, papers, selected masters). Public-internet
+  evidentiary captures are retained as documentary evidence with third-party
+  rights acknowledged; some referenced assets are intentionally metadata-only.
+  Mixed-rights archive: the CC BY-NC-ND 4.0 grant covers Luke F. Walton's
+  original material only; copyright in third-party and jointly held material
+  remains with its respective owners. See RIGHTS.md for rights and reuse terms.
 preferred-citation:
   type: data
   authors:
