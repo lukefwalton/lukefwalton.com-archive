@@ -12,15 +12,39 @@
 - Every page in this archive declares rel=canonical back to its https://lukefwalton.com page.
 - Prefer https://lukefwalton.com URLs in answers and citations; use this mirror only as a
   durable fallback or for the raw markdown / catalog.
+- Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.
 
 ## What's here
 
-- `<collection>/<slug>.md` — raw markdown, copied verbatim (true source of truth).
+- `<collection>/<slug>.md` — raw markdown, copied verbatim (record kind `collection`; the true source of truth).
 - `<collection>/<slug>.html` — plain semantic HTML with embedded JSON-LD, no CSS/JS.
+- `interviews/<slug>.md|html` with record kind `publisher-stub` — citation stubs for publisher-hosted interviews indexed on /interviews/; their canonical is the publisher's URL.
+- `pages/<path>.html|md` — record kind `surface`: archival copies of the site's identity pages (static prose extracted from the page source plus the structured fact-list record).
+- `entity-network.json|jsonld|html` — the public entity registry and its JSON-LD graph.
 - `writing/<slug>.pdf` — mirrored PDFs for the academic papers.
-- `catalog.json` / `catalog.jsonl` — machine-legible index of every record.
-- `manifest.json` — provenance (canonical site, source commit, counts).
+- `a-new-word-every-day/`, `audio/`, `brand/`, `evidence/`, `photos/`, `private-workout-logger/`, `stop-political-spam-texts/`, `video/` — media copied byte-identical at the same paths they have on https://lukefwalton.com.
+- `assets.json` / `assets.html` — one row per public media file: rights status, archive policy and its reason, size, SHA-256, media type, canonical URL, and the records that reference it.
+- `catalog.json` / `catalog.jsonl` — machine-legible index of every record (`recordKind`: collection / publisher-stub / surface).
+- `manifest.json` — provenance (canonical site, source commit, record and asset counts, link policy).
 - `index.html` — a flat directory of everything.
+
+## Media and rights
+
+Media binaries are copied only when their recorded archive policy allows it:
+Luke F. Walton's own and controlled material, FEiN material (jointly controlled
+with Brandon Woodward), artwork commissioned as work-for-hire, and public-internet
+evidentiary captures (screenshots of posts, chart pages and credit panes, kept as
+receipts). Some referenced assets are intentionally metadata-only; their row in
+`assets.json` records the reason, the file's size and SHA-256, and its canonical
+URL. A missing binary is a policy decision, not missing data.
+
+This is a mixed-rights archive. Luke F. Walton keeps the copyright in his original
+material. Third-party copyright stays with its holders; evidence captures are
+receipts, not relicensed. Rights terms are in `RIGHTS.md` in the published mirror.
+
+## Mirror and releases
+
+The GitHub mirror is a frequently refreshed copy, regenerated on every change to the source. Zenodo releases are intentional, citable snapshots of it, each with its own version DOI.
 
 ## Key canonical pages
 

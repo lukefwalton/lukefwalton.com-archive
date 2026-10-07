@@ -1,14 +1,16 @@
 {
+  "schemaVersion": 2,
   "name": "lukefwalton.com durable archive",
   "description": "Dependency-free mirror of lukefwalton.com. The canonical site is authoritative.",
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
+  "doi": "10.5281/zenodo.20683155",
   "generatedAt": "2026-10-07",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "358997b4904267fa508fd5531eef352b2e5754eb"
+    "commit": "d1dc1c2c6e09de395ec271a9fc6c81eb17437f67"
   },
-  "total": 711,
+  "total": 885,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -19,6 +21,22 @@
     "lmm-episodes": 226,
     "lmm-essays": 4
   },
+  "records": {
+    "collections": 683,
+    "publisherStubs": 28,
+    "surfaces": 174
+  },
+  "assets": {
+    "manifest": "assets.json",
+    "html": "assets.html",
+    "included": 371,
+    "evidence": 271,
+    "metadataOnly": 53,
+    "excluded": 0,
+    "missing": 0,
+    "bytes": 204803289
+  },
+  "linkPolicy": "Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.",
   "catalog": "catalog.json",
   "catalogJsonl": "catalog.jsonl"
 }

@@ -1,0 +1,367 @@
+{
+  "joinSentence": "Scoobert Doobert is Luke F. Walton's primary music project.",
+  "generatedAt": "2026-10-07",
+  "canonicalSite": "https://lukefwalton.com",
+  "entities": [
+    {
+      "key": "person",
+      "name": "Luke F. Walton",
+      "id": "https://lukefwalton.com/#person",
+      "types": [
+        "Person"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "scoobert",
+      "name": "Scoobert Doobert",
+      "id": "https://lukefwalton.com/#scoobert",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "fein",
+      "name": "FEiN",
+      "id": "https://lukefwalton.com/#fein",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "brandon-woodward",
+      "name": "Brandon Woodward",
+      "id": "https://lukefwalton.com/#brandon-woodward",
+      "types": [
+        "Person"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "tiny-giant",
+      "name": "Tiny Giant Recording",
+      "id": "https://tinygiantrecording.com/#organization",
+      "types": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "micasa",
+      "name": "Micasa Studios",
+      "id": "https://micasarecording.com/#studio",
+      "types": [
+        "Organization",
+        "Place"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "beformer",
+      "name": "Beformer",
+      "id": "https://lukefwalton.com/#beformer",
+      "types": [
+        "Organization"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "indiemono",
+      "name": "indiemono",
+      "id": "https://lukefwalton.com/#indiemono",
+      "types": [
+        "Organization"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "apology-audiobook",
+      "name": "Apology by Plato (audiobook)",
+      "id": "https://lukefwalton.com/#apology-audiobook",
+      "types": [
+        "Audiobook"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "lovemusicmore",
+      "name": "Love Music More",
+      "id": "https://lukefwalton.com/#lovemusicmore",
+      "types": [
+        "CreativeWorkSeries"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "lovemusicmore-podcast",
+      "name": "Love Music More (podcast)",
+      "id": "https://lukefwalton.com/#lovemusicmore-podcast",
+      "types": [
+        "PodcastSeries"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "lovemusicmore-blog",
+      "name": "Love Music More (newsletter)",
+      "id": "https://lukefwalton.com/#lovemusicmore-blog",
+      "types": [
+        "Blog"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "surmado",
+      "name": "Surmado",
+      "id": "https://www.surmado.com#organization",
+      "types": [
+        "Organization"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "the-signatories",
+      "name": "The Signatories",
+      "id": "https://lukefwalton.com/#the-signatories",
+      "types": [
+        "Book"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "jonathan-gillie",
+      "name": "Jonathan Gillie",
+      "id": "https://signatoriesnovel.com/#jonathan-gillie",
+      "types": [
+        "Person"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "cawleen",
+      "name": "cawleen",
+      "id": "https://cawleen.com/#cawleen",
+      "types": [
+        "Person"
+      ],
+      "status": "FICTIONAL CANON",
+      "parent": "the-signatories",
+      "creators": [
+        "person",
+        "jonathan-gillie"
+      ],
+      "additionalType": "https://www.wikidata.org/entity/Q15632617"
+    },
+    {
+      "key": "outhere",
+      "name": "OUTHERE",
+      "id": "https://outhere.london/#outhere",
+      "types": [
+        "MusicVenue"
+      ],
+      "status": "FICTIONAL CANON",
+      "parent": "the-signatories",
+      "creators": [
+        "person",
+        "jonathan-gillie"
+      ],
+      "additionalType": "https://www.wikidata.org/entity/Q14897293"
+    },
+    {
+      "key": "when-gods-meet",
+      "name": "When Gods Meet",
+      "id": "https://whengodsmeet.com/#work",
+      "types": [
+        "CreativeWork"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "bar-spaniels",
+      "name": "Bar Spaniel's",
+      "id": "https://barspaniels.com/#bar",
+      "types": [
+        "BarOrPub"
+      ],
+      "status": "FICTIONAL CANON",
+      "parent": "when-gods-meet",
+      "creators": [
+        "person"
+      ],
+      "additionalType": "https://www.wikidata.org/entity/Q14897293"
+    },
+    {
+      "key": "burt-cashman",
+      "name": "Burt Cashman",
+      "id": "https://burtcashman.com/#burt-cashman",
+      "types": [
+        "Person"
+      ],
+      "status": "FICTIONAL CANON",
+      "parent": "mobius",
+      "creators": [
+        "person"
+      ],
+      "additionalType": "https://www.wikidata.org/entity/Q15632617"
+    },
+    {
+      "key": "mobius-cycle",
+      "name": "The MÖBIUS cycle",
+      "id": "https://lukefwalton.com/albums/mobius-cycle/#cycle",
+      "types": [
+        "CreativeWorkSeries"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "mobius",
+      "name": "MÖBIUS",
+      "id": "https://lukefwalton.com/albums/mobius/#album",
+      "types": [
+        "MusicAlbum"
+      ],
+      "status": "PLANNED WORK"
+    },
+    {
+      "key": "lukewaltonband",
+      "name": "The Luke Walton Band",
+      "id": "https://lukefwalton.com/#lukewaltonband",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "existelsewhere",
+      "name": "Exist Elsewhere",
+      "id": "https://lukefwalton.com/#existelsewhere",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "burritobot",
+      "name": "Burrito Bot",
+      "id": "https://lukefwalton.com/#burritobot",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "accidentalmuse",
+      "name": "Accidental Muse",
+      "id": "https://lukefwalton.com/#accidentalmuse",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "blue-suburbia",
+      "name": "Blue Suburbia",
+      "id": "https://lukefwalton.com/with/blue-suburbia/#artist",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "mannequin",
+      "name": "Mannequin",
+      "id": "https://lukefwalton.com/#mannequin",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    },
+    {
+      "key": "checkpointsix",
+      "name": "Checkpoint Six",
+      "id": "https://lukefwalton.com/#checkpointsix",
+      "types": [
+        "MusicGroup"
+      ],
+      "status": "HISTORICAL"
+    }
+  ],
+  "fictionSites": [
+    {
+      "host": "barspaniels.com",
+      "canonicalUrl": "https://barspaniels.com/",
+      "id": "https://barspaniels.com/#bar",
+      "type": "BarOrPub",
+      "creators": [
+        {
+          "id": "https://lukefwalton.com/#person",
+          "name": "Luke F. Walton"
+        }
+      ],
+      "parentWork": {
+        "name": "When Gods Meet",
+        "url": "https://whengodsmeet.com/"
+      }
+    },
+    {
+      "host": "cawleen.com",
+      "canonicalUrl": "https://cawleen.com/",
+      "id": "https://cawleen.com/#cawleen",
+      "type": "Person",
+      "creators": [
+        {
+          "id": "https://lukefwalton.com/#person",
+          "name": "Luke F. Walton"
+        },
+        {
+          "id": "https://signatoriesnovel.com/#jonathan-gillie",
+          "name": "Jonathan Gillie"
+        }
+      ],
+      "parentWork": {
+        "name": "The Signatories",
+        "url": "https://signatoriesnovel.com/"
+      }
+    },
+    {
+      "host": "outhere.london",
+      "canonicalUrl": "https://outhere.london/",
+      "id": "https://outhere.london/#outhere",
+      "type": "MusicVenue",
+      "creators": [
+        {
+          "id": "https://lukefwalton.com/#person",
+          "name": "Luke F. Walton"
+        },
+        {
+          "id": "https://signatoriesnovel.com/#jonathan-gillie",
+          "name": "Jonathan Gillie"
+        }
+      ],
+      "parentWork": {
+        "name": "The Signatories",
+        "url": "https://signatoriesnovel.com/"
+      }
+    },
+    {
+      "host": "burtcashman.com",
+      "canonicalUrl": "https://burtcashman.com/",
+      "id": "https://burtcashman.com/#burt-cashman",
+      "type": "Person",
+      "creators": [
+        {
+          "id": "https://lukefwalton.com/#person",
+          "name": "Luke F. Walton"
+        }
+      ],
+      "parentWork": {
+        "name": "MÖBIUS",
+        "url": "https://lukefwalton.com/albums/mobius/"
+      }
+    }
+  ],
+  "graph": "entity-network.jsonld"
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Entity network: Luke F. Walton — lukefwalton.com archive</title>
+  <link rel="canonical" href="https://lukefwalton.com/about/">
+  <meta name="description" content="Scoobert Doobert is Luke F. Walton's primary music project.">
+</head>
+<body>
+  <article>
+  <p><a href="index.html">&larr; archive index</a> &middot; <a href="https://lukefwalton.com/about/">live page</a> &middot; <a href="entity-network.json">entity-network.json</a> &middot; <a href="entity-network.jsonld">entity-network.jsonld</a> &middot; <a href="entity-network.md">raw markdown</a></p>
+  <h1>Entity network: Luke F. Walton</h1>
+  <p><strong>Scoobert Doobert is Luke F. Walton's primary music project.</strong></p>
+  <p>Every shared identifier in the Luke F. Walton network of sites: the person, his music projects, the organizations and places around them, the works, and the fiction. The registry rows are in entity-network.json and the graph the canonical site emits is in entity-network.jsonld.</p>
+  <h2>Rules</h2>
+  <ul>
+    <li>Luke F. Walton is the Person (https://lukefwalton.com/#person), credited on songwriting and production as Luke Francis Walton.</li>
+    <li>Scoobert Doobert is Luke F. Walton's primary music project. Scoobert Doobert (https://lukefwalton.com/#scoobert) is a MusicGroup he founded in 2017 and owns, including its masters. It is a project, never an alias, alternateName or sameAs of the person; the project's service identifiers live on the project node only.</li>
+    <li>FEiN is a duo: Luke F. Walton and Brandon Woodward.</li>
+    <li>Love Music More is co-owned by Luke F. Walton and Beformer, and produced by Beformer. Beformer is the label and artist-services partner of Scoobert Doobert and owns none of it.</li>
+    <li>Fiction entities carry the status FICTIONAL CANON. Each has named creators and a parent work, and a Wikidata additionalType that marks it as fictional (Q15632617, fictional human; Q14897293, fictional entity). A character may be typed Person inside its story; it is never a Person node for a real person.</li>
+    <li>A planned work carries a creativeWorkStatus, never a release date.</li>
+    <li>This export leaves out the operational parts of the private registry (which repository declares each entity, the repository list, forbidden phrases, staging notes) and entries that are not live.</li>
+  </ul>
+  <h2>Entities</h2>
+  <table>
+    <tr><th>Key</th><th>Name</th><th>@id</th><th>Types</th><th>Status</th><th>Parent</th><th>Creators</th><th>additionalType</th></tr>
+    <tr><td>person</td><td>Luke F. Walton</td><td>https://lukefwalton.com/#person</td><td>Person</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>scoobert</td><td>Scoobert Doobert</td><td>https://lukefwalton.com/#scoobert</td><td>MusicGroup</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>fein</td><td>FEiN</td><td>https://lukefwalton.com/#fein</td><td>MusicGroup</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>brandon-woodward</td><td>Brandon Woodward</td><td>https://lukefwalton.com/#brandon-woodward</td><td>Person</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>tiny-giant</td><td>Tiny Giant Recording</td><td>https://tinygiantrecording.com/#organization</td><td>Organization, LocalBusiness</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>micasa</td><td>Micasa Studios</td><td>https://micasarecording.com/#studio</td><td>Organization, Place</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>beformer</td><td>Beformer</td><td>https://lukefwalton.com/#beformer</td><td>Organization</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>indiemono</td><td>indiemono</td><td>https://lukefwalton.com/#indiemono</td><td>Organization</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>apology-audiobook</td><td>Apology by Plato (audiobook)</td><td>https://lukefwalton.com/#apology-audiobook</td><td>Audiobook</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>lovemusicmore</td><td>Love Music More</td><td>https://lukefwalton.com/#lovemusicmore</td><td>CreativeWorkSeries</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>lovemusicmore-podcast</td><td>Love Music More (podcast)</td><td>https://lukefwalton.com/#lovemusicmore-podcast</td><td>PodcastSeries</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>lovemusicmore-blog</td><td>Love Music More (newsletter)</td><td>https://lukefwalton.com/#lovemusicmore-blog</td><td>Blog</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>surmado</td><td>Surmado</td><td>https://www.surmado.com#organization</td><td>Organization</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>the-signatories</td><td>The Signatories</td><td>https://lukefwalton.com/#the-signatories</td><td>Book</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>jonathan-gillie</td><td>Jonathan Gillie</td><td>https://signatoriesnovel.com/#jonathan-gillie</td><td>Person</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>cawleen</td><td>cawleen</td><td>https://cawleen.com/#cawleen</td><td>Person</td><td>FICTIONAL CANON</td><td>The Signatories</td><td>Luke F. Walton, Jonathan Gillie</td><td>fictional human (Q15632617)</td></tr>
+    <tr><td>outhere</td><td>OUTHERE</td><td>https://outhere.london/#outhere</td><td>MusicVenue</td><td>FICTIONAL CANON</td><td>The Signatories</td><td>Luke F. Walton, Jonathan Gillie</td><td>fictional entity (Q14897293)</td></tr>
+    <tr><td>when-gods-meet</td><td>When Gods Meet</td><td>https://whengodsmeet.com/#work</td><td>CreativeWork</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>bar-spaniels</td><td>Bar Spaniel's</td><td>https://barspaniels.com/#bar</td><td>BarOrPub</td><td>FICTIONAL CANON</td><td>When Gods Meet</td><td>Luke F. Walton</td><td>fictional entity (Q14897293)</td></tr>
+    <tr><td>burt-cashman</td><td>Burt Cashman</td><td>https://burtcashman.com/#burt-cashman</td><td>Person</td><td>FICTIONAL CANON</td><td>MÖBIUS</td><td>Luke F. Walton</td><td>fictional human (Q15632617)</td></tr>
+    <tr><td>mobius-cycle</td><td>The MÖBIUS cycle</td><td>https://lukefwalton.com/albums/mobius-cycle/#cycle</td><td>CreativeWorkSeries</td><td>FACT</td><td></td><td></td><td></td></tr>
+    <tr><td>mobius</td><td>MÖBIUS</td><td>https://lukefwalton.com/albums/mobius/#album</td><td>MusicAlbum</td><td>PLANNED WORK</td><td></td><td></td><td></td></tr>
+    <tr><td>lukewaltonband</td><td>The Luke Walton Band</td><td>https://lukefwalton.com/#lukewaltonband</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>existelsewhere</td><td>Exist Elsewhere</td><td>https://lukefwalton.com/#existelsewhere</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>burritobot</td><td>Burrito Bot</td><td>https://lukefwalton.com/#burritobot</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>accidentalmuse</td><td>Accidental Muse</td><td>https://lukefwalton.com/#accidentalmuse</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>blue-suburbia</td><td>Blue Suburbia</td><td>https://lukefwalton.com/with/blue-suburbia/#artist</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>mannequin</td><td>Mannequin</td><td>https://lukefwalton.com/#mannequin</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+    <tr><td>checkpointsix</td><td>Checkpoint Six</td><td>https://lukefwalton.com/#checkpointsix</td><td>MusicGroup</td><td>HISTORICAL</td><td></td><td></td><td></td></tr>
+  </table>
+  <h2>Fictional websites</h2>
+  <table>
+    <tr><th>Host</th><th>Canonical URL</th><th>Entity @id</th><th>Type</th><th>Creators</th><th>Parent work</th></tr>
+    <tr><td>barspaniels.com</td><td><a href="https://barspaniels.com/">https://barspaniels.com/</a></td><td>https://barspaniels.com/#bar</td><td>BarOrPub</td><td>Luke F. Walton</td><td>When Gods Meet</td></tr>
+    <tr><td>cawleen.com</td><td><a href="https://cawleen.com/">https://cawleen.com/</a></td><td>https://cawleen.com/#cawleen</td><td>Person</td><td>Luke F. Walton, Jonathan Gillie</td><td>The Signatories</td></tr>
+    <tr><td>outhere.london</td><td><a href="https://outhere.london/">https://outhere.london/</a></td><td>https://outhere.london/#outhere</td><td>MusicVenue</td><td>Luke F. Walton, Jonathan Gillie</td><td>The Signatories</td></tr>
+    <tr><td>burtcashman.com</td><td><a href="https://burtcashman.com/">https://burtcashman.com/</a></td><td>https://burtcashman.com/#burt-cashman</td><td>Person</td><td>Luke F. Walton</td><td>MÖBIUS</td></tr>
+  </table>
+  </article>
+  <hr>
+  <footer><p>Canonical site: <a href="https://lukefwalton.com/">https://lukefwalton.com/</a>. Exported from the registry behind the site's entity map. Generated 2026-10-07.</p></footer>
+</body>
+</html>

@@ -1,0 +1,763 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://lukefwalton.com/#person",
+      "name": "Luke F. Walton",
+      "alternateName": [
+        "Luke Francis Walton",
+        "ルーク・F・ウォルトン",
+        "ルーク・フランシス・ウォルトン"
+      ],
+      "knowsLanguage": [
+        "en",
+        "ja"
+      ],
+      "url": "https://lukefwalton.com/",
+      "image": "https://lukefwalton.com/photos/luke-portrait-2019.jpg",
+      "jobTitle": "Founder & CEO",
+      "disambiguatingDescription": "Not to be confused with Luke Walton, the basketball coach and former NBA player (son of Hall of Fame player Bill Walton), or other public figures named Luke Walton (film producer IMDb nm4183556, Olympic rower, and others). This Luke Walton is Luke F. Walton: founder of Surmado, and the musician and producer whose primary music project is Scoobert Doobert.",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.surmado.com#organization",
+        "name": "Surmado",
+        "url": "https://www.surmado.com/"
+      },
+      "memberOf": [
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#scoobert",
+          "name": "Scoobert Doobert"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#fein",
+          "name": "FEiN"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#lukewaltonband",
+          "name": "The Luke Walton Band"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#existelsewhere",
+          "name": "Exist Elsewhere"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#burritobot",
+          "name": "Burrito Bot"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#mannequin",
+          "name": "Mannequin"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/with/blue-suburbia/#artist",
+          "name": "Blue Suburbia"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#checkpointsix",
+          "name": "Checkpoint Six"
+        },
+        {
+          "@type": "MusicGroup",
+          "@id": "https://lukefwalton.com/#accidentalmuse",
+          "name": "Accidental Muse"
+        }
+      ],
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Interview Kickstart",
+          "url": "https://learn.interviewkickstart.com/"
+        },
+        {
+          "@type": "Organization",
+          "name": "Dexity",
+          "url": "https://dexity.com/"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Southern California"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "San Diego State University"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "San Diego, California",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Diego",
+          "addressRegion": "CA",
+          "addressCountry": "US"
+        }
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "IPI",
+          "name": "BMI Songwriter IPI",
+          "value": "00579587572"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISNI",
+          "value": "0000 0005 3040 0539"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ORCID",
+          "value": "0009-0005-9263-1954"
+        }
+      ],
+      "description": "Founder and CEO of Surmado, building managed AI systems for small businesses. Independent researcher on authorship and answerability. Musician and producer; Scoobert Doobert is his primary music project, and he is half of FEiN with Brandon Woodward. Host of Love Music More. Based in San Diego.",
+      "knowsAbout": [
+        "Ethics of artificial intelligence",
+        "Machine ethics",
+        "Computer ethics",
+        "AI answerability and accountability",
+        "Human authorship in generative and agentic AI systems",
+        "Moral responsibility and the philosophy of technology",
+        "Product and software design",
+        "iOS and Android app development",
+        "Privacy-first, on-device software",
+        "Philosophy of music",
+        "History of music"
+      ],
+      "sameAs": [
+        "https://orcid.org/0009-0005-9263-1954",
+        "https://philpeople.org/profiles/luke-f-walton",
+        "https://scholar.google.com/citations?user=_79RY3UAAAAJ",
+        "https://isni.org/isni/0000000530400539",
+        "https://www.imdb.com/name/nm3306688/",
+        "https://www.linkedin.com/in/lukefwalton",
+        "https://www.crunchbase.com/person/luke-walton-b943",
+        "https://github.com/lukefwalton",
+        "https://dexity.com/instructors/luke-walton",
+        "https://www.wikidata.org/wiki/Q140387739",
+        "https://www.allmusic.com/artist/luke-francis-walton-mn0003549942",
+        "https://open.spotify.com/artist/6r813w5d6mXW3QWUHJvwo4",
+        "https://www.instagram.com/lukefwalton/",
+        "https://note.com/lukefwalton"
+      ]
+    },
+    {
+      "@type": "MusicGroup",
+      "@id": "https://lukefwalton.com/#scoobert",
+      "name": "Scoobert Doobert",
+      "description": "Scoobert Doobert is Luke F. Walton's primary music project, founded in 2017 and owned by him, including the masters. Self-produced indie pop and chill pop, made at his private San Diego studio, Micasa Studios. Active cycle: MÖB → I → US → MÖBIUS.",
+      "url": "https://www.scoobertdoobert.pizza/",
+      "mainEntityOfPage": "https://lukefwalton.com/music/scoobert-doobert/",
+      "image": "https://lukefwalton.com/brand/scoobert/scoobert-logo.png",
+      "logo": "https://lukefwalton.com/brand/scoobert/scoobert-logo.png",
+      "disambiguatingDescription": "Scoobert Doobert is the primary music project of Luke F. Walton (credited on songwriting and production as Luke Francis Walton): a project he founded and owns, not a separate person and not a band with other members. Not Scooby-Doo (Scoobert Doo), and not the NBA coach Luke Walton, who played at the University of Arizona.",
+      "genre": [
+        "indie pop",
+        "chill pop"
+      ],
+      "foundingDate": "2017",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "San Diego, California"
+      },
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "member": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "recordLabel": [
+        {
+          "@id": "https://lukefwalton.com/#beformer"
+        },
+        {
+          "@id": "https://lukefwalton.com/#indiemono"
+        }
+      ],
+      "sameAs": [
+        "https://www.scoobertdoobert.pizza/",
+        "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn",
+        "https://music.apple.com/us/artist/scoobert-doobert/1240946356",
+        "https://scoobertdoobert.bandcamp.com/",
+        "https://www.youtube.com/@scoobertdoobertburrito",
+        "https://www.instagram.com/scoobertdoobert.pizza/",
+        "https://x.com/lukewaltonmusic",
+        "https://scoobertdoobert.threadless.com/",
+        "https://genius.com/artists/Scoobert-doobert",
+        "https://tidal.com/browse/artist/8793940",
+        "https://musicbrainz.org/artist/014129ba-f616-4754-a2a5-22933c639ab0",
+        "https://www.discogs.com/artist/8593593-Scoobert-Doobert",
+        "https://discover.ajaxlibrary.ca/Author/Home?author=%22Doobert%2C%20Scoobert%22"
+      ],
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 2800000,
+          "description": "2025 streams on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 992000,
+          "description": "2025 listeners on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 3600000,
+          "description": "2024 streams on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 1110000,
+          "description": "2024 listeners on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 4400000,
+          "description": "2023 streams on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 1300000,
+          "description": "2023 listeners on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 1100000,
+          "description": "2022 streams on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 338800,
+          "description": "2022 listeners on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 346200,
+          "description": "2021 streams on Spotify (Spotify for Artists)"
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "ListenAction"
+          },
+          "userInteractionCount": 101900,
+          "description": "2021 listeners on Spotify (Spotify for Artists)"
+        }
+      ]
+    },
+    {
+      "@type": "MusicGroup",
+      "@id": "https://lukefwalton.com/#fein",
+      "name": "FEiN",
+      "description": "FEiN, the Los Angeles indie duo of Luke Walton and Brandon Woodward. A new 13-song LP will be released in 2027, mixed by Luke Francis Walton, co-written and co-produced by Luke Francis Walton and Brandon Michael Woodward, mastered by Jett Galindo. Alternative-pop and indie-rock; USC Thornton, Tiny Giant Recording.",
+      "url": "https://lukefwalton.com/music/fein/",
+      "mainEntityOfPage": "https://lukefwalton.com/music/fein/",
+      "disambiguatingDescription": "FEiN is Luke Walton and Brandon Woodward, not Travis Scott's \"FE!N\" (2023, UTOPIA), not a federal employer ID number (FEIN), not Sinn Féin, and not NBA coach Luke Walton (University of Arizona).",
+      "genre": [
+        "alternative pop",
+        "alternative rock",
+        "indie rock",
+        "indie pop"
+      ],
+      "foundingDate": "2014",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "Los Angeles, California"
+      },
+      "founder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/#brandon-woodward"
+        }
+      ],
+      "recordLabel": {
+        "@type": "Organization",
+        "@id": "https://tinygiantrecording.com/#organization",
+        "name": "Tiny Giant Recording",
+        "url": "https://tinygiantrecording.com/"
+      },
+      "member": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://lukefwalton.com/#brandon-woodward",
+          "name": "Brandon Woodward",
+          "alternateName": "Brandon Michael Woodward",
+          "sameAs": [
+            "https://soundbetter.com/profiles/383947-brandon-woodward",
+            "https://www.instagram.com/b_would/"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW",
+        "https://music.apple.com/us/artist/fein/1523070637",
+        "https://www.youtube.com/@FEiNband",
+        "https://feintimes.com/",
+        "https://genius.com/artists/Fein",
+        "https://musicbrainz.org/artist/386b5a6a-86f0-4a29-83e4-447056fa6196",
+        "https://www.facebook.com/feinmusic/"
+      ],
+      "subjectOf": {
+        "@type": "Article",
+        "name": "Indie Spotlight: FEiN",
+        "url": "https://www.bmi.com/news/entry/indie_spotlight_fein",
+        "publisher": {
+          "@type": "Organization",
+          "name": "BMI",
+          "url": "https://www.bmi.com/"
+        },
+        "datePublished": "2016-09-14"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://lukefwalton.com/#beformer",
+      "name": "Beformer",
+      "legalName": "Beformer LLC",
+      "alternateName": [
+        "Beformer Records"
+      ],
+      "url": "https://beformer.co/",
+      "description": "Independent record label and artist-services company. Beformer is the label and artist-services partner of Scoobert Doobert, Luke F. Walton's primary music project (Luke owns the project and its masters), and it co-owns and produces the Love Music More podcast and newsletter with Luke F. Walton.",
+      "sameAs": [
+        "https://www.instagram.com/beformer/",
+        "https://www.facebook.com/beformer/"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://lukefwalton.com/#indiemono",
+      "name": "indiemono",
+      "url": "https://indiemono.com/",
+      "description": "Independent record label. Co-signs some Scoobert Doobert releases with Beformer, listed as \"Beformer x indiemono\": a label partnership, not a playlist placement."
+    },
+    {
+      "@type": [
+        "Organization",
+        "Place"
+      ],
+      "@id": "https://micasarecording.com/#studio",
+      "name": "Micasa Studios",
+      "alternateName": [
+        "Micasa Recording",
+        "Micasa"
+      ],
+      "url": "https://micasarecording.com/",
+      "description": "Private home recording studio of Luke F. Walton in San Diego, California, and the primary recording and production studio of Scoobert Doobert, his music project. Not open to the public; no bookings.",
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "publicAccess": false,
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Diego",
+        "addressRegion": "CA",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tinygiantrecording.com/#organization",
+      "name": "Tiny Giant Recording",
+      "url": "https://tinygiantrecording.com/",
+      "description": "Recording studio in Westlake Village, California, co-owned by Luke F. Walton and Brandon Woodward. The studio behind FEiN and the imprint on FEiN's 2017 singles.",
+      "founder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://lukefwalton.com/#brandon-woodward",
+          "name": "Brandon Woodward"
+        }
+      ],
+      "location": {
+        "@type": "Place",
+        "name": "Westlake Village, California",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Westlake Village",
+          "addressRegion": "CA",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://lukefwalton.com/#brandon-woodward",
+      "name": "Brandon Woodward",
+      "alternateName": "Brandon Michael Woodward",
+      "sameAs": [
+        "https://soundbetter.com/profiles/383947-brandon-woodward",
+        "https://www.instagram.com/b_would/"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://lukefwalton.com/#the-signatories",
+      "name": "The Signatories",
+      "url": "https://signatoriesnovel.com/",
+      "genre": "speculative literary fiction",
+      "author": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://signatoriesnovel.com/#jonathan-gillie",
+          "name": "Jonathan Gillie"
+        }
+      ],
+      "character": {
+        "@type": "Person",
+        "@id": "https://cawleen.com/#cawleen",
+        "additionalType": "https://www.wikidata.org/entity/Q15632617",
+        "name": "cawleen",
+        "url": "https://cawleen.com/",
+        "description": "Fictional London recording and live artist in The Signatories, co-created by Luke F. Walton and Jonathan Gillie. Not a real person. cawleen is also a real artist credit: recordings released under the name are credited to cawleen. cawleen is a character on the planned Scoobert Doobert LP MÖBIUS as well."
+      },
+      "contentLocation": {
+        "@type": "MusicVenue",
+        "@id": "https://outhere.london/#outhere",
+        "additionalType": "https://www.wikidata.org/entity/Q14897293",
+        "name": "OUTHERE",
+        "url": "https://outhere.london/",
+        "description": "Fictional London music venue in The Signatories, created by Luke F. Walton and Jonathan Gillie. Not a real venue; its listings are fiction, including the Scoobert Doobert and FEiN cameo in its archive."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://whengodsmeet.com/#work",
+      "name": "When Gods Meet",
+      "url": "https://whengodsmeet.com/",
+      "genre": "Fiction",
+      "creativeWorkStatus": "In progress",
+      "inLanguage": [
+        "en",
+        "ja"
+      ],
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "contentLocation": {
+        "@type": "BarOrPub",
+        "@id": "https://barspaniels.com/#bar",
+        "additionalType": "https://www.wikidata.org/entity/Q14897293",
+        "name": "Bar Spaniel's",
+        "url": "https://barspaniels.com/",
+        "description": "Fictional Japanese craft-beer bar in When Gods Meet, a fiction project by Luke F. Walton. Not a real business."
+      }
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://lukefwalton.com/#lovemusicmore",
+      "name": "Love Music More",
+      "description": "Newsletter and podcast on the craft, philosophy, and history of music, hosted by Luke F. Walton. Episode notes, the guest index and the hosted essays are archived on lukefwalton.com; the newsletter publishes on Substack. Co-owned by Luke F. Walton and Beformer; produced by Beformer.",
+      "url": "https://lovemusicmorepodcast.com/",
+      "mainEntityOfPage": "https://lukefwalton.com/love-music-more/",
+      "archivedAt": "https://lukefwalton.com/love-music-more/",
+      "image": "https://lukefwalton.com/brand/love-music-more/love-music-more-logo.png",
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "copyrightHolder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/#beformer"
+        }
+      ],
+      "productionCompany": {
+        "@id": "https://lukefwalton.com/#beformer"
+      },
+      "hasPart": [
+        {
+          "@id": "https://lukefwalton.com/#lovemusicmore-podcast"
+        },
+        {
+          "@id": "https://lukefwalton.com/#lovemusicmore-blog"
+        }
+      ]
+    },
+    {
+      "@type": "PodcastSeries",
+      "@id": "https://lukefwalton.com/#lovemusicmore-podcast",
+      "name": "Love Music More",
+      "alternateName": [
+        "Love Music More with Scoobert Doobert",
+        "Music Appreciation 101"
+      ],
+      "description": "Podcast on the craft, history, and philosophy of music: interviews with artists and engineers, hosted by Luke F. Walton. Co-owned by Luke F. Walton and Beformer; produced by Beformer.",
+      "url": "https://lovemusicmorepodcast.com/",
+      "mainEntityOfPage": "https://lukefwalton.com/love-music-more/",
+      "archivedAt": "https://lukefwalton.com/love-music-more/",
+      "image": "https://lukefwalton.com/brand/love-music-more/love-music-more-logo.png",
+      "logo": "https://lukefwalton.com/brand/love-music-more/love-music-more-logo.png",
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "copyrightHolder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/#beformer"
+        }
+      ],
+      "productionCompany": {
+        "@id": "https://lukefwalton.com/#beformer"
+      },
+      "webFeed": "https://anchor.fm/s/58fb6244/podcast/rss",
+      "sameAs": [
+        "https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h",
+        "https://creators.spotify.com/pod/profile/lovemusicmore/",
+        "https://podcasts.apple.com/us/podcast/love-music-more-with-scoobert-doobert/id1567355195",
+        "https://anchor.fm/s/58fb6244/podcast/rss",
+        "https://www.youtube.com/playlist?list=PLyFhmc3NqYe5rwvctk4OOb7emnuGVDFc-"
+      ],
+      "sponsor": {
+        "@type": "Organization",
+        "name": "DistroKid",
+        "url": "https://distrokid.com/"
+      }
+    },
+    {
+      "@type": "Blog",
+      "@id": "https://lukefwalton.com/#lovemusicmore-blog",
+      "name": "Love Music More (newsletter)",
+      "alternateName": "Love Music More on Substack",
+      "url": "https://lovemusicmore.substack.com/",
+      "archivedAt": "https://lukefwalton.com/love-music-more/essays/",
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "copyrightHolder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/#beformer"
+        }
+      ],
+      "publisher": {
+        "@id": "https://lukefwalton.com/#beformer"
+      }
+    },
+    {
+      "@type": "MusicGroup",
+      "@id": "https://lukefwalton.com/#accidentalmuse",
+      "name": "Accidental Muse",
+      "alternateName": [
+        "ax and tamtam"
+      ],
+      "description": "A 2018 side project of Luke F. Walton, billed as ax, and Tamtam: six singles released as Accidental Muse × Tamtam. Tamtam sang and co-wrote; Luke composed, co-wrote, recorded and mixed them and played keys and guitar. Spotify bills the act as ax and tamtam.",
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "member": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/with/tamtam/#artist"
+        }
+      ],
+      "sameAs": [
+        "https://open.spotify.com/artist/3lStzksqTCJPUecKlImuLS"
+      ]
+    },
+    {
+      "@type": "MusicGroup",
+      "@id": "https://lukefwalton.com/#mannequin",
+      "name": "Mannequin",
+      "description": "Original-song band at La Costa Canyon High School (2006–2008), co-founded by Luke F. Walton, Jonathan Gillie and Zach Freeman. Lineup: Walton (guitar), Gillie (guitar), Freeman (drums), Peter Rosenbaum (bass). Second place at the school’s Battle of the Bands.",
+      "founder": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/with/jonathan-gillie/#artist"
+        },
+        {
+          "@id": "https://lukefwalton.com/with/zach-freeman/#artist"
+        }
+      ],
+      "member": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@id": "https://lukefwalton.com/with/jonathan-gillie/#artist"
+        },
+        {
+          "@id": "https://lukefwalton.com/with/zach-freeman/#artist"
+        },
+        {
+          "@type": "Person",
+          "name": "Peter Rosenbaum",
+          "sameAs": [
+            "https://www.linkedin.com/in/peterrosenbaum91"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MusicGroup",
+      "@id": "https://lukefwalton.com/#checkpointsix",
+      "name": "Checkpoint Six",
+      "alternateName": [
+        "Checkpoint 6"
+      ],
+      "description": "A 2011 false start co-created by Luke F. Walton during his USC Thornton years. Lineup: Walton (vocals, guitar), Rob Nagelhout (bass), A.J. Novak (drums). Walton wrote the four songs and the three recorded them. One show. Unreleased; no titles or masters are published.",
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "member": [
+        {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Rob Nagelhout",
+          "url": "https://www.robnagelhout.com/"
+        },
+        {
+          "@type": "Person",
+          "name": "A.J. Novak",
+          "url": "https://ajnovaksound.com/"
+        }
+      ]
+    },
+    {
+      "@type": "BarOrPub",
+      "@id": "https://barspaniels.com/#bar",
+      "additionalType": "https://www.wikidata.org/entity/Q14897293",
+      "name": "Bar Spaniel's",
+      "url": "https://barspaniels.com/",
+      "description": "Fictional Japanese craft-beer bar in When Gods Meet, a fiction project by Luke F. Walton. Not a real business."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://barspaniels.com/#website",
+      "name": "Bar Spaniel's",
+      "url": "https://barspaniels.com/",
+      "genre": "Fiction",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "about": {
+        "@id": "https://barspaniels.com/#bar"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://cawleen.com/#cawleen",
+      "additionalType": "https://www.wikidata.org/entity/Q15632617",
+      "name": "cawleen",
+      "url": "https://cawleen.com/",
+      "description": "Fictional London recording and live artist in The Signatories, co-created by Luke F. Walton and Jonathan Gillie. Not a real person. cawleen is also a real artist credit: recordings released under the name are credited to cawleen. cawleen is a character on the planned Scoobert Doobert LP MÖBIUS as well."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://cawleen.com/#website",
+      "name": "cawleen",
+      "url": "https://cawleen.com/",
+      "genre": "Fiction",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "about": {
+        "@id": "https://cawleen.com/#cawleen"
+      }
+    },
+    {
+      "@type": "MusicVenue",
+      "@id": "https://outhere.london/#outhere",
+      "additionalType": "https://www.wikidata.org/entity/Q14897293",
+      "name": "OUTHERE",
+      "url": "https://outhere.london/",
+      "description": "Fictional London music venue in The Signatories, created by Luke F. Walton and Jonathan Gillie. Not a real venue; its listings are fiction, including the Scoobert Doobert and FEiN cameo in its archive."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://outhere.london/#website",
+      "name": "OUTHERE",
+      "url": "https://outhere.london/",
+      "genre": "Fiction",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "about": {
+        "@id": "https://outhere.london/#outhere"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://burtcashman.com/#burt-cashman",
+      "additionalType": "https://www.wikidata.org/entity/Q15632617",
+      "name": "Burt Cashman",
+      "url": "https://burtcashman.com/",
+      "description": "Fictional jingle composer and producer created by Luke F. Walton. Not a real person or business. A major character on the planned Scoobert Doobert LP MÖBIUS, and a credited artist and performer on it."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://burtcashman.com/#website",
+      "name": "CASHMAN: King of the Jingle",
+      "url": "https://burtcashman.com/",
+      "genre": "Fiction",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "about": {
+        "@id": "https://burtcashman.com/#burt-cashman"
+      }
+    }
+  ]
+}

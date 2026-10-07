@@ -1,7 +1,19 @@
 # lukefwalton.com durable archive — a crawlable MIRROR of lukefwalton.com.
 # Pages here rel=canonical back to lukefwalton.com, so crawling this mirror
 # consolidates authority on the canonical domain. All crawlers welcome.
+#
+# Copied media binaries (photos, evidence captures, audio, video, brand files)
+# cannot carry rel=canonical, so they stay out of search indexes here; the
+# canonical copies live on lukefwalton.com. Pages stay allowed, and archiving
+# services (the Wayback Machine's Save Page Now) still capture the media a page
+# embeds. robots.txt is only honoured at a host root, so on a github.io project
+# path these lines are advisory; they apply as written on a custom domain.
 User-agent: *
 Allow: /
+Disallow: /lukefwalton.com-archive/photos/
+Disallow: /lukefwalton.com-archive/evidence/
+Disallow: /lukefwalton.com-archive/audio/
+Disallow: /lukefwalton.com-archive/video/
+Disallow: /lukefwalton.com-archive/brand/
 
 Sitemap: https://lukefwalton.github.io/lukefwalton.com-archive/sitemap.xml

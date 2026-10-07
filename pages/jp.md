@@ -1,0 +1,65 @@
+---
+title: 日本語：Luke F. Walton（ルーク・F・ウォルトン）
+url: https://lukefwalton.com/jp/
+recordKind: surface
+source: src/pages/jp.astro
+derivedFrom:
+  - ask-the-archive/src/lib/legibility-records.ts
+recordIds:
+  - page:jp
+---
+
+# 日本語：Luke F. Walton（ルーク・F・ウォルトン）
+
+## Page text
+
+_Static prose extracted from the page source; dynamic parts omitted. See the record below._
+
+<a href="home.html">English (Luke F. Walton)</a>
+<h3>日本語</h3>
+<p>🌐 日本語 · <a href="about.html">Read this page in English →</a></p>
+<p>このページは、英語版 <a href="about.html">About（経歴）</a> に対応する日本語版で、ルーク・F・ウォルトン（Luke&nbsp;F.&nbsp;Walton）の経歴と仕事を日本語でご紹介します。日本での活動を中心にまとめています。</p>
+<p>SUPER EIGHT（関ジャニ∞）の村上信五さんの冠番組『<a href="https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E4%BF%A1%E4%BA%94%E3%81%AE%E3%81%A0%E3%82%8C%E3%81%8B%E3%81%8A%E3%82%8B%E3%82%84%E3%82%8D!">村上信五のだれおる！</a>』（NTTドコモ <a href="https://www.oricon.co.jp/news/2274973/full/">Lemino</a>）のテーマソング、TAKATSU-KING（村上信五）feat. CHAI「<a href="../songs/chai-dareka-oru-yaro.html">だれかおるやろ</a>」をプロデュースし、ミックスし、ドラム、ベース、ギターを演奏しています。</p>
+<h4>プロフィール</h4>
+<p>ルーク・F・ウォルトンは、中小企業向けのマネージドAIシステムを開発する Surmado（スルマド）の創業者兼CEOです。中核の AI エージェント「Scout（スカウト）」は、iPhone・Android アプリとして公開されています。自身の主要な音楽プロジェクト Scoobert&nbsp;Doobert（スクーバート・ドゥーバート）と、ブランドン・ウッドワードとのデュオ <a href="music/fein.html">FEiN</a> で楽曲を制作・発表し、AIにおける責任と応答責任（answerability／答責性）について書いています。サンディエゴ在住です。</p>
+<p>Amazon の Senior Marketing Manager（2024年6月–）でもあります。2018年から2024年まで NAMM のマーケティングに携わり、Associate Director の時期にはアジア太平洋、とくに日本市場を担当しました。<a href="with/jonathan-gillie.html">ジョナサン・ギリー</a>との小説『<a href="https://signatoriesnovel.com/"><em>The Signatories</em></a>』は、<a href="https://pageturnerawards.com/users/lukefwalton">2026年 Page Turner Fiction Book Award</a>のファイナリストです。現代の日本を舞台にしたフィクション『<a href="https://whengodsmeet.com/ja/"><em>When Gods Meet</em></a>』も進行中です。日本語は実務レベルで使用しています。</p>
+<h4>主な仕事（出典付き）</h4>
+<p>各クレジットには、第三者の出典（レコード会社・放送局・媒体）をリンクで併記しています。英語の出典付き一覧は <a href="press-kit.html#selected-work">press kit</a> にあります。</p>
+<h4>日本での活動（その他）</h4>
+<ul>
+<li>TAKATSU-KING（村上信五）feat. CHAI「<a href="../songs/chai-dareka-oru-yaro.html">だれかおるやろ</a>」は、SUPER EIGHT（関ジャニ∞）の村上信五さんの冠番組『<a href="https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E4%BF%A1%E4%BA%94%E3%81%AE%E3%81%A0%E3%82%8C%E3%81%8B%E3%81%8A%E3%82%8B%E3%82%84%E3%82%8D!">村上信五のだれおる！</a>』のテーマソングです。もとの『村上信五のだれかおるやろ！』は2021年10月にひかりTVで始まり、地上波の短い版は<a href="https://tk.tokai-tv.com/darekaoruyaro/">東海テレビ</a>でした。NTTドコモの配信サービス <a href="https://www.oricon.co.jp/news/2274973/full/">Lemino</a> は2023年4月12日に始まり、4月19日の再開第1回（49分）が、CHAI の楽曲提供とMV制作を追った回です。ウォルトンはプロデュース、ミックス、ドラム、ベース、ギターです。印刷されたクレジットは MANA・KANA の作詞・作曲で、その行に名前はありません。JASRAC 284-9813-5。CDや音楽配信サービスでは商用リリースされていません。番組は2024年3月27日まで続きました。</li>
+<li><a href="https://lukefwalton.com/jp/with/chai/">CHAI</a>「Miracle」のリミックス「Miracle（Scoobert&nbsp;Doobert&nbsp;Remix）」が、<a href="https://www.subpop.com/releases/chai/wink_together">Sub&nbsp;Pop 『WINK&nbsp;TOGETHER』</a>（2022年）に収録されています（<a href="../songs/miracle-scoobert-doobert-remix.html">詳細</a>）。<a href="https://amirikawamura.com/articles/ongakutusin/393684/article.html">音楽通信</a>（かわむらあみり）では、マナさんが Spotify の New Music Friday でスクーバートを見つけ、ストーリーに上げたら本人から連絡がきた、と話しています。「まるごと」のアレンジは、ロマンチックでノスタルジックなイメージを共有して一緒に仕上げた、とも話しています。</li>
+<li><a href="https://lukefwalton.com/jp/with/bed/">bed</a>「Kare Wa 3.0」は、フジテレビドラマ『ハート・アタック』のオープニング主題歌です（<a href="../songs/bed-kare-wa.html">試聴・解説</a>）。</li>
+<li><a href="https://lukefwalton.com/jp/with/okame/">OKAME</a>『DEBUT』（2026年）をミックス（<a href="../albums/okame-debut.html">アルバムページ</a>）。</li>
+<li><a href="https://lukefwalton.com/jp/with/okame/">OKAME</a>「言いわけきかせて」（2026年7月25日）をミックス。TikTokショートアニメ『きょうもカクレチカクカ・ビン』のテーマソングです（<a href="../songs/okame-iiwake-kikasete.html">試聴・解説</a>）。</li>
+<li><a href="https://lukefwalton.com/jp/with/komagome/">KOMAGOME</a>「WE CAN'T DOLL」「CHAHHAN」をプロデュース（<a href="../songs/we-cant-doll.html">試聴・解説</a>）。</li>
+<li><a href="https://lukefwalton.com/jp/with/chao/">chao!</a>は OKAME『DEBUT』のジャケットと映像を担当し、「言いわけきかせて」のMVも監督しています。ウォルトンはどちらもミックスしています。</li>
+<li>2024年10月には<strong>来日</strong>し、宮城・蔵王の蓮蔵寺で開かれた音楽フェスティバル <a href="https://xn--kck3bua2g.com/">〈ザ・オトマチ／音街〉</a>（10月14日）と、東京・下北沢のライブハウス <a href="https://www.toos.co.jp/3/">下北沢THREE</a> での LOSS × beformer のオールナイト・イベント（10月18日）に出演。</li>
+<li>CHAI の楽曲は Sony&nbsp;Music&nbsp;Japan から配信されています。Spotify&nbsp;Japan の New Music Wednesday では、CHAI「まるごと」が2022年1月12日の週に選ばれ（<a href="../songs/chai-whole.html">詳細</a>）、bed「Kare Wa 3.0」は2025年4月9日の同プレイリストで68曲目です（<a href="../songs/bed-kare-wa.html">詳細</a>）。OKAME の作品も同プレイリストで紹介されました。</li>
+<li>ブルーボトルコーヒーの日本向けブログ「<a href="https://store.bluebottlecoffee.jp/blogs/blog/music-with-coffee-vol-119-autumn-stroll">＃MUSIC WITH COFFEE VOL.119： Autumn Stroll</a>」（2024年11月15日）のプレイリストに、Scoobert&nbsp;Doobert「<a href="../songs/time-with-u.html">time with u</a>」が入っています。</li>
+<li>FM NACK5 の2022年2月4日のオンエア記録では、「<a href="../songs/im-an-idiot.html">I'm an Idiot</a>」（27:38）の直後に CHAI「まるごと」（27:43）と「ACTION (with ZAZEN BOYS)」（27:47）が続いています（<a href="https://www.nack5.co.jp/on-air-music/2022020427.html">記録</a>）。27時台は翌日未明です。</li>
+<li>USEN のカフェ向けチャンネル D-03（usen for Cafe Apres-midi）では、高橋孝治さんの2022年早秋セレクション（8月29日–10月9日）と、同年のベスト・セレクション（12月26日–1月15日）の両方に「<a href="../songs/all-my-friends-live-on-the-internet.html">All My Friends Live On The Internet</a>」が入っています（<a href="https://note.com/usen_apres_midi/n/nfe9be1d050cc">早秋</a> · <a href="https://note.com/usen_apres_midi/n/n8e94c5c8b949">ベスト</a>）。</li>
+<li>Surmado について<a href="https://www.youtube.com/watch?v=B29IBztncBA">日本語で話している動画</a>もあります。</li>
+</ul>
+<p>クレジットの詳細（英語）は <a href="press.html">Press</a> と <a href="about.html">About</a> をご覧ください。</p>
+<h4>聴く</h4>
+<p><a href="https://www.scoobertdoobert.pizza/about/jp">scoobertdoobert.pizza</a>·<a href="music.html">音楽プロフィール・配信</a>·<a href="https://www.youtube.com/@scoobertdoobertburrito">YouTube</a>·Instagram</p>
+<h4>日本語での発信</h4>
+<p>note（ノート）</p>
+<h4>もっと詳しく（英語）</h4>
+<p><a href="home.html">トップページ</a>·<a href="about.html">About（経歴）</a>·<a href="press.html">Press</a></p>
+<h4>連絡先</h4>
+<p>luke@lukefwalton.com</p>
+
+## Record
+
+### 日本語：Luke F. Walton（ルーク・F・ウォルトン）
+
+**Summary.** このページは、英語版Aboutに対応する日本語版で、ルーク・F・ウォルトン（Luke F. Walton）の経歴と仕事を日本語でご紹介します。日本での活動を中心にまとめています。ルーク・F・ウォルトンは、中小企業向けのマネージドAIシステムを開発するSurmado（スルマド）の創業者兼CEOです。
+
+Japanese-language landing page at /jp/, reachable from the header flag toggle. It is a hand-written summary of the English About page, focused on work in Japan. The opening credit is だれかおるやろ feat. CHAI, theme for Shingo Murakami of SUPER EIGHT (Kanjani Eight), performed by TAKATSU-KING (Shingo Murakami) featuring CHAI, for his series on NTT Docomo Lemino. Profile (プロフィール): Luke F. Walton is the founder and CEO of Surmado (スルマド), which builds managed AI systems for small businesses. Surmado's core AI agent, Scout (スカウト), is published as an iPhone and Android app. He makes music with his primary music project Scoobert Doobert (スクーバート・ドゥーバート) and the duo FEiN, and writes about AI authorship and answerability (answerability／答責性). He is based in San Diego. He is also Senior Marketing Manager at Amazon (June 2024–present). From 2018 to 2024 he worked at NAMM; as Associate Director of Marketing the international work emphasized Japan and Asia Pacific. The Signatories, a novel with Jonathan Gillie (ジョナサン・ギリー), is a 2026 Page Turner Fiction Book Award finalist. When Gods Meet is a fiction project in progress set in contemporary Japan. He uses Japanese at a professional working level. Work in Japan (日本での仕事／日本での活動): CHAI's "Miracle (Scoobert Doobert Remix)" appears on Sub Pop's WINK TOGETHER (2022). In Amiri Kawamura's 音楽通信 interview, MANA says she found Scoobert on Spotify New Music Friday, posted the song to her Instagram story, and he wrote back. She asked him to arrange まるごと with a romantic, nostalgic brief. She does not name the playlist song. He produced, mixed, and played drums, bass, and guitar on だれかおるやろ feat. CHAI, the theme for Shingo Murakami's NTT Docomo / Lemino original 村上信五のだれおる！, performed by TAKATSU-KING (Shingo Murakami) featuring CHAI. The April 19, 2023 premiere, 49 minutes, followed the song and its video. The show credit names MANA and KANA, and does not print him. JASRAC 284-9813-5. Never commercially released on CD or music streaming services. Song page /songs/chai-dareka-oru-yaro/. Do not publish the Sony working title. In October 2024 he traveled to Japan (来日) and performed live: at The Otomachi Festival (音街) in Zao, Miyagi, at Renzoji temple (蓮蔵寺), on October 14; and at the LOSS × Beformer all-night event at Shimokitazawa THREE in Tokyo, on October 18. Blue Bottle Coffee Japan published 「＃MUSIC WITH COFFEE VOL.119： Autumn Stroll」 on November 15, 2024. The playlist on that post includes Scoobert Doobert, "time with u." FM NACK5's February 4, 2022 on-air log plays I'm an Idiot at 27:38, then CHAI's まるごと at 27:43 and ACTION (with ZAZEN BOYS) at 27:47. In that station's clock, 27:38 is 3:38 a.m. the next morning. USEN channel D-03 (usen for Cafe Apres-midi): Koji Takahashi included All My Friends Live On The Internet in the Early Autumn Selection (August 29–October 9, 2022) and again in the 2022 Best Selection (December 26, 2022–January 15, 2023). His music is distributed through Sony Music Japan and Spotify Japan. A Japanese-language video about Surmado exists on YouTube. Japanese-language writing appears on his note.com page. The page links back to /, /about/, /press/, and /music/, and to a Japanese-language Scoobert Doobert about page on scoobertdoobert.pizza. Japanese collaborator breadcrumbs live at /jp/with/chai/ (CHAI), /jp/with/bed/ (bed), /jp/with/okame/ (OKAME), /jp/with/komagome/ (KOMAGOME), and /jp/with/chao/ (chao!). The English dossiers remain under /with/.
+
+- Themes: Japan
+- Record id: page:jp
+
+Archived from https://lukefwalton.com/jp/. Canonical: https://lukefwalton.com/jp/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.
