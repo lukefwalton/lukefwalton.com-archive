@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/underwater.jpg"
 imageAlt: "Cover for Underwater. A danger sign about unstable cliffs."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -83,7 +83,7 @@ lyrics: |
 draft: false
 ---
 
-Track seven on [*MÖB*](/albums/mob/), the emotional low point before the record turns to mania, bowling, and [*All I Need*](/songs/all-i-need/). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) called it heavy and unusually chart-capable.
+Track seven on [*MÖB*](/albums/mob/), the emotional low point before the record turns to mania, bowling, and [*All I Need*](/songs/all-i-need/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) called it heavy and unusually chart-capable.
 
 The damage is reported from the inside. *I don't wanna talk anymore* because talking *brings you down*; the best image is effort without arrival, a *stationary bike* and the dread it might be the rest of your life. From there it slides into the chorus, *bluff failure*, *never shoulda pretended to be stable*, *I'm meant to be underwater*, repeated until it sounds like fact and plea at once.
 

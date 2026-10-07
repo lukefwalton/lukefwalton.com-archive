@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/gemini.jpg"
 imageAlt: "Cover for Gemini. An alarm clock reading 3:00."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -95,7 +95,7 @@ lyrics: |
 draft: false
 ---
 
-Track nine on [*MÖB*](/albums/mob/), the duality song. A 3 a.m. wake-up arrives tired and suddenly euphoric, and the chorus names the swing before the title does: *up and down*, stacked until it's the melody. The up-verse is an invitation to burn bright (dance with me, *too boring to be stable*, act like fools for eternity), and the bargain is explicit: *never gonna feel bad / always gonna feel good / let's lie to ourselves*. The punchline waits in parentheses: *the night will never end (Gemini) until it ends*.
+Track nine on [*MÖB*](/albums/mob/), the duality song. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. A 3 a.m. wake-up arrives tired and suddenly euphoric, and the chorus names the swing before the title does: *up and down*, stacked until it's the melody. The up-verse is an invitation to burn bright (dance with me, *too boring to be stable*, act like fools for eternity), and the bargain is explicit: *never gonna feel bad / always gonna feel good / let's lie to ourselves*. The punchline waits in parentheses: *the night will never end (Gemini) until it ends*.
 
 Wanting to outrun the sun (*maybe I could move to Alaska*) only loops back to 3 a.m. and euphoric again. On an album shadowed by Guillain-Barré and body instability, *Gemini* isn't just astrology; it's highs that demand a dance partner and lows that know the morning is coming. Sits between [*fuck it let's go bowling*](/songs/fuck-it-lets-go-bowling/) and [*All I Need*](/songs/all-i-need/). A Spotify for Artists email on **September 23, 2023** (12:06 p.m.) added it to **Bedroom Pop** (1,095,078 followers).
 

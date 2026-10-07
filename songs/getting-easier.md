@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/getting-easier.jpg"
 imageAlt: "Cover for Getting Easier. A pine with one side burning, on a blue field."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -74,7 +74,7 @@ lyrics: |
 draft: false
 ---
 
-Track ten on [*MÖB*](/albums/mob/), penultimate before [*All I Need*](/songs/all-i-need/). Luke's note: **trying to conceive of being a father**. He does not have kids yet, so the song is rehearsal, not report.
+Track ten on [*MÖB*](/albums/mob/), penultimate before [*All I Need*](/songs/all-i-need/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Luke's note: **trying to conceive of being a father**. He does not have kids yet, so the song is rehearsal, not report.
 
 **[Vinyl Moon Vol. 100: *Century*](https://vinylmoon.co/products/vol-100)** (VM Club **Dec 2023**, 2× LP milestone release): **B1**, opening side B ([Discogs](https://www.discogs.com/master/3361636-Various-Vinyl-Moon-Volume-100-Century) · [Spotify](https://open.spotify.com/album/7eRBlvq93T9EXDqaUPkFxu) · [AR experience](https://ar.vinylmoon.co/vm100/)). A January 20, 2024 photo of the vinyl (Richmond, Virginia) shows the same slot: side B, track 1, “Getting Easier.” Vol. 066 carried [*Take a Breath*](/songs/take-a-breath/) earlier ([Vinyl Moon](/catalog/#vinyl-moon)). [Fleet FM](https://www.ivoox.com/en/jimmy-19-august-2023-audios-mp3_rf_114561023_1.html)'s Jimmy show on August 19, 2023 lists the song in the published track list. The episode was uploaded August 20. [Nagamag](https://www.nagamag.com/the-latest/scoobert-doobert-getting-easier) (July 23, 2023) heard a groovy beat and a funky bass line.
 

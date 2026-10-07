@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/feels-so-good.jpg"
 imageAlt: "Cover for Feels So Good. Two people at a beach fire, one with a ukulele."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -119,7 +119,7 @@ lyrics: |
 draft: false
 ---
 
-Track two on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single **January 13, 2023** ahead of the LP (May 19, 2023). Luke's note on Apple: written thinking about best friends on [Moonlight State Beach](https://www.parks.ca.gov/?page_id=659), beer in hand. A platonic love song for the homies.
+Track two on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single **January 13, 2023** ahead of the LP (May 19, 2023). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Luke's note on Apple: written thinking about best friends on [Moonlight State Beach](https://www.parks.ca.gov/?page_id=659), beer in hand. A platonic love song for the homies.
 
 The song stacks Encinitas joy until it tips into suspicion. Pizza cheese pull (*am I in a commercial?*), bonfire at your favorite break, buddy Jon house-sitting on Neptune in some rich guy's infinity pool. When hometown joy hits this hard, you start to wonder if you're in an ad. On *Moonlight Beach*, the answer is yes, and it's real anyway.
 

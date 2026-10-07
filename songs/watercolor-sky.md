@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics, on the I album pane. The standalone single pane does not list graphic design. The I liner notes also list Lou Roy on background vocals for this track; neither pane does."
 image: "/photos/covers/watercolor-sky.jpg"
 imageAlt: "Cover for watercolor sky. A cloud outline on a blue field."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -76,7 +76,7 @@ lyrics: |
 draft: false
 ---
 
-Track six on [*I*](/albums/i/), released ahead of the LP as a single. It opens as movement mindfulness: it's *hard to look up when you're crossing a river*, all your attention on rock-to-rock and the water in your sock, until the instruction lands (*take time to stop and look on up*). The reward is the chorus, nature as prescription after [*the cycle*](/songs/the-cycle/)'s harm loops: *under a pink and purple sky / I never worry*.
+Track six on [*I*](/albums/i/), released ahead of the LP as a single. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The *I* liner notes also put **Lou Roy** on background vocals here; this pane does not. It opens as movement mindfulness: it's *hard to look up when you're crossing a river*, all your attention on rock-to-rock and the water in your sock, until the instruction lands (*take time to stop and look on up*). The reward is the chorus, nature as prescription after [*the cycle*](/songs/the-cycle/)'s harm loops: *under a pink and purple sky / I never worry*.
 
 What keeps it from toxic positivity is that the beauty stays honest. The garden breeze is *the only hope I'm finding*, the sun is beating down, and the mosquitos get a verse of dark comedy: *surely you could swallow me whole in time*. Outside anyway. The *I* album's **look up** song.
 

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/ocean-view.jpg"
 imageAlt: "Cover for Ocean View. A blue cliff house at night, with a meteor over the beach."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -77,7 +77,7 @@ lyrics: |
 draft: false
 ---
 
-Track four on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single ahead of the LP. [EARMILK](https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/) heard laidback summer guitar, bass grooves, and calm ocean-facing pop.
+Track four on [*Moonlight Beach*](/albums/moonlight-beach/), released as a standalone single ahead of the LP. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. [EARMILK](https://earmilk.com/2023/02/09/scoobert-doobert-basks-in-the-serenity-of-life-on-ocean-view/) heard laidback summer guitar, bass grooves, and calm ocean-facing pop.
 
 A deserted-island domestic fantasy that keeps shrinking the world to fit two people. The island is *not very big*, so *every day we go in circles*, which is the whole ambition rather than a complaint.
 

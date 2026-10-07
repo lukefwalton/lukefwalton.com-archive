@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 
 apple: "https://music.apple.com/us/album/omw/1734387671?i=1734387739"
 spotify: "https://open.spotify.com/album/2O9X06yNiwLSJbL8MLGC49"
@@ -72,7 +72,7 @@ draft: false
 
 ---
 
-Track eight on [*I*](/albums/i/), the **lead single** ahead of the LP. [EARMILK](https://earmilk.com/2024/06/25/scoobert-doobert-is-omw-to-his-love/) heard anticipation after a long time apart: warm nostalgic pads, guitar plucks in the bridge, laid-back vocal runs, paired with an AI visual of a dog on his way to meet his favorite cat.
+Track eight on [*I*](/albums/i/), the **lead single** ahead of the LP. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. [EARMILK](https://earmilk.com/2024/06/25/scoobert-doobert-is-omw-to-his-love/) heard anticipation after a long time apart: warm nostalgic pads, guitar plucks in the bridge, laid-back vocal runs, paired with an AI visual of a dog on his way to meet his favorite cat.
 
 The hook is domestic and specific: *do you want me to stop by Trader Joe's? / a frozen dinner for two*. Not a grand romantic gesture, a grocery run on the drive home. The whole song is the text-speak title, the stretch between departure and arrival, and the bridge echoes [*time with u*](/songs/time-with-u/): you could travel all the world, but *nothing like being on my way* back.
 

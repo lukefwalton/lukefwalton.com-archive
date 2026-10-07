@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics, on the I album pane. The standalone single pane does not list graphic design."
 image: "/photos/covers/daydreaming.jpg"
 imageAlt: "Cover for daydreaming. A keychain and a tag reading San Diego."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -95,7 +95,7 @@ lyrics: |
 draft: false
 ---
 
-Track one on [*I*](/albums/i/), the LP's front door, released ahead of the album as a single. *I* is the second Möbius LP, after [*MÖB*](/albums/mob/).
+Track one on [*I*](/albums/i/), the LP's front door, released ahead of the album as a single. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The *I* album pane lists Grizzard Graphics on graphic design. The standalone single pane does not. *I* is the second Möbius LP, after [*MÖB*](/albums/mob/).
 
 The classroom window is the old escape fantasy updated for California: drive down the coast, *a permanent vacation*. Not a plan yet, a daydream with infrastructure. What keeps it from being a postcard is that it's shared. *Wish you were here* names the distance, *but it's closer than you know* collapses it, and the album that follows is mostly how that invitation gets lived.
 

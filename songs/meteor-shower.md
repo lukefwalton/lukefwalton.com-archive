@@ -1,7 +1,7 @@
 ---
 title: "Meteor Shower"
 
-meaning: "Cowrite with Jamie Drake: meteor or firefly, wishes always spent on you: leopard sharks underneath, worthy of happiness if you believe it."
+meaning: "Featuring Jamie Drake: meteor or firefly, wishes always spent on you: leopard sharks underneath, worthy of happiness if you believe it."
 
 year: 2023
 release: "Moonlight Beach"
@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written by Luke Francis Walton and Jamie Drake. Performed by Scoobert Doobert featuring Jamie Drake. Mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Singing and vocals, Jamie Drake. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/meteor-shower.jpg"
 imageAlt: "Cover for Meteor Shower. A dark sky of colored stars and white meteors."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -70,7 +70,7 @@ lyrics: |
 draft: false
 ---
 
-Track seven on [*Moonlight Beach*](/albums/moonlight-beach/), **cowritten with [Jamie Drake](/with/jamie-drake/)** (feat. on the LP). A Spotify for Artists email on **May 6, 2023** (1:21 p.m.) added it to **Chill Vibes** (2,428,400 followers). Another email on **September 30, 2023** (9:40 a.m.) added it again (2,461,650 followers). Drake's debut *Everything's Fine* landed NPR, PopMatters, and Flood praise. See also Walton's [**New Girl** remix](/songs/new-girl-scoobert-doobert-remix/) for Drake.
+Track seven on [*Moonlight Beach*](/albums/moonlight-beach/), **featuring [Jamie Drake](/with/jamie-drake/)**. Luke Francis Walton wrote it. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Jamie Drake** sings on it. **Riley Knapp** mastered it. A Spotify for Artists email on **May 6, 2023** (1:21 p.m.) added it to **Chill Vibes** (2,428,400 followers). Another email on **September 30, 2023** (9:40 a.m.) added it again (2,461,650 followers). Drake's debut *Everything's Fine* landed NPR, PopMatters, and Flood praise. See also Walton's [**New Girl** remix](/songs/new-girl-scoobert-doobert-remix/) for Drake.
 
 A night at the shore counted out in small creatures: meteor or firefly, leopard sharks under the paddleboard, a ladybug on the wrist. Every wish goes the same place: *I spend it on you every time*. The bridge says it plain, *you're worthy of finding happiness*, with the catch that you have to believe it first, and the last line turns devotion into a small con: *I wish for many more wishes / so that you'll stick around for them.*
 

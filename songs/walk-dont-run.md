@@ -19,11 +19,12 @@ themes: ["The beach", "San Diego", "cover", "The Ventures", "Moonlight Beach", "
 
 isrc: QZES62358095
 isrcSource: soundexchange
+credits: "DistroKid credit pane: Music, Johnny Smith. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp."
 draft: false
 
 ---
 
-Opener on [*Moonlight Beach*](/albums/moonlight-beach/), Scoobert’s cover of **The Ventures’** 1960 surf-guitar standard **“Walk Don't Run.”** The LP essay frames the record as a place-record: named Encinitas geography, covers, guests, and songs built to play outside. Starting with a Ventures pass signals beach-guitar lineage before the originals (*Feels So Good*, *Ocean View*, etc.).
+Opener on [*Moonlight Beach*](/albums/moonlight-beach/), Scoobert’s cover of **The Ventures’** 1960 surf-guitar standard **“Walk Don't Run.”** The DistroKid credit pane lists the music as **Johnny Smith**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The LP essay frames the record as a place-record: named Encinitas geography, covers, guests, and songs built to play outside. Starting with a Ventures pass signals beach-guitar lineage before the originals (*Feels So Good*, *Ocean View*, etc.).
 
 Public radio logs show [FIP](https://en.wikipedia.org/wiki/FIP_(radio_station)) plays for this cover alongside *Dancing in the Moonlight (Beach)*: part of the French/German radio traction around the *Moonlight Beach* era.
 

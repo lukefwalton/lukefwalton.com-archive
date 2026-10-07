@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Background vocals, Lou Roy. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/see-you-again.jpg"
 imageAlt: "Cover for see you again? A line drawing of a sign with Japanese writing."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -79,7 +79,7 @@ lyrics: |
 draft: false
 ---
 
-Track eleven on [*I*](/albums/i/). Luke's note: **for many friends he has lost on the journey of life**. Not one breakup song, not a plot twist, but a song for people who drifted, died, moved away, or became unreachable while you were still becoming.
+Track eleven on [*I*](/albums/i/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Lou Roy** is on background vocals. **Riley Knapp** mastered it. Luke's note: **for many friends he has lost on the journey of life**. Not one breakup song, not a plot twist, but a song for people who drifted, died, moved away, or became unreachable while you were still becoming.
 
 The regret comes without drama (*shoulda savored*, *never in another world*) and the wish is plain. The question mark in the title matters. Around it run two images of memory out of sync with place: a talisman carried into a bonfire on a Kyoto hill, *not sure if I did it right*, and a dorm room repainted, the dents you made covered over. The bridge refuses a clean answer, cycling *maybe I will / I hope I will / I never will* until hope and impossibility sit in the same mouth.
 

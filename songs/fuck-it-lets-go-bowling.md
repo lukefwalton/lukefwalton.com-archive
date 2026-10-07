@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/fuck-it-lets-go-bowling.jpg"
 imageAlt: "Cover for fuck it let's go bowling. A white bowling pin."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -101,7 +101,7 @@ lyrics: |
 draft: false
 ---
 
-Track eight on [*MÖB*](/albums/mob/), the manic permission-slip song. It opens in Saturday insomnia (leg bouncing, floor shaking, *never calm down*) and names the politics underneath: *freedom wanting liberty*, *no assembly line*, *taking back my time*. Then the coping vocabulary collapses to one word. Go to the beach, smoke weed, the boss keeps calling, go to the movies, eat another gummy, and *when it gets too heavy* just say *fuck it*.
+Track eight on [*MÖB*](/albums/mob/), the manic permission-slip song. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. It opens in Saturday insomnia (leg bouncing, floor shaking, *never calm down*) and names the politics underneath: *freedom wanting liberty*, *no assembly line*, *taking back my time*. Then the coping vocabulary collapses to one word. Go to the beach, smoke weed, the boss keeps calling, go to the movies, eat another gummy, and *when it gets too heavy* just say *fuck it*.
 
 The hook is dumb on purpose: not the beach, not the movie, **bowling**, four times over. The most mundane rebellion wins, and the coda admits what's actually driving it: *I wanna quit my fucking job so badly*. [*All I Need*](/songs/all-i-need/) closes the album with enough; this track is what enough sounds like when you're still vibrating.
 

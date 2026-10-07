@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/stories.jpg"
 imageAlt: "Cover for Stories. A yellow diary labeled my little internet diary."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -96,7 +96,7 @@ lyrics: |
 draft: false
 ---
 
-Track one on [*MÖB*](/albums/mob/), released as a standalone single ahead of the album. A Spotify for Artists email on **June 17, 2023** (1:22 p.m.) added it to **Feel-Good Indie Rock** (1,944,041 followers). The same playlist added it again on **December 2, 2023** (9:12 a.m., 1,995,455 followers). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) read it as a song about the stories people tell themselves, which is exactly the trick: a happy song that smiles while *never letting on how much I worry*.
+Track one on [*MÖB*](/albums/mob/), released as a standalone single ahead of the album. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. A Spotify for Artists email on **June 17, 2023** (1:22 p.m.) added it to **Feel-Good Indie Rock** (1,944,041 followers). The same playlist added it again on **December 2, 2023** (9:12 a.m., 1,995,455 followers). [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) read it as a song about the stories people tell themselves, which is exactly the trick: a happy song that smiles while *never letting on how much I worry*.
 
 The chorus: *it's the end of the world in my head*, so *won't you get out of my head?* Browsing history doubles as a diary, big data and Siri can't help, and confession plays as comedy (*I don't catastrophize, that information's classified*). The final verse widens to elections, family fracture, and heat, then lands right back inside the skull. The Möbius cycle begins here, with looped dread you can dance to.
 

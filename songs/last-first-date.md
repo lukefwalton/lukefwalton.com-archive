@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/last-first-date.jpg"
 imageAlt: "Cover for Last First Date. Inflated pink letters for the title on green."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -112,7 +112,7 @@ lyrics: |
 draft: false
 ---
 
-Non-album standalone single (**June 28, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. Luke's note: **written about the day he met his wife.** On **October 5, 2026**, Spotify showed **16,060** plays, **3:07**. The count moves.
+Non-album standalone single (**June 28, 2024** · Beformer), not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Luke's note: **written about the day he met his wife.** On **October 5, 2026**, Spotify showed **16,060** plays, **3:07**. The count moves.
 
 It's all first-date physics, a *sheeply* wave, *gotta be confident* on loop, small talk through family and pet peeves until *finally you laugh*. Then the beach: a sand walk, a bioluminescent glow, nervousness shaking off *like leaves in the winter*, later *like sakura in summer*. The detail that dates it perfectly is the *high heart rate Apple Watch alert* right before the kiss.
 

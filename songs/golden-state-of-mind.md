@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Bass clarinet, Nicole McCabe. Background vocals, Lou Roy. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/golden-state-of-mind.jpg"
 imageAlt: "Cover for golden state of mind. A line drawing of a quail."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -61,7 +61,7 @@ lyrics: |
 draft: false
 ---
 
-Track thirteen, the [*I*](/albums/i/) closer. Coronado, Catalina, Sierra: a coast-to-mountain slice of the state, mapped in drift mode rather than hustle. The line that gives it more than postcard is *talking by the fire about fate*, the LP's only verse where the *u* and the *I* sit still long enough to argue cosmology. Everything else is the album exhaling.
+Track thirteen, the [*I*](/albums/i/) closer. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Bass** is **Bubby Lewis**. **Nicole McCabe** is on bass clarinet. **Lou Roy** is on background vocals. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. Coronado, Catalina, Sierra: a coast-to-mountain slice of the state, mapped in drift mode rather than hustle. The line that gives it more than postcard is *talking by the fire about fate*, the LP's only verse where the *u* and the *I* sit still long enough to argue cosmology. Everything else is the album exhaling.
 
 The second turn of the Möbius cycle ends on ease, before [*US*](/albums/us/) begins its chapter EPs in progress. A Spotify for Artists email on **April 20, 2024** (10:38 a.m.) added it to **All New Indie** (1,270,398 followers).
 

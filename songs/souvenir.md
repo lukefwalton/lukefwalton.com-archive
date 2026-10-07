@@ -21,11 +21,12 @@ themes: ["cover", "Bump of Chicken", "Japan", "2023"]
 
 isrc: QZDA52304379
 isrcSource: soundexchange
+credits: "DistroKid credit pane: Music and lyrics, 基央 藤原. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 draft: false
 
 ---
 
-Standalone cover of **Bump of Chicken’s** **“Souvenir.”** On **October 5, 2026**, Spotify showed **1,282** plays, **4:11**. The count moves. Cover art by Grizzard Graphics. One of Scoobert's Japanese covers, with [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/): J-rock and J-pop repertoire released as standalone singles.
+Standalone cover of **Bump of Chicken’s** **“Souvenir.”** The DistroKid credit pane lists **music and lyrics** as **基央 藤原**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. On **October 5, 2026**, Spotify showed **1,282** plays, **4:11**. The count moves. Cover art by Grizzard Graphics. One of Scoobert's Japanese covers, with [*ホログラム*](/songs/hologram/) and [*PLACEBO + 野田洋次郎*](/songs/placebo/): J-rock and J-pop repertoire released as standalone singles.
 
 Original lyrics by Bump of Chicken. No lyrics published here.
 

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/too-hot.jpg"
 imageAlt: "Cover for TOO HOT. A smoothie with a banana and a straw."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -93,7 +93,7 @@ lyrics: |
 draft: false
 ---
 
-Track six on [*MÖB*](/albums/mob/), body-weather comedy after [*Sunlight*](/songs/sunlight/) chose the sun and before [*Underwater*](/songs/underwater/) goes heavy. The hook is the whole weather report: *too hot outside*, stacked until it's ambient fact.
+Track six on [*MÖB*](/albums/mob/), body-weather comedy after [*Sunlight*](/songs/sunlight/) chose the sun and before [*Underwater*](/songs/underwater/) goes heavy. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The hook is the whole weather report: *too hot outside*, stacked until it's ambient fact.
 
 Underneath are survival bits with a money problem inside them. Break into a hotel pool, get *caught in 4K*, set an ice bucket by the fan *but they melting*, and ask *can I afford to see a movie?* (No.) The same verse comes back twice because the day doesn't change: arm out the window, *molten-leather car seat*, broken AC, *oh lucky me*.
 

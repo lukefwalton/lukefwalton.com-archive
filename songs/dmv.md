@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 
 apple: "https://music.apple.com/us/album/department-of-motor-vehicles-dmv/1708670332?i=1708670336"
 spotify: "https://open.spotify.com/album/7kAZdCuQ89YJHbJQI0xeOB"
@@ -88,7 +88,7 @@ draft: false
 
 ---
 
-Track four on [*MÖB*](/albums/mob/), bureaucratic purgatory reframed as the best party in town. The premise is pure people-watching comedy: the richest man alive lost his license and is sitting next to you, the world's smelliest child is puking in the doorway, and you *can't look away*. What sells it is the lack of ironic distance. The chorus fully commits (*never seen a party like the DMV*) and the bit pays off in the PA break delivered completely straight: *Attention all DMV patrons, it is now time to party.*
+Track four on [*MÖB*](/albums/mob/), bureaucratic purgatory reframed as the best party in town. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The premise is pure people-watching comedy: the richest man alive lost his license and is sitting next to you, the world's smelliest child is puking in the doorway, and you *can't look away*. What sells it is the lack of ironic distance. The chorus fully commits (*never seen a party like the DMV*) and the bit pays off in the PA break delivered completely straight: *Attention all DMV patrons, it is now time to party.*
 
 It's the same instinct as [*Feels So Good*](/songs/feels-so-good/) (*am I in a commercial?*), finding the silly buoyant observation inside a heavy album. Between [*Sunlight*](/songs/sunlight/) and [*Aliens*](/songs/aliens/), it's the record taking a social-satire breath.
 

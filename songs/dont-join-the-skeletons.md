@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Drawn by Luke Francis Walton."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Drawn by Luke Francis Walton; this pane does not list graphic design."
 image: "/photos/covers/dont-join-the-skeletons.jpg"
 imageAlt: "Cover for don't join the skeletons! A hand-drawn skeleton holding a yellow flower."
 imageCredit: "Drawn by Luke Francis Walton."
@@ -74,7 +74,7 @@ draft: false
 
 ---
 
-Standalone single only (**October 29, 2024** · Beformer · listed as Holiday on Apple Music), a Halloween song whose joke is how un-spooky it is. On **October 5, 2026**, Spotify showed **19,254** plays, **3:09**. The count moves. Not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist.
+Standalone single only (**October 29, 2024** · Beformer · listed as Holiday on Apple Music), a Halloween song whose joke is how un-spooky it is. On **October 5, 2026**, Spotify showed **19,254** plays, **3:09**. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Not on [*I*](/albums/i/), [*US*](/albums/us/), or any LP tracklist.
 
 The hook is repetition as vow, *I don't ever wanna leave you alone* stacked until it's a mantra. The verses are self-improvement in miniature, broaden the shoulders, cut down on sugar, build a shelter that can *weather any type of storm*. Care for you starts as care for me.
 

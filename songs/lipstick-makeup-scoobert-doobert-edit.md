@@ -31,11 +31,12 @@ press:
 
 isrc: QZTBB2416130
 isrcSource: soundexchange
+credits: "DistroKid credit pane: Music and lyrics, Henry Fagenson, Henry Solomon, Logan Kane, Lucas Tamaren, and Paul Cornish. Producer, mixing engineer, recording engineer, drums, bass, guitar, and synthesizer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. This pane does not list singing. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 draft: false
 
 ---
 
-**Scoobert Doobert Edit** of **Thumpasaurus’** **“Lipstick Makeup”**: **September 27, 2024** (Beformer; ~2:00 edit). On **October 5, 2026**, Spotify showed **22,561** plays, **2:46**. The count moves. Luke Francis Walton reshapes the LA indie pop-funk band’s 2023 single: Thumpasaurus framed the original as saying “fuck it” and letting your freak out at the dance party ([CelebMix](https://celebmix.com/thumpasaurus-unveils-new-single-music-video-lipstick-makeup/)); the edit tightens that energy for streaming.
+**Scoobert Doobert Edit** of **Thumpasaurus’** **“Lipstick Makeup”**: **September 27, 2024** (Beformer; ~2:00 edit). The DistroKid credit pane lists **music and lyrics** as **Henry Fagenson**, **Henry Solomon**, **Logan Kane**, **Lucas Tamaren**, and **Paul Cornish**. Producer, mixing, recording, drums, bass, guitar, and synthesizer are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The pane does not list singing. On **October 5, 2026**, Spotify showed **22,561** plays, **2:46**. The count moves. Luke Francis Walton reshapes the LA indie pop-funk band’s 2023 single: Thumpasaurus framed the original as saying “fuck it” and letting your freak out at the dance party ([CelebMix](https://celebmix.com/thumpasaurus-unveils-new-single-music-video-lipstick-makeup/)); the edit tightens that energy for streaming.
 
 Remix/edit credit, not a Scoobert original. Thumpasaurus are an LA pop-funk band who, like Luke, went to USC. Original appeared on Thumpasaurus’ *Hard* era (**March 2023**).
 

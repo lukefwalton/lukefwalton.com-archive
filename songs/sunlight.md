@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, produced, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/sunlight.jpg"
 imageAlt: "Cover for Sunlight. A red, white, and blue popsicle."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -76,7 +76,7 @@ lyrics: |
 draft: false
 ---
 
-Track three on [*MÖB*](/albums/mob/), the turn toward warmth after [*Stories*](/songs/stories/)' head-loop. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) singled it out for bouncy funk energy, which fits its job: the album trying an answer to its own anxiety. The verses are a summer inventory (popsicle picnic, mango with Tajín, margarita number two) and the chorus is a prescription repeated until it sticks: *imma be in the sunlight*, throw a beer back, *savor it*.
+Track three on [*MÖB*](/albums/mob/), the turn toward warmth after [*Stories*](/songs/stories/)' head-loop. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. [Ear to the Ground Music](https://www.eartothegroundmusic.co/2023/10/20/album-review-digging-into-the-soulful-stylings-of-scoobert-dooberts-new-mob/) singled it out for bouncy funk energy, which fits its job: the album trying an answer to its own anxiety. The verses are a summer inventory (popsicle picnic, mango with Tajín, margarita number two) and the chorus is a prescription repeated until it sticks: *imma be in the sunlight*, throw a beer back, *savor it*.
 
 The line that carries it is *nobody needs me*. That's the freedom move: permission to exist without being on call, not martyrdom. On an LP shadowed by illness and dread, *Sunlight* is the choice to step into the light anyway. It pairs with [*Tired of the Sunshine*](/songs/tired-of-the-sunshine/) on [*Moonlight Beach*](/albums/moonlight-beach/) as the push-pull on California brightness. Here the vote is for the sun.
 

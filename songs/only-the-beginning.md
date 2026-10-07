@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Background vocals, Lou Roy. Bass clarinet, Nicole McCabe. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/only-the-beginning.jpg"
 imageAlt: "Cover for only the beginning. A line drawing of shrimp nigiri."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -76,7 +76,7 @@ lyrics: |
 draft: false
 ---
 
-Track ten on [*I*](/albums/i/), Japan and California in one promise song. It opens on a Tokyo morning, the Toyosu Fish Market sushi line and the Rainbow Bridge, *pretend like this where I've always lived*: the Japan that [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) (2023) wished for, on an LP partly recorded on the Shinkansen. It closes at home, a San Diego sunset and a green flash that *matches your iris*, [*Moonlight Beach*](/albums/moonlight-beach/) by name without naming it.
+Track ten on [*I*](/albums/i/), Japan and California in one promise song. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Lou Roy** is on background vocals. **Nicole McCabe** is on bass clarinet. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. It opens on a Tokyo morning, the Toyosu Fish Market sushi line and the Rainbow Bridge, *pretend like this where I've always lived*: the Japan that [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) (2023) wished for, on an LP partly recorded on the Shinkansen. It closes at home, a San Diego sunset and a green flash that *matches your iris*, [*Moonlight Beach*](/albums/moonlight-beach/) by name without naming it.
 
 The chorus is future tense without a guarantee: *stick around*, *a little house, a little happy family*. It echoes the plant-parent rehearsal of [*Getting Easier*](/songs/getting-easier/) on [*MÖB*](/albums/mob/), but here it's invitation, not anxiety. On an album about motion, this is the pause that says the life you're building isn't finished, and that's the good news.
 

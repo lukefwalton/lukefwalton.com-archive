@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Background vocals, Lou Roy. Bass clarinet, Nicole McCabe. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/ez-pz.jpg"
 imageAlt: "Cover for ez pz. A line drawing of a necktie."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -73,7 +73,7 @@ lyrics: |
 draft: false
 ---
 
-Track four on [*I*](/albums/i/), the lazy song that isn't actually lazy about feelings. Call in sick, stay under covers, zero shame about it. The chorus reframes sloth as sovereignty: *you can fire me, but honestly / you can't control my weather*. Rest as something nobody else gets to schedule.
+Track four on [*I*](/albums/i/), the lazy song that isn't actually lazy about feelings. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Lou Roy** is on background vocals. **Nicole McCabe** is on bass clarinet. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. Call in sick, stay under covers, zero shame about it. The chorus reframes sloth as sovereignty: *you can fire me, but honestly / you can't control my weather*. Rest as something nobody else gets to schedule.
 
 Then the crack: *being lazy can be lonely*. The title only lands in the outro, after the song admits ease still wants company (*won't you come over? I'm easy company*). On an album full of *u*, this is the track that says rest is allowed, and so is asking someone to share it.
 

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Album art by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Album art by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/gonna-go-to-japan.jpg"
 imageAlt: "Cover for Gonna Go to Japan. An island shaped like Japan on blue water."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -112,7 +112,7 @@ press:
     desc: "Catalog record: GONNA GO TO JAPAN · Scoobert Doobert · title ID #38775 · 03:05. Broadcast date unconfirmed from the accessible search result."
 ---
 
-Track eight on [*Moonlight Beach*](/albums/moonlight-beach/): the Japan song on a California place-record. [*KŌAN*](/albums/koan/) came first (Japanese lyrics, Zen paradox, spatial sound); this one keeps the longing alive while Encinitas is still home base.
+Track eight on [*Moonlight Beach*](/albums/moonlight-beach/): the Japan song on a California place-record. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. [*KŌAN*](/albums/koan/) came first (Japanese lyrics, Zen paradox, spatial sound); this one keeps the longing alive while Encinitas is still home base.
 
 It's a whole trip taken entirely in the imagination: pre-flight jitters that lose to butterflies, a maximalist tourist itinerary of Shinkansen and 7-Eleven ramen, capybara onsen, a Miyazaki mountain hike, beer in the Sapporo snow. The chorus stacks *gonna go to Japan* until belief almost feels like booking. Then the brake: after the Japanese builds (*日本に行きたい*, I want to go to Japan), the last line lands, *けど今できない*, **but I can't right now**. The whole song is future tense, and that's the honest crack in it.
 

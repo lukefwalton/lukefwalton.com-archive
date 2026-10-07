@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/singing-for-u.jpg"
 imageAlt: "Cover for singing for u. A line drawing of a microphone."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -72,7 +72,7 @@ lyrics: |
 draft: false
 ---
 
-Track five on [*I*](/albums/i/), out ahead of the LP as a single. On a record where *I* is a moving coordinate around someone else, this is the vow: a working musician's *all of my life been waiting on you*, where even the dream of muses gets replaced. The job description rewrites itself, from singing **about** u to singing **for** u.
+Track five on [*I*](/albums/i/), out ahead of the LP as a single. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Bass** is **Bubby Lewis**. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. On a record where *I* is a moving coordinate around someone else, this is the vow: a working musician's *all of my life been waiting on you*, where even the dream of muses gets replaced. The job description rewrites itself, from singing **about** u to singing **for** u.
 
 Not the grief of [*see you again?*](/songs/see-you-again/), not the distance of [*chasing the sunset*](/songs/chasing-the-sunset/). This is the present-tense yes.
 

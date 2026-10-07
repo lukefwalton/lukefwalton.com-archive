@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
 image: "/photos/covers/lol.jpg"
 imageAlt: "Cover for LOL. A pair of worn high-top sneakers on a blue field in a green frame. Scoobert Doobert across the top, LOL across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -116,7 +116,7 @@ draft: false
 
 ---
 
-Fifth chapter of [*US*](/albums/us/), social dread spelled out loud. On **October 5, 2026**, Spotify showed **43,837** plays on *LOL* (3:17), **1,277** on *THIS IS FINE* (1:41), and **1,067** on the *LOL* instrumental (3:17). The *THIS IS FINE* instrumental had no play count shown (1:41). The counts move. There's no confidence to end any sentence with anything other than *L-O-L*, and a party invite gets the softest possible decline: *maybe maybe, see you someday, LOL*.
+Fifth chapter of [*US*](/albums/us/), social dread spelled out loud. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Bass** is **Bubby Lewis**. **Riley Knapp** mastered it. On **October 5, 2026**, Spotify showed **43,837** plays on *LOL* (3:17), **1,277** on *THIS IS FINE* (1:41), and **1,067** on the *LOL* instrumental (3:17). The *THIS IS FINE* instrumental had no play count shown (1:41). The counts move. There's no confidence to end any sentence with anything other than *L-O-L*, and a party invite gets the softest possible decline: *maybe maybe, see you someday, LOL*.
 
 Under the punctuation is the line the bridge stacks six times: *I don't wanna say something wrong*. Small humiliations pile up (shoes-off house rules you won't enforce on friends, food in teeth nobody who *loves* you will mention) until the song shrugs off answers entirely: *philosophical songs never have answers*. Then the LOL escalates to *LMFAO* and *ROFLMAO*. Anxiety wearing joke armor.
 

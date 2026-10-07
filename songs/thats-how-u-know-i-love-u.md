@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics, on the I album pane. The standalone single pane does not list graphic design."
 image: "/photos/covers/thats-how-u-know-i-love-u.jpg"
 imageAlt: "Cover for that's how u know i love u. A candy heart reading I do."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -73,7 +73,7 @@ lyrics: |
 draft: false
 ---
 
-Track nine on [*I*](/albums/i/). The title's logic lands in one line: *I'll never ever leave you lonely / or without Gatorade*, devotion as practical supply, hangover specific. Everything else is the inventory it earns: Supermoon rooftop, Tokyo pancakes, rainy-day Chopin, Ghibli with the headache, puzzle on the table. Love shown as **how**, not announced.
+Track nine on [*I*](/albums/i/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The *I* album pane lists Grizzard Graphics on graphic design. The standalone single pane does not. The title's logic lands in one line: *I'll never ever leave you lonely / or without Gatorade*, devotion as practical supply, hangover specific. Everything else is the inventory it earns: Supermoon rooftop, Tokyo pancakes, rainy-day Chopin, Ghibli with the headache, puzzle on the table. Love shown as **how**, not announced.
 
 On an album of *u*, the domestic proof track, after [*singing for u*](/songs/singing-for-u/)'s vocational vow.
 

@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Background vocals, Lou Roy. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics, on the I album pane. The standalone single pane does not list graphic design."
 image: "/photos/covers/the-cycle.jpg"
 imageAlt: "Cover for the cycle. A can labeled shake it off."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -70,7 +70,7 @@ lyrics: |
 draft: false
 ---
 
-Track three on [*I*](/albums/i/). The title echoes the **Möbius** cycle (MÖB, I, US, MÖBIUS), but here the cycle is personal and ugly. The confession is that pain rolls downhill: *get older then I'll be hurting people below me / and feeling so much better*. It isn't an endorsement, just a naming, and the song knows it's posturing too. Mercury retrograde becomes an excuse you don't fully believe, *a reason for abuse*, and the coping stack (*smile shake it off / smile have a drink*) repeats until repetitious becomes the point.
+Track three on [*I*](/albums/i/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Lou Roy** is on background vocals. **Riley Knapp** mastered it. The *I* album pane lists Grizzard Graphics on graphic design. The standalone single pane does not. The title echoes the **Möbius** cycle (MÖB, I, US, MÖBIUS), but here the cycle is personal and ugly. The confession is that pain rolls downhill: *get older then I'll be hurting people below me / and feeling so much better*. It isn't an endorsement, just a naming, and the song knows it's posturing too. Mercury retrograde becomes an excuse you don't fully believe, *a reason for abuse*, and the coping stack (*smile shake it off / smile have a drink*) repeats until repetitious becomes the point.
 
 On an LP mostly about *u*, travel, and tenderness, this is the crack where the singer admits how harm propagates and how easy it is to numb past it. It sits after [*daydreaming*](/songs/daydreaming/) and before [*ez pz*](/songs/ez-pz/); neither solves the loop, they alternate with it.
 
