@@ -38,6 +38,24 @@ not yet settled. For those, `assets.json` records the canonical URL, checksum,
 size, rights status and the reason the file is not replicated. The absence of
 a binary is a policy decision, not missing data.
 
+## Record-level Zenodo classification
+
+Zenodo's license field is one value for the whole deposit. This archive is
+mixed-rights, so that field is `other-closed` ("Other (Not Open)"). That is a
+record-level conservative rights classification. It is not the license of
+every contained work, and it does not mean none of this may be reused. The
+field is too coarse to say anything more truthful, and a blank license would
+be stored as CC0.
+
+Luke F. Walton's original material is CC BY-NC-ND 4.0. Third-party evidence
+remains owned by its respective rights holders and is not licensed under
+those terms. Copyright: © Luke F. Walton for original material. Third-party
+evidence remains with its respective rights holders.
+
+The distinctions below, and the per-file statuses in `assets.json`, are the
+authority. The Zenodo field is only the coarse classification the deposit
+can preserve.
+
 ## Copyright and licenses
 
 This is a mixed-rights archive. The per-file statuses in `assets.json` are the
