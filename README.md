@@ -48,9 +48,7 @@ receipts). Some referenced assets are intentionally metadata-only; their row in
 `assets.json` records the reason, the file's size and SHA-256, and its canonical
 URL. A missing binary is a policy decision, not missing data.
 
-This is a mixed-rights archive. Luke F. Walton keeps the copyright in his original
-material. Third-party copyright stays with its holders; evidence captures are
-receipts, not relicensed. Rights terms are in `RIGHTS.md` in the published mirror.
+This is a mixed-rights archive. Luke F. Walton's original material is CC BY-NC-ND 4.0; he keeps the copyright. Third-party evidence remains owned by its respective rights holders and is not licensed under those terms. Evidence captures are receipts, not relicensed. The Zenodo license field is a record-level conservative rights classification (`other-closed`), not the license of every contained work. Copyright: © Luke F. Walton for original material. Third-party evidence remains with its respective rights holders. Rights terms are in `RIGHTS.md` in the published mirror.
 
 ## Mirror and releases
 
@@ -73,7 +71,7 @@ The GitHub mirror is a frequently refreshed copy, regenerated on every change to
 
 Archived on [Zenodo](https://doi.org/10.5281/zenodo.20683155). The DOI badge above is the
 **concept DOI** — it always resolves to the latest version; each release also gets
-its own version DOI. Citation metadata is in `CITATION.cff`; rights terms are in
+its own version DOI. The Zenodo license field is a record-level conservative rights classification, not the license of every file. Citation metadata is in `CITATION.cff`; rights terms are in
 `RIGHTS.md`.
 
 ## Durability contract
