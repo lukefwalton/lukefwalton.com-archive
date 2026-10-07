@@ -12,7 +12,7 @@
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "Public website archive and source corpus for lukefwalton.com. The archive contains original material by Luke F. Walton together with third-party media or excerpts used for documentation, commentary, provenance, or archival context. Copyright in third-party materials remains with their respective owners. It is a self-contained, dependency-free mirror generated automatically from the canonical site, with per-record verbatim Markdown and plain HTML plus a machine-readable catalog (catalog.json / catalog.jsonl). Original code, prose, metadata, and archive structure by Luke F. Walton are licensed CC BY-NC-ND 4.0; see RIGHTS.md.",
+  "description": "Public preservation mirror and source corpus of lukefwalton.com, the canonical personal site of Luke F. Walton. Generated automatically from the site: every published record as verbatim Markdown and plain HTML with a machine-readable catalog (catalog.json / catalog.jsonl), surface records for the site's identity pages, the public entity network (entity-network.json / .jsonld), and an asset manifest (assets.json) listing every referenced media file with checksum, size, rights status, archive policy and provenance. Media binaries are included only when their recorded policy allows it: Luke-controlled photographs, cover art and graphics, FEiN material, artwork commissioned for Luke-controlled releases, papers, and selected masters. Public-internet evidentiary captures (credit panes, playlist placements, press, social posts, platform records) are retained as documentary evidence with third-party rights acknowledged and are not relicensed. Some referenced assets (client artwork, third-party photography, undocumented masters) are intentionally metadata-only. This is a mixed-rights archive: the CC BY-NC-ND 4.0 grant covers Luke F. Walton's original material only; copyright in third-party and jointly held material remains with its respective owners. See RIGHTS.md.",
   "keywords": [
     "web archive",
     "digital preservation",
@@ -20,8 +20,12 @@
     "lukefwalton.com",
     "personal archive",
     "provenance",
+    "entity network",
     "songs",
-    "writing"
+    "writing",
+    "photographs",
+    "evidence captures",
+    "mixed rights"
   ],
   "related_identifiers": [
     {
