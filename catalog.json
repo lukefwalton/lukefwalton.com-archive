@@ -40280,6 +40280,7 @@
     "metadata": {
       "title": "だれかおるやろ feat. CHAI",
       "meaning": "Theme for Shingo Murakami's Lemino original 『村上信五のだれおる！』, performed by his TAKATSU-KING persona featuring CHAI. Walton produced, mixed, and played drums, bass, and guitar. The April 19, 2023 premiere was about the song. The show credit does not print his name. JASRAC 284-9813-5. Never commercially released on CD or music streaming services.",
+      "year": 2023,
       "artist": "TAKATSU-KING (Shingo Murakami) feat. CHAI",
       "role": "production",
       "productionRoles": "Producer, mixer, co-engineer, co-arranger; drums, bass, guitar",
@@ -40340,12 +40341,20 @@
     "source": "src/content/songs/chai-thats-love.md",
     "metadata": {
       "title": "ラブじゃん（ That's Love）",
-      "meaning": "CHAI Japan single; Luke Francis Walton produced. Released as ラブじゃん（ That's Love） in Japan: not issued as a U.S. commercial single.",
+      "meaning": "CHAI Japan single (January 18, 2023); Luke Francis Walton produced. Released as ラブじゃん（ That's Love） in Japan: not issued as a U.S. commercial single.",
+      "year": 2023,
+      "releaseType": "single",
       "artist": "CHAI",
       "role": "production",
       "productionRoles": "Produced · arranged with CHAI",
       "placement": "Japan single; CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 3 ラブじゃん)",
       "press": [
+        {
+          "outlet": "Sony Music Japan: ジャジャーン and ラブじゃん",
+          "url": "https://www.sonymusic.co.jp/artist/chai/info/548829",
+          "date": "2023-01-18",
+          "desc": "Digital single ラブじゃん released the same day as the Japan-only EP ジャジャーン."
+        },
         {
           "outlet": "CHAI: official release",
           "url": "https://chaiband.lnk.to/LOVEJAN"

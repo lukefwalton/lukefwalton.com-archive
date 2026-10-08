@@ -1,7 +1,10 @@
 ---
 title: "ラブじゃん（ That's Love）"
 
-meaning: "CHAI Japan single; Luke Francis Walton produced. Released as ラブじゃん（ That's Love） in Japan: not issued as a U.S. commercial single."
+meaning: "CHAI Japan single (January 18, 2023); Luke Francis Walton produced. Released as ラブじゃん（ That's Love） in Japan: not issued as a U.S. commercial single."
+
+year: 2023
+releaseType: "single"
 
 artist: "CHAI"
 
@@ -10,6 +13,10 @@ productionRoles: "Produced · arranged with CHAI"
 placement: "Japan single; CHAI final live Mar 12, 2024 (We The CHAI Tour! FINAL Blu-ray, track 3 ラブじゃん)"
 
 press:
+  - outlet: "Sony Music Japan: ジャジャーン and ラブじゃん"
+    url: "https://www.sonymusic.co.jp/artist/chai/info/548829"
+    date: "2023-01-18"
+    desc: "Digital single ラブじゃん released the same day as the Japan-only EP ジャジャーン."
   - outlet: "CHAI: official release"
     url: "https://chaiband.lnk.to/LOVEJAN"
   - outlet: "CHAI: official MV"
@@ -31,7 +38,7 @@ themes: ["Music production", "Mixing", "Japan", "Collaboration", "CHAI", "final 
 draft: false
 ---
 
-**CHAI** Japan single **ラブじゃん（ That's Love）**: Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [Selected Videos](/music/#selected-videos).
+**CHAI** Japan single **ラブじゃん（ That's Love）** came out **January 18, 2023**, the same day Sony released the Japan-only EP **『ジャジャーン』** ([Sony Music Japan](https://www.sonymusic.co.jp/artist/chai/info/548829)). Walton’s credit is **produced** (played and mixed on the release as well). Official release hub: [chaiband.lnk.to/LOVEJAN](https://chaiband.lnk.to/LOVEJAN). [Official MV on YouTube](https://www.youtube.com/watch?v=6drUqHAx7YY), also on [Selected Videos](/music/#selected-videos).
 
 [Tower Records Japan](https://tower.jp/item/5579468) lists the Sony EP **『ジャジャーン』** (SICX-184, January 18, 2023). Track metadata credits **編曲** on **ラブじゃん** to **CHAI** and **Scoobert Doobert**. Lyrics are ユウキ (CHAI); composition is マナ and カナ. The same shared arrangement credit is on **まるごと** and **夢のはなし**. SURPRISE and HERO JOURNEY on that EP name other arrangers. Hosted transcript: [Sources](/press-kit/evidence/#chai-jajarn-tower-records).
 

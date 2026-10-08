@@ -3,6 +3,8 @@ title: "だれかおるやろ feat. CHAI"
 
 meaning: "Theme for Shingo Murakami's Lemino original 『村上信五のだれおる！』, performed by his TAKATSU-KING persona featuring CHAI. Walton produced, mixed, and played drums, bass, and guitar. The April 19, 2023 premiere was about the song. The show credit does not print his name. JASRAC 284-9813-5. Never commercially released on CD or music streaming services."
 
+year: 2023
+
 artist: "TAKATSU-KING (Shingo Murakami) feat. CHAI"
 
 role: production
