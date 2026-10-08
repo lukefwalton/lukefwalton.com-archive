@@ -2783,6 +2783,9 @@
       "description": "Burrito Bot album, April 26, 2024: seven tracks, about nine minutes, on Beformer.",
       "year": 2024,
       "releaseType": "album",
+      "image": "/photos/covers/refried-being.jpg",
+      "imageAlt": "Cover for Refried Being. French fries stand in a patterned wrap, with waves and a sunburst behind them.",
+      "imageCredit": "AI-generated cover.",
       "artist": "Burrito Bot",
       "artistId": "#burritobot",
       "spotify": "https://open.spotify.com/album/5YhkIcucODXqa9qCT7JCAp",
@@ -2832,6 +2835,7 @@
       "releaseType": "EP",
       "artist": "Luke Walton feat. Blue Suburbia",
       "artistId": "#person",
+      "artworkStatus": "none",
       "tracks": [
         {
           "title": "Preschool",
@@ -3307,6 +3311,9 @@
       "description": "Burrito Bot album, June 14, 2024: a 15-track AI burrito concept LP on Beformer. The cover was generated with Runway.",
       "year": 2024,
       "releaseType": "album",
+      "image": "/photos/covers/wrap-music.jpg",
+      "imageAlt": "Cover for Wrap Music. A foil-wrapped sandwich wears a black helmet with purple lights, on a wet street under neon signs that read Wrap Music.",
+      "imageCredit": "Cover generated with Runway.",
       "artist": "Burrito Bot",
       "artistId": "#burritobot",
       "spotify": "https://open.spotify.com/album/49QQ8dgQL5VS476ThckL66",
@@ -36269,8 +36276,8 @@
         "collaborator",
         "Grizzard Graphics",
         "grizzard-graphics",
-        "grizzardgfx",
         "Luke Brogoitti",
+        "grizzardgfx",
         "Album & cover art",
         "Logos & brand marks"
       ]

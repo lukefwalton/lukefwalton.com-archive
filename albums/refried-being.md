@@ -6,6 +6,10 @@ description: "Burrito Bot album, April 26, 2024: seven tracks, about nine minute
 year: 2024
 releaseType: "album"
 
+image: "/photos/covers/refried-being.jpg"
+imageAlt: "Cover for Refried Being. French fries stand in a patterned wrap, with waves and a sunburst behind them."
+imageCredit: "AI-generated cover."
+
 artist: "Burrito Bot"
 artistId: "#burritobot"
 

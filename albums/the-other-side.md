@@ -8,6 +8,7 @@ releaseType: EP
 
 artist: "Luke Walton feat. Blue Suburbia"
 artistId: "#person"
+artworkStatus: "none"
 
 tracks:
   - { title: "Preschool", song: preschool }

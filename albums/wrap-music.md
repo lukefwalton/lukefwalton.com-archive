@@ -6,6 +6,10 @@ description: "Burrito Bot album, June 14, 2024: a 15-track AI burrito concept LP
 year: 2024
 releaseType: "album"
 
+image: "/photos/covers/wrap-music.jpg"
+imageAlt: "Cover for Wrap Music. A foil-wrapped sandwich wears a black helmet with purple lights, on a wet street under neon signs that read Wrap Music."
+imageCredit: "Cover generated with Runway."
+
 artist: "Burrito Bot"
 artistId: "#burritobot"
 

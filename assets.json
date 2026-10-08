@@ -6109,6 +6109,25 @@
     ]
   },
   {
+    "path": "/photos/covers/refried-being.jpg",
+    "archive": "photos/covers/refried-being.jpg",
+    "canonicalUrl": "https://lukefwalton.com/photos/covers/refried-being.jpg",
+    "sourcePath": "public/photos/covers/refried-being.jpg",
+    "bytes": 264323,
+    "sha256": "618bd6a95cbb4b3d0b6569c1cac9aafd86ef883072fa2b383c03b484a0f59256",
+    "mediaType": "image/jpeg",
+    "width": 832,
+    "height": 832,
+    "rights": "unknown",
+    "archivePolicy": "include",
+    "basis": "credit",
+    "reason": "AI-generated artwork Luke produced for his own release; intentionally preserved.",
+    "rightsNote": "AI-generated image Luke generated and controls; copyrightability of AI output is limited or unsettled.",
+    "referencedBy": [
+      "albums/refried-being"
+    ]
+  },
+  {
     "path": "/photos/covers/see-you-again.jpg",
     "archive": "photos/covers/see-you-again.jpg",
     "canonicalUrl": "https://lukefwalton.com/photos/covers/see-you-again.jpg",
@@ -6538,6 +6557,25 @@
     "reason": "Artwork commissioned from Grizzard Graphics (Luke Brogoitti) for a Luke-controlled release.",
     "referencedBy": [
       "songs/winter-wonderland"
+    ]
+  },
+  {
+    "path": "/photos/covers/wrap-music.jpg",
+    "archive": "photos/covers/wrap-music.jpg",
+    "canonicalUrl": "https://lukefwalton.com/photos/covers/wrap-music.jpg",
+    "sourcePath": "public/photos/covers/wrap-music.jpg",
+    "bytes": 257794,
+    "sha256": "1f7dcb4c50ddaea88b7ab54783fb18161d037215064646267c00cba44d67b497",
+    "mediaType": "image/jpeg",
+    "width": 1024,
+    "height": 1024,
+    "rights": "unknown",
+    "archivePolicy": "include",
+    "basis": "credit",
+    "reason": "AI-generated artwork Luke produced for his own release; intentionally preserved.",
+    "rightsNote": "AI-generated image Luke generated and controls; copyrightability of AI output is limited or unsettled.",
+    "referencedBy": [
+      "albums/wrap-music"
     ]
   },
   {
@@ -9165,11 +9203,11 @@
     "mediaType": "image/jpeg",
     "width": 1600,
     "height": 1590,
-    "rights": "unknown",
+    "rights": "third-party",
     "archivePolicy": "metadata-only",
     "basis": "credit",
-    "reason": "Placeholder credit \"Archive\"; provenance not recorded.",
-    "credit": "Archive",
+    "reason": "Credited third-party photograph or scan; not redistributed without permission.",
+    "credit": "Luke Brogoitti",
     "title": "NAMM TEC Awards step-and-repeat. Left to right: Luke Walton and Derek “MixedByAli” Ali.",
     "registry": "musician-photos",
     "referencedBy": [
