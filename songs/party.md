@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/party.jpg"
 imageAlt: "Cover for PARTY. A blister pack of blue and white capsules on a brown field in a blue frame. Scoobert Doobert across the top, Party across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -76,7 +76,7 @@ draft: false
 
 ---
 
-Fourth chapter of [*US*](/albums/us/) (April 4, 2025), the party *before* the after-party. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. On **October 5, 2026**, Spotify showed **28,661** plays, **3:02**. The instrumental had no play count shown. The count moves. Where [*JAZZ FLUTE*](/songs/jazz-flute/) unplugged and [*AFTER-PARTY*](/songs/after-party/) chased 2 a.m. elsewhere, **PARTY** stays inside the room and asks the crowd to tell it how it feels.
+Fourth chapter of [*US*](/albums/us/) (April 4, 2025), the party *before* the after-party. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. On **October 5, 2026**, Spotify showed **28,661** plays, **3:02**. The instrumental had no play count shown. The count moves. Where [*JAZZ FLUTE*](/songs/jazz-flute/) unplugged and [*AFTER-PARTY*](/songs/after-party/) chased 2 a.m. elsewhere, **PARTY** stays inside the room and asks the crowd to tell it how it feels.
 
 The pleasures keep failing on contact: the bottomless glass still bores you, the pill *don't hit that hard anymore*. So the chorus outsources the rest, *can you tell me if I'm happy? Better yet, can you control me?* Then the crack: soul heavy, eyes drooping, *oh no, why I'm thinking like this ain't for a reason?*
 

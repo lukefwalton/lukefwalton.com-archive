@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. The release is billed featuring Bubby Lewis; this pane does not list him."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Mastering engineer, Riley Knapp."
 
 apple: "https://music.apple.com/us/album/tired-of-the-sunshine-feat-bubby-lewis/1675559395?i=1675559403"
 spotify: "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
@@ -80,7 +80,7 @@ draft: false
 
 ---
 
-Track five on [*Moonlight Beach*](/albums/moonlight-beach/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. The release is billed featuring **[Bubby Lewis](/with/bubby-lewis/)**; this pane does not list him. Spotify for Artists emails added it to **sunshine indie** on **May 21, 2023** (9:17 a.m., 84,846 followers) and **Summer Indie** on **May 27, 2023** (12:27 p.m., 349,808 followers). Luke wrote it; Bubby Lewis played on the track (feat. on the LP), a collaborator on a record that's otherwise sunshine-and-bonfire California pop.
+Track five on [*Moonlight Beach*](/albums/moonlight-beach/). The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Bass** is **[Bubby Lewis](/with/bubby-lewis/)**. **Riley Knapp** mastered it. Spotify for Artists emails added it to **sunshine indie** on **May 21, 2023** (9:17 a.m., 84,846 followers) and **Summer Indie** on **May 27, 2023** (12:27 p.m., 349,808 followers). Luke wrote it; Bubby Lewis played on the track (feat. on the LP), a collaborator on a record that's otherwise sunshine-and-bonfire California pop.
 
 The chorus names the album's shadow side as a clean paradox: *I don't wanna be alone / but I wanna be alone*. It's the honest counter-melody to [*Feels So Good*](/songs/feels-so-good/) and its commercial-perfect joy. The blame stays external (*Mercury in retrograde*) and the coping is theater: self-help books, trivia videos, *what's the capital of Bolivia?*
 

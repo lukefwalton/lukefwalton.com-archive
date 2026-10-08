@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/alright.jpg"
 imageAlt: "Cover for Alright. The title filled with a beach scene, Scoobert Doobert along the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -81,7 +81,7 @@ draft: false
 
 ---
 
-Standalone single (**July 11, 2025** · Beformer × indiemono), not on [*US*](/albums/us/) or any in-progress LP. On **October 5, 2026**, Spotify showed **907,635** plays, **3:22**. The count moves. A post-*I* beach day, like the 2025 single [*best. day. ever.*](/songs/best-day-ever/).
+Standalone single (**July 11, 2025** · Beformer × indiemono), not on [*US*](/albums/us/) or any in-progress LP. On **October 5, 2026**, Spotify showed **907,635** plays, **3:22**. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. A post-*I* beach day, like the 2025 single [*best. day. ever.*](/songs/best-day-ever/).
 
 It started as a voice note on a cliff above Moonlight Beach: California burrito, waves, and a silly call-and-response, *you feeling alright?* / *yeah*. The song keeps asking until the answer sticks. The logistics are the romance: you bring the weed, I'll bring the music, is this a holiday or a workday? (*I think that it's Tuesday*.) Sunroof down, UV on purpose.
 

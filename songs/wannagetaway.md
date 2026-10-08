@@ -10,7 +10,7 @@ releaseType: "single"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton. Singing and vocals, producer, guitar, bass, synthesizer, drum machine, recording engineer, and mixing engineer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics. Beformer single, release date November 13, 2026. UPC 700573621298."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Singing and vocals, producer, guitar, bass, synthesizer, drum machine, recording engineer, and mixing engineer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics. Beformer single, release date November 13, 2026. UPC 700573621298."
 image: "/photos/covers/wannagetaway.jpg"
 imageAlt: "Cover for wannagetaway. A blue rolling suitcase with the handle up, on a green field inside a brown frame, SCOOBERT DOOBERT across the top and WANNAGETAWAY across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -143,7 +143,7 @@ lyrics: |
 draft: false
 ---
 
-**wannagetaway** is a Scoobert Doobert single on **Beformer**, release date **November 13, 2026**. DistroKid UPC **700573621298**. Uploaded September 29, 2026, and delivered to stores. It is also in the current sequence of [*US*](/albums/us/), the third MÖBIUS turn, whose full LP is scheduled for **January 2027**. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**. Singing, producer, guitar, bass, synthesizer, drum machine, recording, and mixing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Cover art by Grizzard Graphics.
+**wannagetaway** is a Scoobert Doobert single on **Beformer**, release date **November 13, 2026**. DistroKid UPC **700573621298**. Uploaded September 29, 2026, and delivered to stores. It is also in the current sequence of [*US*](/albums/us/), the third MÖBIUS turn, whose full LP is scheduled for **January 2027**. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. Singing, producer, guitar, bass, synthesizer, drum machine, recording, and mixing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Cover art by Grizzard Graphics.
 
 Two tracks on the single: this one (ISRC **QTA2T2698897**) and [*wannagetaway (Instrumental)*](/songs/wannagetaway-instrumental/) (ISRC **QTA2T2698898**). Store links are not on this page yet.
 

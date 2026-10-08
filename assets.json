@@ -10253,28 +10253,6 @@
     ]
   },
   {
-    "path": "/photos/luke-merissa-carlsbad-flower-fields-2016-04-20.jpg",
-    "archive": "photos/luke-merissa-carlsbad-flower-fields-2016-04-20.jpg",
-    "canonicalUrl": "https://lukefwalton.com/photos/luke-merissa-carlsbad-flower-fields-2016-04-20.jpg",
-    "sourcePath": "public/photos/luke-merissa-carlsbad-flower-fields-2016-04-20.jpg",
-    "bytes": 342049,
-    "sha256": "ccd53427c714c24e8e0e065e6f31abc3877d32e78ca95306219369b01e515baa",
-    "mediaType": "image/jpeg",
-    "width": 1600,
-    "height": 1176,
-    "rights": "unknown",
-    "archivePolicy": "include",
-    "basis": "group",
-    "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
-    "date": "2016-04-20",
-    "title": "Luke Walton and Merissa at the Carlsbad Flower Fields: April 20, 2016",
-    "registry": "musician-photos",
-    "referencedBy": [
-      "registry:musician-photos",
-      "source:src/lib/musician-photos.ts"
-    ]
-  },
-  {
     "path": "/photos/luke-mike-funk-disco-promo.jpg",
     "archive": "photos/luke-mike-funk-disco-promo.jpg",
     "canonicalUrl": "https://lukefwalton.com/photos/luke-mike-funk-disco-promo.jpg",
@@ -11038,28 +11016,6 @@
     ]
   },
   {
-    "path": "/photos/luke-tokyo-kpm-08.jpg",
-    "archive": "photos/luke-tokyo-kpm-08.jpg",
-    "canonicalUrl": "https://lukefwalton.com/photos/luke-tokyo-kpm-08.jpg",
-    "sourcePath": "public/photos/luke-tokyo-kpm-08.jpg",
-    "bytes": 438727,
-    "sha256": "defa64c775b7fc11f6aeb17e229fd4dc811194b88988c78b98f70185b848cf5c",
-    "mediaType": "image/jpeg",
-    "width": 1600,
-    "height": 1600,
-    "rights": "third-party",
-    "archivePolicy": "include-as-evidence",
-    "basis": "credit",
-    "reason": "Archive copy of a public post; retained as a receipt, copyright stays with the poster.",
-    "credit": "@koji_photo_moment",
-    "sourceUrl": "https://www.instagram.com/koji_photo_moment/",
-    "title": "Luke Walton in Tokyo: photo by @koji_photo_moment",
-    "registry": "musician-photos",
-    "referencedBy": [
-      "registry:musician-photos"
-    ]
-  },
-  {
     "path": "/photos/luke-tokyo-kpm-09.jpg",
     "archive": "photos/luke-tokyo-kpm-09.jpg",
     "canonicalUrl": "https://lukefwalton.com/photos/luke-tokyo-kpm-09.jpg",
@@ -11556,28 +11512,6 @@
     "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
     "date": "2011",
     "title": "Luke Walton at San Diego Comic-Con (2011)",
-    "registry": "musician-photos",
-    "referencedBy": [
-      "registry:musician-photos",
-      "source:src/lib/luke-walton-career-archive-traces.ts"
-    ]
-  },
-  {
-    "path": "/photos/luke-walton-comic-con-2014.jpg",
-    "archive": "photos/luke-walton-comic-con-2014.jpg",
-    "canonicalUrl": "https://lukefwalton.com/photos/luke-walton-comic-con-2014.jpg",
-    "sourcePath": "public/photos/luke-walton-comic-con-2014.jpg",
-    "bytes": 537375,
-    "sha256": "a83044668ee906c080f334d6a690ee2bdc2f75681e2d5723a9a04ac4b76d5a09",
-    "mediaType": "image/jpeg",
-    "width": 1600,
-    "height": 1600,
-    "rights": "unknown",
-    "archivePolicy": "include",
-    "basis": "group",
-    "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
-    "date": "2014",
-    "title": "Luke Walton at Comic-Con in Goku tank top (2014)",
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
@@ -12182,28 +12116,6 @@
     "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
     "date": "2009",
     "title": "Early concert poster: Tennessee tour with Taylor Swift video backdrop (2009)",
-    "registry": "musician-photos",
-    "referencedBy": [
-      "registry:musician-photos",
-      "source:src/lib/luke-walton-career-archive-traces.ts"
-    ]
-  },
-  {
-    "path": "/photos/luke-walton-toga-party-gig-2012.jpg",
-    "archive": "photos/luke-walton-toga-party-gig-2012.jpg",
-    "canonicalUrl": "https://lukefwalton.com/photos/luke-walton-toga-party-gig-2012.jpg",
-    "sourcePath": "public/photos/luke-walton-toga-party-gig-2012.jpg",
-    "bytes": 256772,
-    "sha256": "07f34478db7a7c8d8a29f79e6ad42e8ac8aaaefe6732d6a11cfee8d92b846f2d",
-    "mediaType": "image/jpeg",
-    "width": 1600,
-    "height": 1507,
-    "rights": "unknown",
-    "archivePolicy": "include",
-    "basis": "group",
-    "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
-    "date": "2012",
-    "title": "Toga party gig: after the show (2012)",
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",

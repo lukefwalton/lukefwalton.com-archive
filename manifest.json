@@ -8,9 +8,9 @@
   "generatedAt": "2026-10-08",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "ea907fd35196811fb6dd8ed2a497b1c0bbe2ed57"
+    "commit": "934517ef91135fc72c86df260c9e0bb5b26ea6fe"
   },
-  "total": 885,
+  "total": 887,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -24,17 +24,17 @@
   "records": {
     "collections": 683,
     "publisherStubs": 28,
-    "surfaces": 174
+    "surfaces": 176
   },
   "assets": {
     "manifest": "assets.json",
     "html": "assets.html",
-    "included": 371,
-    "evidence": 271,
+    "included": 368,
+    "evidence": 270,
     "metadataOnly": 53,
     "excluded": 0,
     "missing": 0,
-    "bytes": 204803289
+    "bytes": 203228366
   },
   "linkPolicy": "Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.",
   "catalog": "catalog.json",

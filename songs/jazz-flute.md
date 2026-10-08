@@ -10,7 +10,7 @@ releaseType: "album"
 artist: "Scoobert Doobert"
 artistId: "#scoobert"
 
-credits: "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe. Artwork by Grizzard Graphics."
+credits: "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Music, Nicole McCabe. Flute, Nicole McCabe. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics."
 image: "/photos/covers/jazz-flute.jpg"
 imageAlt: "Cover for JAZZ FLUTE. A ceramic lamp with a cloth shade and no bulb, on a blue field in a gold frame. Scoobert Doobert across the top, Jazz Flute across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
@@ -65,7 +65,7 @@ draft: false
 
 ---
 
-Second chapter of [*US*](/albums/us/), the unplugged fantasy after [*QUIET YOUR MIND!!!*](/songs/quiet-your-mind/)'s belief lullaby: *ain't got shit to do*, our own private island, me and you. On **October 5, 2026**, Spotify showed **23,050** plays, **2:27**. *MOAR FLUTE* and the instrumental had no play count shown. The count moves. Two matching erasures are the trick of it. No internet (*I never heard of it*), no politics (*I never heard of him*). Ignorance as intimacy.
+Second chapter of [*US*](/albums/us/), the unplugged fantasy after [*QUIET YOUR MIND!!!*](/songs/quiet-your-mind/)'s belief lullaby: *ain't got shit to do*, our own private island, me and you. On **October 5, 2026**, Spotify showed **23,050** plays, **2:27**. *MOAR FLUTE* and the instrumental had no play count shown. The count moves. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**. **Music** is **Nicole McCabe**. **Flute** is **Nicole McCabe**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Grizzard Graphics did the graphic design. Two matching erasures are the trick of it. No internet (*I never heard of it*), no politics (*I never heard of him*). Ignorance as intimacy.
 
 The bridge is the earnest center, breathe in, breathe out, *we can make it if we stick together*, then the permission to slow it down. Not a travel montage and not the party refusal of [*AFTER-PARTY*](/songs/after-party/), just doing nothing together on purpose.
 

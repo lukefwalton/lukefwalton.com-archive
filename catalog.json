@@ -32177,6 +32177,30 @@
   },
   {
     "collection": "pages",
+    "slug": "brand-kit",
+    "title": "Brand kit",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/brand-kit/",
+    "canonicalUrl": "https://lukefwalton.com/brand-kit/",
+    "archive": {
+      "markdown": "pages/brand-kit.md",
+      "html": "pages/brand-kit.html"
+    },
+    "source": "src/pages/brand-kit.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/brand-assets.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:brand-kit"
+      ],
+      "themes": []
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "catalog",
     "title": "Catalog",
     "type": "WebPage",
@@ -32297,6 +32321,33 @@
         "cawleen",
         "OUTHERE",
         "Burt Cashman"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "gallery",
+    "title": "Photo archive",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/gallery/",
+    "canonicalUrl": "https://lukefwalton.com/gallery/",
+    "archive": {
+      "markdown": "pages/gallery.md",
+      "html": "pages/gallery.html"
+    },
+    "source": "src/pages/gallery/index.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/photo-gallery.ts",
+      "src/lib/musician-photos.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:gallery"
+      ],
+      "themes": [
+        "Photo archive"
       ]
     }
   },
@@ -39061,7 +39112,7 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Artwork by Grizzard Graphics.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "image": "/photos/covers/alright.jpg",
       "imageAlt": "Cover for Alright. The title filled with a beach scene, Scoobert Doobert along the bottom.",
       "imageCredit": "Artwork by Grizzard Graphics.",
@@ -39443,7 +39494,7 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Mastered by Riley Knapp. Artwork by Grizzard Graphics.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "image": "/photos/covers/best-day-ever.jpg",
       "imageAlt": "Cover for best. day. ever. A blue profile in striped sunglasses, on a leaf-patterned field.",
       "imageCredit": "Artwork by Grizzard Graphics.",
@@ -45446,7 +45497,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe. Artwork by Grizzard Graphics.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Music, Nicole McCabe. Flute, Nicole McCabe. Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "image": "/photos/covers/jazz-flute.jpg",
       "imageAlt": "Cover for JAZZ FLUTE. A ceramic lamp with a cloth shade and no bulb, on a blue field in a gold frame. Scoobert Doobert across the top, Jazz Flute across the bottom.",
       "imageCredit": "Artwork by Grizzard Graphics.",
@@ -45521,7 +45572,7 @@
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
       "instrumental": true,
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Flute: Nicole McCabe.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Music, Nicole McCabe. Flute, Nicole McCabe. Producer, mixing engineer, recording engineer, drums, bass, guitar, and synthesizer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics. No singing line on the pane.",
       "spotify": "https://open.spotify.com/track/78vLnl5usIVFuiM0quVTXG",
       "themes": [
         "instrumental",
@@ -46828,7 +46879,7 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "Written, performed, and mixed by Luke Francis Walton. Drawn by Luke Francis Walton.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Drawn by Luke Francis Walton; this pane does not list graphic design.",
       "image": "/photos/covers/merry-christmas-from-the-beach.jpg",
       "imageAlt": "Cover for merry christmas (from the beach). A drawing of Santa in board shorts, holding a surfboard.",
       "imageCredit": "Drawn by Luke Francis Walton.",
@@ -49338,7 +49389,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Artwork by Grizzard Graphics is the existing cover credit; this pane does not list graphic design.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics.",
       "image": "/photos/covers/party.jpg",
       "imageAlt": "Cover for PARTY. A blister pack of blue and white capsules on a brown field in a blue frame. Scoobert Doobert across the top, Party across the bottom.",
       "imageCredit": "Artwork by Grizzard Graphics.",
@@ -52270,7 +52321,7 @@
       "releaseType": "album",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, bass, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Mastering engineer, Riley Knapp. The release is billed featuring Bubby Lewis; this pane does not list him.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Producer, mixing engineer, recording engineer, drums, guitar, synthesizer, and singing and vocals billed as Scoobert Doobert. Bass, Bubby Lewis. Mastering engineer, Riley Knapp.",
       "apple": "https://music.apple.com/us/album/tired-of-the-sunshine-feat-bubby-lewis/1675559395?i=1675559403",
       "spotify": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA",
       "themes": [
@@ -53150,7 +53201,7 @@
       "releaseType": "single",
       "artist": "Scoobert Doobert",
       "artistId": "#scoobert",
-      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton. Singing and vocals, producer, guitar, bass, synthesizer, drum machine, recording engineer, and mixing engineer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics. Beformer single, release date November 13, 2026. UPC 700573621298.",
+      "credits": "DistroKid credit pane: Music and lyrics, Luke Francis Walton (BMI 00579587572). Singing and vocals, producer, guitar, bass, synthesizer, drum machine, recording engineer, and mixing engineer billed as Scoobert Doobert. Mastering engineer, Riley Knapp. Graphic design, Grizzard Graphics. Beformer single, release date November 13, 2026. UPC 700573621298.",
       "image": "/photos/covers/wannagetaway.jpg",
       "imageAlt": "Cover for wannagetaway. A blue rolling suitcase with the handle up, on a green field inside a brown frame, SCOOBERT DOOBERT across the top and WANNAGETAWAY across the bottom.",
       "imageCredit": "Artwork by Grizzard Graphics.",
