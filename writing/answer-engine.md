@@ -8,7 +8,7 @@ authorAffiliation: "Independent Researcher"
 orcid: "0009-0005-9263-1954"
 date: 2026-06-14
 version: "1.1"
-status: "Technical note."
+status: "Technical note on the v1 engine (June 2026). Retired October 2026; superseded by the software paper in the answer-engine repository."
 canonical: "https://lukefwalton.com/writing/answer-engine/"
 pdf: "https://lukefwalton.com/writing/answer-engine.pdf"
 record: "https://doi.org/10.5281/zenodo.20686053"
@@ -38,6 +38,8 @@ summary: >
   a small TypeScript pattern for one-shot, citation-grounded answers over a bounded corpus,
   with honest refusal and a type-level no-leak boundary for private material. v1.1 adds
   empirical scaling notes from the production deployment behind Ask the Archive on this site.
+  Retired October 2026: the repository is now the v3 substrate, its write-up is the software
+  paper in the repository, and the deposit of record for this note is v1.2.
 coreClaim: >
   Hold retrieval, private context, generation, citation, and refusal apart; enforce the
   contract outside the model by types, schema, validators, and tests — so the answer can be
@@ -71,7 +73,9 @@ bibtex: |
 
 This note documents the **Answer Engine** technical implementation that accompanies the [answerability papers](/research/) on who answers when an AI acts. It is set apart from the papers as a runnable reference pattern.
 
-- [**answer-engine**](https://github.com/lukefwalton/answer-engine) v1.0.0 — teaching-sized clone-and-run repository ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0))
+**Status, October 2026.** This note describes the June 2026 engine (v1). The repository is now the v3 substrate, published on npm as `@lukefwalton/answer-engine` and running Ask the Archive; its design contract is [`docs/CONTRACT.md`](https://github.com/lukefwalton/answer-engine/blob/main/docs/CONTRACT.md) and its write-up is the software paper [`paper.md`](https://github.com/lukefwalton/answer-engine/blob/main/paper.md) (drafted, not submitted). The note is retired and kept as deposited. The deposit of record is v1.2 ([10.5281/zenodo.20710897](https://doi.org/10.5281/zenodo.20710897)), which aligned the title to "Answerability"; this page carries the v1.1 text.
+
+- [**answer-engine**](https://github.com/lukefwalton/answer-engine) — the repository, now the v3 substrate ([software DOI](https://doi.org/10.5281/zenodo.20676773) · [npm](https://www.npmjs.com/package/@lukefwalton/answer-engine) · [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)); this note described v1.0.0
 - [**Ask the Archive**](/ask/about/) — live deployment on lukefwalton.com
 
 ## 1. Problem

@@ -54422,7 +54422,7 @@
       "orcid": "0009-0005-9263-1954",
       "date": "2026-06-14",
       "version": "1.1",
-      "status": "Technical note.",
+      "status": "Technical note on the v1 engine (June 2026). Retired October 2026; superseded by the software paper in the answer-engine repository.",
       "canonical": "https://lukefwalton.com/writing/answer-engine/",
       "pdf": "https://lukefwalton.com/writing/answer-engine.pdf",
       "record": "https://doi.org/10.5281/zenodo.20686053",
@@ -54448,7 +54448,7 @@
         "reference implementation"
       ],
       "abstract": "Chat-style language-model systems collapse five distinct operations — retrieval, use of private context, generation, citation, and refusal — into a single conversational surface, which makes it hard to say what evidence an answer rests on or whether it should have been given at all. This note describes answer-engine, a small TypeScript reference implementation that holds those operations apart. The system answers one question at a time against a bounded corpus, cites the public evidence it used, declines when no evidence clears a retrieval floor, and enforces a type-level boundary that keeps private text out of the model prompt while still allowing it to route retrieval. A fixed set of gold queries tests refusal, citation grounding, and the no-leak boundary as regressions. The artifact is a teaching-sized reference pattern, not a benchmark or a production framework.\n",
-      "summary": "Answer Engine is the runnable technical implementation behind the answerability papers — a small TypeScript pattern for one-shot, citation-grounded answers over a bounded corpus, with honest refusal and a type-level no-leak boundary for private material. v1.1 adds empirical scaling notes from the production deployment behind Ask the Archive on this site.\n",
+      "summary": "Answer Engine is the runnable technical implementation behind the answerability papers — a small TypeScript pattern for one-shot, citation-grounded answers over a bounded corpus, with honest refusal and a type-level no-leak boundary for private material. v1.1 adds empirical scaling notes from the production deployment behind Ask the Archive on this site. Retired October 2026: the repository is now the v3 substrate, its write-up is the software paper in the repository, and the deposit of record for this note is v1.2.\n",
       "coreClaim": "Hold retrieval, private context, generation, citation, and refusal apart; enforce the contract outside the model by types, schema, validators, and tests — so the answer can be checked rather than trusted.\n",
       "citeWhen": [
         "You want the design contract for citation-grounded site search stated as prose.",
