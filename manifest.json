@@ -8,7 +8,7 @@
   "generatedAt": "2026-10-13",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "2f909f71280477e8d077b59d177813e383ce5ba4"
+    "commit": "190704144d517b157e19f64d9ea11334cb644fc6"
   },
   "total": 816,
   "counts": {
@@ -29,12 +29,12 @@
   "assets": {
     "manifest": "assets.json",
     "html": "assets.html",
-    "included": 368,
+    "included": 370,
     "evidence": 270,
     "metadataOnly": 53,
     "excluded": 0,
     "missing": 0,
-    "bytes": 203552665
+    "bytes": 203810857
   },
   "linkPolicy": "Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.",
   "catalog": "catalog.json",

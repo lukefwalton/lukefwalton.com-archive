@@ -65,7 +65,7 @@ The GitHub mirror is a frequently refreshed copy, regenerated on every change to
 - **lmm-episodes**: 226
 - **lmm-essays**: 4
 - **pages** (identity surfaces): 105
-- **media assets**: 368 included, 270 evidence captures, 53 metadata-only, 0 excluded (203,552,665 bytes copied)
+- **media assets**: 370 included, 270 evidence captures, 53 metadata-only, 0 excluded (203,810,857 bytes copied)
 
 ## Citation
 

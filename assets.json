@@ -201,6 +201,44 @@
     ]
   },
   {
+    "path": "/brand/page-turner/2026-writing-award-finalist.png",
+    "archive": "brand/page-turner/2026-writing-award-finalist.png",
+    "canonicalUrl": "https://lukefwalton.com/brand/page-turner/2026-writing-award-finalist.png",
+    "sourcePath": "public/brand/page-turner/2026-writing-award-finalist.png",
+    "bytes": 224512,
+    "sha256": "4bda491e7dfb730bfde95cfac14266ecb5062af79d6b72317ed0ad8e2c1b1f0d",
+    "mediaType": "image/png",
+    "width": 1000,
+    "height": 1000,
+    "rights": "licensed",
+    "archivePolicy": "include",
+    "basis": "override",
+    "reason": "Award badge supplied by Page Turner Awards for display by finalists.",
+    "registry": "page-reference",
+    "referencedBy": [
+      "registry:page-reference",
+      "source:src/lib/the-signatories.ts"
+    ]
+  },
+  {
+    "path": "/brand/page-turner/2026-writing-award-finalist.webp",
+    "archive": "brand/page-turner/2026-writing-award-finalist.webp",
+    "canonicalUrl": "https://lukefwalton.com/brand/page-turner/2026-writing-award-finalist.webp",
+    "sourcePath": "public/brand/page-turner/2026-writing-award-finalist.webp",
+    "bytes": 33680,
+    "sha256": "182518175f695db654022b22cc15866c861a6f7dc1f534a94fd6dcff00f5e79f",
+    "mediaType": "image/webp",
+    "rights": "licensed",
+    "archivePolicy": "include",
+    "basis": "override",
+    "reason": "Award badge supplied by Page Turner Awards for display by finalists.",
+    "registry": "page-reference",
+    "referencedBy": [
+      "registry:page-reference",
+      "source:src/lib/the-signatories.ts"
+    ]
+  },
+  {
     "path": "/brand/scoobert/lovey-logo.png",
     "archive": "brand/scoobert/lovey-logo.png",
     "canonicalUrl": "https://lukefwalton.com/brand/scoobert/lovey-logo.png",
