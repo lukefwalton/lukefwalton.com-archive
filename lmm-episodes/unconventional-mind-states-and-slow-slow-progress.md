@@ -29,7 +29,7 @@ topicsDiscussed:
 hostNote: |
   "It's like a fox cornered; you really get to see what you're capable of." That's the deadline effect, not a threat but a diagnostic. The constraints and pressures you resent are often the ones that reveal what's actually there.
   
-  This episode covers two slow-moving ideas: how unconventional mind states (pressure, altered perception, creative adversity, physical training, fasting) open access to instincts that comfortable, relaxed work doesn't reach, with reference to David Gnozzi and Bobby Lewis as examples, and how progress is genuinely slow and it's fine not to take on every battle at once. Some things only work if you let them marinate.
+  This episode covers two slow-moving ideas: how unconventional mind states (pressure, altered perception, creative adversity, physical training, fasting) open access to instincts that comfortable, relaxed work doesn't reach, with reference to David Gnozzi and Bubby Lewis as examples, and how progress is genuinely slow and it's fine not to take on every battle at once. Some things only work if you let them marinate.
   
   One specific production note: sometimes the best-sounding records track drums piece by piece rather than all at once. The best version of a thing isn't always captured in one live room take. That applies to records and to careers.
 
@@ -40,9 +40,9 @@ selectedMoments:
   - label: "The Joy of Creation"
     startSec: 684
     note: "I reflect on how his creative process is influenced by his emotional states and my approach to music."
-  - label: "Bobby Lewis's Approach to Music"
+  - label: "Bubby Lewis's Approach to Music"
     startSec: 678
-    note: "I share insights from his collaboration with Bobby Lewis and how my unique practices enhance creativity."
+    note: "I share insights from his collaboration with Bubby Lewis and how my unique practices enhance creativity."
   - label: "The Importance of Progress Over Perfection"
     startSec: 1081
     note: "I address the reality of progress in skill development and the patience it requires."

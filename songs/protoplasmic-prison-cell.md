@@ -19,7 +19,7 @@ draft: false
 
 ---
 
-**[I Don't Speak French](/with/i-dont-speak-french/)** (IDSF) × **Scoobert Doobert**: **September 30, 2022** (**Beformer / Indieshake**). On **October 5, 2026**, Spotify showed **6,394** plays, **3:33**. The count moves. Earlier pairing before [*Voulez-Vous*](/songs/voulez-vous/) (2023). Luke Francis Walton on the Scoobert side. IDSF is Håkan Persson's eclectic Swedish collab project: sync/TV placements, Indieshake label; Persson on [Love Music More](/love-music-more/guests/hakan-persson/).
+**[I Don't Speak French](/with/i-dont-speak-french/)** (IDSF) × **Scoobert Doobert**: **September 30, 2022** (**Beformer / Indieshake**). On **October 5, 2026**, Spotify showed **6,394** plays, **3:33**. The count moves. Earlier pairing before [*Voulez-Vous*](/songs/voulez-vous/) (2023). Luke Francis Walton on the Scoobert side. IDSF is Håkan Persson's eclectic Swedish collab project: sync/TV placements, Indieshake label; Persson on [Love Music More](/love-music-more/episodes/hakan-persson/).
 
 See [Catalog: collaborations](/catalog/#collaborations)
 

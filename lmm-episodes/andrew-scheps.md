@@ -49,13 +49,13 @@ selectedMoments:
     startSec: 623
     note: "How he decides what must feel bigger vs. what already works in the rough mix."
   - label: "Gentle shelf vs. Aphex-style top end"
-    startSec: 2540
+    startSec: 1542
     note: "On dense mixes, synthesized air can read louder than a subtle EQ shelf."
   - label: "Adele, parallel compression only on vocals"
-    startSec: 3180
+    startSec: 1867
     note: "Five EQs, no mix-bus processing; intimacy preserved on quiet lines."
   - label: "Where AI helps (and where it doesn’t)"
-    startSec: 5020
+    startSec: 2803
     note: "Spectral separation on Low Roar vs. inference engines that can’t make leaps."
 
 excerptQuotes:
@@ -66,13 +66,13 @@ excerptQuotes:
     startSec: 631
     reviewed: true
   - text: "On a dense mix, you're going to hear that top end a lot more than you're going to hear a gentle shelf."
-    startSec: 2538
+    startSec: 1575
     reviewed: true
   - text: "There is zero compression on her voice — there is only parallel compression… when she's singing delicately, if you start getting rid of the nuance, then you disconnect."
-    startSec: 3250
+    startSec: 1894
     reviewed: true
   - text: "Why do you love music? Because there is nothing else that can make me feel the way music does — raw emotions in a safe space."
-    startSec: 3480
+    startSec: 3451
     reviewed: true
 
 faq:

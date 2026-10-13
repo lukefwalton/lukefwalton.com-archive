@@ -79,7 +79,7 @@ draft: false
 
 Shpak is the trumpeter and horn arranger behind **Peter Gabriel**’s **i/o** era: album credits on [**Road to Joy**](https://petergabriel.com/release/road-to-joy/) and [**Olive Tree**](https://petergabriel.com/release/olive-tree/), plus **i/o The Tour** (2023) on trumpet, French horn, EWI, keyboards, and vocals ([Wikipedia](https://en.wikipedia.org/wiki/I/O_The_Tour), [Pitchfork](https://pitchfork.com/news/peter-gabriel-shares-new-song-road-to-joy-bright-side-mix-listen/)). Earlier: founding **Ripe** trumpet player (Berklee funk/alt-pop). Joshoo alt-pop production and sync work: [Shoutout LA](https://shoutoutla.com/meet-joshoo-artist-and-producer/).
 
-See [**with hub**](/with/joshoo/) · [Love Music More: Joshoo](/love-music-more/guests/joshoo/) (Gabriel tour + Apple commercials episode).
+See [**with hub**](/with/joshoo/) · [Love Music More: Joshoo](/love-music-more/episodes/joshoo/) (Gabriel tour + Apple commercials episode).
 
 See [Catalog: collaborations](/catalog/#collaborations)
 

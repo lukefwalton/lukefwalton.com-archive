@@ -6621,17 +6621,17 @@
         },
         {
           "label": "Gentle shelf vs. Aphex-style top end",
-          "startSec": 2540,
+          "startSec": 1542,
           "note": "On dense mixes, synthesized air can read louder than a subtle EQ shelf."
         },
         {
           "label": "Adele, parallel compression only on vocals",
-          "startSec": 3180,
+          "startSec": 1867,
           "note": "Five EQs, no mix-bus processing; intimacy preserved on quiet lines."
         },
         {
           "label": "Where AI helps (and where it doesn’t)",
-          "startSec": 5020,
+          "startSec": 2803,
           "note": "Spectral separation on Low Roar vs. inference engines that can’t make leaps."
         }
       ],
@@ -6648,17 +6648,17 @@
         },
         {
           "text": "On a dense mix, you're going to hear that top end a lot more than you're going to hear a gentle shelf.",
-          "startSec": 2538,
+          "startSec": 1575,
           "reviewed": true
         },
         {
           "text": "There is zero compression on her voice — there is only parallel compression… when she's singing delicately, if you start getting rid of the nuance, then you disconnect.",
-          "startSec": 3250,
+          "startSec": 1894,
           "reviewed": true
         },
         {
           "text": "Why do you love music? Because there is nothing else that can make me feel the way music does — raw emotions in a safe space.",
-          "startSec": 3480,
+          "startSec": 3451,
           "reviewed": true
         }
       ],
@@ -28282,7 +28282,7 @@
         "Unconventional mind states",
         "Philosophy"
       ],
-      "hostNote": "\"It's like a fox cornered; you really get to see what you're capable of.\" That's the deadline effect, not a threat but a diagnostic. The constraints and pressures you resent are often the ones that reveal what's actually there.\n\nThis episode covers two slow-moving ideas: how unconventional mind states (pressure, altered perception, creative adversity, physical training, fasting) open access to instincts that comfortable, relaxed work doesn't reach, with reference to David Gnozzi and Bobby Lewis as examples, and how progress is genuinely slow and it's fine not to take on every battle at once. Some things only work if you let them marinate.\n\nOne specific production note: sometimes the best-sounding records track drums piece by piece rather than all at once. The best version of a thing isn't always captured in one live room take. That applies to records and to careers.\n",
+      "hostNote": "\"It's like a fox cornered; you really get to see what you're capable of.\" That's the deadline effect, not a threat but a diagnostic. The constraints and pressures you resent are often the ones that reveal what's actually there.\n\nThis episode covers two slow-moving ideas: how unconventional mind states (pressure, altered perception, creative adversity, physical training, fasting) open access to instincts that comfortable, relaxed work doesn't reach, with reference to David Gnozzi and Bubby Lewis as examples, and how progress is genuinely slow and it's fine not to take on every battle at once. Some things only work if you let them marinate.\n\nOne specific production note: sometimes the best-sounding records track drums piece by piece rather than all at once. The best version of a thing isn't always captured in one live room take. That applies to records and to careers.\n",
       "selectedMoments": [
         {
           "label": "The Concept of the Deadline Effect",
@@ -28295,9 +28295,9 @@
           "note": "I reflect on how his creative process is influenced by his emotional states and my approach to music."
         },
         {
-          "label": "Bobby Lewis's Approach to Music",
+          "label": "Bubby Lewis's Approach to Music",
           "startSec": 678,
-          "note": "I share insights from his collaboration with Bobby Lewis and how my unique practices enhance creativity."
+          "note": "I share insights from his collaboration with Bubby Lewis and how my unique practices enhance creativity."
         },
         {
           "label": "The Importance of Progress Over Perfection",
@@ -32470,2734 +32470,6 @@
   },
   {
     "collection": "pages",
-    "slug": "love-music-more/guests/aaron-comess",
-    "title": "Aaron Comess",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/aaron-comess/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/aaron-comess/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/aaron-comess.md",
-      "html": "pages/love-music-more/guests/aaron-comess.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:aaron-comess",
-        "guest:aaron-comess"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Aaron Comess",
-        "aaron-comess",
-        "Spin Doctors"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/abi-the-producer",
-    "title": "ABI THE PRODUCER",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/abi-the-producer/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/abi-the-producer/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/abi-the-producer.md",
-      "html": "pages/love-music-more/guests/abi-the-producer.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:abi-the-producer",
-        "guest:abi-the-producer"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "ABI THE PRODUCER",
-        "abi-the-producer",
-        "Safari Pedals"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/adam-robl",
-    "title": "Adam Robl",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/adam-robl/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/adam-robl/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/adam-robl.md",
-      "html": "pages/love-music-more/guests/adam-robl.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:adam-robl",
-        "guest:adam-robl"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Adam Robl",
-        "adam-robl",
-        "Film and TV composers"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/alex-delicata",
-    "title": "Alex Delicata",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/alex-delicata/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/alex-delicata/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/alex-delicata.md",
-      "html": "pages/love-music-more/guests/alex-delicata.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:alex-delicata",
-        "guest:alex-delicata"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Alex Delicata",
-        "alex-delicata",
-        "Beyoncé",
-        "Rihanna",
-        "Machine Gun Kelly",
-        "Kygo",
-        "OneRepublic"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/andrew-scheps",
-    "title": "Andrew Scheps",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/andrew-scheps/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/andrew-scheps/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/andrew-scheps.md",
-      "html": "pages/love-music-more/guests/andrew-scheps.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:andrew-scheps",
-        "guest:andrew-scheps"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Andrew Scheps",
-        "andrew-scheps",
-        "Adele",
-        "U2",
-        "Hozier"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/andy-shernoff",
-    "title": "Andy Shernoff",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/andy-shernoff/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/andy-shernoff/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/andy-shernoff.md",
-      "html": "pages/love-music-more/guests/andy-shernoff.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:andy-shernoff",
-        "guest:andy-shernoff"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Andy Shernoff",
-        "andy-shernoff",
-        "The Dictators"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/ashlee-chanelle",
-    "title": "Ashlee Chanelle",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/ashlee-chanelle/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/ashlee-chanelle/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/ashlee-chanelle.md",
-      "html": "pages/love-music-more/guests/ashlee-chanelle.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:ashlee-chanelle",
-        "guest:ashlee-chanelle"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Ashlee Chanelle",
-        "ashlee-chanelle",
-        "Epidemic Sound"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/ben-rice",
-    "title": "Ben Rice",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/ben-rice/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/ben-rice/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/ben-rice.md",
-      "html": "pages/love-music-more/guests/ben-rice.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:ben-rice",
-        "guest:ben-rice"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Ben Rice",
-        "ben-rice",
-        "The National",
-        "Norah Jones",
-        "Joan Osborne"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/benjamin-lazar-davis",
-    "title": "Benjamin Lazar Davis",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/benjamin-lazar-davis/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/benjamin-lazar-davis/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/benjamin-lazar-davis.md",
-      "html": "pages/love-music-more/guests/benjamin-lazar-davis.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:benjamin-lazar-davis",
-        "guest:benjamin-lazar-davis"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Benjamin Lazar Davis",
-        "benjamin-lazar-davis",
-        "Maya Hawke",
-        "Okkervil River",
-        "Cuddle Magic"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/bermuda-schwartz",
-    "title": "Bermuda Schwartz",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/bermuda-schwartz/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/bermuda-schwartz/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/bermuda-schwartz.md",
-      "html": "pages/love-music-more/guests/bermuda-schwartz.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:bermuda-schwartz",
-        "guest:bermuda-schwartz"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Bermuda Schwartz",
-        "bermuda-schwartz",
-        "\"Weird Al\" Yankovic"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/bryson-barnes",
-    "title": "Bryson Barnes",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/bryson-barnes/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/bryson-barnes/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/bryson-barnes.md",
-      "html": "pages/love-music-more/guests/bryson-barnes.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:bryson-barnes",
-        "guest:bryson-barnes"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Bryson Barnes",
-        "bryson-barnes",
-        "Head of Audio Production",
-        "NBC News"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/bubby-lewis",
-    "title": "Bubby Lewis",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/bubby-lewis/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/bubby-lewis/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/bubby-lewis.md",
-      "html": "pages/love-music-more/guests/bubby-lewis.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:bubby-lewis",
-        "guest:bubby-lewis"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Bubby Lewis",
-        "bubby-lewis",
-        "Snoop Dogg",
-        "Dr. Dre",
-        "Stevie Wonder"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/cal-kevany",
-    "title": "Cal Kevany",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/cal-kevany/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/cal-kevany/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/cal-kevany.md",
-      "html": "pages/love-music-more/guests/cal-kevany.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:cal-kevany",
-        "guest:cal-kevany"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Cal Kevany",
-        "cal-kevany",
-        "Wallice",
-        "Albert Hammond Jr",
-        "JW Francis"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/chic-chameleon",
-    "title": "Chic Chameleon",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/chic-chameleon/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/chic-chameleon/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/chic-chameleon.md",
-      "html": "pages/love-music-more/guests/chic-chameleon.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:chic-chameleon",
-        "guest:chic-chameleon"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Chic Chameleon",
-        "chic-chameleon",
-        "Losing Slowly",
-        "Edmonton dream-pop"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/chris-hackman",
-    "title": "Chris Hackman",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/chris-hackman/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/chris-hackman/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/chris-hackman.md",
-      "html": "pages/love-music-more/guests/chris-hackman.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:chris-hackman",
-        "guest:chris-hackman"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Chris Hackman",
-        "chris-hackman",
-        "Human Barbie",
-        "Palace"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/craig-bauer",
-    "title": "Craig Bauer",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/craig-bauer/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/craig-bauer/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/craig-bauer.md",
-      "html": "pages/love-music-more/guests/craig-bauer.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:craig-bauer",
-        "guest:craig-bauer"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Craig Bauer",
-        "craig-bauer",
-        "Janet Jackson",
-        "Lupe Fiasco",
-        "Destiny's Child"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/dana-roth",
-    "title": "Dana Roth",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/dana-roth/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/dana-roth/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/dana-roth.md",
-      "html": "pages/love-music-more/guests/dana-roth.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:dana-roth",
-        "guest:dana-roth"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Dana Roth",
-        "dana-roth",
-        "Airship"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/danny-wolf",
-    "title": "Danny Wolf",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/danny-wolf/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/danny-wolf/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/danny-wolf.md",
-      "html": "pages/love-music-more/guests/danny-wolf.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:danny-wolf",
-        "guest:danny-wolf"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Danny Wolf",
-        "danny-wolf",
-        "Rhye",
-        "Great Good Fine Ok",
-        "Wolf and Love"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/david-baron",
-    "title": "David Baron",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/david-baron/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/david-baron/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/david-baron.md",
-      "html": "pages/love-music-more/guests/david-baron.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:david-baron",
-        "guest:david-baron"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "David Baron",
-        "david-baron",
-        "Noah Kahan",
-        "Lana Del Rey",
-        "Lenny Kravitz"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/david-gnozzi",
-    "title": "David Gnozzi",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/david-gnozzi/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/david-gnozzi/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/david-gnozzi.md",
-      "html": "pages/love-music-more/guests/david-gnozzi.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:david-gnozzi",
-        "guest:david-gnozzi"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "David Gnozzi",
-        "david-gnozzi",
-        "MixbusTv"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/dominic-fallacaro",
-    "title": "Dominic Fallacaro",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/dominic-fallacaro/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/dominic-fallacaro/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/dominic-fallacaro.md",
-      "html": "pages/love-music-more/guests/dominic-fallacaro.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:dominic-fallacaro",
-        "guest:dominic-fallacaro"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Dominic Fallacaro",
-        "dominic-fallacaro",
-        "Max Martin",
-        "Juliet",
-        "Broadway"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/eliott-glinn",
-    "title": "Eliott Glinn",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/eliott-glinn/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/eliott-glinn/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/eliott-glinn.md",
-      "html": "pages/love-music-more/guests/eliott-glinn.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:eliott-glinn",
-        "guest:eliott-glinn"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Eliott Glinn",
-        "eliott-glinn",
-        "Eliott Glinn Audio"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/fernando-perdomo",
-    "title": "Fernando Perdomo",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/fernando-perdomo/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/fernando-perdomo/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/fernando-perdomo.md",
-      "html": "pages/love-music-more/guests/fernando-perdomo.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:fernando-perdomo",
-        "guest:fernando-perdomo"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Fernando Perdomo",
-        "fernando-perdomo",
-        "Jackson Browne",
-        "Beck",
-        "Fiona Apple"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/geneva-harrison",
-    "title": "Geneva Harrison",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/geneva-harrison/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/geneva-harrison/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/geneva-harrison.md",
-      "html": "pages/love-music-more/guests/geneva-harrison.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:geneva-harrison",
-        "guest:geneva-harrison"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Geneva Harrison",
-        "geneva-harrison",
-        "Nu Deco Ensemble",
-        "Y La Bamba",
-        "Rachel Goodrich"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/ginger-winn",
-    "title": "Ginger Winn",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/ginger-winn/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/ginger-winn/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/ginger-winn.md",
-      "html": "pages/love-music-more/guests/ginger-winn.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:ginger-winn",
-        "guest:ginger-winn"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Ginger Winn",
-        "ginger-winn",
-        "Stop Motion",
-        "David Baron collaborator"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/grant-davidson",
-    "title": "Grant Davidson",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/grant-davidson/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/grant-davidson/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/grant-davidson.md",
-      "html": "pages/love-music-more/guests/grant-davidson.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:grant-davidson",
-        "guest:grant-davidson"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Grant Davidson",
-        "grant-davidson",
-        "Slow Leaves"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/greg-byers",
-    "title": "Greg Byers",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/greg-byers/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/greg-byers/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/greg-byers.md",
-      "html": "pages/love-music-more/guests/greg-byers.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:greg-byers",
-        "guest:greg-byers"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Greg Byers",
-        "greg-byers",
-        "New Directions Cello Festival",
-        "Seifert International Jazz Competition"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/gustav-brunn",
-    "title": "Gustav Brunn",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/gustav-brunn/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/gustav-brunn/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/gustav-brunn.md",
-      "html": "pages/love-music-more/guests/gustav-brunn.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:gustav-brunn",
-        "guest:gustav-brunn"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Gustav Brunn",
-        "gustav-brunn",
-        "Swedish Grammys",
-        "compulsory-school studios"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/guy-shkolnik",
-    "title": "Dr. Guy Shkolnik",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/guy-shkolnik/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/guy-shkolnik/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/guy-shkolnik.md",
-      "html": "pages/love-music-more/guests/guy-shkolnik.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:guy-shkolnik",
-        "guest:guy-shkolnik"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Dr. Guy Shkolnik",
-        "guy-shkolnik",
-        "PhD in Bach",
-        "music theory educator"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/hakan-persson",
-    "title": "Håkan Persson",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/hakan-persson/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/hakan-persson/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/hakan-persson.md",
-      "html": "pages/love-music-more/guests/hakan-persson.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:hakan-persson",
-        "guest:hakan-persson"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Håkan Persson",
-        "hakan-persson",
-        "Swedish Red Elephant",
-        "I Don't Speak French",
-        "Indie Shake"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/harley-eblen",
-    "title": "Harley Eblen",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/harley-eblen/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/harley-eblen/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/harley-eblen.md",
-      "html": "pages/love-music-more/guests/harley-eblen.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:harley-eblen",
-        "guest:harley-eblen"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Harley Eblen",
-        "harley-eblen",
-        "Billboard #1 String Arranger"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/harley-flanagan",
-    "title": "Harley Flanagan",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/harley-flanagan/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/harley-flanagan/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/harley-flanagan.md",
-      "html": "pages/love-music-more/guests/harley-flanagan.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:harley-flanagan",
-        "guest:harley-flanagan"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Harley Flanagan",
-        "harley-flanagan",
-        "Cro-Mags",
-        "Stimulators"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/harper-james",
-    "title": "Harper James",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/harper-james/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/harper-james/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/harper-james.md",
-      "html": "pages/love-music-more/guests/harper-james.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:harper-james",
-        "guest:harper-james"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Harper James",
-        "harper-james",
-        "Marshmello",
-        "James Bay",
-        "Frawley"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/harry-katz",
-    "title": "Harry Katz",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/harry-katz/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/harry-katz/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/harry-katz.md",
-      "html": "pages/love-music-more/guests/harry-katz.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:harry-katz",
-        "guest:harry-katz"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Harry Katz",
-        "harry-katz",
-        "Harry Katz and the Pistachios",
-        "Big Top Pistachioland"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/harry-terrell",
-    "title": "Harry Terrell",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/harry-terrell/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/harry-terrell/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/harry-terrell.md",
-      "html": "pages/love-music-more/guests/harry-terrell.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:harry-terrell",
-        "guest:harry-terrell"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Harry Terrell",
-        "harry-terrell",
-        "Still Woozy",
-        "Maggie Rogers",
-        "The Breathing Effect"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/hendrick-valera",
-    "title": "Hendrick Valera",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/hendrick-valera/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/hendrick-valera/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/hendrick-valera.md",
-      "html": "pages/love-music-more/guests/hendrick-valera.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:hendrick-valera",
-        "guest:hendrick-valera"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Hendrick Valera",
-        "hendrick-valera",
-        "Braxton Cook",
-        "Equiknoxx",
-        "Karma Rivera"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/jay-jay-french",
-    "title": "Jay Jay French",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/jay-jay-french/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/jay-jay-french/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/jay-jay-french.md",
-      "html": "pages/love-music-more/guests/jay-jay-french.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:jay-jay-french",
-        "guest:jay-jay-french"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Jay Jay French",
-        "jay-jay-french",
-        "Twisted Sister"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/jeb-sherrill",
-    "title": "Jeb Sherrill",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/jeb-sherrill/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/jeb-sherrill/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/jeb-sherrill.md",
-      "html": "pages/love-music-more/guests/jeb-sherrill.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:jeb-sherrill",
-        "guest:jeb-sherrill"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Jeb Sherrill",
-        "jeb-sherrill",
-        "Musical Chair System"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/jesse-mcginty",
-    "title": "Jesse McGinty",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/jesse-mcginty/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/jesse-mcginty/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/jesse-mcginty.md",
-      "html": "pages/love-music-more/guests/jesse-mcginty.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:jesse-mcginty",
-        "guest:jesse-mcginty"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Jesse McGinty",
-        "jesse-mcginty",
-        "Pharrell",
-        "J Lo",
-        "The Masked Singer"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/joe-carra",
-    "title": "Joe Carra",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/joe-carra/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/joe-carra/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/joe-carra.md",
-      "html": "pages/love-music-more/guests/joe-carra.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:joe-carra",
-        "guest:joe-carra"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Joe Carra",
-        "joe-carra",
-        "Crystal Mastering",
-        "Hiatus Kaiyote",
-        "Middle Kids",
-        "Pond"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/john-michael-rouchell",
-    "title": "John Michael Rouchell",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/john-michael-rouchell/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/john-michael-rouchell/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/john-michael-rouchell.md",
-      "html": "pages/love-music-more/guests/john-michael-rouchell.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:john-michael-rouchell",
-        "guest:john-michael-rouchell"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "John Michael Rouchell",
-        "john-michael-rouchell",
-        "G-Eazy",
-        "Avery*Sunshine",
-        "Galactic"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/jon-sandler",
-    "title": "Jon Sandler",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/jon-sandler/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/jon-sandler/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/jon-sandler.md",
-      "html": "pages/love-music-more/guests/jon-sandler.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:jon-sandler",
-        "guest:jon-sandler"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Jon Sandler",
-        "jon-sandler",
-        "Great Good Fine Ok"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/josh-plotner",
-    "title": "Josh Plotner",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/josh-plotner/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/josh-plotner/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/josh-plotner.md",
-      "html": "pages/love-music-more/guests/josh-plotner.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:josh-plotner",
-        "guest:josh-plotner"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Josh Plotner",
-        "josh-plotner",
-        "Meghan Trainor",
-        "The Marvelous Mrs. Maisel",
-        "Babylon"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/joshoo",
-    "title": "Joshoo",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/joshoo/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/joshoo/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/joshoo.md",
-      "html": "pages/love-music-more/guests/joshoo.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:joshoo",
-        "guest:joshoo"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Joshoo",
-        "joshoo",
-        "Peter Gabriel",
-        "Ripe"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/justin-gammella",
-    "title": "Justin Gammella",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/justin-gammella/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/justin-gammella/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/justin-gammella.md",
-      "html": "pages/love-music-more/guests/justin-gammella.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:justin-gammella",
-        "guest:justin-gammella"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Justin Gammella",
-        "justin-gammella",
-        "FINNEAS",
-        "Bella Poarch",
-        "Bahamas"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/justin-kohler",
-    "title": "Justin Kohler",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/justin-kohler/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/justin-kohler/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/justin-kohler.md",
-      "html": "pages/love-music-more/guests/justin-kohler.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:justin-kohler",
-        "guest:justin-kohler"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Justin Kohler",
-        "justin-kohler",
-        "Loveland"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/jw-francis",
-    "title": "JW Francis",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/jw-francis/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/jw-francis/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/jw-francis.md",
-      "html": "pages/love-music-more/guests/jw-francis.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:jw-francis",
-        "guest:jw-francis"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "JW Francis",
-        "jw-francis",
-        "Indie rock songwriter"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/kelley-baker",
-    "title": "Kelley Baker",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/kelley-baker/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/kelley-baker/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/kelley-baker.md",
-      "html": "pages/love-music-more/guests/kelley-baker.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:kelley-baker",
-        "guest:kelley-baker"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Kelley Baker",
-        "kelley-baker",
-        "Good Will Hunting",
-        "My Own Private Idaho",
-        "Finding Forrester"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/kyle-pulley",
-    "title": "Kyle Pulley",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/kyle-pulley/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/kyle-pulley/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/kyle-pulley.md",
-      "html": "pages/love-music-more/guests/kyle-pulley.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:kyle-pulley",
-        "guest:kyle-pulley"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Kyle Pulley",
-        "kyle-pulley",
-        "Alex G",
-        "Dr. Dog",
-        "Mo Lowda",
-        "the Humble"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/leah-bowden",
-    "title": "Dr. Leah Bowden",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/leah-bowden/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/leah-bowden/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/leah-bowden.md",
-      "html": "pages/love-music-more/guests/leah-bowden.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:leah-bowden",
-        "guest:leah-bowden"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Dr. Leah Bowden",
-        "leah-bowden",
-        "Dr. Drums"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/levi-mcclain",
-    "title": "Levi McClain",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/levi-mcclain/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/levi-mcclain/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/levi-mcclain.md",
-      "html": "pages/love-music-more/guests/levi-mcclain.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:levi-mcclain",
-        "guest:levi-mcclain"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Levi McClain",
-        "levi-mcclain",
-        "31-note microtonal music"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/lindy-day",
-    "title": "Lindy Day",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/lindy-day/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/lindy-day/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/lindy-day.md",
-      "html": "pages/love-music-more/guests/lindy-day.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:lindy-day",
-        "guest:lindy-day"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Lindy Day",
-        "lindy-day",
-        "Guitar educator"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/little-luna",
-    "title": "little luna",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/little-luna/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/little-luna/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/little-luna.md",
-      "html": "pages/love-music-more/guests/little-luna.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:little-luna",
-        "guest:little-luna"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "little luna",
-        "little-luna",
-        "indie singer-songwriter"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/luke-moellman",
-    "title": "Luke Moellman",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/luke-moellman/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/luke-moellman/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/luke-moellman.md",
-      "html": "pages/love-music-more/guests/luke-moellman.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:luke-moellman",
-        "guest:luke-moellman"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Luke Moellman",
-        "luke-moellman",
-        "Great Good Fine Ok"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/martin-rieger",
-    "title": "Martin Rieger",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/martin-rieger/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/martin-rieger/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/martin-rieger.md",
-      "html": "pages/love-music-more/guests/martin-rieger.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:martin-rieger",
-        "guest:martin-rieger"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Martin Rieger",
-        "martin-rieger",
-        "360 Video Podcast"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/matt-meyer",
-    "title": "Matt Meyer",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/matt-meyer/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/matt-meyer/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/matt-meyer.md",
-      "html": "pages/love-music-more/guests/matt-meyer.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:matt-meyer",
-        "guest:matt-meyer"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Matt Meyer",
-        "matt-meyer",
-        "Vintage King",
-        "Apogee",
-        "Apple"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/mike-gillilan",
-    "title": "Mike Gillilan",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/mike-gillilan/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/mike-gillilan/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/mike-gillilan.md",
-      "html": "pages/love-music-more/guests/mike-gillilan.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:mike-gillilan",
-        "guest:mike-gillilan"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Mike Gillilan",
-        "mike-gillilan",
-        "Giltone Mastering"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/mike-ladman",
-    "title": "Mike Ladman",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/mike-ladman/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/mike-ladman/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/mike-ladman.md",
-      "html": "pages/love-music-more/guests/mike-ladman.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:mike-ladman",
-        "guest:mike-ladman"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Mike Ladman",
-        "mike-ladman",
-        "Droga5",
-        "McCann"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/mike-post",
-    "title": "Mike Post",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/mike-post/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/mike-post/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/mike-post.md",
-      "html": "pages/love-music-more/guests/mike-post.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:mike-post",
-        "guest:mike-post"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Mike Post",
-        "mike-post",
-        "Local Natives",
-        "Orion Sun",
-        "Alice Cooper"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/mo-lowda-and-the-humble",
-    "title": "Mo Lowda & the Humble",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/mo-lowda-and-the-humble/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/mo-lowda-and-the-humble/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/mo-lowda-and-the-humble.md",
-      "html": "pages/love-music-more/guests/mo-lowda-and-the-humble.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:mo-lowda-and-the-humble",
-        "guest:mo-lowda-and-the-humble"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Mo Lowda & the Humble",
-        "mo-lowda-and-the-humble",
-        "Mo Lowda",
-        "the Humble"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/nicole-mccabe",
-    "title": "Nicole McCabe",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/nicole-mccabe/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/nicole-mccabe/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/nicole-mccabe.md",
-      "html": "pages/love-music-more/guests/nicole-mccabe.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:nicole-mccabe",
-        "guest:nicole-mccabe"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Nicole McCabe",
-        "nicole-mccabe",
-        "Dolphin Hyperspace",
-        "Louis Cole",
-        "Patrice Rushen"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/noam-wallenberg",
-    "title": "Noam Wallenberg",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/noam-wallenberg/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/noam-wallenberg/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/noam-wallenberg.md",
-      "html": "pages/love-music-more/guests/noam-wallenberg.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:noam-wallenberg",
-        "guest:noam-wallenberg"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Noam Wallenberg",
-        "noam-wallenberg",
-        "Vulfpeck",
-        "Anderson .Paak",
-        "Mac Miller"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/nolan-lem",
-    "title": "Nolan Lem",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/nolan-lem/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/nolan-lem/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/nolan-lem.md",
-      "html": "pages/love-music-more/guests/nolan-lem.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:nolan-lem",
-        "guest:nolan-lem"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Nolan Lem",
-        "nolan-lem",
-        "Sound researcher and auditory artist"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/patrick-dean",
-    "title": "Patrick Dean",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/patrick-dean/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/patrick-dean/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/patrick-dean.md",
-      "html": "pages/love-music-more/guests/patrick-dean.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:patrick-dean",
-        "guest:patrick-dean"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Patrick Dean",
-        "patrick-dean",
-        "Guitar educator"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/patrick-hart",
-    "title": "Patrick Hart",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/patrick-hart/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/patrick-hart/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/patrick-hart.md",
-      "html": "pages/love-music-more/guests/patrick-hart.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:patrick-hart",
-        "guest:patrick-hart"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Patrick Hart",
-        "patrick-hart",
-        "Video games",
-        "immersive art"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/phillip-broussard-jr",
-    "title": "Phillip Broussard Jr.",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/phillip-broussard-jr/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/phillip-broussard-jr/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/phillip-broussard-jr.md",
-      "html": "pages/love-music-more/guests/phillip-broussard-jr.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:phillip-broussard-jr",
-        "guest:phillip-broussard-jr"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Phillip Broussard Jr.",
-        "phillip-broussard-jr",
-        "Red Hot Chili Peppers",
-        "Rick Rubin",
-        "Adele",
-        "Eminem"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/qu1tter",
-    "title": "Qu1tter",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/qu1tter/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/qu1tter/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/qu1tter.md",
-      "html": "pages/love-music-more/guests/qu1tter.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:qu1tter",
-        "guest:qu1tter"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Qu1tter",
-        "qu1tter",
-        "Future",
-        "Wale",
-        "London on Da Track"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/rani-adi",
-    "title": "Rani Adi",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/rani-adi/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/rani-adi/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/rani-adi.md",
-      "html": "pages/love-music-more/guests/rani-adi.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:rani-adi",
-        "guest:rani-adi"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Rani Adi",
-        "rani-adi",
-        "PinkPantheress",
-        "Dove Cameron",
-        "postergirl"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/rob-maile",
-    "title": "Rob Maile",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/rob-maile/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/rob-maile/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/rob-maile.md",
-      "html": "pages/love-music-more/guests/rob-maile.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:rob-maile",
-        "guest:rob-maile"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Rob Maile",
-        "rob-maile",
-        "AEA Microphones"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/ron-jackson",
-    "title": "Ron Jackson",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/ron-jackson/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/ron-jackson/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/ron-jackson.md",
-      "html": "pages/love-music-more/guests/ron-jackson.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:ron-jackson",
-        "guest:ron-jackson"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Ron Jackson",
-        "ron-jackson",
-        "Musora",
-        "Drumeo"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/russ-flynn",
-    "title": "Russ Flynn",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/russ-flynn/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/russ-flynn/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/russ-flynn.md",
-      "html": "pages/love-music-more/guests/russ-flynn.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:russ-flynn",
-        "guest:russ-flynn"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Russ Flynn",
-        "russ-flynn",
-        "X Ambassadors",
-        "Sean Lennon",
-        "Rubblebucket"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/ryan-haft",
-    "title": "Ryan Haft",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/ryan-haft/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/ryan-haft/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/ryan-haft.md",
-      "html": "pages/love-music-more/guests/ryan-haft.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:ryan-haft",
-        "guest:ryan-haft"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Ryan Haft",
-        "ryan-haft",
-        "Snarky Puppy",
-        "OM",
-        "Torche"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/sam-durkes",
-    "title": "Sam Durkes",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/sam-durkes/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/sam-durkes/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/sam-durkes.md",
-      "html": "pages/love-music-more/guests/sam-durkes.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:sam-durkes",
-        "guest:sam-durkes"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Sam Durkes",
-        "sam-durkes",
-        "Ezra Furman",
-        "Grace Cummins",
-        "Art More"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/sam-fischmann",
-    "title": "Sam Fischmann",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/sam-fischmann/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/sam-fischmann/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/sam-fischmann.md",
-      "html": "pages/love-music-more/guests/sam-fischmann.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:sam-fischmann",
-        "guest:sam-fischmann"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Sam Fischmann",
-        "sam-fischmann",
-        "Musik Hack"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/sam-moses",
-    "title": "Sam Moses",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/sam-moses/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/sam-moses/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/sam-moses.md",
-      "html": "pages/love-music-more/guests/sam-moses.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:sam-moses",
-        "guest:sam-moses"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Sam Moses",
-        "sam-moses",
-        "Kesha",
-        "Dolly Parton",
-        "Morgan Wade"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/serena-sun",
-    "title": "Serena Sun",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/serena-sun/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/serena-sun/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/serena-sun.md",
-      "html": "pages/love-music-more/guests/serena-sun.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:serena-sun",
-        "guest:serena-sun"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Serena Sun",
-        "serena-sun",
-        "Vancouver indie artist"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/shawn-sutta",
-    "title": "Shawn Sutta",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/shawn-sutta/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/shawn-sutta/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/shawn-sutta.md",
-      "html": "pages/love-music-more/guests/shawn-sutta.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:shawn-sutta",
-        "guest:shawn-sutta"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Shawn Sutta",
-        "shawn-sutta",
-        "Film and TV composers"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/skinny-dippers",
-    "title": "Skinny Dippers",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/skinny-dippers/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/skinny-dippers/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/skinny-dippers.md",
-      "html": "pages/love-music-more/guests/skinny-dippers.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:skinny-dippers",
-        "guest:skinny-dippers"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Skinny Dippers",
-        "skinny-dippers"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/stephan-hawkes",
-    "title": "Stephan Hawkes",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/stephan-hawkes/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/stephan-hawkes/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/stephan-hawkes.md",
-      "html": "pages/love-music-more/guests/stephan-hawkes.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:stephan-hawkes",
-        "guest:stephan-hawkes"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Stephan Hawkes",
-        "stephan-hawkes",
-        "Attila",
-        "Chelsea Grin",
-        "Icarus The Owl"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/steve-brickman",
-    "title": "Steve Brickman",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/steve-brickman/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/steve-brickman/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/steve-brickman.md",
-      "html": "pages/love-music-more/guests/steve-brickman.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:steve-brickman",
-        "guest:steve-brickman"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Steve Brickman",
-        "steve-brickman",
-        "Clairo"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/tommaso",
-    "title": "TOMMASO",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/tommaso/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/tommaso/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/tommaso.md",
-      "html": "pages/love-music-more/guests/tommaso.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:tommaso",
-        "guest:tommaso"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "TOMMASO",
-        "tommaso",
-        "Chicago",
-        "Marmoset"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/travis-ference",
-    "title": "Travis Ference",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/travis-ference/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/travis-ference/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/travis-ference.md",
-      "html": "pages/love-music-more/guests/travis-ference.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:travis-ference",
-        "guest:travis-ference"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Travis Ference",
-        "travis-ference",
-        "St. Vincent",
-        "Aloe Blacc",
-        "Skylar Grey"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/tristan-clopet",
-    "title": "Tristan Clopet",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/tristan-clopet/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/tristan-clopet/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/tristan-clopet.md",
-      "html": "pages/love-music-more/guests/tristan-clopet.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:tristan-clopet",
-        "guest:tristan-clopet"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Tristan Clopet",
-        "tristan-clopet",
-        "Crown Heights",
-        "The Infiltrator",
-        "This American Life"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/wilson-harwood",
-    "title": "Wilson Harwood",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/wilson-harwood/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/wilson-harwood/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/wilson-harwood.md",
-      "html": "pages/love-music-more/guests/wilson-harwood.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:wilson-harwood",
-        "guest:wilson-harwood"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Wilson Harwood",
-        "wilson-harwood",
-        "Soundproof Your Studio"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
-    "slug": "love-music-more/guests/xuan-nguyen",
-    "title": "Xuan Nguyen",
-    "type": "WebPage",
-    "recordKind": "surface",
-    "liveUrl": "https://lukefwalton.com/love-music-more/guests/xuan-nguyen/",
-    "canonicalUrl": "https://lukefwalton.com/love-music-more/guests/xuan-nguyen/",
-    "archive": {
-      "markdown": "pages/love-music-more/guests/xuan-nguyen.md",
-      "html": "pages/love-music-more/guests/xuan-nguyen.html"
-    },
-    "source": "src/pages/love-music-more/guests/[slug].astro",
-    "derivedFrom": [
-      "ask-the-archive/src/lib/hub-legibility.ts",
-      "src/lib/lmm-guests.ts"
-    ],
-    "metadata": {
-      "recordIds": [
-        "guest:xuan-nguyen",
-        "guest:xuan-nguyen"
-      ],
-      "themes": [
-        "Love Music More",
-        "guest",
-        "Xuan Nguyen",
-        "xuan-nguyen",
-        "veronicavon"
-      ]
-    }
-  },
-  {
-    "collection": "pages",
     "slug": "music",
     "title": "Music: Luke F. Walton & Scoobert Doobert",
     "type": "WebPage",
@@ -35454,7 +32726,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:aaron-dowler",
         "with:aaron-dowler"
       ],
       "themes": [
@@ -35484,7 +32755,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:aj-novak",
         "with:aj-novak"
       ],
       "themes": [
@@ -35514,7 +32784,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:amaire-johnson",
         "with:amaire-johnson"
       ],
       "themes": [
@@ -35544,7 +32813,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:andrew-gant",
         "with:andrew-gant"
       ],
       "themes": [
@@ -35574,7 +32842,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:annie-dingwall",
         "with:annie-dingwall"
       ],
       "themes": [
@@ -35604,7 +32871,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:anthony-fantano",
         "with:anthony-fantano"
       ],
       "themes": [
@@ -35636,7 +32902,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:applied-communications",
         "with:applied-communications"
       ],
       "themes": [
@@ -35667,7 +32932,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:barry-harris",
         "with:barry-harris"
       ],
       "themes": [
@@ -35698,7 +32962,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:bear-attack",
         "with:bear-attack"
       ],
       "themes": [
@@ -35728,7 +32991,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:bed",
         "with:bed"
       ],
       "themes": [
@@ -35758,7 +33020,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:blue-suburbia",
         "with:blue-suburbia"
       ],
       "themes": [
@@ -35788,7 +33049,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:brandon-combs",
         "with:brandon-combs"
       ],
       "themes": [
@@ -35818,7 +33078,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:brian-robert-jones",
         "with:brian-robert-jones"
       ],
       "themes": [
@@ -35849,7 +33108,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:bubby-lewis",
         "with:bubby-lewis"
       ],
       "themes": [
@@ -35880,7 +33138,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:caden-jester",
         "with:caden-jester"
       ],
       "themes": [
@@ -35910,7 +33167,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:cary-singer",
         "with:cary-singer"
       ],
       "themes": [
@@ -35940,7 +33196,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:casey-mcsocial",
         "with:casey-mcsocial"
       ],
       "themes": [
@@ -35970,7 +33225,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:cat-rose-smith",
         "with:cat-rose-smith"
       ],
       "themes": [
@@ -36000,7 +33254,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:chai",
         "with:chai"
       ],
       "themes": [
@@ -36034,7 +33287,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:chan-fuze",
         "with:chan-fuze"
       ],
       "themes": [
@@ -36064,7 +33316,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:chao",
         "with:chao"
       ],
       "themes": [
@@ -36097,7 +33348,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:christofi",
         "with:christofi"
       ],
       "themes": [
@@ -36130,7 +33380,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:derek-mixedbyali-ali",
         "with:derek-mixedbyali-ali"
       ],
       "themes": [
@@ -36163,7 +33412,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:embody",
         "with:embody"
       ],
       "themes": [
@@ -36194,7 +33442,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:eric-radloff",
         "with:eric-radloff"
       ],
       "themes": [
@@ -36230,7 +33477,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:frank-rosato",
         "with:frank-rosato"
       ],
       "themes": [
@@ -36267,7 +33513,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:gabe-rudner",
         "with:gabe-rudner"
       ],
       "themes": [
@@ -36298,14 +33543,14 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:garvie",
         "with:garvie"
       ],
       "themes": [
         "collaborator",
         "Garvie",
         "garvie",
-        "Mixed"
+        "Mixed",
+        "Love Music More"
       ]
     }
   },
@@ -36328,7 +33573,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:great-good-fine-ok",
         "with:great-good-fine-ok"
       ],
       "themes": [
@@ -36360,7 +33604,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:gregg-allman",
         "with:gregg-allman"
       ],
       "themes": [
@@ -36390,7 +33633,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:gregg-bissonette",
         "with:gregg-bissonette"
       ],
       "themes": [
@@ -36421,7 +33663,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:grizzard-graphics",
         "with:grizzard-graphics"
       ],
       "themes": [
@@ -36454,7 +33695,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:guitar-center",
         "with:guitar-center"
       ],
       "themes": [
@@ -36484,7 +33724,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:hammer-city",
         "with:hammer-city"
       ],
       "themes": [
@@ -36515,7 +33754,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:i-dont-speak-french",
         "with:i-dont-speak-french"
       ],
       "themes": [
@@ -36547,7 +33785,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:india-thieriot",
         "with:india-thieriot"
       ],
       "themes": [
@@ -36578,7 +33815,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:j-mesa",
         "with:j-mesa"
       ],
       "themes": [
@@ -36614,7 +33850,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:jamie-drake",
         "with:jamie-drake"
       ],
       "themes": [
@@ -36645,7 +33880,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:janelle-kroll",
         "with:janelle-kroll"
       ],
       "themes": [
@@ -36675,7 +33909,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:john-cowan",
         "with:john-cowan"
       ],
       "themes": [
@@ -36705,7 +33938,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:jonathan-gillie",
         "with:jonathan-gillie"
       ],
       "themes": [
@@ -36736,7 +33968,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:jordan-sorokin",
         "with:jordan-sorokin"
       ],
       "themes": [
@@ -36769,7 +34000,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:joshoo",
         "with:joshoo"
       ],
       "themes": [
@@ -36801,7 +34031,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:justin-klunk",
         "with:justin-klunk"
       ],
       "themes": [
@@ -36833,7 +34062,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:kerri-medders",
         "with:kerri-medders"
       ],
       "themes": [
@@ -36864,7 +34092,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:kevin-tubbs",
         "with:kevin-tubbs"
       ],
       "themes": [
@@ -36898,7 +34125,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:komagome",
         "with:komagome"
       ],
       "themes": [
@@ -36929,7 +34155,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:lamont-dozier",
         "with:lamont-dozier"
       ],
       "themes": [
@@ -36959,7 +34184,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:lara-johnston",
         "with:lara-johnston"
       ],
       "themes": [
@@ -36991,7 +34215,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:leah-and-lia",
         "with:leah-and-lia"
       ],
       "themes": [
@@ -37024,7 +34247,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:limon-limon",
         "with:limon-limon"
       ],
       "themes": [
@@ -37054,7 +34276,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:logan-shrewsbury",
         "with:logan-shrewsbury"
       ],
       "themes": [
@@ -37084,7 +34305,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:lou-roy",
         "with:lou-roy"
       ],
       "themes": [
@@ -37116,7 +34336,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:mahesh-pathmakumara",
         "with:mahesh-pathmakumara"
       ],
       "themes": [
@@ -37146,7 +34365,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:malik-lovesyall",
         "with:malik-lovesyall"
       ],
       "themes": [
@@ -37176,7 +34394,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:matias-mora",
         "with:matias-mora"
       ],
       "themes": [
@@ -37206,7 +34423,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:max-horwich",
         "with:max-horwich"
       ],
       "themes": [
@@ -37239,7 +34455,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:meshal-al-jaser",
         "with:meshal-al-jaser"
       ],
       "themes": [
@@ -37273,7 +34488,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:mike-ladman",
         "with:mike-ladman"
       ],
       "themes": [
@@ -37305,7 +34519,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nathan-gehri",
         "with:nathan-gehri"
       ],
       "themes": [
@@ -37335,7 +34548,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nick-belcher",
         "with:nick-belcher"
       ],
       "themes": [
@@ -37367,7 +34579,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nick-campbell",
         "with:nick-campbell"
       ],
       "themes": [
@@ -37399,7 +34610,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nick-petrou",
         "with:nick-petrou"
       ],
       "themes": [
@@ -37429,7 +34639,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nicole-mccabe",
         "with:nicole-mccabe"
       ],
       "themes": [
@@ -37462,7 +34671,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:nina-francis",
         "with:nina-francis"
       ],
       "themes": [
@@ -37493,7 +34701,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:noah-benardout",
         "with:noah-benardout"
       ],
       "themes": [
@@ -37523,7 +34730,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:okame",
         "with:okame"
       ],
       "themes": [
@@ -37555,7 +34761,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:patrice-rushen",
         "with:patrice-rushen"
       ],
       "themes": [
@@ -37585,7 +34790,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:peter-lee-johnson",
         "with:peter-lee-johnson"
       ],
       "themes": [
@@ -37618,7 +34822,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:peter-rosenbaum",
         "with:peter-rosenbaum"
       ],
       "themes": [
@@ -37648,7 +34851,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:petite-meller",
         "with:petite-meller"
       ],
       "themes": [
@@ -37680,7 +34882,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:rebecca-sansom",
         "with:rebecca-sansom"
       ],
       "themes": [
@@ -37713,7 +34914,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:riley-knapp",
         "with:riley-knapp"
       ],
       "themes": [
@@ -37746,7 +34946,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:rob-nagelhout",
         "with:rob-nagelhout"
       ],
       "themes": [
@@ -37776,7 +34975,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:robel-ketema",
         "with:robel-ketema"
       ],
       "themes": [
@@ -37806,7 +35004,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:rozzi-crane",
         "with:rozzi-crane"
       ],
       "themes": [
@@ -37837,7 +35034,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:sam-wilkes",
         "with:sam-wilkes"
       ],
       "themes": [
@@ -37868,7 +35064,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:sarah-oh",
         "with:sarah-oh"
       ],
       "themes": [
@@ -37898,7 +35093,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:takatsu-king",
         "with:takatsu-king"
       ],
       "themes": [
@@ -37931,7 +35125,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:tamtam",
         "with:tamtam"
       ],
       "themes": [
@@ -37963,7 +35156,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:the-doobie-brothers",
         "with:the-doobie-brothers"
       ],
       "themes": [
@@ -37993,7 +35185,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:thumpasaurus",
         "with:thumpasaurus"
       ],
       "themes": [
@@ -38023,7 +35214,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:tommaso-veronesi",
         "with:tommaso-veronesi"
       ],
       "themes": [
@@ -38058,7 +35248,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:victor-marc",
         "with:victor-marc"
       ],
       "themes": [
@@ -38090,7 +35279,6 @@
     ],
     "metadata": {
       "recordIds": [
-        "with:zach-freeman",
         "with:zach-freeman"
       ],
       "themes": [
