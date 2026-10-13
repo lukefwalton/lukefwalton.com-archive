@@ -4346,6 +4346,62 @@
   },
   {
     "collection": "lmm-episodes",
+    "slug": "2024-in-review-a-recap-of-my-guest-pods-pt-1",
+    "title": "2024 In Review: A Recap of My Guest Pods (Pt. 1)",
+    "type": "PodcastEpisode",
+    "recordKind": "collection",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/2024-in-review-a-recap-of-my-guest-pods-pt-1/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/2024-in-review-a-recap-of-my-guest-pods-pt-1/",
+    "archive": {
+      "markdown": "lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-1.md",
+      "html": "lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-1.html"
+    },
+    "source": "src/content/lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-1.md",
+    "metadata": {
+      "title": "2024 In Review: A Recap of My Guest Pods (Pt. 1)",
+      "description": "Miss an episode? Let’s recap all of the guests from this year, some key takeaways, and find some new goals for 2025.",
+      "date": "2024-12-31",
+      "kind": "solo",
+      "status": "stub",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/2024-In-Review-A-Recap-of-My-Guest-Pods-Pt--1-e2ss7dp",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/2024-in-review-a-recap-of-my-guest-pods-pt-1/id1567355195?i=1000682212689&uo=4",
+      "topicsDiscussed": [],
+      "hostNote": "Full episode audio is on the listen link above.\n",
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "2024-in-review-a-recap-of-my-guest-pods-pt-2",
+    "title": "2024 In Review: A Recap of My Guest Pods (Pt. 2 )",
+    "type": "PodcastEpisode",
+    "recordKind": "collection",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/2024-in-review-a-recap-of-my-guest-pods-pt-2/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/2024-in-review-a-recap-of-my-guest-pods-pt-2/",
+    "archive": {
+      "markdown": "lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-2.md",
+      "html": "lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-2.html"
+    },
+    "source": "src/content/lmm-episodes/2024-in-review-a-recap-of-my-guest-pods-pt-2.md",
+    "metadata": {
+      "title": "2024 In Review: A Recap of My Guest Pods (Pt. 2 )",
+      "description": "Miss an episode? Let’s recap all of the guests from this year, some key takeaways, and find some new goals for 2025.",
+      "date": "2025-01-14",
+      "kind": "solo",
+      "status": "stub",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/2024-In-Review-A-Recap-of-My-Guest-Pods-Pt--2-e2t3prb",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/2024-in-review-a-recap-of-my-guest-pods-pt-1/id1567355195?i=1000682212689&uo=4",
+      "topicsDiscussed": [],
+      "hostNote": "Full episode audio is on the listen link above.\n",
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
     "slug": "5-lessons-from-igor-stravinsky",
     "title": "5 Lessons from Igor Stravinsky",
     "type": "PodcastEpisode",
@@ -8132,6 +8188,36 @@
           "answer": "He uses Roman numerals to organize songs and relies on repeated listening for memorization."
         }
       ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "carey-clayton",
+    "title": "Everything Under The Sun with Carey Clayton (Modern Olympia, Jay Som, Morgan Jay)",
+    "type": "PodcastEpisode",
+    "recordKind": "collection",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/carey-clayton/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/carey-clayton/",
+    "archive": {
+      "markdown": "lmm-episodes/carey-clayton.md",
+      "html": "lmm-episodes/carey-clayton.html"
+    },
+    "source": "src/content/lmm-episodes/carey-clayton.md",
+    "metadata": {
+      "title": "Everything Under The Sun with Carey Clayton (Modern Olympia, Jay Som, Morgan Jay)",
+      "description": "Modern music careers are BROAD. No one exemplifies that better than Carey Clayton, a producer, songwriter, composer, multi-instrumentalist, touring musician, and artist. He’s written #1 songs in China, composed for The Simpsons and Love Island, toured with Jay Som and Great Good Fine Ok, built sample packs for Splice, and releases his own music as Carey Clayton, Fore Fader, and Modern Olympia.",
+      "date": "2026-10-06",
+      "kind": "guest",
+      "status": "stub",
+      "guestSlugs": [
+        "carey-clayton"
+      ],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/Everything-Under-The-Sun-with-Carey-Clayton-Modern-Olympia--Jay-Som--Morgan-Jay-e3pr382",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/everything-under-the-sun-with-carey-clayton-modern/id1567355195?i=1000793393862&uo=4",
+      "topicsDiscussed": [],
+      "hostNote": "Full interview audio is on the listen link above.\n",
       "transcriptPublished": false,
       "draft": false
     }
@@ -25949,6 +26035,34 @@
           "answer": "Noise can interfere with sound quality during recording; understanding gain staging and managing noise is crucial for achieving the best audio results."
         }
       ],
+      "transcriptPublished": false,
+      "draft": false
+    }
+  },
+  {
+    "collection": "lmm-episodes",
+    "slug": "the-cultural-changes-of-whalesong",
+    "title": "The Cultural Changes of Whalesong",
+    "type": "PodcastEpisode",
+    "recordKind": "collection",
+    "liveUrl": "https://lukefwalton.com/love-music-more/episodes/the-cultural-changes-of-whalesong/",
+    "canonicalUrl": "https://lukefwalton.com/love-music-more/episodes/the-cultural-changes-of-whalesong/",
+    "archive": {
+      "markdown": "lmm-episodes/the-cultural-changes-of-whalesong.md",
+      "html": "lmm-episodes/the-cultural-changes-of-whalesong.html"
+    },
+    "source": "src/content/lmm-episodes/the-cultural-changes-of-whalesong.md",
+    "metadata": {
+      "title": "The Cultural Changes of Whalesong",
+      "description": "In this finale to the mini-science series, let's talk humpback whales and Snowball the dancing Cockatoo. How do birds handle tempo changes? And can whales remember their songs or are they just improvising?",
+      "date": "2026-10-13",
+      "kind": "solo",
+      "status": "stub",
+      "guestSlugs": [],
+      "listenUrl": "https://podcasters.spotify.com/pod/show/lovemusicmore/episodes/The-Cultural-Changes-of-Whalesong-e3p15if",
+      "appleUrl": "https://podcasts.apple.com/us/podcast/the-cultural-changes-of-whalesong/id1567355195?i=1000796086385&uo=4",
+      "topicsDiscussed": [],
+      "hostNote": "Full episode audio is on the listen link above.\n",
       "transcriptPublished": false,
       "draft": false
     }
