@@ -664,14 +664,10 @@
           "@id": "https://lukefwalton.com/#person"
         },
         {
-          "@type": "Person",
-          "name": "Rob Nagelhout",
-          "url": "https://www.robnagelhout.com/"
+          "@id": "https://lukefwalton.com/with/rob-nagelhout/#artist"
         },
         {
-          "@type": "Person",
-          "name": "A.J. Novak",
-          "url": "https://ajnovaksound.com/"
+          "@id": "https://lukefwalton.com/with/aj-novak/#artist"
         }
       ]
     },

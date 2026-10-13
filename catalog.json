@@ -35436,6 +35436,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/aj-novak",
+    "title": "With A.J. Novak",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/aj-novak/",
+    "canonicalUrl": "https://lukefwalton.com/with/aj-novak/",
+    "archive": {
+      "markdown": "pages/with/aj-novak.md",
+      "html": "pages/with/aj-novak.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:aj-novak",
+        "with:aj-novak"
+      ],
+      "themes": [
+        "collaborator",
+        "A.J. Novak",
+        "aj-novak",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/annie-dingwall",
     "title": "With Annie Dingwall",
     "type": "WebPage",
@@ -37392,6 +37422,36 @@
         "Scoobert Doobert (mastering)",
         "Mix clients and other masters",
         "Love Music More"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/rob-nagelhout",
+    "title": "With Rob Nagelhout",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/rob-nagelhout/",
+    "canonicalUrl": "https://lukefwalton.com/with/rob-nagelhout/",
+    "archive": {
+      "markdown": "pages/with/rob-nagelhout.md",
+      "html": "pages/with/rob-nagelhout.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:rob-nagelhout",
+        "with:rob-nagelhout"
+      ],
+      "themes": [
+        "collaborator",
+        "Rob Nagelhout",
+        "rob-nagelhout",
+        "With Luke Walton"
       ]
     }
   },

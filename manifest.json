@@ -5,12 +5,12 @@
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
   "doi": "10.5281/zenodo.20683155",
-  "generatedAt": "2026-10-08",
+  "generatedAt": "2026-10-13",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "b6ad807c072c737412372fbbbf8fbbf02c4c9a31"
+    "commit": "dc20d23de9d178d2290d0faa3708d9ed0e5aa9c5"
   },
-  "total": 887,
+  "total": 889,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -24,7 +24,7 @@
   "records": {
     "collections": 683,
     "publisherStubs": 28,
-    "surfaces": 176
+    "surfaces": 178
   },
   "assets": {
     "manifest": "assets.json",
