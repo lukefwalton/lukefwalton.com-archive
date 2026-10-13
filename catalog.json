@@ -18,6 +18,7 @@
       "year": 2013,
       "releaseDate": "2013-08-02",
       "releaseType": "EP",
+      "artworkBy": "Sarah Oh",
       "image": "/photos/covers/413.jpg",
       "imageAlt": "Cover for 413. Three white panels of a broken cube with orange numerals 4, 1, and 3, and Exist Elsewhere lettered along the edges.",
       "artist": "Exist Elsewhere",
@@ -35436,6 +35437,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/aaron-dowler",
+    "title": "With Aaron Dowler",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/aaron-dowler/",
+    "canonicalUrl": "https://lukefwalton.com/with/aaron-dowler/",
+    "archive": {
+      "markdown": "pages/with/aaron-dowler.md",
+      "html": "pages/with/aaron-dowler.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:aaron-dowler",
+        "with:aaron-dowler"
+      ],
+      "themes": [
+        "collaborator",
+        "Aaron Dowler",
+        "aaron-dowler",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/aj-novak",
     "title": "With A.J. Novak",
     "type": "WebPage",
@@ -35460,6 +35491,66 @@
         "collaborator",
         "A.J. Novak",
         "aj-novak",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/amaire-johnson",
+    "title": "With Amaire Johnson",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/amaire-johnson/",
+    "canonicalUrl": "https://lukefwalton.com/with/amaire-johnson/",
+    "archive": {
+      "markdown": "pages/with/amaire-johnson.md",
+      "html": "pages/with/amaire-johnson.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:amaire-johnson",
+        "with:amaire-johnson"
+      ],
+      "themes": [
+        "collaborator",
+        "Amaire Johnson",
+        "amaire-johnson",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/andrew-gant",
+    "title": "With Andrew Gant",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/andrew-gant/",
+    "canonicalUrl": "https://lukefwalton.com/with/andrew-gant/",
+    "archive": {
+      "markdown": "pages/with/andrew-gant.md",
+      "html": "pages/with/andrew-gant.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:andrew-gant",
+        "with:andrew-gant"
+      ],
+      "themes": [
+        "collaborator",
+        "Andrew Gant",
+        "andrew-gant",
         "With Luke Walton"
       ]
     }
@@ -35802,6 +35893,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/cary-singer",
+    "title": "With Cary Singer",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/cary-singer/",
+    "canonicalUrl": "https://lukefwalton.com/with/cary-singer/",
+    "archive": {
+      "markdown": "pages/with/cary-singer.md",
+      "html": "pages/with/cary-singer.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:cary-singer",
+        "with:cary-singer"
+      ],
+      "themes": [
+        "collaborator",
+        "Cary Singer",
+        "cary-singer",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/casey-mcsocial",
     "title": "With Casey McSocial",
     "type": "WebPage",
@@ -35984,6 +36105,7 @@
         "Christofi",
         "christofi",
         "Michael Christofi",
+        "Mike Funk",
         "Collaborations with FEiN",
         "Sessions"
       ]
@@ -36915,6 +37037,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/logan-shrewsbury",
+    "title": "With Logan Shrewsbury",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/logan-shrewsbury/",
+    "canonicalUrl": "https://lukefwalton.com/with/logan-shrewsbury/",
+    "archive": {
+      "markdown": "pages/with/logan-shrewsbury.md",
+      "html": "pages/with/logan-shrewsbury.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:logan-shrewsbury",
+        "with:logan-shrewsbury"
+      ],
+      "themes": [
+        "collaborator",
+        "Logan Shrewsbury",
+        "logan-shrewsbury",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/lou-roy",
     "title": "With Lou Roy",
     "type": "WebPage",
@@ -36972,6 +37124,66 @@
         "Mahesh Pathmakumara",
         "mahesh-pathmakumara",
         "Sessions with Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/malik-lovesyall",
+    "title": "With Malik LovesYall",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/malik-lovesyall/",
+    "canonicalUrl": "https://lukefwalton.com/with/malik-lovesyall/",
+    "archive": {
+      "markdown": "pages/with/malik-lovesyall.md",
+      "html": "pages/with/malik-lovesyall.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:malik-lovesyall",
+        "with:malik-lovesyall"
+      ],
+      "themes": [
+        "collaborator",
+        "Malik LovesYall",
+        "malik-lovesyall",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/matias-mora",
+    "title": "With Matias Mora",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/matias-mora/",
+    "canonicalUrl": "https://lukefwalton.com/with/matias-mora/",
+    "archive": {
+      "markdown": "pages/with/matias-mora.md",
+      "html": "pages/with/matias-mora.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:matias-mora",
+        "with:matias-mora"
+      ],
+      "themes": [
+        "collaborator",
+        "Matias Mora",
+        "matias-mora",
+        "With Luke Walton"
       ]
     }
   },
@@ -37170,6 +37382,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/nick-petrou",
+    "title": "With Nick Petrou",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/nick-petrou/",
+    "canonicalUrl": "https://lukefwalton.com/with/nick-petrou/",
+    "archive": {
+      "markdown": "pages/with/nick-petrou.md",
+      "html": "pages/with/nick-petrou.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:nick-petrou",
+        "with:nick-petrou"
+      ],
+      "themes": [
+        "collaborator",
+        "Nick Petrou",
+        "nick-petrou",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/nicole-mccabe",
     "title": "With Nicole McCabe",
     "type": "WebPage",
@@ -37229,6 +37471,36 @@
         "nina-francis",
         "Production",
         "Co-writing & FEiN"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/noah-benardout",
+    "title": "With Noah Benardout",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/noah-benardout/",
+    "canonicalUrl": "https://lukefwalton.com/with/noah-benardout/",
+    "archive": {
+      "markdown": "pages/with/noah-benardout.md",
+      "html": "pages/with/noah-benardout.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:noah-benardout",
+        "with:noah-benardout"
+      ],
+      "themes": [
+        "collaborator",
+        "Noah Benardout",
+        "noah-benardout",
+        "With Luke Walton"
       ]
     }
   },
@@ -37324,6 +37596,36 @@
         "The Luke Walton Band",
         "YouTube collabs with Luke Walton",
         "FEiN: Little Homes (violin)"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/peter-rosenbaum",
+    "title": "With Peter Rosenbaum",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/peter-rosenbaum/",
+    "canonicalUrl": "https://lukefwalton.com/with/peter-rosenbaum/",
+    "archive": {
+      "markdown": "pages/with/peter-rosenbaum.md",
+      "html": "pages/with/peter-rosenbaum.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:peter-rosenbaum",
+        "with:peter-rosenbaum"
+      ],
+      "themes": [
+        "collaborator",
+        "Peter Rosenbaum",
+        "peter-rosenbaum",
+        "With Luke Walton"
       ]
     }
   },
@@ -37457,6 +37759,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/robel-ketema",
+    "title": "With Robel Ketema",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/robel-ketema/",
+    "canonicalUrl": "https://lukefwalton.com/with/robel-ketema/",
+    "archive": {
+      "markdown": "pages/with/robel-ketema.md",
+      "html": "pages/with/robel-ketema.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:robel-ketema",
+        "with:robel-ketema"
+      ],
+      "themes": [
+        "collaborator",
+        "Robel Ketema",
+        "robel-ketema",
+        "With Luke Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/rozzi-crane",
     "title": "With Rozzi Crane",
     "type": "WebPage",
@@ -37514,6 +37846,36 @@
         "sam-wilkes",
         "With Luke Walton",
         "With Rozzi Crane (post-tour public record)"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "with/sarah-oh",
+    "title": "With Sarah Oh",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/sarah-oh/",
+    "canonicalUrl": "https://lukefwalton.com/with/sarah-oh/",
+    "archive": {
+      "markdown": "pages/with/sarah-oh.md",
+      "html": "pages/with/sarah-oh.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:sarah-oh",
+        "with:sarah-oh"
+      ],
+      "themes": [
+        "collaborator",
+        "Sarah Oh",
+        "sarah-oh",
+        "With Luke Walton"
       ]
     }
   },
@@ -42974,14 +43336,14 @@
     "source": "src/content/songs/fly-felix-beautiful-animal.md",
     "metadata": {
       "title": "Beautiful Animal",
-      "meaning": "Fly Felix single (2018); co-produced by Drew Tyler and FEiN. Track 2 on The Sun Will Wake You Up.",
+      "meaning": "Fly Felix single (2018); co-produced by Drew Tyler (Fly Felix) and FEiN. Track 2 on The Sun Will Wake You Up.",
       "year": 2018,
       "release": "The Sun Will Wake You Up",
       "releaseType": "single",
       "artist": "Fly Felix",
       "role": "production",
       "productionRoles": "Co-production (FEiN)",
-      "credits": "Genius producer field (verified): Drew Tyler and FEiN. BMI public record identifies FEiN as Luke Walton and Brandon Woodward. Not a solo Luke Walton production credit.",
+      "credits": "Genius producer field (verified): Drew Tyler (Fly Felix) and FEiN. BMI public record identifies FEiN as Luke Walton and Brandon Woodward. Not a solo Luke Walton production credit.",
       "officialVideo": "https://www.youtube.com/watch?v=LAn98aOwV-U",
       "spotify": "https://open.spotify.com/track/6WtCcc8VsXQCMeVqPa4Lrl",
       "apple": "https://music.apple.com/us/album/beautiful-animal-single/1491050820",

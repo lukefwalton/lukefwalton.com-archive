@@ -152,7 +152,7 @@ Jump to section
 </section>
 <section>
 <h4>Exist Elsewhere</h4>
-<p>USC Thornton four-piece (2012–2013): Luke Francis Walton, Brandon Woodward, <a href="https://www.noahbenardoutfoundation.org/">Noah Benardout</a>, Nick Petrou. <a href="https://open.spotify.com/artist/5MkskXZeYc12vYcMS0s9UF">Spotify</a> · <a href="https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/">Macworld/iWorld 2013 champions</a> · <a href="https://www.youtube.com/watch?v=-uY8Vlu1FvM&amp;t=1692">iNDIE iNNOVATION video</a> · <a href="https://www.gettyimages.com/detail/news-photo/bassist-nick-petrou-drummer-brandon-woodward-vocalist-news-photo/175810142">Sunset Strip Music Festival (Aug 2, 2013)</a></p>
+<p>USC Thornton four-piece (2012–2013): Luke Francis Walton, Brandon Woodward, <a href="with/noah-benardout.html">Noah Benardout</a>, <a href="with/nick-petrou.html">Nick Petrou</a>. <a href="https://open.spotify.com/artist/5MkskXZeYc12vYcMS0s9UF">Spotify</a> · <a href="https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/">Macworld/iWorld 2013 champions</a> · <a href="https://www.youtube.com/watch?v=-uY8Vlu1FvM&amp;t=1692">iNDIE iNNOVATION video</a> · <a href="https://www.gettyimages.com/detail/news-photo/bassist-nick-petrou-drummer-brandon-woodward-vocalist-news-photo/175810142">Sunset Strip Music Festival (Aug 2, 2013)</a></p>
 </section>
 <section>
 <h4>Burrito Bot</h4>

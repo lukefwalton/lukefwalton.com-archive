@@ -69,6 +69,6 @@ Verse one is compassion rationing itself. A newspaper carries a father who *lost
 
 The song ends on *let me in*, no chorus to follow. Where [*American Man*](/songs/american-man/) said mind your own business, here someone tries not to look away from the person beside them. Leads into [*Roadtrip*](/songs/roadtrip/).
 
-**Session:** [Amaire Johnson](https://en.wikipedia.org/wiki/Amaire_Johnson): piano (*Little Homes* liner). Johnson moved to LA in 2012 for Musicians Institute and later became a producer/keyboardist on Big Sean records (*Bounce Back*, *Moves*, *Single Again*); the FEiN credit is a session on this track only.
+**Session:** [Amaire Johnson](/with/amaire-johnson/): piano (*Little Homes* liner). Johnson moved to LA in 2012 for Musicians Institute and later became a producer/keyboardist on Big Sean records (*Bounce Back*, *Moves*, *Single Again*); the FEiN credit is a session on this track only.
 
 ---

@@ -640,11 +640,7 @@
           "@id": "https://lukefwalton.com/with/zach-freeman/#artist"
         },
         {
-          "@type": "Person",
-          "name": "Peter Rosenbaum",
-          "sameAs": [
-            "https://www.linkedin.com/in/peterrosenbaum91"
-          ]
+          "@id": "https://lukefwalton.com/with/peter-rosenbaum/#artist"
         }
       ]
     },

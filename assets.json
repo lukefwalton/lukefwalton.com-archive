@@ -3920,6 +3920,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -6717,6 +6718,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -6738,6 +6740,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -6871,6 +6874,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/exist-elsewhere.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
@@ -6938,6 +6942,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -7381,6 +7386,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/exist-elsewhere.ts"
     ]
   },
@@ -7618,6 +7624,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/musician-photos.ts"
     ]
   },
@@ -10508,6 +10515,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -10663,10 +10671,11 @@
     "archivePolicy": "include",
     "basis": "group",
     "reason": "Personal-archive holding Luke keeps and publishes; photographer not recorded, so no copyright is claimed. Preserved as archive material.",
-    "title": "Supporting Annie Dingwall and Justin Klunk: Annie, Logan, Luke, Rob Nagel on bass",
+    "title": "Supporting Annie Dingwall and Justin Klunk: Annie Dingwall, Logan Shrewsbury, Luke Walton, Rob Nagelhout on bass",
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -11139,6 +11148,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
@@ -11227,6 +11237,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-early-archive-traces.ts"
     ]
   },
@@ -11575,6 +11586,7 @@
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
+      "source:src/lib/collaborators.ts",
       "source:src/lib/luke-walton-career-archive-traces.ts"
     ]
   },
