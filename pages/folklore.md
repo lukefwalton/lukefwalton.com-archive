@@ -51,7 +51,7 @@ outhere.london (https://outhere.london/): OUTHERE, the fictional London venue wh
 
 burtcashman.com (https://burtcashman.com/): Burt Cashman, a fictional jingle composer. A major character on the planned MÖBIUS LP, and a credited performer on it. Fictional jingle composer and producer created by Luke F. Walton. Not a real person or business. A major character on the planned Scoobert Doobert LP MÖBIUS, and a credited artist and performer on it. Created by Luke F. Walton. Parent work: MÖBIUS (https://lukefwalton.com/albums/mobius/). Entity id https://burtcashman.com/#burt-cashman, schema.org Person marked fictional (https://www.wikidata.org/entity/Q15632617).
 
-The Signatories (Novel, by Luke F. Walton & Jonathan Gillie; 2026 Page Turner Fiction Book Award Finalist) has its public home at https://signatoriesnovel.com/. cawleen and OUTHERE come from it.
+The Signatories (Novel, by Luke F. Walton & Jonathan Gillie; 2026 Page Turner Writing Award Finalist) has its public home at https://signatoriesnovel.com/. cawleen and OUTHERE come from it.
 
 When Gods Meet: Fiction project in progress, by Luke F. Walton. Gods, people, and what they owe each other, in contemporary Japan. Public home https://whengodsmeet.com/ (Japanese https://whengodsmeet.com/ja/). Bar Spaniel's comes from it.
 

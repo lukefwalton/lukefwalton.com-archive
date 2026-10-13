@@ -201,44 +201,6 @@
     ]
   },
   {
-    "path": "/brand/page-turner/2026-fiction-book-award-finalist.png",
-    "archive": "brand/page-turner/2026-fiction-book-award-finalist.png",
-    "canonicalUrl": "https://lukefwalton.com/brand/page-turner/2026-fiction-book-award-finalist.png",
-    "sourcePath": "public/brand/page-turner/2026-fiction-book-award-finalist.png",
-    "bytes": 164676,
-    "sha256": "8cbccac6045610a331c4e1d039c2901814de4cc522ac8ea920a0d93ca948148d",
-    "mediaType": "image/png",
-    "width": 480,
-    "height": 480,
-    "rights": "licensed",
-    "archivePolicy": "include",
-    "basis": "override",
-    "reason": "Award badge supplied by Page Turner Awards for display by finalists.",
-    "registry": "page-reference",
-    "referencedBy": [
-      "registry:page-reference",
-      "source:src/lib/the-signatories.ts"
-    ]
-  },
-  {
-    "path": "/brand/page-turner/2026-fiction-book-award-finalist.webp",
-    "archive": "brand/page-turner/2026-fiction-book-award-finalist.webp",
-    "canonicalUrl": "https://lukefwalton.com/brand/page-turner/2026-fiction-book-award-finalist.webp",
-    "sourcePath": "public/brand/page-turner/2026-fiction-book-award-finalist.webp",
-    "bytes": 33142,
-    "sha256": "7ecc04bfebcdef9898e8eefef99acb1c1999fbd821557a289f4247a319a64631",
-    "mediaType": "image/webp",
-    "rights": "licensed",
-    "archivePolicy": "include",
-    "basis": "override",
-    "reason": "Award badge supplied by Page Turner Awards for display by finalists.",
-    "registry": "page-reference",
-    "referencedBy": [
-      "registry:page-reference",
-      "source:src/lib/the-signatories.ts"
-    ]
-  },
-  {
     "path": "/brand/scoobert/lovey-logo.png",
     "archive": "brand/scoobert/lovey-logo.png",
     "canonicalUrl": "https://lukefwalton.com/brand/scoobert/lovey-logo.png",
