@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Lo-fi pop"
 
 hostNote: |
-  Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home; **Xuan Nguyen** records as veronicavon, rock tracked on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.
+  Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home. **Xuan Nguyen** records as veronicavon. She tracks rock on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.
 
 selectedMoments:
   - label: "The contrast of music styles"

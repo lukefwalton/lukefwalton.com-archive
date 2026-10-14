@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Creativity"
 
 hostNote: |
-  Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home; **Xuan Nguyen** records as veronicavon, rock tracked on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.
+  Two artists who make records in very different ways, in one conversation. **Chris Hackman** records as Human Barbie, lo-fi pop built at home. **Xuan Nguyen** records as veronicavon. She tracks rock on analog gear. We talk about how each of them gets a song from an idea to a finished recording, what changes when they work with other people, and what the day-to-day of being an independent artist looks like right now.
 
 selectedMoments:
   - label: "Differences in project production styles"
@@ -49,7 +49,7 @@ selectedMoments:
     note: "They discuss the implications of using AI in music and the intrinsic value of the human voice in conveying emotion."
   - label: "The evolution of songwriting"
     startSec: 1053
-    note: "Xuan shares insights on their songwriting approach, focusing on the balance between emotional vulnerability and collaboration."
+    note: "Xuan shares insights on her songwriting approach, focusing on the balance between emotional vulnerability and collaboration."
   - label: "The role of unexpected moments in music"
     startSec: 2383
     note: "Chris explains how moments of serendipity can dramatically shift the path of their musical journey."

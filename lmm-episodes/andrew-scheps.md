@@ -43,10 +43,10 @@ selectedMoments:
     startSec: 0
     note: "Opens with Scheps’s frame for mixes as places the listener inhabits, not just L/R balance."
   - label: "Mix for feel, not a pre-decided sound"
-    startSec: 484
+    startSec: 494
     note: "Source material dictates sonics; transitions between sections carry the emotion."
   - label: "Prep checklist while listening to the rough"
-    startSec: 623
+    startSec: 631
     note: "How he decides what must feel bigger vs. what already works in the rough mix."
   - label: "Gentle shelf vs. Aphex-style top end"
     startSec: 1542
@@ -63,13 +63,13 @@ excerptQuotes:
     startSec: 477
     reviewed: true
   - text: "For me, the first stage of mixing is I'm prepping a session and while I'm doing it, I listen to the rough mix… the checklist is how I want stuff to feel."
-    startSec: 631
+    startSec: 602
     reviewed: true
   - text: "On a dense mix, you're going to hear that top end a lot more than you're going to hear a gentle shelf."
-    startSec: 1575
+    startSec: 1570
     reviewed: true
   - text: "There is zero compression on her voice — there is only parallel compression… when she's singing delicately, if you start getting rid of the nuance, then you disconnect."
-    startSec: 1894
+    startSec: 1891
     reviewed: true
   - text: "Why do you love music? Because there is nothing else that can make me feel the way music does — raw emotions in a safe space."
     startSec: 3451
@@ -81,7 +81,7 @@ faq:
   - question: "Does Andrew Scheps discuss AI on this episode?"
     answer: "Yes, he separates helpful AI-adjacent audio tools (spectral separation, smart processors) from AI music generation and 'pretty good' middle-tier creative work, and discusses inference limits vs. human leaps."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---
