@@ -90,7 +90,7 @@ faq:
   - question: "What are the key elements of swing in New Orleans music?"
     answer: "In New Orleans, swing emphasizes the 'and' after four, creating a unique rhythmic feel that reflects the local culture and environment."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

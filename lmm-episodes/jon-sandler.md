@@ -83,7 +83,7 @@ faq:
   - question: "What can musicians learn from Jon Sandler's experiences?"
     answer: "Jon emphasizes the importance of resilience, collaboration, and focusing on the creative journey in sustaining a music career."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -83,7 +83,7 @@ faq:
   - question: "What advice do they have for maintaining vocal health while touring?"
     answer: "They stress the importance of rest and avoiding strain, particularly in loud environments, to ensure vocal stamina."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---
