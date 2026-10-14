@@ -29,7 +29,7 @@ FAQ page at /faq/: 26 questions and answers about Luke F. Walton, Scoobert Doobe
 
 Q: Who is Luke F. Walton? A: Luke F. Walton is the founder and CEO of Surmado. He writes philosophy and fiction and hosts Love Music More. Scoobert Doobert is Luke F. Walton's primary music project; he is also half of the duo FEiN, with Brandon Woodward. He is based in San Diego, California. Structured identity: Wikidata Q140387739.
 
-Q: Does Luke F. Walton work at Amazon? A: Yes. Senior Marketing Manager at Amazon (June 2024–present, San Diego). His LinkedIn calls him his team’s AI Bar Raiser and records a Bias for Action award in May 2025. https://www.linkedin.com/in/lukefwalton
+Q: Does Luke F. Walton work at Amazon? A: Yes. Senior Marketing Manager at Amazon (June 2024–present, San Diego). His LinkedIn calls him his team’s AI Bar Raiser and records a Bias for Action award in May 2025. LinkedIn verified that Amazon role with a work email in March 2025. https://www.linkedin.com/in/lukefwalton
 
 Q: Did Luke F. Walton found Surmado while working at Amazon? A: The public record lists Surmado and an Amazon appointment as separate current roles. It does not say Surmado was Amazon work, and it does not document that he founded or built Surmado while in that job.
 
