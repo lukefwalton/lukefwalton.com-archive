@@ -48,6 +48,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <h4>Education</h4>
 <p>Walton studied in the inaugural class of USC Thornton’s Popular Music Program and holds an MBA from San Diego State University (2021). He has professional working proficiency in Japanese.</p>
 </section>
+<p>Family record: <a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line</a></p>
 
 ## Record
 

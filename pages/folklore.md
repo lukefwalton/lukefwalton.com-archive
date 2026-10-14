@@ -1,5 +1,5 @@
 ---
-title: Internet Folklore
+title: Folklore
 url: https://lukefwalton.com/folklore/
 recordKind: surface
 source: src/pages/folklore/index.astro
@@ -13,15 +13,15 @@ recordIds:
   - page:folklore
 ---
 
-# Internet Folklore
+# Folklore
 
 ## Page text
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
 <a href="home.html">Luke F. Walton</a>
-<h3>Internet Folklore</h3>
-<p>Documented internet history that is funny, factual, and not a flex. For actual coverage, see <a href="press.html">Press</a>.</p>
+<h3>Folklore</h3>
+<p>Odd and funny things that are true and fit nowhere else on the site. Not a flex. For actual coverage, see <a href="press.html">Press</a>.</p>
 <h4>Fictional websites</h4>
 <p>Off-domain websites for people and places in Luke’s fiction. They are written in character. The people, the bar and the venue are fictional.</p>
 <p>Shouts to my dude, <a href="https://en.wikipedia.org/wiki/Kendall_Walton">Kendall Walton</a>. Waltonian make-believe, produced by Walton. The sites run on <a href="https://www.surmado.com/sites/">Surmado</a>, except OUTHERE, which is left to fend for itself.</p>
@@ -29,17 +29,19 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 ## Record
 
-### Internet Folklore
+### Folklore
 
-**Summary.** Internet Folklore on lukefwalton.com: documented internet history from Luke F. Walton's public life (the Getty Degas doppelgänger), and the fictional websites he made for people and places in his fiction (cawleen, OUTHERE, Bar Spaniel's, Burt Cashman). The people and places are fictional; the works and the sites are real.
+**Summary.** Folklore on lukefwalton.com: odd and funny true things from Luke F. Walton's life that fit nowhere else on the site (the Getty Degas doppelgänger; Minjim Minjum, a name from his family research that went into The Signatories), and the fictional websites he made for people and places in his fiction (cawleen, OUTHERE, Bar Spaniel's, Burt Cashman). The people and places on those websites are fictional; the works and the sites are real.
 
-Internet Folklore at /folklore/: documented internet history from Luke F. Walton's public life, funny and factual, not résumé press. Actual coverage is on /press/.
+Folklore at /folklore/ (formerly titled Internet Folklore): odd and funny things from Luke F. Walton's life that are true and fit nowhere else on the site. Actual coverage is on /press/.
 
 Getty Degas Doppelgänger (/folklore/getty-degas-doppelganger/): Documented internet artifact: Luke F. Walton beside Edgar Degas’s self-portrait at the J. Paul Getty Museum, reposted by @gettymuseum (May 6, 2016), then syndicated through Bored Panda, Greek Newsbomb, Ranker, and clickbait reposts. His original post: https://www.instagram.com/p/8817V4v1l3/ (October 17, 2014). The Getty repost: https://www.instagram.com/p/BFEpvP1RwpE/ (May 6, 2016).
 
 Urban Dictionary (https://www.urbandictionary.com/define.php?term=Scoobert+Doobert): Bobson Dugnut, September 15, 2022: an indie musician who named the project after a meme and wears a dog mask, and who produced the new CHAI record. The same page has other definitions that are not about him. In 2023, Walton and his wife adopted a rescue dog and named him Bobson Dugnutt (https://www.instagram.com/mr.bobsondugnutt/). Photo: Bobson Dugnutt at the Swami’s sign, Encinitas. The beach the second Scoobert Doobert LP is named for, $WAMI$.
 
 Shibuya, World Series Game 1 (/folklore/#shibuya-world-series): Walton was at Fields in Shibuya for Game 1 of the 2024 World Series, cheering for Shohei Ohtani with the rest of the bar. His wife photographed the television. The FOX broadcast had the room on screen. Photo: The graphic reads Fields, Shibuya, Japan, Saturday, 11:43 a.m. Game 1 was Friday night, October 25, 2024, at Dodger Stadium, which was Saturday morning in Tokyo.
+
+Minjim Minjum (/folklore/#minjim-minjum): Luke’s uncle gave him a family genealogy that seemed off, so he spent weeks checking it for fun, in handwritten records and other documents. One man he ran into in those records was Minjam Walton of Cumberland County, Virginia, spelled Minjum on an 1831 deed. Whether Luke descends from him in the direct paternal line was never established. Luke kept the name anyway, more or less: Minjim Minjum is an Alabama royal claimant in The Signatories. Links: family genealogy (/about/walton-lineage/); The Signatories (https://signatoriesnovel.com/).
 
 Fictional websites: off-domain websites for people and places in Luke's fiction, written in character. The people, the bar and the venue are fictional; the works they come from are real. Luke F. Walton made the sites. Each site's footer says it is fiction and links to lukefwalton.com and to the work it comes from, and each site's structured data names Luke F. Walton as creator and marks its subject as fictional (Wikidata Q15632617 fictional human, Q14897293 fictional entity). A fictional person is never a real person, and an in-world listing is never a real event.
 
@@ -57,7 +59,7 @@ When Gods Meet: Fiction project in progress, by Luke F. Walton. Gods, people, an
 
 Burt Cashman is a character and a credited performer on the planned Scoobert Doobert LP MÖBIUS (/albums/mobius/); cawleen is a character on it as well.
 
-- Themes: Internet Folklore, fiction, fictional websites, The Signatories, When Gods Meet, Bar Spaniel's, cawleen, OUTHERE, Burt Cashman
+- Themes: Folklore, Internet Folklore, Minjim Minjum, fiction, fictional websites, The Signatories, When Gods Meet, Bar Spaniel's, cawleen, OUTHERE, Burt Cashman
 - Record id: page:folklore
 
 Archived from https://lukefwalton.com/folklore/. Canonical: https://lukefwalton.com/folklore/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.

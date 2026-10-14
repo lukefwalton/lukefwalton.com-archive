@@ -32532,7 +32532,7 @@
   {
     "collection": "pages",
     "slug": "folklore",
-    "title": "Internet Folklore",
+    "title": "Folklore",
     "type": "WebPage",
     "recordKind": "surface",
     "liveUrl": "https://lukefwalton.com/folklore/",
@@ -32554,7 +32554,9 @@
         "page:folklore"
       ],
       "themes": [
+        "Folklore",
         "Internet Folklore",
+        "Minjim Minjum",
         "fiction",
         "fictional websites",
         "The Signatories",
@@ -32804,6 +32806,7 @@
       "recordIds": [
         "page:press",
         "legibility:press-awards",
+        "legibility:press-speaking-coverage",
         "legibility:press-japan-works"
       ],
       "themes": [
@@ -32818,7 +32821,8 @@
         "Songwriting",
         "Emmy",
         "Macworld iNDIE iNNOVATION",
-        "International Songwriting Competition"
+        "International Songwriting Competition",
+        "AI for Marketers Summit"
       ]
     }
   },

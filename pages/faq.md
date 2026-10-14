@@ -63,7 +63,7 @@ Q: Is the writer “Luke F. Walton, MBA” the person behind Scoobert Doobert? A
 
 Q: Are Luke F. Walton’s philosophy papers peer-reviewed? A: No. They are preprints and manuscripts under review, not journal publications. His affiliation is Independent Researcher; he does not hold a university philosophy appointment. The academic record is the CV.
 
-Q: What is Surmado? A: Surmado builds and operates AI systems for small businesses, founded and led by Luke F. Walton. Its core products are Scout, an AI agent that audits, rebuilds, hosts, and maintains a business's web presence, and Surmado Sites, a website that maintains itself.
+Q: What is Surmado? A: Surmado builds and operates AI systems for small businesses, founded and led by Luke F. Walton. Its core products are Scout, an AI agent that audits, rebuilds, hosts, and maintains a business's web presence, and Surmado Sites, a website that maintains itself. HubSpot's guide to website maintenance, by Colin Newcomer and dated September 15, 2026, links to surmado.com. In its section on outsourcing maintenance, it names Surmado Sites as an example of a managed website service. https://blog.hubspot.com/website/website-maintenance
 
 Q: What is the answerability gap? A: The answerability gap names cases where a person can retain full control of an AI-shaped decision and still fail to author it, because no one performed the judgment over the evaluative frame the decision turns on. Control over the output isn't authorship if nobody judged the terms the decision was made on. Walton calls this the answerability gap in "The Decision No One Authored" (2026 preprint).
 
