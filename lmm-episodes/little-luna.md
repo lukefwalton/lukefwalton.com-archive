@@ -94,7 +94,7 @@ faq:
   - question: "How does little luna think about sync placements?"
     answer: "She will write toward sync boxes without abandoning the little-luna sound. If a placement is too far from her artistry, she will not promote it."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

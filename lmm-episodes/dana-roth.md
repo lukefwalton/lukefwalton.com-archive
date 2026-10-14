@@ -99,7 +99,7 @@ faq:
   - question: "What is Dana Roth's debut album 'Airship' about?"
     answer: "'Airship' reflects Dana's unique sound and artistic vision, integrating her skills in both music and animation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -88,7 +88,7 @@ faq:
   - question: "What is the significance of analog vs. digital recording for Xuan and Chris?"
     answer: "They believe that both methods offer unique advantages and shape the emotional and sonic characteristics of their music in different ways."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

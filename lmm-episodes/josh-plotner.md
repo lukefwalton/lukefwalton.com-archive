@@ -81,7 +81,7 @@ faq:
   - question: "What are some projects Josh Plotner has worked on?"
     answer: "He has contributed to live performances for Broadway shows, and orchestrated music for series like Avatar: The Last Airbender and The Marvelous Mrs. Maisel."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

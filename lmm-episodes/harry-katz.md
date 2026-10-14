@@ -85,7 +85,7 @@ faq:
   - question: "How does Harry Katz build community around music?"
     answer: "Through engaging with audiences on social media and bringing people together via music history and live performances, Harry cultivates meaningful connections with listeners."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -83,7 +83,7 @@ faq:
   - question: "What tips does Travis Ference offer for mixing in challenging situations?"
     answer: "Travis emphasizes the importance of adapting workflows and using available tools creatively, while maintaining confidence in one's work despite limitations."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

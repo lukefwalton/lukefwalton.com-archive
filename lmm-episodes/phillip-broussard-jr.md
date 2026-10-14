@@ -81,7 +81,7 @@ faq:
   - question: "What are Phillip's views on tape vs. digital recording?"
     answer: "Phillip believes tape offers a unique handling of transients and harmonics that can enhance musicality and emotional impact."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

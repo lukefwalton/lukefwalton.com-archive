@@ -81,7 +81,7 @@ faq:
   - question: "How has podcasting evolved over the years?"
     answer: "Bryson reflects on the journey of podcasting from its early days to its current status as a primary tool for news discovery, noting advancements in production quality and listener engagement."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

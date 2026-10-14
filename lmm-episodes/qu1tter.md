@@ -87,7 +87,7 @@ faq:
   - question: "How does Qu1tter balance his roles as a recording engineer and a producer?"
     answer: "He juggles multiple roles by being adaptable in the studio, often switching between tasks based on session needs and artist demands."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

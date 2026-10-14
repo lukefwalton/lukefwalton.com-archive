@@ -98,7 +98,7 @@ faq:
   - question: "What challenges does Skinny Dippers face in live performance?"
     answer: "Ryan notes economic difficulties, where expenses for live gigs often exceed income, making frequent performances challenging."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

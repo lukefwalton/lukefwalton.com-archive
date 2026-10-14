@@ -84,7 +84,7 @@ faq:
   - question: "What is clipping in audio mastering?"
     answer: "Clipping occurs when an audio signal exceeds the maximum level, resulting in distortion; it can be used as a tool in mastering for achieving loudness."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

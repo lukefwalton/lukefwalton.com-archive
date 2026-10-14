@@ -85,7 +85,7 @@ faq:
   - question: "What vocal techniques does Alessandra Levy use in voice acting?"
     answer: "Alessandra discusses the importance of vocal placement, resonance, and how different voices affect character creation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

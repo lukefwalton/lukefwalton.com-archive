@@ -86,7 +86,7 @@ faq:
   - question: "Is DIY soundproofing worth it?"
     answer: "While a DIY approach can be cheaper, it often comes with challenges. Hiring a professional can save time and ensure you're getting the best results."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

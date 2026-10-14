@@ -83,7 +83,7 @@ faq:
   - question: "What challenges does Garvie face as a masked musician?"
     answer: "He shares his mixed feelings about wearing a mask during performances, including the impact on audience connection and the physical challenges it presents while performing."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

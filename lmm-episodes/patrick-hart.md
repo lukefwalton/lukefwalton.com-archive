@@ -91,7 +91,7 @@ faq:
   - question: "What can we learn about the modern composer's journey from Patrick Hart's experiences?"
     answer: "Patrick outlines his journey from a music-loving child to a professional composer, highlighting the personal and professional developments along the way."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

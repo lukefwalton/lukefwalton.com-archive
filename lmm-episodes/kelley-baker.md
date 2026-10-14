@@ -78,7 +78,7 @@ faq:
   - question: "How did Kelley Baker get into sound design?"
     answer: "Kelley initially pursued a filmmaking career but discovered his passion and bankable skill in sound design, which allowed him to support his projects."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

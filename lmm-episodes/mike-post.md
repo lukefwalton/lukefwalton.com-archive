@@ -101,7 +101,7 @@ faq:
   - question: "How can I get into recording music like Mike Post?"
     answer: "Start by finding mentors, gaining hands-on experience through internships, and learning the technical aspects of recording and production."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -80,7 +80,7 @@ faq:
   - question: "What are the differences between the trumpet and flugelhorn?"
     answer: "Joshoo explains that while both instruments have similar mechanics, the flugelhorn produces a mellower sound compared to the trumpet's more aggressive tone."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

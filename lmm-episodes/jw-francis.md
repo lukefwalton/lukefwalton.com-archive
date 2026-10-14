@@ -93,7 +93,7 @@ faq:
   - question: "What is the Valentine's Day song project by JW Francis?"
     answer: "The Valentine's Day song project is an initiative where JW writes personalized love songs for fans based on their submissions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

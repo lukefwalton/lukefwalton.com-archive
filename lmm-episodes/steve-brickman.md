@@ -84,7 +84,7 @@ faq:
   - question: "How does one transition from amateur to professional musician?"
     answer: "Steve emphasizes the importance of building a diverse skill set, learning from experiences, and continuously adapting in the music industry."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

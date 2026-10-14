@@ -104,7 +104,7 @@ faq:
   - question: "What insights does Ryan Haft provide on mixing rock guitars?"
     answer: "Ryan discusses the balance between achieving large, impactful guitar sounds while maintaining clarity in the mix."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

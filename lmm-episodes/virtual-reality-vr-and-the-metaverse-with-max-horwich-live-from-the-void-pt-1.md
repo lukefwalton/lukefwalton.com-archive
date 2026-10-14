@@ -81,7 +81,7 @@ faq:
   - question: "Who is Max Horwich?"
     answer: "Max Horwich is a creative professional focusing on innovative projects that blend technology and art, particularly in virtual environments."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

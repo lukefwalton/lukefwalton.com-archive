@@ -97,7 +97,7 @@ faq:
   - question: "Where does Joe Carra work?"
     answer: "He is chief engineer at Crystal Mastering in Melbourne. crystalmastering.com is the contact he gives on the episode."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

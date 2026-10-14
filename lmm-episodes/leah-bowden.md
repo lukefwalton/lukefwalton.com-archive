@@ -95,7 +95,7 @@ faq:
   - question: "What educational initiatives has Leah Bowden been involved with?"
     answer: "Leah has been involved in several educational initiatives, including creating a choir for people experiencing homelessness, which emphasizes the therapeutic and uniting power of music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

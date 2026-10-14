@@ -94,7 +94,7 @@ faq:
   - question: "What are the differences between dynamic and ribbon microphones?"
     answer: "Dynamic microphones use a coil and magnet, whereas ribbon microphones use a thin strip of metal suspended between magnets."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

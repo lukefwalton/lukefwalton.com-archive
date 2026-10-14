@@ -85,7 +85,7 @@ faq:
   - question: "What is the 'boredom of excellence' Jay Jay French discusses?"
     answer: "From his book Twisted Business, the invisible daily practice behind visible wins (like an Olympic skier's years of 5 a.m. training before a gold medal). He applies the same idea to songwriting discipline after Twisted Sister."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

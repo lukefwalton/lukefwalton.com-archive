@@ -89,7 +89,7 @@ faq:
   - question: "What kind of experiences has Russ had while touring internationally?"
     answer: "Russ emphasizes the cultural experiences he gains from touring, revealing how they enhance his artistry and passion for music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

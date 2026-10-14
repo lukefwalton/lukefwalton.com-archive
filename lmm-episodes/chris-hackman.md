@@ -77,7 +77,7 @@ faq:
   - question: "What themes do Chris and Xuan focus on in their songwriting?"
     answer: "Their songwriting often explores themes of emotional vulnerability, artistic identity, and the serendipity of collaboration."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

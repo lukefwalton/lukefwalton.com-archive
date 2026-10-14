@@ -89,7 +89,7 @@ faq:
   - question: "What touring advice does Sam Durkes give for bands starting out?"
     answer: "Don't wait for a booking agent, start DIY, play nearby cities where you already have connections, bring a friend who can help with driving or merch, keep books from day one, and grab real fans one at a time rather than chasing virality alone."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

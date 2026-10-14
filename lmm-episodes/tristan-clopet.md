@@ -91,7 +91,7 @@ faq:
   - question: "What was a memorable scoring experience for Tristan Clopet?"
     answer: "Tristan shares a notable experience scoring a tense scene for Martin Freeman in the series *StartUp*, which highlighted the emotional depth needed in film scoring."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

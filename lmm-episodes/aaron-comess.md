@@ -78,7 +78,7 @@ faq:
   - question: "What drumming techniques did Aaron learn from his teachers?"
     answer: "Aaron studied with renowned drummers like Bernard Purdy, who taught him about the importance of attitude and musicality."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

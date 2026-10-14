@@ -88,7 +88,7 @@ faq:
   - question: "What are temp scores in film music?"
     answer: "Temp scores are temporary pieces of music used in film editing to help shape the pacing and emotional tone before the final score is composed."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

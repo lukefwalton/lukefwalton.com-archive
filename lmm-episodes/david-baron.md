@@ -83,7 +83,7 @@ faq:
   - question: "What are some challenges facing emerging artists today?"
     answer: "Ginger Winn discusses the need for patience and dedication in today's music industry, emphasizing that success takes time and is rarely instant."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

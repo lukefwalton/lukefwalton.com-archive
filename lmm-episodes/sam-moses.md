@@ -86,7 +86,7 @@ faq:
   - question: "What does Sam Moses mean by 'peace of mind' in mastering?"
     answer: "For Sam, 'peace of mind' refers to ensuring that artists can trust the finished product will sound great across all platforms, maintaining its integrity and competitiveness."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

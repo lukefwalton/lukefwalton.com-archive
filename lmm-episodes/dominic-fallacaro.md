@@ -91,7 +91,7 @@ faq:
   - question: "What is *& Juliet* about?"
     answer: "*& Juliet* is a musical that reimagines the story of Romeo and Juliet, featuring iconic songs by Max Martin, and is celebrated for its innovative approach to storytelling."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

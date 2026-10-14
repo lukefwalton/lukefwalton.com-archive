@@ -83,7 +83,7 @@ faq:
   - question: "What are Cal's strategies for learning songs quickly?"
     answer: "He uses Roman numerals to organize songs and relies on repeated listening for memorization."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

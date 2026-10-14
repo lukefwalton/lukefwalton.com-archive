@@ -88,7 +88,7 @@ faq:
   - question: "What artists has Alex Delicata written for?"
     answer: "Alex has collaborated with major artists including Beyoncé, Rihanna, and Machine Gun Kelly, contributing to many hit songs across various genres."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

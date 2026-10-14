@@ -102,7 +102,7 @@ faq:
   - question: "What inspired Chic Chameleon to pursue music?"
     answer: "Chic was inspired by personal experiences and a desire to create music that resonates emotionally with listeners."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -75,7 +75,7 @@ faq:
   - question: "How did Andy Shernoff influence the punk genre?"
     answer: "Andy influenced the punk genre through his work with The Dictators, which combined hard rock influences with punk aesthetics, paving the way for many bands that followed."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

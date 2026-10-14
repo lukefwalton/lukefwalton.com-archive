@@ -97,7 +97,7 @@ faq:
   - question: "What does Lindy Day think about the age of musicians in the industry?"
     answer: "Lindy believes that age should not be a barrier to success in music. Passion and commitment to one's craft are what truly matter."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

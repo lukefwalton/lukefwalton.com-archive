@@ -85,7 +85,7 @@ faq:
   - question: "What are the challenges faced by music supervisors?"
     answer: "Challenges include navigating licensing agreements, meeting client expectations, and staying abreast of new music trends."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

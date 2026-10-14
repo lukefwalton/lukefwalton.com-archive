@@ -83,7 +83,7 @@ faq:
   - question: "Why is having diverse interests important for musicians?"
     answer: "Dylan emphasizes that engaging in various hobbies enriches a musician's creativity and informs their music, allowing for a more holistic artistic expression."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

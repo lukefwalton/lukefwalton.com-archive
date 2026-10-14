@@ -90,7 +90,7 @@ faq:
   - question: "What advice does Fernando Perdomo have for aspiring musicians?"
     answer: "Fernando advises aspiring musicians to focus on creativity and connection over financial success and to maintain authentic relationships with fans."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

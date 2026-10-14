@@ -86,7 +86,7 @@ faq:
   - question: "What is the influence of Brazilian Jiu Jitsu on Greg Byers' music?"
     answer: "Greg finds that Brazilian Jiu Jitsu improves his physical conditioning and mental focus, which enhances his performance as a musician."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

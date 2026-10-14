@@ -95,7 +95,7 @@ faq:
   - question: "How does Hendrick view collaboration in music production?"
     answer: "Hendrick believes collaboration is essential and emphasizes the importance of building strong relationships within the music community."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

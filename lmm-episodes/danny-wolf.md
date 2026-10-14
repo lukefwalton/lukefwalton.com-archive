@@ -85,7 +85,7 @@ faq:
   - question: "What are some challenges of touring as a musician?"
     answer: "Danny highlights the significant demands of touring, including the extensive logistics of loading and unloading, with little playing time."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -78,7 +78,7 @@ faq:
   - question: "What is Grant's approach to fingerstyle guitar?"
     answer: "He explains his background in fingerstyle guitar, mentioning his influences and how he prefers to use his fingers over a pick for a more personal sound."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

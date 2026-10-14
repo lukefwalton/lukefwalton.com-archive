@@ -78,7 +78,7 @@ faq:
   - question: "What are some essential drumming techniques?"
     answer: "Matt emphasizes the significance of tuning and the need to understand how to get the best sound from your drums."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

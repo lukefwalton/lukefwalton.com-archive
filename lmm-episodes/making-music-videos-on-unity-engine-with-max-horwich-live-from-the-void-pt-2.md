@@ -95,7 +95,7 @@ faq:
   - question: "How does Unity function in filmmaking?"
     answer: "Unity serves as a multi-purpose tool for filmmakers, allowing for the creation of complex animations, 3D rendering, and virtual environments that can enhance live performances."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

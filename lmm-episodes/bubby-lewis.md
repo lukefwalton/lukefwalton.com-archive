@@ -85,7 +85,7 @@ faq:
   - question: "What does Bubby Lewis say about playing with Snoop Dogg?"
     answer: "He describes how his live bass parts evolved from copying the record exactly to reinterpretations, alternate notes, swing feels, and harmonic choices that transform songs night to night on tour."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

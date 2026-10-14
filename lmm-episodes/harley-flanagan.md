@@ -85,7 +85,7 @@ faq:
   - question: "What does Harley Flanagan say about writing Cro-Mags lyrics?"
     answer: "He frames early songs like Hard Times as simple but potent because they came directly from teenage street reality, written at 15–16 about circumstances the band was actually living, not abstract punk poetry."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -93,7 +93,7 @@ faq:
   - question: "What is the Masterplan plugin and its purpose?"
     answer: "The Masterplan plugin is designed to streamline the mastering process by providing essential controls while reducing complexity, making it accessible for both beginners and professionals."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

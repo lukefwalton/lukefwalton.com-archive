@@ -89,7 +89,7 @@ faq:
   - question: "What role does technology play in Justin Kohler's music production?"
     answer: "Justin talks about the integration of Dolby Atmos and other software tools to enhance the recording experience."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

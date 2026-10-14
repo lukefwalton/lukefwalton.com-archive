@@ -86,7 +86,7 @@ faq:
   - question: "What insights does Ron have on the music industry?"
     answer: "Ron discusses the challenges faced by musicians today, including streaming pressures and the importance of artistic authenticity."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

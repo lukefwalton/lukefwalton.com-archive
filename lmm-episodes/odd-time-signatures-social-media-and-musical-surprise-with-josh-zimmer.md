@@ -90,7 +90,7 @@ faq:
   - question: "How does social media impact music marketing?"
     answer: "Social media provides a platform for musicians to reach wider audiences, engage fans, and promote their music creatively."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

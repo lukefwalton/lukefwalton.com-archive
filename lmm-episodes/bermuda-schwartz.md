@@ -87,7 +87,7 @@ faq:
   - question: "What does Bermuda Schwartz say about snare drums on this episode?"
     answer: "He describes obsessively reverse-engineering snare and drum sounds from parody targets, including documenting exact samples used on tracks like Word Crimes, because parody production requires faithful recreation of wildly different source records."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

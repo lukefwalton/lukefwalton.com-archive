@@ -86,7 +86,7 @@ faq:
   - question: "What are some key tips for aspiring producers and engineers from Stephan?"
     answer: "Stephan advises understanding all stages of production, selecting sounds that complement each other, and maintaining clear communication with artists throughout the recording process."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

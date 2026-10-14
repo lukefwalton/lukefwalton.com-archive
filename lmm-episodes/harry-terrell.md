@@ -78,7 +78,7 @@ faq:
   - question: "What has been Harry's experience touring with Still Woozy?"
     answer: "Harry describes the supportive family dynamic within the band and the exciting experiences of playing at iconic venues."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

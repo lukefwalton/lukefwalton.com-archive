@@ -92,7 +92,7 @@ faq:
   - question: "What can I learn from Ben Rice about music production?"
     answer: "Listeners can gain insights into the emotional journey of producing music, the importance of collaboration, and the balance between creativity and efficiency."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

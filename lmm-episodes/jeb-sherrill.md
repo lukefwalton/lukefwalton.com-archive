@@ -82,7 +82,7 @@ faq:
   - question: "What can I learn from Jeb Sherrill's approach to guitar?"
     answer: "Listeners can learn about overcoming traditional patterns in guitar playing, the importance of improvisation, and the spiritual aspects of music-making, fostering a deeper connection with the instrument."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

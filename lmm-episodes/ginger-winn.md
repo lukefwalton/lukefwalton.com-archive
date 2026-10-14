@@ -83,7 +83,7 @@ faq:
   - question: 'What is "Stop Motion" about?'
     answer: '"Stop Motion" is an album that showcases the collaborative efforts of David Baron and Ginger Winn, reflecting their artistic visions and the creative process behind the music.'
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -91,7 +91,7 @@ faq:
   - question: "What influence does Noam Wallenberg have in contemporary music?"
     answer: "As a producer for prominent acts like Vulfpeck and Anderson .Paak, Noam shapes modern music through innovative production techniques."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

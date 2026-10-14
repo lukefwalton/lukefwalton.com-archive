@@ -79,7 +79,7 @@ faq:
   - question: "What role does mentorship play in music education?"
     answer: "Patrick highlights how having a mentor provided him with valuable insights and support that shaped his musical journey."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

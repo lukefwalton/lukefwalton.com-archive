@@ -97,7 +97,7 @@ faq:
   - question: "What is the importance of sound design in today's media?"
     answer: "Sound design plays a crucial role in user interfaces, advertising, and content creation, influencing how audiences experience and engage with media."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

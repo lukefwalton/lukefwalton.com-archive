@@ -90,7 +90,7 @@ faq:
   - question: "What is The Safari Pedals Show?"
     answer: "The Safari Pedals Show is a podcast hosted by Abi that focuses on valuable insights within the audio production space."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

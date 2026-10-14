@@ -1,7 +1,7 @@
 ---
 title: "Everything Under The Sun with Carey Clayton (Modern Olympia, Jay Som, Morgan Jay)"
 
-description: "Carey Clayton's first album as Modern Olympia is Justification Machine. They talk through lyrics they don't fully understand yet, about thirty Morgan Jay shows built on crowd work, joining Great Good Fine Ok, and songs written in English, then translated, two of which went to number one in China."
+description: "Carey Clayton's first album as Modern Olympia is Justification Machine. He talks through lyrics he doesn't fully understand yet, about thirty Morgan Jay shows built on crowd work, joining Great Good Fine Ok, and songs written in English, then translated, two of which went to number one in China."
 
 date: 2026-10-06
 
@@ -29,27 +29,27 @@ topicsDiscussed:
   - "Great Good Fine Ok"
 
 hostNote: |
-  Carey Clayton’s first album under the name Modern Olympia is called **Justification Machine**. The songs keep coming back to the mental hoops people jump through to tell themselves something is okay. On lyrics, they trust the lines they don’t fully understand yet. The clever ones feel contrived.
+  Carey Clayton’s first album under the name Modern Olympia is called **Justification Machine**. The songs keep coming back to the mental hoops people jump through to tell themselves something is okay. On lyrics, he trusts the lines he doesn’t fully understand yet. The clever ones feel contrived.
 
-  Touring, session work, and TV and film production music are how they learn what makes a genre tick, including music they would not have chosen, and carry that back into their own songs. A solo session turns into an echo chamber, so they still want other people’s takes. The quick test for “done,” nothing left that’s wrong, is the one they don’t like. They’d rather know the song is good, and when an idea shows up they try to write, record, and produce it in an afternoon.
+  Touring, session work, and TV and film production music are how he learns what makes a genre tick, including music he would not have chosen, and carries that back into his own songs. A solo session turns into an echo chamber, so he still wants other people’s takes. The quick test for “done,” nothing left that’s wrong, is the one he doesn’t like. He’d rather know the song is good, and when an idea shows up he tries to write, record, and produce it in an afternoon.
 
-  We spend the middle of the hour on the live work. Morgan Jay’s show stays fresh after about thirty dates in under a year because so much of it is crowd work: they vamp and leave space for the audience’s punch line. Great Good Fine Ok is the longer story. They knew a member from Miami, met drummer Danny and singer John again in New York, and [Russ Flynn](https://lukefwalton.com/love-music-more/episodes/russ-flynn/) called them in about ten years ago, after Flynn had been subbing with X Ambassadors. The China songs are a different path. An Instagram message led to producing an artist who was in Los Angeles, then to something like eighty songs over a few years, written in English with John and pitched by an A&R contact after translation. They do not go to China to write them. Great Good Fine Ok did tour China, and they say that trip had nothing to do with these songs. Two of the songs became number one for a while, which they treat as a goofy fun fact. The gigs, they say, came from people they like making music with, not from auditions.
+  We spend the middle of the hour on the live work. Morgan Jay’s show stays fresh after about thirty dates in under a year because so much of it is crowd work: they vamp and leave space for the audience’s punch line. Great Good Fine Ok is the longer story. He knew a member from Miami, met drummer Danny and singer John again in New York, and [Russ Flynn](https://lukefwalton.com/love-music-more/episodes/russ-flynn/) called him in about ten years ago, after Flynn had been subbing with X Ambassadors. The China songs are a different path. An Instagram message led to producing an artist who was in Los Angeles, then to something like eighty songs over a few years, written in English with John and pitched by an A&R contact after translation. He does not go to China to write them. Great Good Fine Ok did tour China, and he says that trip had nothing to do with these songs. Two of the songs became number one for a while, which he treats as a goofy fun fact. The gigs, he says, came from people he likes making music with, not from auditions.
 
-  Asked why they love music, they talk about rooms they would not otherwise have entered: a record in Nigeria, a choreography project in Istanbul, and the quieter work of sitting with a sound until it says something about them.
+  Asked why he loves music, he talks about rooms he would not otherwise have entered: a record in Nigeria, a choreography project in Istanbul, and the quieter work of sitting with a sound until it says something about him.
 
 selectedMoments:
   - label: "Justification Machine"
     startSec: 122
     note: "First album under the name Modern Olympia, about the hoops people jump through to tell themselves something is okay."
-  - label: "Lyrics they don't fully know yet"
+  - label: "Lyrics he doesn't fully know yet"
     startSec: 210
-    note: "The clever lines feel contrived. The ones they don't understand yet are the exciting ones."
+    note: "The clever lines feel contrived. The ones he doesn't understand yet are the exciting ones."
   - label: "What makes a genre tick"
     startSec: 258
-    note: "A decade of other artists, plus TV and film production music, is how they learn a style and bring it home."
+    note: "A decade of other artists, plus TV and film production music, is how he learns a style and brings it home."
   - label: "Capture it the same day"
     startSec: 402
-    note: "Done means the song is good, not that every problem is gone. They try to write, record, and produce an idea in an afternoon."
+    note: "Done means the song is good, not that every problem is gone. He tries to write, record, and produce an idea in an afternoon."
   - label: "Thirty Morgan Jay shows"
     startSec: 1019
     note: "Still fresh after about thirty dates because the set is crowd work."
@@ -58,13 +58,13 @@ selectedMoments:
     note: "Miami, then New York, then a call from Russ Flynn about ten years ago."
   - label: "The China songs started on Instagram"
     startSec: 1896
-    note: "A message that sounded like a scam became years of songs written in English and translated. They do not fly there to write."
+    note: "A message that sounded like a scam became years of songs written in English and translated. He does not fly there to write."
   - label: "Find your people"
     startSec: 2225
-    note: "The gigs came through musicians they actually like, not a pile of auditions."
+    note: "The gigs came through musicians he actually likes, not a pile of auditions."
   - label: "A record in Nigeria"
     startSec: 2364
-    note: "Why they love music: rooms they would not have entered, including Nigeria and a choreography project in Istanbul."
+    note: "Why he loves music: rooms he would not have entered, including Nigeria and a choreography project in Istanbul."
 
 excerptQuotes:
   - text: "The title of the album is called Justification Machine."
@@ -94,15 +94,15 @@ excerptQuotes:
 
 faq:
   - question: "What is Carey Clayton's album Justification Machine?"
-    answer: "It is the first album under the name Modern Olympia. They describe it as an eclectic set that kept returning to the stories people tell themselves so that something feels okay. The lyrics they trust are the ones they don't fully understand yet."
+    answer: "It is the first album under the name Modern Olympia. He describes it as an eclectic set that kept returning to the stories people tell themselves so that something feels okay. The lyrics he trusts are the ones he doesn't fully understand yet."
   - question: "How did Carey Clayton end up with number-one songs in China?"
     answer: "An Instagram message led to producing an artist who was in Los Angeles, then to years of songs written in English with John from Great Good Fine Ok. An A&R contact pitches them after they are translated. Carey does not go to China to write them. Two of the songs reached number one for a while. A separate Great Good Fine Ok tour of China was unrelated."
   - question: "What does Carey Clayton do in Morgan Jay's show?"
-    answer: "They play in the band, about thirty shows in under a year. The music vamps under crowd work and leaves space for the audience's punch line."
+    answer: "He plays in the band, about thirty shows in under a year. The music vamps under crowd work and leaves space for the audience's punch line."
   - question: "When does Carey Clayton know a song is finished?"
-    answer: "The short test, nothing left that's wrong, is the one they don't like. They'd rather know the song is good. When they can get into the studio with an idea, they try to write, record, and produce it in an afternoon."
+    answer: "The short test, nothing left that's wrong, is the one he doesn't like. He'd rather know the song is good. When he can get into the studio with an idea, he tries to write, record, and produce it in an afternoon."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

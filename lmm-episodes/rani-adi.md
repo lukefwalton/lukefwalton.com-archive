@@ -89,7 +89,7 @@ faq:
   - question: "What challenges did Rani face as a woman in the jazz scene?"
     answer: "Rani talked about the misogyny she encountered while pursuing jazz, noting that the environment was predominantly male and often dismissive of her abilities before proving herself."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

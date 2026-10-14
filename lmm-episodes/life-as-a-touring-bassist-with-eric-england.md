@@ -91,7 +91,7 @@ faq:
   - question: "How important is a music school network for a career in music?"
     answer: "Eric highlights that the network gained from music school is priceless, providing crucial connections that can benefit your career."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -78,7 +78,7 @@ faq:
   - question: "Why is the conversation about AI in music important?"
     answer: "The conversation is vital as it addresses the balance between technological advancement and preserving the human touch in music creation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

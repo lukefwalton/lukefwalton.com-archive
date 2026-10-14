@@ -102,7 +102,7 @@ faq:
   - question: "What are the challenges David faced in the music industry?"
     answer: "David shares experiences with record labels that negatively impacted his music career, highlighting the importance of understanding the business side of music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

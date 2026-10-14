@@ -100,7 +100,7 @@ faq:
   - question: "How does music theory apply to popular music?"
     answer: "Music theory provides fundamental insights that can enhance creativity in writing popular music, allowing musicians to understand structures and emotional impacts behind their compositions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

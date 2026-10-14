@@ -95,7 +95,7 @@ faq:
   - question: "What are some tips for mixing and production shared by Luke Moellman?"
     answer: "Luke advises focusing on clarity, experimenting with sounds, and understanding how each element fits within the broader mix to create a cohesive sound."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

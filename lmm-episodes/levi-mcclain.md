@@ -87,7 +87,7 @@ faq:
   - question: "How can I implement microtonality in my music?"
     answer: "You can implement microtonality by using fretless instruments, digital audio workstations (DAWs) that support microtuning, and by learning to work with various tuning systems like Scala."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

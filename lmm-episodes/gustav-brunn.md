@@ -86,7 +86,7 @@ faq:
   - question: "What tips does Gustav Brunn offer for balancing music and family life?"
     answer: "Gustav suggests setting boundaries and being efficient with time to balance his work as a musician and a father."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

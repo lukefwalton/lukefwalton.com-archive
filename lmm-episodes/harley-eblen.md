@@ -87,7 +87,7 @@ faq:
   - question: "How did Harley Eblen start his music career?"
     answer: "Harley began his music journey inspired by his Hawaiian roots, starting with violin and eventually focusing on the cello."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

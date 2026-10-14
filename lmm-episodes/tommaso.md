@@ -91,7 +91,7 @@ faq:
   - question: "How is TOMMASO connected to Scoobert Doobert?"
     answer: "They are Chicago friends who have mixed and collaborated, including While Away (TOMMASO × Scoobert Doobert), and two 2023 Chan Fuze singles Veronesi produced and Walton mixed (This Is Not Cool, Methadone Nights). The interview is that relationship on tape, not a first meeting. The week before, the solo episode To Be like Water, Take a Nap pointed at this conversation from the drummer's chair."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

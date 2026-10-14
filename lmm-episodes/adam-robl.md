@@ -99,7 +99,7 @@ faq:
   - question: "What is temp scoring in film?"
     answer: "Temp scoring involves the use of temporary music that is placed in a film during the editing process to guide the pacing and emotional tone before the final score is created."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

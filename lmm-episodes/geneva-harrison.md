@@ -92,7 +92,7 @@ faq:
   - question: "What role does percussion play in live performances according to Geneva?"
     answer: "She believes percussion can significantly elevate the energy in live performances, creating a deeper connection with the audience."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -95,7 +95,7 @@ faq:
   - question: "How can I support independent musicians like Dion Kerr?"
     answer: "You can support them by purchasing music on platforms like Bandcamp, attending live shows, and sharing their work on social media."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

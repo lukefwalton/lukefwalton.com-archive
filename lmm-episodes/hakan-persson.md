@@ -102,7 +102,7 @@ faq:
   - question: "What is the DIY music culture in Sweden like?"
     answer: "The Swedish music culture is deeply rooted in community support, with many artists benefiting from grassroots initiatives and label structures."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

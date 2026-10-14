@@ -106,7 +106,7 @@ faq:
   - question: "What tips can aspiring mix engineers learn from Eliott Glinn?"
     answer: "Eliott encourages aspiring engineers to focus on learning techniques, developing a workflow, and understanding the emotional aspects of their mixes."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

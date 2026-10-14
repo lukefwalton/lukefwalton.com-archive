@@ -87,7 +87,7 @@ faq:
   - question: "What is Harper James' take on mixing music?"
     answer: "He believes mixing is both an art and a science, requiring an understanding of one's personal taste and the ability to communicate effectively with artists."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

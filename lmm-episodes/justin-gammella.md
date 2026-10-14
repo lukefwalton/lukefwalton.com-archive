@@ -91,7 +91,7 @@ faq:
   - question: "What advice does Justin Gammella have for aspiring songwriters?"
     answer: "Justin advises aspiring songwriters to focus on their artistic integrity, collaborate with others, and understand the business aspects of music to ensure a sustainable career."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

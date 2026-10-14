@@ -82,7 +82,7 @@ faq:
   - question: "What is Serena's upcoming EP about?"
     answer: "Her upcoming EP reflects her personal experiences, influences from moving to London, and is a product of self-production."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

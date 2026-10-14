@@ -97,7 +97,7 @@ faq:
   - question: "Why is improvisation important to Nolan's work?"
     answer: "Nolan emphasizes improvisation as a core aspect of his musical journey, reflecting its significance in both jazz and experimental music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

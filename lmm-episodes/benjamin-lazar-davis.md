@@ -82,7 +82,7 @@ faq:
   - question: "What does Benjamin mean by instruments having a 'soul'?"
     answer: "He believes instruments possess unique characteristics that influence songwriting and creativity, almost like they communicate what kind of music should be created."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

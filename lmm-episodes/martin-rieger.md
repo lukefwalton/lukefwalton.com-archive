@@ -81,7 +81,7 @@ faq:
   - question: "How can I create immersive audio?"
     answer: "Creating immersive audio involves using object-based mixing techniques, understanding audio spatialization, and taking advantage of specialized software and hardware."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

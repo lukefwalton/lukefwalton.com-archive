@@ -78,7 +78,7 @@ faq:
   - question: "What has been Nicole's experience with touring?"
     answer: "Nicole discusses the challenges of balancing touring life, maintaining friendships, and the importance of self-care while on the road."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

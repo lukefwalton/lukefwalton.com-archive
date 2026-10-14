@@ -100,7 +100,7 @@ faq:
   - question: "What role does technology play in contemporary music production?"
     answer: "Technology has greatly lowered the barrier to entry for music production, allowing more artists to express their creativity. Riley discusses how the accessibility of tools influences modern music creation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

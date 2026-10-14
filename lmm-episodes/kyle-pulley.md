@@ -88,7 +88,7 @@ faq:
   - question: "What are some key techniques Kyle Pulley uses in music mixing?"
     answer: "Kyle emphasizes techniques like parallel processing and understanding the role of each component in a mix to enhance the overall sound."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -85,7 +85,7 @@ faq:
   - question: "Does Jesse McGinty discuss Japan on this episode?"
     answer: "Yes, he talks about starting Japanese practice roughly nine years earlier with no clear career motive, and how it became foundational to his happiness and professional path over time."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

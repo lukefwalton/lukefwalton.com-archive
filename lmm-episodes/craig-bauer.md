@@ -81,7 +81,7 @@ faq:
   - question: "What does Craig Bauer say about Kanye West and Chicago?"
     answer: "He notes Kanye's career began in Bauer's Chicago studio in 1993, that he mixed most of Late Registration (with frustrating credit inaccuracies on the album), and contributed to Graduation, connecting Chicago session history to Grammy-era hip-hop."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---
