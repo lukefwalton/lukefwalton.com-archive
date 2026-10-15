@@ -32418,7 +32418,37 @@
         "family history",
         "Caltrans",
         "Ronald Reagan",
-        "Heritage Foundation"
+        "Heritage Foundation",
+        "James Christopher Walton"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "about/james-christopher-walton",
+    "title": "James Christopher Walton (–2025)",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/about/james-christopher-walton/",
+    "canonicalUrl": "https://lukefwalton.com/about/james-christopher-walton/",
+    "archive": {
+      "markdown": "pages/about/james-christopher-walton.md",
+      "html": "pages/about/james-christopher-walton.html"
+    },
+    "source": "src/pages/about/james-christopher-walton.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/james-christopher-walton.ts",
+      "src/lib/walton-lineage.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:about/james-christopher-walton"
+      ],
+      "themes": [
+        "James Christopher Walton",
+        "genealogy",
+        "family history"
       ]
     }
   },
@@ -32447,7 +32477,8 @@
       "themes": [
         "Mark Francis Walton",
         "genealogy",
-        "family history"
+        "family history",
+        "James Christopher Walton"
       ]
     }
   },
@@ -32626,7 +32657,8 @@
         "Bar Spaniel's",
         "cawleen",
         "OUTHERE",
-        "Burt Cashman"
+        "Burt Cashman",
+        "James Christopher Walton"
       ]
     }
   },

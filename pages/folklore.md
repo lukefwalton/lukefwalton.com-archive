@@ -43,7 +43,7 @@ Urban Dictionary (https://www.urbandictionary.com/define.php?term=Scoobert+Doobe
 
 Shibuya, World Series Game 1 (/folklore/#shibuya-world-series): Walton was at Fields in Shibuya for Game 1 of the 2024 World Series, cheering for Shohei Ohtani with the rest of the bar. He is in the back right, in a white t-shirt, round glasses, and a blue hat. His wife photographed the television. The FOX broadcast had the room on screen. Photo: The graphic reads Fields, Shibuya, Japan, Saturday, 11:43 a.m. Game 1 was Friday night, October 25, 2024, at Dodger Stadium, which was Saturday morning in Tokyo.
 
-Minjim Minjum (/folklore/#minjim-minjum): Luke’s uncle gave him a family genealogy that seemed off. He checked it against the Mormon records and the courthouse records. The proved line ends at John T. Walton. Minjam Walton of Cumberland County, Virginia, spelled Minjum on an 1831 deed, is a man those checks reached, not an ancestor the records establish. He does not know whether that man is a relative. He cannot go further than that with any confidence. He kept the name anyway, more or less: Minjim Minjum is an Alabama royal claimant in The Signatories. Find Minjim. Links: family genealogy (/about/walton-lineage/); The Signatories (https://signatoriesnovel.com/); Find Minjim (/folklore/find-minjim/).
+Minjim Minjum (/folklore/#minjim-minjum): Luke’s uncle, Joshua Walton, gave him a family genealogy that seemed off. He checked it against the Mormon records and the courthouse records. The proved line ends at John T. Walton. Minjam Walton of Cumberland County, Virginia, spelled Minjum on an 1831 deed, is a man those checks reached, not an ancestor the records establish. He does not know whether that man is a relative. He cannot go further than that with any confidence. He kept the name anyway, more or less: Minjim Minjum is an Alabama royal claimant in The Signatories. Find Minjim. Links: Joshua Walton (/about/james-christopher-walton/); family genealogy (/about/walton-lineage/); The Signatories (https://signatoriesnovel.com/); Find Minjim (/folklore/find-minjim/).
 
 Fictional websites: off-domain websites for people and places in Luke's fiction, written in character. The people, the bar and the venue are fictional; the works they come from are real. Luke F. Walton made the sites. Each site's footer says it is fiction and links to lukefwalton.com and to the work it comes from, and each site's structured data names Luke F. Walton as creator and marks its subject as fictional (Wikidata Q15632617 fictional human, Q14897293 fictional entity). A fictional person is never a real person, and an in-world listing is never a real event.
 
@@ -61,7 +61,7 @@ When Gods Meet: Fiction project in progress, by Luke F. Walton. Gods, people, an
 
 Burt Cashman is a character and a credited performer on the planned Scoobert Doobert LP MÖBIUS (/albums/mobius/); cawleen is a character on it as well.
 
-- Themes: Folklore, Internet Folklore, Minjim Minjum, fiction, fictional websites, The Signatories, When Gods Meet, Bar Spaniel's, cawleen, OUTHERE, Burt Cashman
+- Themes: Folklore, Internet Folklore, Minjim Minjum, fiction, fictional websites, The Signatories, When Gods Meet, Bar Spaniel's, cawleen, OUTHERE, Burt Cashman, James Christopher Walton
 - Record id: page:folklore
 
 Archived from https://lukefwalton.com/folklore/. Canonical: https://lukefwalton.com/folklore/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.
