@@ -1,0 +1,101 @@
+---
+title: Mark Francis Walton (1953–)
+url: https://lukefwalton.com/about/mark-francis-walton/
+recordKind: surface
+source: src/pages/about/mark-francis-walton.astro
+derivedFrom:
+  - ask-the-archive/src/lib/legibility-records.ts
+  - src/lib/mark-francis-walton.ts
+  - src/lib/walton-lineage.ts
+recordIds:
+  - page:about/mark-francis-walton
+---
+
+# Mark Francis Walton (1953–)
+
+## Page text
+
+_Static prose extracted from the page source; dynamic parts omitted. See the record below._
+
+<a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line</a>
+<section>
+<h4>Sources</h4>
+</section>
+<p><a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line (family record)</a> · <a href="frank-j-walton.html">Frank J. Walton</a> · <a href="../about.html">About</a></p>
+
+## Record
+
+### Mark Francis Walton (1953–)
+
+**Summary.** Mark Francis Walton, Luke F. Walton's father, from the documents. Luke F. Walton’s father. Television reporter and host in San Diego and Jacksonville, then a financial adviser in La Jolla. PM Magazine on KFMB, Eye on San Diego on KGTV, NBC 7. Retired. Co-host of The Good News Journey. Not the Fox Sports producer of Inside Cal-Hi Sports, and not Mark S. Walton of CNN. The family record gives 1953. No birth certificate has been read. The 1999 Los Angeles Area Emmy for Inside Cal-Hi Sports is a different Mark Walton.
+
+Mark Francis Walton (1953–), at /about/mark-francis-walton/. Family record: /about/walton-lineage/.
+
+Mark Francis Walton is Luke F. Walton’s father, and the son of Frank J. Walton and Helen Barbara Walton. He reported and hosted television in California and in Jacksonville, then worked as a financial adviser in La Jolla, and he is retired. He co-hosts The Good News Journey. This page is built from the documents that can be read. Where they disagree, it says so. An unpublished memoir he wrote for his family is among them. The family record gives his birth year as 1953. No birth certificate has been read.
+
+Frank and Helen’s son. Helen’s obituary names their son Mark and their grandson Luke. On his own account, his parents met in a Catholic church in Coronado during the Second World War, and his mother, a Navy nurse, served in England during the Normandy invasion. He says the family was three boys and two girls, and that he spent a year at St. Anthony’s Seminary in Santa Barbara at 14. The 1971 appointment release says five children and does not name them. He says his father was a sergeant in the Marine Corps. The Veterans Legacy Memorial and the marker at Fort Rosecrans give the rank as corporal. He says his father later became a priest, a deacon. The diocese lists a deacon, ordained 28 May 1983, and not a priest. In an unpublished memoir he calls his father a deacon. On the podcast site he remembers the line, “It’s all a gift.” On his LinkedIn he remembers another: “it’s one thing to have a successful career, but it’s much more important to have an impact.”
+
+Los Angeles, Arcadia, San Jose State. The University of San Diego’s student paper, on 13 September 1984, profiled him for a lecture. It says he was born in Los Angeles and grew up in Arcadia, that he was an all-star pitcher in high school until an arm injury, and that he went to San Jose State University to study radio and television journalism. He worked through school as a disc jockey at KEZR-FM. The profile places him in La Jolla. The university’s release the same week says he holds a B.A. in journalism, radio, and TV from San Jose State, and that he had worked in electronic media since 1974. His LinkedIn gives the degree as September 1971 to May 1975, cum laude, in journalism and political science, and lists tennis. The student paper says he graduated and took a job in 1976. He writes that he was 22 on a Saturday in June 1975, when he received a B.A. in radio and television journalism and stayed on the air at KEZR instead of the ceremony.
+
+Chico, Redding, Santa Barbara. The same profile gives the jobs before San Diego. In 1976 he was at KPAY AM-FM in Chico. He created the station’s first sports department, anchored the afternoon newscasts, and did a weekend disc-jockey shift. In 1977 he moved to KRCR-TV in Redding as a bureau chief, covering three counties, for nine months. He then went to KEYT-TV in Santa Barbara as a news anchor and reporter for six months, and created that station’s first sports department.
+
+PM Magazine, 1979–1984. He joined KFMB-TV in San Diego in July 1979 as host and producer of PM Magazine. The university release says he produced the series from July 1979 to July 1984. His LinkedIn gives the same months, five years and one month, and the title host and segment producer. The Los Angeles Times, on 25 September 1985, says Terry Wilson replaced him in June 1984. CBS 8 says an August 1983 story is the premiere of News 8’s PM Magazine, co-hosted by Janet Zappala and Mark Walton, one of 46 stations then carrying the program. The premiere in that story featured Barbara Mandrell, once Miss Oceanside. The station’s clip is titled as the 1979 premiere. The Times also says Jeannie Miller had been the Channel 8 co-host for five years when she and Wilson left the show in September 1985. On 18 September 1984 he lectured at the university, “The Changing Broadcast Medium,” in Salomon Lecture Hall. The student paper says the PM Magazine work had taken him from Hawaii to the Caribbean, and names ultralights and hot-air balloons in San Diego and tennis with Vic Braden.
+
+Travel News Network. His LinkedIn lists the next post as correspondent for Travel News Network, August 1984 to February 1985, in Sacramento. He describes it as writing, producing, and reporting travel segments on 35 stations in the United States and on Good Morning, Australia. His memoir names the same work in 1984, including the south of France, and calls it the News Travel Network.
+
+Eye on San Diego. His LinkedIn gives February 1985 to March 1988 at KGTV, host and producer of Eye on San Diego, and calls it an award-winning magazine program. The Paley Center catalogs the 27 September 1986 broadcast and credits him as producer and reporter. Bill Griffith is the host of that episode. He writes that in 1985 he hosted and produced a documentary there, “Is San Diego Becoming Another L.A.?”, on Proposition A, and that it was nominated for best documentary and did not win.
+
+Jacksonville, then NBC 7. His LinkedIn gives May 1988 to June 1991 at WTLV in Jacksonville, anchorman and reporter. The family record gives Luke’s birth year as 1991. Luke says he was born in Jacksonville while Mark was there, and that the family returned to San Diego shortly after. In an unpublished memoir he writes that Luke was born on 25 January 1991, while he was anchoring the 5 p.m. news at WTLV, Channel 12, that he returned to San Diego three years after he went to Jacksonville, and that at NBC 7/39 he anchored the morning newscast. The profile’s next television date is NBC 7 in San Diego, September 1992 to January 1999. Nothing on the profile fills June 1991 to September 1992. He says that in those years he covered a stolen tank on a San Diego freeway, stood on the floor of the Republican National Convention in 1996, and interviewed Ronald Reagan, Mother Teresa, and Cesar Chavez, and Harrison Ford, Oprah Winfrey, Robin Williams, and Steven Spielberg. He says that in Florida he reported on bounty hunters chasing the head of a drug ring, and that he was almost shot. Those stories are his account.
+
+La Jolla. In 1999, he writes, he left broadcasting and became a financial adviser with Morgan Stanley in La Jolla. The profile dates Morgan Stanley from May 1999 to January 2019, and Wells Fargo Advisors in La Jolla from January 2019 to April 2025, managing director, investments. His summary opens, “After 26 years as a TV journalist and 26 years as a financial advisor, I am now retired.” The profile places him in San Marcos. The SEC adviser report, in the name MARK FRANCIS WALTON, CRD 3245234, shows the Series 65 exam passed on 1 October 1999. The registration record starts later: Morgan Stanley from 24 August 2000, then Wells Fargo Advisors from 18 January 2019 to 29 May 2025. The report’s last update is 29 May 2025, and it says he is not currently registered. It lists no disclosure events. It also lists Morgan Stanley Private Bank, N.A., from January 2015 to January 2019, employer location New York, while the adviser registrations for those years stay in La Jolla.
+
+The Good News Journey. The Good News Journey is the podcast he co-hosts and produces with Don Mitchell and Jim Robeson. He describes a weekly YouTube show of interviews with people whose faith changed their lives. Their page says it started over lunch as he and Don were retiring, after 26 years in his practice, and that Jim, a pastor of more than twenty years, was invited later. He says the last ten years have been prison ministry.
+
+The Emmys. He writes that he received six Emmy Awards for his work in television. The Good News Journey page adds an Iris Award and an AP Award. His unpublished memoir names the same six, one Iris, and an AP award for best sportscast in a small market, and says Eye on San Diego won a San Diego Emmy for best magazine show within a year of his taking the program over in 1985, and a national Iris two years later. No winners list read for this page names him. Variety, on 7 June 1999, lists the winners of the 51st Los Angeles Area Emmy Awards. Under Sports Series it names Mark Walton as producer of Inside Cal-Hi Sports, Fox Sports West 2. That show is not among his posts, and his account has him leaving television in 1999. Another public profile, also under the name Mark Walton, describes twenty years at Fox Sports and names Inside Cal-Hi Sports. This page does not count that Emmy as his. He is not Mark S. Walton of CNN.
+
+What is not here yet. A birth certificate. A winners list for the six Emmys, the Iris Award, or the AP Award. A newspaper that names him at WTLV, at NBC 7, or at Travel News Network. The Chico, Redding, and Santa Barbara jobs are the 1984 student paper. WTLV, the 5 p.m. news there, NBC 7’s morning newscast, and the News Travel Network are his LinkedIn and his unpublished memoir. Jacksonville is also Luke’s account. His memoir gives the birth as 25 January 1991.
+
+Sources:
+
+Vista (University of San Diego), 13 September 1984: the lecture profile (https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1937&context=vista): Student paper, page 4. Born in Los Angeles, grew up in Arcadia, San Jose State, KEZR-FM, KPAY in Chico in 1976, KRCR in Redding, KEYT in Santa Barbara, KFMB from July 1979. The profile places him in La Jolla.
+
+Los Angeles Times, 25 September 1985: PM Magazine hosts out at KFMB (https://www.latimes.com/archives/la-xpm-1985-09-25-ca-20052-story.html): Hilliard Harper. Terry Wilson replaced Mark Walton in June 1984. Jeannie Miller had been the Channel 8 co-host for five years.
+
+SEC IAPD report, MARK FRANCIS WALTON, CRD 3245234 (https://reports.adviserinfo.sec.gov/reports/individual/individual_3245234.pdf): Read 14 Oct 2026. Series 65 on 1 October 1999. Morgan Stanley registrations in La Jolla from 24 August 2000. Wells Fargo Advisors, La Jolla, 18 January 2019 to 29 May 2025. Not currently registered. No disclosure events. Last update 29 May 2025. BrokerCheck is the same CRD: https://brokercheck.finra.org/individual/summary/3245234
+
+Office of the Governor, release #442, 23 July 1971 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p12/40-840-7408623-p12-004-2017.pdf): Read for Frank J. Walton’s page. The appointment biography says five children. It does not name them.
+
+Mark Francis Walton: unpublished memoir (https://lukefwalton.com/about/mark-francis-walton/#source-mark-memoir): Storyworth manuscript, “Life of a Real Life San Diego Anchorman,” read 14 Oct 2026 from a copy he gave his family. Not published. He writes that Luke was born 25 January 1991, while he was anchoring the 5 p.m. news at WTLV, Channel 12. He names the News Travel Network in 1984, including the south of France, 35 stations, and Good Morning, Australia. He writes that the 1985 documentary “Is San Diego Becoming Another L.A.?” was nominated for best documentary and did not win, and that Eye on San Diego won a San Diego Emmy for best magazine show within a year of his taking it over in 1985, and a national Iris two years later. Six Emmys, one Iris, and an AP award for best sportscast in a small market, his account. He calls his father a deacon. He was 22 on a Saturday in June 1975, a B.A. in radio and television journalism, on the air at KEZR.
+
+Helen B. Walton obituary: Frank J. to Mark to Luke (https://www.legacy.com/us/obituaries/sandiegouniontribune/name/helen-walton-obituary?id=19260077): San Diego Union-Tribune, August 2012. Helen Barbara (Olseske) Walton, Frank’s wife of 45 years, died August 20, 2012, at 97. It names their son Mark and their grandson Luke. This is not Walmart’s Helen Robson Walton.
+
+Helen Barbara Walton: Find a Grave (https://www.findagrave.com/memorial/96146713/helen_barbara-walton): Memorial 96146713. Both are commemorated at Fort Rosecrans National Cemetery, Point Loma, San Diego, section CC19A, row 1, site 13. The marker is in memory of Frank J. Walton, corporal, U.S. Marine Corps, World War II, years 1919–1991, and Helen B. Walton, lieutenant, U.S. Navy, World War II, years 1915–2012. His Social Security record gives his birth as 1918.
+
+Frank J. Walton: Veterans Legacy Memorial (https://www.vlm.cem.va.gov/FRANKJWALTON/AD6CF70): Frank J. Walton, 29 November 1918 to 9 February 1991. Second World War, U.S. Marine Corps, corporal. Fort Rosecrans National Cemetery, San Diego.
+
+Mark Francis Walton: The Good News Journey, his account (https://www.thegoodnewsjourney.org/who-we-are): His published account of his parents, a year at St. Anthony’s Seminary at 14, six Emmys plus an Iris Award and an AP Award, and prison ministry. It does not name Inside Cal-Hi Sports.
+
+Mark Francis Walton: LinkedIn (https://www.linkedin.com/in/markfwalton/): Profile read 14 Oct 2026. About and the full experience list: KFMB July 1979–July 1984, Travel News Network August 1984–February 1985, KGTV February 1985–March 1988, WTLV May 1988–June 1991, NBC 7 September 1992–January 1999, Morgan Stanley May 1999–January 2019, Wells Fargo January 2019–April 2025. San Jose State, September 1971–May 1975. Six Emmys, his account. The profile places him in San Marcos.
+
+Mark Francis Walton: University of San Diego, 1984 (https://digital.sandiego.edu/cgi/viewcontent.cgi?article=5489&context=newsreleases): A University of San Diego news release, 11 September 1984, calls him a former KFMB host and producer of PM Magazine.
+
+Mark Francis Walton: News 8 PM Magazine (CBS 8) (https://www.cbs8.com/article/news/local/throwback/news-8-throwback-behind-the-scenes-at-news-8-in-the-1960s-70s-ted-leitner-ray-wilson/509-c48d323a-8562-4d00-8c9c-2522bc6469ed): CBS 8 says an August 1983 story covers the premiere of News 8’s PM Magazine, co-hosted by Janet Zappala and Mark Walton.
+
+PM Magazine on News 8, titled as 1979 (CBS 8) (https://www.youtube.com/watch?v=ESmvOlf6sQI): CBS 8 San Diego posted this clip under the title “Syndicated show PM Magazine premieres on News 8 in 1979.” The station’s article dates the story to August 1983.
+
+Mark Francis Walton: Eye on San Diego (Paley Center) (https://www.paleycenter.org/collection/item?q=history&p=62&item=T87%3A0297): The Paley Center catalogs Eye on San Diego (KGTV), 27 September 1986, and credits Mark Walton as producer and reporter.
+
+The Good News Journey (https://www.thegoodnewsjourney.org/): He co-hosts and produces The Good News Journey with Jim Robeson and Don Mitchell.
+
+Mark Francis Walton: FINRA BrokerCheck (https://brokercheck.finra.org/individual/summary/3245234): MARK FRANCIS WALTON, CRD 3245234. The readable report is the SEC IAPD PDF: https://reports.adviserinfo.sec.gov/reports/individual/individual_3245234.pdf. Series 65 on 1 October 1999. La Jolla registrations from 24 August 2000 through Wells Fargo Advisors, 18 January 2019 to 29 May 2025. No disclosure events.
+
+Variety, 7 June 1999: Inside Cal-Hi Sports (a different Mark Walton) (https://variety.com/1999/tv/news/kcbs-big-winner-at-local-emmy-awards-1117502817/): Variety, 7 June 1999, Sports Series winner: Mark Walton, producer, Inside Cal-Hi Sports, Fox Sports West 2. His LinkedIn does not list that show, and he dates his exit from television to 1999. The credit is a different Mark Walton.
+
+Not the Fox Sports Mark Walton (https://www.linkedin.com/in/mark-walton-75593433): A different Mark Walton. The profile describes twenty years at Fox Sports and names Inside Cal-Hi Sports among the shows. The 1999 Variety credit belongs with him.
+
+Not Mark S. Walton of CNN (https://lukefwalton.com/press-kit/#namesakes): Mark S. Walton, the former CNN correspondent, is a different person.
+
+- Themes: Mark Francis Walton, genealogy, family history
+- Record id: page:about/mark-francis-walton
+
+Archived from https://lukefwalton.com/about/mark-francis-walton/. Canonical: https://lukefwalton.com/about/mark-francis-walton/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.

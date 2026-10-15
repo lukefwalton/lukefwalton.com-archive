@@ -89,7 +89,7 @@ faq:
   - question: "What is the speech-to-song illusion?"
     answer: "The speech-to-song illusion is a phenomenon where a spoken phrase, when repeated, begins to sound sung, highlighting the blurred lines between speech and music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

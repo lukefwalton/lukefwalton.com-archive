@@ -82,7 +82,7 @@ faq:
   - question: "What is surf rock and who influenced it?"
     answer: "Surf rock, epitomized by artists like Dick Dale, combined cultural influences and technological innovations, creating a distinct sound that defined the genre."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

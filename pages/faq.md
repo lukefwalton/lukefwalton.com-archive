@@ -79,7 +79,7 @@ Q: How do I sponsor Love Music More? A: Sponsorship for Love Music More is booke
 
 Q: Why does lukefwalton.com archive so much? A: It started as a record: one person, one entity, every credit sourced, so the account of Luke F. Walton is his and not assembled from third parties. It is also becoming material. The planned Scoobert Doobert record MÖBIUS is meant to sample the catalog this site documents, so the archive doubles as the instrument.
 
-- Themes: Lakers / NBA coach (namesake), Amazon, One Space (misattributed album), Lukas Walton / Forbes (namesake), Luke Walton (Toledo baseball), Luke Walton (Horatio Alger novel), Travis Scott FE!N (namesake), Luke Walton (rower / Crew Classic), Wikidata, Surmado
+- Themes: Lakers / NBA coach (namesake), Amazon, One Space (misattributed album), Lukas Walton / Forbes (namesake), Luke Walton (Toledo baseball), Luke Walton (Horatio Alger novel), Travis Scott FE!N (namesake), Luke Walton (rower / Crew Classic), Wikidata, Surmado, Mark Francis Walton
 - Record id: page:faq
 
 Archived from https://lukefwalton.com/faq/. Canonical: https://lukefwalton.com/faq/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.

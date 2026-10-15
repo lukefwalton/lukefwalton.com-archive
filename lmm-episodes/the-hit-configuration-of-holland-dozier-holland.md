@@ -78,7 +78,7 @@ faq:
   - question: "What techniques did Motown use to create their iconic sound?"
     answer: "Motown utilized innovative recording techniques, careful attention to vocal arrangement, and effective management of musical roles to produce their distinct sound."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

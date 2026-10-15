@@ -76,7 +76,7 @@ faq:
   - question: "What does diminishing returns mean in relation to music gear?"
     answer: "Diminishing returns refer to the point at which the investment in gear produces smaller and smaller improvements in sound quality or creative output as prices rise."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

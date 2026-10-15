@@ -81,7 +81,7 @@ faq:
   - question: "What impact does the performance venue have on music?"
     answer: "The space can greatly influence the sound and vibe of a performance, leading to unique and often unexpected artistic outcomes."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

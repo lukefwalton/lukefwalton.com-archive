@@ -8466,7 +8466,7 @@
           "answer": "Key bands discussed include The Velvet Underground, The Ramones, Patti Smith, The Sex Pistols, and The Clash."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -26301,7 +26301,7 @@
           "answer": "Surf rock, epitomized by artists like Dick Dale, combined cultural influences and technological innovations, creating a distinct sound that defined the genre."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -26632,7 +26632,7 @@
           "answer": "Motown utilized innovative recording techniques, careful attention to vocal arrangement, and effective management of musical roles to produce their distinct sound."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -27465,7 +27465,7 @@
           "answer": "The speech-to-song illusion is a phenomenon where a spoken phrase, when repeated, begins to sound sung, highlighting the blurred lines between speech and music."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -28940,7 +28940,7 @@
           "answer": "The space can greatly influence the sound and vibe of a performance, leading to unique and often unexpected artistic outcomes."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -31695,7 +31695,7 @@
           "answer": "Diminishing returns refer to the point at which the investment in gear produces smaller and smaller improvements in sound quality or creative output as prices rise."
         }
       ],
-      "transcriptPublished": false,
+      "transcriptPublished": true,
       "draft": false
     }
   },
@@ -32424,6 +32424,35 @@
   },
   {
     "collection": "pages",
+    "slug": "about/mark-francis-walton",
+    "title": "Mark Francis Walton (1953–)",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/about/mark-francis-walton/",
+    "canonicalUrl": "https://lukefwalton.com/about/mark-francis-walton/",
+    "archive": {
+      "markdown": "pages/about/mark-francis-walton.md",
+      "html": "pages/about/mark-francis-walton.html"
+    },
+    "source": "src/pages/about/mark-francis-walton.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/mark-francis-walton.ts",
+      "src/lib/walton-lineage.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:about/mark-francis-walton"
+      ],
+      "themes": [
+        "Mark Francis Walton",
+        "genealogy",
+        "family history"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "apps",
     "title": "Apps: Luke F. Walton",
     "type": "WebPage",
@@ -32557,7 +32586,8 @@
         "Travis Scott FE!N (namesake)",
         "Luke Walton (rower / Crew Classic)",
         "Wikidata",
-        "Surmado"
+        "Surmado",
+        "Mark Francis Walton"
       ]
     }
   },
@@ -32918,7 +32948,8 @@
         "Luke Walton (Toledo baseball)",
         "Luke Walton (Horatio Alger novel)",
         "Luke Walton (rower / Crew Classic)",
-        "Wikidata"
+        "Wikidata",
+        "Mark Francis Walton"
       ]
     }
   },
@@ -32950,7 +32981,8 @@
         "Luke Walton (Toledo baseball)",
         "Luke Walton (Horatio Alger novel)",
         "Luke Walton (rower / Crew Classic)",
-        "Wikidata"
+        "Wikidata",
+        "Mark Francis Walton"
       ]
     }
   },

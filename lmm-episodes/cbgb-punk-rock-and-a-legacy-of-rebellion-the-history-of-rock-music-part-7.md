@@ -86,7 +86,7 @@ faq:
   - question: "Who are some of the key bands discussed in this episode?"
     answer: "Key bands discussed include The Velvet Underground, The Ramones, Patti Smith, The Sex Pistols, and The Clash."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---
