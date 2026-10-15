@@ -76,7 +76,7 @@ faq:
   - question: "What can I learn from James Jamerson's bass lines?"
     answer: "James Jamerson's approach to bass lines teaches musicians about the importance of melody and rhythm in creating memorable songs, demonstrating how to support vocals while adding syncopation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

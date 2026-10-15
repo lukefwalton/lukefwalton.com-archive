@@ -70,7 +70,7 @@ faq:
   - question: "What role does imitation play in music learning?"
     answer: "Imitation allows musicians to internalize techniques and develop their own voice through practice."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

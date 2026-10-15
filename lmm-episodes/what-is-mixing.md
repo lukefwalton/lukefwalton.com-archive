@@ -84,7 +84,7 @@ faq:
   - question: "Why is the lead vocal important in a mix?"
     answer: "The lead vocal is often the focal point of a song, and its clarity and presence are crucial for the overall impact of the music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

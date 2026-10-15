@@ -92,7 +92,7 @@ faq:
   - question: "How does chamber reverb differ from digital reverb?"
     answer: "Chamber reverb uses a physical space to create echoes and reflections, while digital reverb simulates these effects through algorithms."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

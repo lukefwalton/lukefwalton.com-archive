@@ -79,7 +79,7 @@ faq:
   - question: "Why is Beethoven considered a pivotal figure in music history?"
     answer: "Beethoven represents a transition from classical structures to romantic expression, emphasizing individual emotion and experience in his compositions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

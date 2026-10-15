@@ -78,7 +78,7 @@ faq:
   - question: "How can I overcome fear when recording music?"
     answer: "I share practical tips and a philosophical perspective on embracing a flow state to reduce tension and enhance creativity in the recording process."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

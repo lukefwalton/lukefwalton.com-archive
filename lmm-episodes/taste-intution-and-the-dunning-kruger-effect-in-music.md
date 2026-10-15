@@ -77,7 +77,7 @@ faq:
   - question: "What is the role of failure in learning music?"
     answer: "Failure in music is crucial for growth; it forces you to confront your limitations and pushes you to improve by encouraging natural learning through experience and practice."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -75,7 +75,7 @@ faq:
   - question: "What did I learn from Nate Smith's drumming?"
     answer: "I learned about the importance of wrist positioning and muscle economy from Nate Smith's use of the egg shaker, which inspired him to explore biomechanics further in my own playing."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

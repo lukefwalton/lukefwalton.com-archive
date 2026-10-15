@@ -78,7 +78,7 @@ faq:
   - question: "What is the difference between music theory and music practice?"
     answer: "Music theory involves the understanding of musical elements and structures, while music practice focuses on the practical application of those principles in performance and composition."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

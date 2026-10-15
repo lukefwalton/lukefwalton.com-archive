@@ -87,7 +87,7 @@ faq:
   - question: "How can reverb and delay affect the emotional experience of music?"
     answer: "Both effects can influence the listener's perception of space and depth, enhancing emotional engagement by immersing them in the sonic landscape of a song."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

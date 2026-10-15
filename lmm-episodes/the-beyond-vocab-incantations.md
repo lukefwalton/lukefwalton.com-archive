@@ -76,7 +76,7 @@ faq:
   - question: "What are ghost notes in music?"
     answer: "Ghost notes are subtle notes played with less intensity than the main notes, adding texture without being prominent."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

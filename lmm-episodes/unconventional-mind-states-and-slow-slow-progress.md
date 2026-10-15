@@ -78,7 +78,7 @@ faq:
   - question: "What role do altered mind states play in music production?"
     answer: "Altered mind states, whether from fasting, exercise, or other practices, can unleash new levels of creativity and innovation in music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

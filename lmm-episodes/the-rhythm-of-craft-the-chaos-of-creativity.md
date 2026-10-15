@@ -78,7 +78,7 @@ faq:
   - question: "What are some daily practices to engage with music?"
     answer: "Engage with mixing, production, and research sounds to fuel creativity and keep the artistic process moving."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

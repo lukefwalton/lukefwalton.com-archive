@@ -78,7 +78,7 @@ faq:
   - question: "What is the role of discomfort in learning music?"
     answer: "Embracing discomfort is essential as it signifies pushing one's limits and is necessary for genuine growth in music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

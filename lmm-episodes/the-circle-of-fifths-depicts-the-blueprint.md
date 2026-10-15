@@ -74,7 +74,7 @@ faq:
   - question: "What are some practical applications of the Circle of Fifths for musicians?"
     answer: "Musicians can apply the Circle of Fifths to simplify composition, facilitate modulations between keys, and explore creative tension in music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -77,7 +77,7 @@ faq:
   - question: "What role does community play in a musician's success?"
     answer: "Community fosters collaboration and shared experiences, allowing artists to draw inspiration from each other and grow together."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

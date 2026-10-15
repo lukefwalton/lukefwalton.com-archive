@@ -84,7 +84,7 @@ faq:
   - question: "What role does geometry play in music theory?"
     answer: "Geometry serves as a metaphor to understand the relationships between chords and harmony, emphasizing their spatial properties and interactions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

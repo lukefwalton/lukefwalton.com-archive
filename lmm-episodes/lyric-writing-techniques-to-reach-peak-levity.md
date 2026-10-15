@@ -78,7 +78,7 @@ faq:
   - question: "How can I improve my songwriting process?"
     answer: "I share insights on song structure and crafting lyrics that resonate emotionally, emphasizing the importance of workflow."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -82,7 +82,7 @@ faq:
   - question: "What are some limitations of AI in music production?"
     answer: "AI can struggle with maintaining context in long sessions and it often reveals limitations that can inspire unique creative approaches."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

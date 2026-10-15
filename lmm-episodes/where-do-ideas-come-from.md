@@ -97,7 +97,7 @@ faq:
   - question: "What role do rituals play in creativity?"
     answer: "Rituals help establish a routine that can foster creativity and eliminate decision fatigue."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

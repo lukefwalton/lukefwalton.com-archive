@@ -83,7 +83,7 @@ faq:
   - question: "What Black Friday deals did I mention?"
     answer: "I highlighted several plugin deals that can significantly improve music production experiences."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

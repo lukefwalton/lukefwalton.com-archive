@@ -87,7 +87,7 @@ faq:
   - question: "What should I consider before releasing singles?"
     answer: "It's important to ensure that you don't compromise the overall vision of your project by releasing too many singles before the full work is finished."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

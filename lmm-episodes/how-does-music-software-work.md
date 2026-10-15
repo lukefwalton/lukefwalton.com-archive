@@ -80,7 +80,7 @@ faq:
   - question: "How does piracy influence music production?"
     answer: "Piracy can inadvertently introduce users to music production software, creating a pathway for some to transition from unauthorized use to legitimate purchases."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

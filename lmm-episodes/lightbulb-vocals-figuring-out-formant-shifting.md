@@ -79,7 +79,7 @@ faq:
   - question: "Why is vocal placement important in singing?"
     answer: "Vocal placement affects how sound resonates and cuts through mixes, impacting the overall presence and quality of a performance."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -71,7 +71,7 @@ faq:
   - question: "How can I turn creativity into a habit?"
     answer: "Establish a daily practice of engaging with your art, allowing it to flow in any situation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

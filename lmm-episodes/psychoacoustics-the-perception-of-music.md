@@ -79,7 +79,7 @@ faq:
   - question: "What role does clipping play in music production?"
     answer: "Clipping occurs when audio signals are pushed beyond their limits, resulting in distortion, which can be used creatively in music production."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

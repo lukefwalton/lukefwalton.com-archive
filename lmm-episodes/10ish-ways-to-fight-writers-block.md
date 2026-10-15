@@ -83,7 +83,7 @@ faq:
   - question: "What production tricks does Luke recommend when ideas stall?"
     answer: "Abandon a starter idea on purpose, experiment with master-bus settings, learn a new instrument, double a part for confidence, and, critically, change tempo early in the process, not after the arrangement is locked."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

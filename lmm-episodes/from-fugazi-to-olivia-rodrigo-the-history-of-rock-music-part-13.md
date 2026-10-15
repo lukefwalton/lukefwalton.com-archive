@@ -92,7 +92,7 @@ faq:
   - question: "What role has technology played in the evolution of rock music?"
     answer: "Technological advancements have democratized music production, allowing new genres to emerge while reshaping how artists create and distribute their work."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

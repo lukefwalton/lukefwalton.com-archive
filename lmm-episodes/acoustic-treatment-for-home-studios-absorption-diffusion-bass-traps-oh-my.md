@@ -77,7 +77,7 @@ faq:
   - question: "What materials are best for acoustic treatment?"
     answer: "High-density materials like rock wool or specially designed acoustic panels are effective for absorbing sound and managing low frequencies."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

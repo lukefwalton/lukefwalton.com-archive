@@ -82,7 +82,7 @@ faq:
   - question: "What are the dogmas in music production?"
     answer: "Dogmas in music production are traditional beliefs or practices that have persisted over time, often discouraging innovation or departure from established methods."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

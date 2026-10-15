@@ -92,7 +92,7 @@ faq:
   - question: "What are transients in music?"
     answer: "Transients are the initial peaks of a sound wave, particularly at the beginning of a sound, which heavily influence the overall character of the audio."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

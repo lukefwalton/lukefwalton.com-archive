@@ -79,7 +79,7 @@ faq:
   - question: "Why is silence important in music composition?"
     answer: "Silence helps create anticipation and contrast, enriching the listener's experience and enhancing the impact of musical notes."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

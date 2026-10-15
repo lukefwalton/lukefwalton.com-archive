@@ -96,7 +96,7 @@ faq:
   - question: "What are major and minor chords?"
     answer: "Major chords evoke a happy or bright sound, while minor chords tend to sound sad or mysterious, shaped by the specific intervals used."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

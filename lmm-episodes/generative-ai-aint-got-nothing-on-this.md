@@ -75,7 +75,7 @@ faq:
   - question: "What sacrifices do musicians make for their art?"
     answer: "I reflect on the personal and emotional sacrifices needed to pursue a career in music, highlighting the struggles and dedication involved."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

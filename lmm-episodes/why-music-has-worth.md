@@ -77,7 +77,7 @@ faq:
   - question: "What is the Mobius strip concept in music?"
     answer: "I describe how identity and music creation are interconnected through the metaphor of a Mobius strip."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

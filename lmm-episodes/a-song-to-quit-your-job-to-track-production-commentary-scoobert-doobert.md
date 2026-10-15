@@ -87,7 +87,7 @@ faq:
   - question: "What are some production techniques that enhance emotional impact in music?"
     answer: "Techniques include manipulating pitch, using contrasting elements, and creating spatial effects to evoke emotions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -67,7 +67,7 @@ faq:
   - question: "What can listeners expect from this episode?"
     answer: "Listeners can expect to delve into musical techniques, explore the craft of songwriting, and understand how to appreciate music on a deeper level."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

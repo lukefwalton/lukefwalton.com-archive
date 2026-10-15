@@ -82,7 +82,7 @@ faq:
   - question: "How does noise impact sound recording?"
     answer: "Noise can interfere with sound quality during recording; understanding gain staging and managing noise is crucial for achieving the best audio results."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

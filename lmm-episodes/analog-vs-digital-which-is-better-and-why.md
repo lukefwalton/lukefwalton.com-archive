@@ -87,7 +87,7 @@ faq:
   - question: "What do I think about the future of music production?"
     answer: "I believ that the gap between analog and digital is closing, with new technologies allowing for greater creativity and expression in digital music production."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

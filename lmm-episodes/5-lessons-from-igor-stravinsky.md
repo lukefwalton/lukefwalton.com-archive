@@ -84,7 +84,7 @@ faq:
   - question: "What does Stravinsky have to do with modern mixing?"
     answer: "Luke ties Stravinsky's reliance on mentors to his own craft: some skills, mixing among them, still require a teacher and a community, not just solitary trial and error."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

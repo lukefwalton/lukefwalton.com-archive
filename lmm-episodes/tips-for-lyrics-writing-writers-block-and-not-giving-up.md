@@ -92,7 +92,7 @@ faq:
   - question: "What should I do if I feel like my lyrics are lazy?"
     answer: "I recount my experience with Randy Newman, who challenged my lyrics, and how it's essential to push yourself and explore beyond initial ideas."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -85,7 +85,7 @@ faq:
   - question: "What impact does AI have on the music industry?"
     answer: "AI is reshaping the music industry by providing new tools for music creation, but it also raises questions about authenticity and the role of human musicians."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

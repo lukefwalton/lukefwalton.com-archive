@@ -81,7 +81,7 @@ faq:
   - question: "How does GrimesAI work in generating vocals?"
     answer: "GrimesAI functions as a voice-changer, allowing my voice to take on the characteristics of Grimes' vocals while maintaining my original vocal traits."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

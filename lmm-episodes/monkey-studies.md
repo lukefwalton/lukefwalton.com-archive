@@ -92,7 +92,7 @@ faq:
   - question: "Is musical expectation innate?"
     answer: "I do not know, and I say so on the episode. A newborn may already be organizing a short pattern, and prenatal sound, the heartbeat, a voice, speech rhythm, may have trained that before birth. Culture does the rest. The door is open. The proof is not."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

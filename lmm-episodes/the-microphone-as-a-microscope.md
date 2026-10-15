@@ -78,7 +78,7 @@ faq:
   - question: "What role does gating play in live audio mixing?"
     answer: "Gating helps manage unwanted sound bleed in live settings by ensuring that only desired audio inputs are heard, which is crucial for maintaining clarity in a mix during a performance."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

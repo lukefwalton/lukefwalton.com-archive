@@ -81,7 +81,7 @@ faq:
   - question: "What role did parody artists like Weird Al play during the 80s?"
     answer: "Weird Al tapped into the absurdity of the music video era, providing comedic relief while commenting on the trends and excesses of the time."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

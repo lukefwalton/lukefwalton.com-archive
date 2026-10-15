@@ -88,7 +88,7 @@ faq:
   - question: "Why does the harmonic series matter when I mix chords?"
     answer: "Low notes carry more partials, so dense voicings rub harder at the bottom of the keyboard. Mixing is choosing which parts of that series come forward. That is why a spectrometer can help you see the rub, and why something like the JAWS figure hits as tension rather than as a pretty triad."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

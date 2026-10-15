@@ -84,7 +84,7 @@ faq:
   - question: "What does chop wood/carry water mean in an artistic context?"
     answer: "Chop wood/carry water refers to focusing on the essential daily tasks that lead to mastery in one's craft, emphasizing the importance of persistence and discipline in the creative process."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -79,7 +79,7 @@ faq:
   - question: "What was the significance of The White Album?"
     answer: "The White Album marked a pivotal moment showcasing the Beatles' artistic diversity and individual member's creative paths."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -75,7 +75,7 @@ faq:
   - question: "What do you forecast for musicians in relation to AI and technology?"
     answer: "I believe musicians will increasingly need to become versatile in technology, much like software engineers, as AI becomes an integral part of music creation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

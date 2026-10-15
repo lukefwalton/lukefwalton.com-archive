@@ -86,7 +86,7 @@ faq:
   - question: "Why is AC/DC's guitar playing important?"
     answer: "AC/DC's guitar techniques, including rhythm and articulation, are critical in creating their signature sound, influencing aspiring musicians."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -89,7 +89,7 @@ faq:
   - question: "What production techniques defined the sound of the Pixies?"
     answer: "The Pixies embraced unique production techniques that emphasized space and intensity, creating a sound that thrived in smaller venues and rejected mainstream excess."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -78,7 +78,7 @@ faq:
   - question: "Why do recording studios need acoustic treatment?"
     answer: "Acoustic treatment is essential to control sound reflections, reduce flutter echoes, and produce high-quality audio recordings."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

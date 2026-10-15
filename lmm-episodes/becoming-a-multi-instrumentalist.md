@@ -81,7 +81,7 @@ faq:
   - question: "What techniques can I use when learning piano?"
     answer: "Break down your practice into manageable parts, focusing on hands separately and essential chord structures."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

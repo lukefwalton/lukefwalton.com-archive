@@ -78,7 +78,7 @@ faq:
   - question: "What plugins do you recommend for panning?"
     answer: "I mention Pan Pot by Goodertz and Panna for exploring various panning techniques."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -97,7 +97,7 @@ faq:
   - question: "What defines a supergroup in rock music?"
     answer: "A supergroup is formed by musicians who are already famous or accomplished in their own right, combining their talents."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

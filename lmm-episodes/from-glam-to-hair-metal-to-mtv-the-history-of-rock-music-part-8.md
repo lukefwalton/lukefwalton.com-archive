@@ -102,7 +102,7 @@ faq:
   - question: "Why was Eddie Van Halen significant to guitar techniques?"
     answer: "Eddie Van Halen popularized revolutionary guitar techniques, including two-handed tapping, which reshaped rock guitar playing."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

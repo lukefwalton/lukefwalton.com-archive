@@ -83,7 +83,7 @@ faq:
   - question: "What can we learn from live concerts about genre?"
     answer: "Live performances often illustrate the fluidity of artists' identities beyond their labeled genres."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

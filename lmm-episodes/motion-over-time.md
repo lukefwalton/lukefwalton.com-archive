@@ -88,7 +88,7 @@ faq:
   - question: "What role do high and low frequencies play in music?"
     answer: "High and low frequencies shape our understanding and perception of sound, influencing emotional responses and the overall experience of music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

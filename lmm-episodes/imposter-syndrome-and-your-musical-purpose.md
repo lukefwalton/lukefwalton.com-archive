@@ -77,7 +77,7 @@ faq:
   - question: "How can musicians overcome imposter syndrome?"
     answer: "Musicians can overcome imposter syndrome by focusing on their unique voice, embracing their creative journey, and reminding themselves of their intrinsic value and purpose in creating music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -78,7 +78,7 @@ faq:
   - question: "How does Scoobert Doobert create his music?"
     answer: "Scoobert uses a combination of organic and inorganic sounds, contrasting elements, and thoughtful production techniques to craft his songs."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

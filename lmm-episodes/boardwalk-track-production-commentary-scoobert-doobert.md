@@ -83,7 +83,7 @@ faq:
   - question: "How do I approach songwriting and production?"
     answer: "I share my creative process, discussing the evolution of melodies and the interplay between various sound elements."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -83,7 +83,7 @@ faq:
   - question: "Why is perfectionism detrimental to creativity?"
     answer: "Perfectionism can lead to fear of starting and prevent artists from exploring their potential."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

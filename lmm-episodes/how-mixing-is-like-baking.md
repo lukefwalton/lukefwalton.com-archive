@@ -98,7 +98,7 @@ faq:
   - question: "How do I use food metaphors in mixing?"
     answer: "I compar the mixing process to cooking, emphasizing the need for creativity and balance in combining different elements to create a finished piece."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

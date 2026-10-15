@@ -97,7 +97,7 @@ faq:
   - question: "What advice do I give about songwriting and creativity?"
     answer: "I suggest exploring ideas directly during the songwriting process and avoiding overanalysis to maintain spontaneity."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

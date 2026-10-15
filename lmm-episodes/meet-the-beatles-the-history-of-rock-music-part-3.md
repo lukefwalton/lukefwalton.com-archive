@@ -94,7 +94,7 @@ faq:
   - question: "What is Skiffle music and its relation to the Beatles?"
     answer: "Skiffle music is a genre that influenced the Beatles' early sound. John Lennon began his career in a Skiffle band, and it was through this genre that I met Paul McCartney."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

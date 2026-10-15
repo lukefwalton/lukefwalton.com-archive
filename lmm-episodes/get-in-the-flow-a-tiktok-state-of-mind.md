@@ -78,7 +78,7 @@ faq:
   - question: "Why is AI music unsettling?"
     answer: "AI music often lacks the emotional and human-derived depth that makes music resonate with listeners."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -79,7 +79,7 @@ faq:
   - question: "What are the benefits of using Dolby Atmos in music production?"
     answer: "Dolby Atmos in music production allows for greater creative expression, providing the ability to position sounds in a 3D space, creating a more engaging listening experience."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

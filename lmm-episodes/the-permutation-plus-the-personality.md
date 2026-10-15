@@ -78,7 +78,7 @@ faq:
   - question: "What is the significance of cultural music in shaping genre?"
     answer: "Cultural music introduces distinct techniques and styles, allowing musicians to blend global influences into their work."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

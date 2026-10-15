@@ -97,7 +97,7 @@ faq:
   - question: "How did Muddy Waters influence rock music?"
     answer: "Muddy Waters is pivotal for introducing electric guitar into blues music, which played a crucial role in the formation of rock music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

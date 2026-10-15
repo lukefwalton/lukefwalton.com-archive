@@ -80,7 +80,7 @@ faq:
   - question: "How can saturation improve my music mixing?"
     answer: "Saturation pulls out harmonic frequencies and makes the audio sound richer and more like itself, enhancing its character."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

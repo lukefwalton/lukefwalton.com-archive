@@ -77,7 +77,7 @@ faq:
   - question: "How does voice leading work in modern music?"
     answer: "Voice leading is about how individual notes in chords move to create interesting transitions, which is key in both classical and modern music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -80,7 +80,7 @@ faq:
   - question: "Why is contrast important in music?"
     answer: "Contrast helps define sections of a song, making moments like a chorus feel bigger and more impactful by juxtaposing smaller sounds before and after."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

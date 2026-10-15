@@ -80,7 +80,7 @@ faq:
   - question: "How do singers approach recording for vocal comping?"
     answer: "Singers should experiment with different emotions, resonances, and techniques across multiple takes to provide a variety of options for comping."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

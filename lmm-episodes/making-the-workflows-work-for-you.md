@@ -78,7 +78,7 @@ faq:
   - question: "What insights do I share about spatial audio and Dolby Atmos?"
     answer: "I talk about his certification in Dolby Atmos and how it influences his mixing techniques and music creation."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

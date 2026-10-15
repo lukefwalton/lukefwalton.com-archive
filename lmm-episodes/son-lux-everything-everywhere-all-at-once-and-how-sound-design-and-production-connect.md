@@ -82,7 +82,7 @@ faq:
   - question: "What are some techniques used in sound design?"
     answer: "Techniques in sound design include using everyday sounds as instruments, binaural recording for immersive experiences, and innovative percussion methods that challenge conventional approaches."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

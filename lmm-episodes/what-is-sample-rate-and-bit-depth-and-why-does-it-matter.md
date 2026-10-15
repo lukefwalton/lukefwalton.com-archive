@@ -83,7 +83,7 @@ faq:
   - question: "How do sample rate and bit depth affect music?"
     answer: "Both parameters affect the fidelity and overall quality of the recording, influencing how listeners perceive the audio."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

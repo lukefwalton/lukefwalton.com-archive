@@ -78,7 +78,7 @@ faq:
   - question: "How do I approach creativity in music mixing?"
     answer: "I emphasize the importance of maintaining chaos and fun in the creative process while also applying structured techniques during the mixing phase."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

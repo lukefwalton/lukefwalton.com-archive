@@ -85,7 +85,7 @@ faq:
   - question: "What role did the printing press play in music?"
     answer: "The printing press revolutionized music distribution in the Renaissance, making musical works more accessible and encouraging a wider audience to engage with music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

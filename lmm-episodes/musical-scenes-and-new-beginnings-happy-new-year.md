@@ -79,7 +79,7 @@ faq:
   - question: "What is the significance of physical venues in musical scenes?"
     answer: "Physical venues play a crucial role in building communities and facilitating collaboration among artists, which enhances the vibrancy and influence of musical scenes."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

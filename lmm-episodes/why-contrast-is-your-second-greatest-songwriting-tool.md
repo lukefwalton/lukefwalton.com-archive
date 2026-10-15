@@ -88,7 +88,7 @@ faq:
   - question: "What are effective ways to use dissonance in songwriting?"
     answer: "Incorporating dissonance can make moments of resolution more impactful, adding depth and complexity to your songs."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -57,7 +57,7 @@ faq:
   - question: "What is the fishbowl?"
     answer: "The culture you cannot see because you are in it. Harmony pedagogy, recordings, the intervals heard so often they feel like physics. The episode is about noticing that water. The following week, What Babies Listen To, asks what is already there before those years of training."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -83,7 +83,7 @@ faq:
   - question: "How does music education affect personal development?"
     answer: "Music education fosters resilience, creativity, and a strong sense of community, shaping individuals in profound ways."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

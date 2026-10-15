@@ -75,7 +75,7 @@ faq:
   - question: "What can you learn from this episode about songwriting?"
     answer: "Shuffling the order, starting with bass instead of drums, or vocal instead of rhythm, changes which element sets the harmonic center and emotional frame for everything that follows. The first instrument leads; the rest follow."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

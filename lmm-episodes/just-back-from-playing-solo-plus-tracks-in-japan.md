@@ -97,7 +97,7 @@ faq:
   - question: "What strategies help solo musicians connect with their audience?"
     answer: "Finding excitement in performance, embracing imperfection, and actively engaging with the audience can foster a deeper connection during live shows."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

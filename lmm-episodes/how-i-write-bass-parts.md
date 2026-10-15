@@ -79,7 +79,7 @@ faq:
   - question: "What are common mistakes bass players make?"
     answer: "I point out that many bass players may focus too much on drums instead of listening to the overall arrangement, which can lead to disconnection in the music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

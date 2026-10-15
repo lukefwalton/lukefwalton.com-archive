@@ -99,7 +99,7 @@ faq:
   - question: "Is groove just playing behind the beat?"
     answer: "No. Nudging everything back is not the point, and neither is fake humanization. Large and Jones on Dynamic Attending Theory: you feel good when events land where you predicted. Groove is a shared perceptual center where players sound like they are listening. Relationships make the groove, even if the other player is another take of you, or a grid you decided to listen to."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

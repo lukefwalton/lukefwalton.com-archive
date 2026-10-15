@@ -84,7 +84,7 @@ faq:
   - question: "Can adults learn perfect pitch?"
     answer: "Yes, studies have shown that adults can train themselves to gain skills associated with perfect pitch, although it may be more challenging."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

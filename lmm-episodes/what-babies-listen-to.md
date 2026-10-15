@@ -55,7 +55,7 @@ faq:
   - question: "How does this connect to the monkey episode?"
     answer: "Monkey Studies is the week after. I take this newborn result and ask the factory-default question again, this time about rhythm and about rhesus macaques. The babies episode is the setup. The monkey episode is the next turn."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

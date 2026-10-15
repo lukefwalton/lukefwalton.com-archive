@@ -82,7 +82,7 @@ faq:
   - question: "How does compression differ between live and recorded sound?"
     answer: "In live music, compression can be used to manage dynamics but is often less controlled compared to recorded music where multiple stages of compression are applied."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

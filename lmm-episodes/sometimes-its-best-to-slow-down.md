@@ -76,7 +76,7 @@ faq:
   - question: "What does quantizing mean in music production?"
     answer: "Quantizing is the process of adjusting the timing of notes or beats in a recorded performance to fit a grid, but doing it by hand can create a more personalized feel."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

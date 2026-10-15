@@ -84,7 +84,7 @@ faq:
   - question: "What role does community play in a musician's career?"
     answer: "I reflect on the ways that community and collaboration enhance creativity and support artists in their journeys."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

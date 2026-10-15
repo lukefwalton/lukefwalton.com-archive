@@ -81,7 +81,7 @@ faq:
   - question: "What insights did I gain from my shamisen lessons?"
     answer: "The lessons taught me about the unique qualities of stringed instruments and how to apply those insights to my guitar playing."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -85,7 +85,7 @@ faq:
   - question: "What was the cultural significance of David Bowie and Queen in the 1970s?"
     answer: "Both artists defined the glam rock era and pushed the boundaries of music, fashion, and identity, reflecting the socio-political climate of their time."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -87,7 +87,7 @@ faq:
   - question: "What are the benefits and drawbacks of using AI in music production?"
     answer: "I see potential for AI to ease certain tasks but warn against fully replacing human creativity in the mixing process."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

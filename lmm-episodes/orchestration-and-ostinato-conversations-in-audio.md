@@ -76,7 +76,7 @@ faq:
   - question: "What are voice leading and polyphony?"
     answer: "Voice leading involves the way individual melodic lines or voices move and connect, while polyphony refers to multiple independent melodies being played simultaneously."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

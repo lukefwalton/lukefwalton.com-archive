@@ -80,7 +80,7 @@ faq:
   - question: "What are examples of timbre in different genres?"
     answer: "Different genres utilize specific timbres to evoke various emotions; for example, old school rock and roll has distinct timbres compared to doom metal."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

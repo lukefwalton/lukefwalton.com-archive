@@ -79,7 +79,7 @@ faq:
   - question: "What role does humor play in songwriting?"
     answer: "I discuss how humor can create a unique connection with listeners and make songs more relatable."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -80,7 +80,7 @@ faq:
   - question: "What can listeners expect from my new album cycle, Möbius?"
     answer: "Listeners can look forward to a deeper exploration of my musical journey and personal narrative, with an emphasis on vulnerability and authenticity in his songwriting."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

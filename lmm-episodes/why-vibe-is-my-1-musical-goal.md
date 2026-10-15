@@ -84,7 +84,7 @@ faq:
   - question: "What role does cultural context play in music genres?"
     answer: "I share insights on how genre expectations shape the artistic and emotional choices made by musicians."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

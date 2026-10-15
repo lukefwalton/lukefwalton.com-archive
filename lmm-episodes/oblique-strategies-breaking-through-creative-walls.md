@@ -80,7 +80,7 @@ faq:
   - question: "Who is Brian Eno and what is his contribution to music?"
     answer: "Brian Eno is a renowned producer and artist known for his influential work in music, particularly in ambient music, and his collaborations with artists like U2 and Coldplay."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

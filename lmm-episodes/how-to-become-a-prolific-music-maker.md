@@ -79,7 +79,7 @@ faq:
   - question: "What is the difference between being a musician and an instrumentalist?"
     answer: "A musician encompasses a broader role that includes being an instrumentalist, producer, and recording engineer, focusing on music creation as a holistic practice."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

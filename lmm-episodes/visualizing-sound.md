@@ -79,7 +79,7 @@ faq:
   - question: "What role do harmonics play in music?"
     answer: "Harmonics are crucial in defining the character of sounds; manipulating them alters how we perceive different instruments and vocals."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

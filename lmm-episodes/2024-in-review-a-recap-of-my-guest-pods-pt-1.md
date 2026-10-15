@@ -18,7 +18,7 @@ topicsDiscussed: []
 hostNote: |
   Full episode audio is on the listen link above.
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

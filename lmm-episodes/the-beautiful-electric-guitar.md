@@ -80,7 +80,7 @@ faq:
   - question: "Why do I consider guitar a vocal instrument?"
     answer: "I emphasize that for him, playing the guitar allows him to express emotions and ideas that his voice cannot convey."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

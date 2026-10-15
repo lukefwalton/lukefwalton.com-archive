@@ -80,7 +80,7 @@ faq:
   - question: "What can I learn from The Beatles about collaboration?"
     answer: "In this episode, I highlight the importance of collaboration and the dynamics within The Beatles that fostered their creativity."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

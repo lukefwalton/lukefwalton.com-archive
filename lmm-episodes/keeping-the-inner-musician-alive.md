@@ -82,7 +82,7 @@ faq:
   - question: "What is the role of technology in music today?"
     answer: "I explore how advancements in technology have made it easier for more people to get involved in music creation, fostering a more inclusive music community."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

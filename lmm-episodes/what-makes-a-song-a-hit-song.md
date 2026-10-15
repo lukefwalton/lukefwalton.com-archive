@@ -75,7 +75,7 @@ faq:
   - question: "What psychological factors contribute to a song being a hit?"
     answer: "Factors like familiarity, expectation, and cultural resonance play crucial roles in determining why songs become popular."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

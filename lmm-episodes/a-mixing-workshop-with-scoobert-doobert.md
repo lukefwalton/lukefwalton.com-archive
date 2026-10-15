@@ -90,7 +90,7 @@ faq:
   - question: "How can contrast enhance a mix?"
     answer: "Using contrast in your mix by varying the levels of different elements can captivate the listener's attention and enhance emotional impact."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

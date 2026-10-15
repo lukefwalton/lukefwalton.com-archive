@@ -78,7 +78,7 @@ faq:
   - question: "Why is the last part of a project the hardest?"
     answer: "The final stretch often brings heightened scrutiny and self-doubt, making it a psychological challenge to complete."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

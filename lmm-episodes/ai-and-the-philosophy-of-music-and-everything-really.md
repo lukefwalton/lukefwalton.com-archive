@@ -78,7 +78,7 @@ faq:
   - question: "What is the philosophical stance on music's value in relation to AI?"
     answer: "Music retains intrinsic value that cannot be replicated by AI; it is a reflection of human experience and creativity."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

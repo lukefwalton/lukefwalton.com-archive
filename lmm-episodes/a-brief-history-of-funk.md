@@ -87,7 +87,7 @@ faq:
   - question: "Who are the key figures in Luke's funk history?"
     answer: "James Brown and Clyde Stubblefield for the rhythmic foundation, George Clinton and Parliament-Funkadelic for the psychedelic expansion, and the New Orleans lineage (The Meters) for the second-line pocket that funk inherited."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

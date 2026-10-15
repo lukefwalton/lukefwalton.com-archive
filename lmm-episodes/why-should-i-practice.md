@@ -80,7 +80,7 @@ faq:
   - question: "What should my practice goals be?"
     answer: "Your practice goals should reflect what you want to achieve in music, whether it's learning scales, writing songs, or developing your individual style."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

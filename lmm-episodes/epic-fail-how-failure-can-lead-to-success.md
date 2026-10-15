@@ -84,7 +84,7 @@ faq:
   - question: "What role does self-reflection play in the creative process?"
     answer: "Self-reflection allows artists to separate their inner critic from their creative instinct, facilitating better decision-making in their craft."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -97,7 +97,7 @@ faq:
   - question: "What are the latest trends in live music performance?"
     answer: "I highlight the evolving nature of live performances, including increased focus on visuals and unique artist expressions."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

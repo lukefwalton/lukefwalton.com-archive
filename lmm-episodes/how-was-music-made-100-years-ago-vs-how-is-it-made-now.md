@@ -89,7 +89,7 @@ faq:
   - question: "What is the significance of mixing in music production?"
     answer: "Mixing combines various elements to enhance the overall sound, making it a crucial step in producing music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

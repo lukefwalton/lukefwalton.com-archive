@@ -78,7 +78,7 @@ faq:
   - question: "Who was Pythagoras and how did he influence music?"
     answer: "Pythagoras was a Greek philosopher whose exploration of the relationship between numbers and musical harmony laid the groundwork for understanding musical intervals."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -77,7 +77,7 @@ faq:
   - question: "What personal experiences do I share about his creative journey?"
     answer: "I share insights from my own experience running several marathons, which informs his understanding of the endurance needed in pursuing music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

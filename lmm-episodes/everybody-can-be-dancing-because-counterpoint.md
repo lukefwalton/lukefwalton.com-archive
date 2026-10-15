@@ -81,7 +81,7 @@ faq:
   - question: "Who is James Jamerson?"
     answer: "James Jamerson was a renowned bassist known for his innovative playing style and is often credited with shaping the sound of Motown."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

@@ -89,7 +89,7 @@ faq:
   - question: "What does Wu Wei have to do with practice?"
     answer: "Wu Wei here means stop shoving. If you only brute-force a groove, you are fighting the water. Intention and focus still matter; the other half is letting the pattern arrive after you have given the body sleep. The Tommaso episode the next week is the same argument from a drummer's chair."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

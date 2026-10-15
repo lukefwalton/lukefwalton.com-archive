@@ -79,7 +79,7 @@ faq:
   - question: "What is the significance of modes in pop music?"
     answer: "Modes can add unexpected twists and emotional depth to pop music, making it more engaging for listeners."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

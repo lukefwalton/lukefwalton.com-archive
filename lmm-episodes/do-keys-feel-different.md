@@ -81,7 +81,7 @@ faq:
   - question: "How do frequencies influence the perception of music?"
     answer: "Frequencies interact with each other and with the instruments played, affecting the emotional response to music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

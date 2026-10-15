@@ -79,7 +79,7 @@ faq:
   - question: "What bands are considered pioneers of hard rock?"
     answer: "Pioneers of hard rock include bands like Led Zeppelin, Black Sabbath, and AC/DC, who set the stage for the genre's evolution."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

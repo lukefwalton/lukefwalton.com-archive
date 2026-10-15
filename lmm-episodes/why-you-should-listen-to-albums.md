@@ -79,7 +79,7 @@ faq:
   - question: "What is the significance of tension and release in music?"
     answer: "Tension and release create an emotional landscape, shaping the listener's experience and enhancing the storytelling in music."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

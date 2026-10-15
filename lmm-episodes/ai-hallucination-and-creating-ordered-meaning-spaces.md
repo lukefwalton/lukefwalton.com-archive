@@ -84,7 +84,7 @@ faq:
   - question: "What does AI 'hallucination' mean in this context?"
     answer: "AI 'hallucination' refers to the instances when AI produces outputs that seem plausible but are actually inaccurate or fabricated."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---

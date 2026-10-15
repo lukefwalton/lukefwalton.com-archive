@@ -77,7 +77,7 @@ faq:
   - question: "What role does leadership play in collaborative music settings?"
     answer: "Effective leadership in music involves guiding rather than directing, by encouraging input and fostering a creative environment."
 
-transcriptPublished: false
+transcriptPublished: true
 
 draft: false
 ---
