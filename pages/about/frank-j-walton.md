@@ -101,7 +101,7 @@ Frank J. Walton: Heritage Foundation (https://www.heritage.org/staff/frank-walto
 
 Helen B. Walton obituary: Frank J. to Mark to Luke (https://www.legacy.com/us/obituaries/sandiegouniontribune/name/helen-walton-obituary?id=19260077): San Diego Union-Tribune, August 2012. Helen Barbara (Olseske) Walton, Frank’s wife of 45 years, died August 20, 2012, at 97. It names their son Mark and their grandson Luke. This is not Walmart’s Helen Robson Walton.
 
-Helen Barbara Walton: Find a Grave (https://www.findagrave.com/memorial/96146713/helen_barbara-walton): Memorial 96146713. Their ashes are interred at Fort Rosecrans National Cemetery, Point Loma, San Diego, section CC19A, row 1, site 13. The marker is in memory of Frank J. Walton, corporal, U.S. Marine Corps, World War II, years 1919–1991, and Helen B. Walton, lieutenant, U.S. Navy, World War II, years 1915–2012. His Social Security record gives his birth as 1918.
+Helen Barbara Walton: Find a Grave (https://www.findagrave.com/memorial/96146713/helen_barbara-walton): Memorial 96146713. Both are commemorated at Fort Rosecrans National Cemetery, Point Loma, San Diego, section CC19A, row 1, site 13. The marker is in memory of Frank J. Walton, corporal, U.S. Marine Corps, World War II, years 1919–1991, and Helen B. Walton, lieutenant, U.S. Navy, World War II, years 1915–2012. His Social Security record gives his birth as 1918.
 
 - Themes: Frank J. Walton, genealogy, family history, Caltrans, Ronald Reagan, Heritage Foundation
 - Record id: page:about/frank-j-walton
