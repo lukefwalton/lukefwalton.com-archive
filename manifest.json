@@ -5,10 +5,10 @@
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
   "doi": "10.5281/zenodo.20683155",
-  "generatedAt": "2026-10-14",
+  "generatedAt": "2026-10-15",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "0a6a1d2174dc06be96e456d3f68659ea2d835c4a"
+    "commit": "ac9b9670a84333fad061134d5ec08139c17eb1a0"
   },
   "total": 820,
   "counts": {
