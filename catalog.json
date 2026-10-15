@@ -32392,6 +32392,38 @@
   },
   {
     "collection": "pages",
+    "slug": "about/frank-j-walton",
+    "title": "Frank J. Walton (1919–1991)",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/about/frank-j-walton/",
+    "canonicalUrl": "https://lukefwalton.com/about/frank-j-walton/",
+    "archive": {
+      "markdown": "pages/about/frank-j-walton.md",
+      "html": "pages/about/frank-j-walton.html"
+    },
+    "source": "src/pages/about/frank-j-walton.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/frank-j-walton.ts",
+      "src/lib/walton-lineage.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:about/frank-j-walton"
+      ],
+      "themes": [
+        "Frank J. Walton",
+        "genealogy",
+        "family history",
+        "Caltrans",
+        "Ronald Reagan",
+        "Heritage Foundation"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "apps",
     "title": "Apps: Luke F. Walton",
     "type": "WebPage",
@@ -32565,6 +32597,38 @@
         "cawleen",
         "OUTHERE",
         "Burt Cashman"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "folklore/find-minjim",
+    "title": "Find Minjim",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/folklore/find-minjim/",
+    "canonicalUrl": "https://lukefwalton.com/folklore/find-minjim/",
+    "archive": {
+      "markdown": "pages/folklore/find-minjim.md",
+      "html": "pages/folklore/find-minjim.html"
+    },
+    "source": "src/pages/folklore/find-minjim.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/find-minjim.ts",
+      "src/lib/walton-lineage.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:folklore/find-minjim"
+      ],
+      "themes": [
+        "Minjam Walton",
+        "Find Minjim",
+        "John Tabb Walton",
+        "genealogy",
+        "family history",
+        "Cumberland County, Virginia"
       ]
     }
   },

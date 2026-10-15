@@ -1,0 +1,109 @@
+---
+title: Frank J. Walton (1919–1991)
+url: https://lukefwalton.com/about/frank-j-walton/
+recordKind: surface
+source: src/pages/about/frank-j-walton.astro
+derivedFrom:
+  - ask-the-archive/src/lib/legibility-records.ts
+  - src/lib/frank-j-walton.ts
+  - src/lib/walton-lineage.ts
+recordIds:
+  - page:about/frank-j-walton
+---
+
+# Frank J. Walton (1919–1991)
+
+## Page text
+
+_Static prose extracted from the page source; dynamic parts omitted. See the record below._
+
+<a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line</a>
+<section>
+<h4>Sources</h4>
+</section>
+<p><a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line (family record)</a> · <a href="../about.html">About</a></p>
+
+## Record
+
+### Frank J. Walton (1919–1991)
+
+**Summary.** Frank J. Walton, Luke F. Walton's grandfather, from the documents. Luke F. Walton’s grandfather. Steel man, Marine corporal, Reagan’s Secretary of Business and Transportation (1971–1974), who led the creation of the California Department of Transportation and named it Caltrans. President of the Heritage Foundation, 1975–1977. Ordained a Catholic deacon in 1983. Born 29 November 1919 by four records (his own hand, his marker, the diocese, his age in 1971); his Social Security record and VA memorial say 1918.
+
+Frank J. Walton (1919–1991), at /about/frank-j-walton/. Family record: /about/walton-lineage/.
+
+Frank J. Walton was Luke F. Walton’s grandfather. He sold steel, served as a Marine corporal in the Second World War, and ran a business in Los Angeles. In 1971 Governor Ronald Reagan made him Secretary of the Business and Transportation Agency. In that job he led the creation of the California Department of Transportation and gave it its name, Caltrans. He chaired the steering committee of the governor’s tax reduction task force. From 1975 to 1977 he was president of the Heritage Foundation. In 1983 he was ordained a deacon in the Roman Catholic Church. This page is built from the documents. Where they disagree, it says so.
+
+Birmingham and Baltimore. He was born in Birmingham, Alabama, on 29 November, the third of three children. “My father was from a cotton plantation in Greensboro, and my mother was a society girl from Knoxville, Tennessee.” On the form he filled out by hand for the Bancroft Library in 1983, he gave his father as John T. Walton of Greensboro, Alabama, a steel broker, and his mother as Julia T. White of Knoxville, Tennessee. His Social Security record names the same parents. The 1920 census has him as a baby in his father’s Birmingham household. His father, called Jack T. Walton in the family, was murdered in Hale County in March 1945. By his own account he spent about his first twelve years in Birmingham. During the Depression the family moved to Baltimore, where his mother’s parents lived, and he finished growing up there. He said his parents were Southern Democrats. In 1940, his first vote, he read both party platforms: “I don’t really belong in the Democrat party.” He voted Republican. He said he never voted any other way.
+
+Steel, and the Marines. He studied business administration. The governor’s release on his appointment calls the school the Eton College of Finance in Baltimore, which has not been identified, and adds post-graduate study at Northwestern. In his hand, it is graduate work in metallurgy at Northwestern. He took that work on a cooperative course while working in steel. He was a field engineer for Rustless Iron and Steel in Baltimore, then managed its district office in Chicago, then went to Los Angeles. About a year after reaching Los Angeles he joined the Marine Corps, for about three years. His Veterans Legacy Memorial and his marker at Fort Rosecrans give his rank as corporal. He met Helen Barbara Olseske, a Navy nurse, at North Island in Coronado, and they married while he was still in the Marines. Her marker gives her rank as lieutenant. After the war he spent three and a half years in Pittsburgh in stainless-steel distribution and left as vice-president and general manager. In 1950, just before the Korean War, he came back to Los Angeles with two children and a dog. He started at Jorgensen Steel as a trainee and became a salesman. He moved to TubeSales, a metal-tubing distributor, and retired as its president in 1963, in his mid-forties.
+
+Arcadia, and 1964. He worked precincts, recruited candidates, and was a town chairman of the Eisenhower campaign in Arcadia. In 1964 he was the Republican nominee for Congress in California’s 25th District. He won a nine-way primary and lost the general election to Ronald B. Cameron, the Democrat, with about 45 percent of the vote. He remembered it as 46 percent, ahead of Goldwater in the district. Around midnight, with the count still open, he told Helen: “It would just be my dumb Irish luck to win and be the only Republican back there!” Two precinct workers, Shirley Diehl and Patti Bates, ran the campaign as their first paid job in politics. After 1964 he went into chemical distribution. The 1971 release has him as owner and president of AIRKEM, a Los Angeles firm that made “ecological and environmental control products for industrial plants and institutions.” It also lists him as a founding director of the Commerce City Bank and of the Industrial Council of the City of Commerce, a director of the Steel Service Center Institute, chairman of the Los Angeles Civil Service Commission, and chairman of Arcadia’s Personnel Commission. In 1966 he was master of ceremonies at Reagan’s San Gabriel Valley kickoff dinner for governor, where he met the Reagans for the first time.
+
+Secretary of Business and Transportation, 1971–1974. Lewis Uhler, who had worked on the 1964 campaign, called to ask whether he would take the agency. After interviews with Ned Hutchinson and with Reagan, Mike Deaver and Ed Meese in the room, he was offered the job. The next morning, at breakfast: “He said, ‘Good morning, Mr. Secretary.’ I let out a war whoop and I said, ‘Yippee!’” The appointment was announced on 23 July 1971: “Governor Ronald Reagan today appointed Frank J. Walton, Los Angeles business and civic leader, as Secretary of the Business and Transportation Agency.” The release gives him as 51, a Republican, married to Helen, with five children, at 141 West Longden Avenue, Arcadia. The salary was $35,000. Facing confirmation before Senator James Mills, he went to Mills first and told him he would oppose Mills’s gas-tax bill. A week after the appointment, the governor announced that “Frank J. Walton, Secretary of Business and Transportation, has issued instructions that overweight loads will be permitted” for vital cargo during the July 1971 labor disputes. As chairman of the Toll Bridge Authority he presided over the 19 November 1971 meeting that approved the first toll-free car-pool lanes on the San Francisco–Oakland Bay Bridge. In October 1971 he was on the cabinet briefing list with Ed Meese. The idea of one state transportation department came before him. He said so: “Not that I came in with the idea, I didn’t; I simply just inherited the idea from those who were trying to do it.” A McKinsey consultant, James Balloun, was already studying it for Public Works. In his account Balloun told him it would only happen if the secretary led it in person, so he did, chairing meetings up and down the state and selling the Highway Commission, the Transportation Board and local governments on it. “I never had more experience in selling than I had in trying to develop a Department of Transportation. I guess if there were anything that I could call sort of a personal monument, that might have been it.” He credited Neil Dunham, a career deputy at Public Works, with building the organization day to day. The staff wanted to call the new department CAL-DOT. “I said, ‘No, no. No, we don’t parrot the federal government, we operate on our own. We’ll have to find another name.’ We ultimately came up with CALTRANS. Every time I see the CALTRANS emblem on all the trucks and the jeeps and all the rest, I remember the day that we put all the designs up on the wall in front of me and I picked that one out and I said, ‘That’s the one we’ll go with.’” AB 69, carried by Assemblyman Wadie Deddeh, created the department inside his agency. Reagan signed it on 14 December 1972 and said: “I would also like to commend Assemblyman Wadie Deddeh, who introduced the bill and guided it through the legislature, and Secretary of the Business and Transportation Agency Frank Walton, who worked so hard on this bill.” On 18 August 1972, signing the bill that took the Mineral King road out of the state highway system, Reagan directed him and Resources Secretary Ike Livermore to study “the economics and esthetics of the key roads that furnish automobile approaches to High Sierra wilderness areas.” He said in 1983 that he and Livermore were often at opposite ends on the environment and stayed good friends. He also described Nixon’s impoundment of about $4 billion in federal highway money owed to California, and the agency’s answer: keep projects ready to build the moment funds came loose.
+
+The tax task force. At a cabinet retreat at Cameron Park, by his account, Reagan said the administration had done a good job of keeping government under control, and Frank told him that was not the point: there had to be an actual tax cut. Reagan gave him the job. He chaired the steering committee of the Governor’s Tax Reduction Task Force. Lewis Uhler chaired the working task force under it. Its consultants included Milton Friedman, Peter Drucker, James Buchanan and William Niskanen. At his press conference on 30 January 1973, Reagan was asked who headed the task force. He answered: “Frank Walton.” On 9 February he told the state’s newspaper publishers, “About six months ago we established a task force on tax reduction with a steering committee headed by Frank Walton, our Secretary of Business and Transportation.” In May, campaigning for the measure, he quoted him: “As one of our cabinet members, Frank Walton, said the other day: ‘If you overpay your utility bill, the company returns the over-payment to you. It doesn’t divide it up among your neighbors.’” The plan became Proposition 1, the tax-limitation initiative, and it lost at the special election of 6 November 1973. In 1983 he agreed that it set the stage for Proposition 13. On 9 September 1973, addressing Republicans in San Diego, Reagan apologized that they had not had the cabinet briefing they were supposed to get “from Ed Meese, Frank Walton, and Earl Brian,” adding, “all three of them can do it better.” On 12 December 1974, at the Sacramento tribute to Governor and Mrs. Reagan at the end of the term, Frank was master of ceremonies, and he and Helen sat at the head table.
+
+The Heritage Foundation, 1975–1977. He was president of the Heritage Foundation from 9 June 1975 to February 1977. He said he went to Washington because it was the bicentennial and he wanted to do something for the country. By his account the budget was about $500,000 a year when he arrived and $2 to $3 million when he left. He built a broad base of small donors by direct mail and set up the foundation’s quick-response service on urgent issues. He said he did not like Washington, and he went home to California. In October 1980, when Meese became Reagan’s chief of staff, the University of San Diego’s staff newsletter asked him about Meese: “He’s an open, honest, forthright and genuine man. He’s a rarity in government.” At Heritage’s tenth-anniversary dinner on 3 October 1983, President Reagan said: “It’s great to see old friends from California that are also Heritage activists, like Frank Walton.”
+
+Deacon. Back in California, the permanent diaconate had opened to married men. He went through the seminary studies and was ordained a deacon in the Roman Catholic Church on 28 May 1983. When the Bancroft Library interviewed him at his home in Coronado that October, he ended the session to go teach a class: “I’m a full-time deacon now.” James Stearns, his fellow cabinet secretary, told the same interviewers: “He’s one of the great gentlemen I’ve known in my life.” He died on 9 February 1991. He and Helen were married for 45 years, by her obituary. She died on 20 August 2012, at 97. Both are at Fort Rosecrans National Cemetery, Point Loma, San Diego.
+
+1919, not 1918. The day is 29 November everywhere. The year is not. His Social Security record and his Veterans Legacy Memorial say 1918. His own hand in 1983 says 1919. So do the marker at Fort Rosecrans and the diocese’s list of its deceased clergy. So does the 1971 release, which gives him as 51 that July; a man born in November 1918 was 52. Four records to two: this page gives 1919. A birth certificate or his Marine Corps record would settle it for good.
+
+What is not here yet. His 1991 obituary. His Marine Corps service record. The official 1964 Statement of Vote. The three folders of his speeches in the Governor’s Office research files at the Reagan Library, which are not digitized. Heritage’s annual reports for 1975 to 1977.
+
+Sources:
+
+Frank J. Walton, “Transportation Policies and the Politics of Conservatism, 1964–1974,” oral history conducted in 1983 by Sarah Sharp, in Governor Reagan’s Cabinet and Agency Administration (Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1986) (https://archive.org/details/govreaganscab00lagerich): Recorded 25 October 1983 at his home in Coronado. His biographical form, in his own hand, and the interview itself. James G. Stearns’s interview in the same volume, p. 53, on Frank. Also at Berkeley: https://digicoll.lib.berkeley.edu/record/54712
+
+Office of the Governor, release #442, 23 July 1971: the appointment (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p12/40-840-7408623-p12-004-2017.pdf): Reagan Library, Governor’s Papers, Press Unit, Press Releases July 1971, PDF page 98, read on the page image. His only official biography: age, business, civic posts, schooling, family, home.
+
+Office of the Governor, release #455, 30 July 1971: permits for vital cargo (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p12/40-840-7408623-p12-004-2017.pdf): Same folder, PDF page 121. Overweight loads permitted on his instructions during the July 1971 labor disputes.
+
+Office of the Governor, release #650, 19 November 1971: Bay Bridge car-pool lanes (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p12/40-840-7408623-p12-008-2017.pdf): Press Releases November 1971, PDF page 87. The Toll Bridge Authority meeting he chaired.
+
+State of California memorandum, 19 October 1971, to Ed Meese, Frank Walton and the cabinet (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p01/40-840-7408622-p01-001-2017.pdf): Cabinet briefing list for the acting governor. The same folder’s 1970 memoranda name Rus Walton of the governor’s staff, a different man.
+
+Office of the Governor, release #494, 18 August 1972: Mineral King and the High Sierra roads (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p13/40-840-7408623-p13-010-2017.pdf): Press Releases 16–31 August 1972, PDF page 46. The study assigned to him and Ike Livermore.
+
+Office of the Governor, release #649, 14 December 1972: AB 69 signed (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p14/40-840-7408623-p14-004-2017.pdf): Press Releases 1–20 December 1972, PDF page 37, read on the page image. The Department of Transportation created; Reagan’s thanks.
+
+Reagan press conference transcript, 30 January 1973 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p04/40-840-7408622-p04-002-2017.pdf): Press Conferences, transcripts January–March 1973, PDF pages 22–23, read on the page image.
+
+Reagan, remarks to the California Newspaper Publishers Association, 9 February 1973 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p19/40-840-7408624-p19-001-2017.pdf): Speeches 1973, PDF page 30. The tax task force and its steering committee.
+
+A Reasonable Program for Revenue Control and Tax Reduction (the Proposition One “Blue Book”), 12 March 1973 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p38/40-840-7408629-P38-008-2017.pdf): Printed page 24 (PDF page 45), read on the page image: “Frank J. Walton, Chairman,” Steering Committee.
+
+Office of the Governor, release #282, 22 May 1973: remarks to the California Federation of Women’s Clubs (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p14/40-840-7408623-p14-011-2017.pdf): Press Releases May 1973, PDF pages 96–97. Reagan quotes him on the tax rebate.
+
+Reagan, address in San Diego, 9 September 1973 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p20/40-840-7408624-p20-013-2017.pdf): Town and Country Hotel Convention Center, transcript page 1.
+
+Governor’s schedule, Sacramento Tribute to Governor and Mrs. Reagan, 12 December 1974 (https://www.reaganlibrary.gov/public/digitallibrary/gubernatorial/pressunit/p26/40-840-7408626-p26-015-2017.pdf): Governor’s Daily Schedules, December 1974. Master of ceremonies; Mr. and Mrs. Frank Walton at the head table.
+
+Alcalá View (University of San Diego), October 1980: “Ed Meese, Appointed Reagan’s Chief of Staff” (https://user-hazoqtr.cld.bz/Alcala-View-1980-2-21): Page 1. Frank on Meese.
+
+Reagan, remarks at the dinner marking the 10th anniversary of the Heritage Foundation, 3 October 1983 (https://www.reaganlibrary.gov/archives/speech/remarks-dinner-marking-10th-anniversary-heritage-foundation): Reagan Library transcript.
+
+Diocese of San Diego, Catholic Directory 2026–2027, deceased clergy, printed page 112 (https://fliphtml5.com/DioceseofSanDiego/jqdl/114/): “Walton, Deacon Frank”: born 29 November 1919, ordained 28 May 1983, died 9 February 1991. Read on the page.
+
+1964 United States House of Representatives elections in California (Wikipedia) (https://en.wikipedia.org/wiki/1964_United_States_House_of_Representatives_elections_in_California): District 25: Ronald B. Cameron 55.4 percent, Frank J. Walton 44.6. A compiled table, not the Statement of Vote.
+
+Frank J. Walton: Social Security record (father John T. Walton, mother Julia T. White) (https://www.familysearch.org/ark:/61903/1:1:6K3N-QG4C): Frank James Walton, born 29 November 1918 in Birmingham, died 9 February 1991. His parents are listed as John T. Walton and Julia T. White. “John T.” is Jack T.
+
+Frank J. Walton: Veterans Legacy Memorial (https://www.vlm.cem.va.gov/FRANKJWALTON/AD6CF70): Frank J. Walton, 29 November 1918 to 9 February 1991. Second World War, U.S. Marine Corps, corporal. Fort Rosecrans National Cemetery, San Diego.
+
+Jack T. Walton: 1920 census, Birmingham (son Frank in the household) (https://www.familysearch.org/ark:/61903/1:1:MX8X-373): Jack T. Walton in Birmingham with his wife Julia and their children, including Frank.
+
+Johnson v. State, 247 Ala. 271 (1945): Ernest Johnson’s conviction (https://law.justia.com/cases/alabama/supreme-court/1945/247-ala-271.html): Ernest Johnson was convicted of the murder of Jack T. Walton of Hale County and sentenced to death. The Alabama Supreme Court affirmed the conviction and set his execution for 25 January 1946. The opinion does not give his age. Jack’s body was recovered from the Warrior River on the morning of 6 March 1945.
+
+Frank J. Walton: California agency secretaries (https://calsta.ca.gov/-/media/calsta-media/documents/calsta-secretaries---history-1961-to-present-rev2-a11y.pdf): The state list of agency secretaries names him secretary of Business and Transportation under Governor Reagan, 1971–1974.
+
+Frank J. Walton: Heritage Foundation (https://www.heritage.org/staff/frank-walton): Heritage Foundation staff page: president, 9 June 1975 to February 1977.
+
+Helen B. Walton obituary: Frank J. to Mark to Luke (https://www.legacy.com/us/obituaries/sandiegouniontribune/name/helen-walton-obituary?id=19260077): San Diego Union-Tribune, August 2012. Helen Barbara (Olseske) Walton, Frank’s wife of 45 years, died August 20, 2012, at 97. It names their son Mark and their grandson Luke. This is not Walmart’s Helen Robson Walton.
+
+Helen Barbara Walton: Find a Grave (https://www.findagrave.com/memorial/96146713/helen_barbara-walton): Memorial 96146713. Their ashes are interred at Fort Rosecrans National Cemetery, Point Loma, San Diego, section CC19A, row 1, site 13. The marker is in memory of Frank J. Walton, corporal, U.S. Marine Corps, World War II, years 1919–1991, and Helen B. Walton, lieutenant, U.S. Navy, World War II, years 1915–2012. His Social Security record gives his birth as 1918.
+
+- Themes: Frank J. Walton, genealogy, family history, Caltrans, Ronald Reagan, Heritage Foundation
+- Record id: page:about/frank-j-walton
+
+Archived from https://lukefwalton.com/about/frank-j-walton/. Canonical: https://lukefwalton.com/about/frank-j-walton/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.
