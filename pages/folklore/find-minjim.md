@@ -19,17 +19,19 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 <a href="../folklore.html">Folklore</a>
 <p>A genealogical cold case</p>
-<p>My paternal line ends at John T. Walton, born 1811, whom the family record calls John Tabb. Above him the file follows one theory. A Cumberland County man who signed himself Minjum was, probably, a son of George Walton. He married Sally F. Mann. John T. is a serious hypothesis for their son, and not a proved one. This is the trace, and everything under it.</p>
+<p>My paternal line ends at John T. Walton, born 1811, whom the family record calls John Tabb. The theories are ranked under this sentence, and the unread papers are grouped by the question each one would move. None of it above him is proved.</p>
+<section>
+<h4>The theories</h4>
+<p>Ranked. None of these is a finding. The essay, with the citations, is further down.</p>
+</section>
+<section>
+<h4>Still to search</h4>
+</section>
 <section>
 <h4>The situation</h4>
 </section>
 <section>
-<h4>The theories</h4>
-<p>Ranked. None of these is a finding. The essay under the list is the same argument, with the citations.</p>
-<h5>The trace</h5>
-</section>
-<section>
-<h4>Still to search</h4>
+<h4>The trace</h4>
 </section>
 <section>
 <h4>Who he was</h4>
@@ -49,7 +51,7 @@ Tier
 </section>
 <section>
 <h4>Does he connect the rest of the line?</h4>
-<p><a href="#theory">The leading theory</a> makes George Walton Minjum’s probable father, on the 1805 power of attorney, the 1807 deed and the 1817 sale, with Kerns beside it. The Tabb family’s own compilation gives George and Margaret four children and no Minjum. The <a href="#story-dar">DAR story</a> makes him a son of William Walton Jr. instead, and that hypothesis is the weaker one. My uncle’s record, which splices Minjum onto William Jr., is the first thread below and not a source.</p>
+<p><a href="#theory">The leading theory</a> makes George Walton Minjum’s probable father, on the 1805 power of attorney, the 1807 deed and the 1817 sale, with Kerns beside it. The Tabb family’s own compilation gives George and Margaret four children and no Minjum. The son it does list, born in 1765, is written M. H. T., and a 2005 genealogy is the one that expands the M. to Maurice. The <a href="#story-dar">DAR story</a> makes him a son of William Walton Jr. instead, and that hypothesis is the weaker one. My uncle’s record, which splices Minjum onto William Jr., is the first thread below and not a source.</p>
 <h5>The first thread: my uncle’s record</h5>
 </section>
 <section>
@@ -121,7 +123,7 @@ The reading to test first. Maurice as an expansion of an unexplained M.. The 199
 
 Still to search:
 
-Every item still open, once. Wanted, further down, is the short list I would most like a stranger to bring. This is the whole file, grouped by the question each paper would move. The longer note sits in the thread. Pages 264 to 268 are not here. They are in Dead ends.
+Every item still open, once. Wanted, above, is the short list I would most like a stranger to bring. This is the whole file, grouped by the question each paper would move. The longer note sits in the thread. Pages 264 to 268 are not here. They are in Dead ends.
 
 George as Minjum’s father
 
