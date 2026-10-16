@@ -21,6 +21,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <section>
 <h4>Sources</h4>
 </section>
+<p>Evidence profile: Mark Francis Walton on</p>
 <p><a href="https://lukefwalton.com/about/walton-lineage/">Walton paternal line (family record)</a> · <a href="frank-j-walton.html">Frank J. Walton</a> · <a href="../about.html">About</a></p>
 
 ## Record

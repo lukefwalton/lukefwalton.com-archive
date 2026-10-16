@@ -131,6 +131,11 @@
           "@type": "PropertyValue",
           "propertyID": "ORCID",
           "value": "0009-0005-9263-1954"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "OpenAlex",
+          "value": "A5138275112"
         }
       ],
       "description": "Founder and CEO of Surmado, building managed AI systems for small businesses. Independent researcher on authorship and answerability. Musician and producer; Scoobert Doobert is his primary music project, and he is half of FEiN with Brandon Woodward. Host of Love Music More. Based in San Diego.",
@@ -149,6 +154,8 @@
       ],
       "sameAs": [
         "https://orcid.org/0009-0005-9263-1954",
+        "https://openalex.org/authors/A5138275112",
+        "https://www.waltonfamilytree.com/people/luke-f-walton/#person",
         "https://philpeople.org/profiles/luke-f-walton",
         "https://scholar.google.com/citations?user=_79RY3UAAAAJ",
         "https://isni.org/isni/0000000530400539",
@@ -504,6 +511,18 @@
         "name": "Bar Spaniel's",
         "url": "https://barspaniels.com/",
         "description": "Fictional Japanese craft-beer bar in When Gods Meet, a fiction project by Luke F. Walton. Not a real business."
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.waltonfamilytree.com/#website",
+      "name": "Walton Family Tree",
+      "url": "https://www.waltonfamilytree.com/",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
       }
     },
     {

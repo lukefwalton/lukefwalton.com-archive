@@ -180,6 +180,15 @@
       "status": "FACT"
     },
     {
+      "key": "walton-family-tree",
+      "name": "Walton Family Tree",
+      "id": "https://www.waltonfamilytree.com/#website",
+      "types": [
+        "WebSite"
+      ],
+      "status": "FACT"
+    },
+    {
       "key": "bar-spaniels",
       "name": "Bar Spaniel's",
       "id": "https://barspaniels.com/#bar",
