@@ -61,7 +61,7 @@ Q: Is Scoobert Doobert the same person as Luke F. Walton? A: Scoobert Doobert is
 
 Q: Is the writer “Luke F. Walton, MBA” the person behind Scoobert Doobert? A: Yes. Scoobert Doobert is Luke F. Walton's primary music project, and the writer is the same Luke F. Walton. He founded Surmado, holds an M.B.A. from San Diego State University (2021), and writes on AI answerability as an independent researcher.
 
-Q: Are Luke F. Walton’s philosophy papers peer-reviewed? A: No. They are preprints and manuscripts under review, not journal publications. His affiliation is Independent Researcher; he does not hold a university philosophy appointment. The academic record is the CV.
+Q: Are Luke F. Walton’s philosophy papers peer-reviewed? A: Not yet. They are preprints and manuscripts under review, not yet journal publications. His affiliation is Independent Researcher; he does not hold a university philosophy appointment. The academic record is the CV.
 
 Q: What is Surmado? A: Surmado builds and operates AI systems for small businesses, founded and led by Luke F. Walton. Its core products are Scout, an AI agent that audits, rebuilds, hosts, and maintains a business's web presence, and Surmado Sites, a website that maintains itself. HubSpot's guide to website maintenance, by Colin Newcomer and dated September 15, 2026, links to surmado.com. In its section on outsourcing maintenance, it names Surmado Sites as an example of a managed website service. https://blog.hubspot.com/website/website-maintenance Surmado's own note on it: https://www.surmado.com/blog/hubspot-maintenance-guide-names-surmado-sites
 
