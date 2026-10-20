@@ -32,7 +32,7 @@ draft: false
 
 ---
 
-Track ten, the [*Moonlight Beach*](/albums/moonlight-beach/) closer. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**, and producer billed as **Scoobert Doobert**. It does not list the mix, the performance, or **Riley Knapp** on mastering. The title is **"How to NOT use it"** flipped upside-down (*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*), and the spoken coda ends on the one word that named the planned cycle, **MÖB → I → US → MÖBIUS**.
+Track ten, the [*Moonlight Beach*](/albums/moonlight-beach/) closer. The DistroKid credit pane lists **music and lyrics** as **Luke Francis Walton**, BMI **00579587572**, and producer billed as **Scoobert Doobert**. It does not list the mix, the performance, or **Riley Knapp** on mastering. The title is **"Not how it ends"** flipped upside-down (*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*), and the spoken coda ends on the one word that named the planned cycle, **MÖB → I → US → MÖBIUS**.
 
 **2018**, Ventura pier: credit cards maxed, Pacific obscured by mist, *I probably should quit music*, twice. *But what am I without it?* One word lands: **Möbius**. Not an explanation, a name.
 

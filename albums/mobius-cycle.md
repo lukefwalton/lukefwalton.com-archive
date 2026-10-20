@@ -19,7 +19,7 @@ This page covers the planned four-part cycle as a whole. It is the umbrella, not
 
 ## Named on Moonlight Beach
 
-The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**), the precursor record rather than a turn. Track ten, the closer, is [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/): **"How to NOT use it"** upside-down. The 2018 Ventura-pier spoken coda ends with one word: **Möbius**.
+The cycle was named on [*Moonlight Beach*](/albums/moonlight-beach/) (**2023**), the precursor record rather than a turn. Track ten, the closer, is [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-not-how-it-ends/): **"Not how it ends"** upside-down. The 2018 Ventura-pier spoken coda ends with one word: **Möbius**.
 
 ## Released turns
 

@@ -26,7 +26,7 @@ credits: "DistroKid credit pane: Music and lyrics, Daniel Jason Campbell, Joshua
 draft: false
 ---
 
-Track nine on [*Moonlight Beach*](/albums/moonlight-beach/), cover of **The Wonder Years’** **“Low Tide.”** The DistroKid credit pane lists **music and lyrics** as **Daniel Jason Campbell**, **Joshua James Martin**, **Kenneth Alrich Cavaliere**, **Matthew Paul Brasch**, **Michael Dominic Kennedy**, and **Nicholas Steinborn**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Sits between the original [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and the flipped-title closer [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-how-to-not-use-it/). Part of the LP’s three-cover run (*Walk Don't Run*, *Dancing in the Moonlight (Beach)*, *Low Tide*) that makes *Moonlight Beach* feel like a public hang.
+Track nine on [*Moonlight Beach*](/albums/moonlight-beach/), cover of **The Wonder Years’** **“Low Tide.”** The DistroKid credit pane lists **music and lyrics** as **Daniel Jason Campbell**, **Joshua James Martin**, **Kenneth Alrich Cavaliere**, **Matthew Paul Brasch**, **Michael Dominic Kennedy**, and **Nicholas Steinborn**. Producer, mixing, recording, drums, bass, guitar, synthesizer, and singing are billed as **Scoobert Doobert**. **Riley Knapp** mastered it. Sits between the original [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and the flipped-title closer [*möbius . spuǝ ʇᴉ ʍoɥ ʇoN*](/songs/mobius-not-how-it-ends/). Part of the LP’s three-cover run (*Walk Don't Run*, *Dancing in the Moonlight (Beach)*, *Low Tide*) that makes *Moonlight Beach* feel like a public hang.
 
 DistroKid cover. No original lyrics on this page.
 

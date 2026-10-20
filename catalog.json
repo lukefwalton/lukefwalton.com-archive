@@ -2514,7 +2514,7 @@
         },
         {
           "title": "möbius . spuǝ ʇᴉ ʍoɥ ʇoN",
-          "song": "mobius-how-to-not-use-it"
+          "song": "mobius-not-how-it-ends"
         }
       ],
       "press": [
@@ -45216,17 +45216,17 @@
   },
   {
     "collection": "songs",
-    "slug": "mobius-how-to-not-use-it",
+    "slug": "mobius-not-how-it-ends",
     "title": "möbius . spuǝ ʇᴉ ʍoɥ ʇoN",
     "type": "MusicRecording",
     "recordKind": "collection",
-    "liveUrl": "https://lukefwalton.com/songs/mobius-how-to-not-use-it/",
-    "canonicalUrl": "https://lukefwalton.com/songs/mobius-how-to-not-use-it/",
+    "liveUrl": "https://lukefwalton.com/songs/mobius-not-how-it-ends/",
+    "canonicalUrl": "https://lukefwalton.com/songs/mobius-not-how-it-ends/",
     "archive": {
-      "markdown": "songs/mobius-how-to-not-use-it.md",
-      "html": "songs/mobius-how-to-not-use-it.html"
+      "markdown": "songs/mobius-not-how-it-ends.md",
+      "html": "songs/mobius-not-how-it-ends.html"
     },
-    "source": "src/content/songs/mobius-how-to-not-use-it.md",
+    "source": "src/content/songs/mobius-not-how-it-ends.md",
     "metadata": {
       "title": "möbius . spuǝ ʇᴉ ʍoɥ ʇoN",
       "meaning": "2018 Ventura pier: cards maxed, Pacific mist, probably should quit music: but what am I without it? Möbius.",
