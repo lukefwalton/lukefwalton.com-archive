@@ -445,6 +445,17 @@
       }
     },
     {
+      "@type": "Organization",
+      "@id": "https://mobiusdsp.com/#organization",
+      "name": "Möbius DSP",
+      "alternateName": "Mobius DSP",
+      "url": "https://mobiusdsp.com/",
+      "description": "The audio software of Luke F. Walton: instruments in research, built on Möbius inversion and on deliberately overloaded tape and preamp behavior. No releases yet.",
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      }
+    },
+    {
       "@type": "Person",
       "@id": "https://lukefwalton.com/#brandon-woodward",
       "name": "Brandon Woodward",
