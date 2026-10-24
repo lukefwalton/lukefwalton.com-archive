@@ -5,16 +5,16 @@
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
   "doi": "10.5281/zenodo.20683155",
-  "generatedAt": "2026-10-23",
+  "generatedAt": "2026-10-24",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "c4cfcf7f71e1ab6bf5873b8a6ff088057345f3e7"
+    "commit": "6dc0b6f73ea3decbe7d1a5e1c89acf1e37f451d3"
   },
-  "total": 824,
+  "total": 825,
   "counts": {
     "songs": 404,
     "albums": 36,
-    "writing": 6,
+    "writing": 7,
     "letters": 4,
     "publications": 1,
     "interviews": 30,
@@ -22,19 +22,19 @@
     "lmm-essays": 4
   },
   "records": {
-    "collections": 687,
+    "collections": 688,
     "publisherStubs": 28,
     "surfaces": 109
   },
   "assets": {
     "manifest": "assets.json",
     "html": "assets.html",
-    "included": 370,
+    "included": 371,
     "evidence": 270,
     "metadataOnly": 53,
     "excluded": 0,
     "missing": 0,
-    "bytes": 203810854
+    "bytes": 203949928
   },
   "linkPolicy": "Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.",
   "catalog": "catalog.json",

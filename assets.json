@@ -14621,8 +14621,8 @@
     "archive": "Walton-CV.pdf",
     "canonicalUrl": "https://lukefwalton.com/Walton-CV.pdf",
     "sourcePath": "public/Walton-CV.pdf",
-    "bytes": 53917,
-    "sha256": "e1aa338a9ef3cd91a4f321069a27949e8355dae0501627347b7ef5ebc3730539",
+    "bytes": 54084,
+    "sha256": "415e9d2d8d25fcdced5702ff5a8ac2b73374bc218cef10dcbe841cb6ee11cf37",
     "mediaType": "application/pdf",
     "rights": "owned",
     "archivePolicy": "include",
@@ -14696,6 +14696,22 @@
     "reason": "Luke F. Walton paper (CC BY-NC-ND 4.0).",
     "referencedBy": [
       "writing/the-decision-no-one-authored"
+    ]
+  },
+  {
+    "path": "/writing/the-seduction-of-elegance.pdf",
+    "archive": "writing/the-seduction-of-elegance.pdf",
+    "canonicalUrl": "https://lukefwalton.com/writing/the-seduction-of-elegance.pdf",
+    "sourcePath": "public/writing/the-seduction-of-elegance.pdf",
+    "bytes": 138907,
+    "sha256": "a5e45147f2ef511cda4fe26eb9f24716a66ead74062f4cc86c87b49ef52380e6",
+    "mediaType": "application/pdf",
+    "rights": "owned",
+    "archivePolicy": "include",
+    "basis": "path",
+    "reason": "Luke F. Walton paper (CC BY-NC-ND 4.0).",
+    "referencedBy": [
+      "writing/the-seduction-of-elegance"
     ]
   }
 ]

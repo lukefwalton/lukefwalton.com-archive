@@ -58,14 +58,14 @@ The GitHub mirror is a frequently refreshed copy, regenerated on every change to
 
 - **songs**: 404
 - **albums**: 36
-- **writing**: 6
+- **writing**: 7
 - **letters**: 4
 - **publications**: 1
 - **interviews**: 30
 - **lmm-episodes**: 230
 - **lmm-essays**: 4
 - **pages** (identity surfaces): 109
-- **media assets**: 370 included, 270 evidence captures, 53 metadata-only, 0 excluded (203,810,854 bytes copied)
+- **media assets**: 371 included, 270 evidence captures, 53 metadata-only, 0 excluded (203,949,928 bytes copied)
 
 ## Citation
 
