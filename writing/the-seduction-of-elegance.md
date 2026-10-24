@@ -19,6 +19,7 @@ licenseUrl: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 sameAs:
   - "https://doi.org/10.5281/zenodo.23628076"
   - "https://doi.org/10.5281/zenodo.23628075"
+  - "https://philpapers.org/rec/WALTSO-80"
   - "https://zenodo.org/records/23628076"
   - "https://lukefwalton.com/writing/the-seduction-of-elegance/"
 keywords:
