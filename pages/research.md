@@ -1,5 +1,5 @@
 ---
-title: Answerability and Authored AI Systems
+title: Research
 url: https://lukefwalton.com/research/
 recordKind: surface
 source: src/pages/research/index.astro
@@ -10,23 +10,29 @@ recordIds:
   - page:research
 ---
 
-# Answerability and Authored AI Systems
+# Research
 
 ## Page text
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
 <a href="home.html">Luke F. Walton</a>
-<p>Research</p>
-<h3>Answerability and Authored AI Systems</h3>
-<p>These papers ask who answers for a decision an AI shaped, and whether an answer engine's verdict has an owner. are preprints so far, not yet journal publications, with more under review. The <a href="cv.html">CV</a> keeps the full record.</p>
+<h3>Research</h3>
+<p>ask who answers for a decision an AI shaped, and whether an answer engine's verdict has an owner. They are preprints so far, not yet journal publications, with more under review. The <a href="cv.html">CV</a> keeps the full record.</p>
 <section>
-<h4>The papers</h4>
-<p>Each paper has a site page; DOI records are linked where they exist. The full list, including manuscripts at journals, is on the <a href="cv.html">CV</a>.</p>
+<h4>Philosophy</h4>
+<p>A preprint on parts and wholes.</p>
 </section>
 <section>
-<h4>Another preprint</h4>
-<p>A preprint on parts and wholes.</p>
+<h4>Answerability and Authored AI Systems</h4>
+<p>These papers ask who answers for a decision an AI shaped. Each has a site page; DOI records are linked where they exist. The full list, including manuscripts at journals, is on the <a href="cv.html">CV</a>.</p>
+<section>
+<h4>Reading order</h4>
+</section>
+<section>
+<h4>Lexicon</h4>
+<p>Defined terms live in the paper pages.</p>
+</section>
 </section>
 <section>
 <h4>Research in practice</h4>
@@ -41,24 +47,17 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 </article>
 </section>
 <section>
-<h4>Reading order</h4>
-</section>
-<section>
-<h4>Lexicon</h4>
-<p>Defined terms live in the paper pages.</p>
-</section>
-<section>
 <h4>Citations</h4>
 <p>Pick a style and copy: APA, Chicago, BibTeX, RIS (for Zotero, EndNote, Mendeley), or a compact prose line with DOI. Per-paper pages carry the same toggle under <strong>Cite</strong>.</p>
 </section>
 
 ## Record
 
-### Answerability and Authored AI Systems
+### Research
 
-**Summary.** Three papers by Luke F. Walton on answerability and authorship. Answer Engine (the open-source substrate on npm, its software paper in draft, and the live site; the 2026 technical note on the v1 engine is retired) is set apart as a reference implementation.
+**Summary.** Research by Luke F. Walton. Philosophy is a section (/research/#philosophy): The Seduction of Elegance, a preprint on parts and wholes. The answerability program has three featured preprints. Answer Engine (the open-source substrate on npm, its software paper in draft, and the live site; the 2026 technical note on the v1 engine is retired) is set apart as a reference implementation.
 
-Research hub at /research/ for Luke F. Walton's answerability work. The answerability program has three featured preprints. The Seduction of Elegance is a further preprint on parts and wholes (v1.0, 24 October 2026; version DOI https://doi.org/10.5281/zenodo.23628076; concept DOI https://doi.org/10.5281/zenodo.23628075; page /writing/the-seduction-of-elegance/). Core claim, verbatim: "One must not mistake local success for an ontological one." They are preprints, not yet journal publications, with more under review. Building Answerable AI is not a featured preprint. The Decision No One Authored: The Answerability Gap in Generative AI (Luke F. Walton; Preprint. Not yet peer-reviewed. PhilArchive WALTDN; DOI 10.5281/zenodo.20614374; v2.0). Core claim, verbatim: "A person can retain full control of an AI-shaped decision and still fail to author it; the answerability gap is a missing act of judgment over the evaluative frame, not a missing participant or a missing capacity." The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization (Luke F. Walton; Preprint. Not yet peer-reviewed. PhilArchive WALTCO-87; DOI 10.5281/zenodo.20676327). Core claim, verbatim: "When an answer engine settles a contested question in its own voice with no visible author, the wrong is false assurance — the appearance that someone answerable stands behind a frame whose author is hidden — and the remedy is answerable legibility." Pay Me What You Owe Me: On the Indefeasibility of the Demand for an Account (Luke F. Walton; Preprint. Not yet peer-reviewed. Zenodo; DOI 10.5281/zenodo.23112498; v1.0). Core claim, verbatim: "Whenever an action reaches a party, an account is owed, and no routing of that action defeats the owing." Preprint v1.0, October 2, 2026. DOI https://doi.org/10.5281/zenodo.23112498. Concept DOI https://doi.org/10.5281/zenodo.20606492 resolves to the latest version. Its June 2026 working-paper version carried the earlier title The Invariant of Answerability (https://doi.org/10.5281/zenodo.20606493): the same paper under old language, not a separate work; that version is not withdrawn. Reading order: The Decision No One Authored (/writing/the-decision-no-one-authored/), then The Captured Oracle (/writing/the-captured-oracle/), then Pay Me What You Owe Me (/writing/pay-me-what-you-owe-me/). Set apart from the papers: the open-source answer-engine substrate (npm @lukefwalton/answer-engine; software DOI https://doi.org/10.5281/zenodo.20676773), its software paper in draft (paper.md in the repository, not submitted), and Ask the Archive, the live deployment. One runnable shape of the argument, not a philosophical work. The 2026 Answer Engine technical note (DOI https://doi.org/10.5281/zenodo.20686053) describes the v1 engine and is retired, superseded by the software paper. answer-engine repository https://github.com/lukefwalton/answer-engine. Live deployment Ask the Archive https://lukefwalton.com/ask/about/. Engineers: /research/#implementation. Research in practice (/research/#in-practice) pairs Answer Engine with Walton Family Tree (https://www.waltonfamilytree.com/), the Walton surname archive Luke F. Walton founded, where models file claims inside a written standard he owns: a test of whether agents can build a historical evidence graph while identity, uncertainty, editorial judgment, and correction stay answerable. Methodology: https://www.waltonfamilytree.com/methodology/. Neither is peer-reviewed yet.
+Research hub at /research/. Philosophy is a section of Research at /research/#philosophy. The answerability program has three featured preprints. The Seduction of Elegance is a further preprint on parts and wholes (v1.0, 24 October 2026; version DOI https://doi.org/10.5281/zenodo.23628076; concept DOI https://doi.org/10.5281/zenodo.23628075; page /writing/the-seduction-of-elegance/). Core claim, verbatim: "One must not mistake local success for an ontological one." They are preprints, not yet journal publications, with more under review. Building Answerable AI is not a featured preprint. The Decision No One Authored: The Answerability Gap in Generative AI (Luke F. Walton; Preprint. Not yet peer-reviewed. PhilArchive WALTDN; DOI 10.5281/zenodo.20614374; v2.0). Core claim, verbatim: "A person can retain full control of an AI-shaped decision and still fail to author it; the answerability gap is a missing act of judgment over the evaluative frame, not a missing participant or a missing capacity." The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization (Luke F. Walton; Preprint. Not yet peer-reviewed. PhilArchive WALTCO-87; DOI 10.5281/zenodo.20676327). Core claim, verbatim: "When an answer engine settles a contested question in its own voice with no visible author, the wrong is false assurance — the appearance that someone answerable stands behind a frame whose author is hidden — and the remedy is answerable legibility." Pay Me What You Owe Me: On the Indefeasibility of the Demand for an Account (Luke F. Walton; Preprint. Not yet peer-reviewed. Zenodo; DOI 10.5281/zenodo.23112498; v1.0). Core claim, verbatim: "Whenever an action reaches a party, an account is owed, and no routing of that action defeats the owing." Preprint v1.0, October 2, 2026. DOI https://doi.org/10.5281/zenodo.23112498. Concept DOI https://doi.org/10.5281/zenodo.20606492 resolves to the latest version. Its June 2026 working-paper version carried the earlier title The Invariant of Answerability (https://doi.org/10.5281/zenodo.20606493): the same paper under old language, not a separate work; that version is not withdrawn. Reading order: The Decision No One Authored (/writing/the-decision-no-one-authored/), then The Captured Oracle (/writing/the-captured-oracle/), then Pay Me What You Owe Me (/writing/pay-me-what-you-owe-me/). Set apart from the papers: the open-source answer-engine substrate (npm @lukefwalton/answer-engine; software DOI https://doi.org/10.5281/zenodo.20676773), its software paper in draft (paper.md in the repository, not submitted), and Ask the Archive, the live deployment. One runnable shape of the argument, not a philosophical work. The 2026 Answer Engine technical note (DOI https://doi.org/10.5281/zenodo.20686053) describes the v1 engine and is retired, superseded by the software paper. answer-engine repository https://github.com/lukefwalton/answer-engine. Live deployment Ask the Archive https://lukefwalton.com/ask/about/. Engineers: /research/#implementation. Research in practice (/research/#in-practice) pairs Answer Engine with Walton Family Tree (https://www.waltonfamilytree.com/), the Walton surname archive Luke F. Walton founded, where models file claims inside a written standard he owns: a test of whether agents can build a historical evidence graph while identity, uncertainty, editorial judgment, and correction stay answerable. Methodology: https://www.waltonfamilytree.com/methodology/. Neither is peer-reviewed yet.
 
 - Themes: answerability, research, papers, Answer Engine, authorship, Philosophy
 - Record id: page:research
