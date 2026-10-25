@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Songwriting"
 
 hostNote: |
-  Nicole McCabe plays saxophone the way good jazz has always worked, you know it’s her before you know who you’re listening to. She’s bridged jazz and electronic music in **Dolphin Hyperspace**, worked with **Louis Cole** and **Patrice Rushen**, and just dropped a new LP built from the jazz canon without being a replica of it.
+  Nicole McCabe plays saxophone the way good jazz has always worked, you know it’s her before you know who you’re listening to. She’s bridged jazz and electronic music in **Dolphin Hyperspace**, which she co-leads with [Logan Kane](https://lukefwalton.com/love-music-more/episodes/logan-kane/). She has also worked with **Louis Cole** and **Patrice Rushen**, and she had just dropped a new LP built from the jazz canon without being a replica of it.
   
   We dig into how she developed the instant adaptability that lets you step into a session mid-conversation without disrupting it, how the pandemic pushed her into home recording, what touring self-care actually looks like in practice, and how her new work processes everything she’s absorbed into something that feels current.
 
