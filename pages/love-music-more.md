@@ -18,8 +18,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 <a href="home.html">Luke F. Walton</a>
 <h3>Love Music More</h3>
-<p>A newsletter and podcast on the craft, philosophy, and history of music. Hosted by <a href="home.html">Luke F. Walton</a>. Co-owned with and produced by Beformer. New episodes Tuesdays; the newsletter and deeper dives on <a href="https://lovemusicmore.substack.com/">Substack</a>.</p>
-<figcaption><a href="https://lukefwalton.com/topics/history-of-rock/">The History of Rock</a></figcaption>
+<p>A newsletter and podcast hosted by <a href="home.html">Luke F. Walton</a>. Co-owned with and produced by Beformer. New episodes Tuesdays; the newsletter and deeper dives on <a href="https://lovemusicmore.substack.com/">Substack</a>.</p>
 Listen &amp; subscribe
 <p><a href="https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h">Spotify</a>·<a href="https://podcasts.apple.com/us/podcast/love-music-more-with-scoobert-doobert/id1567355195">Apple Podcasts</a>·<a href="https://www.youtube.com/playlist?list=PLyFhmc3NqYe5rwvctk4OOb7emnuGVDFc-">YouTube</a>·<a href="https://lovemusicmore.substack.com/">Substack</a>·<a href="https://anchor.fm/s/58fb6244/podcast/rss">Podcast RSS</a>·<a href="https://lovemusicmorepodcast.com/sponsor/">Sponsor</a></p>
 <p>Spotify for Creators ranked this show in the <a href="https://www.instagram.com/scoobertdoobert.pizza/p/DSGyz8DkaLq/">top 10% of all podcasts</a> on Spotify in 2025.</p>
@@ -32,6 +31,7 @@ Recent posts
 <p>Recent newsletter posts. Philosophy-of-music pieces are hosted here; other titles open on Substack.</p>
 On Substack
 <p><a href="https://lovemusicmore.substack.com/t/music-history-101">Music history</a>·<a href="https://lovemusicmore.substack.com/archive">Full archive</a></p>
+<figcaption><a href="https://lukefwalton.com/topics/history-of-rock/">The History of Rock</a></figcaption>
 Selected posts
 <p>A few posts to start with. Other essays are on <a href="https://lukefwalton.com/writing/#blog">Writing</a>.</p>
 <p><a href="https://lukefwalton.com/love-music-more/essays/">Newsletter →</a></p>
@@ -42,9 +42,9 @@ Archive
 
 ### Love Music More
 
-**Summary.** Archive for the Love Music More podcast and newsletter. Love Music More is hosted by Luke F. Walton, co-owned by Luke F. Walton and Beformer, and produced by Beformer. Its home is lovemusicmorepodcast.com.
+**Summary.** Archive for the Love Music More podcast and newsletter. Love Music More is an ongoing philosophical inquiry into why we love music. Love Music More is hosted by Luke F. Walton, co-owned by Luke F. Walton and Beformer, and produced by Beformer. Its home is lovemusicmorepodcast.com.
 
-Love Music More: newsletter and podcast hosted by Luke F. Walton on the craft, philosophy, and history of music. Top 10% of all podcasts on Spotify. Guests include Andrew Scheps, Craig Bauer, Andy Shernoff. New episodes Tuesdays. Love Music More is hosted by Luke F. Walton, co-owned by Luke F. Walton and Beformer, and produced by Beformer. The brand's home is https://lovemusicmorepodcast.com/; the newsletter is published at https://lovemusicmore.substack.com/. Episode notes, the guest index, and essays are canonical at https://lukefwalton.com/love-music-more/. The show site is https://lovemusicmorepodcast.com/. Sponsorship is booked through the media kit at https://lovemusicmorepodcast.com/sponsor/. Sam Friend at Beformer (beformer.co@gmail.com) handles inquiries. DistroKid has been the title sponsor. The April 2024 Beformer promo thanked DistroKid for 114 weeks. The VIP referral is https://distrokid.com/vip/lovemusicmore. Spotify for Creators ranked this podcast in the top 10% of all podcasts on Spotify in 2025.
+Love Music More is an ongoing philosophical inquiry into why we love music. It began as Music Appreciation 101. Guest conversations end on the same question: Why do you love music? The answers differ, and the inquiry stays open. Love Music More is an ongoing philosophical inquiry into why we love music. Hosted by Luke F. Walton. Top 10% of all podcasts on Spotify. New episodes Tuesdays. Love Music More is hosted by Luke F. Walton, co-owned by Luke F. Walton and Beformer, and produced by Beformer. The brand's home is https://lovemusicmorepodcast.com/; the newsletter is published at https://lovemusicmore.substack.com/. Episode notes, the guest index, and essays are canonical at https://lukefwalton.com/love-music-more/. The show site is https://lovemusicmorepodcast.com/. Sponsorship is booked through the media kit at https://lovemusicmorepodcast.com/sponsor/. Sam Friend at Beformer (beformer.co@gmail.com) handles inquiries. DistroKid has been the title sponsor. The April 2024 Beformer promo thanked DistroKid for 114 weeks. The VIP referral is https://distrokid.com/vip/lovemusicmore. Spotify for Creators ranked this podcast in the top 10% of all podcasts on Spotify in 2025.
 
 - Themes: Love Music More, podcast, sponsorship
 - Record id: page:love-music-more
