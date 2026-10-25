@@ -5,12 +5,12 @@
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
   "doi": "10.5281/zenodo.20683155",
-  "generatedAt": "2026-10-24",
+  "generatedAt": "2026-10-25",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "68fd5b0cb7d00a84f95087eeef3ddf1de4764594"
+    "commit": "e9f87dc06ded60186ae35f7ee5f9325dbb3ea39c"
   },
-  "total": 825,
+  "total": 826,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -18,11 +18,11 @@
     "letters": 4,
     "publications": 1,
     "interviews": 30,
-    "lmm-episodes": 230,
+    "lmm-episodes": 231,
     "lmm-essays": 4
   },
   "records": {
-    "collections": 688,
+    "collections": 689,
     "publisherStubs": 28,
     "surfaces": 109
   },
