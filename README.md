@@ -19,7 +19,7 @@ the data modules under `src/lib/` in the source repo.
 - `pages/<path>.html|md` — record kind `surface`: archival copies of the site's identity pages (static prose extracted from the page source plus the structured fact-list record).
 - `entity-network.json|jsonld|html` — the public entity registry and its JSON-LD graph.
 - `writing/<slug>.pdf` — mirrored PDFs for the academic papers.
-- `a-new-word-every-day/`, `audio/`, `brand/`, `evidence/`, `photos/`, `private-workout-logger/`, `stop-political-spam-texts/`, `video/` — media copied byte-identical at the same paths they have on https://lukefwalton.com.
+- `a-new-word-every-day/`, `audio/`, `brand/`, `evidence/`, `photos/`, `private-workout-logger/`, `recipe-to-grocery-list/`, `stop-political-spam-texts/`, `video/` — media copied byte-identical at the same paths they have on https://lukefwalton.com.
 - `assets.json` / `assets.html` — one row per public media file: rights status, archive policy and its reason, size, SHA-256, media type, canonical URL, and the records that reference it.
 - `catalog.json` / `catalog.jsonl` — machine-legible index of every record (`recordKind`: collection / publisher-stub / surface).
 - `manifest.json` — provenance (canonical site, source commit, record and asset counts, link policy).
@@ -65,7 +65,7 @@ The GitHub mirror is a frequently refreshed copy, regenerated on every change to
 - **lmm-episodes**: 231
 - **lmm-essays**: 4
 - **pages** (identity surfaces): 109
-- **media assets**: 371 included, 270 evidence captures, 53 metadata-only, 0 excluded (203,949,928 bytes copied)
+- **media assets**: 372 included, 270 evidence captures, 53 metadata-only, 0 excluded (204,357,113 bytes copied)
 
 ## Citation
 

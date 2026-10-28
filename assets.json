@@ -14539,6 +14539,26 @@
     ]
   },
   {
+    "path": "/recipe-to-grocery-list/app-icon.png",
+    "archive": "recipe-to-grocery-list/app-icon.png",
+    "canonicalUrl": "https://lukefwalton.com/recipe-to-grocery-list/app-icon.png",
+    "sourcePath": "public/recipe-to-grocery-list/app-icon.png",
+    "bytes": 407185,
+    "sha256": "bd397166c44ab9e576b41cf6fb995a51ee521c10173785e7c6dc6f38b6ded390",
+    "mediaType": "image/png",
+    "width": 1024,
+    "height": 1024,
+    "rights": "owned",
+    "archivePolicy": "include",
+    "basis": "path",
+    "reason": "First-party asset of an app Luke designed.",
+    "registry": "page-reference",
+    "referencedBy": [
+      "registry:page-reference",
+      "source:src/lib/apps.ts"
+    ]
+  },
+  {
     "path": "/stop-political-spam-texts/app-icon.png",
     "archive": "stop-political-spam-texts/app-icon.png",
     "canonicalUrl": "https://lukefwalton.com/stop-political-spam-texts/app-icon.png",
