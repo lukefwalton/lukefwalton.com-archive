@@ -29,7 +29,7 @@ Start anywhere
 <dd>A novel by Luke F. Walton and <a href="with/jonathan-gillie.html">Jonathan Gillie</a>. <a href="https://pageturnerawards.com/users/lukefwalton">2026 Page Turner Writing Award Finalist</a></dd>
 </dl>
 <a href="press-kit.html#selected-work">Selected work</a>
-<p><a href="music.html">Music</a>·<a href="https://lukefwalton.com/writing/">Writing</a>·<a href="love-music-more.html">Podcast</a>·<a href="press.html">Press</a>·<a href="about.html">About</a></p>
+<p><a href="music.html">Music</a>·<a href="https://lukefwalton.com/writing/">Writing</a>·<a href="love-music-more.html">Podcast</a>·<a href="apps.html">Apps</a>·<a href="press.html">Press</a>·<a href="about.html">About</a></p>
 Elsewhere
 <p><a href="https://www.linkedin.com/in/lukefwalton">LinkedIn</a>·<a href="https://orcid.org/0009-0005-9263-1954">ORCID</a>·Google Scholar·<a href="https://github.com/lukefwalton">GitHub</a>·<a href="https://philpeople.org/profiles/luke-f-walton">PhilPeople</a></p>
 Contact
