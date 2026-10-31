@@ -15,7 +15,29 @@
         "ja"
       ],
       "url": "https://lukefwalton.com/",
-      "image": "https://lukefwalton.com/photos/luke-portrait-2019.jpg",
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://lukefwalton.com/photos/luke-portrait-2026.jpg#image",
+        "name": "Luke F. Walton, 2026 press portrait, musician and producer whose primary music project is Scoobert Doobert, not the basketball coach of the same name",
+        "caption": "Press portrait (30 June 2026). The photograph on Wikidata Q140387739, on Wikimedia Commons (CC0). Download it from the press kit.",
+        "contentUrl": "https://lukefwalton.com/photos/luke-portrait-2026.jpg",
+        "url": "https://lukefwalton.com/photos/luke-portrait-2026.jpg",
+        "datePublished": "2026-06-30",
+        "creditText": "Luke F. Walton",
+        "creator": {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        "author": {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        "copyrightNotice": "CC0 1.0. Luke F. Walton dedicated this portrait to the public domain.",
+        "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Luke_F._Walton_(Scoobert_Doobert)_2026.jpg",
+        "about": {
+          "@id": "https://lukefwalton.com/#person"
+        },
+        "sameAs": "https://commons.wikimedia.org/wiki/File:Luke_F._Walton_(Scoobert_Doobert)_2026.jpg",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
       "jobTitle": "Founder & CEO",
       "disambiguatingDescription": "Not to be confused with Luke Walton, the basketball coach and former NBA player (son of Hall of Fame player Bill Walton), or other public figures named Luke Walton (film producer IMDb nm4183556, Olympic rower, and others). This Luke Walton is Luke F. Walton: founder of Surmado, and the musician and producer whose primary music project is Scoobert Doobert.",
       "worksFor": [

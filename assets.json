@@ -9259,6 +9259,7 @@
     "basis": "credit",
     "reason": "Photographed by Brandon Woodward, FEiN co-member; FEiN material.",
     "credit": "Brandon Woodward",
+    "date": "2026",
     "title": "Luke Walton tracking guitar for the upcoming FEiN record: home studio in his Los Angeles apartment (D'Angelico hollow-body, Apollo interface)",
     "registry": "musician-photos",
     "referencedBy": [
@@ -9420,7 +9421,7 @@
     "archivePolicy": "include",
     "basis": "group",
     "reason": "Luke's own press and portrait stills.",
-    "title": "Luke F. Walton professional headshot, musician and producer",
+    "title": "Luke F. Walton in a suit, outdoor portrait",
     "registry": "musician-photos",
     "referencedBy": [
       "registry:musician-photos",
@@ -10561,9 +10562,37 @@
     "title": "Luke F. Walton, musician portrait, 2019, whose primary music project is Scoobert Doobert",
     "registry": "musician-photos",
     "referencedBy": [
+      "registry:musician-photos",
+      "source:src/lib/musician-photos.ts"
+    ]
+  },
+  {
+    "path": "/photos/luke-portrait-2026.jpg",
+    "archive": "photos/luke-portrait-2026.jpg",
+    "canonicalUrl": "https://lukefwalton.com/photos/luke-portrait-2026.jpg",
+    "sourcePath": "public/photos/luke-portrait-2026.jpg",
+    "bytes": 255080,
+    "sha256": "96620cae00c9213990de70291da9da91ae4de699988c43dcdec704291ba71d69",
+    "mediaType": "image/jpeg",
+    "width": 1600,
+    "height": 1600,
+    "rights": "owned",
+    "archivePolicy": "include",
+    "basis": "credit",
+    "reason": "Photographed by Luke.",
+    "credit": "Luke F. Walton",
+    "date": "2026-06-30",
+    "title": "Luke F. Walton, 2026 press portrait, musician and producer whose primary music project is Scoobert Doobert, not the basketball coach of the same name",
+    "registry": "musician-photos",
+    "referencedBy": [
       "pages/about",
+      "pages/gallery",
       "pages/home",
+      "pages/music",
+      "pages/music/fein",
+      "pages/press",
       "pages/press-kit",
+      "pages/with/chai",
       "registry:musician-photos",
       "source:src/lib/musician-photos.ts"
     ]
