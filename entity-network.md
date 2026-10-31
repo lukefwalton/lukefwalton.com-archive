@@ -39,7 +39,7 @@ Every shared identifier in the Luke F. Walton network of sites: the person, his 
 | lovemusicmore-blog | Love Music More (newsletter) | https://lukefwalton.com/#lovemusicmore-blog | Blog | FACT |  |  |  |
 | surmado | Surmado | https://www.surmado.com#organization | Organization | FACT |  |  |  |
 | the-signatories | The Signatories | https://lukefwalton.com/#the-signatories | Book | FACT |  |  |  |
-| jonathan-gillie | Jonathan Gillie | https://signatoriesnovel.com/#jonathan-gillie | Person | FACT |  |  |  |
+| jonathan-gillie | Jonathan Gillie | https://jonathangillie.com/#person | Person | FACT |  |  |  |
 | cawleen | cawleen | https://cawleen.com/#cawleen | Person | FICTIONAL CANON | The Signatories | Luke F. Walton, Jonathan Gillie | fictional human (Q15632617) |
 | outhere | OUTHERE | https://outhere.london/#outhere | MusicVenue | FICTIONAL CANON | The Signatories | Luke F. Walton, Jonathan Gillie | fictional entity (Q14897293) |
 | when-gods-meet | When Gods Meet | https://whengodsmeet.com/#work | CreativeWork | FACT |  |  |  |

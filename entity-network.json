@@ -1,6 +1,6 @@
 {
   "joinSentence": "Scoobert Doobert is Luke F. Walton's primary music project.",
-  "generatedAt": "2026-10-28",
+  "generatedAt": "2026-10-31",
   "canonicalSite": "https://lukefwalton.com",
   "entities": [
     {
@@ -134,7 +134,7 @@
     {
       "key": "jonathan-gillie",
       "name": "Jonathan Gillie",
-      "id": "https://signatoriesnovel.com/#jonathan-gillie",
+      "id": "https://jonathangillie.com/#person",
       "types": [
         "Person"
       ],
@@ -335,7 +335,7 @@
           "name": "Luke F. Walton"
         },
         {
-          "id": "https://signatoriesnovel.com/#jonathan-gillie",
+          "id": "https://jonathangillie.com/#person",
           "name": "Jonathan Gillie"
         }
       ],
@@ -355,7 +355,7 @@
           "name": "Luke F. Walton"
         },
         {
-          "id": "https://signatoriesnovel.com/#jonathan-gillie",
+          "id": "https://jonathangillie.com/#person",
           "name": "Jonathan Gillie"
         }
       ],

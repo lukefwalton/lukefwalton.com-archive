@@ -477,8 +477,9 @@
         },
         {
           "@type": "Person",
-          "@id": "https://signatoriesnovel.com/#jonathan-gillie",
-          "name": "Jonathan Gillie"
+          "@id": "https://jonathangillie.com/#person",
+          "name": "Jonathan Gillie",
+          "url": "https://jonathangillie.com/"
         }
       ],
       "character": {
@@ -665,7 +666,7 @@
           "@id": "https://lukefwalton.com/#person"
         },
         {
-          "@id": "https://lukefwalton.com/with/jonathan-gillie/#artist"
+          "@id": "https://jonathangillie.com/#person"
         },
         {
           "@id": "https://lukefwalton.com/with/zach-freeman/#artist"
@@ -676,7 +677,7 @@
           "@id": "https://lukefwalton.com/#person"
         },
         {
-          "@id": "https://lukefwalton.com/with/jonathan-gillie/#artist"
+          "@id": "https://jonathangillie.com/#person"
         },
         {
           "@id": "https://lukefwalton.com/with/zach-freeman/#artist"
