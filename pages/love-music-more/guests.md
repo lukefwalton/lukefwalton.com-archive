@@ -25,7 +25,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 **Summary.** Guest index for the Love Music More podcast, hosted by Luke F. Walton.
 
-Love Music More is an ongoing philosophical inquiry into why we love music. Hosted by Luke F. Walton. Top 10% of all podcasts on Spotify. New episodes Tuesdays. The guest index at /love-music-more/guests/ lists each interview guest. Each name links to that guest's interview on their episode page, and a guest with two episodes links to both. A guest who also has a /with/ collaborator page has a Collaborators link beside the interview, and that page lists their episodes. Guests also include Harley Flanagan (Cro-Mags), Jay Jay French (Twisted Sister), and Bubby Lewis (bassist, Snoop Dogg, Dr. Dre, Stevie Wonder).
+Love Music More is a music podcast for people who love music. Hosted by Luke F. Walton. Top 10% of all podcasts on Spotify. New episodes Tuesdays. The guest index at /love-music-more/guests/ lists each interview guest. Each name links to that guest's interview on their episode page, and a guest with two episodes links to both. A guest who also has a /with/ collaborator page has a Collaborators link beside the interview, and that page lists their episodes. Guests also include Harley Flanagan (Cro-Mags), Jay Jay French (Twisted Sister), and Bubby Lewis (bassist, Snoop Dogg, Dr. Dre, Stevie Wonder).
 
 - Themes: Love Music More, guests, podcast
 - Record id: page:love-music-more/guests

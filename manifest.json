@@ -8,9 +8,9 @@
   "generatedAt": "2026-10-31",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "71040982d95e80417f74bea3dc1b318cecb7c1aa"
+    "commit": "e38fdcb04016e0efce5dc79f131d350a9a8b98f9"
   },
-  "total": 826,
+  "total": 827,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -18,11 +18,11 @@
     "letters": 4,
     "publications": 1,
     "interviews": 30,
-    "lmm-episodes": 231,
+    "lmm-episodes": 232,
     "lmm-essays": 4
   },
   "records": {
-    "collections": 689,
+    "collections": 690,
     "publisherStubs": 28,
     "surfaces": 109
   },
