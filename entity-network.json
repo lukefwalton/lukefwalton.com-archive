@@ -189,6 +189,15 @@
       "status": "FACT"
     },
     {
+      "key": "how-to-start-a-business",
+      "name": "How to Start a Business",
+      "id": "https://howtostarta.business/#website",
+      "types": [
+        "WebSite"
+      ],
+      "status": "FACT"
+    },
+    {
       "key": "bar-spaniels",
       "name": "Bar Spaniel's",
       "id": "https://barspaniels.com/#bar",
