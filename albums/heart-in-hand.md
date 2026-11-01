@@ -26,13 +26,11 @@ press:
 draft: false
 ---
 
-**Early archive**: **2008** self-released solo EP, follow-up to [*Just A Friend*](/albums/just-a-friend/) in the same teenage songwriter period. **Luke Walton**: guitar, piano, voice, songwriting. Per [archived lukewaltonband.com](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html) (~13:00). See [early solo releases](/catalog/#early-solo-releases).
+*Heart in Hand* is the 2008 solo EP, the follow-up to [*Just A Friend*](/albums/just-a-friend/). Luke played guitar and piano, sang, and wrote the songs. The [archived discography](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html) times it at about 13 minutes. The early solo releases are in the [catalog](/catalog/#early-solo-releases).
 
-[**Heart in Hand**](/songs/heart-in-hand/) · [**Out of (This) Place**](/songs/out-of-this-place/) · [**Storyline**](/songs/storyline/) · [**Dead End Love**](/songs/dead-end-love/)
+The four songs are [Heart in Hand](/songs/heart-in-hand/), [Out of (This) Place](/songs/out-of-this-place/), [Storyline](/songs/storyline/), and [Dead End Love](/songs/dead-end-love/). Several of them show up again on the 2010 Luke Walton Band LP [*Goodbye/Hello*](/albums/goodbye-hello/), some with new lyrics, and on YouTube from a December 2008 push.
 
-Several cuts later reappeared on the 2010 Luke Walton Band LP [*Goodbye/Hello*](/albums/goodbye-hello/) (some with rewritten lyrics) and circulated on YouTube from the **December 2008** solo push.
-
-Chronology: [*Just A Friend*](/albums/just-a-friend/) (2007) → *Heart in Hand* (2008). Parallel band line at La Costa Canyon (solo EPs ran at the same time): Rock I IV V club (2006) · [Casey McSocial](/with/casey-mcsocial/) (first band) · **Mannequin** (co-founded) · [Blue Suburbia](/with/blue-suburbia/) (co-founded) → [*The Other Side*](/albums/the-other-side/) (2009) → [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
+It sits in the same years as the high-school bands: Rock I IV V, [Casey McSocial](/with/casey-mcsocial/), Mannequin, and [Blue Suburbia](/with/blue-suburbia/). After this come [*The Other Side*](/albums/the-other-side/) (2009) and [*Goodbye/Hello*](/albums/goodbye-hello/) (2010).
 
 See [Catalog](/catalog/#luke-walton-band)
 
