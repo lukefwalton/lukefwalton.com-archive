@@ -57,6 +57,9 @@ Every shared identifier in the Luke F. Walton network of sites: the person, his 
 | mannequin | Mannequin | https://lukefwalton.com/#mannequin | MusicGroup | HISTORICAL |  |  |  |
 | checkpointsix | Checkpoint Six | https://lukefwalton.com/#checkpointsix | MusicGroup | HISTORICAL |  |  |  |
 | mobius-dsp | Möbius DSP | https://mobiusdsp.com/#organization | Organization | FACT |  |  |  |
+| smallbusinessnews | SmallBusinessNews.ai | https://smallbusinessnews.ai/#organization | NewsMediaOrganization | FACT |  |  |  |
+| pmehoje | PME Hoje | https://pmehoje.com/#organization | NewsMediaOrganization | FACT |  |  |  |
+| akinainews | 商いニュース (Akinai News) | https://akinainews.com/#organization | NewsMediaOrganization | FACT |  |  |  |
 
 ## Fictional websites
 

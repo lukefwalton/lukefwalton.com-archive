@@ -45,7 +45,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <h4>聴く</h4>
 <p><a href="https://www.scoobertdoobert.pizza/about/jp">scoobertdoobert.pizza</a>·<a href="music.html">音楽プロフィール・配信</a>·<a href="https://www.youtube.com/@scoobertdoobertburrito">YouTube</a>·Instagram</p>
 <h4>日本語での発信</h4>
-<p>note（ノート）</p>
+<p>note（ノート）·<a href="https://akinainews.com/">商いニュース</a>（中小企業と起業家のためのビジネスニュース）</p>
 <h4>もっと詳しく（英語）</h4>
 <p><a href="home.html">トップページ</a>·<a href="about.html">About（経歴）</a>·<a href="press.html">Press</a></p>
 <h4>連絡先</h4>
