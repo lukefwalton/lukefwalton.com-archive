@@ -45,6 +45,7 @@ Every shared identifier in the Luke F. Walton network of sites: the person, his 
 | when-gods-meet | When Gods Meet | https://whengodsmeet.com/#work | CreativeWork | FACT |  |  |  |
 | walton-family-tree | Walton Family Tree | https://www.waltonfamilytree.com/#website | WebSite | FACT |  |  |  |
 | how-to-start-a-business | How to Start a Business | https://www.howtostarta.business/#website | WebSite | FACT |  |  |  |
+| small-business-advocacy | Small Business Advocacy | https://smallbusinessadvocacy.org/#organization | Organization | FACT |  |  |  |
 | bar-spaniels | Bar Spaniel's | https://barspaniels.com/#bar | BarOrPub | FICTIONAL CANON | When Gods Meet | Luke F. Walton | fictional entity (Q14897293) |
 | burt-cashman | Burt Cashman | https://burtcashman.com/#burt-cashman | Person | FICTIONAL CANON | MÖBIUS | Luke F. Walton | fictional human (Q15632617) |
 | mobius-cycle | The MÖBIUS cycle | https://lukefwalton.com/albums/mobius-cycle/#cycle | CreativeWorkSeries | FACT |  |  |  |

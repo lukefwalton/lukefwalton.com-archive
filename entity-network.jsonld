@@ -560,6 +560,27 @@
       }
     },
     {
+      "@type": "WebSite",
+      "@id": "https://www.howtostarta.business/#website",
+      "name": "How to Start a Business",
+      "url": "https://www.howtostarta.business/",
+      "creator": {
+        "@id": "https://lukefwalton.com/#person"
+      },
+      "author": {
+        "@id": "https://lukefwalton.com/#person"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://smallbusinessadvocacy.org/#organization",
+      "name": "Small Business Advocacy",
+      "url": "https://smallbusinessadvocacy.org/",
+      "founder": {
+        "@id": "https://lukefwalton.com/#person"
+      }
+    },
+    {
       "@type": "CreativeWorkSeries",
       "@id": "https://lukefwalton.com/#lovemusicmore",
       "name": "Love Music More",

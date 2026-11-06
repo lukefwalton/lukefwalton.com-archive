@@ -1,6 +1,6 @@
 {
   "joinSentence": "Scoobert Doobert is Luke F. Walton's primary music project.",
-  "generatedAt": "2026-11-05",
+  "generatedAt": "2026-11-06",
   "canonicalSite": "https://lukefwalton.com",
   "entities": [
     {
@@ -194,6 +194,15 @@
       "id": "https://www.howtostarta.business/#website",
       "types": [
         "WebSite"
+      ],
+      "status": "FACT"
+    },
+    {
+      "key": "small-business-advocacy",
+      "name": "Small Business Advocacy",
+      "id": "https://smallbusinessadvocacy.org/#organization",
+      "types": [
+        "Organization"
       ],
       "status": "FACT"
     },
