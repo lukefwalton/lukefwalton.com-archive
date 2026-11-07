@@ -145,7 +145,7 @@ Jump to section
 <section>
 <h4>The Luke Walton Band</h4>
 <p>San Diego → Los Angeles alt-rock (2006–2011). <strong>Luke Walton</strong> (Luke Francis Walton, not the NBA coach). Releases: <a href="../albums/just-a-friend.html"><em>Just A Friend</em></a> (2006) → <a href="../albums/heart-in-hand.html"><em>Heart in Hand</em></a> (2008) → <a href="../albums/the-other-side.html"><em>The Other Side</em></a> (2009, feat. Blue Suburbia) → <a href="../albums/goodbye-hello.html"><em>Goodbye/Hello</em></a> (2010, The Luke Walton Band). Archived CDs &amp; Lyrics · Wikidata (Q15044350) · deleted Wikipedia (Wayback, Jun 2026) · Bandcamp · MySpace (Wayback, 2016)</p>
-<h5>La Costa Canyon Battle of the Bands</h5>
+<h5>La Costa Canyon High School: Battle of the Bands</h5>
 <p>The Coast News (June 25, 2009) described Walton as winning all but one year of the school's Battle of the Bands, including that year's win with Blue Suburbia.</p>
 <h5>Early solo releases</h5>
 <h5>Band releases</h5>

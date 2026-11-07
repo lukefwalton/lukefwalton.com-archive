@@ -8,9 +8,9 @@
   "generatedAt": "2026-11-07",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "a6fc71e938c0d40689e97efc5787694e0859cd98"
+    "commit": "5f239edd767a37d3474db7aa4b0d2754ecc52b4a"
   },
-  "total": 830,
+  "total": 835,
   "counts": {
     "songs": 404,
     "albums": 36,
@@ -24,7 +24,7 @@
   "records": {
     "collections": 691,
     "publisherStubs": 28,
-    "surfaces": 111
+    "surfaces": 116
   },
   "assets": {
     "manifest": "assets.json",

@@ -3522,6 +3522,32 @@
   },
   {
     "collection": "interviews",
+    "slug": "blog-scoobert-doobert-banana-interview",
+    "title": "indiemono: Banana Interview",
+    "type": "CreativeWork",
+    "recordKind": "publisher-stub",
+    "liveUrl": "https://blog.indiemono.com/scoobert-doobert-banana-interview/",
+    "canonicalUrl": "https://blog.indiemono.com/scoobert-doobert-banana-interview/",
+    "archive": {
+      "markdown": "interviews/blog-scoobert-doobert-banana-interview.md",
+      "html": "interviews/blog-scoobert-doobert-banana-interview.html"
+    },
+    "source": "src/lib/interviews.ts",
+    "metadata": {
+      "title": "indiemono: Banana Interview",
+      "description": "A Q&A on the Scooby-Doo name, *KŌAN*, cartoons, producing for CHAI, Japan, and writing across cultures.",
+      "subject": "Scoobert Doobert",
+      "outlet": "indiemono: Banana Interview",
+      "publisher": "indiemono",
+      "date": "2022-10-06",
+      "year": 2022,
+      "tier": "primary",
+      "archiveKind": "publisher-index",
+      "draft": false
+    }
+  },
+  {
+    "collection": "interviews",
     "slug": "bmi-indie-spotlight-fein",
     "title": "BMI Indie Spotlight: FEiN",
     "type": "CreativeWork",
@@ -3801,32 +3827,6 @@
       "date": "2018",
       "year": 2018,
       "tier": "quasi",
-      "archiveKind": "publisher-index",
-      "draft": false
-    }
-  },
-  {
-    "collection": "interviews",
-    "slug": "indiemono-scoobert-doobert-banana-interview",
-    "title": "indiemono: Banana Interview",
-    "type": "CreativeWork",
-    "recordKind": "publisher-stub",
-    "liveUrl": "https://indiemono.com/scoobert-doobert-banana-interview/",
-    "canonicalUrl": "https://indiemono.com/scoobert-doobert-banana-interview/",
-    "archive": {
-      "markdown": "interviews/indiemono-scoobert-doobert-banana-interview.md",
-      "html": "interviews/indiemono-scoobert-doobert-banana-interview.html"
-    },
-    "source": "src/lib/interviews.ts",
-    "metadata": {
-      "title": "indiemono: Banana Interview",
-      "description": "A Q&A on the Scooby-Doo name, *KŌAN*, cartoons, producing for CHAI, Japan, and writing across cultures.",
-      "subject": "Scoobert Doobert",
-      "outlet": "indiemono: Banana Interview",
-      "publisher": "indiemono",
-      "date": "2022-10-06",
-      "year": 2022,
-      "tier": "primary",
       "archiveKind": "publisher-index",
       "draft": false
     }
@@ -33316,6 +33316,32 @@
   },
   {
     "collection": "pages",
+    "slug": "music/exist-elsewhere",
+    "title": "Exist Elsewhere",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/music/exist-elsewhere/",
+    "canonicalUrl": "https://lukefwalton.com/music/exist-elsewhere/",
+    "archive": {
+      "markdown": "pages/music/exist-elsewhere.md",
+      "html": "pages/music/exist-elsewhere.html"
+    },
+    "source": "src/pages/music/exist-elsewhere.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/exist-elsewhere.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:music/exist-elsewhere"
+      ],
+      "themes": [
+        "Exist Elsewhere"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "music/fein",
     "title": "FEiN",
     "type": "WebPage",
@@ -33337,6 +33363,84 @@
       ],
       "themes": [
         "FEiN"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "music/indiemono",
+    "title": "indiemono",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/music/indiemono/",
+    "canonicalUrl": "https://lukefwalton.com/music/indiemono/",
+    "archive": {
+      "markdown": "pages/music/indiemono.md",
+      "html": "pages/music/indiemono.html"
+    },
+    "source": "src/pages/music/indiemono.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/indiemono.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:music/indiemono"
+      ],
+      "themes": [
+        "indiemono"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "music/la-costa-canyon",
+    "title": "La Costa Canyon High School",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/music/la-costa-canyon/",
+    "canonicalUrl": "https://lukefwalton.com/music/la-costa-canyon/",
+    "archive": {
+      "markdown": "pages/music/la-costa-canyon.md",
+      "html": "pages/music/la-costa-canyon.html"
+    },
+    "source": "src/pages/music/la-costa-canyon.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/scoobert-catalog.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:music/la-costa-canyon"
+      ],
+      "themes": [
+        "La Costa Canyon"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "music/namm",
+    "title": "NAMM",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/music/namm/",
+    "canonicalUrl": "https://lukefwalton.com/music/namm/",
+    "archive": {
+      "markdown": "pages/music/namm.md",
+      "html": "pages/music/namm.html"
+    },
+    "source": "src/pages/music/namm.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/namm-career.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:music/namm"
+      ],
+      "themes": [
+        "NAMM"
       ]
     }
   },
@@ -33364,6 +33468,32 @@
       "themes": [
         "Scoobert Doobert",
         "scoobertdoobert.pizza"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "music/tiny-giant",
+    "title": "Tiny Giant Recording",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/music/tiny-giant/",
+    "canonicalUrl": "https://lukefwalton.com/music/tiny-giant/",
+    "archive": {
+      "markdown": "pages/music/tiny-giant.md",
+      "html": "pages/music/tiny-giant.html"
+    },
+    "source": "src/pages/music/tiny-giant.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/tiny-giant.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:music/tiny-giant"
+      ],
+      "themes": [
+        "FEiN"
       ]
     }
   },

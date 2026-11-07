@@ -13,6 +13,6 @@ draft: false
 
 Publisher-hosted interview indexed on [lukefwalton.com/interviews/](https://lukefwalton.com/interviews/).
 
-**Canonical:** [indiemono: Banana Interview](https://indiemono.com/scoobert-doobert-banana-interview/)
+**Canonical:** [indiemono: Banana Interview](https://blog.indiemono.com/scoobert-doobert-banana-interview/)
 
 A Q&A on the Scooby-Doo name, *KŌAN*, cartoons, producing for CHAI, Japan, and writing across cultures.

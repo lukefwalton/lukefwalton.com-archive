@@ -74,7 +74,7 @@ Source archive·Durable mirror·DOI ·Dependency-free markdown + HTML mirror of 
 <p><strong>Writing</strong>
 <a href="https://lukefwalton.com/writing/">lukefwalton.com/writing</a>·<a href="https://www.prosoundweb.com/author/lukewalton1/">ProSoundWeb (byline archive)</a></p>
 <p><strong>Music industry</strong>
-<a href="music.html#music-industry">NAMM career (2018–2024)</a>·<a href="https://www.advizehub.com/interviews/luke-marketing-director-namm">Advize interview</a>·<a href="https://killphonicrights.com/">Killphonic Rights (publishing admin, Oct 2024)</a></p>
+<a href="music/namm.html">NAMM career (2018–2024)</a>·<a href="https://www.advizehub.com/interviews/luke-marketing-director-namm">Advize interview</a>·<a href="https://killphonicrights.com/">Killphonic Rights (publishing admin, Oct 2024)</a></p>
 <h4>Contact</h4>
 <p>luke@lukefwalton.com</p>
 

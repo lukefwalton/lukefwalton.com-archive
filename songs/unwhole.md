@@ -102,6 +102,6 @@ The bridge names what the verses circle: *you're my obsession, the only showpiec
 
 On *413* the two heartbreak songs are mirror images: [*Can't Fall*](/songs/cant-fall/) won't show up, *Unwhole* won't let go. Opposite postures, the same wound from his years at the [Thornton School of Music](/music/usc-thornton/), which Luke F. Walton graduated from, years before FEiN sharpened need-as-weapon into satire.
 
-See: [413 EP](/albums/413/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
+See: [413 EP](/albums/413/) · [Exist Elsewhere](/music/exist-elsewhere/) · [Catalog](/catalog/)
 
 ---

@@ -45,7 +45,7 @@ Videos
 </section>
 <section>
 Collaboration &amp; production
-<p>Production, recording, and co-write credits under the FEiN name, outside the main FEiN discography. More on the <a href="../catalog.html#credited-work">catalog page, under Tiny Giant / FEiN credited work</a>.</p>
+<p>Production, recording, and co-write credits under the FEiN name, outside the main FEiN discography. <a href="tiny-giant.html">Tiny Giant Recording, the Westlake Village studio Luke F. Walton and Brandon Woodward co-own</a>. More on the <a href="../catalog.html#credited-work">catalog page</a>.</p>
 </section>
 <section>
 Commissioned and library work

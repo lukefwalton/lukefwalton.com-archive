@@ -128,6 +128,6 @@ The same concern returns in [*What Makes You You*](/songs/what-makes-you-you/) a
 
 Japan comes back on [*Gonna Go to Japan*](/songs/gonna-go-to-japan/) and [*Only the Beginning*](/songs/only-the-beginning/).
 
-See: [413 EP](/albums/413/) · [The Decision No One Authored](/writing/the-decision-no-one-authored/) · [The Bent Stick](/writing/the-bent-stick/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
+See: [413 EP](/albums/413/) · [The Decision No One Authored](/writing/the-decision-no-one-authored/) · [The Bent Stick](/writing/the-bent-stick/) · [Exist Elsewhere](/music/exist-elsewhere/) · [Catalog](/catalog/)
 
 ---

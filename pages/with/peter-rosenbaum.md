@@ -16,9 +16,9 @@ recordIds:
 
 ### With Peter Rosenbaum
 
-**Summary.** Bassist. Mannequin, the La Costa Canyon original-song band Luke Walton co-founded with Jonathan Gillie and Zach Freeman (2006–2008).
+**Summary.** Bassist. Mannequin, the original-song band Luke Walton co-founded with Jonathan Gillie and Zach Freeman at La Costa Canyon High School (2006–2008).
 
-Bassist. Mannequin, the La Costa Canyon original-song band Luke Walton co-founded with Jonathan Gillie and Zach Freeman (2006–2008). Collaborator hub for Luke F. Walton and Scoobert Doobert credits with Peter Rosenbaum. Status on site: partial. The lineup is Luke Walton's account. There is no recording or photo of Rosenbaum with Mannequin on this site. He joined after the first practice. That one was Jonathan Gillie, Luke, and Zach Freeman, with no bass player yet. With Luke Walton: Mannequin (2006–2008) (La Costa Canyon · Walton guitar · Gillie guitar · Freeman drums · Rosenbaum bass · second place at Battle of the Bands). Related hubs: Jonathan Gillie, Zach Freeman.
+Bassist. Mannequin, the original-song band Luke Walton co-founded with Jonathan Gillie and Zach Freeman at La Costa Canyon High School (2006–2008). Collaborator hub for Luke F. Walton and Scoobert Doobert credits with Peter Rosenbaum. Status on site: partial. The lineup is Luke Walton's account. There is no recording or photo of Rosenbaum with Mannequin on this site. He joined after the first practice. That one was Jonathan Gillie, Luke, and Zach Freeman, with no bass player yet. With Luke Walton: Mannequin (2006–2008) (La Costa Canyon · Walton guitar · Gillie guitar · Freeman drums · Rosenbaum bass · second place at Battle of the Bands). Related hubs: Jonathan Gillie, Zach Freeman.
 
 - Themes: collaborator, Peter Rosenbaum, peter-rosenbaum, With Luke Walton
 - Record id: with:peter-rosenbaum

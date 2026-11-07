@@ -1,0 +1,60 @@
+---
+title: Exist Elsewhere
+url: https://lukefwalton.com/music/exist-elsewhere/
+recordKind: surface
+source: src/pages/music/exist-elsewhere.astro
+derivedFrom:
+  - ask-the-archive/src/lib/legibility-records.ts
+  - src/lib/exist-elsewhere.ts
+recordIds:
+  - page:music/exist-elsewhere
+---
+
+# Exist Elsewhere
+
+## Page text
+
+_Static prose extracted from the page source; dynamic parts omitted. See the record below._
+
+<a href="../music.html">Music</a>
+<h3>Exist Elsewhere</h3>
+<p>The school years are on the Thornton School of Music page. The coverage is below.</p>
+<section>
+Coverage
+<ul>
+<li>USC Thornton: The Artie Lange Show · . Tokyo and Unwhole.</li>
+<li>Tokyo, on The Artie Lange Show</li>
+<li>Unwhole, on The Artie Lange Show</li>
+<li>· . Aaron Dowler on bass. He is not on 413.</li>
+<li>Sonicbids: the lineup after Luke and Brandon left · . Noah Benardout, Elijah Wood, Josh Jaramillo, and Mark Pacificar. That Elijah Wood is the drummer, not the actor.</li>
+</ul>
+</section>
+<section>
+Records
+<ul>
+<li>413 · August 2, 2013. Can’t Fall was later synced to a Pantene spot.</li>
+<li><a href="../../albums/live-on-isle-of-wight-radio.html">Live on Isle of Wight Radio</a> · .</li>
+<li><a href="../../songs/grownupz.html">#Grownupz</a> · August 25, 2014. FEiN’s first release. Luke and Brandon had already left Exist Elsewhere.</li>
+</ul>
+</section>
+<section>
+People
+<ul>
+<li><a href="../with/noah-benardout.html">Noah Benardout</a> · Continued the band.</li>
+<li><a href="../with/nick-petrou.html">Nick Petrou</a> · Bass on 413.</li>
+<li><a href="fein.html">FEiN</a> · Luke Walton and Brandon Woodward, after they left.</li>
+</ul>
+</section>
+
+## Record
+
+### Exist Elsewhere
+
+**Summary.** Exist Elsewhere is the band Luke F. Walton co-wrote in at the Thornton School of Music. He played guitar. The lineup on the 2013 EP 413 was Noah Benardout, Luke Walton, Brandon Woodward, and Nick Petrou. Luke and Brandon Woodward left before #Grownupz (August 25, 2014) and became FEiN. Noah Benardout continued the band.
+
+Exist Elsewhere is the band Luke F. Walton co-wrote in at the Thornton School of Music. He played guitar. The lineup on the 2013 EP 413 was Noah Benardout, Luke Walton, Brandon Woodward, and Nick Petrou. Luke and Brandon Woodward left before #Grownupz (August 25, 2014) and became FEiN. Noah Benardout continued the band. Sonicbids (Farah Joan Fard, March 10, 2014) prints this Exist Elsewhere lineup: Noah Benardout, drummer Elijah Wood, guitarist Josh Jaramillo, and bassist Mark Pacificar. Luke Walton's account: that is the band that replaced him and Brandon Woodward after they left to start FEiN. The piece is that lineup's REACH 2014 tour with NVEEE. It kicked off March 7 in Riverside, fourteen cities in six states that month, with SXSW on March 14 and 15. It also recalls that Exist Elsewhere was the 2013 first-place winner of iNDIE iNNOVATION and released 413. Elijah Wood in that roster is the drummer (Electrify Your Strings), not the actor. His page later calls the tour a 40-show run. The March 10 article says fourteen cities. Luke, Brandon, and Nick Petrou are not on that roster. Exist Elsewhere won the 2013 Macworld/iWorld iNDIE iNNOVATION Championship in San Francisco on January 31, 2013, finals against Mister Loveless, via Sonicbids' nationwide program. USC Thornton documents Luke Walton (BM '13) and Brandon Woodward (BM '14); the official Macworld/iWorld YouTube session captures the band's Apple-tech presentation and performance. Prize: open for Little Feat at the Mezzanine Blast party. [**Exist Elsewhere**](/albums/413/): **2013 Macworld/iWorld iNDIE iNNOVATION Champions** (**Jan 31, 2013** · San Francisco) · Sonicbids × Macworld/iWorld finals vs **Mister Loveless** · Luke Walton (BM ’13) and Brandon Woodward (BM ’14) · [USC Thornton](https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/) · [full session video](https://www.youtube.com/watch?v=-uY8Vlu1FvM&t=1692) · opened for **Little Feat** at the Mezzanine Blast party. USC: https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/. USC Thornton · competition win: https://music.usc.edu/exist-elsewhere-wins-competition-to-perform-at-the-macworldiworld-indie-innovation-conference/. Macworld/iWorld · iNDIE iNNOVATION session (Exist Elsewhere at 28:12): https://www.youtube.com/watch?v=-uY8Vlu1FvM&t=1692. Macworld/iWorld · full championship video: https://www.youtube.com/watch?v=-uY8Vlu1FvM. Sonicbids · iNDIE iNNOVATION Champion write-up: https://blog.sonicbids.com/music-marketing-and-the-convention-industry. Sonicbids · March 10, 2014 · later lineup (also recalls the 2013 win): https://blog.sonicbids.com/exist-elsewhere-uses-music-to-raise-bullying-awareness. Champion package: $5,000 cash, MacBook Air / Apple software prize pack, and opening slot for Little Feat at the Macworld/iWorld Blast party (Mezzanine, San Francisco). Exist Elsewhere performed and were interviewed on The Artie Lange Show on August 14, 2013. The set was "Tokyo" and "Unwhole"; both clips are on Artie Lange's YouTube channel. USC Thornton posted the same day and said the band had recently finished an East Coast tour. Luke says the Indiegogo campaign Become a Lifetime Exist Elsewhere VIP (https://www.indiegogo.com/en/projects/lukewalton/become-a-lifetime-exist-elsewhere-vip) paid for that tour, including the New York trip. BackerTracker (https://www.backerkit.com/projects/become-a-lifetime-exist-elsewhere-vip) records $20,145 raised against an $18,000 goal, from 118 backers, and states the purpose as completing the debut EP and getting the music onto both coasts. The Indiegogo page was behind a bot check when filed, so the pledge text is not transcribed. The Artie Lange Show, Tokyo: https://www.youtube.com/watch?v=9eLAJll9PsQ. The Artie Lange Show, Unwhole: https://www.youtube.com/watch?v=QrYlPx-0bNw. USC Thornton: https://music.usc.edu/usc-thornton-popular-music-students-featured-on-the-artie-lang-show/. Early Exist Elsewhere live: **Aaron Dowler** on bass (**Oct 14, 2012** · Isle of Wight Radio). Recorded at the **House of Rock**, 2009 La Mesa Drive, Santa Monica, the estate the [Santa Monica Mirror](https://smmirror.com/santa-monicas-controversial-house-of-rock-listed-for-22-million/) described on November 27, 2012. The article does not name the band. Dowler was Exist Elsewhere's bassist before **Nick Petrou**. He is not on [*413*](/albums/413/). [*Live on Isle of Wight Radio*](/albums/live-on-isle-of-wight-radio/) is the released live record: The Great Beyond, Digital Life, Wavelengths. Bandcamp dates the release November 1, 2012. The masters are free on that page.
+
+- Themes: Exist Elsewhere
+- Record id: page:music/exist-elsewhere
+
+Archived from https://lukefwalton.com/music/exist-elsewhere/. Canonical: https://lukefwalton.com/music/exist-elsewhere/. This is a surface record: a normalized public-canon summary built from the same data modules as the live page, not a copy of the rendered page.

@@ -127,6 +127,6 @@ Track two on [*413*](/albums/413/) (**August 2, 2013**), between [*Tokyo*](/song
 
 A song built entirely around refusing to fall in love got synced nationally in a [Pantene campaign with Zooey Deschanel](https://www.youtube.com/watch?v=8OjGDtr83kE), a can't-fall-in-love anthem repurposed to sell shampoo. The band's [PR Newswire bio](https://www.prnewswire.com/news-releases/becky-g-shawn-mendes-bea-miller-and-r5-to-perform-at-free-rock-the-red-kettle-concert-at-la-live-in-downtown-los-angeles-on-december-6-benefiting-the-salvation-army-282454791.html) names the placement, Exist Elsewhere's first national sync.
 
-See: [413 EP](/albums/413/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
+See: [413 EP](/albums/413/) · [Exist Elsewhere](/music/exist-elsewhere/) · [Catalog](/catalog/)
 
 ---

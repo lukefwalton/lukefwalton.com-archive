@@ -91,6 +91,6 @@ Straight 2013 soulmate pop; the song mostly means what it says. *We were built f
 
 On *413*: [*Tokyo*](/songs/tokyo/) (escape + Kokoro) → [*Can't Fall*](/songs/cant-fall/) (refusal) → [*Unwhole*](/songs/unwhole/) (obsession) → *Genesis* (destined repair).
 
-See: [413 EP](/albums/413/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
+See: [413 EP](/albums/413/) · [Exist Elsewhere](/music/exist-elsewhere/) · [Catalog](/catalog/)
 
 ---
