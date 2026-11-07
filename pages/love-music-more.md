@@ -18,7 +18,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 <a href="home.html">Luke F. Walton</a>
 <h3>Love Music More</h3>
-<p>A newsletter and podcast hosted by <a href="home.html">Luke F. Walton</a>. Co-owned with and produced by Beformer. New episodes Tuesdays; the newsletter and deeper dives on <a href="https://lovemusicmore.substack.com/">Substack</a>.</p>
+<p>A newsletter and podcast hosted by <a href="home.html">Luke F. Walton</a>. Co-owned with and produced by <a href="https://beformer.co/">Beformer</a>. New episodes Tuesdays; the newsletter and deeper dives on <a href="https://lovemusicmore.substack.com/">Substack</a>.</p>
 Listen &amp; subscribe
 <p><a href="https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h">Spotify</a>·<a href="https://podcasts.apple.com/us/podcast/love-music-more-with-scoobert-doobert/id1567355195">Apple Podcasts</a>·<a href="https://www.youtube.com/playlist?list=PLyFhmc3NqYe5rwvctk4OOb7emnuGVDFc-">YouTube</a>·<a href="https://lovemusicmore.substack.com/">Substack</a>·<a href="https://anchor.fm/s/58fb6244/podcast/rss">Podcast RSS</a>·<a href="https://lovemusicmorepodcast.com/sponsor/">Sponsor</a></p>
 <p>Spotify for Creators ranked this show in the <a href="https://www.instagram.com/scoobertdoobert.pizza/p/DSGyz8DkaLq/">top 10% of all podcasts</a> on Spotify in 2025.</p>

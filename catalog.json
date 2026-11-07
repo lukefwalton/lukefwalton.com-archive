@@ -35684,6 +35684,36 @@
   },
   {
     "collection": "pages",
+    "slug": "with/sam-friend",
+    "title": "With Sam Friend",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/with/sam-friend/",
+    "canonicalUrl": "https://lukefwalton.com/with/sam-friend/",
+    "archive": {
+      "markdown": "pages/with/sam-friend.md",
+      "html": "pages/with/sam-friend.html"
+    },
+    "source": "src/pages/with/[slug].astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/hub-legibility.ts",
+      "src/lib/collaborators.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "with:sam-friend"
+      ],
+      "themes": [
+        "collaborator",
+        "Sam Friend",
+        "sam-friend",
+        "Releases on Beformer",
+        "Love Music More"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "with/sam-wilkes",
     "title": "With Sam Wilkes",
     "type": "WebPage",

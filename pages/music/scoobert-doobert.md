@@ -25,7 +25,7 @@ Listen
 </section>
 <section>
 Identity
-<p>Scoobert Doobert is Luke F. Walton's primary music project. He founded it in 2017 and owns it and its masters; Beformer is the label (some releases are co-signed Beformer × indiemono), and he records at Micasa Studios, his private San Diego studio. It is self-produced indie and chill pop: he writes, plays, produces, and mixes the records himself, credited on songwriting and production as Luke Francis Walton. The artist site is <a href="https://www.scoobertdoobert.pizza/">scoobertdoobert.pizza</a>. The wider story (FEiN, NAMM, Love Music More, and the production work) is on <a href="../music.html">Music</a>.</p>
+<p>Scoobert Doobert is Luke F. Walton's primary music project. He founded it in 2017 and owns it and its masters. Scoobert Doobert is signed to <a href="https://beformer.co/">Beformer</a>, an independent label founded by Sam Friend (some releases are co-signed Beformer × indiemono), and he records at Micasa Studios, his private San Diego studio. It is self-produced indie and chill pop: he writes, plays, produces, and mixes the records himself, credited on songwriting and production as Luke Francis Walton. The artist site is <a href="https://www.scoobertdoobert.pizza/">scoobertdoobert.pizza</a>. The wider story (FEiN, NAMM, Love Music More, and the production work) is on <a href="../music.html">Music</a>.</p>
 </section>
 <section>
 Where to start

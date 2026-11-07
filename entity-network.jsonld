@@ -402,7 +402,12 @@
         "Beformer Records"
       ],
       "url": "https://beformer.co/",
-      "description": "Independent record label and artist-services company. Beformer is the label and artist-services partner of Scoobert Doobert, Luke F. Walton's primary music project (Luke owns the project and its masters), and it co-owns and produces the Love Music More podcast and newsletter with Luke F. Walton.",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://lukefwalton.com/with/sam-friend/#artist",
+        "name": "Sam Friend"
+      },
+      "description": "Independent record label and artist-services company founded by Sam Friend. Beformer is the label and artist-services partner of Scoobert Doobert, Luke F. Walton's primary music project (Luke owns the project and its masters), and it co-owns and produces the Love Music More podcast and newsletter with Luke F. Walton.",
       "sameAs": [
         "https://www.instagram.com/beformer/",
         "https://www.facebook.com/beformer/"
