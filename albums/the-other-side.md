@@ -24,7 +24,7 @@ press:
 draft: false
 ---
 
-***The Other Side***: **2009** EP by **Luke Walton feat. Blue Suburbia** (~17:40 per [archived lukewaltonband.com](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html)). High-school **blues** band lineup, not **The Luke Walton Band** (USC cohort, 2009–2011).
+***The Other Side***: **2009** EP by **Luke Walton feat. Blue Suburbia** (~17:40 per [archived lukewaltonband.com](https://web.archive.org/web/20110714002356/http://lukewaltonband.com/site/CDs_and_Lyrics.html)). High-school **blues** band lineup, not **The Luke Walton Band**, the Thornton group from 2009 to 2011.
 
 Blue Suburbia was a blues trio at [La Costa Canyon High School](/music/la-costa-canyon/), about 2008 to 2009. Luke Walton (guitar, vocals), [Jordan Sorokin](/with/jordan-sorokin/) (bass), and [Zach Freeman](/with/zach-freeman/) (drums) co-founded it. It followed [Casey McSocial](/with/casey-mcsocial/), his first band, and Mannequin, which he also co-founded. They won the school's Battle of the Bands. The solo EPs [*Just A Friend*](/albums/just-a-friend/) and [*Heart in Hand*](/albums/heart-in-hand/) were going at the same time. The band's page is [here](/with/blue-suburbia/).
 

@@ -115,7 +115,7 @@ The [archived discography](https://web.archive.org/web/20110714002356/http://luk
 
 The high-school bands ran at the same time. Rock I IV V was a 2006 school club, named for the I–IV–V progression. [Casey McSocial](/with/casey-mcsocial/) was his first band, on bass, and won the Battle of the Bands. That win is his account. Mannequin (2006–2008) was original songs he co-founded with [Jonathan Gillie](/with/jonathan-gillie/) on guitar and [Zach Freeman](/with/zach-freeman/) on drums. They came in second. That placement is his account too. [Blue Suburbia](/with/blue-suburbia/) (2008–2009) won, and the 2009 Coast News profile confirms that win. He did not compete as a freshman, which is how a three-band run becomes the Coast News line about winning all but one year. He remembers the competitions in the first semester and is not sure. The rounds are in the [catalog](/catalog/#lcc-battle-of-the-bands). He graduated from [La Costa Canyon High School](/music/la-costa-canyon/) in January 2009.
 
-On the solo EPs he played guitar and piano, sang, and wrote. Stores credited him as Luke Walton. There was national radio and television, and a YouTube push from December 2008, before the USC cohort put his name on the marquee.
+On the solo EPs he played guitar and piano, sang, and wrote. Stores credited him as Luke Walton. There was national radio and television, and a YouTube push from December 2008, before The Luke Walton Band put his name on the marquee.
 
 The public break was a [video](https://www.youtube.com/watch?v=mSh9ULGBkXw) on March 21, 2009. He rewrote Taylor Swift's "Love Story" to ask her for a date. It passed 300,000 views. She never answered.
 

@@ -47,19 +47,19 @@ Press
 <p>The music has picked up press in Japan and the US, from an academic chapter on internet meme culture to trade coverage of FEiN's debut album.</p>
 <p><a href="../publications/masks-monsters-and-memes.html">Horwich</a>··<a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a>·<a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI · FEiN</a>·91X studio·<a href="press.html">all press</a></p>
 91X
-<p>91X is the San Diego rock station. He interned at Surfdog Records in San Diego with 91X playing in the background. Years later the station played his records: <a href="../songs/moving-to-canada.html"><em>Moving To Canada</em></a> was #4 on the Loudspeaker Top 5 for September 2020, and <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on the Loudspeaker Top 5 in April 2021 and landed at #90 on the Top 91 Songs of 2021. The spin notes are on the song pages.</p>
+<p>91X is the San Diego rock station. He interned at , a San Diego label, in and , with 91X playing in the background. Years later the station played his records: <a href="../songs/moving-to-canada.html"><em>Moving To Canada</em></a> was #4 on the Loudspeaker Top 5 for September 2020, and <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on the Loudspeaker Top 5 in April 2021 and landed at #90 on the Top 91 Songs of 2021. The spin notes are on the song pages.</p>
 egoFM
 <p>egoFM is the Munich radio station. <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on its ego 42 chart on . In September 2022 Scoobert Doobert hosted a guest hour on the station.</p>
 Interviews
 <p>Walton has talked about the music in interviews across podcasts and outlets. A selection is linked below, with the full index at <a href="https://lukefwalton.com/interviews/">All interviews</a>.</p>
 <p>·<a href="https://lukefwalton.com/interviews/">all interviews</a></p>
 Photos
-<p>These photos are here for press use, since a plain search for "Luke Walton" mostly turns up the NBA coach. They cover the 91X studio, <a href="#egofm">egoFM</a>, <a href="with/okame.html">OKAME</a>, <a href="with/chai.html">CHAI</a>, and more of the catalog era. The full set, newest first, is the <a href="gallery.html">photo archive</a>. FEiN has its own <a href="music/fein.html#photos">sample</a>.</p>
+<p>These photos are here for press use, since a plain search for "Luke Walton" mostly turns up the NBA coach. They cover the 91X studio, <a href="#egofm">egoFM</a>, <a href="with/okame.html">OKAME</a>, <a href="with/chai.html">CHAI</a>, and more from the catalog. The full set, newest first, is the <a href="gallery.html">photo archive</a>. FEiN has its own <a href="music/fein.html#photos">sample</a>.</p>
 <p>More photos are on Instagram at @scoobertdoobert.pizza, including one with the Heart Attack opening theme single.</p>
 NAMM
 <p>. The first day, the job, and the coverage are on that page. The columns are on <a href="https://lukefwalton.com/writing/#trade">Writing</a>.</p>
 Thornton School of Music
-<p>Luke F. Walton graduated from the Thornton School of Music in 2013, with a B.M. in Popular Music. He was in the inaugural class. The school’s coverage of those years is on that page. Checkpoint Six is in the <a href="catalog.html">catalog</a>.</p>
+<p>Luke F. Walton graduated from the Thornton School of Music in 2013, with a B.M. in Popular Music. He was in the inaugural class. The school’s coverage of those years is on that page. Checkpoint Six was a 2011 band with <a href="with/rob-nagelhout.html">Rob Nagelhout</a> and <a href="with/aj-novak.html">A.J. Novak</a>: one show, four songs, nothing released. The note is in the <a href="catalog.html">catalog</a>.</p>
 FEiN
 <p>FEiN is Walton and Brandon Woodward's alternative-pop duo, formed at the Thornton School of Music, which Luke F. Walton graduated from. A new 13-song LP will be released in 2027, mixed by Walton and co-produced, written, and performed by Walton and Woodward. <a href="https://jettgalindo.com/">Jett Galindo</a> is mastering it. The record, history, and photos are on the <a href="music/fein.html">FEiN hub</a>.</p>
 The Luke Walton Band
@@ -72,7 +72,7 @@ Apology by Plato
 <p>Six Months to Make It ()</p>
 <p>MUSiAN ()</p>
 <p>Early solo &amp; TV</p>
-<p>Eyepatch era covers ()</p>
+<p>2011 guitar covers</p>
 <p>Covers &amp; other uploads ( public)</p>
 
 ## Record

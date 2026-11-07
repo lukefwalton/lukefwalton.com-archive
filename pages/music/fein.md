@@ -42,7 +42,7 @@ Photos
 </section>
 <section>
 Videos
-<p>One official music video; two 360° live sessions at KCRW.</p>
+<p>One official music video, and two 360° live sessions at <a href="https://www.kcrw.com/">KCRW</a>, the public radio station.</p>
 </section>
 <section>
 Collaboration &amp; production
