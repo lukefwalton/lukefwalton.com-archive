@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Granular synthesis"
 
 hostNote: |
-  A commentary track on my single "Boardwalk", the **Ventures** surf-rock DNA that runs through it, why a granular synthesizer opens the song the way it does, and how I thought about the birth and death of sounds within a track.
+  A commentary track on my single ["Boardwalk"](https://lukefwalton.com/songs/boardwalk/), the **Ventures** surf-rock DNA that runs through it, why a granular synthesizer opens the song the way it does, and how I thought about the birth and death of sounds within a track.
   
   Technically: granular synthesis for the opening texture, controlling lows when the bass gets big, contrast as the organizing principle for dynamics, and why guitar harmonics land differently depending on where on the neck you play them.
 

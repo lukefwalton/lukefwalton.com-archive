@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Absorbing folk and classical influences without losing your voice"
 
 hostNote: |
-  Stravinsky's music caused an actual riot. Most people who heard it hated it, and that's not the cautionary tale, it's the proof of concept. Being genuinely ahead of the curve has always felt like failure from the inside.
+  Stravinsky's [*The Rite of Spring*](https://en.wikipedia.org/wiki/The_Rite_of_Spring) caused an actual riot. Most people who heard it hated it, and that's not the cautionary tale, it's the proof of concept. Being genuinely ahead of the curve has always felt like failure from the inside.
   
   I trace five things his career still has to teach: why relationships and mentorship matter more than raw talent, how he absorbed influences from everything around him without losing his own voice, and the underrated marketing move of blurring performer and audience until the performance itself became the spectacle. Some things require mentorship, mixing is one of them, and Stravinsky understood that from the start.
   

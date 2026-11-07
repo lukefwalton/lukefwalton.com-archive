@@ -32,7 +32,7 @@ topicsDiscussed:
   - "DAWs"
 
 hostNote: |
-  Harper James found his people at **Electric Lady Studios**, that combination of technical obsession and genuine nerdiness that makes the engineering world click: and built from there into work with **Marshmello**, **James Bay**, and Frawley.
+  Harper James found his people at **[Electric Lady Studios](https://en.wikipedia.org/wiki/Electric_Lady_Studios)**, that combination of technical obsession and genuine nerdiness that makes the engineering world click: and built from there into work with **Marshmello**, **James Bay**, and Frawley.
   
   We cover how remote mixing post-pandemic changed the collaboration model, why jazz gives you something university programs often don't (living players you can get a lesson from for $60), and what it means to understand your own voice as an engineer. His frame: "getting good is learning how your own voice works."
 

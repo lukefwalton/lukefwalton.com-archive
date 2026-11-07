@@ -36,7 +36,7 @@ topicsDiscussed:
 hostNote: |
   Craig Bauer connects **decades of Chicago session life** to a mixing philosophy he calls the **additive nature**: parallel processing that makes a sound bigger rather than fighting wet/dry balance on the source track.
   
-  We start with his first Grammy era and the under-credited reality of *Late Registration* revisions, then get into why he refuses to treat production suggestions as "not the mixer's job," how absurdly detailed Northward-designed rooms change the mixing clock, and a Michael Jackson story where a two-day deadline and two notes from Michael was the whole approval. It's craft talk from someone who became a mixer **by default** because he was a musician first.
+  We start with his first Grammy era and the under-credited reality of [*Late Registration*](https://en.wikipedia.org/wiki/Late_Registration) revisions, then get into why he refuses to treat production suggestions as "not the mixer's job," how absurdly detailed Northward-designed rooms change the mixing clock, and a Michael Jackson story where a two-day deadline and two notes from Michael was the whole approval. It's craft talk from someone who became a mixer **by default** because he was a musician first.
 
 selectedMoments:
   - label: "Kanye's career started in my studio (1993)"

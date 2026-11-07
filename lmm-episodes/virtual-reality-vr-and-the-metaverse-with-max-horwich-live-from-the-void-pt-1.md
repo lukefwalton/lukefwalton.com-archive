@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Virtual reality"
 
 hostNote: |
-  **Max Horwich** is the director behind *Live from the Void*, a 3D-rendered concert world where you're watching a live performance inside an environment that doesn't physically exist. He's also been teaching kids to make video games in an after-school program, which turns out to be a useful frame for the conversation: the tools that build games and the tools that build immersive music experiences are increasingly the same tools.
+  **Max Horwich** is the director behind [*Live from the Void*](https://lukefwalton.com/albums/live-from-the-void/), a 3D-rendered concert world where you're watching a live performance inside an environment that doesn't physically exist. He's also been teaching kids to make video games in an after-school program, which turns out to be a useful frame for the conversation: the tools that build games and the tools that build immersive music experiences are increasingly the same tools.
   
   We get into the concept and production of *Live from the Void*, what it actually takes to make something dynamic and engaging rather than just visually novel, and how Unity (the industry-standard 3D rendering engine) works as a filmmaking and music platform. Max has a clear-eyed critique of VR too, a lot of it still feels like a waste of the technology: and that honesty shapes what makes the project worth doing.
   
@@ -75,7 +75,7 @@ excerptQuotes:
 
 faq:
   - question: "What is *Live from the Void*?"
-    answer: "*Live from the Void* is a multimedia project that combines live concert elements with immersive 3D-rendered environments."
+    answer: "[*Live from the Void*](/albums/live-from-the-void/) is a multimedia project that combines live concert elements with immersive 3D-rendered environments."
   - question: "How does virtual reality impact live music performance?"
     answer: "Virtual reality offers a new dimension for live music, enabling artists to create dynamic experiences that transcend traditional concert settings."
   - question: "Who is Max Horwich?"

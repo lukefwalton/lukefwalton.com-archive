@@ -28,7 +28,7 @@ topicsDiscussed:
 hostNote: |
   Sister songs are what I call two tracks written back to back, close enough in time that they come from the same emotional weather. Writing fast like that isn't just about output, it's about catching a version of yourself mid-change before it's gone, since most of who you are is in flux, not fixed.
   
-  I get into why revisiting old songs can be uncomfortable, you're hearing a self you've already moved past, and how that discomfort actually shows how much you've grown. This connects to Möbius, my next record cycle: reconnecting with who I used to be to figure out who I'm becoming, instead of running from it. "Stories," the first single, comes straight out of that idea.
+  I get into why revisiting old songs can be uncomfortable, you're hearing a self you've already moved past, and how that discomfort actually shows how much you've grown. This connects to [Möbius](https://lukefwalton.com/albums/mobius-cycle/), my next record cycle: reconnecting with who I used to be to figure out who I'm becoming, instead of running from it. "[Stories](https://lukefwalton.com/songs/stories/)," the first single, comes straight out of that idea.
   
   If you're putting out a record or two a year, people who like one sister song tend to like the other. Speed isn't a shortcut here, it's how you keep the moment honest.
 

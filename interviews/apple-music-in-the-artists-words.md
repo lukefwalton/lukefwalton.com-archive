@@ -36,7 +36,7 @@ I wrote this song thinking about my best friends, chilling on Moonlight Beach, b
 
 ### What's one of the most memorable moments in your career so far?
 
-I started learning Japanese when I was very sick in the hospital with Guillain-Barré syndrome. I didn't know why. It just brought me comfort. Now, I produce a band called [CHAI](/with/chai/) from Nagoya, and spend every chance I get in Japan. Serendipity and joy!
+I started learning Japanese when I was very sick in the hospital with [Guillain-Barré syndrome](/writing/the-bent-stick/). I didn't know why. It just brought me comfort. Now, I produce a band called [CHAI](/with/chai/) from Nagoya, and spend every chance I get in Japan. Serendipity and joy!
 
 ### Is there anything left on your bucket list as an artist or band?
 

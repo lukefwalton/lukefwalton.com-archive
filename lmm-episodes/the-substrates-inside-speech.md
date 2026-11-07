@@ -27,7 +27,7 @@ topicsDiscussed:
 hostNote: |
   Where does speech end and song begin? This solo episode follows that line: through inflection, stress, and pitch that change meaning without changing words, the blurry border between talk and rap, and **Mononeon**'s groove-forward clips that treat conversation like a pocket.
   
-  I pull on **Diana Deutsch**'s speech-to-song illusion, cross-cultural comedy timing, and what happens when AI voice and auto-tune reshape the musical vocabulary we inherit from everyday talk.
+  I pull on **Diana Deutsch**'s [speech-to-song illusion](https://deutsch.ucsd.edu/psychology/pages.php?i=212), cross-cultural comedy timing, and what happens when AI voice and auto-tune reshape the musical vocabulary we inherit from everyday talk.
 
 selectedMoments:
   - label: "Exploring inflection and meaning"

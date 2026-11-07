@@ -30,7 +30,7 @@ hostNote: |
 
   The secret that has helped me most is not another hour of brute force. It is **practice, nap, practice, sleep**. NFL and NBA players already live that loop; I name **LeBron** taking two or three naps a day because longevity is the point, not a grind aesthetic. Short naps count. The person who sleeps after the session usually beats the person who just kept going.
 
-  **Wu Wei** is the other half: stop forcing the groove and let the water find the shape. I teed this up the week before **Go-To Patterns with TOMMASO**, same drum-body conversation, from a drummer who is better at it than I am.
+  **[Wu Wei](https://en.wikipedia.org/wiki/Wu_wei)** is the other half: stop forcing the groove and let the water find the shape. I teed this up the week before **Go-To Patterns with TOMMASO**, same drum-body conversation, from a drummer who is better at it than I am.
 
 selectedMoments:
   - label: "Musicians and athletes, not just travel"

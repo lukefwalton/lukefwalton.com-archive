@@ -30,7 +30,7 @@ topicsDiscussed:
 hostNote: |
   Rock had just had its meteoric rise, and then it hit a crisis: scandals took out the biggest stars right as the sound was still forming. I pick the story back up there, starting with Buddy Holly, who I frame as rock's first real innovator-songwriter, someone who broke from what came before rather than repeating it.
 
-  From there I trace the detours: Richie Valens folding Mexican traditional folk music into rock on "La Bamba," The Big Bopper working the comedy angle as a radio DJ turned musician who claimed to be using the term "music video" before anyone else, and Dick Dale, the son of a Lebanese immigrant, bringing Middle Eastern influence and new guitar technology together to invent surf rock.
+  From there I trace the detours: Richie Valens folding Mexican traditional folk music into rock on ["La Bamba"](https://en.wikipedia.org/wiki/La_Bamba_%28song%29), The Big Bopper working the comedy angle as a radio DJ turned musician who claimed to be using the term "music video" before anyone else, and Dick Dale, the son of a Lebanese immigrant, bringing Middle Eastern influence and new guitar technology together to invent surf rock.
 
   The through-line is that rock's crisis years didn't kill it, they diversified it: every culture that touched the genre left something behind, and that's still true of the rock being made now.
 

@@ -16,9 +16,9 @@ recordIds:
 
 ### With Cat Rose Smith
 
-**Summary.** Vocalist. USC Thornton toga-party set with Luke Walton, Rob Nagelhout, and Brandon Combs.
+**Summary.** Cat Rose Smith is connected to the Thornton School of Music, which Luke F. Walton graduated from. She sang on a toga-party set with Luke Walton, Rob Nagelhout, and Brandon Combs.
 
-Vocalist. USC Thornton toga-party set with Luke Walton, Rob Nagelhout, and Brandon Combs. Collaborator hub for Luke F. Walton and Scoobert Doobert credits with Cat Rose Smith. Status on site: partial. USC-era live set only; no named release or press footprint located for the toga party lineup. Cat Rose Smith sang on a USC Thornton toga-party set with Luke Walton (guitar), Rob Nagelhout (bass), and Brandon Combs (drums). Walton has described it as his personal favorite among the blur of short-lived Thornton lineups. With Luke Walton: USC Thornton toga party set (Walton guitar · Smith vocals · Rob Nagelhout bass · Brandon Combs drums · reconstructed from memory).
+Cat Rose Smith is connected to the Thornton School of Music, which Luke F. Walton graduated from. She sang on a toga-party set with Luke Walton, Rob Nagelhout, and Brandon Combs. Collaborator hub for Luke F. Walton and Scoobert Doobert credits with Cat Rose Smith. Status on site: partial. USC-era live set only; no named release or press footprint located for the toga party lineup. Cat Rose Smith is connected to the Thornton School of Music, which Luke F. Walton graduated from. She sang on a toga-party set with Luke Walton (guitar), Rob Nagelhout (bass), and Brandon Combs (drums). Walton has called it his favorite of the short-lived student lineups from those years. With Luke Walton: USC Thornton toga party set (Walton guitar · Smith vocals · Rob Nagelhout bass · Brandon Combs drums · reconstructed from memory).
 
 - Themes: collaborator, Cat Rose Smith, cat-rose-smith, With Luke Walton
 - Record id: with:cat-rose-smith

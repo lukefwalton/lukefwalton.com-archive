@@ -100,7 +100,7 @@ Exist Elsewhere played it live on [The Artie Lange Show](https://www.youtube.com
 
 The bridge names what the verses circle: *you're my obsession, the only showpiece on the wall / and I'm a weapon only your hands can control.* Then the title lands, not as a plea to be fixed but as a confession: *dig a little deeper and you'll see that I'm just unwhole.* Asking to be seen as incomplete is a stranger, more honest move than asking to be made whole.
 
-On *413* the two heartbreak songs are mirror images: [*Can't Fall*](/songs/cant-fall/) won't show up, *Unwhole* won't let go. Opposite postures, same Thornton-era wound, years before FEiN sharpened need-as-weapon into satire.
+On *413* the two heartbreak songs are mirror images: [*Can't Fall*](/songs/cant-fall/) won't show up, *Unwhole* won't let go. Opposite postures, the same wound from his years at the [Thornton School of Music](/music/usc-thornton/), which Luke F. Walton graduated from, years before FEiN sharpened need-as-weapon into satire.
 
 See: [413 EP](/albums/413/) · [Exist Elsewhere on /music/](/music/#existelsewhere) · [Catalog](/catalog/)
 

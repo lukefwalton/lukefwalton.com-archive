@@ -32,7 +32,7 @@ topicsDiscussed:
 hostNote: |
   I get into what actually makes a rock star: **Jimi Hendrix**'s guitar innovations, the chaos of **The Who**'s stage-smashing performances, and the rise of supergroups like **Cream** and **Led Zeppelin**, who turned technical skill and excess into their own kind of persona.
   
-  I cover how stadium technology changed what a live show could be, why concept albums like *Pet Sounds* and *Sgt. Pepper's* pushed rock toward performance art, and how the cult-like pull around these artists set expectations that shaped the genre for decades. I close on why creative freedom, the license to make more than just happy music, is what actually separates a rock star from a hit-maker.
+  I cover how stadium technology changed what a live show could be, why concept albums like [*Pet Sounds*](https://en.wikipedia.org/wiki/Pet_Sounds) and [*Sgt. Pepper's*](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band) pushed rock toward performance art, and how the cult-like pull around these artists set expectations that shaped the genre for decades. I close on why creative freedom, the license to make more than just happy music, is what actually separates a rock star from a hit-maker.
 
 selectedMoments:
   - label: "Rock music's transformative era"

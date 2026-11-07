@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Virtual concert worlds"
 
 hostNote: |
-  **Max Horwich** returns to talk about "**Creature Comfort Live from the Void**," a live music video we built together: filmed against green screen while Max flew a virtual camera through a world he built in **Unity**.
+  **Max Horwich** returns to talk about "[Creature Comfort](https://lukefwalton.com/songs/creature-comfort/) [Live from the Void](https://lukefwalton.com/albums/live-from-the-void/)," a live music video we built together: filmed against green screen while Max flew a virtual camera through a world he built in **Unity**.
 
   He walks through turning a game engine into a filmmaking tool (Unity wasn't built for this; **Neil Blomkamp**'s use of it helped point the way), and how the concept moved from a straightforward performance video toward something more abstract: a nightclub built entirely inside the engine. We get into the green-screen logistics of shooting live in a small space, and how each pass at it got weirder and weirder, what Max calls failing up.
 

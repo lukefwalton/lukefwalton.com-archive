@@ -27,7 +27,7 @@ topicsDiscussed:
   - "Singing and vocals"
 
 hostNote: |
-  Holland-Dozier-Holland have the most number one hits in all of human history. That's the starting fact, and it frames everything else: this was a system, not an accident.
+  [Holland-Dozier-Holland](https://en.wikipedia.org/wiki/Holland%E2%80%93Dozier%E2%80%93Holland) have the most number one hits in all of human history. That's the starting fact, and it frames everything else: this was a system, not an accident.
   
   I took a one-on-one songwriting course with Lamont Dozier in college, and this episode draws on that. The magic of Motown wasn't just the era or the artists, it was a specific configuration of roles that found synergies between commercial clarity and musical craft. I get into what that configuration actually was: the division of labor, how melody functioned in the hit formula, the production techniques that made those records cut through cheap speakers.
   

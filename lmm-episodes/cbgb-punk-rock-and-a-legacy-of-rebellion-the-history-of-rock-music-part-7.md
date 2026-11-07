@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Proto-punk"
 
 hostNote: |
-  Punk was the second time in rock history that the machine got too smooth and someone built a blowtorch. I trace it from the **Velvet Underground**'s avant-garde groundwork through the **Ramones** and **Patti Smith** at CBGB, to the **Sex Pistols** and **The Clash** detonating the British version: and then **Joy Division** and **Talking Heads** rebuilding something stranger out of the rubble.
+  Punk was the second time in rock history that the machine got too smooth and someone built a blowtorch. I trace it from the **Velvet Underground**'s avant-garde groundwork through the **Ramones** and **Patti Smith** at [CBGB](https://en.wikipedia.org/wiki/CBGB), to the **Sex Pistols** and **The Clash** detonating the British version: and then **Joy Division** and **Talking Heads** rebuilding something stranger out of the rubble.
   
   The CBGB section earns real time: what made it a venue that could produce The Ramones and Blondie in the same run of bookings, and how **Malcolm McLaren** walked in and reverse-engineered the whole thing for the UK. The closing question holds: does rock die, or does it just cycle again?
 

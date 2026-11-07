@@ -31,7 +31,7 @@ topicsDiscussed:
 hostNote: |
   **Josh Zimmer** (Project Atlantic) blew up on Instagram and TikTok by doing something deceptively simple: pointing at **odd bars** hiding in plain sight, a sneaky **3/4 measure** in the *Dragon Tales* theme song, micro-surprises in radio edits, the kind of left turn that makes your ears perk up for half a second.
   
-  We trace his arc from a 13-year-old **Pink Floyd / Wizard of Oz** sync-up summer, through bass-led voice-leading, to why he makes those videos: pop is often **simpler than it looks**, and the people behind radio hits are not amateurs. Then **Project Atlantic**, social media as discovery (not replacement) for an indie career, and why rhythmic surprise hits hardest in the songs you least expect.
+  We trace his arc from a 13-year-old **[Pink Floyd / Wizard of Oz](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Rainbow)** sync-up summer, through bass-led voice-leading, to why he makes those videos: pop is often **simpler than it looks**, and the people behind radio hits are not amateurs. Then **Project Atlantic**, social media as discovery (not replacement) for an indie career, and why rhythmic surprise hits hardest in the songs you least expect.
 
 selectedMoments:
   - label: "Josh's initial encounter with music"

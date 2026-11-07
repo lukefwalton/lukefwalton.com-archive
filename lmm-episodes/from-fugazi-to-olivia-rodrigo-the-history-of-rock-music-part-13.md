@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Emo"
 
 hostNote: |
-  Last episode ended with Nirvana knocking Michael Jackson off the charts. Part 13 picks up the pattern that follows: the underground doesn't stay underground, it becomes the mainstream and then splinters into something new. I trace the line from DC hardcore and **Fugazi** through to a specific, concrete example: Olivia Rodrigo's "Good For You" sounded so much like Paramore's "Misery Business" that her team retroactively credited Haley Williams and Josh Farrow as co-writers.
+  Last episode ended with Nirvana knocking Michael Jackson off the charts. Part 13 picks up the pattern that follows: the underground doesn't stay underground, it becomes the mainstream and then splinters into something new. I trace the line from DC hardcore and **Fugazi** through to a specific, concrete example: Olivia Rodrigo's "Good For You" sounded so much like Paramore's ["Misery Business"](https://en.wikipedia.org/wiki/Misery_Business) that her team retroactively credited Haley Williams and Josh Farrow as co-writers.
 
   I work through how **Riot Grrrl** took punk's DIY energy and turned it into a feminist statement, how the internet democratized who gets to make and hear music, and why Woodstock '99 reads to me like the death knell of one specific kind of rock energy, even if you can still feel it at a hardcore show today.
 

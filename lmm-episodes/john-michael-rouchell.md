@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Latin rhythms in New Orleans music"
 
 hostNote: |
-  **John Michael Rouchell** is from New Orleans, has worked with G-Eazy, Avery*Sunshine, and Galactic, and composed the music for Disney’s *Tiana’s Bayou Adventure*, the reimagined ride that replaced Splash Mountain at Disneyland. "It was daunting because everybody knows Splash Mountain. Everybody loves Splash Mountain. Everybody has their opinion about Splash Mountain. And generally speaking, people don’t like change."
+  **John Michael Rouchell** is from New Orleans, has worked with G-Eazy, Avery*Sunshine, and Galactic, and composed the music for Disney’s [*Tiana’s Bayou Adventure*](https://en.wikipedia.org/wiki/Tiana%27s_Bayou_Adventure), the reimagined ride that replaced Splash Mountain at Disneyland. "It was daunting because everybody knows Splash Mountain. Everybody loves Splash Mountain. Everybody has their opinion about Splash Mountain. And generally speaking, people don’t like change."
   
   That tension, honoring a source while making it yours, connects his New Orleans roots to the Disney commission. We get into what actually makes New Orleans music sound the way it does (the emphasis "on the ‘and’ after four"), the mixing-pot history that produced it, and what he means when he says music has to reflect "the place and space that it’s being created in." The broader argument is about roots as a working resource, not just a legacy.
 

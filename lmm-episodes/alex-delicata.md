@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Cycling, running, and showing up every day"
 
 hostNote: |
-  Alex comes at songwriting the way a long-distance runner comes at training: show up, let the good idea come second. He walks through how a session actually starts, not with brilliance, but with a guitar riff, and why the second idea of the day reliably beats the first. His credits (Beyoncé’s "Daddy Lessons," Kygo & OneRepublic’s "Lose Somebody," Rihanna’s "California King Bed") came out of fundamentally different writing rooms, and he unpacks what changes when the genre changes.
+  Alex comes at songwriting the way a long-distance runner comes at training: show up, let the good idea come second. He walks through how a session actually starts, not with brilliance, but with a guitar riff, and why the second idea of the day reliably beats the first. His credits (Beyoncé’s ["Daddy Lessons"](https://en.wikipedia.org/wiki/Daddy_Lessons), Kygo & OneRepublic’s ["Lose Somebody"](https://en.wikipedia.org/wiki/Lose_Somebody), Rihanna’s ["California King Bed"](https://en.wikipedia.org/wiki/California_King_Bed)) came out of fundamentally different writing rooms, and he unpacks what changes when the genre changes.
   
   We cover the tension between craft and creativity (two separate skill sets that have to co-exist), how collaboration roles shift when you’re writing for pop vs. hip-hop, and why getting an EDM producer who says "here, put a vocal on it" is actually a gift, the constraint is the prompt.
 

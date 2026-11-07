@@ -34,7 +34,7 @@ topicsDiscussed:
 hostNote: |
   Harley Flanagan doesn't tell punk history from a safe distance, he **grew up inside it** (clubs since he was a baby, aunt's band opening for the Dictators, CBGB before it was a museum). The conversation is blunt about what hardcore actually was: nastier, more abrasive, full of runaways and street kids: and also full of people performing toughness they didn't live.
   
-  We get rare lyric context on Cro-Mags classics written as teenagers, his claim that early punk was **more fashion show than revolution** (fight me if you weren't there), and why he skipped metal as fantasy while later realizing plenty of hardcore was cosplay too. The episode doubles as a window into *Wired for Chaos*, the documentary companion to his memoir: and why bootleg tapes mattered when nothing was digital.
+  We get rare lyric context on Cro-Mags classics written as teenagers, his claim that early punk was **more fashion show than revolution** (fight me if you weren't there), and why he skipped metal as fantasy while later realizing plenty of hardcore was cosplay too. The episode doubles as a window into [*Wired for Chaos*](https://en.wikipedia.org/wiki/Harley_Flanagan:_Wired_for_Chaos), the documentary companion to his memoir: and why bootleg tapes mattered when nothing was digital.
 
 selectedMoments:
   - label: "Always around musicians, no spark moment"

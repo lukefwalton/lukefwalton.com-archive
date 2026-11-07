@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Live performance versus studio sessions"
 
 hostNote: |
-  The title is Chains of Influence, and it names what this conversation is about: how **David Baron**'s years of production experience and **Ginger Winn**'s newer voice as an artist fed into each other while they made the album *Stop Motion*, released in June 2024. David's credits include The Lumineers, Shawn Mendes, and Matt Maeson; a co-writer's email is what put him and Ginger in the same room in the first place.
+  The title is Chains of Influence, and it names what this conversation is about: how **David Baron**'s years of production experience and **Ginger Winn**'s newer voice as an artist fed into each other while they made the album [*Stop Motion*](https://gingerwinn.bandcamp.com/album/stop-motion), released in June 2024. David's credits include The Lumineers, Shawn Mendes, and Matt Maeson; a co-writer's email is what put him and Ginger in the same room in the first place.
 
   We get into Ginger's first tour, alongside the Gypsy Kings, and how performing live differs from anything a studio session prepares you for. David explains why he records for the energy in the room rather than just the notes on the page, and Ginger talks about how isolation shaped the songs that became *Stop Motion*.
 

@@ -31,7 +31,7 @@ topicsDiscussed:
   - "Chicago"
 
 hostNote: |
-  **TOMMASO** (Tommaso Veronesi) is a Chicago songwriter, producer, and drummer. Scoobert collab on **While Away**. Same orbit: he produced **Chan Fuze** singles **This Is Not Cool** and **Methadone Nights** (2023); Walton mixed both. We have mixed together and hung out in the city. The episode title is his session habit: **go-to fills and patterns**. We start where his production ear comes from. He barely had theory; he had drums, and he thought in **energy** (how the song moves forward) long before he had other instruments.
+  **TOMMASO** (Tommaso Veronesi) is a Chicago songwriter, producer, and drummer. Scoobert collab on [**While Away**](https://lukefwalton.com/songs/while-away/). Same orbit: he produced [**Chan Fuze**](https://lukefwalton.com/with/chan-fuze/) singles [**This Is Not Cool**](https://lukefwalton.com/songs/this-is-not-cool/) and [**Methadone Nights**](https://lukefwalton.com/songs/methadone-nights/) (2023); Walton mixed both. We have mixed together and hung out in the city. The episode title is his session habit: **go-to fills and patterns**. We start where his production ear comes from. He barely had theory; he had drums, and he thought in **energy** (how the song moves forward) long before he had other instruments.
 
   We talk **Ringo-y** fills that stay simple on purpose, muscle memory as teaching ("a hundred times is really like nothing"), and a hot take that puts **Meg White** next to Ringo: the drummer who is the song without winning a rudiment contest. After years of weekend gigs he moved back to Chicago and started producing again; the solo project exists as a no-compromise lane. Identity lagged the work: singer, drummer, songwriter, producer. Now he can just say producer and musician.
 
@@ -89,7 +89,7 @@ faq:
   - question: "Why does TOMMASO think drummers make good producers?"
     answer: "He came in from the kit with almost no theory. What he had was a say in the energy: how the song moves forward, how the kick and snare sit, how a fill should be the simplest thing that still feels like the best fill. Groove and dynamics were the production ear before other instruments arrived."
   - question: "How is TOMMASO connected to Scoobert Doobert?"
-    answer: "They are Chicago friends who have mixed and collaborated, including While Away (TOMMASO × Scoobert Doobert), and two 2023 Chan Fuze singles Veronesi produced and Walton mixed (This Is Not Cool, Methadone Nights). The interview is that relationship on tape, not a first meeting. The week before, the solo episode To Be like Water, Take a Nap pointed at this conversation from the drummer's chair."
+    answer: "They are Chicago friends who have mixed and collaborated, including [While Away](/songs/while-away/) (TOMMASO × Scoobert Doobert), and two 2023 [Chan Fuze](/with/chan-fuze/) singles Veronesi produced and Walton mixed ([This Is Not Cool](/songs/this-is-not-cool/), [Methadone Nights](/songs/methadone-nights/)). The interview is that relationship on tape, not a first meeting. The week before, the solo episode [To Be like Water, Take a Nap](/love-music-more/episodes/to-be-like-water-take-a-nap/) pointed at this conversation from the drummer's chair."
 
 transcriptPublished: true
 

@@ -28,7 +28,7 @@ topicsDiscussed:
   - "Music production"
 
 hostNote: |
-  Snapping between quasi-real-world environments in an instant is going to feel otherworldly. That's what drew me into Dolby Atmos, not the spec sheet, but what it opens up creatively. The idea that a guitar can start behind you and emerge into the left speaker, that a sound can literally fly over your head like an insect, means you're no longer thinking in two channels.
+  Snapping between quasi-real-world environments in an instant is going to feel otherworldly. That's what drew me into [Dolby Atmos](https://en.wikipedia.org/wiki/Dolby_Atmos), not the spec sheet, but what it opens up creatively. The idea that a guitar can start behind you and emerge into the left speaker, that a sound can literally fly over your head like an insect, means you're no longer thinking in two channels.
   
   I explain the basic re-conceptualization at the core of spatial audio: instead of routing to specific speakers, you place sound in object-based 3D space, and the renderer decides where it lands depending on what the listener has. That changes how you think about panning from a routing decision into something closer to staging.
   

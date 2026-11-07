@@ -32,7 +32,7 @@ hostNote: |
   
   The through-line is **static notes**. Keep a pedal in the bass and let the other voices move: pop's oldest trick, and the same simple means that make **Radiohead** and Coldplay sound complex on guitar. **The Beatles** get complexity out of white-key simplicity. I compare it to speaking Japanese and then reading the transcription back: the ear first, the spelling later.
   
-  Then I drop into the low end, where the **harmonic series** starts to rub. Mixing is choosing which partials come out; a spectrometer does not replace taste, but it shows why **JAWS** hits as tension and why dense voicings get brutal below a certain register. The point is not prettier chords. It is fulfilling the intuition so the song you wished existed can exist.
+  Then I drop into the low end, where the **harmonic series** starts to rub. Mixing is choosing which partials come out; a spectrometer does not replace taste, but it shows why **[JAWS](https://en.wikipedia.org/wiki/Jaws_%28film%29)** hits as tension and why dense voicings get brutal below a certain register. The point is not prettier chords. It is fulfilling the intuition so the song you wished existed can exist.
 
 selectedMoments:
   - label: "C major as tone cleanser"

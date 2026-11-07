@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Mixing"
 
 hostNote: |
-  **Son Lux** does something most producers don't: they treat the sound design layer and the production layer as the same decision, not consecutive ones. Their Oscar nomination for *Everything Everywhere All At Once* brought mainstream attention, but the approach is what makes the music last.
+  **Son Lux** does something most producers don't: they treat the sound design layer and the production layer as the same decision, not consecutive ones. Their Oscar nomination for [*Everything Everywhere All At Once*](https://www.imdb.com/title/tt6710474/) brought mainstream attention, but the approach is what makes the music last.
   
   I dig into how they source percussion from physical manipulation (organic low-end instead of a kick drum), what binaural recording opens up when you run it into computational tools, and why the blend of analog richness and digital processing is where the most interesting territory is right now.
 

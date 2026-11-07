@@ -33,7 +33,7 @@ topicsDiscussed:
   - "Classical and orchestral music"
 
 hostNote: |
-  **Dominic Fallacaro** won a Grammy in 2015 for Best Children's Album, received an Emmy nomination for his 2019 Macy's Thanksgiving Day Parade composition, and is the Musical Director for *& Juliet* on Broadway, the show that turns Max Martin's catalog into a live theater experience. He's also placed work on *In the Heights*, *Tick Tick Boom*, and Sesame Street.
+  **Dominic Fallacaro** won a Grammy in 2015 for Best Children's Album, received an Emmy nomination for his 2019 Macy's Thanksgiving Day Parade composition, and is the Musical Director for [*&amp; Juliet*](https://en.wikipedia.org/wiki/%26_Juliet) on Broadway, the show that turns Max Martin's catalog into a live theater experience. He's also placed work on [*In the Heights*](https://www.imdb.com/title/tt1321510/), [*Tick Tick Boom*](https://www.imdb.com/title/tt8721424/), and Sesame Street.
   
   The episode moves through all of it: the specific challenge of writing for children ("a double-edged sword... one of the few kinds of music that will remain timeless"), how the Max Martin catalog demands a "best idea wins" approach ("If we're going to go close to the source material let's go all the way"), and what he's most direct about, setting up vocalists. "The biggest thing is really setting up your vocalist for success... how are you going to get the performance that you want?" That question is the job, whatever room he's in.
 

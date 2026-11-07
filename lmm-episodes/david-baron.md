@@ -32,7 +32,7 @@ topicsDiscussed:
   - "Analog"
 
 hostNote: |
-  **David Baron** produces and writes with Noah Kahan, Lana Del Rey, Lenny Kravitz, The Lumineers, Shawn Mendes, and Matt Maeson, among others. **Ginger Winn** is the singer-songwriter he made **Stop Motion** with, released June 2024. This conversation is about that album and how the two of them actually worked together.
+  **David Baron** produces and writes with Noah Kahan, Lana Del Rey, Lenny Kravitz, The Lumineers, Shawn Mendes, and Matt Maeson, among others. **Ginger Winn** is the singer-songwriter he made **[Stop Motion](https://gingerwinn.bandcamp.com/album/stop-motion)** with, released June 2024. This conversation is about that album and how the two of them actually worked together.
 
   We get into what balancing preparation with spontaneity looks like in the room, and where Ginger's South Carolina upbringing shows up in her songwriting. David talks about the artists he sees early in their careers, "pretty green," still figuring it out, and what changes with training and time; Ginger talks about pulling songs out of personal struggle rather than around it.
 

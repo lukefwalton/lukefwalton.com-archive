@@ -27,9 +27,9 @@ topicsDiscussed:
   - "AM-to-FM to TikTok as medium shifts"
 
 hostNote: |
-  **MTV** launched in 1981 and turned musicians into astronauts overnight. I get into what changed the moment music had to work as television too, not just radio, the same kind of shift you can trace through AM mono to FM stereo, and now through TikTok.
+  **[MTV](https://en.wikipedia.org/wiki/MTV)** launched in 1981 and turned musicians into astronauts overnight. I get into what changed the moment music had to work as television too, not just radio, the same kind of shift you can trace through AM mono to FM stereo, and now through TikTok.
 
-  **Michael Jackson** is the test case: a fourteen-minute music video that basically told every other artist no one was going to beat this. I trace how that raised the stakes for image and performance across the whole decade, and I stop on Weird Al, who I think of as an OG YouTuber, decades before there was a YouTube to be one on.
+  **Michael Jackson** is the test case: a [fourteen-minute music video](https://en.wikipedia.org/wiki/Michael_Jackson%27s_Thriller_%28music_video%29) that basically told every other artist no one was going to beat this. I trace how that raised the stakes for image and performance across the whole decade, and I stop on Weird Al, who I think of as an OG YouTuber, decades before there was a YouTube to be one on.
 
   The episode is really about how a new medium doesn't just carry music, it rewrites what a musician has to be to survive in it.
 

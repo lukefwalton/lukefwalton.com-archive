@@ -26,7 +26,7 @@ topicsDiscussed:
   - "Constraints as a way through writer's block"
 
 hostNote: |
-  Writer's block isn't a mystery, everyone gets it, except apparently John Mellencamp. The question is whether you go through the wall, around it, or dig under it. Brian Eno and Peter Schmidt's answer was a deck of cards subtitled "over 100 worthwhile dilemmas."
+  Writer's block isn't a mystery, everyone gets it, except apparently John Mellencamp. The question is whether you go through the wall, around it, or dig under it. Brian Eno and Peter Schmidt's answer was [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies), a deck of cards subtitled "over 100 worthwhile dilemmas."
   
   I unpack why constraints work as a creative catalyst: when a prompt forces you sideways, you stop defending your original idea and start following something new. The oblique move isn't avoidance, it's a deliberate reframe that gets you back to making instead of stalling. That includes using AI as a prompt-generator rather than an answer-machine.
   

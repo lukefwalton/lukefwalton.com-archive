@@ -34,7 +34,7 @@ topicsDiscussed:
 hostNote: |
   Aaron Comess moved to New York knowing he needed to be in a city that would eat him alive if he wasn’t serious, and it worked. He studied under **Bernard Purdy** (who corrected more than just his hi-hat technique), played every gig he could find, and ended up in the **Spin Doctors** by being in the right room at the New School.
   
-  The conversation moves through how relentless live performance shaped the band’s sound, not polished in the wrong direction, to recording "Two Princes" as an inflection point, and why "if you sound incredible in practice, that’s probably not a good sign." Comess has a drummer’s view of songwriting: the pocket is a function of the *relationship* between instruments, not any one player’s perfection.
+  The conversation moves through how relentless live performance shaped the band’s sound, not polished in the wrong direction, to recording ["Two Princes"](https://en.wikipedia.org/wiki/Two_Princes) as an inflection point, and why "if you sound incredible in practice, that’s probably not a good sign." Comess has a drummer’s view of songwriting: the pocket is a function of the *relationship* between instruments, not any one player’s perfection.
 
 selectedMoments:
   - label: "Childhood musical education"

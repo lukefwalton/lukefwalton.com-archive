@@ -29,7 +29,7 @@ topicsDiscussed:
   - "DIY music videos"
 
 hostNote: |
-  **Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation, which looped her back to bass, her debut album **Airship**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.
+  **Dana Roth** is an SF animator, bassist, composer, and producer whose groove shows up in visuals and sound alike. She graduated **Berklee** in 2020 straight into the pandemic, burned out on music for a minute, and taught herself animation, which looped her back to bass, her debut album **[Airship](https://danaroth.bandcamp.com/album/airship)**, and a practice where rhythm in picture and rhythm in the pocket keep feeding each other.
   
   We talk through learning animation vs. music school, the chaos of making your own music videos, trusting collaborators to let you be yourself on bass, and why putting a soundtrack on something makes the whole thing feel more magical.
 

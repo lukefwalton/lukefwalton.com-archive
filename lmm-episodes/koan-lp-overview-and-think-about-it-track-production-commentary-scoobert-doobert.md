@@ -32,9 +32,9 @@ topicsDiscussed:
 hostNote: |
   A kōan is a Zen question designed to be both true and false at the same time, things that are and aren't simultaneously, meant to bring you closer to enlightenment. That's the conceptual spine of this record: happy and sad at the same time, writing songs about two things at once.
   
-  I walk through the opening track "Think About It" as a production case study, because contrast is the greatest musical tool there is. Organic vs. inorganic sounds, heavy themes against light textures, synthesizers pulling you into a space that feels immersive rather than decorative. The familiarity bias is real, the more you get to know a piece of music, the more you like it, so the goal of the EPs leading up to the full LP was to build that familiarity before the whole thing lands.
+  I walk through the opening track ["Think About It"](https://lukefwalton.com/songs/think-about-it/) as a production case study, because contrast is the greatest musical tool there is. Organic vs. inorganic sounds, heavy themes against light textures, synthesizers pulling you into a space that feels immersive rather than decorative. The familiarity bias is real, the more you get to know a piece of music, the more you like it, so the goal of the EPs leading up to the full LP was to build that familiarity before the whole thing lands.
   
-  By the end you understand the intent behind *KŌAN*: not a concept album in the prog sense, but a record that holds contradictions without resolving them.
+  By the end you understand the intent behind [*KŌAN*](https://lukefwalton.com/albums/koan/): not a concept album in the prog sense, but a record that holds contradictions without resolving them.
 
 selectedMoments:
   - label: "Introduction to Kōan"
@@ -72,9 +72,9 @@ excerptQuotes:
 
 faq:
   - question: "What is KōAN by Scoobert Doobert?"
-    answer: "KōAN is an upcoming LP that explores philosophical concepts and contrasts through music, intended to evoke deeper connections with listeners."
+    answer: "[KōAN](/albums/koan/) is an upcoming LP that explores philosophical concepts and contrasts through music, intended to evoke deeper connections with listeners."
   - question: 'What is the song "Think About It" about?'
-    answer: '"Think About It" introduces the themes of the *KŌAN* album, showcasing contrasts in sound and emotions, aimed at prompting reflection.'
+    answer: '["Think About It"](/songs/think-about-it/) introduces the themes of the [*KŌAN*](/albums/koan/) album, showcasing contrasts in sound and emotions, aimed at prompting reflection.'
   - question: "How does Scoobert Doobert create his music?"
     answer: "Scoobert uses a combination of organic and inorganic sounds, contrasting elements, and thoughtful production techniques to craft his songs."
 

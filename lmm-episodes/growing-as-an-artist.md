@@ -30,7 +30,7 @@ topicsDiscussed:
 hostNote: |
   "The personal is universal." It's a phrase I keep returning to, and the idea that if I'm fearless enough to tell a specific, personal story, there are universal truths in there for anyone listening.
   
-  Fresh off releasing *Moonlight Beach*, I'm thinking about what it means to make music that's bigger, not louder or more produced, but deeper. Phil's point from our conversation keeps nagging at me: it's not about changing the snare drum, it's about the source. The closer you get to growing as a human, the better the output gets, regardless of gear.
+  Fresh off releasing [*Moonlight Beach*](https://lukefwalton.com/albums/moonlight-beach/), I'm thinking about what it means to make music that's bigger, not louder or more produced, but deeper. [Phil](https://lukefwalton.com/love-music-more/episodes/phillip-broussard-jr/)'s point from our conversation keeps nagging at me: it's not about changing the snare drum, it's about the source. The closer you get to growing as a human, the better the output gets, regardless of gear.
   
   This is me thinking out loud about wanting to make music that reaches more people while being less afraid to be kitschy, cringy, or raw, and why those two things might not be in conflict.
 

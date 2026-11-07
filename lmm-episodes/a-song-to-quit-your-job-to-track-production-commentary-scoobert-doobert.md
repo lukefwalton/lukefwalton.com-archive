@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Music theory"
 
 hostNote: |
-  "It makes it feel like I can defend it", that's the line that captures what this production commentary is actually about. Not technical perfection, but knowing why you made each choice so you can stand behind it.
+  "It makes it feel like I can defend it", that's the line from ["a song to quit your job to"](https://lukefwalton.com/songs/a-song-to-quit-your-job-to/) that captures what this production commentary is actually about. Not technical perfection, but knowing why you made each choice so you can stand behind it.
   
   I walk through the actual stems: what a mellotron does to the texture, how I'm treating pitch as something malleable rather than fixed, why the bass needed to propel without breaking the chill, and what opened up when a new guitar pedal gave me different compositional angles I hadn't expected. Vocal harmonies went through Melodyne to get an artificial, in-the-box quality, something I kept as another layer of texture rather than tried to hide.
   

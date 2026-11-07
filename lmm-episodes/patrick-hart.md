@@ -30,7 +30,7 @@ topicsDiscussed:
   - "Music theory"
 
 hostNote: |
-  **Patrick Hart** is a composer who has scored more than ten feature films, including ESPN's 30 for 30 documentaries *The U*, *Broke*, and *The U Part 2*, and HBO's *537 Votes*, alongside commercial work for McDonald's, Microsoft, Best Buy, Google, and Nike. He holds a master's in composition from McGill and started with piano lessons as a kid, the kind of beginning he says he mostly moved through without overthinking it.
+  **Patrick Hart** is a composer who has scored more than ten feature films, including ESPN's 30 for 30 documentaries [*The U*](https://en.wikipedia.org/wiki/The_U_%28film%29), *Broke*, and *The U Part 2*, and HBO's *537 Votes*, alongside commercial work for McDonald's, Microsoft, Best Buy, Google, and Nike. He holds a master's in composition from McGill and started with piano lessons as a kid, the kind of beginning he says he mostly moved through without overthinking it.
 
   We trace his path from a first film score in college through advertising and into video game composition, where he now uses game engines like Unreal to build music that's interactive rather than fixed. He's blunt about the job's economics ("the number one goal is just to make stuff, make money, but also make money") and about where he lands on AI: a tool alongside the belief that everyone should be making music, rhythm or none.
 

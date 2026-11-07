@@ -29,7 +29,7 @@ topicsDiscussed:
   - "Death"
 
 hostNote: |
-  If you know any amount of guitar and try to play the *Back in Black* title track, it's going to sound wrong. That's not because the riff is complicated: it's because the feel is harder to nail than it looks, and feel is the whole record. That's what I'm trying to get at here.
+  If you know any amount of guitar and try to play the [*Back in Black*](https://en.wikipedia.org/wiki/Back_in_Black) title track, it's going to sound wrong. That's not because the riff is complicated: it's because the feel is harder to nail than it looks, and feel is the whole record. That's what I'm trying to get at here.
   
   *Back in Black* outsold *Abbey Road* two to one. It's the number one rock album of all time, number two behind only *Thriller* overall: and it's so much a part of the air that the scale of it is easy to miss. I get into the guitar and drum technique specifically, and then into the emotional weight underneath the party sound: this is a tribute to Bon Scott, and that gives the whole record a gravity a pure stadium-rock album wouldn't have.
   
