@@ -25,6 +25,7 @@ New record
 </section>
 <section>
 Selected history
+<p>FEiN Times is the band's own release series and zine. <a href="../../albums/fein-times-issue-1.html">Issue #1</a> and <a href="../../albums/fein-times-issue-2.html">Issue #2</a> are the early EPs. <a href="../../albums/little-homes-fein.html#liner-credits">Issue #3</a> is the eight-page liner that shipped with <em>Little Homes</em>.</p>
 <p>Start with these three releases.</p>
 <p>Three 2016 bills from promoter and photographer posts.</p>
 </section>
