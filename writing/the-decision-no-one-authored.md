@@ -85,7 +85,7 @@ sources rather than against model agreement. The author is answerable for the fi
 
 [**The Captured Oracle**](/writing/the-captured-oracle/) — the live demonstration on the verdict channel ([DOI](https://doi.org/10.5281/zenodo.20676327) · [PhilArchive](https://philpapers.org/rec/WALTCO-87) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936679) · [lukefwalton.com](https://lukefwalton.com/writing/the-captured-oracle/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
-[**Pay Me What You Owe Me**](/writing/pay-me-what-you-owe-me/) — the general structure ([DOI](https://doi.org/10.5281/zenodo.23112498) · [lukefwalton.com](https://lukefwalton.com/writing/pay-me-what-you-owe-me/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**Pay Me What You Owe Me**](/writing/pay-me-what-you-owe-me/) — the general structure ([DOI](https://doi.org/10.5281/zenodo.24115264) · [lukefwalton.com](https://lukefwalton.com/writing/pay-me-what-you-owe-me/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Technical implementation
 

@@ -5,10 +5,10 @@
   "canonicalSite": "https://lukefwalton.com",
   "servedAt": "https://lukefwalton.github.io/lukefwalton.com-archive",
   "doi": "10.5281/zenodo.20683155",
-  "generatedAt": "2026-11-07",
+  "generatedAt": "2026-11-10",
   "source": {
     "repo": "lukefwalton/lukefwalton.com",
-    "commit": "e9bfe909113162c7ac9e1e98880c6aa4b6610a74"
+    "commit": "5030448850943fd8e84af23b8bba51a7808f7ff6"
   },
   "total": 835,
   "counts": {
@@ -34,7 +34,7 @@
     "metadataOnly": 53,
     "excluded": 0,
     "missing": 0,
-    "bytes": 204612193
+    "bytes": 204613123
   },
   "linkPolicy": "Links to archived records and copied assets are relative; links to anything not in this archive point at the canonical site.",
   "catalog": "catalog.json",

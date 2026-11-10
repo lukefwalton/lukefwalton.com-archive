@@ -7,7 +7,7 @@ authorName: "Luke F. Walton"
 authorAffiliation: "Independent Researcher"
 orcid: "0009-0005-9263-1954"
 date: 2026-07-01
-status: "Preprint. Not yet peer-reviewed."
+status: "Preprint. Accepted at AI and Ethics, November 2026. Not yet published."
 canonical: "https://lukefwalton.com/writing/the-captured-oracle/"
 pdf: "https://lukefwalton.com/writing/the-captured-oracle.pdf"
 record: "https://philpapers.org/rec/WALTCO-87"
@@ -88,7 +88,7 @@ bibtex: |
 
 [**The Decision No One Authored**](/writing/the-decision-no-one-authored/) — the special case ([DOI](https://doi.org/10.5281/zenodo.20614374) · [PhilArchive](https://philpapers.org/rec/WALTDN) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936618) · [lukefwalton.com](https://lukefwalton.com/writing/the-decision-no-one-authored/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
-[**Pay Me What You Owe Me**](/writing/pay-me-what-you-owe-me/) — the general structure ([DOI](https://doi.org/10.5281/zenodo.23112498) · [lukefwalton.com](https://lukefwalton.com/writing/pay-me-what-you-owe-me/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+[**Pay Me What You Owe Me**](/writing/pay-me-what-you-owe-me/) — the general structure ([DOI](https://doi.org/10.5281/zenodo.24115264) · [lukefwalton.com](https://lukefwalton.com/writing/pay-me-what-you-owe-me/) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
 
 ## Technical implementation
 
