@@ -1,7 +1,7 @@
 ---
 title: "wannagetaway"
 
-meaning: "Makeup over no sleep, cameras on the door and the dash, a Friday car crash with the receipts, then gone: falling in the sea, somewhere far away."
+meaning: "Luke wrote this while burnt out, reading about Flock Safety, and dealing with an inflammatory condition. He was dreaming about travel, while confined to the couch, uncomfortable with how much we're all watched on a daily basis in the United States."
 
 year: 2026
 release: "wannagetaway"
@@ -15,69 +15,42 @@ image: "/photos/covers/wannagetaway.jpg"
 imageAlt: "Cover for wannagetaway. A blue rolling suitcase with the handle up, on a green field inside a brown frame, SCOOBERT DOOBERT across the top and WANNAGETAWAY across the bottom."
 imageCredit: "Artwork by Grizzard Graphics."
 
-themes: ["Anxiety", "escape", "surveillance", "US", "2026"]
+themes: ["Anxiety", "surveillance", "escape", "Flock Safety", "US", "2026"]
 
 isrc: QTA2T2698897
 lyrics: |
-  When I wake
-  Putting on my makeup
+  When I wake up, putting on my makeup
   Gotta make up for my lack of sleep
-  I'm heavy
-  Unsteady
+  I'm heavy, unsteady
 
-  When I lock up
-  Camera on doorknob
-  Camera on my dash
-  For safety
+  When I lock up, camera on my door
+  Got camera on my dash
+  And camera on my stop for safety
   Surround me
 
-  Do you wanna get away?
+  Do you wanna get away
   Wanna run away
   I wanna be falling in the sea
-  No
-  I don't wanna wait
+  No, I don't wanna wait
   Not another day
-  I'm gonna get
-  Gone gone gone gone gone gone gone
 
-  I'm gonna get
-  Somewhere far away
+  I'm gonna get gone, gone, gone, gone
+  Gone, gone, gone
+  I'm gonna get somewhere far away
 
-  So go
-  (Go)
-  Go
-  (Go)
-  So go
-  (Go)
-  Go
-  (Go)
-  So go
-  (Go)
-  Go
-  (Go)
-  So go
-  (Go)
-  Go
-  (Go)
-  Yeah why don't we go
-  Why don't we go
-  Why don't we go
+  So go, go
+  So go, go
+  So go, go
+  So go, go
+  And why don't we go, why don't we go, why don't we go
 
-  The body's loud
-  The mind is quiet
-  Probably cuz I won't let you inside it
-  Give you like a portion
-  Try to find it
-  Walk a little weird
-  Then I can't hide it
+  The body's loud, the mind is quiet
+  Probably cause I won't let you inside it
+  Give you like a portion, try to find it
+  Walk a little weird, then I can't hide it
 
-  Bandaid
-  Neck brace
-  Car crash
-  Friday
-  You're late
-  Sorry
-
+  Band-aid, neck brace, car crash Friday
+  "You're late" sorry
   At least I made it in today
   I feel great
   My injuries
@@ -86,60 +59,47 @@ lyrics: |
   I'm watching you
   You're watching me
   I'm watching you
-  You're watching me me me
+  You're watching me, me, me
 
-  Do you wanna get away?
+  Do you wanna get away
   Wanna run away
   I wanna be falling in the sea
-  No
-  I don't wanna wait
+  No, I don't wanna wait
   Not another day
-  I'm gonna get
-  Gone gone gone gone gone gone gone
+  I'm gonna get gone, gone, gone
+  Gone, gone, gone
+  Gone, I'm gonna get somewhere far away
 
-  I'm gonna get
-  Somewhere far away
+  So go, go
+  Yeah, why don't we go, go
+  Yeah, I think I'm gonna go
 
-  So go
-  (Go)
-  Go
-  (Go)
-  So go
-  (Go)
-  Yeah I think I'm gonna go
-
-  Wanna get away?
+  Wanna get away
   Wanna run away
   I wanna be falling in the sea
-  No
-  I don't wanna wait
+  No, I don't wanna wait
   Not another day
-  I'm gonna get
-  Gone gone gone
+  I'm gonna get gone, gone, gone
 
-  Do you wanna get away?
+  Wanna get away
   Wanna run away
-  I wanna be falling in the sea
-  No
-  I don't wanna wait
+  I wanna be falling in the scene
+  No, I don't wanna wait
   Not another day
-  I'm gonna get
-  Gone gone gone
 
-  Do you wanna get away?
+  I'm gonna get gone, gone, gone
+  Do you wanna get away
   Wanna run away
-  I'm gonna get
-  Gone gone gone
+  I'm gonna get gone, gone, gone
 
-  Do you wanna get away?
+  Do you wanna get away
   Wanna run away
-  I'm gonna get
-  Gone gone gone
+  I'm gonna get gone, gone, gone
+  Do you wanna get away
 
-  Do you wanna get away?
   Wanna run away
-  I'm gonna get
-  Gone gone gone gone
+  I'm gonna get gone, gone, gone
+  Gone, gone, gone, gone
 draft: false
 ---
 

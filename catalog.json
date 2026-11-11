@@ -51829,7 +51829,7 @@
     "source": "src/content/songs/wannagetaway.md",
     "metadata": {
       "title": "wannagetaway",
-      "meaning": "Makeup over no sleep, cameras on the door and the dash, a Friday car crash with the receipts, then gone: falling in the sea, somewhere far away.",
+      "meaning": "Luke wrote this while burnt out, reading about Flock Safety, and dealing with an inflammatory condition. He was dreaming about travel, while confined to the couch, uncomfortable with how much we're all watched on a daily basis in the United States.",
       "year": 2026,
       "release": "wannagetaway",
       "releaseType": "single",
@@ -51841,13 +51841,14 @@
       "imageCredit": "Artwork by Grizzard Graphics.",
       "themes": [
         "Anxiety",
-        "escape",
         "surveillance",
+        "escape",
+        "Flock Safety",
         "US",
         "2026"
       ],
       "isrc": "QTA2T2698897",
-      "lyrics": "When I wake\nPutting on my makeup\nGotta make up for my lack of sleep\nI'm heavy\nUnsteady\n\nWhen I lock up\nCamera on doorknob\nCamera on my dash\nFor safety\nSurround me\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone gone gone gone gone\n\nI'm gonna get\nSomewhere far away\n\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nGo\n(Go)\nYeah why don't we go\nWhy don't we go\nWhy don't we go\n\nThe body's loud\nThe mind is quiet\nProbably cuz I won't let you inside it\nGive you like a portion\nTry to find it\nWalk a little weird\nThen I can't hide it\n\nBandaid\nNeck brace\nCar crash\nFriday\nYou're late\nSorry\n\nAt least I made it in today\nI feel great\nMy injuries\nThey got receipts\n\nI'm watching you\nYou're watching me\nI'm watching you\nYou're watching me me me\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone gone gone gone gone\n\nI'm gonna get\nSomewhere far away\n\nSo go\n(Go)\nGo\n(Go)\nSo go\n(Go)\nYeah I think I'm gonna go\n\nWanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI wanna be falling in the sea\nNo\nI don't wanna wait\nNot another day\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone\n\nDo you wanna get away?\nWanna run away\nI'm gonna get\nGone gone gone gone\n",
+      "lyrics": "When I wake up, putting on my makeup\nGotta make up for my lack of sleep\nI'm heavy, unsteady\n\nWhen I lock up, camera on my door\nGot camera on my dash\nAnd camera on my stop for safety\nSurround me\n\nDo you wanna get away\nWanna run away\nI wanna be falling in the sea\nNo, I don't wanna wait\nNot another day\n\nI'm gonna get gone, gone, gone, gone\nGone, gone, gone\nI'm gonna get somewhere far away\n\nSo go, go\nSo go, go\nSo go, go\nSo go, go\nAnd why don't we go, why don't we go, why don't we go\n\nThe body's loud, the mind is quiet\nProbably cause I won't let you inside it\nGive you like a portion, try to find it\nWalk a little weird, then I can't hide it\n\nBand-aid, neck brace, car crash Friday\n\"You're late\" sorry\nAt least I made it in today\nI feel great\nMy injuries\nThey got receipts\n\nI'm watching you\nYou're watching me\nI'm watching you\nYou're watching me, me, me\n\nDo you wanna get away\nWanna run away\nI wanna be falling in the sea\nNo, I don't wanna wait\nNot another day\nI'm gonna get gone, gone, gone\nGone, gone, gone\nGone, I'm gonna get somewhere far away\n\nSo go, go\nYeah, why don't we go, go\nYeah, I think I'm gonna go\n\nWanna get away\nWanna run away\nI wanna be falling in the sea\nNo, I don't wanna wait\nNot another day\nI'm gonna get gone, gone, gone\n\nWanna get away\nWanna run away\nI wanna be falling in the scene\nNo, I don't wanna wait\nNot another day\n\nI'm gonna get gone, gone, gone\nDo you wanna get away\nWanna run away\nI'm gonna get gone, gone, gone\n\nDo you wanna get away\nWanna run away\nI'm gonna get gone, gone, gone\nDo you wanna get away\n\nWanna run away\nI'm gonna get gone, gone, gone\nGone, gone, gone, gone\n",
       "draft": false
     }
   },
@@ -53255,7 +53256,7 @@
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
       "date": "2026-07-01",
-      "status": "Preprint. Accepted at AI and Ethics, November 2026. Not yet published.",
+      "status": "Accepted at AI and Ethics, November 2026. Not yet published; the preprint remains the citable text.",
       "canonical": "https://lukefwalton.com/writing/the-captured-oracle/",
       "pdf": "https://lukefwalton.com/writing/the-captured-oracle.pdf",
       "record": "https://philpapers.org/rec/WALTCO-87",
@@ -53401,46 +53402,48 @@
     "metadata": {
       "type": "paper",
       "title": "The Seduction of Elegance",
-      "subtitle": "Shared Mathematics and the Parts of the World",
-      "description": "Usefulness does not hand us correspondence, and correspondence does not hand us the inventory.",
+      "subtitle": "Representational Convergence and the Parts of the World",
+      "description": "The comparison has to keep the respect in which the parts could differ. One must not mistake local success for an ontological one.",
       "authorName": "Luke F. Walton",
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
-      "date": "2026-10-24",
-      "version": "1.0",
+      "date": "2026-11-11",
+      "version": "2.1",
       "status": "Preprint. Not yet peer-reviewed.",
       "canonical": "https://lukefwalton.com/writing/the-seduction-of-elegance/",
       "pdf": "https://lukefwalton.com/writing/the-seduction-of-elegance.pdf",
-      "record": "https://doi.org/10.5281/zenodo.23628076",
+      "record": "https://doi.org/10.5281/zenodo.24128218",
       "venue": "Zenodo",
-      "doi": "10.5281/zenodo.23628076",
+      "doi": "10.5281/zenodo.24128218",
       "license": "CC BY-NC-ND 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "sameAs": [
-        "https://doi.org/10.5281/zenodo.23628076",
+        "https://doi.org/10.5281/zenodo.24128218",
         "https://doi.org/10.5281/zenodo.23628075",
         "https://philpapers.org/rec/WALTSO-80",
-        "https://zenodo.org/records/23628076",
+        "https://zenodo.org/records/24128218",
         "https://lukefwalton.com/writing/the-seduction-of-elegance/"
       ],
       "keywords": [
-        "Philosophy",
-        "AI",
         "mereology",
+        "representational convergence",
+        "robustness analysis",
+        "discriminant validity",
         "quantum mereology",
-        "robustness",
-        "emergence"
+        "sparse autoencoders",
+        "AI",
+        "Philosophy"
       ],
-      "abstract": "ML and AI systems are often large and hard to interpret, yet useful. It is easy — perhaps even seductive — to confuse structure for the parts, especially when structure is found through an opaque training process. A black hole, defined by its boundary, invites a similar seduction. Its entropy is proportional to that surface's area, an exact relation without an inventory of what fell in. Physics cuts space into subsystems. Biology too names its parts. Many fields score what the parts contribute with one mathematics of mereology. Despite these futuristic topics, the study of parts and wholes is as old as philosophy itself. Plato's Statesman considers the name \"barbarian,\" and from it the expectation of one kind. But sharing scores is not equivalent to finding the same parts. Even independent methods can produce an epistemically empty agreement when the representation used to compare them erases the differences at issue. The mathematics agrees because each field handed it an order. A structure or mathematics can be useful, or match a division the system has, or be the inventory. One does not automatically describe another. Wimsatt counted it false or misleading to take the entities a powerful decomposition yields as all that matters. Indeed, usefulness does not hand us correspondence. Correspondence does not hand us the inventory. Agreeing on a quantity of the whole is agreeing about the whole. This paper argues against seduction in mereology, which has legitimate promise in many fields. One must not mistake local success for an ontological one.\n",
-      "summary": "Fields that study parts often share one mathematics for what those parts contribute. Agreement in that score is agreement about the order each field handed the mathematics. A structure can be useful, can match a division the system has, or can be the inventory, and one of those does not hand you the next.\n",
+      "abstract": "It is easy — perhaps even seductive — to confuse structure for the parts, especially when structure is found through an opaque training process. Huh and colleagues hypothesize that neural networks are converging on a shared statistical model of reality, and name the hypothesis for Plato. Gröger and colleagues find that convergence survives one comparison and largely disappears under another, and name what survives for Aristotle. Robustness is the test, from Levins and Wimsatt, and on Schupbach's account it rules out rivals to an agreement. As stated it leaves one standing: that the comparison would have agreed had the parts differed. The comparison must keep the respect in which the parts could differ, a requirement apart from independence and not supplied by exactness. Two exact cases, on a rotated representation and on two qubits, and work on language-model features show it at work. Plato himself wrote of a Stranger, who noticed that one name could make unrelated peoples seem to be one kind, and shared mathematics invites the same inference, though it agrees because each field handed it an order. An agreement can show less than it appears to, and a disagreement, in a comparison that invents no difference, can show more. A claim that two procedures found the same parts should name the respect and come with a case, differing in that respect alone, which the comparison would have told apart. Exactness is not rightness, and it is not the opposite. One must not mistake local success for an ontological one.\n",
+      "summary": "Neural networks are said to be converging on one model of reality, and that convergence depends on which comparison is used. The comparison has to keep the respect in which the parts could have differed. One must not mistake local success for an ontological one.\n",
       "coreClaim": "One must not mistake local success for an ontological one.\n",
       "citeWhen": [
         "You are treating a shared score for parts as evidence that two fields found the same parts.",
         "You need the distinction among usefulness, correspondence, and the inventory.",
-        "You want the Zenodo record for this preprint (v1.0, 24 October 2026)."
+        "You want the Zenodo record for this preprint (v2.1, November 11, 2026)."
       ],
       "contactEmail": "luke@lukefwalton.com",
-      "bibtex": "@misc{walton2026seduction,\n  author       = {Walton, Luke F.},\n  title        = {The Seduction of Elegance: Shared Mathematics and the Parts of the World},\n  year         = {2026},\n  month        = oct,\n  howpublished = {Zenodo},\n  note         = {Preprint, version 1.0},\n  doi          = {10.5281/zenodo.23628076},\n  url          = {https://doi.org/10.5281/zenodo.23628076}\n}\n"
+      "bibtex": "@misc{walton2026seduction,\n  author       = {Walton, Luke F.},\n  title        = {The Seduction of Elegance: Representational Convergence and the Parts of the World},\n  year         = {2026},\n  month        = nov,\n  howpublished = {Zenodo},\n  note         = {Preprint, version 2.1},\n  doi          = {10.5281/zenodo.24128218},\n  url          = {https://doi.org/10.5281/zenodo.24128218}\n}\n"
     }
   }
 ]

@@ -7,7 +7,7 @@ authorName: "Luke F. Walton"
 authorAffiliation: "Independent Researcher"
 orcid: "0009-0005-9263-1954"
 date: 2026-07-01
-status: "Preprint. Accepted at AI and Ethics, November 2026. Not yet published."
+status: "Accepted at AI and Ethics, November 2026. Not yet published; the preprint remains the citable text."
 canonical: "https://lukefwalton.com/writing/the-captured-oracle/"
 pdf: "https://lukefwalton.com/writing/the-captured-oracle.pdf"
 record: "https://philpapers.org/rec/WALTCO-87"
