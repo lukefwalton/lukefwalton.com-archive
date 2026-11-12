@@ -7,7 +7,7 @@ authorName: "Luke F. Walton"
 authorAffiliation: "Independent Researcher"
 orcid: "0009-0005-9263-1954"
 date: 2026-07-01
-status: "Accepted at AI and Ethics, November 2026. Not yet published; the preprint remains the citable text."
+status: "Accepted at AI and Ethics, November 2026, having passed journal peer review. Not yet published. The July 2026 preprint remains a preprint."
 canonical: "https://lukefwalton.com/writing/the-captured-oracle/"
 pdf: "https://lukefwalton.com/writing/the-captured-oracle.pdf"
 record: "https://philpapers.org/rec/WALTCO-87"
@@ -49,7 +49,7 @@ summary: >
   Answer-engine optimization shapes what answer engines say, not which sources they list. Ask one
   a contested question and it may return not sources but a verdict in its own voice, with no
   visible author. An optimizer authors that verdict while the engine voices it as its own; the
-  wrong on the verdict channel is false assurance. This preprint traces it along the agency axis
+  wrong on the verdict channel is false assurance. The paper traces it along the agency axis
   from the answer end to AI agents that act in a user’s place, and argues the remedy is
   answerable legibility — a visible owner of the frame the engine voices.
 coreClaim: >
