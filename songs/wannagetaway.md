@@ -107,6 +107,8 @@ draft: false
 
 Two tracks on the single: this one (ISRC **QTA2T2698897**) and [*wannagetaway (Instrumental)*](/songs/wannagetaway-instrumental/) (ISRC **QTA2T2698898**). Store links are not on this page yet.
 
+A Spotify for Artists card captured **November 14, 2026** shows **wannagetaway** added to **Indie Brandneu** (178,117 followers). The card does not print a send time. See [Catalog: official playlists](/catalog/#spotify-editorial).
+
 See [US](/albums/us/) · [Catalog](/catalog/).
 
 ---

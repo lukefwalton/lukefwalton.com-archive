@@ -3638,6 +3638,28 @@
     ]
   },
   {
+    "path": "/evidence/spotify-editorial/wannagetaway-indie-brandneu-2026-11-14.png",
+    "archive": "evidence/spotify-editorial/wannagetaway-indie-brandneu-2026-11-14.png",
+    "canonicalUrl": "https://lukefwalton.com/evidence/spotify-editorial/wannagetaway-indie-brandneu-2026-11-14.png",
+    "sourcePath": "public/evidence/spotify-editorial/wannagetaway-indie-brandneu-2026-11-14.png",
+    "bytes": 410249,
+    "sha256": "8a2fb4e3639b4d294cd98961e8af1f4d734495f1b07212ab84bf8ec535af542e",
+    "mediaType": "image/png",
+    "width": 718,
+    "height": 1024,
+    "rights": "third-party",
+    "archivePolicy": "include-as-evidence",
+    "basis": "path",
+    "reason": "Public-internet capture retained as documentary evidence; copyright stays with the source.",
+    "credit": "Spotify editorial playlist capture",
+    "title": "Scoobert Doobert: wannagetaway (2026)",
+    "registry": "spotify-editorial",
+    "referencedBy": [
+      "registry:spotify-editorial",
+      "source:src/lib/spotify-editorial-traces.ts"
+    ]
+  },
+  {
     "path": "/evidence/spotify-editorial/watercolor-sky-indie-brandneu-2024-03-02.png",
     "archive": "evidence/spotify-editorial/watercolor-sky-indie-brandneu-2024-03-02.png",
     "canonicalUrl": "https://lukefwalton.com/evidence/spotify-editorial/watercolor-sky-indie-brandneu-2024-03-02.png",
