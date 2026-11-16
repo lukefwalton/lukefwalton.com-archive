@@ -131,6 +131,8 @@ The leading theory. A sentence that calls him son, or that shows the 1805 George
 
 The original instrument of 20 October 1805. If it says “my son,” that is the sentence. If it says agent, the power of attorney stays agency.
 
+Reel 39, the original 1759 bond. It would show how the clerk wrote George Walton, Margaret Tabb, and the sureties.
+
 Image 61, the right-hand page. A June note described an inventory there. The frame has not been opened.
 
 Not pages 262 and 263. Those are Elizabeth Palmore. Find the letters, or record that they are not in this book.
