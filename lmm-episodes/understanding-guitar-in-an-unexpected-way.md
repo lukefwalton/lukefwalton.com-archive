@@ -29,7 +29,7 @@ topicsDiscussed:
 hostNote: |
   I can take a guitar part somewhere else without changing the tone. I only change how I hit it. A pick is loud. Fingers are quiet, and there is a lot between those two. Palm muting is the same decision: a big open chord, the AC/DC kind, or that chord choked so the strings stop ringing on their own. That is why I will never fully master the instrument. There are too many sounds. I was a better, more technical guitarist right after college. I am a more interesting one now, because I treat the guitar the way I treat a mix. I decide fast, and I try to stay out of my own head. The earlier case for the instrument is [The Beautiful Electric Guitar](https://lukefwalton.com/love-music-more/episodes/the-beautiful-electric-guitar/).
 
-  One string is closer to a voice. Jumping strings shifts the register. Staying on one string lets the line flow up and down, the way a vocal cord does. I am not good at slide, so I emulate that slide on the guitar I can actually play. Same move with the oud. Working with [Tamtam](https://lukefwalton.com/with/tamtam/), I was around people who played it, and I wanted the microtonality: the places between the notes, and the way you get from one to the next, not only the blue notes. I cannot play the oud. I can drip the octatonic scale in and out as spice without reinventing how I see the notes. Inside the blues and rock solos I already know, I can channel a little Radiohead: color notes between the notes that feel like home. The pentatonic is home. Five notes, hard to wreck, and easy to move, including into the "wrong" key if I am clever, if I follow my ear, or if I get a happy mistake. [Part-writing](https://lukefwalton.com/love-music-more/episodes/part-writing-turning-notes-and-chords-into-music/) is the longer version of turning those notes into a line.
+  One string is closer to a voice. Jumping strings shifts the register. Staying on one string lets the line flow up and down, the way a vocal cord does. I am not good at slide, so I emulate that slide on the guitar I can actually play. Same move with [the oud](https://en.wikipedia.org/wiki/Oud). Working with [Tamtam](https://lukefwalton.com/with/tamtam/), I was around people who played it, and I wanted the microtonality: the places between the notes, and the way you get from one to the next, not only the blue notes. I cannot play the oud. I can drip the octatonic scale in and out as spice without reinventing how I see the notes. Inside the blues and rock solos I already know, I can channel a little Radiohead: color notes between the notes that feel like home. The pentatonic is home. Five notes, hard to wreck, and easy to move, including into the "wrong" key if I am clever, if I follow my ear, or if I get a happy mistake. [Part-writing](https://lukefwalton.com/love-music-more/episodes/part-writing-turning-notes-and-chords-into-music/) is the longer version of turning those notes into a line.
 
   CAGED is the cheat. I move the same chord shape up the neck and the shape comes back, so changing key is a matter of where the shape sits. Knowing the shape and knowing the notes is better than either one. I can play the same thing up in whole steps, barely move my hands, and get a rise that still sits on a lot of music. The tuning is the quirk. Unlike a violin, the intervals stay even and then they jump, so some scales are easier on a violin and some shapes are easier here. Two notes, a dyad, with downstrokes can point backward. One little triangle of a shape takes me to classic rock, to "Here Comes the Sun." I have learned a thousand songs that use it. The D shape runs through songs from The Who to the Beatles, whether or not the listener knows that. The pentatonic is the expectation, which is why it is the place I leave from. A lot of the jazz I like does bluesy things in an unexpected way.
 
@@ -50,7 +50,7 @@ selectedMoments:
     note: "I stay on one string so the line flows like a vocal cord. I am not good at slide, so I emulate it."
   - label: "Places between the notes"
     startSec: 252.91
-    note: "Around Tamtam I heard the oud. I cannot play it, so I try to get that microtonality on guitar."
+    note: "Around Tamtam I heard [the oud](https://en.wikipedia.org/wiki/Oud). I cannot play it, so I try to get that microtonality on guitar."
   - label: "Move the shape"
     startSec: 398.51
     note: "CAGED lets me drag one chord shape up the neck. The shape repeats, and the key changes."
@@ -77,7 +77,7 @@ excerptQuotes:
   - text: "When you play with one string, it's a little bit more akin to a vocal cord. It is flowing up and down."
     startSec: 222.17
     reviewed: true
-  - text: "Obviously, I can't play that really cool instrument, but I would want to emulate the ways that, microtonality, the places in between notes and the ways that you get from one note to the next."
+  - text: "Obviously, I can't play that really cool instrument, [the oud](https://en.wikipedia.org/wiki/Oud), but I would want to emulate the ways that, microtonality, the places in between notes and the ways that you get from one note to the next."
     startSec: 252.91
     reviewed: true
   - text: "So there's a system called the caged system that essentially you can move the same, you know, chord up and down the neck and it tends to repeat the shape that you see."
