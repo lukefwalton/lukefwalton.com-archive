@@ -53745,8 +53745,7 @@
     "canonicalUrl": "https://lukefwalton.com/writing/the-captured-oracle/",
     "archive": {
       "markdown": "writing/the-captured-oracle.md",
-      "html": "writing/the-captured-oracle.html",
-      "pdf": "writing/the-captured-oracle.pdf"
+      "html": "writing/the-captured-oracle.html"
     },
     "source": "src/content/writing/the-captured-oracle.md",
     "metadata": {
@@ -53758,20 +53757,15 @@
       "authorAffiliation": "Independent Researcher",
       "orcid": "0009-0005-9263-1954",
       "date": "2026-07-01",
-      "status": "Accepted after peer review by Springer Nature’s AI and Ethics, November 2026. Not yet published. The July 2026 preprint remains a preprint. The preprint DOI is the citable record. A journal DOI is assigned and not yet live.",
+      "status": "Published after peer review in Springer Nature’s AI and Ethics, November 2026 (volume 6, article 665). The journal article is the version of record; the July 2026 preprint is an earlier version.",
       "canonical": "https://lukefwalton.com/writing/the-captured-oracle/",
-      "pdf": "https://lukefwalton.com/writing/the-captured-oracle.pdf",
-      "record": "https://philpapers.org/rec/WALTCO-87",
-      "venue": "PhilArchive",
-      "doi": "10.5281/zenodo.20676327",
-      "license": "CC BY-NC-ND 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "record": "https://link.springer.com/article/10.1007/s43681-026-01532-2",
+      "venue": "AI and Ethics",
+      "doi": "10.1007/s43681-026-01532-2",
       "sameAs": [
-        "https://philpapers.org/rec/WALTCO-87",
-        "https://doi.org/10.5281/zenodo.20676327",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6936679",
-        "https://lukefwalton.com/writing/the-captured-oracle/",
-        "https://zenodo.org/records/20676327"
+        "https://doi.org/10.1007/s43681-026-01532-2",
+        "https://link.springer.com/article/10.1007/s43681-026-01532-2",
+        "https://lukefwalton.com/writing/the-captured-oracle/"
       ],
       "keywords": [
         "answer-engine optimization",
@@ -53781,7 +53775,7 @@
         "online manipulation",
         "accountability"
       ],
-      "abstract": "Answer-engine optimization shapes what answer engines say, not which sources they list. Ask one a contested question and it may return not sources but a verdict in its own voice, with no visible author. An optimizer authors that verdict while the engine voices it as its own; a public acts on it, the framer unreachable. That is the wrong on the verdict channel; its form is false assurance: the appearance of an answerable party behind a frame whose author is hidden or absent. The reply that it is only a tool concedes rather than settles: a tool that settles a frame settles someone’s, and that someone the channel conceals, leaving the non-authoring user the only party in view. The wrong is not exhausted by falsity, concealment, or machine origin: a verdict may be accurate, disclosed, and cited, while frame-ownership stays illegible. It runs along one axis: the agency of whoever executes the frame. At the answer end a person acts on another’s covert frame: the hidden author stays answerable, the user partly excused. At the action end an AI agent executes it in the user’s place, and the case turns new: a covertly authored frame joined to an executor that cannot answer, which inherited categories cannot hold. The deed’s answer finds no bearer where it is done; the deployer stays answerable for loosing it. The remedy is answerable legibility: not disclosure of sources, prompts, models, or origin, but a visible owner of the frame the engine voices.\n",
+      "abstract": "Answer-engine optimization is SEO for large language models. Ask an answer engine a question with a contested answer and it may return a verdict—composed in the engine’s own voice, sources nested in the answer—with no visible author. An optimizer can constitute the frame the engine voices as its own. A public acts on these verdicts with no author reachable: that is the wrong at the answer end. That the engine is only a tool leaves the case standing: where a verdict has been captured, the frame it voices is someone’s, whom the channel conceals, leaving the user the only party in view. An interested frame voiced as impartial synthesis is the wrong’s sharpest form: it survives accuracy and disclosure. Given such a frame, what varies is one thing: the agency of whoever executes it. At the answer end a person acts on a verdict whose frame was hidden; the hidden author must answer. At the action end an AI agent acts in their place: the executor cannot answer, and what remains is the deployer’s choice to make a tool an actor. The remedy is answerable legibility: a frame someone owns and stands behind. The disclosure that would secure it must make legible not the sources cited or the process that produced the text, but who owns the evaluative frame the engine voices.",
       "summary": "Answer-engine optimization shapes what answer engines say, not which sources they list. Ask one a contested question and it may return not sources but a verdict in its own voice, with no visible author. An optimizer authors that verdict while the engine voices it as its own; the wrong on the verdict channel is false assurance. The paper traces it along the agency axis from the answer end to AI agents that act in a user’s place, and argues the remedy is answerable legibility — a visible owner of the frame the engine voices.\n",
       "coreClaim": "When an answer engine settles a contested question in its own voice with no visible author, the wrong is false assurance — the appearance that someone answerable stands behind a frame whose author is hidden — and the remedy is answerable legibility.\n",
       "citeWhen": [
@@ -53791,7 +53785,7 @@
         "You want the Zenodo record for this paper (July 2026)."
       ],
       "contactEmail": "luke@lukefwalton.com",
-      "bibtex": "@misc{walton2026capturedoracle,\n  author       = {Walton, Luke F.},\n  title        = {The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization},\n  year         = {2026},\n  month        = jul,\n  publisher    = {Zenodo},\n  doi          = {10.5281/zenodo.20676327},\n  url          = {https://philpapers.org/rec/WALTCO-87}\n}\n"
+      "bibtex": "@article{walton2026capturedoracle,\n  author       = {Walton, Luke F.},\n  title        = {The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization},\n  journal      = {AI and Ethics},\n  year         = {2026},\n  volume       = {6},\n  pages        = {665},\n  doi          = {10.1007/s43681-026-01532-2},\n  url          = {https://doi.org/10.1007/s43681-026-01532-2}\n}\n"
     }
   },
   {
