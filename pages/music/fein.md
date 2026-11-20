@@ -63,7 +63,7 @@ Press &amp; mentions
 <p>Not to be confused with</p>
 <p>FEiN is Luke Walton and Brandon Woodward, not Travis Scott's "FE!N" (2023, UTOPIA), not a federal employer ID number (FEIN), not Sinn Féin, and not NBA coach Luke Walton (University of Arizona). <a href="../faq.html">FAQ</a> · <a href="../catalog.html#fein">Full catalog</a></p>
 Elsewhere
-<p><a href="https://feintimes.com/">feintimes.com</a>· <a href="https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW">Spotify</a>· <a href="https://www.youtube.com/@FEiNband">YouTube</a>· <a href="https://musicbrainz.org/artist/386b5a6a-86f0-4a29-83e4-447056fa6196">MusicBrainz</a>· <a href="https://lukefwalton.com/interviews/">Interviews</a>· <a href="../press.html#interviews">Press</a></p>
+<p><a href="https://feintimes.com/">feintimes.com</a>· <a href="https://open.spotify.com/artist/4LJfnGBABdrlnlVpiM2qvW">Spotify</a>· <a href="https://www.youtube.com/@FEiNband">YouTube</a>· <a href="https://musicbrainz.org/artist/386b5a6a-86f0-4a29-83e4-447056fa6196">MusicBrainz</a>· <a href="https://lukefwalton.com/interviews/">Interviews</a>· <a href="../press/music.html#interviews">Press</a></p>
 
 ## Record
 

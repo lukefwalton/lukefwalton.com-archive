@@ -51,6 +51,6 @@ Distro: **Beformer**. No lyrics published here (cover).
 
 **Circulation:** Shazam lists **20,384 Shazams** on **angeleyes (feat. Lou Roy)** (release **August 12, 2022**, label **Beformer**; songwriters **Benny Andersson, Björn Ulvaeus, Stig Anderson** on public metadata). [BIRP!](https://www.birp.fm/playlist/2022/september-2022/) listed the track in its **September 2022** Indie Playlist. [SecondHandSongs](https://secondhandsongs.com/performance/Scoobert%20Doobert/angeleyes) places the recording in the ABBA **Angeleyes** cover lineage. On **October 5, 2026**, Spotify showed **1,668,101** plays, **3:54**. The count moves.
 
-See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/#radio-playlists) · [With Lou Roy](/with/lou-roy/) · [Catalog: collaborations](/catalog/#collaborations)
+See [Catalog: radio, playlists, retail, and public-space rotation](/catalog/#radio-playlists) · [Press](/press/music/#radio-playlists) · [With Lou Roy](/with/lou-roy/) · [Catalog: collaborations](/catalog/#collaborations)
 
 ---

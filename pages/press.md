@@ -2,9 +2,10 @@
 title: Press and credits
 url: https://lukefwalton.com/press/
 recordKind: surface
-source: src/pages/press.astro
+source: src/pages/press/index.astro
 derivedFrom:
   - ask-the-archive/src/lib/legibility-records.ts
+  - src/lib/press-coverage.ts
 recordIds:
   - page:press
   - legibility:press-awards
@@ -20,60 +21,37 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 <a href="home.html">Luke F. Walton</a>
 <h3>Press</h3>
-<p>This is what has been written about Luke F. Walton and Scoobert Doobert: interviews, commercial placements, production credits, and press coverage. A selection is below; radio and playlist logs and the full credit list follow further down.</p>
-<ul>
-<li>He produced <a href="../songs/chai-dareka-oru-yaro.html">「だれかおるやろ feat. CHAI」</a>, the theme for <a href="https://en.wikipedia.org/wiki/Shingo_Murakami">Shingo Murakami</a>’s series on NTT Docomo’s Lemino. Murakami sings and raps it as TAKATSU-KING. Walton mixed the song and played drums, bass, and guitar. The series premiered in April 2023. The song was never released on CD or streaming.</li>
-<li><a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a> covered KOMAGOME's "WE CAN'T DOLL," which he produced and co-composed with MANA and KANA of CHAI.</li>
-<li><a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI's Indie Spotlight</a> profiled FEiN, the alternative-pop duo he formed with Brandon Woodward at USC.</li>
-<li>Max Horwich wrote a chapter on Scoobert Doobert for <a href="../publications/masks-monsters-and-memes.html">Critical Meme Reader</a>, a 2021 academic volume.</li>
-<li>egoFM's ego 42 chart put "Don't Worry" at #1 on the Munich station's weekly chart in May 2021.</li>
-<li><a href="https://www.91x.com/top-91/top-91-2021/">91X's Top 91 of 2021</a> ranked "Don't Worry" #90.</li>
-<li>Sound &amp; Recording Magazine profiled his studio work, in Japan's recording and production magazine.</li>
-<li><a href="https://pitchfork.com/news/chai-announce-new-remix-ep-share-confidence-man-remix-listen/">Pitchfork</a>'s <em>WINK TOGETHER</em> announcement lists his "Miracle" remix on the tracklist.</li>
-</ul>
+<p>This is what has been written about Luke F. Walton and Scoobert Doobert: interviews, commercial placements, production credits, and press coverage.</p>
 <section>
-<h4>Interviews</h4>
-<p>These are interviews and features with Luke F. Walton, Scoobert Doobert, and FEiN. <a href="https://lukefwalton.com/interviews/">Interviews</a> keeps a transcript when the original page is gone. Academic work is under <a href="research.html">Research</a>.</p>
+<h4>Technology</h4>
+<dl>
+<dt>About Luke</dt>
+<dt>Appearances</dt>
+<dd>Talks and panels</dd>
+</dl>
 </section>
 <section>
-<h4>Commercials and TV</h4>
-<p>Films, TV shows, and commercials that used the music. Each name links to the source. The same list, in plain sentences, is on Music.</p>
+<h4>Writing and research</h4>
+<dl>
+<dt>About Luke</dt>
+<dd><em>Critical Meme Reader</em> (2021): the chapter, its citations and reviews</dd>
+<dt>By Luke</dt>
+<dd><a href="research.html">Research</a>·<a href="https://lukefwalton.com/writing/">Writing</a></dd>
+</dl>
 </section>
 <section>
-<h4>Radio and playlists</h4>
-<p>Radio plays, store playlists, and Shazam counts. These are not chart positions. A line with no public link comes from the artist dashboard. The full log is on the catalog.</p>
-<h5>Radio logged in the artist dashboard</h5>
-<h5>Stations with a public page</h5>
-<h5>Radio shows and mixes</h5>
-<p>Podcasts and syndicated radio shows that published a tracklist. These are not Spotify playlists.</p>
-<p>Sources: Apple Podcasts tracklist · Deep House Cat show.</p>
-<h5>Live sessions and compilations</h5>
-<p>Sessions and compilations other people recorded, with a public video or a distributor page.</p>
-<p>Sources: .</p>
-<p>Sources: BIRP! September 2022 · SecondHandSongs.</p>
+<h4>Music</h4>
+<dl>
+<dt>About Luke</dt>
+<dd>Selected press:</dd>
+<dt>Appearances</dt>
+<dd>Interviews</dd>
+<dt>By Luke</dt>
+<dd><a href="https://lukefwalton.com/writing/#trade">Music trade writing</a></dd>
+<dt>Logs and credits</dt>
+</dl>
 </section>
-<section>
-<h4>Spotify playlists</h4>
-<p>Official Spotify playlists that added a song. The record is the post or the email from the day it happened, because playlist pages change. The full list is on the catalog.</p>
-<h5>Playlist adds posted by Beformer</h5>
-<p>Beformer posted many of these adds on Facebook at the time. Those posts are the record when Spotify no longer shows the old playlist.</p>
-</section>
-<section>
-<p>Shows that a festival page, an event report, or a concert database lists on its own. The November 2024 Japan trip is on <a href="../lmm-episodes/just-back-from-playing-solo-plus-tracks-in-japan.html">Love Music More</a>. More history is on Songkick, DoSD, and Soundcharts. The full list is on the catalog.</p>
-<h5>Selected live appearances</h5>
-<h5>Full live history</h5>
-</section>
-<section>
-<h4>Selected press</h4>
-</section>
-<section>
-<h4>Selected credits</h4>
-<h5><a href="with/j-mesa.html#collaborations">Collaborations: J MESA</a></h5>
-<h5><a href="with/j-mesa.html#production">Mixing / production clients: J MESA</a></h5>
-</section>
-<section>
-<p>Competitions and nominations in his name, or for a band he was in. Awards that belong to a film or a series are on those credit pages. The same list is on the catalog.</p>
-</section>
+<p><a href="press-kit.html">Press kit</a>·<a href="book.html">Book Luke</a></p>
 
 ## Record
 

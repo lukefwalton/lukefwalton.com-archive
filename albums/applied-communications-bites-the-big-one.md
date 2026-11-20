@@ -45,6 +45,6 @@ The same post thanks @barnonerecords for help putting the record out, @terrorbir
 
 Luke did not write these lyrics: **mixing credit only** (not produce).
 
-Listen: [Bandcamp](https://applcomm.bandcamp.com/album/applied-communications-bites-the-big-one). [With applied communications](/with/applied-communications/) · [Catalog](/catalog/#applied-communications) · [Press](/press/#press)
+Listen: [Bandcamp](https://applcomm.bandcamp.com/album/applied-communications-bites-the-big-one). [With applied communications](/with/applied-communications/) · [Catalog](/catalog/#applied-communications) · [Press](/press/music/#press)
 
 ---

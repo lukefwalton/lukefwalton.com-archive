@@ -33468,6 +33468,35 @@
   },
   {
     "collection": "pages",
+    "slug": "book",
+    "title": "Book Luke F. Walton",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/book/",
+    "canonicalUrl": "https://lukefwalton.com/book/",
+    "archive": {
+      "markdown": "pages/book.md",
+      "html": "pages/book.html"
+    },
+    "source": "src/pages/book.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/booking.ts",
+      "src/lib/cv.ts",
+      "src/lib/speaking-engagements.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:book"
+      ],
+      "themes": [
+        "Speaking",
+        "Surmado"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "brand-kit",
     "title": "Brand kit",
     "type": "WebPage",
@@ -34037,9 +34066,10 @@
       "markdown": "pages/press.md",
       "html": "pages/press.html"
     },
-    "source": "src/pages/press.astro",
+    "source": "src/pages/press/index.astro",
     "derivedFrom": [
-      "ask-the-archive/src/lib/legibility-records.ts"
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/press-coverage.ts"
     ],
     "metadata": {
       "recordIds": [
@@ -34133,6 +34163,91 @@
   },
   {
     "collection": "pages",
+    "slug": "press/music",
+    "title": "Music press: Luke F. Walton",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/press/music/",
+    "canonicalUrl": "https://lukefwalton.com/press/music/",
+    "archive": {
+      "markdown": "pages/press/music.md",
+      "html": "pages/press/music.html"
+    },
+    "source": "src/pages/press/music.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/press-coverage.ts",
+      "src/lib/press-credits.ts",
+      "src/lib/interviews.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:press/music"
+      ],
+      "themes": [
+        "Press",
+        "Songwriting"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "press/technology",
+    "title": "Technology press: Luke F. Walton",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/press/technology/",
+    "canonicalUrl": "https://lukefwalton.com/press/technology/",
+    "archive": {
+      "markdown": "pages/press/technology.md",
+      "html": "pages/press/technology.html"
+    },
+    "source": "src/pages/press/technology.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/press-coverage.ts",
+      "src/lib/booking.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:press/technology"
+      ],
+      "themes": [
+        "Technology",
+        "Surmado"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "press/writing",
+    "title": "Writing and research press: Luke F. Walton",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/press/writing/",
+    "canonicalUrl": "https://lukefwalton.com/press/writing/",
+    "archive": {
+      "markdown": "pages/press/writing.md",
+      "html": "pages/press/writing.html"
+    },
+    "source": "src/pages/press/writing.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/press-coverage.ts",
+      "src/lib/meme-chapter.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:press/writing"
+      ],
+      "themes": [
+        "Research",
+        "scoobertdoobert.pizza"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
     "slug": "research",
     "title": "Research",
     "type": "WebPage",
@@ -34159,6 +34274,33 @@
         "Answer Engine",
         "authorship",
         "Philosophy"
+      ]
+    }
+  },
+  {
+    "collection": "pages",
+    "slug": "technology",
+    "title": "Technology: Luke F. Walton",
+    "type": "WebPage",
+    "recordKind": "surface",
+    "liveUrl": "https://lukefwalton.com/technology/",
+    "canonicalUrl": "https://lukefwalton.com/technology/",
+    "archive": {
+      "markdown": "pages/technology.md",
+      "html": "pages/technology.html"
+    },
+    "source": "src/pages/technology.astro",
+    "derivedFrom": [
+      "ask-the-archive/src/lib/legibility-records.ts",
+      "src/lib/apps.ts"
+    ],
+    "metadata": {
+      "recordIds": [
+        "page:technology"
+      ],
+      "themes": [
+        "Technology",
+        "Surmado"
       ]
     }
   },

@@ -23,6 +23,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 Listen
 <p><a href="https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn">Spotify</a>·<a href="https://music.apple.com/us/artist/scoobert-doobert/1240946356">Apple Music</a>·Bandcamp·<a href="catalog.html">Catalog</a>·<a href="https://lukefwalton.com/songs/">Song meanings</a></p>
 </section>
+<p>Listen on Spotify: <a href="https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn">Scoobert Doobert</a>·FEiN·<a href="https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h"><em>Love Music More</em></a></p>
 Music Biography
 <p>Luke F. Walton has been commercially releasing music since 2007. His most notable works are released as <a href="music/fein.html">FEiN</a> or <a href="music/scoobert-doobert.html">Scoobert Doobert</a>. FEiN, his duo with Brandon Woodward, started in 2014. Scoobert Doobert began in 2017. In 2014 and 2015 he played guitar for <a href="with/lara-johnston.html">Lara Johnston</a> on tours supporting <a href="with/the-doobie-brothers.html">The Doobie Brothers</a> and <a href="with/gregg-allman.html">Gregg Allman</a>.</p>
 <p>On February 13, 2016, FEiN's “<a href="../songs/grownupz.html">#Grownupz</a>” hit #4 on Spotify's US Viral 50. Their subsequent 2016 album, <a href="../albums/little-homes-fein.html"><em>Little Homes</em></a>, earned a <a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI Indie Spotlight</a>. And the follow-up single “<a href="../songs/loved.html">LOVED</a>” has more than 9 million Spotify streams. Their single “<a href="../songs/infant.html">Infant</a>” was featured on Spotify's New Music Friday on May 2, 2019. A new FEiN LP will be released in 2027, mixed by Luke F. Walton and co-produced, written, and performed by Walton and Woodward. Grammy-winning mastering engineer <a href="https://jettgalindo.com/">Jett Galindo</a> (Billie Eilish, Pink Floyd) is mastering the album.</p>
@@ -43,9 +44,10 @@ Love Music More
 Production &amp; credits
 <p>He has produced and mixed for dozens of other artists, well beyond his own catalog. Those credits are indexed on Muso.AI, IMDb, and AllMusic, and the people themselves are on the Collaborators page. .</p>
 <p><a href="with.html">Collaborators</a>·Muso.AI·<a href="https://www.imdb.com/name/nm3306688/">IMDb</a>·<a href="https://www.allmusic.com/artist/luke-francis-walton-mn0003549942">AllMusic</a></p>
+<a href="press-kit.html#selected-work">Selected work</a>
 Press
 <p>The music has picked up press in Japan and the US, from an academic chapter on internet meme culture to trade coverage of FEiN's debut album.</p>
-<p><a href="../publications/masks-monsters-and-memes.html">Horwich</a>··<a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a>·<a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI · FEiN</a>·91X studio·<a href="press.html">all press</a></p>
+<p><a href="../publications/masks-monsters-and-memes.html">Horwich</a>··<a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a>·<a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI · FEiN</a>·91X studio·<a href="press/music.html">all press</a></p>
 91X
 <p>91X is the San Diego rock station. He interned at , a San Diego label, in and , with 91X playing in the background. Years later the station played his records: <a href="../songs/moving-to-canada.html"><em>Moving To Canada</em></a> was #4 on the Loudspeaker Top 5 for September 2020, and <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on the Loudspeaker Top 5 in April 2021 and landed at #90 on the Top 91 Songs of 2021. The spin notes are on the song pages.</p>
 egoFM

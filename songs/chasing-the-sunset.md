@@ -107,7 +107,7 @@ The turn is the tarmac, tears held back and a hollow stomach, then the line that
 
 [@91xsandiego](https://www.instagram.com/p/C_b9pfFvyra/) spun it on Hilary's **Planet Nü Nü** (**Sep 1, 2024** broadcast), Instagram audio track attached; the [91x.com playlist log](https://www.91x.com/91x/planet-nu-nu-playlist-9-1-24/) confirms it.
 
-**Brand sync:** An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Getting Easier*](/songs/getting-easier/). Beformer public material documents this song in a campaign featuring Claudia Schiffer, with Mean Machine credited; a second post matches the Hailey Bieber / rhode ads. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/#sync).
+**Brand sync:** An instrumental of this song ran in **rhode** social and ads, one of two Scoobert Doobert instrumentals in that placement with [*Getting Easier*](/songs/getting-easier/). Beformer public material documents this song in a campaign featuring Claudia Schiffer, with Mean Machine credited; a second post matches the Hailey Bieber / rhode ads. See [Catalog: brand and social sync](/catalog/#brand-sync) · [Press: Sync & placements](/press/music/#sync).
 
 Spotify for Artists emails added it to **Indie Brandneu** on **August 10, 2024** (9:50 a.m., 168,360 followers) and **Indie Pop** on **August 11, 2024** (9:28 a.m., 1,685,717 followers). See also: [*I*](/albums/i/) · [Catalog](/catalog/).
 

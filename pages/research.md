@@ -35,6 +35,10 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 </section>
 </section>
 <section>
+<h4>Scholarship about the work</h4>
+<p><a href="press/writing.html">Citations and reviews of the volume</a></p>
+</section>
+<section>
 <h4>Research in practice</h4>
 <p>Two working implementations of the same program. Neither is peer-reviewed yet.</p>
 <article>
