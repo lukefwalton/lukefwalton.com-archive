@@ -6,7 +6,7 @@ outlet: 'Indie Shuffle: #Grownupz'
 publisher: Indie Shuffle
 date: 2015-12-13
 year: 2015
-tier: secondary
+tier: feature
 archiveKind: publisher-index
 draft: false
 ---

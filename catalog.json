@@ -3722,7 +3722,7 @@
       "publisher": "Fresh Beats 365",
       "date": "2017-04-12",
       "year": 2017,
-      "tier": "secondary",
+      "tier": "feature",
       "archiveKind": "publisher-index",
       "draft": false
     }
@@ -3800,7 +3800,7 @@
       "publisher": "Hype Machine",
       "date": "2015-12-16",
       "year": 2015,
-      "tier": "secondary",
+      "tier": "feature",
       "archiveKind": "publisher-index",
       "draft": false
     }
@@ -3852,7 +3852,7 @@
       "publisher": "Indie Shuffle",
       "date": "2015-12-13",
       "year": 2015,
-      "tier": "secondary",
+      "tier": "feature",
       "archiveKind": "publisher-index",
       "draft": false
     }
@@ -4058,7 +4058,7 @@
       "subject": "FEiN",
       "outlet": "I Heart Moosiq: #Grownupz Spotify U.S. Viral top 10",
       "publisher": "I Heart Moosiq",
-      "tier": "secondary",
+      "tier": "feature",
       "archiveKind": "publisher-index",
       "draft": false
     }

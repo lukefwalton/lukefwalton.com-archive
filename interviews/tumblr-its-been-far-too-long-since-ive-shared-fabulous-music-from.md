@@ -4,7 +4,7 @@ description: 'Notes that #Grownupz reached Spotify’s U.S. viral top 10.'
 subject: FEiN
 outlet: 'I Heart Moosiq: #Grownupz Spotify U.S. Viral top 10'
 publisher: I Heart Moosiq
-tier: secondary
+tier: feature
 archiveKind: publisher-index
 draft: false
 ---

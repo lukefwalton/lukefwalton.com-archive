@@ -6,7 +6,7 @@ outlet: 'Fresh Beats 365: #Grownupz MV'
 publisher: Fresh Beats 365
 date: 2017-04-12
 year: 2017
-tier: secondary
+tier: feature
 archiveKind: publisher-index
 draft: false
 ---

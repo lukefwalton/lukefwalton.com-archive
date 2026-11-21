@@ -18,7 +18,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 <a href="music.html">Music</a>
 <h3>Collaborators</h3>
-<p>Each page here documents the songs and productions Luke made with one collaborator, whether a person, artist, band, or organization, and what he did on them.</p>
+<p>Each page here documents the songs and productions Luke made with one collaborator, whether a person, artist, band, or organization, and what he did on them. Some document a different tie: a stage shared, a tour he supported, a teacher, or a critic's review. Each page says which.</p>
 <p>See also: <a href="press.html">Press &amp; credits</a> · <a href="catalog.html#production">Catalog: production</a> · <a href="catalog.html#collaborations">Catalog: collaborations</a></p>
 
 ## Record
