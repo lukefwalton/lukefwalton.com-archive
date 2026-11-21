@@ -19,55 +19,55 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <h3>Music</h3>
 <p><strong>Luke F. Walton is a multi-instrumentalist, producer, mixer, and recording engineer.</strong> <a href="music/scoobert-doobert.html">Scoobert Doobert</a> is his primary music project. He is not the NBA coach.</p>
 <section>
-Listen
+<h4>Listen</h4>
 <p><a href="https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn">Spotify</a>·<a href="https://music.apple.com/us/artist/scoobert-doobert/1240946356">Apple Music</a>·Bandcamp·<a href="catalog.html">Catalog</a>·<a href="https://lukefwalton.com/songs/">Song meanings</a></p>
 </section>
 <p>Listen on Spotify: <a href="https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn">Scoobert Doobert</a>·FEiN·<a href="https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h"><em>Love Music More</em></a></p>
-Music Biography
+<h4>Music Biography</h4>
 <p>Luke F. Walton has been commercially releasing music since 2007. His most notable works are released as <a href="music/fein.html">FEiN</a> or <a href="music/scoobert-doobert.html">Scoobert Doobert</a>. FEiN, his duo with Brandon Woodward, started in 2014. Scoobert Doobert began in 2017. In 2014 and 2015 he played guitar for <a href="with/lara-johnston.html">Lara Johnston</a> on tours supporting <a href="with/the-doobie-brothers.html">The Doobie Brothers</a> and <a href="with/gregg-allman.html">Gregg Allman</a>.</p>
 <p>On February 13, 2016, FEiN's “<a href="../songs/grownupz.html">#Grownupz</a>” hit #4 on Spotify's US Viral 50. Their subsequent 2016 album, <a href="../albums/little-homes-fein.html"><em>Little Homes</em></a>, earned a <a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI Indie Spotlight</a>. And the follow-up single “<a href="../songs/loved.html">LOVED</a>” has more than 9 million Spotify streams. Their single “<a href="../songs/infant.html">Infant</a>” was featured on Spotify's New Music Friday on May 2, 2019. A new FEiN LP will be released in 2027, mixed by Luke F. Walton and co-produced, written, and performed by Walton and Woodward. Grammy-winning mastering engineer <a href="https://jettgalindo.com/">Jett Galindo</a> (Billie Eilish, Pink Floyd) is mastering the album.</p>
 <p>For Scoobert Doobert, Walton has written, recorded, arranged, produced, and mixed more than 250 songs. His single <a href="../songs/im-an-idiot.html">“I’m an Idiot”</a> was featured on Spotify’s global New Music Friday on September 3, 2021, where MANA and KANA from the band <a href="with/chai.html">CHAI</a> discovered him. Walton speaks Japanese, and from there, developed a career working with artists in Japan.</p>
 <p>The Scoobert Doobert remix of CHAI’s <a href="../songs/miracle-scoobert-doobert-remix.html">“Miracle”</a> is on Sub Pop’s <em>WINK TOGETHER</em> (2022). That year he produced CHAI’s <a href="../songs/chai-whole.html">“WHOLE,”</a> the theme for the NHK drama <em>Koisenu Futari</em>, and sound-produced <a href="../songs/chai-yume-no-hanashi.html">“MY DREAM,”</a> the theme for the film <em>The Fish Tale</em>, along with other songs for CHAI. He also played guitar, bass, and percussion on the records. For <a href="https://en.wikipedia.org/wiki/Shingo_Murakami">Shingo Murakami</a> of SUPER EIGHT (Kanjani Eight), he produced <a href="../songs/chai-dareka-oru-yaro.html">「だれかおるやろ feat. CHAI」</a>. Murakami sings and raps on the song as TAKATSU-KING, the theme of his series on NTT Docomo’s Lemino, which premiered in April 2023.</p>
 <p>He co-wrote and co-produced <a href="../songs/bed-kare-wa.html">bed’s “Kare Wa 3.0,”</a> the opening theme for the Fuji TV drama <em>Heart Attack</em> (2025). He then mixed <a href="../albums/okame-debut.html">OKAME’s 2026 debut album</a>, MANA and KANA’s project after CHAI broke up, and their later single <a href="../songs/okame-iiwake-kikasete.html">言いわけきかせて</a>. He produced and co-composed <a href="with/komagome.html">KOMAGOME</a>’s <a href="../songs/we-cant-doll.html">“WE CAN’T DOLL”</a> with MANA and KANA, which <a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a> covered. He mixed <a href="../albums/applied-communications-bites-the-big-one.html">applied communications’ <em>applied communications bites the big one</em></a>, which <a href="https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review">Bandcamp Daily</a> named Album of the Day.</p>
 <p>He hosts <a href="love-music-more.html">Love Music More</a>, a weekly podcast and occasional newsletter on the craft, philosophy, and history of music. New episodes come out on Tuesdays. Spotify for Creators ranked it in the <a href="https://www.instagram.com/scoobertdoobert.pizza/p/DSGyz8DkaLq/">top 10% of all podcasts</a> on Spotify in 2025. Guests have included <a href="../lmm-episodes/andrew-scheps.html">Andrew Scheps</a> (Adele, U2, Hozier), <a href="../lmm-episodes/craig-bauer.html">Craig Bauer</a> (Janet Jackson, Lupe Fiasco, Destiny’s Child), and <a href="../lmm-episodes/jay-jay-french.html">Jay Jay French</a> (Twisted Sister).</p>
-Commercials and TV
+<h4>Commercials and TV</h4>
 <p>Walton's songs have been featured in the following films, TV shows, and commercials:</p>
 <p>More at Press</p>
-Scoobert Doobert
+<h4>Scoobert Doobert</h4>
 <p>Scoobert Doobert is Walton's primary music project, a project he founded and owns, with the name on his records since <a href="../songs/my-friend-scoobert.html">My Friend, Scoobert</a> (2017). The music is indie and chill pop, self-produced at his private home studio in San Diego, <a href="https://micasarecording.com/">Micasa Studios</a>, and released through <a href="https://beformer.co/">Beformer</a>, the independent label founded by Sam Friend. Scoobert Doobert is signed to it. Luke does not own it. Some releases are <a href="music/indiemono.html">Beformer × indiemono</a> co-releases: indiemono is a playlist and distribution partner. Nine studio albums are out, along with the live album <a href="../albums/live-from-the-void.html"><em>Live from the Void</em></a>. The current cycle is <a href="../albums/mobius-cycle.html">the <em>MÖBIUS</em> cycle</a>, four albums: <a href="../albums/mob.html"><em>MÖB</em></a> and <a href="../albums/i.html"><em>I</em></a> are already out, <a href="../albums/us.html"><em>US</em></a> comes out in January 2027, and the last album, <a href="../albums/mobius.html"><em>MÖBIUS</em></a>, is planned, with no date announced.</p>
 <p>Fun fact: <a href="with/max-horwich.html">Max Horwich</a> published a chapter in the Institute of Network Cultures' <a href="../publications/masks-monsters-and-memes.html"><em>Critical Meme Reader</em></a>, looking at the project from the outside, as memetic production rather than a character.</p>
 <p><a href="music/scoobert-doobert.html">Hub</a>·Site·<a href="catalog.html">Catalog</a>·<a href="https://lukefwalton.com/albums/">Albums</a>·<a href="https://lukefwalton.com/songs/">Songs</a></p>
-Love Music More
+<h4>Love Music More</h4>
 <p>Love Music More is a weekly podcast and occasional newsletter on the craft, philosophy, and history of music. New episodes come out on Tuesdays, with guests that have included the mix engineers <a href="../lmm-episodes/andrew-scheps.html">Andrew Scheps</a> and <a href="../lmm-episodes/craig-bauer.html">Craig Bauer</a>. The show's home is <a href="https://lovemusicmorepodcast.com/">lovemusicmorepodcast.com</a>; the full archive and guest index are at <a href="love-music-more.html">Love Music More</a>, and the newsletter is on <a href="https://lovemusicmore.substack.com/">Substack</a>. Sponsorship is on the <a href="https://lovemusicmorepodcast.com/sponsor/">show site</a>.</p>
 <p><a href="love-music-more.html">Hub</a>·<a href="love-music-more/guests.html">Guests</a>·<a href="https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h">Spotify</a>·<a href="https://podcasts.apple.com/us/podcast/love-music-more-with-scoobert-doobert/id1567355195">Apple Podcasts</a>·<a href="https://lovemusicmorepodcast.com/sponsor/">Sponsor</a></p>
-Production &amp; credits
+<h4>Production &amp; credits</h4>
 <p>He has produced and mixed for dozens of other artists, well beyond his own catalog. Those credits are indexed on Muso.AI, IMDb, and AllMusic, and the people themselves are on the Collaborators page. .</p>
 <p><a href="with.html">Collaborators</a>·Muso.AI·<a href="https://www.imdb.com/name/nm3306688/">IMDb</a>·<a href="https://www.allmusic.com/artist/luke-francis-walton-mn0003549942">AllMusic</a></p>
-<a href="press-kit.html#selected-work">Selected work</a>
-Press
+<h5><a href="press-kit.html#selected-work">Selected work</a></h5>
+<h4>Press</h4>
 <p>The music has picked up press in Japan and the US, from an academic chapter on internet meme culture to trade coverage of FEiN's debut album.</p>
 <p><a href="../publications/masks-monsters-and-memes.html">Horwich</a>··<a href="https://rollingstonejapan.com/articles/detail/43491">Rolling Stone Japan</a>·<a href="https://www.bmi.com/news/entry/indie_spotlight_fein">BMI · FEiN</a>·91X studio·<a href="press/music.html">all press</a></p>
-91X
+<h4>91X</h4>
 <p>91X is the San Diego rock station. He interned at , a San Diego label, in and , with 91X playing in the background. Years later the station played his records: <a href="../songs/moving-to-canada.html"><em>Moving To Canada</em></a> was #4 on the Loudspeaker Top 5 for September 2020, and <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on the Loudspeaker Top 5 in April 2021 and landed at #90 on the Top 91 Songs of 2021. The spin notes are on the song pages.</p>
-egoFM
+<h4>egoFM</h4>
 <p>egoFM is the Munich radio station. <a href="../songs/dont-worry.html"><em>Don't Worry</em></a> hit #1 on its ego 42 chart on . In September 2022 Scoobert Doobert hosted a guest hour on the station.</p>
-Interviews
+<h4>Interviews</h4>
 <p>Walton has talked about the music in interviews across podcasts and outlets. A selection is linked below, with the full index at <a href="https://lukefwalton.com/interviews/">All interviews</a>.</p>
 <p>·<a href="https://lukefwalton.com/interviews/">all interviews</a></p>
-Photos
+<h4>Photos</h4>
 <p>These photos are here for press use, since a plain search for "Luke Walton" mostly turns up the NBA coach. They cover the 91X studio, <a href="#egofm">egoFM</a>, <a href="with/okame.html">OKAME</a>, <a href="with/chai.html">CHAI</a>, and more from the catalog. The full set, newest first, is the <a href="gallery.html">photo archive</a>. FEiN has its own <a href="music/fein.html#photos">sample</a>.</p>
 <p>More photos are on Instagram at @scoobertdoobert.pizza, including one with the Heart Attack opening theme single.</p>
-NAMM
+<h4>NAMM</h4>
 <p>. The first day, the job, and the coverage are on that page. The columns are on <a href="https://lukefwalton.com/writing/#trade">Writing</a>.</p>
-Thornton School of Music
+<h4>Thornton School of Music</h4>
 <p>Luke F. Walton graduated from the Thornton School of Music in 2013, with a B.M. in Popular Music. He was in the inaugural class. The school’s coverage of those years is on that page. Checkpoint Six was a 2011 band with <a href="with/rob-nagelhout.html">Rob Nagelhout</a> and <a href="with/aj-novak.html">A.J. Novak</a>: one show, four songs, nothing released. The note is in the <a href="catalog.html">catalog</a>.</p>
-FEiN
+<h4>FEiN</h4>
 <p>FEiN is Walton and Brandon Woodward's alternative-pop duo, formed at the Thornton School of Music, which Luke F. Walton graduated from. A new 13-song LP will be released in 2027, mixed by Walton and co-produced, written, and performed by Walton and Woodward. <a href="https://jettgalindo.com/">Jett Galindo</a> is mastering it. The record, history, and photos are on the <a href="music/fein.html">FEiN hub</a>.</p>
-The Luke Walton Band
+<h4>The Luke Walton Band</h4>
 <p><a href="../albums/goodbye-hello.html">The Luke Walton Band</a>, his San Diego group, which released <em>Goodbye/Hello</em> in 2010. He had graduated from <a href="music/la-costa-canyon.html">La Costa Canyon High School</a> in January 2009. The school bands are on that page. The later story is in the <a href="catalog.html#luke-walton-band">catalog</a>.</p>
-Exist Elsewhere
+<h4>Exist Elsewhere</h4>
 <p>. The EP, the Macworld win, and the lineup that followed are on that page.</p>
-Apology by Plato
+<h4>Apology by Plato</h4>
 <p>Credited to Scoobert Doobert, he produced and narrated an audiobook of Plato's <em>Apology</em> (2023, published by Beformer), the first in the series <em>Plato's Dialogues as Read by Scoobert Doobert</em>: the full text, read straight, with his own reflections at the end. It is listed in the <a href="catalog.html#other-works">catalog</a> and at <a href="https://www.barnesandnoble.com/w/apology-by-plato-scoobert-doobert/1144186547">Barnes &amp; Noble</a>.</p>
 <p>All uploads·MUSiAN (Apple Podcasts)·MUSiAN playlist· ( tracks)</p>
 <p>Six Months to Make It ()</p>
