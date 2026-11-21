@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Apps</h3>
 <p>Luke F. Walton designed these. Surmado Scout is on the App Store and Google Play. Stop Political Spam Texts, A New Word Every Day, and Convert Recipe to Grocery List are free on the App Store. The independent apps run entirely on the device. Scout is the flagship agent for his company, <a href="https://www.surmado.com/">Surmado</a>.</p>
 <section>

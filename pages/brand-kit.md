@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Brand kit</h3>
 <p>Marks, colors, and type. The palette is built from traditional Japanese colors: woodblock blues, pigment greens, earth-toned accents.</p>
 <p><a href="#logos">Logos</a>·<a href="#colors">Colors</a>·<a href="#type">Type</a></p>
@@ -53,7 +52,6 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <p>App chrome, controls, onboarding, and numbers.</p>
 <p>Japanese (<a href="jp.html">/jp</a>) pairs <b>Noto Serif JP</b> with Literata.</p>
 </section>
-<p>Full spec and tokens: the design system's STYLE-GUIDE.md.</p>
 
 ## Record
 

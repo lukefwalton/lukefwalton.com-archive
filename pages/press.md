@@ -19,7 +19,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Press</h3>
 <p>This is what has been written about Luke F. Walton and Scoobert Doobert: interviews, commercial placements, production credits, and press coverage.</p>
 <section>

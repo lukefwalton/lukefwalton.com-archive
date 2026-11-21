@@ -48,7 +48,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 <h4>Selected creative work</h4>
 <p>The full record: <a href="music.html">Music</a> · <a href="catalog.html">Catalog</a> · <a href="press.html">Press and credits</a> · <a href="love-music-more.html">Love Music More</a>.</p>
 </section>
-<p>The argument these papers make is at <a href="research.html">Research</a>. Peer-reviewed publication, when there is any, is listed at <a href="https://lukefwalton.com/publications/">Publications</a>.</p>
+<p>The argument these papers make is at <a href="research.html">Research</a>. Peer-reviewed publication is listed at <a href="https://lukefwalton.com/publications/">Publications</a>.</p>
 
 ## Record
 

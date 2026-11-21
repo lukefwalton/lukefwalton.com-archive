@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Love Music More</h3>
 <p>A newsletter and podcast hosted by <a href="home.html">Luke F. Walton</a>. Co-owned with and produced by <a href="https://beformer.co/">Beformer</a>. New episodes Tuesdays; the newsletter and deeper dives on <a href="https://lovemusicmore.substack.com/">Substack</a>.</p>
 Listen &amp; subscribe

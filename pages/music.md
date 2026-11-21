@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Music</h3>
 <p><strong>Luke F. Walton is a multi-instrumentalist, producer, mixer, and recording engineer.</strong> <a href="music/scoobert-doobert.html">Scoobert Doobert</a> is his primary music project. He is not the NBA coach.</p>
 <section>

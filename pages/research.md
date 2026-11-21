@@ -16,16 +16,15 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Research</h3>
-<p>ask who answers for a decision an AI shaped, and whether an answer engine's verdict has an owner. The other papers are preprints, not yet journal publications, with more under review. The <a href="cv.html">CV</a> keeps the full record.</p>
+<p>ask who answers for a decision an AI shaped, and whether an answer engine's verdict has an owner. The other papers are preprints, not yet journal publications, with more under review.</p>
 <section>
 <h4>Philosophy</h4>
 <p>A preprint on parts and wholes.</p>
 </section>
 <section>
 <h4>Answerability and Authored AI Systems</h4>
-<p>These papers ask who answers for a decision an AI shaped. The other two are preprints, not yet journal publications. Each has a site page; DOI records are linked where they exist. The full list, including manuscripts at journals, is on the <a href="cv.html">CV</a>.</p>
+<p>These papers ask who answers for a decision an AI shaped. The other two are preprints, not yet journal publications. Each has a site page; DOI records are linked where they exist. Manuscripts at journals are on the <a href="cv.html">CV</a>.</p>
 <section>
 <h4>Reading order</h4>
 </section>

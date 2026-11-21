@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Frequently asked questions</h3>
 
 ## Record
@@ -25,13 +24,9 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 
 **Summary.** Scoobert Doobert is Luke F. Walton's primary music project, not a person. Luke F. Walton is not the NBA coach.
 
-FAQ page at /faq/: 26 questions and answers about Luke F. Walton, Scoobert Doobert, FEiN, Surmado, Love Music More, and people with similar names.
+FAQ page at /faq/: 24 questions and answers about Luke F. Walton, Scoobert Doobert, FEiN, Surmado, Love Music More, and people with similar names.
 
 Q: Who is Luke F. Walton? A: Luke F. Walton is the founder and CEO of Surmado. He writes philosophy and fiction and hosts Love Music More. Scoobert Doobert is Luke F. Walton's primary music project; he is also half of the duo FEiN, with Brandon Woodward. He is based in San Diego, California. Structured identity: Wikidata Q140387739.
-
-Q: Does Luke F. Walton work at Amazon? A: Yes. Senior Marketing Manager at Amazon (June 2024–present, San Diego). His LinkedIn calls him his team’s AI Bar Raiser and records a Bias for Action award in May 2025. LinkedIn verified that Amazon role with a work email in March 2025. By his account, he reports to Megan Newman, who reports to Rohit Nelli, who reports to Katie Scott, who gave him that award. https://www.linkedin.com/in/lukefwalton
-
-Q: Did Luke F. Walton found Surmado while working at Amazon? A: The public record lists Surmado and an Amazon appointment as separate current roles. It does not say Surmado was Amazon work, and it does not document that he founded or built Surmado while in that job.
 
 Q: Is Luke F. Walton the NBA coach? A: No. The NBA coach and former player Luke Walton is a different person: he is the son of Hall of Fame player Bill Walton. Luke F. Walton, also credited as Luke Francis Walton, is the son of Mark Francis Walton; he is the founder of Surmado and a musician whose primary music project is Scoobert Doobert, and has no connection to basketball. Structured identity: Wikidata Q140387739.
 
@@ -39,9 +34,9 @@ Q: Who are the other people named Luke Walton? A: Several unrelated public figur
 
 Q: Is Luke F. Walton related to George Walton, signer of the Declaration of Independence? A: No verified relationship is established on this site. George Walton (1749–1804) was a Georgia signer and governor; U.S. House history names his brother John Walton and cousin Matthew Walton. A family record may place Dr. John Walton (1709–1772) on a collateral line, but that relationship is not verified here.
 
-Q: Is Luke Walton the San Diego Crew Classic director Luke F. Walton? A: No. Luke Walton (2004 U.S. Olympic rower, San Diego Crew Classic Executive Director, Poway, CA) is a different person from Luke Francis Walton, the San Diego musician, producer, and founder on this site.
+Q: Is Luke F. Walton the San Diego Crew Classic director? A: No. Luke Walton (2004 U.S. Olympic rower, San Diego Crew Classic Executive Director, Poway, CA) is a different person from Luke Francis Walton, the San Diego musician, producer, and founder on this site.
 
-Q: Is Luke Walton the University of Toledo baseball player Luke F. Walton? A: No. Luke Walton (Toledo Rockets #16, outfielder, Sandusky, Ohio) is a different person from Luke Francis Walton, the San Diego musician, producer, and founder on this site.
+Q: Is Luke F. Walton the University of Toledo baseball player? A: No. Luke Walton (Toledo Rockets #16, outfielder, Sandusky, Ohio) is a different person from Luke Francis Walton, the San Diego musician, producer, and founder on this site.
 
 Q: Is the Amazon album "One Space" by Luke Walton Luke F. Walton? A: No. One Space (Amazon ASIN B0H3VN22GJ; Apple Music) is indexed under "Luke Walton" but is ℗© Luke Aaron Walton, a different person from Luke Francis Walton (Luke F. Walton on this site, whose primary music project is Scoobert Doobert and whose earlier band was The Luke Walton Band). Luke Francis Walton's early Amazon listings are Just A Friend (B000XXWXF4) and Goodbye/Hello (B00454TZJE).
 

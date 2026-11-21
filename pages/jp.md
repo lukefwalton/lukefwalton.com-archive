@@ -15,7 +15,7 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">English (Luke F. Walton)</a>
+<a href="home.html">English</a>
 <h3>日本語</h3>
 <p>🌐 日本語 · <a href="about.html">Read this page in English →</a></p>
 <p>このページは、英語版 <a href="about.html">About（経歴）</a> に対応する日本語版で、ルーク・F・ウォルトン（Luke&nbsp;F.&nbsp;Walton）の経歴と仕事を日本語でご紹介します。日本での活動を中心にまとめています。</p>

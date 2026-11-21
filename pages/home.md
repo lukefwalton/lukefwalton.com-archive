@@ -32,6 +32,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 </section>
 <section>
 <a href="music.html">Music</a>
+<p><a href="music/scoobert-doobert.html">Scoobert Doobert</a> is Luke F. Walton's primary music project. <a href="music/fein.html">FEiN</a> is his duo with Brandon Woodward.</p>
 </section>
 Elsewhere
 <p><a href="https://www.linkedin.com/in/lukefwalton">LinkedIn</a>·<a href="https://orcid.org/0009-0005-9263-1954">ORCID</a>·Google Scholar·<a href="https://github.com/lukefwalton">GitHub</a>·<a href="https://philpeople.org/profiles/luke-f-walton">PhilPeople</a></p>

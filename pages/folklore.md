@@ -19,7 +19,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Folklore</h3>
 <p>Odd and funny things that are true and fit nowhere else on the site. Coverage is on <a href="press.html">Press</a>.</p>
 <h4>Fictional websites</h4>

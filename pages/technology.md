@@ -16,7 +16,6 @@ recordIds:
 
 _Static prose extracted from the page source; dynamic parts omitted. See the record below._
 
-<a href="home.html">Luke F. Walton</a>
 <h3>Technology</h3>
 <p>Luke F. Walton founded <a href="https://www.surmado.com/">Surmado</a>, a technology company for small business.</p>
 <section>
@@ -24,7 +23,7 @@ _Static prose extracted from the page source; dynamic parts omitted. See the rec
 </section>
 <section>
 <h4>Answer Engine</h4>
-<p>A small, open reference implementation of citation-grounded AI answers, built for engineers who want the design contract running in code. It asks whether an automated system can produce source-grounded answers inside a retrieval and refusal policy a person wrote.</p>
+<p>A small, open reference implementation of citation-grounded AI answers, built for engineers who want the design contract running in code. It asks whether an automated system can produce source-grounded answers inside a retrieval and refusal policy a person wrote. Ask the Archive is the live deployment of Answer Engine on this site.</p>
 <p><a href="../writing/answer-engine.html">Answer Engine</a>·<a href="https://lukefwalton.com/ask/about/">Ask the Archive</a>·<a href="https://lukefwalton.com/ask/api/">API</a>·GitHub·<a href="research.html#in-practice">Research in practice</a></p>
 </section>
 <section>

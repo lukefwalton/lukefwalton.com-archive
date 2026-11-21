@@ -169,7 +169,7 @@ Jump to section
 
 **Summary.** Play counts on the catalog are a partial reading: Scoobert Doobert and FEiN on Spotify, plus the largest matched YouTube videos for those songs. Apple Music is not in the sum.
 
-Play counts are a partial reading, added by counter, not by page. Scoobert Doobert on Spotify: 18,679,418. FEiN on Spotify: 23,861,526. YouTube, the largest matched videos for those songs: 4,656,478. Together that is 47,197,422. Apple Music is not in this sum, and neither is the rest of YouTube. Plays on other artists' releases, and his YouTube-only uploads, are separate: 8,285,127. SoundCloud is separate: 1,796,440. The numbers move. A blank Plays cell is a blank. The same figure on a single and an album is one count.
+Play counts are a partial reading, added by counter, not by page. Scoobert Doobert on Spotify: 18,679,418. FEiN on Spotify: 23,861,526. YouTube, the largest matched videos for those songs: 4,656,478. Together that is 47,197,422 on his own releases. Plays on other artists' releases, and his YouTube-only uploads, add 8,285,127, for 55,482,549 counted so far. Apple Music is not in this sum, and neither is the rest of YouTube. SoundCloud is separate: 1,796,440. The numbers move. A blank Plays cell is a blank. The same figure on a single and an album is one count.
 
 - Record id: page:catalog
 
